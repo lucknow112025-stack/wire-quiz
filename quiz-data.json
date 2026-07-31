@@ -1,17 +1,154 @@
 {
-  "generatedAt": "2026-07-31T00:00:00.000Z",
+  "generatedAt": "2026-07-31T18:21:57.008Z",
   "source": "Google News (India edition)",
-  "headlineCount": 3,
+  "headlineCount": 38,
   "headlines": [
-    "Seed edition — waiting for the first GitHub Actions run",
-    "Push this repo, enable Pages, then run the workflow once",
-    "This file is overwritten automatically every 15 minutes"
+    "Spain’s PM visits Ceuta after 57 migrants die breaching border from Morocco",
+    "Protesters Branded Enemies: India Slams Pak For Crackdown On Civilians In PoK",
+    "Meta India head named in police case over Facebook videos targeting Modi",
+    "Breaking | Tahir Hussain, Others Get Life Imprisonment For Murder Of IB Staffer Ankit Sharma During Delhi ...",
+    "At least one non-local labourer killed, another injured in terrorist shooting in J&K’s Kulgam",
+    "'Abuses never solve anything': PM Modi posts late night video amid row over Noida woman's remarks",
+    "PM Modi, UK PM Andy Burnham discuss AI, defence, Strait of Hormuz in first phone call",
+    "'Avoid attacks on commercial shipping': Jaishankar conveys India's concern in call with Iran FM Abbas Araghchi | India News",
+    "Who is Ruchika Singh? 25-year-old Noida woman booked over 'abusive' remarks against PM Modi during Jantar...",
+    "Taslima Nasrin: The exiled Bangladeshi author who returns to Kolkata after 19 years",
+    "Israel must approve Trump agreement before Hamas will implement, says Hamas official",
+    "Kuwait Armed Forces Destroy Hostile Drones in Early-Morning Iranian Attack",
+    "Trump mulling $1,00,000 fee for students keen to work in U.S. after graduation: report",
+    "France, Spain Eye Wildfire Reprieve As Other Blazes Start Up In Europe",
+    "IOCL posts consolidated net loss of Rs 1,141 crore in Q1FY27 on lower marketing margins",
+    "‘Samudra Manthan’: Cabinet approves Rs 84,084 cr scheme for oil & gas exploration - top things to know",
+    "Maruti Suzuki Q1 Results: Profit Falls 11% As Material Cost Surges; Margins Shrink",
+    "M&M stock jumps 3% as brokerages stay bullish after Q1; CLSA names it top auto pick, Nomura sees...",
+    "I use ChatGPT Pro everyday, and these 3 features keep me subscribed",
+    "2027 iPhone 18 rumors: Smaller Dynamic Island, 12GB or 9GB RAM, 2nm A20 chip",
+    "Samsung Galaxy F70 Pro to launch next week, key features and pricing revealed - GSMArena.com news",
+    "New Google Pixel 11 Images Tease 30x Zoom, Gemini AI, and Camera Samples",
+    "Stars Rock The Red Carpet At 5th Blue Dragon Series Awards",
+    "Is Jacob Batalon married? 'Spider-Man' actor confirms wedding to Veronica Leahov",
+    "Spider-Man Brand New Day Box Office Collection Day 1 Updates: Tom Holland-starrer becomes biggest Spider-Man opener in India, crosses Rs 40 cr mark on Friday"
   ],
   "quiz": [
     {
-      "blanked": "This is a ______ edition — the live quiz appears after the first Actions run",
-      "answer": "seed",
-      "options": ["seed", "sample", "draft", "test"]
+      "blanked": "Maruti ______ Q1 Results: Profit Falls 11% As Material Cost Surges; Margins Shrink",
+      "answer": "Suzuki",
+      "options": [
+        "Series",
+        "Spider-Man",
+        "Suzuki",
+        "Destroy"
+      ]
+    },
+    {
+      "blanked": "'Abuses never solve anything': PM ______ posts late night video amid row over Noida woman's remarks",
+      "answer": "Modi",
+      "options": [
+        "Risk",
+        "Sharma",
+        "Modi",
+        "Life"
+      ]
+    },
+    {
+      "blanked": "80-year-old mystery: ______ bomb debris reveals a never-before-seen metallic alloy",
+      "answer": "Hiroshima",
+      "options": [
+        "Bangladeshi",
+        "July",
+        "11%",
+        "Hiroshima"
+      ]
+    },
+    {
+      "blanked": "Pathirage challenges Chopra-Nadeem javelin rivalry in ______ final",
+      "answer": "Commonwealth",
+      "options": [
+        "Civilians",
+        "Yeh",
+        "Awards",
+        "Commonwealth"
+      ]
+    },
+    {
+      "blanked": "Meta ______ head named in police case over Facebook videos targeting Modi",
+      "answer": "India",
+      "options": [
+        "India",
+        "Blazes",
+        "Box",
+        "Tahir"
+      ]
+    },
+    {
+      "blanked": "IOCL posts consolidated net loss of Rs ______ crore in Q1FY27 on lower marketing margins",
+      "answer": "1141",
+      "options": [
+        "Follow",
+        "1141",
+        "Awards",
+        "Hepatitis"
+      ]
+    },
+    {
+      "blanked": "Is Jacob Batalon married? 'Spider-Man' actor confirms wedding to Veronica ______",
+      "answer": "Leahov",
+      "options": [
+        "Attack",
+        "Images",
+        "Leahov",
+        "Smaller"
+      ]
+    },
+    {
+      "blanked": "Lung cancer accounts for 6% of cancer cases in ______ tobacco remains biggest risk factor",
+      "answer": "Karnataka",
+      "options": [
+        "Sharma",
+        "Brand",
+        "Karnataka",
+        "Shrink"
+      ]
+    },
+    {
+      "blanked": "'Avoid attacks on commercial shipping': ______ conveys India's concern in call with Iran FM Abbas Araghchi | India News",
+      "answer": "Jaishankar",
+      "options": [
+        "Medication",
+        "Life",
+        "Jaishankar",
+        "Strait"
+      ]
+    },
+    {
+      "blanked": "Spain’s PM visits Ceuta after 57 migrants die breaching border from ______",
+      "answer": "Morocco",
+      "options": [
+        "Shrink",
+        "Morocco",
+        "Adherence",
+        "SpaceX"
+      ]
+    },
+    {
+      "blanked": "Trump mulling ______ fee for students keen to work in U.S. after graduation: report",
+      "answer": "100000",
+      "options": [
+        "Preeti",
+        "Heres",
+        "Strait",
+        "100000"
+      ]
+    },
+    {
+      "blanked": "World Hepatitis ______ 2026: Latest publications and insights from WHO, ECDC and partners",
+      "answer": "Day",
+      "options": [
+        "SPACEWALK",
+        "Panghal",
+        "Day",
+        "Aug"
+      ]
     }
   ]
 }
