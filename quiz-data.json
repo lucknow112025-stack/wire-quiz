@@ -1,0 +1,17 @@
+{
+  "generatedAt": "2026-07-31T00:00:00.000Z",
+  "source": "Google News (India edition)",
+  "headlineCount": 3,
+  "headlines": [
+    "Seed edition — waiting for the first GitHub Actions run",
+    "Push this repo, enable Pages, then run the workflow once",
+    "This file is overwritten automatically every 15 minutes"
+  ],
+  "quiz": [
+    {
+      "blanked": "This is a ______ edition — the live quiz appears after the first Actions run",
+      "answer": "seed",
+      "options": ["seed", "sample", "draft", "test"]
+    }
+  ]
+}

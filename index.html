@@ -1,0 +1,608 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>WIRE QUIZ — Live Headline Terminal</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Courier+Prime:wght@400;700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --ink:#0B1220;
+    --ink-2:#0F1826;
+    --paper:#F0EDE4;
+    --amber:#E8A33D;
+    --amber-dim:#8a651f;
+    --wire-red:#C0392B;
+    --wire-green:#4C9A6A;
+    --slate:#7C8798;
+    --line: rgba(232,163,61,0.25);
+    --mono: 'Courier Prime', 'Courier New', monospace;
+    --sans: 'Inter', system-ui, sans-serif;
+  }
+  *{box-sizing:border-box;}
+  html,body{margin:0;padding:0;}
+  body{
+    background:
+      radial-gradient(ellipse at top, #101c2e 0%, var(--ink) 55%),
+      var(--ink);
+    color:var(--paper);
+    font-family:var(--sans);
+    min-height:100vh;
+    display:flex;
+    flex-direction:column;
+    overflow-x:hidden;
+  }
+
+  /* scanline overlay */
+  body::before{
+    content:"";
+    position:fixed; inset:0;
+    pointer-events:none;
+    background:repeating-linear-gradient(
+      to bottom,
+      rgba(255,255,255,0.02) 0px,
+      rgba(255,255,255,0.02) 1px,
+      transparent 1px,
+      transparent 3px
+    );
+    z-index:50;
+    mix-blend-mode:overlay;
+  }
+
+  /* ---- Ticker ---- */
+  .ticker-bar{
+    background:#050a12;
+    border-bottom:1px solid var(--line);
+    display:flex;
+    align-items:center;
+    height:38px;
+    overflow:hidden;
+    position:relative;
+    flex-shrink:0;
+  }
+  .live-tag{
+    flex-shrink:0;
+    display:flex;
+    align-items:center;
+    gap:6px;
+    background:var(--wire-red);
+    color:#fff;
+    font-family:var(--sans);
+    font-weight:700;
+    font-size:11px;
+    letter-spacing:0.12em;
+    padding:0 14px;
+    height:100%;
+  }
+  .live-dot{
+    width:7px;height:7px;border-radius:50%;
+    background:#fff;
+    animation:blink 1.4s infinite;
+  }
+  @keyframes blink{0%,100%{opacity:1;}50%{opacity:0.25;}}
+  .ticker-track-wrap{
+    flex:1;
+    overflow:hidden;
+    white-space:nowrap;
+    position:relative;
+  }
+  .ticker-track{
+    display:inline-block;
+    white-space:nowrap;
+    font-family:var(--mono);
+    font-size:12.5px;
+    color:var(--amber);
+    padding-left:100%;
+    animation:scroll-left 45s linear infinite;
+  }
+  @keyframes scroll-left{
+    0%{transform:translateX(0);}
+    100%{transform:translateX(-100%);}
+  }
+  .ticker-track span{margin-right:48px; color:var(--slate);}
+  .ticker-track span b{color:var(--amber); font-weight:400;}
+
+  /* ---- Header ---- */
+  header{
+    padding:28px 20px 14px;
+    text-align:center;
+    border-bottom:1px solid var(--line);
+  }
+  .masthead{
+    font-family:var(--mono);
+    font-weight:700;
+    font-size:clamp(28px,6vw,44px);
+    letter-spacing:0.06em;
+    color:var(--paper);
+    margin:0;
+    text-shadow:0 0 18px rgba(232,163,61,0.15);
+  }
+  .masthead span{color:var(--amber);}
+  .sub-deck{
+    font-family:var(--sans);
+    font-size:11px;
+    letter-spacing:0.18em;
+    text-transform:uppercase;
+    color:var(--slate);
+    margin-top:6px;
+  }
+  .edition-row{
+    display:flex;
+    justify-content:center;
+    gap:18px;
+    margin-top:14px;
+    flex-wrap:wrap;
+    font-family:var(--mono);
+    font-size:11.5px;
+    color:var(--slate);
+  }
+  .edition-row .divider{color:var(--amber-dim);}
+  #clock{color:var(--amber);}
+
+  /* ---- Main ---- */
+  main{
+    flex:1;
+    display:flex;
+    align-items:flex-start;
+    justify-content:center;
+    padding:34px 16px 60px;
+  }
+  .terminal{
+    width:100%;
+    max-width:620px;
+    background:linear-gradient(180deg, #0d1725, #0a121e);
+    border:1px solid var(--line);
+    border-radius:4px;
+    box-shadow:0 0 0 1px rgba(0,0,0,0.4), 0 20px 60px rgba(0,0,0,0.5), inset 0 0 40px rgba(232,163,61,0.03);
+    position:relative;
+  }
+  .terminal-topbar{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    padding:10px 16px;
+    border-bottom:1px dashed var(--line);
+    font-family:var(--mono);
+    font-size:11px;
+    color:var(--slate);
+    letter-spacing:0.08em;
+  }
+  .press-clock{color:var(--amber);}
+  .terminal-body{padding:26px 24px 24px;}
+
+  .status-line{
+    font-family:var(--mono);
+    font-size:12px;
+    color:var(--slate);
+    min-height:18px;
+    margin-bottom:16px;
+  }
+  .status-line.err{color:var(--wire-red);}
+
+  .q-counter{
+    font-family:var(--mono);
+    font-size:12px;
+    color:var(--amber-dim);
+    letter-spacing:0.1em;
+    margin-bottom:10px;
+  }
+  .q-eyebrow{
+    font-family:var(--sans);
+    font-size:11px;
+    text-transform:uppercase;
+    letter-spacing:0.16em;
+    color:var(--wire-red);
+    font-weight:700;
+    margin-bottom:10px;
+  }
+  .q-text{
+    font-family:var(--mono);
+    font-size:clamp(17px,3.4vw,21px);
+    line-height:1.55;
+    color:var(--paper);
+    min-height:90px;
+    border-left:3px solid var(--amber);
+    padding-left:14px;
+    white-space:pre-wrap;
+  }
+  .q-text .cursor{
+    display:inline-block;
+    width:9px;
+    background:var(--amber);
+    animation:blink 0.9s step-end infinite;
+    margin-left:1px;
+  }
+
+  .options{
+    display:grid;
+    gap:10px;
+    margin-top:22px;
+  }
+  .opt{
+    text-align:left;
+    background:#0b1420;
+    border:1px solid var(--line);
+    color:var(--paper);
+    font-family:var(--mono);
+    font-size:14.5px;
+    padding:12px 14px;
+    border-radius:3px;
+    cursor:pointer;
+    transition:border-color .15s, background .15s, transform .1s;
+    display:flex;
+    gap:10px;
+  }
+  .opt .idx{color:var(--amber-dim);}
+  .opt:hover:not(:disabled){border-color:var(--amber); background:#0f1c2c;}
+  .opt:active:not(:disabled){transform:scale(0.995);}
+  .opt:disabled{cursor:default;}
+  .opt.correct{border-color:var(--wire-green); background:rgba(76,154,106,0.12); color:#dff3e6;}
+  .opt.wrong{border-color:var(--wire-red); background:rgba(192,57,43,0.12); color:#f7dcd8;}
+  .opt.dim{opacity:0.45;}
+
+  .result-line{
+    font-family:var(--mono);
+    font-size:13px;
+    color:var(--slate);
+    margin-top:16px;
+    min-height:18px;
+  }
+  .result-line.good{color:var(--wire-green);}
+  .result-line.bad{color:var(--wire-red);}
+
+  .controls{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    margin-top:22px;
+    padding-top:16px;
+    border-top:1px dashed var(--line);
+    font-family:var(--sans);
+  }
+  .score{
+    font-family:var(--mono);
+    font-size:12.5px;
+    color:var(--amber);
+  }
+  .btn{
+    background:transparent;
+    border:1px solid var(--amber-dim);
+    color:var(--amber);
+    font-family:var(--sans);
+    font-weight:600;
+    font-size:12.5px;
+    letter-spacing:0.04em;
+    padding:9px 16px;
+    border-radius:3px;
+    cursor:pointer;
+    transition:all .15s;
+  }
+  .btn:hover:not(:disabled){background:var(--amber); color:#1a1206; border-color:var(--amber);}
+  .btn:disabled{opacity:0.35; cursor:default;}
+
+  footer{
+    text-align:center;
+    font-family:var(--mono);
+    font-size:11px;
+    color:var(--slate);
+    padding:0 20px 30px;
+  }
+  footer .refresh-note{color:var(--amber-dim);}
+
+  @media (prefers-reduced-motion: reduce){
+    .live-dot, .q-text .cursor, .ticker-track{animation:none;}
+  }
+
+  @media (max-width:480px){
+    .terminal-body{padding:20px 16px 18px;}
+    .edition-row{gap:10px;}
+  }
+</style>
+</head>
+<body>
+
+  <div class="ticker-bar">
+    <div class="live-tag"><span class="live-dot"></span>LIVE WIRE</div>
+    <div class="ticker-track-wrap">
+      <div class="ticker-track" id="tickerTrack">Connecting to wire service…</div>
+    </div>
+  </div>
+
+  <header>
+    <h1 class="masthead">WIRE<span>QUIZ</span></h1>
+    <div class="sub-deck">A quiz that writes itself from today's headlines</div>
+    <div class="edition-row">
+      <span id="editionDate">— — —</span>
+      <span class="divider">|</span>
+      <span>Next print: <span id="clock">--:--</span></span>
+      <span class="divider">|</span>
+      <span id="itemCount">0 dispatches on file</span>
+    </div>
+  </header>
+
+  <main>
+    <div class="terminal">
+      <div class="terminal-topbar">
+        <span>TERMINAL // NEWS-DERIVED</span>
+        <span class="press-clock" id="pressClock">00:00:00</span>
+      </div>
+      <div class="terminal-body">
+        <div class="status-line" id="statusLine">Dialing wire service…</div>
+
+        <div class="q-counter" id="qCounter">QUESTION — / —</div>
+        <div class="q-eyebrow">Fill the blank in today's real headline</div>
+        <div class="q-text" id="qText"><span class="cursor"></span></div>
+
+        <div class="options" id="options"></div>
+
+        <div class="result-line" id="resultLine"></div>
+
+        <div class="controls">
+          <div class="score">SCORE <span id="scoreText">0 / 0</span></div>
+          <button class="btn" id="nextBtn" disabled>NEXT DISPATCH →</button>
+        </div>
+      </div>
+    </div>
+  </main>
+
+  <footer>
+    <div>Headlines pulled from Google News (India edition). A scheduled GitHub Actions job regenerates the quiz every 15 minutes on GitHub's own servers.</div>
+    <div class="refresh-note">Updates continue even if no one has this page open — the browser just polls the latest generated edition.</div>
+  </footer>
+
+<script>
+(function(){
+  "use strict";
+
+  const DATA_URL = "quiz-data.json"; // written by GitHub Actions every 15 min
+  const RSS_URL = "https://news.google.com/rss?hl=en-IN&gl=IN&ceid=IN:en";
+  const GATEWAY = "https://api.rss2json.com/v1/api.json?rss_url=" + encodeURIComponent(RSS_URL);
+  const REFRESH_MS = 15 * 60 * 1000; // 15 minutes
+  const CLOCK_TICK_MS = 1000;
+
+  const STOPWORDS = new Set(["The","This","That","These","Those","A","An","Is","Are","Was","Were","In","On","At","For","Of","To","And","But","With","As","By","From","After","Before","Over","Under","New","Latest","Says","Say","Said","Will","Its","His","Her","Their","Amid","Amidst"]);
+
+  let headlines = [];      // raw titles
+  let quiz = [];            // generated questions
+  let qi = -1;               // current question index
+  let score = 0, answered = 0;
+  let nextRefreshAt = Date.now() + REFRESH_MS;
+
+  const el = {
+    ticker: document.getElementById('tickerTrack'),
+    status: document.getElementById('statusLine'),
+    qCounter: document.getElementById('qCounter'),
+    qText: document.getElementById('qText'),
+    options: document.getElementById('options'),
+    result: document.getElementById('resultLine'),
+    score: document.getElementById('scoreText'),
+    next: document.getElementById('nextBtn'),
+    clock: document.getElementById('clock'),
+    pressClock: document.getElementById('pressClock'),
+    editionDate: document.getElementById('editionDate'),
+    itemCount: document.getElementById('itemCount'),
+  };
+
+  function extractCandidates(title){
+    // words that look like proper nouns or numbers, not sentence-initial
+    const words = title.split(/\s+/);
+    const out = [];
+    for(let i=1;i<words.length;i++){
+      let w = words[i].replace(/[^\w.%-]/g,'');
+      if(!w) continue;
+      const isNumber = /^\d[\d,.]*%?$/.test(w);
+      const isProper = /^[A-Z][a-zA-Z'-]{2,}$/.test(w) && !STOPWORDS.has(w);
+      if((isNumber || isProper) && w.length>=3){
+        out.push({word:w, index:i, raw:words[i]});
+      }
+    }
+    return out;
+  }
+
+  function buildQuiz(items){
+    const titles = items.map(it => (it.title||"").trim()).filter(Boolean);
+    // pool of all candidate tokens across all headlines, for decoys
+    const allTokens = new Set();
+    const perHeadline = titles.map(t => extractCandidates(t));
+    perHeadline.forEach(c => c.forEach(tok => allTokens.add(tok.word)));
+
+    const questions = [];
+    titles.forEach((title, idx) => {
+      const cands = perHeadline[idx];
+      if(cands.length === 0) return;
+      const pick = cands[Math.floor(Math.random()*cands.length)];
+      const words = title.split(/\s+/);
+      const blanked = words.map((w,i) => i===pick.index ? "______" : w).join(" ");
+
+      // decoys: other tokens, not equal to answer, similar-ish
+      const decoyPool = Array.from(allTokens).filter(t => t.toLowerCase() !== pick.word.toLowerCase());
+      // shuffle
+      for(let i=decoyPool.length-1;i>0;i--){
+        const j = Math.floor(Math.random()*(i+1));
+        [decoyPool[i],decoyPool[j]] = [decoyPool[j],decoyPool[i]];
+      }
+      const decoys = decoyPool.slice(0,3);
+      if(decoys.length < 3) return; // not enough material, skip
+
+      const options = [pick.word, ...decoys];
+      // shuffle options
+      for(let i=options.length-1;i>0;i--){
+        const j = Math.floor(Math.random()*(i+1));
+        [options[i],options[j]] = [options[j],options[i]];
+      }
+
+      questions.push({
+        blanked,
+        answer: pick.word,
+        options
+      });
+    });
+
+    // shuffle question order, cap to 12
+    for(let i=questions.length-1;i>0;i--){
+      const j = Math.floor(Math.random()*(i+1));
+      [questions[i],questions[j]] = [questions[j],questions[i]];
+    }
+    return questions.slice(0,12);
+  }
+
+  function typeText(node, text, speed){
+    return new Promise(resolve=>{
+      node.innerHTML = "";
+      const cursor = document.createElement('span');
+      cursor.className = 'cursor';
+      let i = 0;
+      const reduced = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+      if(reduced){ node.textContent = text; node.appendChild(cursor); resolve(); return; }
+      function step(){
+        node.textContent = text.slice(0,i);
+        node.appendChild(cursor);
+        i++;
+        if(i<=text.length){ setTimeout(step, speed); }
+        else resolve();
+      }
+      step();
+    });
+  }
+
+  function renderTicker(){
+    if(!headlines.length){ el.ticker.textContent = "No dispatches yet."; return; }
+    el.ticker.innerHTML = headlines.slice(0,18).map(h => `<span>» <b>WIRE</b> — ${escapeHtml(h)}</span>`).join("");
+  }
+
+  function escapeHtml(s){
+    return s.replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+  }
+
+  function showQuestion(i){
+    const q = quiz[i];
+    el.result.textContent = "";
+    el.result.className = "result-line";
+    el.next.disabled = true;
+    el.qCounter.textContent = `QUESTION ${i+1} — ${quiz.length}`;
+    typeText(el.qText, q.blanked, 14);
+    el.options.innerHTML = "";
+    q.options.forEach((opt, idx) => {
+      const b = document.createElement('button');
+      b.className = 'opt';
+      b.innerHTML = `<span class="idx">${String.fromCharCode(65+idx)}.</span> <span>${escapeHtml(opt)}</span>`;
+      b.addEventListener('click', () => selectAnswer(i, opt, b));
+      el.options.appendChild(b);
+    });
+  }
+
+  function selectAnswer(i, chosen, btnEl){
+    const q = quiz[i];
+    const buttons = Array.from(el.options.children);
+    buttons.forEach(b => b.disabled = true);
+    const correct = chosen.toLowerCase() === q.answer.toLowerCase();
+    buttons.forEach(b => {
+      const text = b.querySelector('span:nth-child(2)').textContent;
+      if(text.toLowerCase() === q.answer.toLowerCase()){ b.classList.add('correct'); }
+      else if(b === btnEl){ b.classList.add('wrong'); }
+      else { b.classList.add('dim'); }
+    });
+    answered++;
+    if(correct){
+      score++;
+      el.result.textContent = "✓ CONFIRMED — that's the word from the wire.";
+      el.result.className = "result-line good";
+    } else {
+      el.result.textContent = `✗ MISPRINT — the wire actually read "${q.answer}".`;
+      el.result.className = "result-line bad";
+    }
+    el.score.textContent = `${score} / ${answered}`;
+    el.next.disabled = (i+1 >= quiz.length);
+    if(i+1 < quiz.length){ el.next.disabled = false; }
+    else { el.next.textContent = "AWAITING NEXT EDITION"; }
+  }
+
+  el.next.addEventListener('click', () => {
+    if(qi+1 < quiz.length){
+      qi++;
+      showQuestion(qi);
+    }
+  });
+
+  function applyQuizPayload(built, headlineList, statusMsg){
+    headlines = headlineList;
+    renderTicker();
+    el.itemCount.textContent = `${headlines.length} dispatches on file`;
+    el.editionDate.textContent = new Date().toLocaleDateString(undefined,{day:'2-digit',month:'short',year:'numeric'});
+    quiz = built;
+    qi = 0; score = 0; answered = 0;
+    el.score.textContent = "0 / 0";
+    el.next.textContent = "NEXT DISPATCH →";
+    el.status.textContent = statusMsg;
+    el.status.classList.remove('err');
+    showQuestion(qi);
+  }
+
+  // Primary path: read the JSON that a GitHub Actions job regenerates every
+  // 15 minutes server-side, so the quiz is fresh even if this tab is closed.
+  async function loadServerData(){
+    const res = await fetch(DATA_URL + "?t=" + Date.now(), {cache:"no-store"});
+    if(!res.ok) throw new Error("HTTP " + res.status);
+    const data = await res.json();
+    if(!Array.isArray(data.quiz) || data.quiz.length === 0) throw new Error("bad payload");
+    applyQuizPayload(
+      data.quiz,
+      data.headlines || [],
+      `Edition generated ${new Date(data.generatedAt).toLocaleTimeString(undefined,{hour12:false})} — ${data.quiz.length} questions from ${data.headlineCount} live headlines.`
+    );
+    // schedule the next check just past the top of the next 15-min slot
+    nextRefreshAt = Date.now() + REFRESH_MS;
+  }
+
+  // Fallback path: fetch and build client-side, used only if quiz-data.json
+  // isn't reachable yet (e.g. first deploy before Actions has run once).
+  async function loadClientSide(){
+    const res = await fetch(GATEWAY, {cache:"no-store"});
+    if(!res.ok) throw new Error("HTTP " + res.status);
+    const data = await res.json();
+    if(data.status !== "ok" || !Array.isArray(data.items)) throw new Error("bad payload");
+    const built = buildQuiz(data.items);
+    if(built.length === 0) throw new Error("no quizzable material");
+    applyQuizPayload(
+      built,
+      data.items.map(it => (it.title||"").trim()).filter(Boolean),
+      `Live edition loaded client-side — ${built.length} questions generated from today's wire.`
+    );
+    nextRefreshAt = Date.now() + REFRESH_MS;
+  }
+
+  async function fetchAndBuild(isRefresh){
+    el.status.textContent = isRefresh ? "Refreshing wire feed…" : "Dialing wire service…";
+    el.status.classList.remove('err');
+    try{
+      await loadServerData();
+    }catch(serverErr){
+      try{
+        await loadClientSide();
+      }catch(clientErr){
+        el.status.textContent = "Wire connection failed (" + clientErr.message + "). Retrying shortly.";
+        el.status.classList.add('err');
+        nextRefreshAt = Date.now() + 60*1000; // retry sooner on failure
+      }
+    }
+  }
+
+  function tickClocks(){
+    const now = new Date();
+    el.pressClock.textContent = now.toLocaleTimeString(undefined,{hour12:false});
+    const msLeft = Math.max(0, nextRefreshAt - Date.now());
+    const mm = Math.floor(msLeft/60000);
+    const ss = Math.floor((msLeft%60000)/1000);
+    el.clock.textContent = `${String(mm).padStart(2,'0')}:${String(ss).padStart(2,'0')}`;
+    if(msLeft <= 0){
+      fetchAndBuild(true);
+    }
+  }
+
+  fetchAndBuild(false);
+  setInterval(tickClocks, CLOCK_TICK_MS);
+})();
+</script>
+</body>
+</html>
