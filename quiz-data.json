@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-01T15:42:30.791Z",
+  "generatedAt": "2026-08-01T20:02:27.388Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
     "Spain-Morocco border crisis: Death toll in Ceuta reaches 67",
     "Famed climber Purja confirmed dead as bodies recovered from Broad Peak",
-    "President Grants Assent To Amendment Enhancing Punishments For Unfair Means In Public Examinations",
-    "‘Modi ji, learn from Rahul’: Shehzad Poonawalla's sarcastic swipe over PM ‘not behaving like a proper dictator’ | Watch | India News",
+    "Lashkar Commander, Aide Likely Behind Migrants Killings In J&K",
+    "India's Modi says punishing student protesters will not resolve situation",
     "Centre releases Rs 1,09,019 crore tax devolution to states as advance instalment",
-    "Delhi 'Lakshmi Yojana' Portal Goes Live, 1,083 Women Register By Noon",
+    "'Disappointed with PM Modi': Shehzad Poonawalla’s sarcastic 'dictator' jibe at oppn after quitting BJP",
     "'Please be generous': CM Shivakumar urges PM Modi to help, save Karnataka",
     "PM Modi inaugurates Bhogapuram international airport, launches projects worth ₹17,900 crore in A.P. | Highlights",
-    "Youth May Mistake Freedom For Liberty To Do What One Wants: Ajit Doval",
-    "By Not Giving Reasons, Collegium Doing Disservice To Judges Doing Good Work : Justice Ujjal Bhuyan",
-    "West Asia war LIVE: Iran military accuses U.S. of 'escalating tensions' in region",
-    "US Makes Visa Bond Program Permanent For 50 Countries. Is India On The List?",
-    "Peru’s ex-president Humala released after conviction overturned",
-    "Russia's overnight ballistic missile and drone attack on Ukraine capital Kyiv kills 3",
-    "RBI forex swap window draws $40.82 billion till July 31, FCNR(B) deposits lead inflows",
-    "Hyundai Motor India’s sales rise 23% to 54,210 units in July",
-    "Tata Motors PV Sales July 2026 at 62k - EVs Cross 15k For First Time",
-    "GST collections hit 14-month high in July, cross Rs 2 lakh crore for second time in FY27",
+    "Union Home Minister and Minister of Cooperation Shri Amit Shah approves advance release of ₹2,117.85 crore to flood-affected States under SDRF",
+    "'Will march to PM's residence over E20': Kejriwal announces August 3 protest",
+    "Trump threatens to hit Iran 'very hard' as US weighs fresh attack",
+    "'Princess Of Darkness': Woman Behind Trump's Fundraising Machine",
+    "Israeli strikes kill four across Gaza, destroy medical supply warehouse",
+    "West Asia war LIVE: U.S. embassies urge citizens to ‘consider departing’ from West Asia",
+    "Samudra Manthan explained: How India’s offshore oil & gas exploration scheme can be a game-changer",
+    "RBI's FCNR, forex schemes draw $40.81 billion in inflows so far",
+    "Zepto announces pre-IPO private placement, to list within SEBI-approved timeline",
+    "July Auto Sales Highlights: Maruti Suzuki Production Rises 33%, Hero MotoCorp Total Sales Up 19%",
     "iPhone 18 Leaks Reveal Expected Release Date Price Changes and New Colors",
-    "Google AI Finds Sandbox Escape Bug in Chrome’s Codebase",
+    "Samsung Galaxy F70 Pro to launch next week, key features and pricing revealed - GSMArena.com news",
+    "Deals: Samsung Galaxy S26 Ultra discounted, Galaxy Z Fold8 series up for pre-order - GSMArena.com news",
     "Google takes down AI image generator tied to Google Earth after satellite photo deepfakes",
-    "Engadget Review Recap: Samsung Galaxy Z Fold 8, Meta Glasses And More",
-    "Spider-Man Brand New Day Box Office Collections: Tom Holland starrer swings to Rs. 125 Cr in India in 2 days",
+    "Hrithik on ‘world owes him apology’ meme amid Kangana row: ‘I’ll wait till context is right’",
     "'Jana Nayagan' box office collection day 9: Vijay and Pooja Hegde starrer enters second weekend by crossi",
-    "Why Dhurandhar producer chose Ranveer Singh over stars: ‘We wanted performers’"
+    "Spider-Man Brand New Day Box Office Collections: Tom Holland starrer swings to Rs. 125 Cr in India in 2 days"
   ],
   "quiz": [
     {
-      "blanked": "By Not Giving Reasons, Collegium Doing ______ To Judges Doing Good Work : Justice Ujjal Bhuyan",
-      "answer": "Disservice",
+      "blanked": "Famed climber Purja confirmed dead as bodies recovered from ______ Peak",
+      "answer": "Broad",
       "options": [
-        "Disservice",
-        "Ukraine",
-        "Cup",
-        "Escape"
+        "Psyllium",
+        "Killings",
+        "Broad",
+        "Box"
+      ]
+    },
+    {
+      "blanked": "'Will march to PM's residence over E20': ______ announces August 3 protest",
+      "answer": "Kejriwal",
+      "options": [
+        "Kejriwal",
+        "Manthan",
+        "Cooperation",
+        "Ceuta"
+      ]
+    },
+    {
+      "blanked": "August’s total solar eclipse will sweep over Spain, ______ and Greenland",
+      "answer": "Iceland",
+      "options": [
+        "Iceland",
+        "Reasons",
+        "Hegde",
+        "Globally"
+      ]
+    },
+    {
+      "blanked": "Saturday Northern ______ Forecast: 10 States May See The Aurora Borealis Tonight",
+      "answer": "Lights",
+      "options": [
+        "MotoCorp",
+        "Google",
+        "Minister",
+        "Lights"
+      ]
+    },
+    {
+      "blanked": "'Please be generous': CM Shivakumar urges PM ______ to help, save Karnataka",
+      "answer": "Modi",
+      "options": [
+        "SDRF",
+        "Modi",
+        "Behind",
+        "Likely"
+      ]
+    },
+    {
+      "blanked": "Google takes down AI image generator tied to Google ______ after satellite photo deepfakes",
+      "answer": "Earth",
+      "options": [
+        "Migrants",
+        "Darkness",
+        "Earth",
+        "Machine"
       ]
     },
     {
       "blanked": "Spain-Morocco border crisis: Death toll in ______ reaches 67",
       "answer": "Ceuta",
       "options": [
+        "Purja",
+        "Darkness",
         "Ceuta",
-        "May",
-        "Google",
-        "Register"
-      ]
-    },
-    {
-      "blanked": "Delhi 'Lakshmi ______ Portal Goes Live, 1,083 Women Register By Noon",
-      "answer": "Yojana",
-      "options": [
-        "Yojana",
-        "Bond",
-        "First",
-        "Doval"
-      ]
-    },
-    {
-      "blanked": "Quote of the day by Linus ______ How 'I think there will always be something interesting left to be dis",
-      "answer": "Pauling",
-      "options": [
-        "Galaxy",
-        "Lakshmi",
-        "Pauling",
-        "Purja"
-      ]
-    },
-    {
-      "blanked": "Famed climber ______ confirmed dead as bodies recovered from Broad Peak",
-      "answer": "Purja",
-      "options": [
-        "Makes",
-        "Risk",
-        "Torres",
-        "Purja"
-      ]
-    },
-    {
-      "blanked": "NASA's Juno Measures Heat Beneath Jupiter's Fiery ______ Io For The First Time",
-      "answer": "Moon",
-      "options": [
-        "FCNRB",
-        "Moon",
-        "54210",
-        "Galaxy"
-      ]
-    },
-    {
-      "blanked": "West ______ war LIVE: Iran military accuses U.S. of 'escalating tensions' in region",
-      "answer": "Asia",
-      "options": [
-        "Asia",
-        "Torres",
-        "Watch",
-        "23%"
-      ]
-    },
-    {
-      "blanked": "Injured Tejaswin Shankar scripts history; becomes first Indian to win decathlon medal in ______ Gam",
-      "answer": "Commonwealth",
-      "options": [
-        "Commonwealth",
-        "Warning",
-        "Giving",
-        "Risk"
-      ]
-    },
-    {
-      "blanked": "'Jana Nayagan' box office collection day 9: Vijay and Pooja ______ starrer enters second weekend by crossi",
-      "answer": "Hegde",
-      "options": [
-        "Ceuta",
-        "Date",
-        "Reasons",
-        "Hegde"
-      ]
-    },
-    {
-      "blanked": "PM Modi inaugurates ______ international airport, launches projects worth ₹17,900 crore in A.P. | Highlights",
-      "answer": "Bhogapuram",
-      "options": [
-        "Bhogapuram",
-        "Earth",
-        "Fold",
-        "Theme"
-      ]
-    },
-    {
-      "blanked": "iPhone 18 Leaks Reveal Expected Release Date ______ Changes and New Colors",
-      "answer": "Price",
-      "options": [
-        "Price",
-        "Doing",
-        "Earth",
         "Cholesterol"
       ]
     },
     {
-      "blanked": "Why Dhurandhar producer chose ______ Singh over stars: ‘We wanted performers’",
-      "answer": "Ranveer",
+      "blanked": "Discarded ______ rocket to crash into the moon next week",
+      "answer": "SpaceX",
       "options": [
-        "Escape",
-        "Nayagan",
-        "Linked",
-        "Ranveer"
+        "SpaceX",
+        "Death",
+        "Minister",
+        "Reasons"
+      ]
+    },
+    {
+      "blanked": "Severe Infections Linked to Higher Risk of Mental and Neurological ______",
+      "answer": "Disorders",
+      "options": [
+        "Commander",
+        "Price",
+        "Sooraj",
+        "Disorders"
+      ]
+    },
+    {
+      "blanked": "RBI's ______ forex schemes draw $40.81 billion in inflows so far",
+      "answer": "FCNR",
+      "options": [
+        "Infections",
+        "FCNR",
+        "2117.85",
+        "Preventio"
+      ]
+    },
+    {
+      "blanked": "Zepto announces pre-IPO private placement, to list within ______ timeline",
+      "answer": "SEBI-approved",
+      "options": [
+        "Tom",
+        "Cooperation",
+        "Neurological",
+        "SEBI-approved"
+      ]
+    },
+    {
+      "blanked": "Hrithik on ‘world owes him apology’ meme amid ______ row: ‘I’ll wait till context is right’",
+      "answer": "Kangana",
+      "options": [
+        "Kangana",
+        "U-turn",
+        "Highlights",
+        "Amit"
       ]
     }
   ]
