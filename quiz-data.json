@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-01T07:38:12.447Z",
+  "generatedAt": "2026-08-01T11:48:39.275Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "Spain says most migrants have returned to Morocco after deadly border rush",
-    "Where is Ruchika Singh? Girl charged for abusive language against PM Modi still missing; mother submits apology",
-    "2 Migrant Workers Shot Dead By Terrorists In J&K's Kulgam",
-    "‘Attack on Hindu society’: Poonawalla slams Rahul Gandhi over Ram Temple theft skit in Parliament | India News",
-    "Is Israel really ready to withdraw from Gaza?",
-    "Meta India head named in police case over Facebook videos targeting Modi",
-    "Company chairman hired hitmen to kill MD in Vasai to avoid repaying him Rs 32 crore, say police; 7 held f",
-    "Bhiwandi building collapse: 10 dead; structure ‘was declared dangerous’",
-    "Kerala rain havoc: 2 dead, several feared trapped as landslides, floods batter state",
-    "President Grants Assent To Amendment Enhancing Punishments For Unfair Means In Public Examinations",
-    "West Asia war LIVE: White House signals Trump is weighing new strikes on Iran",
-    "Russian missile attack kills three in Ukraine’s Kyiv",
     "\"His Approach Was Risky\": Mountaineers On Missing Renowned Nepalese Climber",
-    "'Not agreed to that': Trump shifts stance on Ukraine building Patriot missiles",
-    "Price of Commercial LPG reduced by about ₹200, ATF prices hiked ₹5/litre",
-    "GST collections hit 14-month high in July, cross Rs 2 lakh crore for second time in FY27",
-    "‘Samudra Manthan’: Cabinet approves Rs 84,084 cr scheme for oil & gas exploration - top things to know",
-    "ICICI Bank, Hyundai To ONGC: BofA Picks 18 Key Stocks As 'Buy' With Up To 214% Earnings CAGR By FY28",
-    "Google AI Supercharges Chrome Security, Fixing 1,072 Bugs",
+    "‘No food in Ceuta’, ‘kicked badly’: Why thousands of migrants returned day after entering Spain | World News",
+    "‘First and last mistake’: Girl apologises for abusing PM Modi at CJP protest",
+    "Two labourers from Chhattisgarh killed in terror attack in J&K's Kulgam",
+    "‘Abuses never solve anything’: Modi posts another Instagram reel, says he forgives ‘misled youth’",
+    "Alluri Sitarama Raju International Airport: A new gateway for Andhra Pradesh",
+    "'In every national security decision, Doval had a role': Amit Shah praises NSA at award ceremony",
+    "Delhi 'Lakshmi Yojana' Portal Goes Live, 1,083 Women Register By Noon",
+    "Justice Ujjal Bhuyan flags return of opacity in Collegium; slams appointment of judges who make unconstitutional remarks",
+    "Complaint against Pappu Yadav for Ram Mandir donation theft skit outside Parliament",
+    "Russian missile attacks kill at least nine in Ukraine’s Kyiv",
+    "West Asia war LIVE: White House signals Trump is weighing new strikes on Iran",
+    "US makes visa bond rule permanent, raises cap to $20,000; Bangladesh, Nepal, Bhutan affected",
+    "Peru’s ex-president Humala released after conviction overturned",
+    "Cabinet approves ₹84,084-crore ‘Samudra Manthan’ scheme for offshore energy exploration | India News",
+    "GST collections jump 15.4% to over Rs 2.11 lakh crore in July",
+    "Tata Motors PV Sales July 2026 at 62k - EVs Cross 15k For First Time",
+    "Forex boost: RBI's special swap facility draws $40.8 billion in foreign inflows by July-end",
     "Apple iPhone 18 Pro and iPhone 18 Pro Max: Expected launch date, foldable iPhone debut and more",
+    "Google takes down AI image generator tied to Google Earth after satellite photo deepfakes",
+    "Google AI Supercharges Chrome Security, Fixing 1,072 Bugs",
     "Samsung Galaxy F70 Pro to launch next week, key features and pricing revealed - GSMArena.com news",
-    "Google withdraws Earth AI image tool over fake satellite imagery concerns",
-    "Hollywood Record Opening Days at Indian Box Office From 2000 to 2026: Spiderman franchise dominates with 8 entries",
-    "'Jana Nayagan' box office collection day 9: Vijay and Pooja Hegde starrer enters second weekend by crossi",
-    "‘Gaurav Khanna bullied me a lot in Khatron Ke Khiladi’: Shagun Sharma says she would not want to meet him again | Hindustan Times"
+    "Spider-Man Brand New Day Box Office Collections: Tom Holland starrer swings to Rs. 125 Cr in India in 2 days",
+    "'We wanted performers, not so-called stars': 'Dhurandhar' maker reveals why Ranveer Singh was cast in Adi",
+    "Rajesh Kumar on ‘losing everything’ at 42: ‘Recovery agents would abuse me, sold car’"
   ],
   "quiz": [
     {
-      "blanked": "2 Migrant ______ Shot Dead By Terrorists In J&K's Kulgam",
-      "answer": "Workers",
+      "blanked": "US makes visa bond rule permanent, raises cap to $20,000; Bangladesh, Nepal, ______ affected",
+      "answer": "Bhutan",
       "options": [
-        "Workers",
-        "Khatron",
-        "Israel",
-        "Max"
+        "Bhutan",
+        "Recovery",
+        "Asia",
+        "20000"
       ]
     },
     {
-      "blanked": "NASA astronaut Don Pettit shares favourite ______ Way photo from 1.2 million ISS images | TAKE A LOOK",
-      "answer": "Milky",
+      "blanked": "Delhi 'Lakshmi ______ Portal Goes Live, 1,083 Women Register By Noon",
+      "answer": "Yojana",
       "options": [
-        "Trump",
-        "Linked",
-        "Higher",
-        "Milky"
-      ]
-    },
-    {
-      "blanked": "Where is ______ Singh? Girl charged for abusive language against PM Modi still missing; mother submits apology",
-      "answer": "Ruchika",
-      "options": [
-        "Manushi",
-        "Times",
-        "Ruchika",
-        "House"
-      ]
-    },
-    {
-      "blanked": "CWG 2026 ______ schedule today, August 1: Lovlina Borgohain leads 10 boxers into finals; Gulveer Singh in action",
-      "answer": "India",
-      "options": [
-        "House",
-        "Picks",
-        "Hyundai",
-        "India"
-      ]
-    },
-    {
-      "blanked": "Hollywood Record Opening ______ at Indian Box Office From 2000 to 2026: Spiderman franchise dominates with 8 entries",
-      "answer": "Days",
-      "options": [
-        "Days",
-        "Karnataka",
-        "Vasai",
-        "Modi"
-      ]
-    },
-    {
-      "blanked": "Lung cancer accounts for 6% of cancer cases in ______ tobacco remains biggest risk factor",
-      "answer": "Karnataka",
-      "options": [
-        "Manushi",
-        "Infections",
-        "TBA",
-        "Karnataka"
-      ]
-    },
-    {
-      "blanked": "Is Israel really ready to withdraw from ______",
-      "answer": "Gaza",
-      "options": [
-        "Punishments",
-        "Earnings",
-        "Gaza",
-        "Spiderman"
-      ]
-    },
-    {
-      "blanked": "It was incredibly tough: Manushi ______ on retaking NEET 2015 after paper leak",
-      "answer": "Chhillar",
-      "options": [
+        "NSA",
         "Aug",
-        "Chhillar",
-        "Morocco",
-        "Cup"
+        "Yojana",
+        "Disorders"
       ]
     },
     {
-      "blanked": "'Not agreed to that': Trump shifts stance on ______ building Patriot missiles",
-      "answer": "Ukraine",
+      "blanked": "Tata ______ PV Sales July 2026 at 62k - EVs Cross 15k For First Time",
+      "answer": "Motors",
       "options": [
-        "Pro",
-        "Manushi",
-        "Ukraine",
-        "2015"
+        "Motors",
+        "Airport",
+        "Inshorts",
+        "Kulgam"
       ]
     },
     {
-      "blanked": "Company chairman hired hitmen to kill MD in ______ to avoid repaying him Rs 32 crore, say police; 7 held f",
-      "answer": "Vasai",
+      "blanked": "Complaint against Pappu Yadav for Ram Mandir donation theft skit outside ______",
+      "answer": "Parliament",
       "options": [
-        "Enhancing",
-        "Disorders",
-        "Galaxy",
-        "Vasai"
+        "Manthan",
+        "World",
+        "Importance",
+        "Parliament"
       ]
     },
     {
-      "blanked": "Injured ______ Shankar scripts history; becomes first Indian to win decathlon medal in Commonwealth Gam",
-      "answer": "Tejaswin",
+      "blanked": "NASA astronaut ______ Pettit shares favourite Milky Way photo from 1.2 million ISS images | TAKE A LOOK",
+      "answer": "Don",
       "options": [
-        "Warning",
-        "Punishments",
-        "LOOK",
-        "Tejaswin"
+        "Don",
+        "2026",
+        "Box",
+        "Ceuta"
       ]
     },
     {
-      "blanked": "Google withdraws ______ AI image tool over fake satellite imagery concerns",
-      "answer": "Earth",
+      "blanked": "'We wanted performers, not so-called stars': 'Dhurandhar' maker reveals why Ranveer Singh was cast in ______",
+      "answer": "Adi",
       "options": [
-        "Tonight",
-        "Day",
+        "Adi",
+        "Nepalese",
+        "Work",
+        "July"
+      ]
+    },
+    {
+      "blanked": "World Hepatitis Day observed in ______ stress laid on elimination of misinformation & stigma",
+      "answer": "Bhubaneswar",
+      "options": [
+        "Kumar",
         "Shagun",
-        "Earth"
+        "Bhubaneswar",
+        "Aug"
+      ]
+    },
+    {
+      "blanked": "Quote of the day by ______ Friedrich Gauss: 'Mathematics is the queen of the sciences, and number theory is",
+      "answer": "Carl",
+      "options": [
+        "Carl",
+        "EVs",
+        "Kyiv",
+        "Madrid"
+      ]
+    },
+    {
+      "blanked": "Russian missile attacks kill at least nine in ______ Kyiv",
+      "answer": "Ukraines",
+      "options": [
+        "Ukraines",
+        "Time",
+        "Box",
+        "Dhurandhar"
+      ]
+    },
+    {
+      "blanked": "‘First and last mistake’: Girl apologises for abusing PM Modi at ______ protest",
+      "answer": "CJP",
+      "options": [
+        "Yadav",
+        "CWG",
+        "CJP",
+        "Khatron"
+      ]
+    },
+    {
+      "blanked": "Google takes down AI image generator tied to ______ Earth after satellite photo deepfakes",
+      "answer": "Google",
+      "options": [
+        "Hepatitis",
+        "Google",
+        "Andhra",
+        "JKs"
+      ]
+    },
+    {
+      "blanked": "World Lung Cancer Day ______ Theme, Importance, Early Warning Signs And Preventio",
+      "answer": "2026",
+      "options": [
+        "Missing",
+        "Cup",
+        "2026",
+        "Mandir"
       ]
     }
   ]
