@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-01T20:02:27.388Z",
+  "generatedAt": "2026-08-01T23:43:05.311Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
     "Spain-Morocco border crisis: Death toll in Ceuta reaches 67",
-    "Famed climber Purja confirmed dead as bodies recovered from Broad Peak",
-    "Lashkar Commander, Aide Likely Behind Migrants Killings In J&K",
-    "India's Modi says punishing student protesters will not resolve situation",
-    "Centre releases Rs 1,09,019 crore tax devolution to states as advance instalment",
-    "'Disappointed with PM Modi': Shehzad Poonawalla’s sarcastic 'dictator' jibe at oppn after quitting BJP",
+    "India’s Modi says he forgives students who abused him in Cockroach protests",
+    "US tells citizens in West Asia to ‘be ready to leave' amid escalation fears: What's happening in the Middle East? | World News",
+    "Elite Mountaineer Nirmal 'Nims' Purja Killed In Avalanche On PoK Peak",
+    "India news Highlights, 1 August 2026 | Kulgam terror attack: Chhattisgarh CM announces Rs 20 lakh ex gratia for victims’ families",
+    "Alluri Sitarama Raju International Airport: A new gateway for Andhra Pradesh",
     "'Please be generous': CM Shivakumar urges PM Modi to help, save Karnataka",
-    "PM Modi inaugurates Bhogapuram international airport, launches projects worth ₹17,900 crore in A.P. | Highlights",
-    "Union Home Minister and Minister of Cooperation Shri Amit Shah approves advance release of ₹2,117.85 crore to flood-affected States under SDRF",
+    "Revanth Reddy Follows CBN For Future City",
     "'Will march to PM's residence over E20': Kejriwal announces August 3 protest",
-    "Trump threatens to hit Iran 'very hard' as US weighs fresh attack",
+    "'Defeat delimitation in House': Rahul Gandhi's 'Ettappan' charge on Centre & an appeal to parties",
     "'Princess Of Darkness': Woman Behind Trump's Fundraising Machine",
-    "Israeli strikes kill four across Gaza, destroy medical supply warehouse",
-    "West Asia war LIVE: U.S. embassies urge citizens to ‘consider departing’ from West Asia",
+    "Russia's overnight ballistic missile and drone attack on Ukraine capital Kyiv kills 9",
+    "Tanker Carrying Qatari LNG Struck While Transiting Hormuz",
+    "Reeling from powerful earthquake that killed 34, Japan hit with 5.7 magnitude quake 5 days later",
     "Samudra Manthan explained: How India’s offshore oil & gas exploration scheme can be a game-changer",
-    "RBI's FCNR, forex schemes draw $40.81 billion in inflows so far",
-    "Zepto announces pre-IPO private placement, to list within SEBI-approved timeline",
     "July Auto Sales Highlights: Maruti Suzuki Production Rises 33%, Hero MotoCorp Total Sales Up 19%",
+    "Zepto confirms pre IPO private placement, says listing within SEBI approved timeline",
+    "GST collections hit 14-month high in July, cross Rs 2 lakh crore for second time in FY27",
+    "I replaced Ford BlueCruise with an open-source driver-assistance system — after 1,000 miles, I'm not going back",
+    "Smart glasses need to get their act together — the Meta Ray-Ban Scriber Optics are my favorite tech of 2026 so far but I’m scared to wear them",
     "iPhone 18 Leaks Reveal Expected Release Date Price Changes and New Colors",
     "Samsung Galaxy F70 Pro to launch next week, key features and pricing revealed - GSMArena.com news",
-    "Deals: Samsung Galaxy S26 Ultra discounted, Galaxy Z Fold8 series up for pre-order - GSMArena.com news",
-    "Google takes down AI image generator tied to Google Earth after satellite photo deepfakes",
     "Hrithik on ‘world owes him apology’ meme amid Kangana row: ‘I’ll wait till context is right’",
-    "'Jana Nayagan' box office collection day 9: Vijay and Pooja Hegde starrer enters second weekend by crossi",
+    "WWE SummerSlam Night 1 live results: Updates, grades, analysis for CM Punk vs. Cody Rhodes",
     "Spider-Man Brand New Day Box Office Collections: Tom Holland starrer swings to Rs. 125 Cr in India in 2 days"
   ],
   "quiz": [
     {
-      "blanked": "Famed climber Purja confirmed dead as bodies recovered from ______ Peak",
-      "answer": "Broad",
+      "blanked": "Revanth Reddy Follows ______ For Future City",
+      "answer": "CBN",
       "options": [
-        "Psyllium",
-        "Killings",
-        "Broad",
-        "Box"
+        "CBN",
+        "1000",
+        "Ryan",
+        "Expected"
       ]
     },
     {
-      "blanked": "'Will march to PM's residence over E20': ______ announces August 3 protest",
-      "answer": "Kejriwal",
+      "blanked": "India’s Modi says he forgives students who abused him in ______ protests",
+      "answer": "Cockroach",
       "options": [
-        "Kejriwal",
-        "Manthan",
-        "Cooperation",
-        "Ceuta"
+        "LNG",
+        "Cockroach",
+        "Heat",
+        "Higher"
       ]
     },
     {
-      "blanked": "August’s total solar eclipse will sweep over Spain, ______ and Greenland",
-      "answer": "Iceland",
+      "blanked": "Zepto confirms pre ______ private placement, says listing within SEBI approved timeline",
+      "answer": "IPO",
       "options": [
-        "Iceland",
-        "Reasons",
-        "Hegde",
-        "Globally"
+        "Auto",
+        "Ray-Ban",
+        "Programme",
+        "IPO"
       ]
     },
     {
-      "blanked": "Saturday Northern ______ Forecast: 10 States May See The Aurora Borealis Tonight",
-      "answer": "Lights",
-      "options": [
-        "MotoCorp",
-        "Google",
-        "Minister",
-        "Lights"
-      ]
-    },
-    {
-      "blanked": "'Please be generous': CM Shivakumar urges PM ______ to help, save Karnataka",
-      "answer": "Modi",
-      "options": [
-        "SDRF",
-        "Modi",
-        "Behind",
-        "Likely"
-      ]
-    },
-    {
-      "blanked": "Google takes down AI image generator tied to Google ______ after satellite photo deepfakes",
-      "answer": "Earth",
-      "options": [
-        "Migrants",
-        "Darkness",
-        "Earth",
-        "Machine"
-      ]
-    },
-    {
-      "blanked": "Spain-Morocco border crisis: Death toll in ______ reaches 67",
-      "answer": "Ceuta",
+      "blanked": "Why is SpaceX's abandoned rocket crashing into the ______ Scientists are watching closely",
+      "answer": "Moon",
       "options": [
         "Purja",
-        "Darkness",
-        "Ceuta",
-        "Cholesterol"
+        "World",
+        "Middle",
+        "Moon"
       ]
     },
     {
-      "blanked": "Discarded ______ rocket to crash into the moon next week",
-      "answer": "SpaceX",
+      "blanked": "'Princess Of Darkness': Woman Behind Trump's Fundraising ______",
+      "answer": "Machine",
       "options": [
-        "SpaceX",
-        "Death",
-        "Minister",
-        "Reasons"
+        "Machine",
+        "Changes",
+        "Mental",
+        "Peak"
       ]
     },
     {
-      "blanked": "Severe Infections Linked to Higher Risk of Mental and Neurological ______",
-      "answer": "Disorders",
+      "blanked": "Commonwealth Games: Magnificent seven as the ______ pugilists put on a show",
+      "answer": "Indian",
       "options": [
-        "Commander",
-        "Price",
-        "Sooraj",
-        "Disorders"
-      ]
-    },
-    {
-      "blanked": "RBI's ______ forex schemes draw $40.81 billion in inflows so far",
-      "answer": "FCNR",
-      "options": [
-        "Infections",
-        "FCNR",
-        "2117.85",
-        "Preventio"
-      ]
-    },
-    {
-      "blanked": "Zepto announces pre-IPO private placement, to list within ______ timeline",
-      "answer": "SEBI-approved",
-      "options": [
-        "Tom",
-        "Cooperation",
-        "Neurological",
-        "SEBI-approved"
-      ]
-    },
-    {
-      "blanked": "Hrithik on ‘world owes him apology’ meme amid ______ row: ‘I’ll wait till context is right’",
-      "answer": "Kangana",
-      "options": [
+        "Avalanche",
         "Kangana",
-        "U-turn",
-        "Highlights",
-        "Amit"
+        "Indian",
+        "Leaks"
+      ]
+    },
+    {
+      "blanked": "Spider-Man ______ New Day Box Office Collections: Tom Holland starrer swings to Rs. 125 Cr in India in 2 days",
+      "answer": "Brand",
+      "options": [
+        "Holland",
+        "Brand",
+        "Neurological",
+        "Duleep"
+      ]
+    },
+    {
+      "blanked": "How To Lose Weight Without ______ Calories? Fitness Coach Shares 4 Tips",
+      "answer": "Counting",
+      "options": [
+        "Gandhis",
+        "Hero",
+        "Leaks",
+        "Counting"
+      ]
+    },
+    {
+      "blanked": "'Please be generous': CM ______ urges PM Modi to help, save Karnataka",
+      "answer": "Shivakumar",
+      "options": [
+        "Early",
+        "Patidar",
+        "Box",
+        "Shivakumar"
+      ]
+    },
+    {
+      "blanked": "Russia's overnight ballistic missile and drone attack on Ukraine capital ______ kills 9",
+      "answer": "Kyiv",
+      "options": [
+        "Total",
+        "Rhodes",
+        "Kyiv",
+        "National"
+      ]
+    },
+    {
+      "blanked": "Tanker Carrying Qatari LNG Struck ______ Transiting Hormuz",
+      "answer": "While",
+      "options": [
+        "Pradesh",
+        "While",
+        "Ray-Ban",
+        "Cancer"
+      ]
+    },
+    {
+      "blanked": "Smart glasses need to get their act together — the Meta Ray-Ban Scriber ______ are my favorite tech of 2026 so far but I’m scared to wear them",
+      "answer": "Optics",
+      "options": [
+        "Hero",
+        "Optics",
+        "Fundraising",
+        "Patidar"
       ]
     }
   ]
