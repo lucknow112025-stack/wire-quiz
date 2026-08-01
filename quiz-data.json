@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-01T11:48:39.275Z",
+  "generatedAt": "2026-08-01T15:42:30.791Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "\"His Approach Was Risky\": Mountaineers On Missing Renowned Nepalese Climber",
-    "‘No food in Ceuta’, ‘kicked badly’: Why thousands of migrants returned day after entering Spain | World News",
-    "‘First and last mistake’: Girl apologises for abusing PM Modi at CJP protest",
-    "Two labourers from Chhattisgarh killed in terror attack in J&K's Kulgam",
-    "‘Abuses never solve anything’: Modi posts another Instagram reel, says he forgives ‘misled youth’",
-    "Alluri Sitarama Raju International Airport: A new gateway for Andhra Pradesh",
-    "'In every national security decision, Doval had a role': Amit Shah praises NSA at award ceremony",
+    "Spain-Morocco border crisis: Death toll in Ceuta reaches 67",
+    "Famed climber Purja confirmed dead as bodies recovered from Broad Peak",
+    "President Grants Assent To Amendment Enhancing Punishments For Unfair Means In Public Examinations",
+    "‘Modi ji, learn from Rahul’: Shehzad Poonawalla's sarcastic swipe over PM ‘not behaving like a proper dictator’ | Watch | India News",
+    "Centre releases Rs 1,09,019 crore tax devolution to states as advance instalment",
     "Delhi 'Lakshmi Yojana' Portal Goes Live, 1,083 Women Register By Noon",
-    "Justice Ujjal Bhuyan flags return of opacity in Collegium; slams appointment of judges who make unconstitutional remarks",
-    "Complaint against Pappu Yadav for Ram Mandir donation theft skit outside Parliament",
-    "Russian missile attacks kill at least nine in Ukraine’s Kyiv",
-    "West Asia war LIVE: White House signals Trump is weighing new strikes on Iran",
-    "US makes visa bond rule permanent, raises cap to $20,000; Bangladesh, Nepal, Bhutan affected",
+    "'Please be generous': CM Shivakumar urges PM Modi to help, save Karnataka",
+    "PM Modi inaugurates Bhogapuram international airport, launches projects worth ₹17,900 crore in A.P. | Highlights",
+    "Youth May Mistake Freedom For Liberty To Do What One Wants: Ajit Doval",
+    "By Not Giving Reasons, Collegium Doing Disservice To Judges Doing Good Work : Justice Ujjal Bhuyan",
+    "West Asia war LIVE: Iran military accuses U.S. of 'escalating tensions' in region",
+    "US Makes Visa Bond Program Permanent For 50 Countries. Is India On The List?",
     "Peru’s ex-president Humala released after conviction overturned",
-    "Cabinet approves ₹84,084-crore ‘Samudra Manthan’ scheme for offshore energy exploration | India News",
-    "GST collections jump 15.4% to over Rs 2.11 lakh crore in July",
+    "Russia's overnight ballistic missile and drone attack on Ukraine capital Kyiv kills 3",
+    "RBI forex swap window draws $40.82 billion till July 31, FCNR(B) deposits lead inflows",
+    "Hyundai Motor India’s sales rise 23% to 54,210 units in July",
     "Tata Motors PV Sales July 2026 at 62k - EVs Cross 15k For First Time",
-    "Forex boost: RBI's special swap facility draws $40.8 billion in foreign inflows by July-end",
-    "Apple iPhone 18 Pro and iPhone 18 Pro Max: Expected launch date, foldable iPhone debut and more",
+    "GST collections hit 14-month high in July, cross Rs 2 lakh crore for second time in FY27",
+    "iPhone 18 Leaks Reveal Expected Release Date Price Changes and New Colors",
+    "Google AI Finds Sandbox Escape Bug in Chrome’s Codebase",
     "Google takes down AI image generator tied to Google Earth after satellite photo deepfakes",
-    "Google AI Supercharges Chrome Security, Fixing 1,072 Bugs",
-    "Samsung Galaxy F70 Pro to launch next week, key features and pricing revealed - GSMArena.com news",
+    "Engadget Review Recap: Samsung Galaxy Z Fold 8, Meta Glasses And More",
     "Spider-Man Brand New Day Box Office Collections: Tom Holland starrer swings to Rs. 125 Cr in India in 2 days",
-    "'We wanted performers, not so-called stars': 'Dhurandhar' maker reveals why Ranveer Singh was cast in Adi",
-    "Rajesh Kumar on ‘losing everything’ at 42: ‘Recovery agents would abuse me, sold car’"
+    "'Jana Nayagan' box office collection day 9: Vijay and Pooja Hegde starrer enters second weekend by crossi",
+    "Why Dhurandhar producer chose Ranveer Singh over stars: ‘We wanted performers’"
   ],
   "quiz": [
     {
-      "blanked": "US makes visa bond rule permanent, raises cap to $20,000; Bangladesh, Nepal, ______ affected",
-      "answer": "Bhutan",
+      "blanked": "By Not Giving Reasons, Collegium Doing ______ To Judges Doing Good Work : Justice Ujjal Bhuyan",
+      "answer": "Disservice",
       "options": [
-        "Bhutan",
-        "Recovery",
-        "Asia",
-        "20000"
+        "Disservice",
+        "Ukraine",
+        "Cup",
+        "Escape"
+      ]
+    },
+    {
+      "blanked": "Spain-Morocco border crisis: Death toll in ______ reaches 67",
+      "answer": "Ceuta",
+      "options": [
+        "Ceuta",
+        "May",
+        "Google",
+        "Register"
       ]
     },
     {
       "blanked": "Delhi 'Lakshmi ______ Portal Goes Live, 1,083 Women Register By Noon",
       "answer": "Yojana",
       "options": [
-        "NSA",
-        "Aug",
         "Yojana",
-        "Disorders"
+        "Bond",
+        "First",
+        "Doval"
       ]
     },
     {
-      "blanked": "Tata ______ PV Sales July 2026 at 62k - EVs Cross 15k For First Time",
-      "answer": "Motors",
+      "blanked": "Quote of the day by Linus ______ How 'I think there will always be something interesting left to be dis",
+      "answer": "Pauling",
       "options": [
-        "Motors",
-        "Airport",
-        "Inshorts",
-        "Kulgam"
+        "Galaxy",
+        "Lakshmi",
+        "Pauling",
+        "Purja"
       ]
     },
     {
-      "blanked": "Complaint against Pappu Yadav for Ram Mandir donation theft skit outside ______",
-      "answer": "Parliament",
+      "blanked": "Famed climber ______ confirmed dead as bodies recovered from Broad Peak",
+      "answer": "Purja",
       "options": [
-        "Manthan",
-        "World",
-        "Importance",
-        "Parliament"
+        "Makes",
+        "Risk",
+        "Torres",
+        "Purja"
       ]
     },
     {
-      "blanked": "NASA astronaut ______ Pettit shares favourite Milky Way photo from 1.2 million ISS images | TAKE A LOOK",
-      "answer": "Don",
+      "blanked": "NASA's Juno Measures Heat Beneath Jupiter's Fiery ______ Io For The First Time",
+      "answer": "Moon",
       "options": [
-        "Don",
-        "2026",
-        "Box",
-        "Ceuta"
+        "FCNRB",
+        "Moon",
+        "54210",
+        "Galaxy"
       ]
     },
     {
-      "blanked": "'We wanted performers, not so-called stars': 'Dhurandhar' maker reveals why Ranveer Singh was cast in ______",
-      "answer": "Adi",
+      "blanked": "West ______ war LIVE: Iran military accuses U.S. of 'escalating tensions' in region",
+      "answer": "Asia",
       "options": [
-        "Adi",
-        "Nepalese",
-        "Work",
-        "July"
+        "Asia",
+        "Torres",
+        "Watch",
+        "23%"
       ]
     },
     {
-      "blanked": "World Hepatitis Day observed in ______ stress laid on elimination of misinformation & stigma",
-      "answer": "Bhubaneswar",
+      "blanked": "Injured Tejaswin Shankar scripts history; becomes first Indian to win decathlon medal in ______ Gam",
+      "answer": "Commonwealth",
       "options": [
-        "Kumar",
-        "Shagun",
-        "Bhubaneswar",
-        "Aug"
+        "Commonwealth",
+        "Warning",
+        "Giving",
+        "Risk"
       ]
     },
     {
-      "blanked": "Quote of the day by ______ Friedrich Gauss: 'Mathematics is the queen of the sciences, and number theory is",
-      "answer": "Carl",
+      "blanked": "'Jana Nayagan' box office collection day 9: Vijay and Pooja ______ starrer enters second weekend by crossi",
+      "answer": "Hegde",
       "options": [
-        "Carl",
-        "EVs",
-        "Kyiv",
-        "Madrid"
+        "Ceuta",
+        "Date",
+        "Reasons",
+        "Hegde"
       ]
     },
     {
-      "blanked": "Russian missile attacks kill at least nine in ______ Kyiv",
-      "answer": "Ukraines",
+      "blanked": "PM Modi inaugurates ______ international airport, launches projects worth ₹17,900 crore in A.P. | Highlights",
+      "answer": "Bhogapuram",
       "options": [
-        "Ukraines",
-        "Time",
-        "Box",
-        "Dhurandhar"
+        "Bhogapuram",
+        "Earth",
+        "Fold",
+        "Theme"
       ]
     },
     {
-      "blanked": "‘First and last mistake’: Girl apologises for abusing PM Modi at ______ protest",
-      "answer": "CJP",
+      "blanked": "iPhone 18 Leaks Reveal Expected Release Date ______ Changes and New Colors",
+      "answer": "Price",
       "options": [
-        "Yadav",
-        "CWG",
-        "CJP",
-        "Khatron"
+        "Price",
+        "Doing",
+        "Earth",
+        "Cholesterol"
       ]
     },
     {
-      "blanked": "Google takes down AI image generator tied to ______ Earth after satellite photo deepfakes",
-      "answer": "Google",
+      "blanked": "Why Dhurandhar producer chose ______ Singh over stars: ‘We wanted performers’",
+      "answer": "Ranveer",
       "options": [
-        "Hepatitis",
-        "Google",
-        "Andhra",
-        "JKs"
-      ]
-    },
-    {
-      "blanked": "World Lung Cancer Day ______ Theme, Importance, Early Warning Signs And Preventio",
-      "answer": "2026",
-      "options": [
-        "Missing",
-        "Cup",
-        "2026",
-        "Mandir"
+        "Escape",
+        "Nayagan",
+        "Linked",
+        "Ranveer"
       ]
     }
   ]
