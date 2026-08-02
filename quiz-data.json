@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-02T07:53:22.568Z",
+  "generatedAt": "2026-08-02T11:45:38.472Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "Trump cancels Iran strike, says ‘deal perimeters’ reached",
-    "'PM forgiving me is a very big thing': Noida teen who 'abused' Modi apologises again",
-    "Terror Suspect Had Jantar Mantar Plot. Girlfriend's Social Media Exposed Him",
-    "RTI activist seeks inquiry into how Abhijeet Dipke's father funded his US education | India News",
-    "Stone-pelting by CJP protesters happened even after Parliament march violence: Officials | India News",
-    "Abhijeet Dipke, Ashutosh Ranka and Saurav Das | The three faces of a revolt",
-    "PM Narendra Modi launches ‘Nasha Mukt Yuva for Viksit Bharat Sankalp Abhiyan’ virtually",
-    "'Please be generous': CM Shivakumar urges PM Modi to help, save Karnataka",
-    "J&K Launches Massive Op To Hunt Terrorists Who Killed 2 Migrant Workers",
-    "Kerala heavy rains highlights: Eight killed as heavy rain triggers floods across Kerala",
+    "‘Drugs being used to hurt India’s interests': PM Modi launches ‘Nasha Mukt Yuva Abhiyan’, urges youths to lead movement | India News",
+    "5 Dead, 41 Missing After Ferry Carrying 271 Catches Fire In Indonesia",
+    "Avalanche kills famed climber Purja and nine others in Pakistan",
+    "Trump Says US to Hold Off Iran Attack If Rapid Deal Agreed",
+    "She Was Stopped At The Door—Then The Bomb Went Off In Moscow",
+    "‘Pakistan eroded faith’: India envoy to US calls out Islamabad's ‘distraction policy’ over Indus Waters Treaty | India News",
+    "'Why Live In Dubai If You Love India': Raj Thackeray Jabs Vivek Oberoi, R Madhavan",
+    "Randeep Hooda reaches Assam to take part in flood relief efforts, serves food to displaced at langar: 'It is our duty' | Bollywood",
+    "Revanth Reddy Offers Prayers at Ujjaini Mahankali Temple",
+    "NEHR condemns Assam govt for booking land rights activist under NSA",
+    "Washington wildfires scorch over 2,50,000 acres of land; trigger mass evacuations",
+    "Hungary plans to shut down only nuclear power plant amid drought",
     "Spain-Morocco border crisis: Death toll in Ceuta reaches 67",
-    "Multiple Dead, Several Injured In Shooting In US' Idaho, Gunman Among Dead",
-    "Iran names Saudi, UAE, Qatar and Israeli energy sites as targets if Trump weighs new strikes",
-    "13 killed as tourist plane crashes near Peru's Nazca Lines",
-    "USD/JPY weekly outlook: Japan's intervention gamble now rests on payrolls",
-    "What is the Samudra Manthan scheme all about? | Explained",
-    "Indian equities ‘probably oversold’: Foreign investors warm up to India after months of outflows",
-    "July Auto Sales Highlights: Maruti Suzuki Production Rises 33%, Hero MotoCorp Total Sales Up 19%",
+    "Russia Pounds Kyiv With Missiles, Killing At Least 10",
+    "Passenger vehicle sales surge 33% in July to nearly 4.7 lakh units on tax, rate relief",
+    "Will Nifty, Sensex extend gains on Monday? 6 factors which will drive D-Street action this week",
+    "Saving The Yen: Why Is US Backing Japan's Currency Rescue Mission? Explained",
+    "Markets roar back: Top 10 firms add Rs 2.5 lakh cr in a week; Bajaj Finance leads gains",
+    "Google Pulls AI Satellite Imagery Feature After Less Than 24 Hours",
     "I’ve driven the new Cupra Raval and it’s proof that the hot hatch can live on in the EV era",
     "JioTag 2 Launched in India: Price and Specifications",
-    "Samsung Galaxy F70 Pro 5G: Launch Date and Pricing Details Revealed",
     "iPhone 18 Leaks Reveal Expected Release Date Price Changes and New Colors",
     "Spider-Man: Brand New Day Box Office Collections: Tom Holland starrer has an outstanding Saturday, Swings to Rs. 207 Cr in 3 days in India",
-    "‘Stop embarrassing your partner’: Kangana Ranaut hits back at Hrithik Roshan for ‘teasing’ her",
+    "\"Stop Adding Fuel To Fire\": Kangana Ranaut Hits Back At Hrithik Roshan Over New Trend",
     "'Jana Nayagan' box office collection day 10: Vijay and Pooja Hegde starrer sees weekend boost, crosses Rs"
   ],
   "quiz": [
     {
-      "blanked": "RTI activist seeks inquiry into how Abhijeet Dipke's father funded his US education | India ______",
-      "answer": "News",
+      "blanked": "NASA astronaut shares never-before-seen Milky Way galaxy photo taken from ______ Cupola",
+      "answer": "ISS",
       "options": [
-        "Sharma",
-        "News",
-        "Rises",
-        "SPACEWALK"
+        "Juno",
+        "ISS",
+        "Time",
+        "Least"
       ]
     },
     {
-      "blanked": "NASA ISS SPACEWALK 98 (3rd of 3), ______ 25, 2026, Earth orbit, time TBA",
-      "answer": "Aug",
+      "blanked": "Spider-Man: Brand New Day Box Office Collections: Tom Holland starrer has an outstanding Saturday, Swings to Rs. 207 Cr in 3 days in ______",
+      "answer": "India",
       "options": [
-        "Production",
-        "Reveal",
-        "Aug",
-        "Day"
+        "Missiles",
+        "India",
+        "Bajaj",
+        "Take"
       ]
     },
     {
-      "blanked": "Indian equities ‘probably oversold’: ______ investors warm up to India after months of outflows",
-      "answer": "Foreign",
+      "blanked": "‘Pakistan eroded faith’: India envoy to US calls out Islamabad's ‘distraction policy’ over Indus Waters Treaty | ______ News",
+      "answer": "India",
       "options": [
-        "Parliament",
-        "Foreign",
-        "Randy",
-        "Teen"
+        "India",
+        "Nayagan",
+        "Pulls",
+        "Milky"
       ]
     },
     {
-      "blanked": "USD/JPY weekly outlook: ______ intervention gamble now rests on payrolls",
+      "blanked": "Randeep Hooda reaches Assam to take part in flood relief efforts, serves food to displaced at langar: 'It is our duty' | ______",
+      "answer": "Bollywood",
+      "options": [
+        "Raj",
+        "Sri",
+        "Jabs",
+        "Bollywood"
+      ]
+    },
+    {
+      "blanked": "Trump Says US to ______ Off Iran Attack If Rapid Deal Agreed",
+      "answer": "Hold",
+      "options": [
+        "Way",
+        "Hold",
+        "Explained",
+        "Another"
+      ]
+    },
+    {
+      "blanked": "Russia Pounds Kyiv With ______ Killing At Least 10",
+      "answer": "Missiles",
+      "options": [
+        "Hooda",
+        "FIFA",
+        "Back",
+        "Missiles"
+      ]
+    },
+    {
+      "blanked": "How India’s National Viral ______ Control Programme is advancing the goal of eliminating hepatitis by 2030",
+      "answer": "Hepatitis",
+      "options": [
+        "Date",
+        "Changes",
+        "Hepatitis",
+        "Time"
+      ]
+    },
+    {
+      "blanked": "Revanth Reddy Offers Prayers at ______ Mahankali Temple",
+      "answer": "Ujjaini",
+      "options": [
+        "Cupra",
+        "Dubai",
+        "Oberoi",
+        "Ujjaini"
+      ]
+    },
+    {
+      "blanked": "'Why Live In Dubai If You Love India': Raj Thackeray Jabs ______ Oberoi, R Madhavan",
+      "answer": "Vivek",
+      "options": [
+        "Show",
+        "Cupra",
+        "Vivek",
+        "50000"
+      ]
+    },
+    {
+      "blanked": "Saving The Yen: Why Is US Backing ______ Currency Rescue Mission? Explained",
       "answer": "Japans",
       "options": [
-        "TBA",
+        "Decision",
+        "Deal",
         "Japans",
-        "33%",
-        "Manthan"
-      ]
-    },
-    {
-      "blanked": "Why is SpaceX's abandoned rocket crashing into the Moon? ______ are watching closely",
-      "answer": "Scientists",
-      "options": [
-        "Sharma",
-        "Abhijeet",
-        "Scientists",
-        "Shivakumar"
-      ]
-    },
-    {
-      "blanked": "‘Stop embarrassing your partner’: Kangana ______ hits back at Hrithik Roshan for ‘teasing’ her",
-      "answer": "Ranaut",
-      "options": [
-        "Leaks",
-        "Media",
-        "Ranaut",
-        "First"
-      ]
-    },
-    {
-      "blanked": "Spain-Morocco border crisis: Death toll in ______ reaches 67",
-      "answer": "Ceuta",
-      "options": [
-        "Girlfriends",
-        "Had",
-        "Heat",
-        "Ceuta"
+        "Getting"
       ]
     },
     {
       "blanked": "iPhone 18 Leaks Reveal Expected Release Date Price Changes and New ______",
       "answer": "Colors",
       "options": [
-        "Who",
+        "Kyiv",
         "Colors",
-        "Das",
-        "Open"
+        "Japans",
+        "Viral"
       ]
     },
     {
-      "blanked": "What is the Samudra ______ scheme all about? | Explained",
-      "answer": "Manthan",
+      "blanked": "‘Drugs being used to hurt India’s interests': PM ______ launches ‘Nasha Mukt Yuva Abhiyan’, urges youths to lead movement | India News",
+      "answer": "Modi",
       "options": [
-        "Manthan",
-        "Suspect",
-        "Israeli",
-        "Colors"
-      ]
-    },
-    {
-      "blanked": "Trump cancels ______ strike, says ‘deal perimeters’ reached",
-      "answer": "Iran",
-      "options": [
-        "ISS",
-        "2030",
-        "Nayagan",
-        "Iran"
-      ]
-    },
-    {
-      "blanked": "'Jana Nayagan' box office collection day 10: Vijay and Pooja ______ starrer sees weekend boost, crosses Rs",
-      "answer": "Hegde",
-      "options": [
-        "Dipkes",
-        "Hegde",
-        "Suzuki",
-        "UAE"
-      ]
-    },
-    {
-      "blanked": "India climbs to 4th position in Commonwealth Games in ______",
-      "answer": "Glasgow",
-      "options": [
-        "Ashutosh",
-        "Among",
-        "SummerSlam",
-        "Glasgow"
+        "Measures",
+        "Vivek",
+        "First",
+        "Modi"
       ]
     }
   ]
