@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-02T11:45:38.472Z",
+  "generatedAt": "2026-08-02T15:47:12.809Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "‘Drugs being used to hurt India’s interests': PM Modi launches ‘Nasha Mukt Yuva Abhiyan’, urges youths to lead movement | India News",
-    "5 Dead, 41 Missing After Ferry Carrying 271 Catches Fire In Indonesia",
+    "Drugs-free youth crucial for developed India, says PM Modi, launches campaign",
     "Avalanche kills famed climber Purja and nine others in Pakistan",
-    "Trump Says US to Hold Off Iran Attack If Rapid Deal Agreed",
-    "She Was Stopped At The Door—Then The Bomb Went Off In Moscow",
-    "‘Pakistan eroded faith’: India envoy to US calls out Islamabad's ‘distraction policy’ over Indus Waters Treaty | India News",
-    "'Why Live In Dubai If You Love India': Raj Thackeray Jabs Vivek Oberoi, R Madhavan",
+    "Five dead, 41 missing after Indonesian ferry catches fire, authorities say",
+    "Cauvery Dispute : DMK Moves Supreme Court Seeking Directions To Karnataka For Urgent Water Release",
+    "Jharkhand man booked for allegedly threatening to kill PM Modi, Amit Shah, Adityanath",
+    "\"Parameters Reached For Deal To End War\": Trump, Netanyahu Hold Off New Iran Strikes",
+    "Kerala heavy rains LIVE: Eight dead, 13 injured, 8 missing following rains: Kerala CM",
+    "Karnataka Boy, 5, Dies After Swallowing Toy Ball Found Inside Chips Packet",
     "Randeep Hooda reaches Assam to take part in flood relief efforts, serves food to displaced at langar: 'It is our duty' | Bollywood",
-    "Revanth Reddy Offers Prayers at Ujjaini Mahankali Temple",
-    "NEHR condemns Assam govt for booking land rights activist under NSA",
-    "Washington wildfires scorch over 2,50,000 acres of land; trigger mass evacuations",
-    "Hungary plans to shut down only nuclear power plant amid drought",
-    "Spain-Morocco border crisis: Death toll in Ceuta reaches 67",
-    "Russia Pounds Kyiv With Missiles, Killing At Least 10",
-    "Passenger vehicle sales surge 33% in July to nearly 4.7 lakh units on tax, rate relief",
-    "Will Nifty, Sensex extend gains on Monday? 6 factors which will drive D-Street action this week",
-    "Saving The Yen: Why Is US Backing Japan's Currency Rescue Mission? Explained",
-    "Markets roar back: Top 10 firms add Rs 2.5 lakh cr in a week; Bajaj Finance leads gains",
-    "Google Pulls AI Satellite Imagery Feature After Less Than 24 Hours",
-    "I’ve driven the new Cupra Raval and it’s proof that the hot hatch can live on in the EV era",
-    "JioTag 2 Launched in India: Price and Specifications",
-    "iPhone 18 Leaks Reveal Expected Release Date Price Changes and New Colors",
-    "Spider-Man: Brand New Day Box Office Collections: Tom Holland starrer has an outstanding Saturday, Swings to Rs. 207 Cr in 3 days in India",
-    "\"Stop Adding Fuel To Fire\": Kangana Ranaut Hits Back At Hrithik Roshan Over New Trend",
-    "'Jana Nayagan' box office collection day 10: Vijay and Pooja Hegde starrer sees weekend boost, crosses Rs"
+    "Silk Route Back In Business: After 6 Years, India Reopens Historic Shipki La Trade Corridor With China",
+    "Spain Installs 500-Metre-Long Sea Barrier After 60,000 Migrants Enter Ceuta",
+    "7 Killed In Suicide Blast During \"Peace Rally\" In Pak's Khyber Pakhtunkhwa",
+    "Iran wants to charge for Hormuz, Houthis for the Red Sea: How straits around the world are governed | Hindustan Times",
+    "Iran names Saudi, UAE, Qatar and Israeli energy sites as targets if Trump weighs new strikes",
+    "The onus lies with IndiGo and Air India: Rahul Bhatia on bringing aviation wealth back to India",
+    "Passenger vehicle sales hit top gear as July dispatches jump 33%; Maruti, Hyundai set records",
+    "Indian stock market: How are Sensex and Nifty 50 likely to perform next week amid ongoing US-Iran war?",
+    "U.S. Treasury intervenes to support yen after Japan steps in, FT reports",
+    "‘We're not building something that puts the music in the background, we want to put it in the foreground’: Former Head of Innovation at Spotify on wanting to make music platforms interactive again, and whether they can survive without the reliance on AI",
+    "iPhone 18 Pro Price Increase Reports Suggest Buyers Could Face Much Higher Costs",
+    "JioTag 2 launches with Android and iPhone support, 2 years of battery life at Rs 1,249 (~$13)",
+    "Samsung Galaxy F70 Pro 5G: Launch Date and Pricing Details Revealed",
+    "‘Spider-Man: Brand New Day’ Swings to Mind-Blowing $355 Million Debut, Second-Biggest Opening Weekend in Box Office History",
+    "‘Stop embarrassing your partner’: Kangana Ranaut hits back at Hrithik for ‘teasing’ her",
+    "Sunny Deol says Dharmendra backed 'Ghayal' after every producer rejected it: 'He was proud that I stood b"
   ],
   "quiz": [
     {
-      "blanked": "NASA astronaut shares never-before-seen Milky Way galaxy photo taken from ______ Cupola",
-      "answer": "ISS",
+      "blanked": "Avalanche kills famed climber ______ and nine others in Pakistan",
+      "answer": "Purja",
       "options": [
-        "Juno",
-        "ISS",
-        "Time",
-        "Least"
+        "Modi",
+        "Purja",
+        "Toy",
+        "Qatar"
       ]
     },
     {
-      "blanked": "Spider-Man: Brand New Day Box Office Collections: Tom Holland starrer has an outstanding Saturday, Swings to Rs. 207 Cr in 3 days in ______",
+      "blanked": "India enters the final day of ______ Games with 4th place in medal tally, including 13 gold",
+      "answer": "Commonwealth",
+      "options": [
+        "Khyber",
+        "Earth",
+        "Commonwealth",
+        "Paks"
+      ]
+    },
+    {
+      "blanked": "Iran names Saudi, ______ Qatar and Israeli energy sites as targets if Trump weighs new strikes",
+      "answer": "UAE",
+      "options": [
+        "Disease",
+        "End",
+        "Bollywood",
+        "UAE"
+      ]
+    },
+    {
+      "blanked": "Cauvery Dispute : DMK Moves Supreme Court Seeking Directions To Karnataka For Urgent ______ Release",
+      "answer": "Water",
+      "options": [
+        "Hormuz",
+        "Pricing",
+        "Earth",
+        "Water"
+      ]
+    },
+    {
+      "blanked": "U.S. ______ intervenes to support yen after Japan steps in, FT reports",
+      "answer": "Treasury",
+      "options": [
+        "Treasury",
+        "Costs",
+        "Installs",
+        "Kangana"
+      ]
+    },
+    {
+      "blanked": "Kerala heavy rains LIVE: ______ dead, 13 injured, 8 missing following rains: Kerala CM",
+      "answer": "Eight",
+      "options": [
+        "Pricing",
+        "Eight",
+        "Route",
+        "Pakistan"
+      ]
+    },
+    {
+      "blanked": "Spain Installs 500-Metre-Long Sea Barrier After 60,000 Migrants Enter ______",
+      "answer": "Ceuta",
+      "options": [
+        "During",
+        "Israeli",
+        "Ceuta",
+        "Brand"
+      ]
+    },
+    {
+      "blanked": "Silk Route Back In Business: After 6 Years, India Reopens Historic Shipki La Trade Corridor With ______",
+      "answer": "China",
+      "options": [
+        "Release",
+        "Enter",
+        "China",
+        "Hepatitis"
+      ]
+    },
+    {
+      "blanked": "The onus lies with IndiGo and Air ______ Rahul Bhatia on bringing aviation wealth back to India",
       "answer": "India",
       "options": [
-        "Missiles",
+        "Eight",
+        "Iran",
         "India",
-        "Bajaj",
-        "Take"
+        "Killed"
       ]
     },
     {
-      "blanked": "‘Pakistan eroded faith’: India envoy to US calls out Islamabad's ‘distraction policy’ over Indus Waters Treaty | ______ News",
-      "answer": "India",
+      "blanked": "WHO warns of intensifying ______ outbreak in DR Congo as cases spread to five provinces",
+      "answer": "Ebola",
       "options": [
-        "India",
-        "Nayagan",
-        "Pulls",
-        "Milky"
+        "Newberry",
+        "Hindustan",
+        "Ebola",
+        "Houthis"
       ]
     },
     {
-      "blanked": "Randeep Hooda reaches Assam to take part in flood relief efforts, serves food to displaced at langar: 'It is our duty' | ______",
-      "answer": "Bollywood",
+      "blanked": "‘Spider-Man: ______ New Day’ Swings to Mind-Blowing $355 Million Debut, Second-Biggest Opening Weekend in Box Office History",
+      "answer": "Brand",
       "options": [
-        "Raj",
-        "Sri",
-        "Jabs",
-        "Bollywood"
+        "Ball",
+        "Commonwealth",
+        "Saturday",
+        "Brand"
       ]
     },
     {
-      "blanked": "Trump Says US to ______ Off Iran Attack If Rapid Deal Agreed",
-      "answer": "Hold",
+      "blanked": "\"Parameters Reached For Deal To End War\": Trump, Netanyahu Hold Off New ______ Strikes",
+      "answer": "Iran",
       "options": [
-        "Way",
-        "Hold",
-        "Explained",
-        "Another"
-      ]
-    },
-    {
-      "blanked": "Russia Pounds Kyiv With ______ Killing At Least 10",
-      "answer": "Missiles",
-      "options": [
-        "Hooda",
-        "FIFA",
-        "Back",
-        "Missiles"
-      ]
-    },
-    {
-      "blanked": "How India’s National Viral ______ Control Programme is advancing the goal of eliminating hepatitis by 2030",
-      "answer": "Hepatitis",
-      "options": [
-        "Date",
-        "Changes",
-        "Hepatitis",
-        "Time"
-      ]
-    },
-    {
-      "blanked": "Revanth Reddy Offers Prayers at ______ Mahankali Temple",
-      "answer": "Ujjaini",
-      "options": [
-        "Cupra",
-        "Dubai",
-        "Oberoi",
-        "Ujjaini"
-      ]
-    },
-    {
-      "blanked": "'Why Live In Dubai If You Love India': Raj Thackeray Jabs ______ Oberoi, R Madhavan",
-      "answer": "Vivek",
-      "options": [
-        "Show",
-        "Cupra",
-        "Vivek",
-        "50000"
-      ]
-    },
-    {
-      "blanked": "Saving The Yen: Why Is US Backing ______ Currency Rescue Mission? Explained",
-      "answer": "Japans",
-      "options": [
-        "Decision",
-        "Deal",
-        "Japans",
-        "Getting"
-      ]
-    },
-    {
-      "blanked": "iPhone 18 Leaks Reveal Expected Release Date Price Changes and New ______",
-      "answer": "Colors",
-      "options": [
-        "Kyiv",
-        "Colors",
-        "Japans",
-        "Viral"
-      ]
-    },
-    {
-      "blanked": "‘Drugs being used to hurt India’s interests': PM ______ launches ‘Nasha Mukt Yuva Abhiyan’, urges youths to lead movement | India News",
-      "answer": "Modi",
-      "options": [
-        "Measures",
-        "Vivek",
-        "First",
-        "Modi"
+        "Seeking",
+        "Iran",
+        "Girona",
+        "Maruti"
       ]
     }
   ]
