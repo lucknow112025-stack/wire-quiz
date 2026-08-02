@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-02T15:47:12.809Z",
+  "generatedAt": "2026-08-02T20:01:34.725Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
+    "Seven killed, 18 injured in blast at peace rally in Pakistan",
     "Drugs-free youth crucial for developed India, says PM Modi, launches campaign",
     "Avalanche kills famed climber Purja and nine others in Pakistan",
-    "Five dead, 41 missing after Indonesian ferry catches fire, authorities say",
     "Cauvery Dispute : DMK Moves Supreme Court Seeking Directions To Karnataka For Urgent Water Release",
-    "Jharkhand man booked for allegedly threatening to kill PM Modi, Amit Shah, Adityanath",
-    "\"Parameters Reached For Deal To End War\": Trump, Netanyahu Hold Off New Iran Strikes",
-    "Kerala heavy rains LIVE: Eight dead, 13 injured, 8 missing following rains: Kerala CM",
-    "Karnataka Boy, 5, Dies After Swallowing Toy Ball Found Inside Chips Packet",
-    "Randeep Hooda reaches Assam to take part in flood relief efforts, serves food to displaced at langar: 'It is our duty' | Bollywood",
-    "Silk Route Back In Business: After 6 Years, India Reopens Historic Shipki La Trade Corridor With China",
-    "Spain Installs 500-Metre-Long Sea Barrier After 60,000 Migrants Enter Ceuta",
-    "7 Killed In Suicide Blast During \"Peace Rally\" In Pak's Khyber Pakhtunkhwa",
-    "Iran wants to charge for Hormuz, Houthis for the Red Sea: How straits around the world are governed | Hindustan Times",
-    "Iran names Saudi, UAE, Qatar and Israeli energy sites as targets if Trump weighs new strikes",
-    "The onus lies with IndiGo and Air India: Rahul Bhatia on bringing aviation wealth back to India",
-    "Passenger vehicle sales hit top gear as July dispatches jump 33%; Maruti, Hyundai set records",
-    "Indian stock market: How are Sensex and Nifty 50 likely to perform next week amid ongoing US-Iran war?",
-    "U.S. Treasury intervenes to support yen after Japan steps in, FT reports",
-    "‘We're not building something that puts the music in the background, we want to put it in the foreground’: Former Head of Innovation at Spotify on wanting to make music platforms interactive again, and whether they can survive without the reliance on AI",
+    "'There is an enemy within': Ceuta returns to normal after migrant crisis, but questions haunt locals | World News",
+    "A 100% US tariff sounds devastating. Giving up Russian oil could cost even more",
+    "'CJP stands with students': Abhijeet Dipke backs Jharkhand protest over JPSC, JSSC exam row",
+    "A house for Taslima Nasrin: Suvendu Adhikari promises what Buddhadeb, Mamata did not",
+    "No Case Against Minor Accused Of Abusing PM Modi: Delhi Police Sources",
+    "Slipper hurled at Pappu Yadav at presser as he defends skit on Ram temple donation theft",
+    "Trump cancels Iran strike, says ‘deal perimeters’ reached",
+    "2 Killed After Helicopters Collide Mid-Air While Battling Greek Wildfires",
+    "Five dead, 41 missing after Indonesian ferry catches fire, authorities say",
+    "China's Digital Gaze: How Beijing Tracks Foreigners Down To Their Gas Bills",
+    "Foreign investors return to Indian equities after 4-month selloff, invest ₹20,200 crore | FPIs withdrew ₹49,340 crore in June | Inshorts",
+    "Trade Setup for August 3: Top 15 things to know before the opening bell",
+    "Lion Brewery makes India comeback after 60 years, targets premium beer market",
+    "India's deep-sea bet: Centre's 'Samudra Manthan' to churn crude — How it works",
     "iPhone 18 Pro Price Increase Reports Suggest Buyers Could Face Much Higher Costs",
-    "JioTag 2 launches with Android and iPhone support, 2 years of battery life at Rs 1,249 (~$13)",
-    "Samsung Galaxy F70 Pro 5G: Launch Date and Pricing Details Revealed",
-    "‘Spider-Man: Brand New Day’ Swings to Mind-Blowing $355 Million Debut, Second-Biggest Opening Weekend in Box Office History",
+    "JioTag 2 Unveiled in India with Find My and Find Hub Compatibility",
+    "Mini Projector vs Portable Monitor: Which Is Better for Movies and Work Under Rs 10,000?",
+    "Samsung Galaxy F70 Pro price, variants officially revealed before launch",
+    "‘Spider-Man: Brand New Day’ Scores Second-Biggest Box Office Opening Ever With $355 Million",
     "‘Stop embarrassing your partner’: Kangana Ranaut hits back at Hrithik for ‘teasing’ her",
-    "Sunny Deol says Dharmendra backed 'Ghayal' after every producer rejected it: 'He was proud that I stood b"
+    "TV actor Aditi Sharma accuses husband, in-laws of domestic violence; FIR filed in Mumbai"
   ],
   "quiz": [
     {
-      "blanked": "Avalanche kills famed climber ______ and nine others in Pakistan",
-      "answer": "Purja",
+      "blanked": "A ______ US tariff sounds devastating. Giving up Russian oil could cost even more",
+      "answer": "100%",
       "options": [
-        "Modi",
-        "Purja",
-        "Toy",
-        "Qatar"
+        "Collide",
+        "Games",
+        "Time",
+        "100%"
       ]
     },
     {
-      "blanked": "India enters the final day of ______ Games with 4th place in medal tally, including 13 gold",
-      "answer": "Commonwealth",
+      "blanked": "Slipper hurled at ______ Yadav at presser as he defends skit on Ram temple donation theft",
+      "answer": "Pappu",
       "options": [
-        "Khyber",
-        "Earth",
-        "Commonwealth",
-        "Paks"
+        "Pappu",
+        "Brand",
+        "Taslima",
+        "Reports"
       ]
     },
     {
-      "blanked": "Iran names Saudi, ______ Qatar and Israeli energy sites as targets if Trump weighs new strikes",
-      "answer": "UAE",
+      "blanked": "Cauvery Dispute : DMK Moves Supreme Court Seeking Directions To Karnataka For ______ Water Release",
+      "answer": "Urgent",
       "options": [
-        "Disease",
-        "End",
-        "Bollywood",
-        "UAE"
+        "JPSC",
+        "Mumbai",
+        "Urgent",
+        "Work"
       ]
     },
     {
-      "blanked": "Cauvery Dispute : DMK Moves Supreme Court Seeking Directions To Karnataka For Urgent ______ Release",
-      "answer": "Water",
+      "blanked": "NASA's Juno ______ Heat Beneath Jupiter's Fiery Moon Io For The First Time",
+      "answer": "Measures",
       "options": [
-        "Hormuz",
-        "Pricing",
-        "Earth",
-        "Water"
-      ]
-    },
-    {
-      "blanked": "U.S. ______ intervenes to support yen after Japan steps in, FT reports",
-      "answer": "Treasury",
-      "options": [
-        "Treasury",
-        "Costs",
-        "Installs",
+        "Measures",
+        "Collide",
+        "Brewery",
         "Kangana"
       ]
     },
     {
-      "blanked": "Kerala heavy rains LIVE: ______ dead, 13 injured, 8 missing following rains: Kerala CM",
-      "answer": "Eight",
+      "blanked": "How India’s National Viral Hepatitis ______ Programme is advancing the goal of eliminating hepatitis by 2030",
+      "answer": "Control",
       "options": [
-        "Pricing",
-        "Eight",
-        "Route",
-        "Pakistan"
+        "Unveiled",
+        "Karnataka",
+        "Control",
+        "Athletics"
       ]
     },
     {
-      "blanked": "Spain Installs 500-Metre-Long Sea Barrier After 60,000 Migrants Enter ______",
-      "answer": "Ceuta",
+      "blanked": "JioTag 2 Unveiled in India with ______ My and Find Hub Compatibility",
+      "answer": "Find",
       "options": [
-        "During",
-        "Israeli",
-        "Ceuta",
-        "Brand"
+        "Deol",
+        "Find",
+        "Juno",
+        "Bowel"
       ]
     },
     {
-      "blanked": "Silk Route Back In Business: After 6 Years, India Reopens Historic Shipki La Trade Corridor With ______",
-      "answer": "China",
+      "blanked": "Five dead, 41 missing after ______ ferry catches fire, authorities say",
+      "answer": "Indonesian",
       "options": [
-        "Release",
-        "Enter",
-        "China",
-        "Hepatitis"
+        "Pollution",
+        "10000",
+        "Indonesian",
+        "Impact"
       ]
     },
     {
-      "blanked": "The onus lies with IndiGo and Air ______ Rahul Bhatia on bringing aviation wealth back to India",
-      "answer": "India",
+      "blanked": "Knee injury rules Jasprit Bumrah out of Sri Lanka ______",
+      "answer": "Tests",
       "options": [
-        "Eight",
-        "Iran",
-        "India",
-        "Killed"
+        "Tests",
+        "Box",
+        "Day",
+        "Iran"
       ]
     },
     {
-      "blanked": "WHO warns of intensifying ______ outbreak in DR Congo as cases spread to five provinces",
-      "answer": "Ebola",
+      "blanked": "'CJP stands with students': Abhijeet Dipke backs Jharkhand protest over JPSC, ______ exam row",
+      "answer": "JSSC",
       "options": [
-        "Newberry",
-        "Hindustan",
-        "Ebola",
-        "Houthis"
+        "Galaxy",
+        "Increase",
+        "Earth",
+        "JSSC"
       ]
     },
     {
-      "blanked": "‘Spider-Man: ______ New Day’ Swings to Mind-Blowing $355 Million Debut, Second-Biggest Opening Weekend in Box Office History",
-      "answer": "Brand",
+      "blanked": "China's ______ Gaze: How Beijing Tracks Foreigners Down To Their Gas Bills",
+      "answer": "Digital",
       "options": [
-        "Ball",
-        "Commonwealth",
-        "Saturday",
-        "Brand"
+        "Tracks",
+        "Digital",
+        "Campaign",
+        "Collide"
       ]
     },
     {
-      "blanked": "\"Parameters Reached For Deal To End War\": Trump, Netanyahu Hold Off New ______ Strikes",
-      "answer": "Iran",
+      "blanked": "Foreign investors return to Indian equities after 4-month selloff, invest ₹20,200 crore | ______ withdrew ₹49,340 crore in June | Inshorts",
+      "answer": "FPIs",
       "options": [
-        "Seeking",
-        "Iran",
-        "Girona",
-        "Maruti"
+        "Monitor",
+        "Top",
+        "FPIs",
+        "Digital"
+      ]
+    },
+    {
+      "blanked": "Trade Setup for August 3: ______ 15 things to know before the opening bell",
+      "answer": "Top",
+      "options": [
+        "Against",
+        "Hub",
+        "Top",
+        "Bowel"
       ]
     }
   ]
