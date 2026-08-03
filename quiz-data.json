@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-03T18:59:01.518Z",
+  "generatedAt": "2026-08-03T22:37:12.501Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "Prashant Kishor Bankipur by-poll: From election backrooms to Bihar Assembly",
+    "Prashant Kishor Bankipur bypoll: From election backrooms to Bihar Assembly",
+    "Trump cancels strikes on Iran, says talks to resume: Decoding the big U-turn by the US president",
     "‘Zuckerberg intends to destabilise India’: Parliament panel chief demands apology from Meta boss over PM post row | India News",
-    "Trump reveals US planned 'biggest attack since World War II' against Iran, but called it off | Here's why | World News",
+    "Congress keeps Datia seat in Madhya Pradesh, defeats BJP rival by 6,016 votes",
     "Chandra Kumar Bose, Netaji's grandnephew, quits Trinamool, cites personal reasons",
-    "'There is an enemy within': Ceuta returns to normal after migrant crisis, but questions haunt locals | World News",
-    "2,000 teens for RSS chief Mohan Bhagwat’s Gen Z outreach on Aug 6 after CJP protests",
+    "Uncertainty on Iranians’ minds as Trump fluctuates on war and talk",
     "TVK vs Opposition In Tamil Nadu Over Cauvery Dispute, 1st Major Test For Vijay",
-    "Centre must ensure every road has encroachment-free space for walking: Supreme Court",
-    "How JeM operative's girlfriend was being groomed to replace 'ISI operative', influencer Jyoti Malhotra",
-    "BREAKING| Delhi Court Acquits Brij Bhushan Sharan Singh In Wrestlers' Sexual Harassment Case",
-    "Senior Russian general survives assassination attempt in Moscow restaurant blast: Report",
-    "'Beaten until they enlisted': Russia ramps up forced recruitment amid Ukraine losses - report",
-    "Iran executes two people accused of spying for Israel",
+    "2,000 teens for RSS chief Mohan Bhagwat’s Gen Z outreach on Aug 6 after CJP protests",
+    "'CJP stands with all students': Dipke backs Jharkhand students protesting JPSC, JSSC exam irregularities | India News",
+    "SC asks Centre to ensure pedestrians have safe footpaths",
     "From Hezbollah to Houthis: Iran's regional allies are making a comeback. Here's how they're strengthening...",
-    "Gift Nifty signals strong opening for Nifty, Sensex",
+    "Balochistan Declares August 11 Independence Day, Seeks Global Recognition After Pakistan Breakaway Claim",
+    "US, Israel behind Cueta crisis? The geopolitics of illegal migration from Morocco to Spain",
+    "IRGC vows ‘severe, crushing’ retaliation for Haniyeh, Ayatollah Khamenei assassinations",
     "India's Nifty and Sensex diverge following launch of new auction mechanism",
-    "LIC OFS: Govt To Divest Up To 6.5% Stake In State-Run Insurer; Floor Price Fixed",
-    "Japan confirms joint yen intervention with U.S., signals readiness for more action",
-    "As iPhone 18 series launch nears, the price of staying loyal to Apple is rising",
-    "Flipkart Announces Freedom Sale with Significant Discounts on iPhone 17 Pro",
+    "Gift Nifty signals strong opening for Nifty, Sensex",
+    "Govt launches LIC OFS to sell up to 6.5% stake at Rs 382/share; non-retail issue opens on Aug 4",
+    "Strategy (MSTR) news: Saylor sells more bitcoin, buys back more STRC",
+    "Lenovo Googlebook leaks reveal a laptop and 2-in-1 tablet",
+    "Apple iPhone 18 Pro Release Date September Signaled In Keynote Update",
+    "Amazon Great Freedom Sale 2026: Dates, bank offers, top discounts on phones, TVs, fashion and more",
     "Samsung Galaxy F70 Pro is official with a 6,000mAh battery, triple camera setup - GSMArena.com news",
-    "iQOO Z11 leaked marketing image shows a Pixel-like camera bar - GSMArena.com news",
-    "New Spider-Man film sees second-biggest ever global opening weekend",
-    "Actor Sidhant Gupta Replaces Farhan Akhtar In Aamir Khan's Lalkaara: Report",
-    "Salman Khan reacts to Sohail Khan taking responsibility for divorce with Seema Sajdeh: 'My dear noble bro"
+    "Kevin Feige on ‘Brand New Day’ Breaking Records, Sadie Sink’s Reveal and Tom Holland Getting a ‘Restful Victory Lap’ Before a Potential ‘Spider-Man 5’",
+    "Suriya And Jyothika Redefine Cover Star Glamour",
+    "Lock Upp 2: Shreya Kalra Uses Special Power To Evict Shivangi Joshi"
   ],
   "quiz": [
     {
-      "blanked": "Prashant Kishor ______ by-poll: From election backrooms to Bihar Assembly",
-      "answer": "Bankipur",
+      "blanked": "Lock Upp 2: Shreya Kalra Uses ______ Power To Evict Shivangi Joshi",
+      "answer": "Special",
       "options": [
         "Spider-Man",
-        "Bankipur",
-        "Govt",
-        "Houthis"
+        "Bumrah",
+        "Special",
+        "Digital"
       ]
     },
     {
-      "blanked": "Actor Sidhant ______ Replaces Farhan Akhtar In Aamir Khan's Lalkaara: Report",
-      "answer": "Gupta",
+      "blanked": "Trump cancels strikes on Iran, says talks to resume: ______ the big U-turn by the US president",
+      "answer": "Decoding",
       "options": [
-        "Bankipur",
-        "Gupta",
-        "Ektaa",
-        "Neeraj"
+        "Sadie",
+        "System",
+        "Decoding",
+        "Googlebook"
       ]
     },
     {
-      "blanked": "2,000 teens for RSS chief Mohan Bhagwat’s Gen Z outreach on ______ 6 after CJP protests",
+      "blanked": "'CJP stands with all students': Dipke backs ______ students protesting JPSC, JSSC exam irregularities | India News",
+      "answer": "Jharkhand",
+      "options": [
+        "Jharkhand",
+        "Iran",
+        "Mercury",
+        "Decoding"
+      ]
+    },
+    {
+      "blanked": "MRI Models Predict ______ HCC Recurrence After Resection",
+      "answer": "Early",
+      "options": [
+        "Tom",
+        "Early",
+        "Trinamool",
+        "Dispute"
+      ]
+    },
+    {
+      "blanked": "US, Israel behind ______ crisis? The geopolitics of illegal migration from Morocco to Spain",
+      "answer": "Cueta",
+      "options": [
+        "Assembly",
+        "Study",
+        "Shows",
+        "Cueta"
+      ]
+    },
+    {
+      "blanked": "World's Largest Digital Camera Shows Vast Cosmic Landscape With 500,000 ______",
+      "answer": "Galaxies",
+      "options": [
+        "Holland",
+        "Assembly",
+        "Victory",
+        "Galaxies"
+      ]
+    },
+    {
+      "blanked": "Balochistan Declares August 11 Independence Day, Seeks ______ Recognition After Pakistan Breakaway Claim",
+      "answer": "Global",
+      "options": [
+        "Global",
+        "Hands",
+        "Galaxy",
+        "Atltico"
+      ]
+    },
+    {
+      "blanked": "Govt launches LIC OFS to sell up to 6.5% stake at Rs 382/share; non-retail issue opens on ______ 4",
       "answer": "Aug",
       "options": [
-        "Games",
         "Aug",
-        "Supreme",
-        "Apple"
+        "Glasgow",
+        "Shivangi",
+        "JPSC"
       ]
     },
     {
-      "blanked": "Is a persistent cough an early sign of lung cancer? ______ an oncologist wants you to know",
-      "answer": "What",
+      "blanked": "Suriya And Jyothika Redefine Cover Star ______",
+      "answer": "Glamour",
       "options": [
-        "Russian",
-        "Sri",
-        "Series",
-        "What"
+        "Neuro",
+        "Glamour",
+        "Earth",
+        "Madrid"
       ]
     },
     {
-      "blanked": "'Beaten until they enlisted': Russia ramps up forced recruitment amid ______ losses - report",
-      "answer": "Ukraine",
+      "blanked": "Strategy (MSTR) news: Saylor sells more bitcoin, buys back more ______",
+      "answer": "STRC",
       "options": [
-        "Ukraine",
-        "Bankipur",
-        "Hepatitis",
-        "Look"
+        "Reveal",
+        "Meta",
+        "Jharkhand",
+        "STRC"
       ]
     },
     {
-      "blanked": "iQOO Z11 leaked marketing image shows a ______ camera bar - GSMArena.com news",
-      "answer": "Pixel-like",
+      "blanked": "SC asks ______ to ensure pedestrians have safe footpaths",
+      "answer": "Centre",
       "options": [
-        "Apple",
-        "Tamil",
-        "Pixel-like",
-        "Ektaa"
+        "Centre",
+        "Ranbir",
+        "Cosmic",
+        "Cauvery"
       ]
     },
     {
-      "blanked": "Has Shivangi Joshi won Lock Upp even after getting evicted? Internet jokes the dead are never dead in Ektaa Kapoor shows | Web ______",
-      "answer": "Series",
+      "blanked": "Aquib ______ replaces Jasprit Bumrah for Sri Lanka series",
+      "answer": "Nabi",
       "options": [
-        "Mercury",
-        "Series",
-        "Image",
-        "Lock"
-      ]
-    },
-    {
-      "blanked": "NASA's Juno Probe Detects Subsurface Heating On Jupiter's Volcanic ______ Io",
-      "answer": "Moon",
-      "options": [
-        "Lalkaara",
-        "Moon",
-        "6.5%",
-        "What"
-      ]
-    },
-    {
-      "blanked": "Aquib Nabi replaces Jasprit Bumrah for Sri ______ series",
-      "answer": "Lanka",
-      "options": [
-        "Dispute",
-        "Pixel-like",
-        "Lanka",
-        "Bumrah"
-      ]
-    },
-    {
-      "blanked": "ATS Initiative for OSA ______ in Primary Care - respiratory-therapy.com",
-      "answer": "Diagnosis",
-      "options": [
-        "ISI",
-        "Hezbollah",
-        "Diagnosis",
-        "Heres"
-      ]
-    },
-    {
-      "blanked": "Flipkart Announces Freedom Sale with ______ Discounts on iPhone 17 Pro",
-      "answer": "Significant",
-      "options": [
-        "Usha",
-        "Parliament",
-        "Significant",
-        "Upp"
-      ]
-    },
-    {
-      "blanked": "'There is an enemy within': ______ returns to normal after migrant crisis, but questions haunt locals | World News",
-      "answer": "Ceuta",
-      "options": [
-        "Ceuta",
-        "Heating",
-        "Report",
-        "Campaign"
+        "Digital",
+        "Joins",
+        "Nabi",
+        "Bose"
       ]
     }
   ]
