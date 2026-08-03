@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-03T12:38:25.887Z",
+  "generatedAt": "2026-08-03T18:59:01.518Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "Bihar bypoll: Bankipur byelection counting underway, Prashant Kishor leads as per initial trends",
-    "BREAKING| Delhi Court Acquits Brij Bhushan Sharan Singh In Wrestlers' Sexual Harassment Case",
-    "'Vijay is a courageous leader': DKS after TN CM agrees to defer Cauvery-related Bengaluru visit | India News",
-    "Student Protest Violence : Live Updates From Supreme Court Hearing",
-    "Trump says new Iran negotiations starting: What we know",
-    "Thiruparankundram Hill Row : Supreme Court Issues Notice On Tamil Nadu Govt Plea Against Madras HC Order...",
-    "Fourteen dead, thousands displaced as rains, floods strike southern India",
+    "Prashant Kishor Bankipur by-poll: From election backrooms to Bihar Assembly",
+    "‘Zuckerberg intends to destabilise India’: Parliament panel chief demands apology from Meta boss over PM post row | India News",
+    "Trump reveals US planned 'biggest attack since World War II' against Iran, but called it off | Here's why | World News",
+    "Chandra Kumar Bose, Netaji's grandnephew, quits Trinamool, cites personal reasons",
+    "'There is an enemy within': Ceuta returns to normal after migrant crisis, but questions haunt locals | World News",
+    "2,000 teens for RSS chief Mohan Bhagwat’s Gen Z outreach on Aug 6 after CJP protests",
+    "TVK vs Opposition In Tamil Nadu Over Cauvery Dispute, 1st Major Test For Vijay",
     "Centre must ensure every road has encroachment-free space for walking: Supreme Court",
-    "Unhappy over non-inclusion in Karnataka Cabinet, 2 Congress MLAs resign",
-    "Kanwariyas run rampant amid a lack of enforcement in Delhi | Latest News Delhi",
-    "'Kids As Young As 15 On Pakistan's Target': Inside The Deadly PoK Protests",
+    "How JeM operative's girlfriend was being groomed to replace 'ISI operative', influencer Jyoti Malhotra",
+    "BREAKING| Delhi Court Acquits Brij Bhushan Sharan Singh In Wrestlers' Sexual Harassment Case",
+    "Senior Russian general survives assassination attempt in Moscow restaurant blast: Report",
+    "'Beaten until they enlisted': Russia ramps up forced recruitment amid Ukraine losses - report",
     "Iran executes two people accused of spying for Israel",
-    "Did Pak just block Qatar's Al Jazeera over POK protest reporting?",
-    "'Double tap': How terrorists are trapping Pakistan's security personnel",
+    "From Hezbollah to Houthis: Iran's regional allies are making a comeback. Here's how they're strengthening...",
     "Gift Nifty signals strong opening for Nifty, Sensex",
-    "Iran war whiplash; Palantir earnings ahead - what’s moving markets",
-    "Here's why ITC, Godfrey Phillips shares are up to 5% higher despite tax hike concerns",
-    "AstraZeneca, BMS reportedly in $400B merger talks",
-    "Apple may finally launch its camera-equipped AirPods next month",
-    "Microsoft will make Windows 11 run faster on your 8 GB PC",
-    "iPhone 18 Pro launch date leaks: 7 reasons to upgrade",
+    "India's Nifty and Sensex diverge following launch of new auction mechanism",
+    "LIC OFS: Govt To Divest Up To 6.5% Stake In State-Run Insurer; Floor Price Fixed",
+    "Japan confirms joint yen intervention with U.S., signals readiness for more action",
+    "As iPhone 18 series launch nears, the price of staying loyal to Apple is rising",
+    "Flipkart Announces Freedom Sale with Significant Discounts on iPhone 17 Pro",
     "Samsung Galaxy F70 Pro is official with a 6,000mAh battery, triple camera setup - GSMArena.com news",
+    "iQOO Z11 leaked marketing image shows a Pixel-like camera bar - GSMArena.com news",
     "New Spider-Man film sees second-biggest ever global opening weekend",
-    "Salman Khan makes rare comment about his time in jail: ‘We had bars, in a small area there were 60-70 people’ | Bollywood",
-    "‘Kya paagalpan hai ye’: Contestants tortured with rubber bullets on Khatron Ke Khiladi, internet calls it unacceptable | Hindustan Times"
+    "Actor Sidhant Gupta Replaces Farhan Akhtar In Aamir Khan's Lalkaara: Report",
+    "Salman Khan reacts to Sohail Khan taking responsibility for divorce with Seema Sajdeh: 'My dear noble bro"
   ],
   "quiz": [
     {
-      "blanked": "Student ______ Violence : Live Updates From Supreme Court Hearing",
-      "answer": "Protest",
+      "blanked": "Prashant Kishor ______ by-poll: From election backrooms to Bihar Assembly",
+      "answer": "Bankipur",
       "options": [
-        "Doctor",
-        "India",
-        "Protest",
-        "Spider-Man"
+        "Spider-Man",
+        "Bankipur",
+        "Govt",
+        "Houthis"
       ]
     },
     {
-      "blanked": "Iran war whiplash; ______ earnings ahead - what’s moving markets",
-      "answer": "Palantir",
-      "options": [
-        "Scientists",
-        "Palantir",
-        "Israel",
-        "POK"
-      ]
-    },
-    {
-      "blanked": "Apple may finally launch its camera-equipped ______ next month",
-      "answer": "AirPods",
-      "options": [
-        "Madras",
-        "AirPods",
-        "Singh",
-        "Sri"
-      ]
-    },
-    {
-      "blanked": "'Vijay is a courageous leader': ______ after TN CM agrees to defer Cauvery-related Bengaluru visit | India News",
-      "answer": "DKS",
+      "blanked": "Actor Sidhant ______ Replaces Farhan Akhtar In Aamir Khan's Lalkaara: Report",
+      "answer": "Gupta",
       "options": [
         "Bankipur",
-        "DKS",
-        "Wrestlers",
-        "BMS"
+        "Gupta",
+        "Ektaa",
+        "Neeraj"
       ]
     },
     {
-      "blanked": "Unhappy over non-inclusion in Karnataka Cabinet, 2 ______ MLAs resign",
-      "answer": "Congress",
+      "blanked": "2,000 teens for RSS chief Mohan Bhagwat’s Gen Z outreach on ______ 6 after CJP protests",
+      "answer": "Aug",
       "options": [
-        "Congress",
-        "Poorer",
-        "Scientists",
-        "Iceland"
+        "Games",
+        "Aug",
+        "Supreme",
+        "Apple"
       ]
     },
     {
-      "blanked": "Glasgow bids farewell to Commonwealth Games with handover to ______",
-      "answer": "Ahmedabad",
+      "blanked": "Is a persistent cough an early sign of lung cancer? ______ an oncologist wants you to know",
+      "answer": "What",
       "options": [
-        "Ahmedabad",
+        "Russian",
+        "Sri",
+        "Series",
+        "What"
+      ]
+    },
+    {
+      "blanked": "'Beaten until they enlisted': Russia ramps up forced recruitment amid ______ losses - report",
+      "answer": "Ukraine",
+      "options": [
+        "Ukraine",
+        "Bankipur",
+        "Hepatitis",
+        "Look"
+      ]
+    },
+    {
+      "blanked": "iQOO Z11 leaked marketing image shows a ______ camera bar - GSMArena.com news",
+      "answer": "Pixel-like",
+      "options": [
+        "Apple",
+        "Tamil",
+        "Pixel-like",
+        "Ektaa"
+      ]
+    },
+    {
+      "blanked": "Has Shivangi Joshi won Lock Upp even after getting evicted? Internet jokes the dead are never dead in Ektaa Kapoor shows | Web ______",
+      "answer": "Series",
+      "options": [
+        "Mercury",
+        "Series",
         "Image",
-        "Violence",
-        "Test"
+        "Lock"
       ]
     },
     {
-      "blanked": "Vinicius rejoins Real ______ squad in training",
-      "answer": "Madrid",
+      "blanked": "NASA's Juno Probe Detects Subsurface Heating On Jupiter's Volcanic ______ Io",
+      "answer": "Moon",
       "options": [
-        "POK",
-        "Pak",
-        "Madrid",
-        "Palantir"
+        "Lalkaara",
+        "Moon",
+        "6.5%",
+        "What"
       ]
     },
     {
-      "blanked": "Screen Time Linked to ______ Skin and Body Image",
-      "answer": "Poorer",
+      "blanked": "Aquib Nabi replaces Jasprit Bumrah for Sri ______ series",
+      "answer": "Lanka",
       "options": [
-        "Real",
-        "Poorer",
-        "Test",
-        "Galaxy"
+        "Dispute",
+        "Pixel-like",
+        "Lanka",
+        "Bumrah"
       ]
     },
     {
-      "blanked": "Auqib ______ earns maiden India Test call-up for Sri Lanka series",
-      "answer": "Nabi",
+      "blanked": "ATS Initiative for OSA ______ in Primary Care - respiratory-therapy.com",
+      "answer": "Diagnosis",
       "options": [
-        "Test",
-        "ITC",
-        "Deadly",
-        "Nabi"
+        "ISI",
+        "Hezbollah",
+        "Diagnosis",
+        "Heres"
       ]
     },
     {
-      "blanked": "Microsoft will make ______ 11 run faster on your 8 GB PC",
-      "answer": "Windows",
+      "blanked": "Flipkart Announces Freedom Sale with ______ Discounts on iPhone 17 Pro",
+      "answer": "Significant",
       "options": [
-        "Skin",
-        "Kiara",
-        "Windows",
-        "Not"
+        "Usha",
+        "Parliament",
+        "Significant",
+        "Upp"
       ]
     },
     {
-      "blanked": "AstraZeneca, ______ reportedly in $400B merger talks",
-      "answer": "BMS",
+      "blanked": "'There is an enemy within': ______ returns to normal after migrant crisis, but questions haunt locals | World News",
+      "answer": "Ceuta",
       "options": [
-        "Campaign",
-        "Karnataka",
-        "Advani-Yash",
-        "BMS"
-      ]
-    },
-    {
-      "blanked": "‘Toxic’ actor Huma Qureshi ______ co-stars Kiara Advani-Yash amid ‘Tabaahi’ row, calls trolling “sick, disgusting”",
-      "answer": "DEFENDS",
-      "options": [
-        "Not",
-        "DEFENDS",
-        "Jazeera",
-        "Khatron"
+        "Ceuta",
+        "Heating",
+        "Report",
+        "Campaign"
       ]
     }
   ]
