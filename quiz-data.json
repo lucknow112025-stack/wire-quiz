@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-02T23:43:22.900Z",
+  "generatedAt": "2026-08-03T12:38:25.887Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "Trump cancels Iran strike, says ‘deal perimeters’ reached",
-    "'CJP stands with all students': Dipke backs Jharkhand students protesting JPSC, JSSC exam irregularities | India News",
-    "Suicide bomber kills 14 outside police station in Pakistan’s Swat",
-    "3 states, 3 bypolls: All eyes on PK, Ashutosh Tiwari as Bankipur, Datia, Manjalpur await verdict on Monday | India News",
-    "Watch: Scuffle erupts after slipper thrown at Pappu Yadav, MP claims ‘plot to kill’ him | India News",
-    "Drugs-free youth crucial for developed India, says PM Modi, launches campaign",
-    "No Training, No Motorboat: Class 10 Dropout Rescues 2,000 In Assam Floods",
-    "A house for Taslima Nasrin: Suvendu Adhikari promises what Buddhadeb, Mamata did not",
-    "‘PM gave my daughter a new life’: Mother of girl who abused Modi at Jantar Mantar",
-    "Sheikh Hasina to hold presser on August 5, a month before Tarique Rahman’s expected visit",
-    "Iran, Oman close to deal on new Strait of Hormuz shipping route, says Tehran",
-    "Spain Installs 500-Metre-Long Sea Barrier After 60,000 Migrants Enter Ceuta",
-    "How China's Surveillance Network Follows Foreigners Into Their Homes",
-    "Watch: Firefighting helicopters collide mid-air as Greece battles massive wildfire",
-    "Foreign investors return to Indian equities after 4-month selloff, invest ₹20,200 crore | FPIs withdrew ₹49,340 crore in June | Inshorts",
-    "British brewer Lion returns to India after 60 years, enters Delhi market with premium beer",
-    "'Do what India needs': Noel Tata charts Tata Trusts' new roadmap focused on healthcare, education",
-    "The onus lies with IndiGo and Air India: Rahul Bhatia on bringing aviation wealth back to India",
-    "Is the Dyson V15 Detect still worth buying over a Shark? I've used one at home for two years and I've tested Shark’s best — here's why I'd recommend the Dyson",
-    "Deals: Galaxy Z Fold8 series and iPhone 17 Pro models on sale - GSMArena.com news",
-    "iPhone 18 Pro Price Increase Reports Suggest Buyers Could Face Much Higher Costs",
-    "JioTag 2 Unveiled in India with Find My and Find Hub Compatibility",
-    "'Spider-Man: Brand New Day' records USD 927 million worldwide box office debut; Tom Hollan starrer scores",
-    "Does Sidharth Malhotra’s birthday wish for wife Kiara Advani take aim at ‘Toxic’ trolling?",
-    "WWE SummerSlam 2026 Night 2 Results, Winners And Live Updates"
+    "Bihar bypoll: Bankipur byelection counting underway, Prashant Kishor leads as per initial trends",
+    "BREAKING| Delhi Court Acquits Brij Bhushan Sharan Singh In Wrestlers' Sexual Harassment Case",
+    "'Vijay is a courageous leader': DKS after TN CM agrees to defer Cauvery-related Bengaluru visit | India News",
+    "Student Protest Violence : Live Updates From Supreme Court Hearing",
+    "Trump says new Iran negotiations starting: What we know",
+    "Thiruparankundram Hill Row : Supreme Court Issues Notice On Tamil Nadu Govt Plea Against Madras HC Order...",
+    "Fourteen dead, thousands displaced as rains, floods strike southern India",
+    "Centre must ensure every road has encroachment-free space for walking: Supreme Court",
+    "Unhappy over non-inclusion in Karnataka Cabinet, 2 Congress MLAs resign",
+    "Kanwariyas run rampant amid a lack of enforcement in Delhi | Latest News Delhi",
+    "'Kids As Young As 15 On Pakistan's Target': Inside The Deadly PoK Protests",
+    "Iran executes two people accused of spying for Israel",
+    "Did Pak just block Qatar's Al Jazeera over POK protest reporting?",
+    "'Double tap': How terrorists are trapping Pakistan's security personnel",
+    "Gift Nifty signals strong opening for Nifty, Sensex",
+    "Iran war whiplash; Palantir earnings ahead - what’s moving markets",
+    "Here's why ITC, Godfrey Phillips shares are up to 5% higher despite tax hike concerns",
+    "AstraZeneca, BMS reportedly in $400B merger talks",
+    "Apple may finally launch its camera-equipped AirPods next month",
+    "Microsoft will make Windows 11 run faster on your 8 GB PC",
+    "iPhone 18 Pro launch date leaks: 7 reasons to upgrade",
+    "Samsung Galaxy F70 Pro is official with a 6,000mAh battery, triple camera setup - GSMArena.com news",
+    "New Spider-Man film sees second-biggest ever global opening weekend",
+    "Salman Khan makes rare comment about his time in jail: ‘We had bars, in a small area there were 60-70 people’ | Bollywood",
+    "‘Kya paagalpan hai ye’: Contestants tortured with rubber bullets on Khatron Ke Khiladi, internet calls it unacceptable | Hindustan Times"
   ],
   "quiz": [
     {
-      "blanked": "India at Commonwealth Games 2026, ______ 10: Campaign ends with fourth place finish; over to Ahmedabad - as it happened",
-      "answer": "Day",
+      "blanked": "Student ______ Violence : Live Updates From Supreme Court Hearing",
+      "answer": "Protest",
       "options": [
-        "Day",
-        "Reports",
-        "Reduced",
-        "Datia"
+        "Doctor",
+        "India",
+        "Protest",
+        "Spider-Man"
       ]
     },
     {
-      "blanked": "Actor Aditi Sharma Files Domestic Violence Complaint Against ______ In-Laws",
-      "answer": "Husband",
+      "blanked": "Iran war whiplash; ______ earnings ahead - what’s moving markets",
+      "answer": "Palantir",
       "options": [
-        "Husband",
-        "Assam",
-        "Lanka",
-        "Rescues"
+        "Scientists",
+        "Palantir",
+        "Israel",
+        "POK"
       ]
     },
     {
-      "blanked": "The onus lies with IndiGo and Air India: Rahul ______ on bringing aviation wealth back to India",
-      "answer": "Bhatia",
+      "blanked": "Apple may finally launch its camera-equipped ______ next month",
+      "answer": "AirPods",
       "options": [
-        "Barrier",
-        "Bhatia",
-        "Tata",
-        "Costs"
+        "Madras",
+        "AirPods",
+        "Singh",
+        "Sri"
       ]
     },
     {
-      "blanked": "Lung cancer isn't just a smoker's disease: ______ explains how air pollution, genetics, and everyday exposures may quietly increase your risk",
-      "answer": "Doctor",
+      "blanked": "'Vijay is a courageous leader': ______ after TN CM agrees to defer Cauvery-related Bengaluru visit | India News",
+      "answer": "DKS",
       "options": [
-        "Oman",
-        "500000",
-        "Greece",
-        "Doctor"
+        "Bankipur",
+        "DKS",
+        "Wrestlers",
+        "BMS"
       ]
     },
     {
-      "blanked": "Does Sidharth Malhotra’s birthday wish for wife Kiara ______ take aim at ‘Toxic’ trolling?",
-      "answer": "Advani",
+      "blanked": "Unhappy over non-inclusion in Karnataka Cabinet, 2 ______ MLAs resign",
+      "answer": "Congress",
       "options": [
-        "Advani",
-        "Buyers",
-        "Inshorts",
-        "Against"
+        "Congress",
+        "Poorer",
+        "Scientists",
+        "Iceland"
       ]
     },
     {
-      "blanked": "NASA’s ______ spacecraft probes beneath surface of Jupiter’s volcanic moon for first time",
-      "answer": "Juno",
+      "blanked": "Glasgow bids farewell to Commonwealth Games with handover to ______",
+      "answer": "Ahmedabad",
       "options": [
-        "Juno",
-        "Greece",
-        "Sher-e-Punjab",
-        "Air"
+        "Ahmedabad",
+        "Image",
+        "Violence",
+        "Test"
       ]
     },
     {
-      "blanked": "Suicide bomber kills 14 outside police station in ______ Swat",
-      "answer": "Pakistans",
+      "blanked": "Vinicius rejoins Real ______ squad in training",
+      "answer": "Madrid",
       "options": [
-        "Sher-e-Punjab",
-        "Pakistans",
-        "Juno",
-        "Inshorts"
+        "POK",
+        "Pak",
+        "Madrid",
+        "Palantir"
       ]
     },
     {
-      "blanked": "iPhone 18 Pro Price Increase Reports Suggest Buyers Could Face Much ______ Costs",
-      "answer": "Higher",
+      "blanked": "Screen Time Linked to ______ Skin and Body Image",
+      "answer": "Poorer",
       "options": [
-        "Inshorts",
-        "500000",
-        "Higher",
-        "Results"
+        "Real",
+        "Poorer",
+        "Test",
+        "Galaxy"
       ]
     },
     {
-      "blanked": "‘PM gave my daughter a new life’: Mother of girl who abused Modi at ______ Mantar",
-      "answer": "Jantar",
+      "blanked": "Auqib ______ earns maiden India Test call-up for Sri Lanka series",
+      "answer": "Nabi",
       "options": [
-        "Monday",
-        "COSMOS",
-        "Jantar",
-        "Brand"
+        "Test",
+        "ITC",
+        "Deadly",
+        "Nabi"
       ]
     },
     {
-      "blanked": "Deals: Galaxy Z Fold8 series and iPhone 17 ______ models on sale - GSMArena.com news",
-      "answer": "Pro",
+      "blanked": "Microsoft will make ______ 11 run faster on your 8 GB PC",
+      "answer": "Windows",
       "options": [
-        "Rahmans",
-        "Pro",
-        "Buddhadeb",
-        "Reduced"
+        "Skin",
+        "Kiara",
+        "Windows",
+        "Not"
       ]
     },
     {
-      "blanked": "World's largest digital camera captures over ______ galaxies in one image | COSMOS field lies far from our galaxy | Inshorts",
-      "answer": "500000",
+      "blanked": "AstraZeneca, ______ reportedly in $400B merger talks",
+      "answer": "BMS",
       "options": [
-        "Control",
-        "2030",
-        "Floods",
-        "500000"
+        "Campaign",
+        "Karnataka",
+        "Advani-Yash",
+        "BMS"
       ]
     },
     {
-      "blanked": "British brewer Lion returns to India after 60 years, enters ______ market with premium beer",
-      "answer": "Delhi",
+      "blanked": "‘Toxic’ actor Huma Qureshi ______ co-stars Kiara Advani-Yash amid ‘Tabaahi’ row, calls trolling “sick, disgusting”",
+      "answer": "DEFENDS",
       "options": [
-        "Results",
-        "Delhi",
-        "Live",
-        "Jasprit"
+        "Not",
+        "DEFENDS",
+        "Jazeera",
+        "Khatron"
       ]
     }
   ]
