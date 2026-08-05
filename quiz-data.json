@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-05T18:08:53.006Z",
+  "generatedAt": "2026-08-05T22:20:04.139Z",
   "source": "Google News (India edition)",
-  "headlineCount": 38,
+  "headlineCount": 37,
   "headlines": [
     "Meta apologises to India for restricting PM Modi's post",
-    "Iran, Oman, US ‘close’ to Hormuz deal: What do they all want?",
     "Ex-PM Sheikh Hasina announces plan to return to Bangladesh",
+    "Bomb Attack At Shakib Al Hasan's House Hours After Sheikh Hasina's Delhi Presser",
     "Tamil Nadu Budget 2026 updates: One-sovereign gold for brides announced; DMK, AIADMK say TVK's maiden Budget offers nothing new",
     "Devendra Mahto, student leader on hunger strike in Jharkhand, drinks water on call with Wangchuk | Watch | India News",
-    "\"No Proposal To Extend Parliament's Monsoon Session\": Kiren Rijiju",
-    "US Congressman Riley Moore voices concern on FCRA amendments, warns it could affect India-US ties",
+    "No Proposal To Extend Monsoon Session: Union Minister Kiren Rijiju",
+    "Widespread street protests by NC, PDP mark 7th anniversary of abrogation of Article 370 in J&K",
     "Flood situation in Assam critical as overnight rains threaten fresh inundation",
-    "Kept Pakistan waiting when it sought truce: Ex-defence chief's big Sindoor reveal",
-    "News Outlets Can Report Court Proceedings Without Sharing Audio-Video Clips : Supreme Court Clarifies",
-    "Woman arrested after four men stabbed in London's Covent Garden - follow live",
-    "Mexican Influencer Cesar Gastelum Shot To Death During Livestream",
-    "China targets US firms and drone exports after FCC, Xinjiang actions",
-    "Russian attacks kill 17, exploiting Ukraine’s lack of missile interceptors",
-    "RBI MPC keeps policy rate unchanged at 5.25%",
-    "Tewolde Gebremariam Is Air India's New CEO After Campbell Wilson's Exit",
-    "Google shakes up AI leadership. Demis Hassabis steps down as CEO of DeepMind, and Jeff Dean leaves.",
+    "CJP's Abhijeet Dipke Declares Support For Jharkhand Student Protest: 'We Will Go, Stand With Them'",
+    "West Asia war LIVE: Iran and Oman agree on coordinates of route through Hormuz, Iran's Foreign Ministry says",
+    "US lifts sanctions on Fly Baghdad, previously linked to Iran's IRGC",
+    "Russia-Ukraine war intensifies: Overnight airstrikes kill 14 in Kyiv, damage warehouses, spark fire - wat",
+    "Russia's 'Human Safaris' Are Bringing Terror To Ukraine's Frontline Cities",
+    "India’s Central Bank Holds Rates as Iran Crisis Keeps Risks High",
+    "Tewolde Gebremariam is Air India’s new CEO",
+    "Google shakes up AI leadership. Demis Hassabis takes on broader research role, and Jeff Dean leaves.",
     "LIC OFS subscribed 3.32x on Day 1; Govt to exercise greenshoe option, retail bidding opens",
-    "Samsung confirms Galaxy Z Fold 8's record-breaking sales numbers as pre-order deals are ending",
+    "Galaxy Z Fold 8 Price: Amazon Undercuts Samsung With $350 Offer",
     "Apple September event 2026: iPhone 18, new Apple Watches, AirPods and more expected",
-    "Nvidia RTX 50 graphics card prices climb as TSMC and memory costs rise",
+    "First look: This is the Galaxy Fit 4, Samsung’s next budget fitness tracker",
     "Nothing Sub-Brand CMF Launches Clip Pro Open Earbuds With Premium Features at an Affordable Price",
-    "Ghajini, Lagaan actor Pradeep Rawat died after platelet count dropped to 6,000: Warning signs",
-    "Lock Upp 2: Shreya Kalra lifts the trophy of the captive reality show; takes home Rs 1 crore",
-    "'I Was Shaking': Preity Zinta Recalls How Rajkumar Santoshi 'Tortured' Her On Batwara 1947 Set"
+    "Shreya Kalra Wins Lock Upp Season 2, Takes Home Rs 1 Crore Prize",
+    "‘I was shaking’: Preity Zinta recalls comeback nerves after 8 years, says Sunny Deol helped her through d",
+    "Spider Man Brand New Day Box Office: Tom Holland starrer mantains strong collections on Tuesday, Nears Rs. 350 Cr in 6 days",
+    "'Boycott Ranbir Kapoor': Actress Nikita Rawal Questions Ramayana Star, Slams Old Beef Remark"
   ],
   "quiz": [
     {
-      "blanked": "Tewolde Gebremariam Is Air India's New ______ After Campbell Wilson's Exit",
-      "answer": "CEO",
+      "blanked": "Russia-Ukraine war intensifies: Overnight airstrikes kill 14 in ______ damage warehouses, spark fire - wat",
+      "answer": "Kyiv",
       "options": [
-        "Half",
-        "Covent",
-        "Batwara",
-        "CEO"
-      ]
-    },
-    {
-      "blanked": "'I Was Shaking': Preity Zinta Recalls How Rajkumar Santoshi 'Tortured' Her On ______ 1947 Set",
-      "answer": "Batwara",
-      "options": [
-        "HAART",
-        "Jeff",
-        "Kalra",
-        "Batwara"
-      ]
-    },
-    {
-      "blanked": "Woman arrested after four men stabbed in London's ______ Garden - follow live",
-      "answer": "Covent",
-      "options": [
-        "Fleming",
-        "Outbreak",
-        "Clip",
-        "Covent"
-      ]
-    },
-    {
-      "blanked": "Climate change is shifting childhood malaria hotspots across ______ finds study",
-      "answer": "Africa",
-      "options": [
-        "Congo",
-        "Kiren",
-        "Africa",
-        "Features"
-      ]
-    },
-    {
-      "blanked": "Tamil Nadu Budget 2026 updates: One-sovereign gold for brides announced; DMK, AIADMK say ______ maiden Budget offers nothing new",
-      "answer": "TVKs",
-      "options": [
-        "Madrid",
-        "Without",
-        "TVKs",
-        "Shaking"
-      ]
-    },
-    {
-      "blanked": "Kept Pakistan waiting when it sought truce: Ex-defence chief's big ______ reveal",
-      "answer": "Sindoor",
-      "options": [
-        "Moore",
-        "Sindoor",
-        "Research",
-        "Tortured"
-      ]
-    },
-    {
-      "blanked": "Lock Upp 2: ______ Kalra lifts the trophy of the captive reality show; takes home Rs 1 crore",
-      "answer": "Shreya",
-      "options": [
-        "Shreya",
-        "Sindoor",
-        "AirPods",
-        "Pakistan"
-      ]
-    },
-    {
-      "blanked": "Total solar eclipse Aug. 12, ______ live updates — 1 week to go",
-      "answer": "2026",
-      "options": [
-        "2026",
-        "Multi-Institutional",
-        "Ukraines",
-        "Dean"
-      ]
-    },
-    {
-      "blanked": "Samsung confirms ______ Z Fold 8's record-breaking sales numbers as pre-order deals are ending",
-      "answer": "Galaxy",
-      "options": [
-        "Watches",
-        "Batwara",
-        "Galaxy",
-        "Lagaan"
-      ]
-    },
-    {
-      "blanked": "Hypertension ______ in Nearly Half of HAART Patients",
-      "answer": "Identified",
-      "options": [
-        "Clip",
-        "Bangladesh",
-        "Identified",
-        "Sheikh"
-      ]
-    },
-    {
-      "blanked": "Iran, Oman, US ‘close’ to Hormuz deal: ______ do they all want?",
-      "answer": "What",
-      "options": [
-        "Kalra",
-        "Watches",
-        "What",
-        "Shaking"
-      ]
-    },
-    {
-      "blanked": "News Outlets Can Report Court Proceedings Without Sharing ______ Clips : Supreme Court Clarifies",
-      "answer": "Audio-Video",
-      "options": [
-        "RTX",
         "Earbuds",
-        "India-US",
-        "Audio-Video"
+        "370",
+        "England",
+        "Kyiv"
+      ]
+    },
+    {
+      "blanked": "Shreya Kalra Wins Lock Upp Season 2, ______ Home Rs 1 Crore Prize",
+      "answer": "Takes",
+      "options": [
+        "Takes",
+        "Samsung",
+        "Day",
+        "Thrash"
+      ]
+    },
+    {
+      "blanked": "Updated WTC Points Table After Pakistan Thrash West Indies To Level ______",
+      "answer": "Series",
+      "options": [
+        "Series",
+        "Kyiv",
+        "Better",
+        "Non-smokers"
+      ]
+    },
+    {
+      "blanked": "Tamil Nadu Budget 2026 updates: ______ gold for brides announced; DMK, AIADMK say TVK's maiden Budget offers nothing new",
+      "answer": "One-sovereign",
+      "options": [
+        "States",
+        "Crisis",
+        "Stand",
+        "One-sovereign"
+      ]
+    },
+    {
+      "blanked": "Gauribidanur: ______ a quiet landscape became a hub for science",
+      "answer": "How",
+      "options": [
+        "How",
+        "Star",
+        "Lung",
+        "Delhi"
+      ]
+    },
+    {
+      "blanked": "West Asia war LIVE: Iran and Oman agree on coordinates of route through Hormuz, Iran's Foreign ______ says",
+      "answer": "Ministry",
+      "options": [
+        "Ministry",
+        "CEO",
+        "Sheikh",
+        "Wins"
+      ]
+    },
+    {
+      "blanked": "‘I was shaking’: Preity ______ recalls comeback nerves after 8 years, says Sunny Deol helped her through d",
+      "answer": "Zinta",
+      "options": [
+        "Zinta",
+        "Student",
+        "Watch",
+        "Galaxy"
+      ]
+    },
+    {
+      "blanked": "WHO chief visits Congo to support ______ efforts as some workers strike over pay",
+      "answer": "Ebola",
+      "options": [
+        "Hasina",
+        "Ebola",
+        "Crisis",
+        "Preity"
+      ]
+    },
+    {
+      "blanked": "Why More Non-smokers In India Are Developing ______ Cancer",
+      "answer": "Lung",
+      "options": [
+        "Lung",
+        "IRGC",
+        "Takes",
+        "Open"
+      ]
+    },
+    {
+      "blanked": "Flood situation in ______ critical as overnight rains threaten fresh inundation",
+      "answer": "Assam",
+      "options": [
+        "Baghdad",
+        "Assam",
+        "DMK",
+        "Keeps"
+      ]
+    },
+    {
+      "blanked": "Stephen Fleming approaches ______ legend for England batting coach role",
+      "answer": "CSK",
+      "options": [
+        "CSK",
+        "Minister",
+        "Hasina",
+        "Open"
+      ]
+    },
+    {
+      "blanked": "US lifts sanctions on Fly Baghdad, previously linked to Iran's ______",
+      "answer": "IRGC",
+      "options": [
+        "Chandipura",
+        "Survival",
+        "Pro",
+        "IRGC"
       ]
     }
   ]
