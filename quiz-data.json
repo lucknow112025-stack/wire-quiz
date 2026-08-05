@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-05T12:27:58.865Z",
+  "generatedAt": "2026-08-05T18:08:53.006Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "\"Zuckerberg, Apologise Within 3 Days\": Panel's 'Safe Harbour' Threat",
-    "Jharkhand students go on hunger strike as CJP's Abhijeet Dipke backs protests: What the row is about | India News",
-    "Jebel Ali under attack: Why Dubai's port is so important to global trade and security",
-    "Tamil Nadu Budget 2026 LIVE updates: Finance Minister Marie Wilson announces one-sovereign gold coin for brides in TVK-led govt.'s maiden Budget",
-    "'Stalker was obsessed for 2-year, abducted her once': How Faridabad teacher was lured to gate before her",
-    "'Tomorrow Gen Alpha, Beta Will Come' : Petitioner Urges Supreme Court Not To Allow Withdrawal Of Cases...",
-    "Projectile sinks Indian-flagged ship off Yemen coast",
-    "Flood situation in Assam critical as overnight rains threaten fresh inundation",
+    "Meta apologises to India for restricting PM Modi's post",
+    "Iran, Oman, US ‘close’ to Hormuz deal: What do they all want?",
+    "Ex-PM Sheikh Hasina announces plan to return to Bangladesh",
+    "Tamil Nadu Budget 2026 updates: One-sovereign gold for brides announced; DMK, AIADMK say TVK's maiden Budget offers nothing new",
+    "Devendra Mahto, student leader on hunger strike in Jharkhand, drinks water on call with Wangchuk | Watch | India News",
+    "\"No Proposal To Extend Parliament's Monsoon Session\": Kiren Rijiju",
     "US Congressman Riley Moore voices concern on FCRA amendments, warns it could affect India-US ties",
-    "Monsoon Session Day 13 LIVE | LS passes Bill recognising digital bank records as court evidence",
-    "West Asia war LIVE: Trump signals Hormuz deal soon; Iran-Oman diplomatic engagement enters a new phase",
-    "US THAAD arsenal nearly 80% depleted as Iran talks progress: Report",
-    "Russian missile attack kills 14, injures 27 in Ukraine’s Kyiv region",
+    "Flood situation in Assam critical as overnight rains threaten fresh inundation",
+    "Kept Pakistan waiting when it sought truce: Ex-defence chief's big Sindoor reveal",
+    "News Outlets Can Report Court Proceedings Without Sharing Audio-Video Clips : Supreme Court Clarifies",
+    "Woman arrested after four men stabbed in London's Covent Garden - follow live",
     "Mexican Influencer Cesar Gastelum Shot To Death During Livestream",
-    "Indian share benchmarks inch higher after RBI rate pause",
-    "SIAM withdraws earlier letter to Govt that had flagged chloride-related concerns with E20",
-    "India to get its first plastic notes next year: RBI governor shares timeline, explains benefits",
-    "India's Manipal Health jumps on market debut, valuing hospital chain at $9 billion",
-    "Apple To Launch iPhone 18 Pro, Foldable iPhone Next Month: Expected Release Date",
-    "Nothing launches CMF Clip Pro earbuds with a Smart Dial on the case - GSMArena.com news",
-    "iQOO Z11 confirmed to debut in India on August 20 - GSMArena.com news",
-    "Samsung's latest Galaxy Z8 foldable smartphone series sets a new preorder record - OLED-Info",
-    "Actor Pradeep Rawat of 'Ghajini' fame dies at 74",
-    "Lock Upp 2 Gets Its Second Finalist, Akanksha Chamola Eliminated",
-    "'Adipurush' writer Manoj Muntashir says there's 'NO SHAME in admitting it FAILED' amid 'Ramayana' compari"
+    "China targets US firms and drone exports after FCC, Xinjiang actions",
+    "Russian attacks kill 17, exploiting Ukraine’s lack of missile interceptors",
+    "RBI MPC keeps policy rate unchanged at 5.25%",
+    "Tewolde Gebremariam Is Air India's New CEO After Campbell Wilson's Exit",
+    "Google shakes up AI leadership. Demis Hassabis steps down as CEO of DeepMind, and Jeff Dean leaves.",
+    "LIC OFS subscribed 3.32x on Day 1; Govt to exercise greenshoe option, retail bidding opens",
+    "Samsung confirms Galaxy Z Fold 8's record-breaking sales numbers as pre-order deals are ending",
+    "Apple September event 2026: iPhone 18, new Apple Watches, AirPods and more expected",
+    "Nvidia RTX 50 graphics card prices climb as TSMC and memory costs rise",
+    "Nothing Sub-Brand CMF Launches Clip Pro Open Earbuds With Premium Features at an Affordable Price",
+    "Ghajini, Lagaan actor Pradeep Rawat died after platelet count dropped to 6,000: Warning signs",
+    "Lock Upp 2: Shreya Kalra lifts the trophy of the captive reality show; takes home Rs 1 crore",
+    "'I Was Shaking': Preity Zinta Recalls How Rajkumar Santoshi 'Tortured' Her On Batwara 1947 Set"
   ],
   "quiz": [
     {
-      "blanked": "Apple To Launch iPhone 18 Pro, ______ iPhone Next Month: Expected Release Date",
-      "answer": "Foldable",
+      "blanked": "Tewolde Gebremariam Is Air India's New ______ After Campbell Wilson's Exit",
+      "answer": "CEO",
       "options": [
-        "Foldable",
-        "Minister",
-        "Gets",
-        "Chandipura"
+        "Half",
+        "Covent",
+        "Batwara",
+        "CEO"
       ]
     },
     {
-      "blanked": "'Tomorrow Gen ______ Beta Will Come' : Petitioner Urges Supreme Court Not To Allow Withdrawal Of Cases...",
-      "answer": "Alpha",
+      "blanked": "'I Was Shaking': Preity Zinta Recalls How Rajkumar Santoshi 'Tortured' Her On ______ 1947 Set",
+      "answer": "Batwara",
       "options": [
-        "Alpha",
-        "Risk",
-        "Gen",
-        "Panels"
+        "HAART",
+        "Jeff",
+        "Kalra",
+        "Batwara"
       ]
     },
     {
-      "blanked": "AI Model ______ Surgical Risk Before Gastric Cancer Surgery",
-      "answer": "Predicted",
+      "blanked": "Woman arrested after four men stabbed in London's ______ Garden - follow live",
+      "answer": "Covent",
       "options": [
-        "Indian-flagged",
-        "Dial",
-        "Predicted",
-        "Salah"
+        "Fleming",
+        "Outbreak",
+        "Clip",
+        "Covent"
       ]
     },
     {
-      "blanked": "iQOO Z11 confirmed to debut in ______ on August 20 - GSMArena.com news",
-      "answer": "India",
+      "blanked": "Climate change is shifting childhood malaria hotspots across ______ finds study",
+      "answer": "Africa",
       "options": [
-        "Day",
-        "Ebola",
-        "India",
-        "Ajinkya"
+        "Congo",
+        "Kiren",
+        "Africa",
+        "Features"
       ]
     },
     {
-      "blanked": "Centre Deploys NJORT as Multi-Institutional ______ Intensifies into Chandipura Virus Outbreak",
-      "answer": "Probe",
+      "blanked": "Tamil Nadu Budget 2026 updates: One-sovereign gold for brides announced; DMK, AIADMK say ______ maiden Budget offers nothing new",
+      "answer": "TVKs",
       "options": [
-        "Not",
-        "Probe",
-        "Infantino",
-        "What"
+        "Madrid",
+        "Without",
+        "TVKs",
+        "Shaking"
       ]
     },
     {
-      "blanked": "Russian missile attack kills 14, injures 27 in Ukraine’s ______ region",
-      "answer": "Kyiv",
+      "blanked": "Kept Pakistan waiting when it sought truce: Ex-defence chief's big ______ reveal",
+      "answer": "Sindoor",
       "options": [
-        "FAILED",
-        "Salah",
-        "Kyiv",
-        "Chandipura"
-      ]
-    },
-    {
-      "blanked": "'Stalker was obsessed for 2-year, abducted her once': How ______ teacher was lured to gate before her",
-      "answer": "Faridabad",
-      "options": [
-        "Virat",
-        "Faridabad",
-        "Threat",
-        "Asia"
-      ]
-    },
-    {
-      "blanked": "India to get its first plastic notes next year: ______ governor shares timeline, explains benefits",
-      "answer": "RBI",
-      "options": [
-        "Goldstone",
-        "RBI",
-        "How",
-        "Dial"
-      ]
-    },
-    {
-      "blanked": "Monsoon Session ______ 13 LIVE | LS passes Bill recognising digital bank records as court evidence",
-      "answer": "Day",
-      "options": [
-        "Dial",
-        "THAAD",
-        "Day",
-        "Predicted"
-      ]
-    },
-    {
-      "blanked": "Egypt’s Mohamed Salah looks set to swap Liverpool for ______ Trabzonspor",
-      "answer": "Turkiyes",
-      "options": [
-        "Trump",
-        "CMF",
-        "Kyiv",
-        "Turkiyes"
-      ]
-    },
-    {
-      "blanked": "US Congressman Riley ______ voices concern on FCRA amendments, warns it could affect India-US ties",
-      "answer": "Moore",
-      "options": [
-        "Darwin",
-        "Chamola",
         "Moore",
-        "LIVE"
+        "Sindoor",
+        "Research",
+        "Tortured"
       ]
     },
     {
-      "blanked": "'Musafir Cafe' returning for Season 2? ______ cast, episodes and all you need to know about the Vikrant Ma",
-      "answer": "Plot",
+      "blanked": "Lock Upp 2: ______ Kalra lifts the trophy of the captive reality show; takes home Rs 1 crore",
+      "answer": "Shreya",
       "options": [
-        "Probe",
-        "Virat",
-        "Next",
-        "Plot"
+        "Shreya",
+        "Sindoor",
+        "AirPods",
+        "Pakistan"
+      ]
+    },
+    {
+      "blanked": "Total solar eclipse Aug. 12, ______ live updates — 1 week to go",
+      "answer": "2026",
+      "options": [
+        "2026",
+        "Multi-Institutional",
+        "Ukraines",
+        "Dean"
+      ]
+    },
+    {
+      "blanked": "Samsung confirms ______ Z Fold 8's record-breaking sales numbers as pre-order deals are ending",
+      "answer": "Galaxy",
+      "options": [
+        "Watches",
+        "Batwara",
+        "Galaxy",
+        "Lagaan"
+      ]
+    },
+    {
+      "blanked": "Hypertension ______ in Nearly Half of HAART Patients",
+      "answer": "Identified",
+      "options": [
+        "Clip",
+        "Bangladesh",
+        "Identified",
+        "Sheikh"
+      ]
+    },
+    {
+      "blanked": "Iran, Oman, US ‘close’ to Hormuz deal: ______ do they all want?",
+      "answer": "What",
+      "options": [
+        "Kalra",
+        "Watches",
+        "What",
+        "Shaking"
+      ]
+    },
+    {
+      "blanked": "News Outlets Can Report Court Proceedings Without Sharing ______ Clips : Supreme Court Clarifies",
+      "answer": "Audio-Video",
+      "options": [
+        "RTX",
+        "Earbuds",
+        "India-US",
+        "Audio-Video"
       ]
     }
   ]
