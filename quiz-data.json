@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-04T20:57:31.035Z",
+  "generatedAt": "2026-08-05T06:14:43.564Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "Udhayanidhi Stalin arrested for ‘misogynist’ remarks; released on bail",
-    "India-Flagged Ship Sinks After Attack In Red Sea, 13 Indian Sailors Rescued",
-    "Prashant Kishor: How India's best-known poll strategist finally became a lawmaker",
-    "JPSC paper leak: CID says accused Jharkhand govt staffer is a competitive exam whiz; cleared BARC, CRPF",
-    "Supreme Court Directs Increase Of Third Party Insurance Of Cars To 4 & Two-Wheelers To 6 Years",
-    "Supreme Court Daily Round-Up : August 4, 2026",
-    "'Kids As Young As 15 On Pakistan's Target': Inside The Deadly PoK Protests",
-    "Video: Gurugram Submerged After Rain, Commuters Wade Through Waterlogged Streets",
-    "'Sadhu-saint not involved': CM Yogi on Ram Mandir donation theft case",
-    "Kejriwal E20 protest highlights: Large-scale protests needed against Centre's E20 petrol policy, says Arvind Kejriwal | Hindustan Times",
-    "Spanish PM Sanchez faces criticism as EU meets over Ceuta crossings",
-    "Iran war depletes US missile stocks, raising concerns over readiness for conflict with China: Report",
-    "West Asia LIVE: Iran not seeking a wider war, President says",
-    "US-Iran war LIVE: Marco Rubio says progress made in Hormuz talks, but no final deal yet",
-    "India's new closing auction stokes sharp Nifty swings, options volatility on weekly expiry",
-    "No more free UPI in India? Govt weighs fee for payments above Rs 2,000",
-    "India seeks to widen tax exemptions to woo investors such as Apple",
-    "Oil Extends Losses After US, Qatar Signal Progress on Iran Draft Deal",
-    "Apple Removes Telegram From the App Store After Content Violated Safety Guidelines",
-    "Microsoft denies Windows 11 secretly spies on you every 15 minutes",
-    "Did Apple Just Leak The iPhone 18 Pro Launch Date? What Keynote Update Reveals",
-    "iQOO Z11 leaked marketing image shows a Pixel-like camera bar - GSMArena.com news",
-    "‘Spider-Man: Brand New Day’ Rewrites Box Office History in India With Record Launch",
-    "Bigg Boss 20: All you need to know about the reality show’s landmark season",
-    "Madhavan interview: On 'G.D.N', India's unsung heroes and why 'Run' changed his career"
+    "Projectile sinks Indian-flagged ship off Yemen coast",
+    "The widening divide across the LoC: J&K's growth, PoK's decline | India News",
+    "Iran demands inbound control of Hormuz and outbound oversight, source says",
+    "Udhayanidhi Stalin released after questioning at Sengipatti police station",
+    "Tamil Nadu budget: Ahead of TVK’s maiden budget, a primer on Tamil Nadu’s finances",
+    "US has used 'virtually all' of its long-range precision missiles during Iran war, sources say",
+    "BJP's wake-up call, ally awakening: Yashodhara sounds poll loss alert, PM meets Nitish",
+    "'We Thought We Would Die': Passenger Recalls Air India Turbulence Scare",
+    "Consider If Vehicles Without Insurance Can Be Denied Fuel : Supreme Court Tells Union, IRDA",
+    "2 terror modules busted with arrest of nine",
+    "Multiple blasts reported in UAE capital",
+    "Palestinians hold mass funeral for 112 bodies finally recovered from a 2023 Gaza strike",
+    "Team Trump Plans To Make H-1B Visa Extensions Costlier. How It May Affect Indians",
+    "US revokes visa of Brazilian ambassador amid deepening diplomatic spat",
+    "India's Nifty flat, Sensex holds gains after RBI rate pause",
+    "Manipal Health shares list at 11% premium over IPO price; should you buy, sell or hold?",
+    "Stock market closing timings changed: What it means for index funds, ETFs and arbitrage fund investors",
+    "Adani's bumper capex trickles down to smaller infra firms",
+    "The new Galaxy Z8 foldables finally beat Galaxy Note10's long-standing pre-order record - GSMArena.com news",
+    "iPhone 18 Pro Release: Wednesday, Friday Or Saturday? What Apple's Past Launches Suggest",
+    "Google's AI Assistant 'Spark' Launches in South Korea, Igniting Three-Way Browser Agent Battle",
+    "How to download Minecraft Bedrock 26.40 update on all platforms",
+    "Actor Pradeep Rawat of 'Ghajini' fame dies at 74",
+    "Jana Nayagan Box Office Collections: Thalapathy Vijay starrer maintains strong hold on 2nd Monday, grosses Rs 210 crore in 11 days",
+    "‘Spider-Man: Brand New Day’ Rewrites Box Office History in India With Record Launch"
   ],
   "quiz": [
     {
-      "blanked": "West Asia LIVE: Iran not seeking a wider war, ______ says",
-      "answer": "President",
+      "blanked": "The widening divide across the LoC: ______ growth, PoK's decline | India News",
+      "answer": "JKs",
       "options": [
-        "Party",
-        "Update",
-        "President",
-        "Rubio"
+        "Wednesday",
+        "Saturday",
+        "Collections",
+        "JKs"
       ]
     },
     {
-      "blanked": "Spanish PM ______ faces criticism as EU meets over Ceuta crossings",
-      "answer": "Sanchez",
+      "blanked": "Penguins and dolphins among nearly ______ Australian species under threat from bird flu as ‘true extent of disaster’ revealed",
+      "answer": "400",
       "options": [
-        "Store",
-        "Centres",
-        "Hindustan",
-        "Sanchez"
+        "Uncover",
+        "How",
+        "400",
+        "Box"
       ]
     },
     {
-      "blanked": "'Deepika ______ Had No Fear While Abusing During Ram-Leela Workshop,' Reveals Actor Jayati Bhatia",
-      "answer": "Padukone",
+      "blanked": "Father quit Singapore job, pawned jewellery to fund chess dream: Olympiad-bound ______ Shri's story",
+      "answer": "Savitha",
       "options": [
-        "Padukone",
-        "Indian",
-        "Falls",
-        "Deal"
+        "Gaza",
+        "Savitha",
+        "Largest",
+        "Salah"
       ]
     },
     {
-      "blanked": "iQOO Z11 leaked marketing image shows a ______ camera bar - GSMArena.com news",
-      "answer": "Pixel-like",
+      "blanked": "Iran demands inbound control of ______ and outbound oversight, source says",
+      "answer": "Hormuz",
       "options": [
-        "August",
-        "LIVE",
-        "Pixel-like",
-        "Deadly"
+        "May",
+        "Passenger",
+        "Hormuz",
+        "Camera"
       ]
     },
     {
-      "blanked": "Apple Removes Telegram From the App Store After Content ______ Safety Guidelines",
-      "answer": "Violated",
+      "blanked": "Projectile sinks Indian-flagged ship off ______ coast",
+      "answer": "Yemen",
       "options": [
-        "Universe",
-        "Violated",
-        "2000",
-        "Commonwealth"
+        "India",
+        "News",
+        "Monday",
+        "Yemen"
       ]
     },
     {
-      "blanked": "Liberal Transfusion Reduced ______ Infarction Risk",
-      "answer": "Myocardial",
+      "blanked": "Palestinians hold mass funeral for 112 bodies finally recovered from a ______ Gaza strike",
+      "answer": "2023",
       "options": [
-        "Myocardial",
-        "Why",
-        "Store",
-        "Jayati"
+        "Would",
+        "Bans",
+        "Korea",
+        "2023"
       ]
     },
     {
-      "blanked": "Video: Gurugram Submerged After Rain, Commuters Wade Through Waterlogged ______",
-      "answer": "Streets",
+      "blanked": "Ancient Marine Life Found In Antarctica's 'Blood Falls' As Scientists Uncover Its ______",
+      "answer": "Secrets",
       "options": [
-        "App",
+        "210",
+        "Secrets",
+        "Bedrock",
+        "IPO"
+      ]
+    },
+    {
+      "blanked": "Liberal ______ Reduced Myocardial Infarction Risk",
+      "answer": "Transfusion",
+      "options": [
+        "Pro",
         "Transfusion",
-        "Brand",
-        "Streets"
+        "Make",
+        "Air"
       ]
     },
     {
-      "blanked": "DR Congo's largest Ebola treatment centre set to open in ______",
-      "answer": "Bunia",
+      "blanked": "Actor Pradeep ______ of 'Ghajini' fame dies at 74",
+      "answer": "Rawat",
       "options": [
-        "Store",
-        "Antarcticas",
-        "Bunia",
-        "Deadly"
+        "Chamola",
+        "May",
+        "Would",
+        "Rawat"
       ]
     },
     {
-      "blanked": "Prashant Kishor: How ______ best-known poll strategist finally became a lawmaker",
-      "answer": "Indias",
+      "blanked": "FIFA and ______ under UEFA threat of legal action: What we know",
+      "answer": "Infantino",
       "options": [
-        "Guidelines",
-        "Indias",
-        "Jharkhand",
-        "Explains"
+        "Rawat",
+        "IPO",
+        "Infantino",
+        "Second"
       ]
     },
     {
-      "blanked": "'Sadhu-saint not involved': CM ______ on Ram Mandir donation theft case",
-      "answer": "Yogi",
+      "blanked": "iPhone 18 Pro Release: Wednesday, Friday Or Saturday? ______ Apple's Past Launches Suggest",
+      "answer": "What",
       "options": [
-        "Yogi",
-        "Jayati",
-        "While",
-        "Removes"
+        "What",
+        "Nifty",
+        "Recalls",
+        "Nitish"
       ]
     },
     {
-      "blanked": "India-Flagged Ship Sinks After Attack In ______ Sea, 13 Indian Sailors Rescued",
-      "answer": "Red",
+      "blanked": "BJP's wake-up call, ally awakening: Yashodhara sounds poll loss alert, PM meets ______",
+      "answer": "Nitish",
       "options": [
-        "Court",
-        "Red",
-        "Boss",
-        "Future"
-      ]
-    },
-    {
-      "blanked": "Did Apple Just Leak The iPhone 18 Pro Launch Date? What Keynote ______ Reveals",
-      "answer": "Update",
-      "options": [
-        "Update",
-        "Arvind",
-        "Large-scale",
-        "Test"
+        "Nitish",
+        "Marine",
+        "Korea",
+        "Affect"
       ]
     }
   ]
