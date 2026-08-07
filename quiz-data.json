@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-07T15:14:00.931Z",
+  "generatedAt": "2026-08-07T18:04:59.344Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
     "Saudi ⁠Arabia, Pakistan and Turkiye sign defence deal amid regional turmoil",
-    "FCRA Bill is ‘religion-neutral’, Shah assures Christian bodies",
-    "Amritsar Top Cop Removed After Jantar Mantar Remarks, BJP Questions Timing",
-    "Exclusive: How NTA subject experts leaked NEET-UG paper—‘questions on chits, marked NCERT paras’",
     "'Don't Think Protests Should Happen At Jantar Mantar, Can't Put Delhi To Ransom': Delhi High Court Judge...",
-    "China does not give ‘lessons’; it shares experiences – time for India to learn",
+    "FCRA Bill is ‘religion-neutral’, Shah assures Christian bodies",
+    "India issues names for 27 Arunachal locations in response to China’s renaming moves | India News",
+    "Amritsar Top Cop Removed After Jantar Mantar Remarks, BJP Questions Timing",
+    "Red Alert! Monsoon Mayhem Mauls Delhi-NCR, Kerala On Edge As IMD Warns Of More Extreme Rain In Several States",
     "'Private Event, Don't Endorse It': India On Sheikh Hasina's Address In Delhi",
-    "Meet Squadron Leader Bhawana Kanth, India's First Woman 'Top Gun'",
-    "Ukraine War | Missing Seafarers Could Not Be Located Despite Search : Centre Tells Supreme Court",
-    "You are in politics and fear eggs? Freedom fighters took bullets: Supreme Court refuses relief to Mahua Moitra",
-    "Thailand school shooting LIVE: At least 8 dead, including teen suspect’s grandparents",
+    "Rahul Gandhi reveals his favourite BJP leader: 'Get along with him, he's cool' | India News",
+    "Squadron Leader Bhawana Kanth makes history as IAF's 1st woman 'Top Gun' pilot",
+    "2 Tribal Girls Kidnapped, Allegedly Gang-Raped In Moving Car In Assam",
+    "Thailand school shooting LIVE: Student kills at least 7 people at high school, home outside Bangkok, officials say",
+    "Donald Trump's $400 million White House ballroom project stopped, court delivers major blow | Hindustan Times",
+    "Houthi strikes in Yemen as Saudi Arabia braces for attacks: What we know",
     "Trump Signs Order To Curb Birthright Citizenship \"Tourism\"",
-    "US-Iran war news LIVE: Tehran wants to bar US, Israeli ships from Strait of Hormuz in peace accord",
-    "'It will end pretty soon': Trump hints at peace in US-Iran war; Tehran mocks 'theatre diplomacy'",
     "Lok Sabha passes bill to authorise govt to permit banks to levy charges on UPI transactions",
-    "SBI Q1 Results: Net profit jumps 10.2% YoY to ₹21,121 crore, NII up 15%",
-    "Hindalco Q1 results: Net profit jumps 75% to record Rs 7,013 crore, revenue rises 32%; stock gains nearly...",
     "Breaking: US Nonfarm Payrolls fall by 23K in July vs. +80K expected",
-    "Samsung says Galaxy Z Fold8 pre-orders are 30% ahead of last year's foldables",
-    "Lava Smartphone Offers on Amazon Great Freedom Sale 2026",
-    "iPhone 18 Pro India launch next month: 12 reasons to upgrade from iPhone 17 Pro",
-    "GTA VI extended look is coming later this month to Netflix - GSMArena.com news",
-    "Tamil Nadu CM Joseph Vijay's Wife Withdraws Divorce Petition",
-    "Mithun Chakraborty Hospitalised, Undergoes Surgery In Kolkata",
-    "The Traitors: Shweta Tiwari makes shocking revelation about her former husbands’ cheating; says, “Apne pa"
+    "SBI Q1 Results: Net profit jumps 10.2% YoY to ₹21,121 crore, NII up 15%",
+    "Oil marketing companies say nationwide tests find E20 petrol meets quality norms, reject contamination...",
+    "OpenAI's first device with Jony Ive is reportedly a smart speaker",
+    "Galaxy Z Fold8 duo and Galaxy Z Flip8 become Samsung's most pre-ordered foldables in Europe - GSMArena.com news",
+    "Lava Announces Exciting Deals on Smartphones During Amazon Great Freedom Festival Sale",
+    "RTX 5090 Owner Built An Open-Source Tool That Shuts Down PC If It Detects The 12VHPWR Cable Drawing Too Much Power, But It Can Only Work On Specific GPUs",
+    "Harshvardhan Rane, Sanjeeda Shaikh spark fresh dating rumours after they post matching PICS from their va",
+    "Awarapan 2 Trailer Impact At Box Office Day 1: Emraan Hashmi To Rewrite History After 14 Years, Delivering His Biggest Solo Opener!",
+    "Tamil Nadu CM Joseph Vijay's Wife Withdraws Divorce Petition"
   ],
   "quiz": [
     {
-      "blanked": "Amritsar Top Cop Removed After Jantar Mantar Remarks, ______ Questions Timing",
-      "answer": "BJP",
+      "blanked": "Houthi strikes in ______ as Saudi Arabia braces for attacks: What we know",
+      "answer": "Yemen",
       "options": [
-        "BJP",
-        "YoY",
-        "Signs",
-        "Omics"
+        "Yemen",
+        "Flames",
+        "Kidnapped",
+        "CDC"
       ]
     },
     {
-      "blanked": "Chinese satellite records ______ rocket remnant's lunar impact",
-      "answer": "SpaceX",
+      "blanked": "India issues names for 27 Arunachal locations in response to ______ renaming moves | India News",
+      "answer": "Chinas",
       "options": [
-        "SpaceX",
-        "Curb",
-        "Israeli",
-        "Indias"
+        "Mauls",
+        "Omics",
+        "Chinas",
+        "Jantar"
       ]
     },
     {
-      "blanked": "Breaking: US Nonfarm ______ fall by 23K in July vs. +80K expected",
-      "answer": "Payrolls",
+      "blanked": "Drug-Induced Autoimmune Inflammatory Myositis in a Patient with Psoriatic Arthritis Receiving ______ Therapy: A Case Report",
+      "answer": "Biologic",
       "options": [
-        "Wife",
-        "Kolkata",
-        "Delhi",
-        "Payrolls"
+        "Open-Source",
+        "Vishwanath",
+        "Biologic",
+        "Questions"
       ]
     },
     {
-      "blanked": "Trump Signs Order To Curb Birthright Citizenship ______",
-      "answer": "Tourism",
+      "blanked": "Donald Trump's $400 million White ______ ballroom project stopped, court delivers major blow | Hindustan Times",
+      "answer": "House",
       "options": [
-        "Tourism",
-        "Bring",
-        "Mantar",
-        "Thriller"
-      ]
-    },
-    {
-      "blanked": "'Private Event, Don't Endorse It': India On Sheikh Hasina's ______ In Delhi",
-      "answer": "Address",
-      "options": [
-        "Address",
-        "Amazon",
-        "21121",
-        "Wagner"
-      ]
-    },
-    {
-      "blanked": "Hindalco Q1 results: Net profit jumps ______ to record Rs 7,013 crore, revenue rises 32%; stock gains nearly...",
-      "answer": "75%",
-      "options": [
-        "Offers",
-        "75%",
-        "Kanth",
-        "Delhi"
-      ]
-    },
-    {
-      "blanked": "The ______ Shweta Tiwari makes shocking revelation about her former husbands’ cheating; says, “Apne pa",
-      "answer": "Traitors",
-      "options": [
-        "Traitors",
-        "Lanka",
-        "Address",
-        "Order"
-      ]
-    },
-    {
-      "blanked": "Saudi ______ Pakistan and Turkiye sign defence deal amid regional turmoil",
-      "answer": "Arabia",
-      "options": [
-        "Remarks",
-        "Arabia",
-        "Christian",
-        "Curb"
-      ]
-    },
-    {
-      "blanked": "US-Iran war news LIVE: Tehran wants to bar US, Israeli ships from Strait of ______ in peace accord",
-      "answer": "Hormuz",
-      "options": [
-        "Hormuz",
-        "Meir",
-        "Withdraws",
-        "Thriller"
-      ]
-    },
-    {
-      "blanked": "Ebola caseload in DR ______ tops 4,000",
-      "answer": "Congo",
-      "options": [
-        "Congo",
         "Petition",
-        "Birthright",
-        "Endorse"
+        "Prakash",
+        "Mauls",
+        "House"
       ]
     },
     {
-      "blanked": "Multi Omics Revealed New Gallbladder ______ Targets",
-      "answer": "Cancer",
+      "blanked": "Lava Announces Exciting Deals on ______ During Amazon Great Freedom Festival Sale",
+      "answer": "Smartphones",
       "options": [
-        "Bring",
-        "Joseph",
-        "Hasinas",
-        "Cancer"
+        "Smartphones",
+        "Psoriatic",
+        "Mantar",
+        "Meir"
       ]
     },
     {
-      "blanked": "'It will end pretty soon': Trump hints at peace in US-Iran war; ______ mocks 'theatre diplomacy'",
-      "answer": "Tehran",
+      "blanked": "4 rare celestial events to coincide on 12 August. ______ eclipse, meteor shower & more",
+      "answer": "Solar",
       "options": [
-        "Tehran",
-        "Smartphone",
-        "Greta",
-        "Offers"
+        "Solar",
+        "Sale",
+        "LIVE",
+        "Suriya"
+      ]
+    },
+    {
+      "blanked": "FCRA Bill is ‘religion-neutral’, ______ assures Christian bodies",
+      "answer": "Shah",
+      "options": [
+        "Vishwanath",
+        "Shah",
+        "Event",
+        "Day"
+      ]
+    },
+    {
+      "blanked": "'Private Event, Don't Endorse It': India On Sheikh ______ Address In Delhi",
+      "answer": "Hasinas",
+      "options": [
+        "Vishwanath",
+        "YoY",
+        "Inflammatory",
+        "Hasinas"
+      ]
+    },
+    {
+      "blanked": "'Don't Think Protests Should Happen At Jantar ______ Can't Put Delhi To Ransom': Delhi High Court Judge...",
+      "answer": "Mantar",
+      "options": [
+        "IAFs",
+        "Report",
+        "Wife",
+        "Mantar"
+      ]
+    },
+    {
+      "blanked": "2 Tribal Girls ______ Allegedly Gang-Raped In Moving Car In Assam",
+      "answer": "Kidnapped",
+      "options": [
+        "Kidnapped",
+        "City",
+        "Gun",
+        "400"
+      ]
+    },
+    {
+      "blanked": "OpenAI's first device with ______ Ive is reportedly a smart speaker",
+      "answer": "Jony",
+      "options": [
+        "Amsterdam",
+        "Jony",
+        "Opener",
+        "Gallbladder"
+      ]
+    },
+    {
+      "blanked": "Saudi ⁠Arabia, Pakistan and ______ sign defence deal amid regional turmoil",
+      "answer": "Turkiye",
+      "options": [
+        "Turkiye",
+        "15%",
+        "Rewrite",
+        "Kumar"
       ]
     }
   ]
