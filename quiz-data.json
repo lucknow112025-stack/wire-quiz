@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-07T12:02:47.064Z",
+  "generatedAt": "2026-08-07T15:14:00.931Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "Tamil Nadu Chief Minister Vijay's Wife Sangeetha Withdraws Divorce Case",
-    "‘Echo Oppn's sentiments to Amit Shah': Rajya Sabha chairman to Rijiju amid ruckus over student protest crackdown | India News",
     "Saudi ⁠Arabia, Pakistan and Turkiye sign defence deal amid regional turmoil",
-    "Thailand shooting: Seven killed as teen opens fire at home and school near Bangkok",
     "FCRA Bill is ‘religion-neutral’, Shah assures Christian bodies",
+    "Amritsar Top Cop Removed After Jantar Mantar Remarks, BJP Questions Timing",
     "Exclusive: How NTA subject experts leaked NEET-UG paper—‘questions on chits, marked NCERT paras’",
-    "'Freedom Fighters Took Bullets & You Fear Eggs?' : Supreme Court Refuses Mahua Moitra's Plea For Virtual...",
-    "Bail For Corporator Who Assaulted Doctor. Stay At Goa Resort Is One Condition",
-    "Anatomy of Jharkhand protests: 2 stages, 8 on hunger strike, a quest to be ‘non-political’",
-    "No link between Jantar Mantar protest, Pak ISI-backed terror module: Punjab Police | Hindustan Times",
+    "'Don't Think Protests Should Happen At Jantar Mantar, Can't Put Delhi To Ransom': Delhi High Court Judge...",
+    "China does not give ‘lessons’; it shares experiences – time for India to learn",
+    "'Private Event, Don't Endorse It': India On Sheikh Hasina's Address In Delhi",
+    "Meet Squadron Leader Bhawana Kanth, India's First Woman 'Top Gun'",
+    "Ukraine War | Missing Seafarers Could Not Be Located Despite Search : Centre Tells Supreme Court",
+    "You are in politics and fear eggs? Freedom fighters took bullets: Supreme Court refuses relief to Mahua Moitra",
+    "Thailand school shooting LIVE: At least 8 dead, including teen suspect’s grandparents",
     "Trump Signs Order To Curb Birthright Citizenship \"Tourism\"",
+    "US-Iran war news LIVE: Tehran wants to bar US, Israeli ships from Strait of Hormuz in peace accord",
     "'It will end pretty soon': Trump hints at peace in US-Iran war; Tehran mocks 'theatre diplomacy'",
-    "US visa, green card approval gets tougher as new USCIS rules take effect: What applicants need to know",
-    "11 Injured In Yemen's Houthi Strikes On Saudi Arabia",
-    "Stock Market LIVE Updates, Sensex Today: Sensex Sheds 500 Points At Open Amid Negative Global Cues",
-    "SBI Q1 Results: Standalone profit rises 10% YoY to Rs 21,121 crore, beats estimates",
-    "CAS effect? Angel One, Motilal Oswal shares fall up to 2.5% as daily turnover seen declining",
-    "Delhi HC stays FSSAI order barring Dabur from using 100% pure claim for food products",
+    "Lok Sabha passes bill to authorise govt to permit banks to levy charges on UPI transactions",
+    "SBI Q1 Results: Net profit jumps 10.2% YoY to ₹21,121 crore, NII up 15%",
+    "Hindalco Q1 results: Net profit jumps 75% to record Rs 7,013 crore, revenue rises 32%; stock gains nearly...",
+    "Breaking: US Nonfarm Payrolls fall by 23K in July vs. +80K expected",
     "Samsung says Galaxy Z Fold8 pre-orders are 30% ahead of last year's foldables",
     "Lava Smartphone Offers on Amazon Great Freedom Sale 2026",
-    "Apple to unveil iPhone 18 Pro and first foldable iPhone next month",
+    "iPhone 18 Pro India launch next month: 12 reasons to upgrade from iPhone 17 Pro",
     "GTA VI extended look is coming later this month to Netflix - GSMArena.com news",
-    "‘The Last House’ Review: Wagner Moura and Greta Lee Bring Conviction to a Suitably Stifling Stay-at-Home Thriller",
-    "The Traitors: Shweta Tiwari makes shocking revelation about her former husbands’ cheating; says, “Apne pa",
-    "BTS’s RM Seemingly Shades “GRAMMYs” During Recent Show Amid Boycott"
+    "Tamil Nadu CM Joseph Vijay's Wife Withdraws Divorce Petition",
+    "Mithun Chakraborty Hospitalised, Undergoes Surgery In Kolkata",
+    "The Traitors: Shweta Tiwari makes shocking revelation about her former husbands’ cheating; says, “Apne pa"
   ],
   "quiz": [
     {
-      "blanked": "11 Injured In Yemen's Houthi ______ On Saudi Arabia",
-      "answer": "Strikes",
+      "blanked": "Amritsar Top Cop Removed After Jantar Mantar Remarks, ______ Questions Timing",
+      "answer": "BJP",
       "options": [
-        "Open",
-        "Cup",
-        "Strikes",
-        "Corporator"
+        "BJP",
+        "YoY",
+        "Signs",
+        "Omics"
       ]
     },
     {
-      "blanked": "Africa backs Infantino as CAF unanimously votes in ______ president’s favour",
-      "answer": "FIFA",
-      "options": [
-        "FIFA",
-        "Case",
-        "ISI-backed",
-        "Healthcare"
-      ]
-    },
-    {
-      "blanked": "Trump Signs Order To Curb Birthright ______ \"Tourism\"",
-      "answer": "Citizenship",
-      "options": [
-        "Station",
-        "Jantar",
-        "Nene",
-        "Citizenship"
-      ]
-    },
-    {
-      "blanked": "Exclusive: How ______ subject experts leaked NEET-UG paper—‘questions on chits, marked NCERT paras’",
-      "answer": "NTA",
-      "options": [
-        "Wife",
-        "Seemingly",
-        "Condition",
-        "NTA"
-      ]
-    },
-    {
-      "blanked": "CAS effect? Angel ______ Motilal Oswal shares fall up to 2.5% as daily turnover seen declining",
-      "answer": "One",
-      "options": [
-        "Drive",
-        "NEET-UG",
-        "Arabia",
-        "One"
-      ]
-    },
-    {
-      "blanked": "Stock Market LIVE Updates, Sensex Today: Sensex Sheds 500 ______ At Open Amid Negative Global Cues",
-      "answer": "Points",
-      "options": [
-        "Points",
-        "Who",
-        "100%",
-        "Divorce"
-      ]
-    },
-    {
-      "blanked": "Total solar eclipse Aug. 12, ______ live updates — 5 days to totality",
-      "answer": "2026",
-      "options": [
-        "Market",
-        "Galaxy",
-        "Yemens",
-        "2026"
-      ]
-    },
-    {
-      "blanked": "BTS’s RM Seemingly Shades “GRAMMYs” During Recent Show Amid ______",
-      "answer": "Boycott",
-      "options": [
-        "Chief",
-        "Boycott",
-        "Rocket",
-        "House"
-      ]
-    },
-    {
-      "blanked": "India prioritise Brazil friendly over ______ ASEAN Cup",
-      "answer": "FIFA",
-      "options": [
-        "Today",
-        "Angel",
-        "FIFA",
-        "What"
-      ]
-    },
-    {
-      "blanked": "Apple to unveil iPhone 18 ______ and first foldable iPhone next month",
-      "answer": "Pro",
-      "options": [
-        "Bill",
-        "US-Iran",
-        "Pro",
-        "Mahua"
-      ]
-    },
-    {
-      "blanked": "The Traitors: Shweta Tiwari makes shocking revelation about her former husbands’ cheating; says, ______ pa",
-      "answer": "Apne",
-      "options": [
-        "Confirm",
-        "Tehran",
-        "Apne",
-        "Galaxy"
-      ]
-    },
-    {
-      "blanked": "SBI Q1 Results: Standalone profit rises 10% YoY to Rs ______ crore, beats estimates",
-      "answer": "21121",
+      "blanked": "Chinese satellite records ______ rocket remnant's lunar impact",
+      "answer": "SpaceX",
       "options": [
         "SpaceX",
-        "30%",
-        "Took",
-        "21121"
+        "Curb",
+        "Israeli",
+        "Indias"
+      ]
+    },
+    {
+      "blanked": "Breaking: US Nonfarm ______ fall by 23K in July vs. +80K expected",
+      "answer": "Payrolls",
+      "options": [
+        "Wife",
+        "Kolkata",
+        "Delhi",
+        "Payrolls"
+      ]
+    },
+    {
+      "blanked": "Trump Signs Order To Curb Birthright Citizenship ______",
+      "answer": "Tourism",
+      "options": [
+        "Tourism",
+        "Bring",
+        "Mantar",
+        "Thriller"
+      ]
+    },
+    {
+      "blanked": "'Private Event, Don't Endorse It': India On Sheikh Hasina's ______ In Delhi",
+      "answer": "Address",
+      "options": [
+        "Address",
+        "Amazon",
+        "21121",
+        "Wagner"
+      ]
+    },
+    {
+      "blanked": "Hindalco Q1 results: Net profit jumps ______ to record Rs 7,013 crore, revenue rises 32%; stock gains nearly...",
+      "answer": "75%",
+      "options": [
+        "Offers",
+        "75%",
+        "Kanth",
+        "Delhi"
+      ]
+    },
+    {
+      "blanked": "The ______ Shweta Tiwari makes shocking revelation about her former husbands’ cheating; says, “Apne pa",
+      "answer": "Traitors",
+      "options": [
+        "Traitors",
+        "Lanka",
+        "Address",
+        "Order"
+      ]
+    },
+    {
+      "blanked": "Saudi ______ Pakistan and Turkiye sign defence deal amid regional turmoil",
+      "answer": "Arabia",
+      "options": [
+        "Remarks",
+        "Arabia",
+        "Christian",
+        "Curb"
+      ]
+    },
+    {
+      "blanked": "US-Iran war news LIVE: Tehran wants to bar US, Israeli ships from Strait of ______ in peace accord",
+      "answer": "Hormuz",
+      "options": [
+        "Hormuz",
+        "Meir",
+        "Withdraws",
+        "Thriller"
+      ]
+    },
+    {
+      "blanked": "Ebola caseload in DR ______ tops 4,000",
+      "answer": "Congo",
+      "options": [
+        "Congo",
+        "Petition",
+        "Birthright",
+        "Endorse"
+      ]
+    },
+    {
+      "blanked": "Multi Omics Revealed New Gallbladder ______ Targets",
+      "answer": "Cancer",
+      "options": [
+        "Bring",
+        "Joseph",
+        "Hasinas",
+        "Cancer"
+      ]
+    },
+    {
+      "blanked": "'It will end pretty soon': Trump hints at peace in US-Iran war; ______ mocks 'theatre diplomacy'",
+      "answer": "Tehran",
+      "options": [
+        "Tehran",
+        "Smartphone",
+        "Greta",
+        "Offers"
       ]
     }
   ]
