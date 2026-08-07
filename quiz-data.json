@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-07T20:10:03.459Z",
+  "generatedAt": "2026-08-07T22:08:29.613Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "Jharkhand exam protests in Ranchi: After CJP, a new youth agitation grips Indian state",
     "Saudi ⁠Arabia, Pakistan and Turkiye sign defence deal amid regional turmoil",
     "India Counters China, Maps 27 Places In Arunachal Using Official Names",
+    "Jharkhand: Protests grow in Indian state over alleged exam irregularities",
     "Delhi sees wettest August start in 13 years: Non-stop rainfall leaves roads flooded, traffic crawling | India News",
+    "‘America shooting itself in the foot’: US Senators Wyden, Paul oppose 100% tariffs on India, China | India News",
     "FCRA Bill is ‘religion-neutral’, Shah assures Christian bodies",
-    "‘America shooting itself in the foot’: US Senators Wyden, Paul oppose 100% tariffs on India, China",
     "Indian government does not endorse comments made at Sheikh Hasina press meet, says MEA",
     "'Exercise restraint, act according to law': US urges Pakistan amid PoK crackdown",
-    "Rahul Gandhi reveals his favourite BJP leader: 'Get along with him, he's cool' | India News",
+    "Parliament Monsoon Session Day 14: Congress issues whip, asks MPs to be present in Parliament ‘without fail’ from Monday",
     "Exclusive: How NTA subject experts leaked NEET-UG paper—‘questions on chits, marked NCERT paras’",
     "Houthi strikes in Yemen as Saudi Arabia braces for attacks: What we know",
+    "Thailand school shooting updates: Student kills at least 7 people at high school, home outside Bangkok, officials say",
     "EU should use leverage with Morocco after Ceuta crossings, EU migration chief says",
-    "Thailand school shooting LIVE: Student kills at least 7 people at high school, home outside Bangkok, officials say",
     "Iran, US, Oman 'Close' To Hormuz Deal: What Each Party Wants From It",
-    "Lok Sabha passes bill to authorise govt to permit banks to levy charges on UPI transactions",
-    "Oil marketing companies say nationwide tests find E20 petrol meets quality norms, reject contamination...",
     "SBI Q1 Results: Net profit jumps 10.2% YoY to ₹21,121 crore, NII up 15%",
-    "US labour market sheds jobs in July as labour force participation slumps",
-    "OpenAI expands into consumer hardware with AI-powered smart speaker plans",
+    "Lok Sabha passes bill to authorise govt to permit banks to levy charges on UPI transactions",
+    "RBI excludes loans against new FCNR(B), NRE deposits from priority sector lending calculation",
+    "Delhi HC stays FSSAI order barring Dabur from using 100% pure claim for food products",
     "Samsung says Galaxy Z Fold8 pre-orders are 30% ahead of last year's foldables",
     "Lava Announces Exciting Deals on Smartphones During Amazon Great Freedom Festival Sale",
-    "Vivo S2 5G Returns To India At Rs 39,999: Check The Price And Specs",
+    "Vivo S2 with 7050 mAh battery, 50MP camera launched in India: Price, specs and more",
+    "GTA VI extended look is coming later this month to Netflix - GSMArena.com news",
     "Vishwanath and Sons: Mamitha Baiju falls head over heels in love with Suriya in Venky Atluri's family entertainer. Watch | Hindustan Times",
-    "Internet cringes at new Guru Randhawa song Fine Shyt, calls it straight up noise pollution: ‘Another win for the deaf’ | Hindustan Times",
+    "Tamil Nadu CM Joseph Vijay's Wife Withdraws Divorce Petition",
     "Awarapan 2 Trailer Impact At Box Office Day 1: Emraan Hashmi To Rewrite History After 14 Years, Delivering His Biggest Solo Opener!"
   ],
   "quiz": [
     {
-      "blanked": "Lok Sabha passes bill to authorise govt to permit banks to levy charges on ______ transactions",
-      "answer": "UPI",
+      "blanked": "Awarapan 2 Trailer Impact At Box Office Day 1: Emraan ______ To Rewrite History After 14 Years, Delivering His Biggest Solo Opener!",
+      "answer": "Hashmi",
       "options": [
-        "UPI",
-        "Student",
-        "39999",
-        "Arthritis"
+        "Galaxy",
+        "Hashmi",
+        "PoK",
+        "MEA"
+      ]
+    },
+    {
+      "blanked": "India bowlers made to toil as ______ XI dominate Day 1 of warm-up fixture",
+      "answer": "SLC",
+      "options": [
+        "SLC",
+        "Announces",
+        "Arabia",
+        "Box"
       ]
     },
     {
       "blanked": "'Exercise restraint, act according to law': US urges Pakistan amid ______ crackdown",
       "answer": "PoK",
       "options": [
-        "PoK",
-        "Deal",
-        "BJP",
-        "Amsterdam"
+        "Office",
+        "Wyden",
+        "Sons",
+        "PoK"
       ]
     },
     {
-      "blanked": "Lava Announces Exciting ______ on Smartphones During Amazon Great Freedom Festival Sale",
-      "answer": "Deals",
+      "blanked": "Tamil Nadu CM Joseph Vijay's Wife ______ Divorce Petition",
+      "answer": "Withdraws",
       "options": [
-        "Returns",
-        "10.2%",
-        "AI-powered",
-        "Deals"
+        "Mamitha",
+        "Non-stop",
+        "Always",
+        "Withdraws"
       ]
     },
     {
-      "blanked": "Thailand school shooting ______ Student kills at least 7 people at high school, home outside Bangkok, officials say",
-      "answer": "LIVE",
+      "blanked": "'Thudakkam' release: Mammootty wishes Vismaya ______ Kalyani Priyadarshan says 'Always rooting for you",
+      "answer": "Mohanlal",
       "options": [
-        "Great",
-        "Times",
-        "LIVE",
-        "Africa"
+        "Suriya",
+        "Kings",
+        "Mohanlal",
+        "Box"
+      ]
+    },
+    {
+      "blanked": "India Counters China, Maps 27 Places In Arunachal Using Official ______",
+      "answer": "Names",
+      "options": [
+        "Mohanlal",
+        "Report",
+        "Names",
+        "Oman"
+      ]
+    },
+    {
+      "blanked": "Rahul leads Indians in tour game with ______ out injured",
+      "answer": "Gill",
+      "options": [
+        "Know",
+        "21121",
+        "Wife",
+        "Gill"
+      ]
+    },
+    {
+      "blanked": "Vivo S2 with 7050 mAh battery, 50MP camera launched in India: ______ specs and more",
+      "answer": "Price",
+      "options": [
+        "Price",
+        "NRE",
+        "China",
+        "Petition"
       ]
     },
     {
       "blanked": "Indian government does not endorse comments made at Sheikh Hasina press meet, says ______",
       "answer": "MEA",
       "options": [
+        "FIFAs",
         "MEA",
-        "Guru",
-        "Announces",
-        "CJP"
+        "IDream",
+        "PoK"
       ]
     },
     {
-      "blanked": "Vishwanath and Sons: Mamitha Baiju falls head over heels in love with Suriya in Venky Atluri's family entertainer. Watch | ______ Times",
-      "answer": "Hindustan",
+      "blanked": "EU should use leverage with ______ after Ceuta crossings, EU migration chief says",
+      "answer": "Morocco",
       "options": [
-        "International",
-        "Case",
-        "Hindustan",
-        "Close"
-      ]
-    },
-    {
-      "blanked": "Total solar eclipse on Aug. 12: ______ to know",
-      "answer": "What",
-      "options": [
-        "Sons",
-        "What",
-        "Wife",
-        "Baiju"
-      ]
-    },
-    {
-      "blanked": "Delhi sees wettest August start in 13 years: Non-stop rainfall leaves roads flooded, traffic crawling | India ______",
-      "answer": "News",
-      "options": [
-        "10.2%",
-        "Targets",
-        "News",
-        "Box"
-      ]
-    },
-    {
-      "blanked": "Jharkhand exam protests in Ranchi: After CJP, a new youth agitation grips ______ state",
-      "answer": "Indian",
-      "options": [
-        "Indian",
-        "Returns",
-        "Deal",
-        "39999"
-      ]
-    },
-    {
-      "blanked": "Tamil Nadu CM Joseph Vijay's Wife Withdraws ______ Petition",
-      "answer": "Divorce",
-      "options": [
-        "Gallbladder",
-        "Returns",
-        "Divorce",
-        "Arunachal"
+        "Morocco",
+        "Ceuta",
+        "Solo",
+        "Hindustan"
       ]
     },
     {
       "blanked": "4 rare celestial events to coincide on 12 August. ______ eclipse, meteor shower & more",
       "answer": "Solar",
       "options": [
-        "Box",
         "Solar",
-        "Hindustan",
-        "Meir"
+        "Autoimmune",
+        "Indians",
+        "Amazon"
       ]
     },
     {
-      "blanked": "Vivo S2 5G Returns To India At Rs 39,999: ______ The Price And Specs",
-      "answer": "Check",
+      "blanked": "Delhi sees wettest August start in 13 years: Non-stop rainfall leaves roads flooded, traffic crawling | India ______",
+      "answer": "News",
       "options": [
-        "What",
-        "Fine",
-        "Check",
-        "How"
+        "Venky",
+        "About",
+        "News",
+        "Festival"
       ]
     }
   ]
