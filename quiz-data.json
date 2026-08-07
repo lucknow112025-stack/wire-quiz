@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-08-07T22:08:29.613Z",
+  "generatedAt": "2026-08-07T23:52:13.112Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
+    "Jharkhand Ministers And Protesting Students Meet, Agitation To Continue",
     "Saudi ⁠Arabia, Pakistan and Turkiye sign defence deal amid regional turmoil",
-    "India Counters China, Maps 27 Places In Arunachal Using Official Names",
-    "Jharkhand: Protests grow in Indian state over alleged exam irregularities",
+    "India counters China's 'map war', assigns official names to 27 Arunachal sites",
     "Delhi sees wettest August start in 13 years: Non-stop rainfall leaves roads flooded, traffic crawling | India News",
     "‘America shooting itself in the foot’: US Senators Wyden, Paul oppose 100% tariffs on India, China | India News",
     "FCRA Bill is ‘religion-neutral’, Shah assures Christian bodies",
@@ -15,139 +15,139 @@
     "Exclusive: How NTA subject experts leaked NEET-UG paper—‘questions on chits, marked NCERT paras’",
     "Houthi strikes in Yemen as Saudi Arabia braces for attacks: What we know",
     "Thailand school shooting updates: Student kills at least 7 people at high school, home outside Bangkok, officials say",
-    "EU should use leverage with Morocco after Ceuta crossings, EU migration chief says",
     "Iran, US, Oman 'Close' To Hormuz Deal: What Each Party Wants From It",
-    "SBI Q1 Results: Net profit jumps 10.2% YoY to ₹21,121 crore, NII up 15%",
+    "Trump yet again tries to curb birthright citizenship: What it means for Indians in US",
     "Lok Sabha passes bill to authorise govt to permit banks to levy charges on UPI transactions",
-    "RBI excludes loans against new FCNR(B), NRE deposits from priority sector lending calculation",
-    "Delhi HC stays FSSAI order barring Dabur from using 100% pure claim for food products",
+    "SBI Q1 Results: Net profit jumps 10.2% YoY to ₹21,121 crore, NII up 15%",
+    "Oil marketing companies say nationwide tests find E20 petrol meets quality norms, reject contamination...",
+    "US labour market sheds jobs in July as labour force participation slumps",
     "Samsung says Galaxy Z Fold8 pre-orders are 30% ahead of last year's foldables",
-    "Lava Announces Exciting Deals on Smartphones During Amazon Great Freedom Festival Sale",
+    "Amazon Great Freedom Sale is now live: Get top smartphone deals under ₹30,000, including Galaxy S25 Ultra, ...",
     "Vivo S2 with 7050 mAh battery, 50MP camera launched in India: Price, specs and more",
     "GTA VI extended look is coming later this month to Netflix - GSMArena.com news",
-    "Vishwanath and Sons: Mamitha Baiju falls head over heels in love with Suriya in Venky Atluri's family entertainer. Watch | Hindustan Times",
     "Tamil Nadu CM Joseph Vijay's Wife Withdraws Divorce Petition",
-    "Awarapan 2 Trailer Impact At Box Office Day 1: Emraan Hashmi To Rewrite History After 14 Years, Delivering His Biggest Solo Opener!"
+    "‘The Traitors’ India Season 2 Unveils Trailer With Karan Johar and 21-Celebrity Cast (EXCLUSIVE)",
+    "'Thudakkam' release: Mammootty wishes Vismaya Mohanlal; Kalyani Priyadarshan says 'Always rooting for you"
   ],
   "quiz": [
-    {
-      "blanked": "Awarapan 2 Trailer Impact At Box Office Day 1: Emraan ______ To Rewrite History After 14 Years, Delivering His Biggest Solo Opener!",
-      "answer": "Hashmi",
-      "options": [
-        "Galaxy",
-        "Hashmi",
-        "PoK",
-        "MEA"
-      ]
-    },
-    {
-      "blanked": "India bowlers made to toil as ______ XI dominate Day 1 of warm-up fixture",
-      "answer": "SLC",
-      "options": [
-        "SLC",
-        "Announces",
-        "Arabia",
-        "Box"
-      ]
-    },
-    {
-      "blanked": "'Exercise restraint, act according to law': US urges Pakistan amid ______ crackdown",
-      "answer": "PoK",
-      "options": [
-        "Office",
-        "Wyden",
-        "Sons",
-        "PoK"
-      ]
-    },
-    {
-      "blanked": "Tamil Nadu CM Joseph Vijay's Wife ______ Divorce Petition",
-      "answer": "Withdraws",
-      "options": [
-        "Mamitha",
-        "Non-stop",
-        "Always",
-        "Withdraws"
-      ]
-    },
-    {
-      "blanked": "'Thudakkam' release: Mammootty wishes Vismaya ______ Kalyani Priyadarshan says 'Always rooting for you",
-      "answer": "Mohanlal",
-      "options": [
-        "Suriya",
-        "Kings",
-        "Mohanlal",
-        "Box"
-      ]
-    },
-    {
-      "blanked": "India Counters China, Maps 27 Places In Arunachal Using Official ______",
-      "answer": "Names",
-      "options": [
-        "Mohanlal",
-        "Report",
-        "Names",
-        "Oman"
-      ]
-    },
-    {
-      "blanked": "Rahul leads Indians in tour game with ______ out injured",
-      "answer": "Gill",
-      "options": [
-        "Know",
-        "21121",
-        "Wife",
-        "Gill"
-      ]
-    },
-    {
-      "blanked": "Vivo S2 with 7050 mAh battery, 50MP camera launched in India: ______ specs and more",
-      "answer": "Price",
-      "options": [
-        "Price",
-        "NRE",
-        "China",
-        "Petition"
-      ]
-    },
-    {
-      "blanked": "Indian government does not endorse comments made at Sheikh Hasina press meet, says ______",
-      "answer": "MEA",
-      "options": [
-        "FIFAs",
-        "MEA",
-        "IDream",
-        "PoK"
-      ]
-    },
-    {
-      "blanked": "EU should use leverage with ______ after Ceuta crossings, EU migration chief says",
-      "answer": "Morocco",
-      "options": [
-        "Morocco",
-        "Ceuta",
-        "Solo",
-        "Hindustan"
-      ]
-    },
     {
       "blanked": "4 rare celestial events to coincide on 12 August. ______ eclipse, meteor shower & more",
       "answer": "Solar",
       "options": [
+        "MEA",
         "Solar",
-        "Autoimmune",
-        "Indians",
-        "Amazon"
+        "Biologic",
+        "Net"
+      ]
+    },
+    {
+      "blanked": "India counters China's 'map war', assigns official names to 27 ______ sites",
+      "answer": "Arunachal",
+      "options": [
+        "Arunachal",
+        "How",
+        "Biologic",
+        "Nadu"
+      ]
+    },
+    {
+      "blanked": "Trump yet again tries to curb birthright citizenship: What it means for ______ in US",
+      "answer": "Indians",
+      "options": [
+        "21121",
+        "Rinku",
+        "Odyssey",
+        "Indians"
+      ]
+    },
+    {
+      "blanked": "ox Office: 'The Odyssey' Crosses $1B, Will Be Christopher ______ Highest",
+      "answer": "Nolans",
+      "options": [
+        "Ashwin",
+        "Nolans",
+        "Student",
+        "NTA"
+      ]
+    },
+    {
+      "blanked": "Iran, US, Oman 'Close' To Hormuz Deal: ______ Each Party Wants From It",
+      "answer": "What",
+      "options": [
+        "What",
+        "Wyden",
+        "Mumbai",
+        "Station"
+      ]
+    },
+    {
+      "blanked": "Nasa astronauts Anil ______ Jessica Meir complete first spacewalk to upgrade International Space Station power system",
+      "answer": "Menon",
+      "options": [
+        "Mammootty",
+        "You",
+        "Menon",
+        "Arthritis"
+      ]
+    },
+    {
+      "blanked": "SBI Q1 Results: ______ profit jumps 10.2% YoY to ₹21,121 crore, NII up 15%",
+      "answer": "Net",
+      "options": [
+        "Arabia",
+        "30000",
+        "Christian",
+        "Net"
+      ]
+    },
+    {
+      "blanked": "'Get Harshit Rana and ______ Singh': Ashwin names Mumbai Indians' ideal Hardik Pandya trade",
+      "answer": "Rinku",
+      "options": [
+        "Kalyani",
+        "Rinku",
+        "Harshit",
+        "Myositis"
+      ]
+    },
+    {
+      "blanked": "Saudi ______ Pakistan and Turkiye sign defence deal amid regional turmoil",
+      "answer": "Arabia",
+      "options": [
+        "Rana",
+        "NII",
+        "Congress",
+        "Arabia"
       ]
     },
     {
       "blanked": "Delhi sees wettest August start in 13 years: Non-stop rainfall leaves roads flooded, traffic crawling | India ______",
       "answer": "News",
       "options": [
-        "Venky",
-        "About",
+        "Mumbai",
         "News",
-        "Festival"
+        "Gill",
+        "Priyadarshan"
+      ]
+    },
+    {
+      "blanked": "Jharkhand ______ And Protesting Students Meet, Agitation To Continue",
+      "answer": "Ministers",
+      "options": [
+        "Rinku",
+        "15%",
+        "Unveils",
+        "Ministers"
+      ]
+    },
+    {
+      "blanked": "Exclusive: ______ NTA subject experts leaked NEET-UG paper—‘questions on chits, marked NCERT paras’",
+      "answer": "How",
+      "options": [
+        "10.2%",
+        "Myositis",
+        "Pandya",
+        "How"
       ]
     }
   ]
