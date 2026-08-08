@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-08T10:04:38.804Z",
+  "generatedAt": "2026-08-08T11:47:00.941Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
     "Jharkhand student protest LIVE: Govt. talks with another faction of protestors end without breakthrough, stir to continue",
-    "US Senate clears Russia sanctions bill with 100% tariffs on India, China",
     "IIT heaves under PM 'outreach' security, students told how low to bow their heads",
+    "Collision between Mercedes and WagonR kills 70-year-old woman in Delhi's Narela | India News",
     "Air Force Officer Lured By Woman On Chats To Leak Defence Secrets To Pak Handler: Cops",
-    "Will Pakistan-Saudi-Turkiye alliance actually create a new regional order?",
-    "21 land areas, four passes, a lake: List of Arunachal locations India named to counter China | India News",
-    "8 Killed, 10 Injured After Private Bus Overturns In Himachal's Chamba District",
-    "Beer bottle found inside Mercedes after car collides with another vehicle in Delhi; 1 killed",
-    "AEE suspended as girl dies due to delay in treatment",
-    "CIK conducts searches at five locations across Kashmir",
-    "West Asia war LIVE: U.S. expects deal soon on Strait of Hormuz",
-    "\"Naturalised Citizen\": US Backs Indian-Origin Woman Accused Of \"Visa Fraud\"",
+    "Children under 13 could be barred from making accounts on social media, gaming platforms: Bill in Parliament | India News",
+    "US Senate clears Russia sanctions bill with 100% tariffs on India, China",
+    "\"Charade\": DMK Boycotts Vijay's Meet With Tamil Nadu MPs On Delimitation",
+    "Friendship On Tinder, Then Blackmail: UP Woman Dupes Men Of Rs 6 Crore",
+    "Inside Modi-Sukhbir Badal meet: Eye on 2027 Punjab polls, an Akali bid to revive an old alliance",
+    "Himachal Pradesh accident: 7 killed, 11 injured after bus crashes on Teesa-Bairagarh road",
+    "World News updates: Todd Blanche narrowly confirmed as Trump’s attorney general",
+    "'Could die at any moment': Israeli media claims Iran's Mojtaba Khamenei is in 'critical condition'",
+    "'Airpower has its limits': Top US General looking for a way out from Iran",
     "U.S. Senate passes short-term funding bill to avert federal shutdown before election",
-    "Russian strikes near Ukrainian capital kill three, including child",
     "Lok Sabha passes bill to authorise govt to permit banks to levy charges on UPI transactions",
-    "India’s first privately-built 800 kN FFSC engine unveiled",
+    "Flipkart Minutes enters gourmet grocery, launches private label Pykd as quick commerce rivals step up...",
+    "FIIs now backing India's consumers, not capex: July data reveals major rotation",
     "Exclusive: Swiggy, Zomato, Zepto face EV mandate, rider welfare levy under Maharashtra plan",
-    "Delhi HC stays FSSAI order barring Dabur from using 100% pure claim for food products",
     "Amazon India brings quirky independence day deals to every kind of shopper with Schbang",
     "Samsung says Galaxy Z Fold8 pre-orders are 30% ahead of last year's foldables",
+    "Here’s When Apple Will Reveal Its iPhone 18 Pro Special Event",
     "Watching Cancer Cells Live Could Transform the Future of Drug Discovery, Say Experts",
-    "Lenovo Legion Y700 Infinite 5G Now Confirmed to Feature a 50MP Camera, 6.5mm Thin Body and 2.89mm Bezels",
+    "Operation Safed Sagar Review: Siddharth, Jimmy Shergill Lead A Razor-Sharp War Drama Without Bloodlust",
     "'The Odyssey' crosses USD 1 BILLION; becomes Christopher Nolan's first film since 'The Dark Knight Rises'",
-    "Avika Gor Hospitalised After Working With 104-Degree Fever",
-    "Charlie Chauhan Ties The Knot With Cricketer Ramandeep Singh In An Intimate Ceremony | PICS"
+    "Avika Gor hospitalised due to dengue, husband Milind Chandwani says she worked with 104 fever: ‘Unable to move or eat’ | Hindustan Times"
   ],
   "quiz": [
     {
-      "blanked": "India vs Sri Lanka Cricket XI highlights, Tour match Day 1 updates: SLC XI ______ at Stumps; Jadeja, Kuldeep, Manav pick two wickets each",
-      "answer": "3638",
+      "blanked": "'Airpower has its limits': Top US General looking for a way out from ______",
+      "answer": "Iran",
       "options": [
-        "Arunachal",
-        "3638",
-        "List",
-        "Strait"
+        "2027",
+        "Senate",
+        "Life",
+        "Iran"
       ]
     },
     {
-      "blanked": "Samsung says ______ Z Fold8 pre-orders are 30% ahead of last year's foldables",
-      "answer": "Galaxy",
+      "blanked": "Rishabh ______ appeals to CM Dhami: Help me buy land in Uttarakhand, I want to come home",
+      "answer": "Pant",
       "options": [
-        "Cops",
-        "Diabetes",
+        "UPI",
+        "Shergill",
+        "Jessica",
+        "Pant"
+      ]
+    },
+    {
+      "blanked": "Jharkhand student protest ______ Govt. talks with another faction of protestors end without breakthrough, stir to continue",
+      "answer": "LIVE",
+      "options": [
+        "LIVE",
+        "Milind",
+        "Yadav",
+        "Khamenei"
+      ]
+    },
+    {
+      "blanked": "Inside Modi-Sukhbir Badal meet: Eye on ______ Punjab polls, an Akali bid to revive an old alliance",
+      "answer": "2027",
+      "options": [
+        "Delhis",
+        "2027",
+        "Joe",
+        "Unable"
+      ]
+    },
+    {
+      "blanked": "Friendship On Tinder, Then ______ UP Woman Dupes Men Of Rs 6 Crore",
+      "answer": "Blackmail",
+      "options": [
+        "Day",
+        "Blackmail",
+        "Zepto",
+        "Help"
+      ]
+    },
+    {
+      "blanked": "Watching ______ Cells Live Could Transform the Future of Drug Discovery, Say Experts",
+      "answer": "Cancer",
+      "options": [
+        "Men",
+        "Cancer",
+        "Apple",
+        "Top"
+      ]
+    },
+    {
+      "blanked": "'The Odyssey' crosses ______ 1 BILLION; becomes Christopher Nolan's first film since 'The Dark Knight Rises'",
+      "answer": "USD",
+      "options": [
         "Galaxy",
-        "Anil"
+        "Experts",
+        "Cops",
+        "USD"
       ]
     },
     {
-      "blanked": "US Senate clears ______ sanctions bill with 100% tariffs on India, China",
-      "answer": "Russia",
+      "blanked": "India vs Sri Lanka XI Live Score, Practice Match Day 2: ______ 239/5 vs SL in Colombo",
+      "answer": "IND",
       "options": [
-        "Transform",
-        "Falcon",
-        "Could",
-        "Russia"
+        "Tinder",
+        "Siddharth",
+        "IND",
+        "Reveal"
       ]
     },
     {
-      "blanked": "Exclusive: Swiggy, ______ Zepto face EV mandate, rider welfare levy under Maharashtra plan",
-      "answer": "Zomato",
+      "blanked": "World News updates: Todd ______ narrowly confirmed as Trump’s attorney general",
+      "answer": "Blanche",
       "options": [
-        "Himachals",
-        "China",
-        "Uttarakhand",
-        "Zomato"
-      ]
-    },
-    {
-      "blanked": "Multi-Omics Identifies New Targets for ______ Cancer",
-      "answer": "Gallbladder",
-      "options": [
-        "Space",
-        "Gallbladder",
-        "SLC",
-        "Collections"
-      ]
-    },
-    {
-      "blanked": "Spider Man Brand New Day Box Office Collections: Tom ______ starrer amass a record Rs. 389 Cr first week in India",
-      "answer": "Holland",
-      "options": [
-        "Holland",
-        "Arunachal",
-        "Space",
-        "Force"
+        "Blanche",
+        "Secrets",
+        "Men",
+        "Reveal"
       ]
     },
     {
       "blanked": "Amazon ______ brings quirky independence day deals to every kind of shopper with Schbang",
       "answer": "India",
       "options": [
-        "Christopher",
-        "Private",
+        "Match",
+        "Quality",
         "India",
-        "Stumps"
+        "General"
       ]
     },
     {
-      "blanked": "Delhi HC stays FSSAI order barring ______ from using 100% pure claim for food products",
-      "answer": "Dabur",
+      "blanked": "Children under 13 could be barred from making accounts on social media, gaming platforms: Bill in Parliament | ______ News",
+      "answer": "India",
       "options": [
-        "Dabur",
-        "Delhi",
-        "Asia",
-        "Chamba"
+        "Korean",
+        "India",
+        "Odyssey",
+        "Apple"
       ]
     },
     {
-      "blanked": "8 Killed, 10 ______ After Private Bus Overturns In Himachal's Chamba District",
-      "answer": "Injured",
+      "blanked": "Collision between Mercedes and WagonR kills 70-year-old woman in Delhi's ______ | India News",
+      "answer": "Narela",
       "options": [
-        "Leak",
-        "Injured",
-        "Secrets",
-        "Ties"
-      ]
-    },
-    {
-      "blanked": "Nasa astronauts Anil Menon, Jessica Meir complete first spacewalk to upgrade ______ Space Station power system",
-      "answer": "International",
-      "options": [
-        "Singh",
-        "Dark",
-        "Box",
-        "International"
-      ]
-    },
-    {
-      "blanked": "Gill out of Day 1 of warm-up match in Sri ______ due to injury",
-      "answer": "Lanka",
-      "options": [
-        "SLC",
-        "Lanka",
-        "Cops",
-        "Sabha"
-      ]
-    },
-    {
-      "blanked": "Beer bottle found inside ______ after car collides with another vehicle in Delhi; 1 killed",
-      "answer": "Mercedes",
-      "options": [
-        "Mercedes",
-        "Cells",
-        "Sri",
-        "International"
+        "Delhis",
+        "Narela",
+        "Sai",
+        "Joe"
       ]
     }
   ]
