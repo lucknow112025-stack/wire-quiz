@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-08T04:17:31.349Z",
+  "generatedAt": "2026-08-08T06:26:34.777Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
     "‘America shooting itself in the foot’: US Senators Wyden, Paul oppose 100% tariffs on India, China | India News",
-    "Saudi ⁠Arabia, Pakistan and Turkiye sign defence deal amid regional turmoil",
-    "Iran officials 'would not be surprised' if Supreme Leader Mojtaba Khamenei dies soon: Report",
-    "Government maps 27 Arunachal border locations with standard names",
-    "‘Need to check where we failed’: Tharoor says Cong's paper leak protest did not resonate as much as CJP's | India News",
-    "\"Let's Just Say...\": Rahul Gandhi's Witty Batman Response Goes Viral",
+    "Jharkhand protest: Man throws ink at AISA President Neha for being ‘anti-national’, detained",
+    "Gravely injured, 'a voice in the dark', not in Iran: Where is Mojtaba Khamenei?",
+    "Will Pakistan-Saudi-Turkiye alliance actually create a new regional order?",
     "Rotten Vegetables, Expired Milk: Bengaluru 5-Star Hotel Raids Reveal Shocker",
-    "Exclusive: How NTA subject experts leaked NEET-UG paper—‘questions on chits, marked NCERT paras’",
-    "Karnataka legislative council chairman Basavaraj Horatti resigns, says 'don't know why Congress asked me to leave' | India News",
+    "IAF officer arrested for sharing defence information, booked under Secrets Act",
+    "8 Killed, 10 Injured After Private Bus Overturns In Himachal's Chamba District",
+    "Government maps 27 Arunachal border locations with standard names",
+    "2 Ghaziabad hospitals that turned away child rape victim to give parents Rs 12 lakh",
     "'Perfect Victim' In Rape Cases Is A Myth; Women Deal With Trauma In Different Ways : Bombay High Court In ...",
-    "Sanchez vs Meloni: Spain imposes Italy border checks as Ceuta migrant row escalates",
+    "West Asia war LIVE: U.S. expects deal soon on Strait of Hormuz",
+    "Indian-Origin Woman Accused Of \"Visa Fraud\" In Viral Post, US Official Responds",
     "Ukraine Faces a Growing Air Defense Crisis as Patriot Supplies Dwindle",
-    "Iran, US, Oman 'Close' To Hormuz Deal: What Each Party Wants From It",
-    "Houthi strikes in Yemen as Saudi Arabia braces for attacks: What we know",
+    "Donald Trump's $400 million White House ballroom project stopped, court delivers major blow | Hindustan Times",
     "Lok Sabha passes bill to authorise govt to permit banks to levy charges on UPI transactions",
-    "Who is liable when AI goes rogue? Lawyers see new risks",
-    "Stock Market Highlights, Sensex Today: Sensex Sheds 500 Points Amid Negative Global Cues",
+    "Oil marketing companies say nationwide tests find E20 petrol meets quality norms, reject contamination...",
     "India’s first privately-built 800 kN FFSC engine unveiled",
+    "Who is liable when AI goes rogue? Lawyers see new risks",
+    "Amazon India brings quirky independence day deals to every kind of shopper with Schbang",
     "Samsung says Galaxy Z Fold8 pre-orders are 30% ahead of last year's foldables",
-    "Lava Announces Exciting Deals on Smartphones During Amazon Great Freedom Festival Sale",
     "Vivo S2 with 7050 mAh battery, 50MP camera launched in India: Price, specs and more",
     "Redmi 17C 5G shows up as a rebrand of another device - GSMArena.com news",
     "‘The Odyssey’ Surpasses $1 Billion, Christopher Nolan’s First Movie Since ‘Dark Knight Rises’ to Reach Coveted Box Office Milestone",
     "Sunny Deol and Preity Zinta meet Uttar Pradesh CM Yogi Adityanath in Lucknow ahead of 'Batwara 1947' rele",
-    "‘Will carry forward his legacy’: Pradeep Rawat's son breaks down in emotional tribute to Ghajini actor | Bollywood"
+    "Spider Man Brand New Day Box Office Collections: Tom Holland starrer amass a record Rs. 389 Cr first week in India"
   ],
   "quiz": [
-    {
-      "blanked": "‘America shooting itself in the foot’: US Senators Wyden, Paul oppose 100% tariffs on India, China | ______ News",
-      "answer": "India",
-      "options": [
-        "Meloni",
-        "India",
-        "Italy",
-        "Arabia"
-      ]
-    },
-    {
-      "blanked": "NASA figured out how to keep its 48-year-old ______ 2 probe running for yet another year",
-      "answer": "Voyager",
-      "options": [
-        "News",
-        "Voyager",
-        "Trauma",
-        "Raids"
-      ]
-    },
-    {
-      "blanked": "India’s first privately-built ______ kN FFSC engine unveiled",
-      "answer": "800",
-      "options": [
-        "Reduce",
-        "800",
-        "Dragons",
-        "Arabia"
-      ]
-    },
-    {
-      "blanked": "Sunny Deol and Preity Zinta meet Uttar Pradesh CM ______ Adityanath in Lucknow ahead of 'Batwara 1947' rele",
-      "answer": "Yogi",
-      "options": [
-        "Reach",
-        "Yogi",
-        "Today",
-        "League"
-      ]
-    },
-    {
-      "blanked": "Sanchez vs Meloni: Spain imposes ______ border checks as Ceuta migrant row escalates",
-      "answer": "Italy",
-      "options": [
-        "Economy",
-        "Italy",
-        "Smartphones",
-        "Barcelona"
-      ]
-    },
-    {
-      "blanked": "Iran officials 'would not be surprised' if Supreme Leader Mojtaba ______ dies soon: Report",
-      "answer": "Khamenei",
-      "options": [
-        "Khamenei",
-        "Reveal",
-        "Mourinho",
-        "Highlights"
-      ]
-    },
-    {
-      "blanked": "Houthi strikes in ______ as Saudi Arabia braces for attacks: What we know",
-      "answer": "Yemen",
-      "options": [
-        "Bombay",
-        "Coveted",
-        "Arabia",
-        "Yemen"
-      ]
-    },
-    {
-      "blanked": "Stock Market Highlights, ______ Today: Sensex Sheds 500 Points Amid Negative Global Cues",
-      "answer": "Sensex",
-      "options": [
-        "India",
-        "International",
-        "Adityanath",
-        "Sensex"
-      ]
-    },
-    {
-      "blanked": "Match Predictions: Tamil Nadu Premier League - Chepauk Super Gillies v IDream Tiruppur Tamizhans - ______ Royal Kings v Dindigul Dragons - August 7",
-      "answer": "Nellai",
-      "options": [
-        "Nellai",
-        "Rawats",
-        "Ceuta",
-        "Congress"
-      ]
-    },
-    {
-      "blanked": "Exclusive: How NTA subject experts leaked ______ paper—‘questions on chits, marked NCERT paras’",
-      "answer": "NEET-UG",
-      "options": [
-        "NEET-UG",
-        "Reach",
-        "Yemen",
-        "Without"
-      ]
-    },
-    {
-      "blanked": "Real ______ worst nightmare! Rodri transfer snub is a bitter blow for Jose Mourinho & Co. as Barcelona assert their dominance",
-      "answer": "Madrids",
-      "options": [
-        "Uttar",
-        "Gillies",
-        "Symptoms",
-        "Madrids"
-      ]
-    },
     {
       "blanked": "'Perfect Victim' In Rape ______ Is A Myth; Women Deal With Trauma In Different Ways : Bombay High Court In ...",
       "answer": "Cases",
       "options": [
+        "Tenure",
         "Cases",
-        "Congress",
-        "Price",
-        "China"
+        "Rises",
+        "Menon"
+      ]
+    },
+    {
+      "blanked": "Multi Omics Revealed New Gallbladder ______ Targets",
+      "answer": "Cancer",
+      "options": [
+        "House",
+        "Falcon",
+        "First",
+        "Cancer"
+      ]
+    },
+    {
+      "blanked": "Gravely injured, 'a voice in the dark', not in Iran: Where is Mojtaba ______",
+      "answer": "Khamenei",
+      "options": [
+        "Khamenei",
+        "Milestone",
+        "Fraud",
+        "Batwara"
+      ]
+    },
+    {
+      "blanked": "Can India Reduce Diabetes Without Slowing Its Diabetes ______",
+      "answer": "Economy",
+      "options": [
+        "Iran",
+        "Where",
+        "Avatar",
+        "Economy"
+      ]
+    },
+    {
+      "blanked": "2 ______ hospitals that turned away child rape victim to give parents Rs 12 lakh",
+      "answer": "Ghaziabad",
+      "options": [
+        "Revealed",
+        "Ghaziabad",
+        "Nani",
+        "Overturns"
+      ]
+    },
+    {
+      "blanked": "FIFA Boss' Alleged Mistress Got Six-Figure ______ MBA Funding During His UEFA Tenure: Report",
+      "answer": "Payout",
+      "options": [
+        "Payout",
+        "1947",
+        "Moon",
+        "Bus"
+      ]
+    },
+    {
+      "blanked": "The Paradise Teaser: Nani Unleashes His Fiercest Avatar Yet, Fans Call It 'Absolute ______",
+      "answer": "Madness",
+      "options": [
+        "Hotel",
+        "First",
+        "Avatar",
+        "Madness"
+      ]
+    },
+    {
+      "blanked": "The latest transfer market surprise: Liverpool loan ______ star",
+      "answer": "Barcelona",
+      "options": [
+        "Nolans",
+        "Post",
+        "Unleashes",
+        "Barcelona"
+      ]
+    },
+    {
+      "blanked": "Lok Sabha passes bill to authorise govt to permit banks to levy charges on ______ transactions",
+      "answer": "UPI",
+      "options": [
+        "Arunachal",
+        "Himachals",
+        "UPI",
+        "Private"
+      ]
+    },
+    {
+      "blanked": "4 rare celestial events to coincide on 12 August. ______ eclipse, meteor shower & more",
+      "answer": "Solar",
+      "options": [
+        "Solar",
+        "Please",
+        "Call",
+        "Madness"
+      ]
+    },
+    {
+      "blanked": "Jharkhand protest: Man throws ink at AISA President ______ for being ‘anti-national’, detained",
+      "answer": "Neha",
+      "options": [
+        "Neha",
+        "Fiercest",
+        "Overturns",
+        "Moon"
+      ]
+    },
+    {
+      "blanked": "Who is liable when AI goes rogue? ______ see new risks",
+      "answer": "Lawyers",
+      "options": [
+        "Lawyers",
+        "Targets",
+        "Visa",
+        "Dark"
       ]
     }
   ]
