@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-08T22:00:49.467Z",
+  "generatedAt": "2026-08-08T23:14:04.649Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "Iran says deal on Strait of Hormuz is close but is not enough to open the waterway",
-    "‘Degree means nothing in India today’: Rahul talks of ‘dard’, ‘data’ and 'daulat' at ‘Chhatron ki Goonj’ event | India News",
-    "U.S. Senate passes Russia sanctions bill that seeks 100% tariffs on India, four others",
-    "After Vijay-led all-party meet, Tamil Nadu leaders vow united front against delimitation | India News",
+    "Iran says deal on Strait of Hormuz is close but not enough to open the waterway",
     "JPSC row: Protest against alleged paper leaks to continue as 'no consensus' reached in second round of talks",
+    "‘Degree means nothing in India today’: Rahul talks of ‘dard’, ‘data’ and 'daulat' at ‘Chhatron ki Goonj’ event | India News",
+    "Saudi ⁠Arabia, Pakistan and Turkiye sign defence deal amid regional turmoil",
     "US-Iran war latest: JD Vance says US weighing safe Hormuz route for ships as Iran reiterates demands | World News",
+    "After Vijay-led all-party meet, Tamil Nadu leaders vow united front against delimitation | India News",
     "US Veep JD Vance Dials PM Modi, He Congratulates Usha Vance On Birth Of Son",
-    "In Outreach To Sikhs, AAP Government Makes U-Turn On Extremist's Parole",
-    "‘Panthic’ politics: SAD-BJP renewed alliance could reignite Akali Dal’s core base ahead of 2027 Punjab polls",
+    "The Reasons Behind Bhagwant Mann's U-Turn On Chief Minister's Murder Convict Jagtar Singh Hawara",
     "Samay Raina donates Rs 10 lakh to Assam flood relief; CM Himanta Biswa Sarma thanks comedian, social medi",
-    "UAE says Iran targeted ADNOC tanker in Strait of Hormuz, no casualties",
+    "Before PM Modi’s ‘outreach’ at IIT, gun-toting security, ‘suffocating restrictions’",
+    "U.S. Senate passes Russia sanctions bill that seeks 100% tariffs on India, four others",
     "H-1B Workers Could Lose 60-Day Lifeline Under New US Immigration Plan",
-    "World News updates: Zelenskyy visits Moscow-friendly Serbia as Russian strikes kill 4 in Kyiv region",
+    "Serbia and Ukraine pledge closer economic ties, eye free trade deal",
     "'Could die at any moment': Israeli media claims Iran's Mojtaba Khamenei is in 'critical condition'",
     "Lok Sabha passes bill to authorise govt to permit banks to levy charges on UPI transactions",
-    "India warned Diageo that its whisky's 'matured in American oak casks' claim was misleading",
-    "Maharashtra govt may bring Swiggy, Zomato, Zepto under bike-taxi rules",
     "Not Skynet — yet: Four AI firms, multiple escape routes, and a debate about how close human intelligence is | Hindustan Times",
-    "iPhone 17 faces an early price rise a month before iPhone 18 Pro launch",
+    "US sanctions Dubai-based crypto exchange over alleged Iran sanctions evasion and IRGC funding",
+    "Gold price jumps as reopening of Strait of Hormuz buzz dents US Fed rate-hike hopes. Is it the right time to buy gold?",
+    "iPhone 18 Pro Release Date: Apple’s Strategy Demands September Launch",
     "Amazon India brings quirky independence day deals to every kind of shopper with Schbang",
     "Samsung launches Galaxy Z Fold8 Ultra, Fold8, Flip8, Watch Ultra2 and Watch9",
-    "Redmi Note 17 Debuts with Massive 8,000mAh Battery & Big Screen Alongside Redmi 17",
+    "xAI's Imagine Image 2.0 lands just behind OpenAI's GPT-Image-2 in Arena benchmarks - the-decoder.com",
     "Yash’s ‘Toxic’ Trailer Unveils Dual-Role Father-Son Conflict at Core of Gangster Epic",
-    "Why Arijit Singh Made An Exception For Awarapan 2 In The Middle Of His Music Break",
-    "Mumbai Police constable guarding Salman Khan's residence dies of suspected heart attack: Report | Bollywood"
+    "Mumbai Police constable guarding Salman Khan's residence dies of suspected heart attack: Report | Bollywood",
+    "‘Spider-Man: Brand New Day’ Scores Amazing $143 Million Second Weekend at Box Office"
   ],
   "quiz": [
     {
-      "blanked": "UAE says Iran targeted ______ tanker in Strait of Hormuz, no casualties",
-      "answer": "ADNOC",
+      "blanked": "Not Skynet — yet: Four AI firms, multiple escape routes, and a debate about how close human intelligence is | ______ Times",
+      "answer": "Hindustan",
       "options": [
-        "Gangster",
-        "Kyiv",
-        "Rahul",
-        "ADNOC"
+        "IIT",
+        "Arabia",
+        "Hindustan",
+        "Hawara"
       ]
     },
     {
-      "blanked": "‘Panthic’ politics: SAD-BJP renewed alliance could reignite Akali Dal’s core base ahead of ______ Punjab polls",
-      "answer": "2027",
+      "blanked": "JPSC row: ______ against alleged paper leaks to continue as 'no consensus' reached in second round of talks",
+      "answer": "Protest",
       "options": [
-        "Help",
-        "Union",
-        "2027",
-        "Raina"
+        "Protest",
+        "Moon",
+        "Modis",
+        "Conflict"
       ]
     },
     {
-      "blanked": "Rishabh ______ appeals to CM Dhami: Help me buy land in Uttarakhand, I want to come home",
-      "answer": "Pant",
+      "blanked": "U.S. Senate passes Russia sanctions bill that seeks ______ tariffs on India, four others",
+      "answer": "100%",
       "options": [
-        "Four",
-        "Pant",
-        "Amazing",
+        "Birth",
+        "100%",
+        "Mojtaba",
+        "Infantino"
+      ]
+    },
+    {
+      "blanked": "Mumbai Police constable guarding ______ Khan's residence dies of suspected heart attack: Report | Bollywood",
+      "answer": "Salman",
+      "options": [
+        "Immigration",
+        "Salman",
+        "Congratulates",
+        "Minister"
+      ]
+    },
+    {
+      "blanked": "Saudi ______ Pakistan and Turkiye sign defence deal amid regional turmoil",
+      "answer": "Arabia",
+      "options": [
+        "Workers",
+        "Report",
+        "Arabia",
+        "Conflict"
+      ]
+    },
+    {
+      "blanked": "Amazon India brings quirky independence day deals to every kind of shopper with ______",
+      "answer": "Schbang",
+      "options": [
+        "Schbang",
+        "UPI",
+        "Modis",
+        "Four"
+      ]
+    },
+    {
+      "blanked": "Higher health risks associated with consuming ultra-processed foods indicated by ______ says Union Minister",
+      "answer": "ICMR",
+      "options": [
+        "Joao",
+        "ICMR",
+        "Senate",
         "Hormuz"
       ]
     },
     {
-      "blanked": "Samay Raina donates Rs 10 lakh to ______ flood relief; CM Himanta Biswa Sarma thanks comedian, social medi",
-      "answer": "Assam",
+      "blanked": "iPhone 18 Pro Release Date: Apple’s Strategy ______ September Launch",
+      "answer": "Demands",
       "options": [
-        "Help",
-        "Assam",
-        "UPI",
-        "Pant"
+        "Iran",
+        "Behind",
+        "Schbang",
+        "Demands"
       ]
     },
     {
-      "blanked": "iPhone 17 faces an early price rise a month before iPhone 18 ______ launch",
-      "answer": "Pro",
+      "blanked": "Yash’s ‘Toxic’ ______ Unveils Dual-Role Father-Son Conflict at Core of Gangster Epic",
+      "answer": "Trailer",
       "options": [
-        "Pro",
-        "Assam",
-        "Amazing",
-        "Birth"
+        "Pakistan",
+        "Trailer",
+        "Biswa",
+        "Chelsea"
       ]
     },
     {
-      "blanked": "‘Spider-Man: Brand New Day’ Scores ______ $143 Million Second Weekend at Box Office",
-      "answer": "Amazing",
-      "options": [
-        "Amazing",
-        "Joao",
-        "Sikhs",
-        "Son"
-      ]
-    },
-    {
-      "blanked": "4 rare celestial events to coincide on 12 August. ______ eclipse, meteor shower & more",
-      "answer": "Solar",
-      "options": [
-        "Diageo",
-        "Chhatron",
-        "Solar",
-        "World"
-      ]
-    },
-    {
-      "blanked": "H-1B Workers Could Lose 60-Day Lifeline Under New US Immigration ______",
-      "answer": "Plan",
-      "options": [
-        "Plan",
-        "Skynet",
-        "Himanta",
-        "ADNOC"
-      ]
-    },
-    {
-      "blanked": "After ______ all-party meet, Tamil Nadu leaders vow united front against delimitation | India News",
-      "answer": "Vijay-led",
-      "options": [
-        "Veep",
-        "Vijay-led",
-        "Strait",
-        "Bangladesh"
-      ]
-    },
-    {
-      "blanked": "Multi-Omics Identifies New ______ for Gallbladder Cancer",
-      "answer": "Targets",
+      "blanked": "Lok Sabha passes bill to authorise govt to permit banks to levy charges on ______ transactions",
+      "answer": "UPI",
       "options": [
         "Targets",
-        "Chhatron",
-        "Pedro",
-        "Father-Son"
+        "UPI",
+        "Times",
+        "Milan"
       ]
     },
     {
-      "blanked": "India warned Diageo that its whisky's 'matured in ______ oak casks' claim was misleading",
-      "answer": "American",
+      "blanked": "The Reasons Behind Bhagwant Mann's U-Turn On Chief Minister's Murder Convict Jagtar Singh ______",
+      "answer": "Hawara",
       "options": [
-        "American",
-        "Trailer",
-        "Dual-Role",
-        "Times"
+        "Europe",
+        "Bangladesh",
+        "Assam",
+        "Hawara"
       ]
     },
     {
-      "blanked": "Samsung launches Galaxy Z Fold8 Ultra, Fold8, Flip8, ______ Ultra2 and Watch9",
-      "answer": "Watch",
+      "blanked": "Multi-Omics Identifies New Targets for Gallbladder ______",
+      "answer": "Cancer",
       "options": [
-        "Israeli",
-        "AAP",
-        "Lose",
-        "Watch"
+        "Cancer",
+        "Watch",
+        "Son",
+        "Date"
       ]
     }
   ]
