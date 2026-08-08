@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-08T14:05:38.078Z",
+  "generatedAt": "2026-08-08T15:50:44.933Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "Jharkhand student protest LIVE: Govt. talks with another faction of protestors end without breakthrough, stir to continue",
+    "Big blow to CM Vijay's all-party meet on delimitation as 37 of 57 Tamil Nadu MPs opt out | India News",
     "Akali Dal-BJP Alliance Loading? Day After Meet With PM, Sukhbir Badal Supports Delimitation",
-    "‘Honey-trapped by Pakistani handler’: How 4-month Delhi Police op led to arrest of IAF wing commander",
-    "IIT heaves under PM 'outreach' security, students told how low to bow their heads",
-    "China’s view of India has changed. It’s time New Delhi recognized that shift",
-    "US Senate clears Russia sanctions bill with 100% tariffs on India, China",
-    "\"Charade\": DMK Boycotts Vijay's Meet With Tamil Nadu MPs On Delimitation",
-    "Indian Woman Goes To Portugal For Job, Gets 'Sold' To Beer Shop Owner",
+    "Iran says deal on Strait of Hormuz is close but will not open the waterway by itself",
+    "‘Degree means nothing in India today’: Rahul talks of ‘dard’, ‘data’ and 'daulat' at ‘Chhatron ki Goonj’ event | India News",
+    "IAF officer arrested for alleged leak of sensitive information to Pakistan-based operative",
+    "JPSC row: Protest against alleged paper leaks to continue as 'no consensus' reached in second round of talks",
+    "In rapidly changing world, those who learn win: PM Modi at IIT Delhi",
     "Himachal Pradesh accident: 7 killed, 11 injured after bus crashes on Teesa-Bairagarh road",
-    "\"Implement Women Quota Now\": Rahul Gandhi's Reply To Kiren Rijiju's Swipe",
-    "Why Saudi Arabia, Pakistan, and Turkey just signed a defense pact",
+    "Indian Woman Goes To Portugal For Job, Gets 'Sold' To Beer Shop Owner",
+    "Meta restricts post on Kashmir pellet victim Insha Mushtaq in India",
+    "A NATO-Style Military Pact: What To Expect From Pakistan-Saudi-Turkey Deal",
     "UAE says Iran attacked ADNOC vessel with missile in Strait of Hormuz",
-    "Russian strikes near Ukrainian capital kill four, including child",
-    "U.S. Senate passes short-term funding bill to avert federal shutdown before election",
+    "US Senate passes spending bill, rejects Trump’s Iran war funding demand",
+    "Senate Republicans narrowly confirm Todd Blanche as attorney general",
     "Lok Sabha passes bill to authorise govt to permit banks to levy charges on UPI transactions",
+    "Berkshire’s profit doubles as equity holdings surge; Cash nears $360 billion",
     "Delhivery Q1 results: Net profit down 65% YoY to Rs 32 crore, revenue up 28%",
-    "India warned Diageo that its whisky's 'matured in American oak casks' claim was misleading",
     "Flipkart Minutes enters gourmet grocery, launches private label Pykd as quick commerce rivals step up...",
     "Best Mechanical Keyboard Reddit Picks Compared [2026] - tech-insider.org",
     "Amazon India brings quirky independence day deals to every kind of shopper with Schbang",
     "iPhone 17 faces an early price rise a month before iPhone 18 Pro launch",
     "Samsung says Galaxy Z Fold8 pre-orders are 30% ahead of last year's foldables",
-    "Operation Safed Sagar Review: Siddharth, Jimmy Shergill Lead A Razor-Sharp War Drama Without Bloodlust",
-    "Avika Gor hospitalised due to dengue, husband Milind Chandwani says she worked with 104 fever: ‘Unable to move or eat’ | Hindustan Times",
-    "'Ramayana' to release in India 2 DAYS LATE; Namit Malhotra reveals film debuts internationally on Novembe"
+    "KBC 18: Aamir Khan, Preity Zinta and Sunny Deol join Amitabh Bachchan for a star-studded premiere",
+    "'First time in my life, didn't get visa': Actor Mohanlal apologises as Sydney show cancelled",
+    "Operation Safed Sagar Review: Siddharth, Jimmy Shergill Lead A Razor-Sharp War Drama Without Bloodlust"
   ],
   "quiz": [
     {
-      "blanked": "Delhivery Q1 results: Net profit down 65% ______ to Rs 32 crore, revenue up 28%",
-      "answer": "YoY",
+      "blanked": "Meta restricts post on Kashmir pellet victim ______ Mushtaq in India",
+      "answer": "Insha",
       "options": [
-        "YoY",
-        "Sagar",
-        "Solar",
-        "UPI"
-      ]
-    },
-    {
-      "blanked": "\"Charade\": DMK Boycotts Vijay's Meet With Tamil ______ MPs On Delimitation",
-      "answer": "Nadu",
-      "options": [
-        "Help",
-        "Nadu",
-        "Galaxy",
-        "Namit"
-      ]
-    },
-    {
-      "blanked": "South Korean orbiter captures crater formed by ______ 9 debris striking Moon",
-      "answer": "Falcon",
-      "options": [
-        "65%",
-        "Urinary",
-        "Sri",
-        "Falcon"
-      ]
-    },
-    {
-      "blanked": "Himachal Pradesh accident: 7 killed, 11 injured after bus crashes on ______ road",
-      "answer": "Teesa-Bairagarh",
-      "options": [
-        "Hormuz",
+        "360",
+        "Insha",
         "ADNOC",
-        "Teesa-Bairagarh",
-        "Pro"
+        "War"
       ]
     },
     {
-      "blanked": "Lok Sabha passes bill to authorise govt to permit banks to levy charges on ______ transactions",
-      "answer": "UPI",
+      "blanked": "'First time in my life, didn't get visa': ______ Mohanlal apologises as Sydney show cancelled",
+      "answer": "Actor",
       "options": [
-        "Jadeja",
-        "UPI",
-        "Sagar",
-        "Loading"
+        "Targets",
+        "Actor",
+        "Vijays",
+        "360"
       ]
     },
     {
-      "blanked": "India vs Sri Lanka XI ______ Score, Tour Match Day 2: India 256/7; Jadeja retires after fifty; Manav closes on fifty",
-      "answer": "Live",
+      "blanked": "In rapidly changing world, those who learn win: PM Modi at ______ Delhi",
+      "answer": "IIT",
       "options": [
-        "Live",
-        "Jadeja",
-        "Job",
-        "DMK"
+        "Sunny",
+        "IIT",
+        "Pro",
+        "Expect"
       ]
     },
     {
-      "blanked": "4 rare celestial events to coincide on 12 August. ______ eclipse, meteor shower & more",
-      "answer": "Solar",
+      "blanked": "South ______ orbiter captures crater formed by Falcon 9 debris striking Moon",
+      "answer": "Korean",
       "options": [
-        "Worlds",
-        "UPI",
-        "Solar",
-        "Review"
+        "Korean",
+        "Highlights",
+        "Mohanlal",
+        "Iran"
       ]
     },
     {
-      "blanked": "\"Implement Women Quota Now\": Rahul ______ Reply To Kiren Rijiju's Swipe",
-      "answer": "Gandhis",
+      "blanked": "KBC 18: Aamir Khan, Preity Zinta and Sunny ______ join Amitabh Bachchan for a star-studded premiere",
+      "answer": "Deol",
       "options": [
-        "Review",
-        "Badal",
-        "Guimaraes",
-        "Gandhis"
-      ]
-    },
-    {
-      "blanked": "Complicated ______ Tract Infections Revealed Quality of Life Gap",
-      "answer": "Urinary",
-      "options": [
-        "Nee",
-        "Solar",
-        "Urinary",
-        "Jadeja"
-      ]
-    },
-    {
-      "blanked": "Russian strikes near ______ capital kill four, including child",
-      "answer": "Ukrainian",
-      "options": [
-        "Ukrainian",
-        "Sukhbir",
-        "Pradesh",
-        "Now"
+        "Pykd",
+        "Deol",
+        "Woman",
+        "Gets"
       ]
     },
     {
       "blanked": "Rishabh ______ appeals to CM Dhami: Help me buy land in Uttarakhand, I want to come home",
       "answer": "Pant",
       "options": [
+        "Diwali",
         "Pant",
-        "104",
-        "Teesa-Bairagarh",
-        "Sold"
+        "Decline",
+        "Yadavs"
       ]
     },
     {
-      "blanked": "Operation Safed Sagar Review: Siddharth, ______ Shergill Lead A Razor-Sharp War Drama Without Bloodlust",
-      "answer": "Jimmy",
+      "blanked": "IAF officer arrested for alleged leak of sensitive information to ______ operative",
+      "answer": "Pakistan-based",
       "options": [
-        "Galaxy",
-        "Supports",
-        "Jimmy",
-        "Sri"
+        "Falcon",
+        "Owner",
+        "Help",
+        "Pakistan-based"
+      ]
+    },
+    {
+      "blanked": "Samsung says ______ Z Fold8 pre-orders are 30% ahead of last year's foldables",
+      "answer": "Galaxy",
+      "options": [
+        "Vijays",
+        "Chhatron",
+        "Gurnoor",
+        "Galaxy"
+      ]
+    },
+    {
+      "blanked": "Ashish Yadav's road to U20 ______ silver: From training in dry ponds with wooden javelin to following Nee",
+      "answer": "Worlds",
+      "options": [
+        "Alliance",
+        "Worlds",
+        "November",
+        "Pykd"
+      ]
+    },
+    {
+      "blanked": "India vs Sri ______ XI Highlights, Tour Match Day 2: Padikkal 142 not out, Gurnoor help IND close the day on 357/6",
+      "answer": "Lanka",
+      "options": [
+        "Todd",
+        "Lanka",
+        "Deol",
+        "Nadu"
+      ]
+    },
+    {
+      "blanked": "Total solar eclipse Aug. 12, ______ live updates — 4 days to totality",
+      "answer": "2026",
+      "options": [
+        "Affairs",
+        "NATO-Style",
+        "2026",
+        "Schbang"
+      ]
+    },
+    {
+      "blanked": "Himachal ______ accident: 7 killed, 11 injured after bus crashes on Teesa-Bairagarh road",
+      "answer": "Pradesh",
+      "options": [
+        "Tamil",
+        "Pradesh",
+        "Actor",
+        "Pant"
       ]
     }
   ]
