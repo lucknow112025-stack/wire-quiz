@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-08T19:16:02.912Z",
+  "generatedAt": "2026-08-08T21:00:08.264Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "100% tariffs on India soon? US Senate clears Russia sanctions bill; 10 things to know",
-    "DMK, AIADMK, and allies to boycott Tamil Nadu CM Vijay’s all-party meet on delimitation",
     "Iran says deal on Strait of Hormuz is close but is not enough to open the waterway",
-    "‘Honey-trapped by Pakistani handler’: How 4-month Delhi Police op led to arrest of IAF wing commander",
-    "After meeting PM Modi, Sukhbir Singh Badal’s SAD backs women’s quota, delimitation bills | India News",
+    "After Vijay-led all-party meet, Tamil Nadu leaders vow united front against delimitation | India News",
+    "‘Degree means nothing in India today’: Rahul talks of ‘dard’, ‘data’ and 'daulat' at ‘Chhatron ki Goonj’ event | India News",
+    "U.S. Senate passes Russia sanctions bill that seeks 100% tariffs on India, four others",
+    "A 10-minute meeting, a 2027 signal? Modi-Sukhbir meet fuels Punjab alliance buzz",
     "JPSC row: Protest against alleged paper leaks to continue as 'no consensus' reached in second round of talks",
-    "Before PM Modi’s ‘outreach’ at IIT, gun-toting security, ‘suffocating restrictions’",
+    "In Outreach To Sikhs, AAP Government Makes U-Turn On Extremist's Parole",
     "Amarnath Yatra to remain suspended from August 9: Div Com Kashmir",
-    "US Veep JD Vance Dials PM Modi, He Congratulates Usha Vance On Birth Of Son",
-    "'Should have gone to Ranchi': Rijiju takes dig at Rahul Gandhi over Prayagraj event",
-    "A NATO-Style Military Pact: What To Expect From Pakistan-Saudi-Turkey Deal",
+    "US Vice President JD Vance dials PM Modi, discusses deepening India-US strategic ties | India News",
+    "Weather Today LIVE: Rains wreak havoc in Himachal Pradesh, Kerala, Tamil Nadu; IMD forecasts downpour in Odisha",
     "UAE says Iran targeted ADNOC tanker in Strait of Hormuz, no casualties",
-    "From H-1B to H-1Bye-bye: Trump targets 60-day grace period for laid off foreign workers",
-    "America hurting its own interest; India well-insulated against US tariffs on Russian oil, expert says",
+    "H-1B Workers Could Lose 60-Day Lifeline Under New US Immigration Plan",
+    "World News updates: Zelenskyy visits Moscow-friendly Serbia as Russian strikes kill 4 in Kyiv region",
+    "US-Iran war latest: JD Vance says US weighing safe Hormuz route for ships as Iran reiterates demands | World News",
     "UPI transactions to remain free for consumers & small merchants, clarifies PCI",
     "Berkshire’s profit doubles as equity holdings surge; buys back $4.5 bln shares",
-    "Flipkart Minutes enters gourmet grocery, launches private label Pykd as quick commerce rivals step up...",
     "India warned Diageo that its whisky's 'matured in American oak casks' claim was misleading",
+    "Maharashtra govt may bring Swiggy, Zomato, Zepto under bike-taxi rules",
     "iPhone 17 faces an early price rise a month before iPhone 18 Pro launch",
-    "Amazon Great Freedom Sale 2026 is live: Get up to 80% off on electronics and accessories; Check top deals here",
-    "Strong Start for Samsung’s Galaxy Z8 Series; Wider Fold8 Leads",
-    "Xiaomi launches Redmi Note 17 5G in India | The Business Guardian - newspaper",
-    "'Toxic' trailer out now: Yash unleashes raw action and romance in Geetu Mohandas’ dark gangster drama",
+    "Schbang brings quirky shopper personas to life for Amazon India’s Great Freedom Sale",
+    "Samsung launches Galaxy Z Fold8 Ultra, Fold8, Flip8, Watch Ultra2 and Watch9",
+    "Redmi 17C 5G shows up as a rebrand of another device - GSMArena.com news",
+    "Yash’s ‘Toxic’ Trailer Unveils Dual-Role Father-Son Conflict at Core of Gangster Epic",
     "Why Arijit Singh Made An Exception For Awarapan 2 In The Middle Of His Music Break",
-    "Operation Safed Sagar X reactions: Jimmy Shergill, Siddharth and Abhay Verma win praise; netizens label ‘"
+    "Mumbai Police constable guarding Salman Khan's residence dies of suspected heart attack: Report | Bollywood"
   ],
   "quiz": [
     {
-      "blanked": "UPI transactions to remain free for consumers & small merchants, clarifies ______",
-      "answer": "PCI",
+      "blanked": "Australia pacer takes 8/25 as ______ bowled out for 54, lose match by an innings",
+      "answer": "Bangladesh",
       "options": [
-        "Report",
-        "Galaxy",
-        "News",
-        "PCI"
+        "Shaikh",
+        "What",
+        "Bangladesh",
+        "Menon"
       ]
     },
     {
-      "blanked": "Amazon Great ______ Sale 2026 is live: Get up to 80% off on electronics and accessories; Check top deals here",
-      "answer": "Freedom",
+      "blanked": "UAE says ______ targeted ADNOC tanker in Strait of Hormuz, no casualties",
+      "answer": "Iran",
       "options": [
-        "India",
-        "Prayagraj",
-        "Solar",
-        "Freedom"
+        "Iran",
+        "Government",
+        "AAP",
+        "Pro"
       ]
     },
     {
-      "blanked": "South ______ orbiter captures crater formed by Falcon 9 debris striking Moon",
-      "answer": "Korean",
+      "blanked": "World News updates: Zelenskyy visits Moscow-friendly ______ as Russian strikes kill 4 in Kyiv region",
+      "answer": "Serbia",
       "options": [
-        "Korean",
-        "AIADMK",
-        "Falcon",
-        "Cricket"
+        "Serbia",
+        "Exception",
+        "Anil",
+        "Russia"
       ]
     },
     {
-      "blanked": "Probiotic Improved ______ 2 Diabetes Markers",
-      "answer": "Type",
+      "blanked": "India warned ______ that its whisky's 'matured in American oak casks' claim was misleading",
+      "answer": "Diageo",
       "options": [
-        "Check",
-        "Dials",
-        "Cricket",
-        "Type"
+        "Pro",
+        "Yatra",
+        "Plan",
+        "Diageo"
       ]
     },
     {
-      "blanked": "NASA Astronauts Anil Menon, Jessica Meir ______ ISS Spacewalk",
-      "answer": "Complete",
+      "blanked": "iPhone 17 faces an early price rise a month before iPhone 18 ______ launch",
+      "answer": "Pro",
       "options": [
         "Awarapan",
-        "Complete",
-        "Messis",
-        "Get"
+        "PCI",
+        "Strait",
+        "Pro"
       ]
     },
     {
-      "blanked": "Strong Start for ______ Galaxy Z8 Series; Wider Fold8 Leads",
-      "answer": "Samsungs",
-      "options": [
-        "Samsungs",
-        "IIT",
-        "Siddharth",
-        "Gandhi"
-      ]
-    },
-    {
-      "blanked": "Lionel ______ father dies aged 68 after a long illness",
-      "answer": "Messis",
-      "options": [
-        "Safed",
-        "Sukhbir",
-        "Samsungs",
-        "Messis"
-      ]
-    },
-    {
-      "blanked": "'Toxic' trailer out now: Yash unleashes raw action and romance in Geetu ______ dark gangster drama",
-      "answer": "Mohandas",
-      "options": [
-        "Mohandas",
-        "Meir",
-        "Prayagraj",
-        "Abhay"
-      ]
-    },
-    {
-      "blanked": "DMK, ______ and allies to boycott Tamil Nadu CM Vijay’s all-party meet on delimitation",
-      "answer": "AIADMK",
-      "options": [
-        "Safed",
-        "AIADMK",
-        "Your",
-        "Start"
-      ]
-    },
-    {
-      "blanked": "World U20 Championships: Ashish Yadav ends India's 10-year wait for javelin medal since ______ Chopra's h",
-      "answer": "Neeraj",
-      "options": [
-        "Anil",
-        "Neeraj",
-        "Pro",
-        "August"
-      ]
-    },
-    {
-      "blanked": "3 After-Dinner Habits That Can Improve Your Heart Health, According to a ______",
-      "answer": "Cardiologist",
-      "options": [
-        "Rijiju",
-        "Salman",
-        "4.5",
-        "Cardiologist"
-      ]
-    },
-    {
-      "blanked": "Iran says deal on ______ of Hormuz is close but is not enough to open the waterway",
-      "answer": "Strait",
+      "blanked": "US Vice President JD Vance dials PM Modi, discusses deepening India-US strategic ties | ______ News",
+      "answer": "India",
       "options": [
         "Strait",
-        "Pakistani",
-        "Targets",
-        "Cancer"
+        "Government",
+        "India",
+        "Bangladesh"
+      ]
+    },
+    {
+      "blanked": "Rishabh Pant appeals to CM ______ Help me buy land in Uttarakhand, I want to come home",
+      "answer": "Dhami",
+      "options": [
+        "Indias",
+        "Odisha",
+        "Dhami",
+        "Protest"
+      ]
+    },
+    {
+      "blanked": "Berkshire’s profit doubles as equity holdings surge; buys back ______ bln shares",
+      "answer": "4.5",
+      "options": [
+        "4.5",
+        "2027",
+        "Sale",
+        "Anil"
+      ]
+    },
+    {
+      "blanked": "Chelsea 3-0 AC Milan, Friendly: ______ reaction",
+      "answer": "Post-match",
+      "options": [
+        "Relationship",
+        "Current",
+        "News",
+        "Post-match"
+      ]
+    },
+    {
+      "blanked": "Why Arijit Singh Made An Exception For ______ 2 In The Middle Of His Music Break",
+      "answer": "Awarapan",
+      "options": [
+        "Harshvardhan",
+        "Police",
+        "Awarapan",
+        "Russian"
+      ]
+    },
+    {
+      "blanked": "A 10-minute meeting, a 2027 signal? ______ meet fuels Punjab alliance buzz",
+      "answer": "Modi-Sukhbir",
+      "options": [
+        "2027",
+        "Chhatron",
+        "Modi-Sukhbir",
+        "Hormuz"
+      ]
+    },
+    {
+      "blanked": "Maharashtra govt may bring ______ Zomato, Zepto under bike-taxi rules",
+      "answer": "Swiggy",
+      "options": [
+        "Swiggy",
+        "Moscow-friendly",
+        "AAP",
+        "Zomato"
       ]
     }
   ]
