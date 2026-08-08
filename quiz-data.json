@@ -1,63 +1,53 @@
 {
-  "generatedAt": "2026-08-08T15:50:44.933Z",
+  "generatedAt": "2026-08-08T19:16:02.912Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "Big blow to CM Vijay's all-party meet on delimitation as 37 of 57 Tamil Nadu MPs opt out | India News",
-    "Akali Dal-BJP Alliance Loading? Day After Meet With PM, Sukhbir Badal Supports Delimitation",
-    "Iran says deal on Strait of Hormuz is close but will not open the waterway by itself",
-    "‘Degree means nothing in India today’: Rahul talks of ‘dard’, ‘data’ and 'daulat' at ‘Chhatron ki Goonj’ event | India News",
-    "IAF officer arrested for alleged leak of sensitive information to Pakistan-based operative",
+    "100% tariffs on India soon? US Senate clears Russia sanctions bill; 10 things to know",
+    "DMK, AIADMK, and allies to boycott Tamil Nadu CM Vijay’s all-party meet on delimitation",
+    "Iran says deal on Strait of Hormuz is close but is not enough to open the waterway",
+    "‘Honey-trapped by Pakistani handler’: How 4-month Delhi Police op led to arrest of IAF wing commander",
+    "After meeting PM Modi, Sukhbir Singh Badal’s SAD backs women’s quota, delimitation bills | India News",
     "JPSC row: Protest against alleged paper leaks to continue as 'no consensus' reached in second round of talks",
-    "In rapidly changing world, those who learn win: PM Modi at IIT Delhi",
-    "Himachal Pradesh accident: 7 killed, 11 injured after bus crashes on Teesa-Bairagarh road",
-    "Indian Woman Goes To Portugal For Job, Gets 'Sold' To Beer Shop Owner",
-    "Meta restricts post on Kashmir pellet victim Insha Mushtaq in India",
+    "Before PM Modi’s ‘outreach’ at IIT, gun-toting security, ‘suffocating restrictions’",
+    "Amarnath Yatra to remain suspended from August 9: Div Com Kashmir",
+    "US Veep JD Vance Dials PM Modi, He Congratulates Usha Vance On Birth Of Son",
+    "'Should have gone to Ranchi': Rijiju takes dig at Rahul Gandhi over Prayagraj event",
     "A NATO-Style Military Pact: What To Expect From Pakistan-Saudi-Turkey Deal",
-    "UAE says Iran attacked ADNOC vessel with missile in Strait of Hormuz",
-    "US Senate passes spending bill, rejects Trump’s Iran war funding demand",
-    "Senate Republicans narrowly confirm Todd Blanche as attorney general",
-    "Lok Sabha passes bill to authorise govt to permit banks to levy charges on UPI transactions",
-    "Berkshire’s profit doubles as equity holdings surge; Cash nears $360 billion",
-    "Delhivery Q1 results: Net profit down 65% YoY to Rs 32 crore, revenue up 28%",
+    "UAE says Iran targeted ADNOC tanker in Strait of Hormuz, no casualties",
+    "From H-1B to H-1Bye-bye: Trump targets 60-day grace period for laid off foreign workers",
+    "America hurting its own interest; India well-insulated against US tariffs on Russian oil, expert says",
+    "UPI transactions to remain free for consumers & small merchants, clarifies PCI",
+    "Berkshire’s profit doubles as equity holdings surge; buys back $4.5 bln shares",
     "Flipkart Minutes enters gourmet grocery, launches private label Pykd as quick commerce rivals step up...",
-    "Best Mechanical Keyboard Reddit Picks Compared [2026] - tech-insider.org",
-    "Amazon India brings quirky independence day deals to every kind of shopper with Schbang",
+    "India warned Diageo that its whisky's 'matured in American oak casks' claim was misleading",
     "iPhone 17 faces an early price rise a month before iPhone 18 Pro launch",
-    "Samsung says Galaxy Z Fold8 pre-orders are 30% ahead of last year's foldables",
-    "KBC 18: Aamir Khan, Preity Zinta and Sunny Deol join Amitabh Bachchan for a star-studded premiere",
-    "'First time in my life, didn't get visa': Actor Mohanlal apologises as Sydney show cancelled",
-    "Operation Safed Sagar Review: Siddharth, Jimmy Shergill Lead A Razor-Sharp War Drama Without Bloodlust"
+    "Amazon Great Freedom Sale 2026 is live: Get up to 80% off on electronics and accessories; Check top deals here",
+    "Strong Start for Samsung’s Galaxy Z8 Series; Wider Fold8 Leads",
+    "Xiaomi launches Redmi Note 17 5G in India | The Business Guardian - newspaper",
+    "'Toxic' trailer out now: Yash unleashes raw action and romance in Geetu Mohandas’ dark gangster drama",
+    "Why Arijit Singh Made An Exception For Awarapan 2 In The Middle Of His Music Break",
+    "Operation Safed Sagar X reactions: Jimmy Shergill, Siddharth and Abhay Verma win praise; netizens label ‘"
   ],
   "quiz": [
     {
-      "blanked": "Meta restricts post on Kashmir pellet victim ______ Mushtaq in India",
-      "answer": "Insha",
+      "blanked": "UPI transactions to remain free for consumers & small merchants, clarifies ______",
+      "answer": "PCI",
       "options": [
-        "360",
-        "Insha",
-        "ADNOC",
-        "War"
+        "Report",
+        "Galaxy",
+        "News",
+        "PCI"
       ]
     },
     {
-      "blanked": "'First time in my life, didn't get visa': ______ Mohanlal apologises as Sydney show cancelled",
-      "answer": "Actor",
+      "blanked": "Amazon Great ______ Sale 2026 is live: Get up to 80% off on electronics and accessories; Check top deals here",
+      "answer": "Freedom",
       "options": [
-        "Targets",
-        "Actor",
-        "Vijays",
-        "360"
-      ]
-    },
-    {
-      "blanked": "In rapidly changing world, those who learn win: PM Modi at ______ Delhi",
-      "answer": "IIT",
-      "options": [
-        "Sunny",
-        "IIT",
-        "Pro",
-        "Expect"
+        "India",
+        "Prayagraj",
+        "Solar",
+        "Freedom"
       ]
     },
     {
@@ -65,89 +55,99 @@
       "answer": "Korean",
       "options": [
         "Korean",
-        "Highlights",
-        "Mohanlal",
-        "Iran"
-      ]
-    },
-    {
-      "blanked": "KBC 18: Aamir Khan, Preity Zinta and Sunny ______ join Amitabh Bachchan for a star-studded premiere",
-      "answer": "Deol",
-      "options": [
-        "Pykd",
-        "Deol",
-        "Woman",
-        "Gets"
-      ]
-    },
-    {
-      "blanked": "Rishabh ______ appeals to CM Dhami: Help me buy land in Uttarakhand, I want to come home",
-      "answer": "Pant",
-      "options": [
-        "Diwali",
-        "Pant",
-        "Decline",
-        "Yadavs"
-      ]
-    },
-    {
-      "blanked": "IAF officer arrested for alleged leak of sensitive information to ______ operative",
-      "answer": "Pakistan-based",
-      "options": [
+        "AIADMK",
         "Falcon",
-        "Owner",
-        "Help",
-        "Pakistan-based"
+        "Cricket"
       ]
     },
     {
-      "blanked": "Samsung says ______ Z Fold8 pre-orders are 30% ahead of last year's foldables",
-      "answer": "Galaxy",
+      "blanked": "Probiotic Improved ______ 2 Diabetes Markers",
+      "answer": "Type",
       "options": [
-        "Vijays",
-        "Chhatron",
-        "Gurnoor",
-        "Galaxy"
+        "Check",
+        "Dials",
+        "Cricket",
+        "Type"
       ]
     },
     {
-      "blanked": "Ashish Yadav's road to U20 ______ silver: From training in dry ponds with wooden javelin to following Nee",
-      "answer": "Worlds",
+      "blanked": "NASA Astronauts Anil Menon, Jessica Meir ______ ISS Spacewalk",
+      "answer": "Complete",
       "options": [
-        "Alliance",
-        "Worlds",
-        "November",
-        "Pykd"
+        "Awarapan",
+        "Complete",
+        "Messis",
+        "Get"
       ]
     },
     {
-      "blanked": "India vs Sri ______ XI Highlights, Tour Match Day 2: Padikkal 142 not out, Gurnoor help IND close the day on 357/6",
-      "answer": "Lanka",
+      "blanked": "Strong Start for ______ Galaxy Z8 Series; Wider Fold8 Leads",
+      "answer": "Samsungs",
       "options": [
-        "Todd",
-        "Lanka",
-        "Deol",
-        "Nadu"
+        "Samsungs",
+        "IIT",
+        "Siddharth",
+        "Gandhi"
       ]
     },
     {
-      "blanked": "Total solar eclipse Aug. 12, ______ live updates — 4 days to totality",
-      "answer": "2026",
+      "blanked": "Lionel ______ father dies aged 68 after a long illness",
+      "answer": "Messis",
       "options": [
-        "Affairs",
-        "NATO-Style",
-        "2026",
-        "Schbang"
+        "Safed",
+        "Sukhbir",
+        "Samsungs",
+        "Messis"
       ]
     },
     {
-      "blanked": "Himachal ______ accident: 7 killed, 11 injured after bus crashes on Teesa-Bairagarh road",
-      "answer": "Pradesh",
+      "blanked": "'Toxic' trailer out now: Yash unleashes raw action and romance in Geetu ______ dark gangster drama",
+      "answer": "Mohandas",
       "options": [
-        "Tamil",
-        "Pradesh",
-        "Actor",
-        "Pant"
+        "Mohandas",
+        "Meir",
+        "Prayagraj",
+        "Abhay"
+      ]
+    },
+    {
+      "blanked": "DMK, ______ and allies to boycott Tamil Nadu CM Vijay’s all-party meet on delimitation",
+      "answer": "AIADMK",
+      "options": [
+        "Safed",
+        "AIADMK",
+        "Your",
+        "Start"
+      ]
+    },
+    {
+      "blanked": "World U20 Championships: Ashish Yadav ends India's 10-year wait for javelin medal since ______ Chopra's h",
+      "answer": "Neeraj",
+      "options": [
+        "Anil",
+        "Neeraj",
+        "Pro",
+        "August"
+      ]
+    },
+    {
+      "blanked": "3 After-Dinner Habits That Can Improve Your Heart Health, According to a ______",
+      "answer": "Cardiologist",
+      "options": [
+        "Rijiju",
+        "Salman",
+        "4.5",
+        "Cardiologist"
+      ]
+    },
+    {
+      "blanked": "Iran says deal on ______ of Hormuz is close but is not enough to open the waterway",
+      "answer": "Strait",
+      "options": [
+        "Strait",
+        "Pakistani",
+        "Targets",
+        "Cancer"
       ]
     }
   ]
