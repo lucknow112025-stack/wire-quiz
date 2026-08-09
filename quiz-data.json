@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-09T17:07:13.390Z",
+  "generatedAt": "2026-08-09T19:19:01.903Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
     "Jharkhand student protest: Round 2 of talks with government fails to end deadlock",
+    "Trump Started Iran War Over Nukes, He Will Give It Up For Hormuz: Report",
+    "‘Could have been killed’: Mamata Banerjee's vehicle attacked with ‘stones, mud’ in North 24 Parganas | India News",
     "What now as Israel rejects Trump’s 15-point plan for Gaza?",
-    "Trump ready to end Iran war without nuclear deal; Tehran's demands complicate exit: Report",
-    "Which other countries could join the Turkiye-Saudi-Pakistan defence pact?",
-    "\"Could Have Died\": Mamata Banerjee Alleges Attack On Car Near Kolkata",
-    "Training plane skids while landing at Baramati, where Ajit Pawar died in crash | India News",
-    "Air India Pilot Likely Failed Dope Test After Turbulence-Hit Flight: Sources",
-    "Days After \"Girls Enjoy Rape\" Remark, Right-Wing Activist Taken Into Custody",
-    "NALSAR students object to CJI Surya Kant as convocation chief guest",
-    "6 dead, 1 injured after trailer rams car in Madhya Pradesh",
+    "Trainer Aircraft Crashes In Baramati, 2nd Incident Since Ajit Pawar's Accident",
     "Iran says Oman deal is in 'final stages' but US must act to open Hormuz",
-    "Saudi Arabia says fire extinguished at Aramco facility in Jizan",
-    "Supreme Leader Khamenei footage to be released 'in future', Iran says as reports claim he is close to 'de",
-    "Russia to India via train? Moscow floats ambitious railway route, says link 'should be explored'",
+    "Wrestlers' sexual harassment case against Brij Bhushan Sharan Singh was political, false and fabricated: Delhi court",
+    "Suvendu Adhikari orders fresh probe into R.G. Kar case",
+    "Days After \"Girls Enjoy Rape\" Remark, Right-Wing Activist Taken Into Custody",
+    "Wanted to ‘silence’ him: Tarun Tejpal's daughter defends father after Bombay HC conviction",
+    "Iran Releases Undated Video Of Mojtaba Khamenei Amid Health Rumours",
+    "Houthi attacks kill seven in Yemen, refinery targeted in Saudi Arabia",
+    "India, Russia to be linked by rail? Moscow floats proposal, calls it 'viable'",
+    "Five killed in Ukrainian drone attack on Belgorod, Russian authorities say",
     "India's Maruti sees passenger vehicle market rising to up to 6.3 mln units by 2031",
+    "After Warren Buffett exit, Greg Abel starts deploying Berkshire Hathaway’s $365.5 billion cash pile",
     "Lok Sabha passes bill to authorise govt to permit banks to levy charges on UPI transactions",
-    "Warren Buffett's successor is finally spending the huge cash pile he built at Berkshire Hathaway",
     "Hidden environmental cost of powering growing digital and AI-world",
-    "Apple Rumoured To Increase iPhone 17 Prices Ahead of iPhone 18 Pro Launch",
+    "Apple iPhone 18 Pro appears on preview website, Caviar unveils five limited editions",
     "10 home and kitchen appliances deals to look for during Amazon Freedom Sale, from ACs to air fryers",
     "Deals: Galaxy Z Flip8 gets a discount out of the gate, Z Fold8 and Z Fold8 Ultra also on sale - GSMArena.com news",
-    "Motorola details new Snapdragon-powered phone with \"3-day\" battery life",
-    "‘Toxic’: Yash gave me a chance when everyone doubted me, says an emotional Geetu Mohandas",
+    "Grok's image tools get a professional upgrade with templates, precise editing, and an Arena number two ranking",
+    "Kiara Advani Wears White Corset Top And Thigh-Slit Skirt For Toxic Trailer Launch, Internet Reacts",
     "Sonu Nigam sings through surgery: The health struggles the singer has faced over the years",
-    "'Batwara 1947' cast salary revealed: Sunny Deol reportedly takes home Rs 60 crore, Preity Zinta Rs 10 cro"
+    "Govinda Recalls Suicide Attempt After Mother's Death: 'I Went Into The Narmada River'"
   ],
   "quiz": [
     {
-      "blanked": "MRI Diagnostic Model Improved Liver ______ Differentiation in HBV",
-      "answer": "Cancer",
+      "blanked": "India, ______ to be linked by rail? Moscow floats proposal, calls it 'viable'",
+      "answer": "Russia",
       "options": [
         "Arabia",
-        "World",
-        "Cancer",
-        "Jizan"
+        "Narmada",
+        "6.3",
+        "Russia"
       ]
     },
     {
-      "blanked": "\"Jo Khelega, Wo Khilega\": Prime Minister Narendra Modi Meets India's CWG ______ Medallists",
-      "answer": "2026",
+      "blanked": "MRI Diagnostic Model Improved ______ Cancer Differentiation in HBV",
+      "answer": "Liver",
       "options": [
-        "Freedom",
-        "2026",
-        "Snapdragon-powered",
-        "Tehrans"
+        "Incident",
+        "2031",
+        "Liver",
+        "Yemen"
       ]
     },
     {
-      "blanked": "Apple ______ To Increase iPhone 17 Prices Ahead of iPhone 18 Pro Launch",
-      "answer": "Rumoured",
-      "options": [
-        "Zinta",
-        "Rumoured",
-        "Pawar",
-        "Khilega"
-      ]
-    },
-    {
-      "blanked": "Supreme Leader Khamenei footage to be released 'in future', ______ says as reports claim he is close to 'de",
-      "answer": "Iran",
+      "blanked": "Apple iPhone 18 Pro appears on preview website, ______ unveils five limited editions",
+      "answer": "Caviar",
       "options": [
         "Iran",
-        "Deol",
-        "Died",
-        "Liver"
-      ]
-    },
-    {
-      "blanked": "NALSAR students object to CJI Surya ______ as convocation chief guest",
-      "answer": "Kant",
-      "options": [
-        "Parents",
-        "What",
-        "CWG",
-        "Kant"
-      ]
-    },
-    {
-      "blanked": "'Batwara 1947' cast salary revealed: Sunny ______ reportedly takes home Rs 60 crore, Preity Zinta Rs 10 cro",
-      "answer": "Deol",
-      "options": [
-        "Ultra",
-        "Sri",
-        "Deol",
-        "Yash"
+        "Caviar",
+        "AI-world",
+        "Russian"
       ]
     },
     {
       "blanked": "Iran says ______ deal is in 'final stages' but US must act to open Hormuz",
       "answer": "Oman",
       "options": [
-        "Pilot",
-        "Meets",
-        "Oman",
-        "Diagnostic"
+        "Kar",
+        "Parents",
+        "Skirt",
+        "Oman"
       ]
     },
     {
-      "blanked": "Days After \"Girls Enjoy Rape\" Remark, ______ Activist Taken Into Custody",
-      "answer": "Right-Wing",
+      "blanked": "10 home and kitchen appliances deals to look for during ______ Freedom Sale, from ACs to air fryers",
+      "answer": "Amazon",
       "options": [
-        "Likely",
-        "Right-Wing",
-        "Sudharsans",
-        "Baramati"
+        "CWG",
+        "Mojtaba",
+        "Lunar",
+        "Amazon"
       ]
     },
     {
-      "blanked": "Shadow bands likely during upcoming total solar-eclipse: ______ are they?",
-      "answer": "What",
+      "blanked": "Deals: Galaxy Z Flip8 gets a discount out of the gate, Z Fold8 and Z Fold8 ______ also on sale - GSMArena.com news",
+      "answer": "Ultra",
       "options": [
-        "Snapdragon-powered",
-        "What",
-        "Modi",
+        "Thigh-Slit",
+        "Images",
+        "Realizing",
         "Ultra"
       ]
     },
     {
-      "blanked": "Trump ready to end Iran war without nuclear deal; ______ demands complicate exit: Report",
-      "answer": "Tehrans",
+      "blanked": "'Batwara 1947' cast salary revealed: Sunny ______ reportedly takes home Rs 60 crore, Preity Zinta Rs 10 cro",
+      "answer": "Deol",
       "options": [
-        "Realizing",
-        "Meghwal",
-        "Tehrans",
-        "Championships"
+        "May",
+        "365.5",
+        "Deol",
+        "Give"
       ]
     },
     {
-      "blanked": "Air India Pilot Likely Failed Dope Test After Turbulence-Hit ______ Sources",
-      "answer": "Flight",
+      "blanked": "‘Could have been killed’: ______ Banerjee's vehicle attacked with ‘stones, mud’ in North 24 Parganas | India News",
+      "answer": "Mamata",
       "options": [
-        "Attack",
+        "Compromise",
+        "Narmada",
+        "Khan",
+        "Mamata"
+      ]
+    },
+    {
+      "blanked": "‘You’re hit with a slam of shadow’: ______ air mission to capture rare eclipse data",
+      "answer": "Nasas",
+      "options": [
         "Trumps",
-        "Flight",
-        "Kumar"
+        "Nasas",
+        "Realizing",
+        "Custody"
       ]
     },
     {
-      "blanked": "Sonu ______ sings through surgery: The health struggles the singer has faced over the years",
-      "answer": "Nigam",
+      "blanked": "Iran Releases Undated Video Of Mojtaba Khamenei Amid ______ Rumours",
+      "answer": "Health",
       "options": [
-        "Sai",
-        "Turbulence-Hit",
-        "Nigam",
-        "Parents"
+        "Maruti",
+        "Health",
+        "Mojtaba",
+        "May"
+      ]
+    },
+    {
+      "blanked": "‘CoE is not merely a rehab centre’: ______ Laxman speaks out as India’s injury crisis puts BCCI facility und",
+      "answer": "VVS",
+      "options": [
+        "VVS",
+        "2031",
+        "Adhikari",
+        "Sai"
+      ]
+    },
+    {
+      "blanked": "Hidden environmental cost of powering growing digital and ______",
+      "answer": "AI-world",
+      "options": [
+        "AI-world",
+        "Buffett",
+        "Went",
+        "Liver"
       ]
     }
   ]
