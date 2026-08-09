@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-09T21:05:05.275Z",
+  "generatedAt": "2026-08-09T22:55:05.363Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
     "Jharkhand student protest: Round 2 of talks with government fails to end deadlock",
-    "Trump Started Iran War Over Nukes, He Will Give It Up For Hormuz: Report",
-    "What now as Israel rejects Trump’s 15-point plan for Gaza?",
-    "‘Could have been killed’: Mamata Banerjee's vehicle attacked with ‘stones, mud’ in North 24 Parganas | India News",
+    "No more strikes on Iran? Trump says US going 'low key', stresses economic pressure over military op",
     "Iran says Oman deal is in 'final stages' but US must act to open Hormuz",
-    "Trainer Aircraft Crashes In Baramati, 2nd Incident Since Ajit Pawar's Accident",
+    "Which other countries could join the Turkiye-Saudi-Pakistan defence pact?",
+    "\"Could Have Died\": Mamata Banerjee Alleges Attack On Car Near Kolkata",
+    "Day after Modi-Sukhbir meet, Akali Dal seeks immediate implementation of womens reservation Bill",
     "Allegations Against Brij Bhushan False, Political Conspiracy: Delhi Court",
     "Rajahmundry Hit-and-run: Medico Priyanka Dies",
-    "SAD backs women's quota, delimitation bills after Badal-PM Modi meet fuels buzz",
-    "Wanted to ‘silence’ him for his investigative journalism: Tarun Tejpal's daughter defends father",
+    "JNU cancels discussion on Umar Khalid’s book, cites 'non-disclosure' of programme details",
+    "RSS leader, who said ‘rapes and murders will happen’ at Jantar Mantar protest, held",
     "Amid Questions Over Mojtaba Khamenei's Health, An Iran President-Supreme Leader Meet",
-    "Five killed in Ukrainian drone attack on Belgorod, Russian authorities say",
-    "Yemen's Houthis Claim Attack On Aramco Refinery On Red Sea Coast",
-    "Russia to India via train? Moscow floats ambitious railway route, says link 'should be explored'",
+    "Six die in Ukrainian drone attack on Belgorod, Russian authorities say",
+    "US Bill to sanction Russian oil: Why it could become not just India’s, but the world’s problem",
+    "Houthi attack suspected at Saudi gas facility in Jubail; Aramco Jazan fire extinguished",
+    "Lok Sabha passes bill to authorise govt to permit banks to levy charges on UPI transactions",
     "India's Maruti sees passenger vehicle market rising to up to 6.3 mln units by 2031",
     "After Warren Buffett exit, Greg Abel starts deploying Berkshire Hathaway’s $365.5 billion cash pile",
-    "UPI stays free for users, vast majority of transactions to remain free for merchants as well, says government",
-    "HDFC Bank vs SBI: The king is still standing. But the challenger is closing in",
+    "IPO action: Rs 7,700 crore worth 9 IPOs to hit Dalal Street, 8 new listings scheduled next week",
     "Apple iPhone 18 Pro appears on preview website, Caviar unveils five limited editions",
+    "Grok's image tools get a professional upgrade with templates, precise editing, and an Arena number two ranking",
     "10 home and kitchen appliances deals to look for during Amazon Freedom Sale, from ACs to air fryers",
     "Deals: Galaxy Z Flip8 gets a discount out of the gate, Z Fold8 and Z Fold8 Ultra also on sale - GSMArena.com news",
-    "Quordle Hints Today: Monday, August 10 Clues And Answers",
-    "Kiara Advani Wears White Corset Top And Thigh-Slit Skirt For Toxic Trailer Launch, Internet Reacts",
-    "Sonu Nigam opens up about recurring health condition, reveals why he sang Mohammed Rafi’s song during sur",
-    "Govinda Recalls Suicide Attempt After Mother's Death: 'I Went Into The Narmada River'"
+    "‘Toxic’: Yash gave me a chance when everyone doubted me, says an emotional Geetu Mohandas",
+    "Filmmaker Shakeel Noorani arrested over alleged rape and sexual assault of actress; accused of sedating a",
+    "Watch: Sonu Nigam sings through pain during surgery, performs for doctors"
   ],
   "quiz": [
+    {
+      "blanked": "Govinda Recalls Suicide Attempt After ______ Death: 'I Went Into The Narmada River'",
+      "answer": "Mothers",
+      "options": [
+        "Hormuz",
+        "Pro",
+        "Mothers",
+        "President-Supreme"
+      ]
+    },
+    {
+      "blanked": "‘Toxic’: Yash gave me a chance when everyone doubted me, says an emotional Geetu ______",
+      "answer": "Mohandas",
+      "options": [
+        "Modi",
+        "Delhi",
+        "Arena",
+        "Mohandas"
+      ]
+    },
     {
       "blanked": "Shadow bands likely during upcoming total solar-eclipse: ______ are they?",
       "answer": "What",
       "options": [
-        "What",
-        "Abel",
+        "Narmada",
+        "Hathaways",
+        "Ruben",
+        "What"
+      ]
+    },
+    {
+      "blanked": "Deals: ______ Z Flip8 gets a discount out of the gate, Z Fold8 and Z Fold8 Ultra also on sale - GSMArena.com news",
+      "answer": "Galaxy",
+      "options": [
+        "Meets",
+        "Berkshire",
+        "Pro",
+        "Galaxy"
+      ]
+    },
+    {
+      "blanked": "India tick boxes in warm-up: Captain Shubman Gill fit, Yashasvi Jaiswal finds rhythm, Gurnoor ______ impres",
+      "answer": "Brar",
+      "options": [
+        "Brar",
+        "Mojtaba",
+        "Meet",
+        "Abel"
+      ]
+    },
+    {
+      "blanked": "8 Subtle Ways Parents Create Anxiety ______ Realizing It",
+      "answer": "Without",
+      "options": [
+        "Without",
+        "Rockets",
+        "Nigam",
+        "Against"
+      ]
+    },
+    {
+      "blanked": "Day after Modi-Sukhbir meet, ______ Dal seeks immediate implementation of womens reservation Bill",
+      "answer": "Akali",
+      "options": [
+        "Have",
+        "Iran",
+        "Medico",
+        "Akali"
+      ]
+    },
+    {
+      "blanked": "RSS leader, who said ‘rapes and murders will happen’ at ______ Mantar protest, held",
+      "answer": "Jantar",
+      "options": [
         "River",
-        "Captain"
+        "Priyanka",
+        "Shakeel",
+        "Jantar"
       ]
     },
     {
-      "blanked": "No miscommunication between BCCI ______ and Indian team management, says Laxman",
-      "answer": "CoE",
-      "options": [
-        "Liver",
-        "Subtle",
-        "CoE",
-        "Mojtaba"
-      ]
-    },
-    {
-      "blanked": "‘Could have been killed’: Mamata Banerjee's vehicle attacked with ‘stones, mud’ in North 24 ______ | India News",
-      "answer": "Parganas",
-      "options": [
-        "Questions",
-        "Parganas",
-        "Mamata",
-        "Bhushan"
-      ]
-    },
-    {
-      "blanked": "Trainer Aircraft Crashes In Baramati, 2nd Incident ______ Ajit Pawar's Accident",
-      "answer": "Since",
-      "options": [
-        "Since",
-        "2031",
-        "Dies",
-        "Nasas"
-      ]
-    },
-    {
-      "blanked": "Govinda ______ Suicide Attempt After Mother's Death: 'I Went Into The Narmada River'",
-      "answer": "Recalls",
-      "options": [
-        "Recalls",
-        "Attack",
-        "Bharat",
-        "Corset"
-      ]
-    },
-    {
-      "blanked": "Five killed in Ukrainian drone attack on ______ Russian authorities say",
-      "answer": "Belgorod",
-      "options": [
-        "Belgorod",
-        "Bharat",
-        "CWG",
-        "Khameneis"
-      ]
-    },
-    {
-      "blanked": "‘You’re hit with a slam of shadow’: ______ air mission to capture rare eclipse data",
-      "answer": "Nasas",
-      "options": [
-        "First",
-        "Nasas",
-        "Death",
-        "Toxic"
-      ]
-    },
-    {
-      "blanked": "10 home and kitchen appliances deals to look for during ______ Freedom Sale, from ACs to air fryers",
-      "answer": "Amazon",
-      "options": [
-        "Death",
-        "Answers",
-        "Amazon",
-        "Indian"
-      ]
-    },
-    {
-      "blanked": "Deals: Galaxy Z Flip8 gets a discount out of the gate, Z Fold8 and Z Fold8 ______ also on sale - GSMArena.com news",
-      "answer": "Ultra",
-      "options": [
-        "Anxiety",
-        "Started",
-        "Ultra",
-        "Mamata"
-      ]
-    },
-    {
-      "blanked": "HDFC Bank vs ______ The king is still standing. But the challenger is closing in",
-      "answer": "SBI",
-      "options": [
-        "Sale",
-        "Indias",
-        "SBI",
-        "Oman"
-      ]
-    },
-    {
-      "blanked": "Amid Questions Over Mojtaba Khamenei's Health, An ______ President-Supreme Leader Meet",
+      "blanked": "No more strikes on ______ Trump says US going 'low key', stresses economic pressure over military op",
       "answer": "Iran",
       "options": [
-        "Brij",
-        "Greg",
+        "Bill",
+        "Why",
         "Iran",
-        "Accident"
+        "UPI"
       ]
     },
     {
-      "blanked": "Allegations Against Brij Bhushan False, ______ Conspiracy: Delhi Court",
-      "answer": "Political",
+      "blanked": "Filmmaker ______ Noorani arrested over alleged rape and sexual assault of actress; accused of sedating a",
+      "answer": "Shakeel",
+      "options": [
+        "Berkshire",
+        "Pro",
+        "Dal",
+        "Shakeel"
+      ]
+    },
+    {
+      "blanked": "Apple iPhone 18 ______ appears on preview website, Caviar unveils five limited editions",
+      "answer": "Pro",
       "options": [
         "Political",
-        "Complete",
-        "Meet",
-        "HBV"
+        "Pro",
+        "Why",
+        "Sabha"
+      ]
+    },
+    {
+      "blanked": "US Bill to sanction Russian oil: Why it could become not just ______ but the world’s problem",
+      "answer": "Indias",
+      "options": [
+        "Aedes",
+        "Gurnoor",
+        "Oman",
+        "Indias"
       ]
     }
   ]
