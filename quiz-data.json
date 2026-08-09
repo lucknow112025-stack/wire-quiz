@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-08T23:14:04.649Z",
+  "generatedAt": "2026-08-09T04:04:53.121Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
+    "Piyush Mishra joins Jharkhand students' protest, sings Aarambh Hai Prachand | Bollywood",
     "Iran says deal on Strait of Hormuz is close but not enough to open the waterway",
-    "JPSC row: Protest against alleged paper leaks to continue as 'no consensus' reached in second round of talks",
-    "‘Degree means nothing in India today’: Rahul talks of ‘dard’, ‘data’ and 'daulat' at ‘Chhatron ki Goonj’ event | India News",
-    "Saudi ⁠Arabia, Pakistan and Turkiye sign defence deal amid regional turmoil",
-    "US-Iran war latest: JD Vance says US weighing safe Hormuz route for ships as Iran reiterates demands | World News",
-    "After Vijay-led all-party meet, Tamil Nadu leaders vow united front against delimitation | India News",
-    "US Veep JD Vance Dials PM Modi, He Congratulates Usha Vance On Birth Of Son",
-    "The Reasons Behind Bhagwant Mann's U-Turn On Chief Minister's Murder Convict Jagtar Singh Hawara",
-    "Samay Raina donates Rs 10 lakh to Assam flood relief; CM Himanta Biswa Sarma thanks comedian, social medi",
-    "Before PM Modi’s ‘outreach’ at IIT, gun-toting security, ‘suffocating restrictions’",
-    "U.S. Senate passes Russia sanctions bill that seeks 100% tariffs on India, four others",
-    "H-1B Workers Could Lose 60-Day Lifeline Under New US Immigration Plan",
-    "Serbia and Ukraine pledge closer economic ties, eye free trade deal",
     "'Could die at any moment': Israeli media claims Iran's Mojtaba Khamenei is in 'critical condition'",
-    "Lok Sabha passes bill to authorise govt to permit banks to levy charges on UPI transactions",
-    "Not Skynet — yet: Four AI firms, multiple escape routes, and a debate about how close human intelligence is | Hindustan Times",
-    "US sanctions Dubai-based crypto exchange over alleged Iran sanctions evasion and IRGC funding",
-    "Gold price jumps as reopening of Strait of Hormuz buzz dents US Fed rate-hike hopes. Is it the right time to buy gold?",
-    "iPhone 18 Pro Release Date: Apple’s Strategy Demands September Launch",
-    "Amazon India brings quirky independence day deals to every kind of shopper with Schbang",
+    "US Vice President JD Vance dials PM Modi, discusses deepening India-US strategic ties | India News",
+    "Dharmendra Pradhan says he sought PM’s approval to accept protesters’ demands",
+    "Saudi ⁠Arabia, Pakistan and Turkiye sign defence deal amid regional turmoil",
+    "'Should have gone to Ranchi': Rijiju takes dig at Rahul Gandhi over Prayagraj event",
+    "After remarks on Rahul Gandhi's youth outreach programme, Shashi Tharoor says not an attack on party",
+    "In Outreach To Sikhs, AAP Government Makes U-Turn On Extremist's Parole",
+    "In rapidly changing world, those who learn win: PM Modi at IIT Delhi",
+    "Indian-Origin Woman's Partner Arrested 7 Months After Her Murder In Canada",
+    "UAE says Iran targeted ADNOC tanker in Strait of Hormuz, no casualties",
+    "Four killed in helicopter crash in Rio de Janeiro",
+    "Canada’s deportation drive hits Indians hard: 3,323 sent back so far this year — Inside the sharp rise since 2021",
+    "UPI transactions to remain free for consumers & small merchants, clarifies PCI",
+    "Berkshire’s profit doubles as equity holdings surge; buys back $4.5 bln shares",
+    "L&T says unit that houses drones to see threefold revenue growth over five years",
+    "Q1 Results Highlights: Delhivery Profit Drops 65%, ABFRL Posts Rs 215-Crore Loss, Ceigall India Bottom Line Up",
     "Samsung launches Galaxy Z Fold8 Ultra, Fold8, Flip8, Watch Ultra2 and Watch9",
+    "Did Caviar just spill the beans on the iPhone Ultra and the iPhone 18 Pro design, specs and release date? - GSMArena.com news",
+    "Amazon Great Freedom Sale 2026 is live: Get up to 80% off on electronics and accessories; Check top deals here",
     "xAI's Imagine Image 2.0 lands just behind OpenAI's GPT-Image-2 in Arena benchmarks - the-decoder.com",
-    "Yash’s ‘Toxic’ Trailer Unveils Dual-Role Father-Son Conflict at Core of Gangster Epic",
-    "Mumbai Police constable guarding Salman Khan's residence dies of suspected heart attack: Report | Bollywood",
-    "‘Spider-Man: Brand New Day’ Scores Amazing $143 Million Second Weekend at Box Office"
+    "Kiara Advani says Yash and Geetu Mohandas 'manifested' her as Nadia in 'Toxic': 'There will be a Kiara be",
+    "Yash lauds Kiara Advani, calls her 'tabahi', tells her to not get bothered by what people say amid the co",
+    "Why Arijit Singh Made An Exception For Awarapan 2 In The Middle Of His Music Break"
   ],
   "quiz": [
     {
-      "blanked": "Not Skynet — yet: Four AI firms, multiple escape routes, and a debate about how close human intelligence is | ______ Times",
-      "answer": "Hindustan",
+      "blanked": "Tech tip: Using your smartphone to capture total solar eclipse over ______",
+      "answer": "Europe",
       "options": [
-        "IIT",
-        "Arabia",
-        "Hindustan",
-        "Hawara"
+        "3323",
+        "Gandhis",
+        "Complete",
+        "Europe"
       ]
     },
     {
-      "blanked": "JPSC row: ______ against alleged paper leaks to continue as 'no consensus' reached in second round of talks",
-      "answer": "Protest",
+      "blanked": "Saudi ⁠Arabia, ______ and Turkiye sign defence deal amid regional turmoil",
+      "answer": "Pakistan",
       "options": [
-        "Protest",
-        "Moon",
-        "Modis",
-        "Conflict"
+        "Type",
+        "825",
+        "Pakistan",
+        "AAP"
       ]
     },
     {
-      "blanked": "U.S. Senate passes Russia sanctions bill that seeks ______ tariffs on India, four others",
-      "answer": "100%",
+      "blanked": "Iran says deal on ______ of Hormuz is close but not enough to open the waterway",
+      "answer": "Strait",
       "options": [
-        "Birth",
-        "100%",
-        "Mojtaba",
+        "Arijit",
+        "2021",
+        "Strait",
+        "Solar"
+      ]
+    },
+    {
+      "blanked": "UAE says Iran targeted ADNOC tanker in ______ of Hormuz, no casualties",
+      "answer": "Strait",
+      "options": [
+        "Messis",
+        "Strait",
+        "Astronauts",
         "Infantino"
       ]
     },
     {
-      "blanked": "Mumbai Police constable guarding ______ Khan's residence dies of suspected heart attack: Report | Bollywood",
-      "answer": "Salman",
+      "blanked": "Probiotic Improved Type 2 Diabetes ______",
+      "answer": "Markers",
       "options": [
-        "Immigration",
-        "Salman",
-        "Congratulates",
-        "Minister"
+        "Bottom",
+        "Using",
+        "Womans",
+        "Markers"
       ]
     },
     {
-      "blanked": "Saudi ______ Pakistan and Turkiye sign defence deal amid regional turmoil",
-      "answer": "Arabia",
+      "blanked": "Dharmendra ______ says he sought PM’s approval to accept protesters’ demands",
+      "answer": "Pradhan",
       "options": [
-        "Workers",
-        "Report",
-        "Arabia",
-        "Conflict"
+        "Pro",
+        "Galaxy",
+        "Pradhan",
+        "Prayagraj"
       ]
     },
     {
-      "blanked": "Amazon India brings quirky independence day deals to every kind of shopper with ______",
-      "answer": "Schbang",
+      "blanked": "Berkshire’s profit doubles as equity holdings surge; buys back ______ bln shares",
+      "answer": "4.5",
       "options": [
-        "Schbang",
-        "UPI",
-        "Modis",
-        "Four"
+        "Partner",
+        "Advani",
+        "Highlights",
+        "4.5"
       ]
     },
     {
-      "blanked": "Higher health risks associated with consuming ultra-processed foods indicated by ______ says Union Minister",
-      "answer": "ICMR",
+      "blanked": "Q1 ______ Highlights: Delhivery Profit Drops 65%, ABFRL Posts Rs 215-Crore Loss, Ceigall India Bottom Line Up",
+      "answer": "Results",
       "options": [
-        "Joao",
-        "ICMR",
-        "Senate",
-        "Hormuz"
+        "Falcon",
+        "Mishra",
+        "Womans",
+        "Results"
       ]
     },
     {
-      "blanked": "iPhone 18 Pro Release Date: Apple’s Strategy ______ September Launch",
-      "answer": "Demands",
+      "blanked": "US Vice President JD ______ dials PM Modi, discusses deepening India-US strategic ties | India News",
+      "answer": "Vance",
       "options": [
-        "Iran",
-        "Behind",
-        "Schbang",
-        "Demands"
+        "Vance",
+        "3323",
+        "Hai",
+        "Strait"
       ]
     },
     {
-      "blanked": "Yash’s ‘Toxic’ ______ Unveils Dual-Role Father-Son Conflict at Core of Gangster Epic",
-      "answer": "Trailer",
+      "blanked": "After remarks on Rahul ______ youth outreach programme, Shashi Tharoor says not an attack on party",
+      "answer": "Gandhis",
       "options": [
-        "Pakistan",
-        "Trailer",
-        "Biswa",
-        "Chelsea"
-      ]
-    },
-    {
-      "blanked": "Lok Sabha passes bill to authorise govt to permit banks to levy charges on ______ transactions",
-      "answer": "UPI",
-      "options": [
-        "Targets",
-        "UPI",
-        "Times",
-        "Milan"
-      ]
-    },
-    {
-      "blanked": "The Reasons Behind Bhagwant Mann's U-Turn On Chief Minister's Murder Convict Jagtar Singh ______",
-      "answer": "Hawara",
-      "options": [
+        "Gandhis",
+        "Odyssey",
         "Europe",
-        "Bangladesh",
-        "Assam",
-        "Hawara"
+        "Rijiju"
       ]
     },
     {
-      "blanked": "Multi-Omics Identifies New Targets for Gallbladder ______",
-      "answer": "Cancer",
+      "blanked": "The Odyssey braves Spider-Man blitz to cross $1 billion at box office; beats The ______ Knight's lifetime haul | Hollywood",
+      "answer": "Dark",
       "options": [
-        "Cancer",
-        "Watch",
-        "Son",
-        "Date"
+        "Made",
+        "Prachand",
+        "Dark",
+        "2021"
+      ]
+    },
+    {
+      "blanked": "Kiara Advani says Yash and Geetu Mohandas 'manifested' her as Nadia in ______ 'There will be a Kiara be",
+      "answer": "Toxic",
+      "options": [
+        "There",
+        "Toxic",
+        "Sale",
+        "Hollywood"
       ]
     }
   ]
