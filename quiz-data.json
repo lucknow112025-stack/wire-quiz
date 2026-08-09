@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-09T09:11:44.452Z",
+  "generatedAt": "2026-08-09T11:02:34.759Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "Iran says deal on Strait of Hormuz is close but not enough to open the waterway",
-    "Indian-Origin Woman's Partner Arrested 7 Months After Her Murder In Canada",
-    "Turkiye says Mecca defence pact not aimed at Iran",
-    "Dharmendra Pradhan says he sought PM’s approval to accept protesters’ demands",
     "Jharkhand student protest: Round 2 of talks with government fails to end deadlock",
-    "Purported new visuals of Iran's Supreme Leader Mojtaba Khamenei emerge amid health concerns | World News",
+    "Indian-Origin Woman's Partner Arrested 7 Months After Her Murder In Canada",
+    "Laser beam distracts pilot of Malaysia Airlines flight approaching Kolkata | India News",
+    "Mecca Agreement | A new triple alliance in West Asia",
     "Training plane skids while landing at Baramati, where Ajit Pawar died in crash | India News",
-    "Meta must comply with Indian law, not merely global policies: Centre",
-    "U.S. Vice-President Vance dials PM Modi",
-    "Savarkar Question In Kerala School Quiz Sparks Big Political Row",
+    "Dharmendra Pradhan says he sought PM’s approval to accept protesters’ demands",
+    "‘Stones, shoes thrown at my car’: Mamata faces protest during visit to kin of dead TMC worker",
+    "Centre Cracks Down On Meta, Seeks Algorithm Overhaul And Roadmap To Tackle Deepfakes",
+    "Air India turbulence incident sparks misinformation on social media; experts explain",
+    "Man Uses Chhattisgarh Chief Justice's Photo In Ritual To Get Relative's Bail",
+    "Iran Releases Undated Video Of Mojtaba Khamenei Amid Health Rumours",
     "Saudi Arabia says fire extinguished at Aramco facility in Jizan",
-    "Pentagon asks defence firms to ramp up weapons production as Iran war drains stockpile: Report",
+    "West Asia war LIVE: UAE says Iran targeted tanker as Oman cites progress in Hormuz talks",
     "Colombia rocked by car bomb blast a day after new President Abelardo de la Espriella takes charge",
-    "Donald Trump's Hair Sparks Memes Online After Las Vegas Appearance",
     "4 Upcoming Maruti And Toyota Cars To Look Out For",
-    "HDFC Bank Out, MCX In: Full List Of Jefferies' India Portfolio Changes Inside",
     "Mahindra Sales Breakup July 2026 - Scorpio, Thar, XUV3XO, Bolero, XUV7XO, XEV 9S",
     "UPI transactions to remain free for consumers & small merchants, clarifies PCI",
+    "Dhoot Transmission IPO GMP, Grey Market Premium Today",
+    "Amazon Freedom Sale 2026: Best Deals on Microwave Oven and OTGs from Top Brands",
     "Deals: Galaxy Z Flip8 gets a discount out of the gate, Z Fold8 and Z Fold8 Ultra also on sale - GSMArena.com news",
-    "Amazon Great Freedom Sale 2026: Best Deals on Laptops from Acer, Asus, HP, and Lenovo Under Rs 80,000",
     "A 3,000-square-foot apartment in Thane that makes neutrals fun again",
-    "Apple iPhone 18 Pro Max Tipped with A20 Pro, Camera Upgrade",
+    "Motorola details new Snapdragon-powered phone with \"3-day\" battery life",
     "Kiara Advani Wears White Corset Top And Thigh-Slit Skirt For Toxic Trailer Launch, Internet Reacts",
     "Mahesh Babu’s Look in S.S. Rajamouli’s ‘Varanasi’ Unveiled",
-    "Operation Safed Sagar: Meet the real heroes behind Netflix’s Kargil War series"
+    "Spider Man Brand New Day Box Office Collections: Tom Holland starrer explode on 2nd Saturday, Hollywood All Time record beckons"
   ],
   "quiz": [
-    {
-      "blanked": "Dharmendra ______ says he sought PM’s approval to accept protesters’ demands",
-      "answer": "Pradhan",
-      "options": [
-        "Rajamoulis",
-        "News",
-        "Pradhan",
-        "Camera"
-      ]
-    },
-    {
-      "blanked": "Turkiye says ______ defence pact not aimed at Iran",
-      "answer": "Mecca",
-      "options": [
-        "Kanagaraj",
-        "Mecca",
-        "Freedom",
-        "Jizan"
-      ]
-    },
-    {
-      "blanked": "Savarkar Question In Kerala School Quiz Sparks Big Political ______",
-      "answer": "Row",
-      "options": [
-        "Scorpio",
-        "Safed",
-        "Iran",
-        "Row"
-      ]
-    },
-    {
-      "blanked": "Gianni ______ denies UEFA made payment to alleged lover",
-      "answer": "Infantino",
-      "options": [
-        "Infantino",
-        "Murder",
-        "Gabbis",
-        "Months"
-      ]
-    },
     {
       "blanked": "When bird flu hit the UK, suffering seabirds died in their thousands. ______ wild flocks will soon do the same",
       "answer": "Australias",
       "options": [
+        "Maruti",
+        "Nabi",
         "Australias",
-        "Toxic",
-        "Arrested",
-        "PMs"
-      ]
-    },
-    {
-      "blanked": "Saudi ______ says fire extinguished at Aramco facility in Jizan",
-      "answer": "Arabia",
-      "options": [
-        "Toxic",
-        "Arabia",
-        "Mojtaba",
-        "Sales"
-      ]
-    },
-    {
-      "blanked": "Mahindra Sales Breakup July 2026 - Scorpio, Thar, XUV3XO, Bolero, XUV7XO, ______ 9S",
-      "answer": "XEV",
-      "options": [
-        "XEV",
-        "Auqib",
-        "Using",
-        "Skirt"
-      ]
-    },
-    {
-      "blanked": "Indian-Origin Woman's Partner Arrested 7 Months After Her ______ In Canada",
-      "answer": "Murder",
-      "options": [
-        "Congos",
-        "Sparks",
-        "Portfolio",
-        "Murder"
-      ]
-    },
-    {
-      "blanked": "Kiara Advani Wears White Corset ______ And Thigh-Slit Skirt For Toxic Trailer Launch, Internet Reacts",
-      "answer": "Top",
-      "options": [
-        "Camera",
-        "Liver",
-        "Wamiqa",
         "Top"
       ]
     },
     {
-      "blanked": "Iran says deal on Strait of ______ is close but not enough to open the waterway",
-      "answer": "Hormuz",
+      "blanked": "Laser beam distracts pilot of Malaysia Airlines flight approaching ______ | India News",
+      "answer": "Kolkata",
       "options": [
-        "Jefferies",
-        "Hormuz",
-        "Auqib",
-        "Canada"
+        "Kolkata",
+        "Menon",
+        "Algorithm",
+        "Anil"
       ]
     },
     {
-      "blanked": "Apple iPhone 18 Pro Max Tipped with A20 ______ Camera Upgrade",
-      "answer": "Pro",
+      "blanked": "The making of ______ Nabi: Kashmir's hardships to India's Test cricket squad",
+      "answer": "Auqib",
       "options": [
-        "Messis",
-        "Pradhan",
-        "Pro",
-        "Round"
+        "Tom",
+        "Brands",
+        "Ritual",
+        "Auqib"
       ]
     },
     {
-      "blanked": "Training plane skids while landing at Baramati, where Ajit ______ died in crash | India News",
-      "answer": "Pawar",
+      "blanked": "WHO, Africa CDC ______ for Urgent Community-Led Action to Contain Ebola in DRC",
+      "answer": "Call",
       "options": [
-        "Pawar",
-        "80000",
-        "Mecca",
-        "Sales"
+        "Reacts",
+        "Call",
+        "Look",
+        "Gill"
+      ]
+    },
+    {
+      "blanked": "Did Pervez Musharraf really insult Vajpayee, backstab Nawaz Sharif? What's real in Netflix's Operation ______ Sagar | Web Series",
+      "answer": "Safed",
+      "options": [
+        "Safed",
+        "Nawaz",
+        "IPO",
+        "Deals"
+      ]
+    },
+    {
+      "blanked": "Mahesh Babu’s Look in S.S. Rajamouli’s ______ Unveiled",
+      "answer": "Varanasi",
+      "options": [
+        "Roadmap",
+        "Safed",
+        "Algorithm",
+        "Varanasi"
+      ]
+    },
+    {
+      "blanked": "8 ______ Current Affairs: Astronaut Anil Menon creates record with 7-hour spacewalk; ballistic missile Agni...",
+      "answer": "August",
+      "options": [
+        "Today",
+        "Laxman",
+        "Cars",
+        "August"
+      ]
+    },
+    {
+      "blanked": "4 Upcoming ______ And Toyota Cars To Look Out For",
+      "answer": "Maruti",
+      "options": [
+        "Maruti",
+        "Upcoming",
+        "Algorithm",
+        "Pawar"
+      ]
+    },
+    {
+      "blanked": "‘Stones, shoes thrown at my car’: Mamata faces protest during visit to kin of dead ______ worker",
+      "answer": "TMC",
+      "options": [
+        "LIVE",
+        "Why",
+        "TMC",
+        "Murder"
+      ]
+    },
+    {
+      "blanked": "MRI Diagnostic Model Improved Liver ______ Differentiation in HBV",
+      "answer": "Cancer",
+      "options": [
+        "Bolero",
+        "Cancer",
+        "Nabi",
+        "PMs"
+      ]
+    },
+    {
+      "blanked": "Mecca Agreement | A new triple alliance in West ______",
+      "answer": "Asia",
+      "options": [
+        "Reacts",
+        "Laxman",
+        "Maruti",
+        "Asia"
+      ]
+    },
+    {
+      "blanked": "Jharkhand student protest: ______ 2 of talks with government fails to end deadlock",
+      "answer": "Round",
+      "options": [
+        "2026",
+        "Round",
+        "Rishabh",
+        "UAE"
       ]
     }
   ]
