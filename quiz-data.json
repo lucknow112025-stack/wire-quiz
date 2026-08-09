@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-09T13:56:08.129Z",
+  "generatedAt": "2026-08-09T15:16:07.020Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "Jharkhand students protest LIVE updates: Committed to justice for protesting youth; those guilty of irregularities to face strict action, says Jharkhand CM",
-    "Turkiye says Mecca defence pact not aimed at Iran",
+    "Jharkhand student protest: Round 2 of talks with government fails to end deadlock",
     "Air India Pilot Likely Failed Dope Test After Turbulence-Hit Flight: Sources",
-    "\"Could Have Died\": Mamata Banerjee Alleges Attack On Car Near Kolkata",
-    "No Palestinian state as long as I am PM: Israel's Netanyahu rejects Gaza peace plan",
+    "Mamata visits residence of Trinamool worker who died in police custody, faces protests",
+    "No Palestinian state as long as I'm PM: Netanyahu rejects Trump's Gaza peace plan",
+    "Turkiye says Mecca defence pact not aimed at Iran",
     "Training plane skids while landing at Baramati, where Ajit Pawar died in crash | India News",
+    "NALSAR students object to CJI Surya Kant as convocation chief guest",
     "Meta must comply with Indian law, not merely global policies: Centre",
-    "AAP's Saurabh Bharadwaj alleges ‘ ₹22,000 crore rice scam plan’ by Delhi govt | India News",
-    "NALSAR students oppose CJI Surya Kant as convocation chief guest over NEET protest remarks",
-    "Supreme Court Collegium Recommends Appointment Of Chief Justices In Four High Courts",
-    "West Asia war LIVE: Netanyahu vows Iran will 'not have nuclear weapons' with or without deal",
+    "6 Killed In Madhya Pradesh Accident As Truck Collides With Car",
+    "UP BJP MLA Says Daughter Duped Into Marriage With Man Who Had 25 Weddings",
     "Saudi Arabia says fire extinguished at Aramco facility in Jizan",
-    "How Taiwan Plans To Turn A Potential Chinese Invasion Into \"Drone Hellscape\"",
-    "Abdul Ghafoori arrested in murder of Indian-origin partner Himanshi Khurana in Toronto",
+    "Iran says Oman deal is in 'final stages' but US must act to open Hormuz",
+    "West Asia war LIVE: Netanyahu vows Iran will 'not have nuclear weapons' with or without deal",
+    "India, Russia to be linked by rail? Moscow floats proposal, calls it 'viable'",
     "HDFC Bank Out, MCX In: Full List Of Jefferies' India Portfolio Changes Inside",
-    "UPI transactions to remain free for consumers & small merchants, clarifies PCI",
-    "IPO Action: Rs 7,700 crore worth 9 IPOs to hit Dalal Street, 8 new listings scheduled next week",
-    "Mcap of four of top-10 valued firms jumps Rs 1.43 lakh cr; SBI biggest gainer",
-    "The Top 10 New Cars We’re Most Excited for This Year (So Far)",
-    "Amazon Great Freedom Sale 2026: Best deals on kitchen and home appliances",
+    "IPO action: Rs 7,700 crore worth 9 IPOs to hit Dalal Street, 8 new listings scheduled next week",
+    "Maruti Suzuki plans to launch 7 SUVs in the next 5 years, adds 5 lakh units capacity",
+    "UPI stays free for users, vast majority of transactions to remain free for merchants as well, says government",
     "Apple could raise iPhone prices on Monday? New tip hints at hike before September launch",
+    "10 home and kitchen appliances deals to look for during Amazon Freedom Sale, from ACs to air fryers",
     "Deals: Galaxy Z Flip8 gets a discount out of the gate, Z Fold8 and Z Fold8 Ultra also on sale - GSMArena.com news",
+    "Motorola details new Snapdragon-powered phone with \"3-day\" battery life",
     "Kiara Advani Wears White Corset Top And Thigh-Slit Skirt For Toxic Trailer Launch, Internet Reacts",
-    "'Batwara 1947' cast salary revealed: Sunny Deol reportedly takes home Rs 60 crore, Preity Zinta Rs 10 cro",
-    "Sonu Nigam turns surgery into an impromptu musical moment"
+    "Sonu Nigam performs Mohammed Rafi's classic ‘Suhani Raat Dhal Chuki’ during surgery, shares video with he",
+    "'Batwara 1947' cast salary revealed: Sunny Deol reportedly takes home Rs 60 crore, Preity Zinta Rs 10 cro"
   ],
   "quiz": [
     {
-      "blanked": "Training plane skids while landing at Baramati, where Ajit Pawar died in crash | India ______",
-      "answer": "News",
+      "blanked": "IPO action: Rs 7,700 crore worth 9 IPOs to hit ______ Street, 8 new listings scheduled next week",
+      "answer": "Dalal",
       "options": [
-        "Ghafoori",
-        "Court",
-        "News",
-        "PCI"
-      ]
-    },
-    {
-      "blanked": "NALSAR students oppose CJI Surya Kant as convocation chief guest over ______ protest remarks",
-      "answer": "NEET",
-      "options": [
-        "LIVE",
-        "Astronaut",
-        "NEET",
-        "India"
-      ]
-    },
-    {
-      "blanked": "Mcap of four of top-10 valued firms jumps Rs 1.43 lakh cr; ______ biggest gainer",
-      "answer": "SBI",
-      "options": [
-        "News",
-        "Holland",
-        "Chinese",
-        "SBI"
-      ]
-    },
-    {
-      "blanked": "Air India Pilot Likely Failed Dope Test After ______ Flight: Sources",
-      "answer": "Turbulence-Hit",
-      "options": [
-        "Turbulence-Hit",
         "Preity",
-        "Dalal",
-        "Ghafoori"
+        "Sai",
+        "Marriage",
+        "Dalal"
       ]
     },
     {
-      "blanked": "HDFC Bank Out, MCX In: Full List Of ______ India Portfolio Changes Inside",
-      "answer": "Jefferies",
+      "blanked": "Turkiye says ______ defence pact not aimed at Iran",
+      "answer": "Mecca",
       "options": [
-        "News",
-        "Ajit",
-        "Jefferies",
-        "Dalal"
+        "SSM",
+        "Launch",
+        "Mecca",
+        "Jaiswal"
+      ]
+    },
+    {
+      "blanked": "BCCI's search for ______ head stalls after multiple withdrawals",
+      "answer": "SSM",
+      "options": [
+        "Netanyahu",
+        "Round",
+        "SSM",
+        "Changes"
+      ]
+    },
+    {
+      "blanked": "Iran says Oman deal is in 'final stages' but US must act to open ______",
+      "answer": "Hormuz",
+      "options": [
+        "Urgent",
+        "Lanka",
+        "Russia",
+        "Hormuz"
+      ]
+    },
+    {
+      "blanked": "'Batwara ______ cast salary revealed: Sunny Deol reportedly takes home Rs 60 crore, Preity Zinta Rs 10 cro",
+      "answer": "1947",
+      "options": [
+        "Car",
+        "1947",
+        "Launch",
+        "Jaiswal"
       ]
     },
     {
       "blanked": "Solar eclipse to occur next week. ______ is what to know",
       "answer": "Here",
       "options": [
-        "Astronaut",
-        "Top",
+        "Contain",
+        "Lanka",
         "Here",
-        "2026"
+        "List"
       ]
     },
     {
-      "blanked": "India tick boxes in warm-up: ______ Shubman Gill fit, Yashasvi Jaiswal finds rhythm, Gurnoor Brar impres",
-      "answer": "Captain",
+      "blanked": "‘Do whatever you believe in’: Yash defends Kiara ______ over Toxic song trolling",
+      "answer": "Advani",
       "options": [
-        "Near",
-        "Taiwan",
-        "Flight",
-        "Captain"
+        "Advani",
+        "White",
+        "Marriage",
+        "Hormuz"
       ]
     },
     {
-      "blanked": "8 August ______ Affairs: Astronaut Anil Menon creates record with 7-hour spacewalk; ballistic missile Agni...",
-      "answer": "Current",
+      "blanked": "WHO, Africa ______ Call for Urgent Community-Led Action to Contain Ebola in DRC",
+      "answer": "CDC",
       "options": [
-        "Deol",
-        "Four",
-        "Toronto",
-        "Current"
+        "1947",
+        "CDC",
+        "CJI",
+        "Pilot"
       ]
     },
     {
-      "blanked": "Shadow bands likely during upcoming total solar-eclipse: ______ are they?",
-      "answer": "What",
+      "blanked": "6 Killed In Madhya Pradesh Accident As ______ Collides With Car",
+      "answer": "Truck",
       "options": [
-        "Iran",
-        "Israels",
-        "What",
-        "Recommends"
+        "Truck",
+        "Mecca",
+        "7700",
+        "Bank"
       ]
     },
     {
-      "blanked": "Amazon Great Freedom Sale 2026: ______ deals on kitchen and home appliances",
-      "answer": "Best",
+      "blanked": "Maruti ______ plans to launch 7 SUVs in the next 5 years, adds 5 lakh units capacity",
+      "answer": "Suzuki",
       "options": [
-        "Trailer",
-        "Mamata",
-        "Best",
-        "Street"
+        "Suzuki",
+        "Trumps",
+        "Corset",
+        "Dalal"
       ]
     },
     {
       "blanked": "Apple could raise iPhone prices on ______ New tip hints at hike before September launch",
       "answer": "Monday",
       "options": [
-        "Committed",
+        "Surya",
+        "MLA",
         "Monday",
-        "Rahanes",
-        "Man"
+        "Kant"
       ]
     },
     {
-      "blanked": "West Asia war ______ Netanyahu vows Iran will 'not have nuclear weapons' with or without deal",
-      "answer": "LIVE",
+      "blanked": "Jharkhand student protest: ______ 2 of talks with government fails to end deadlock",
+      "answer": "Round",
       "options": [
-        "Israels",
-        "Box",
-        "LIVE",
-        "Menon"
+        "Round",
+        "Gaza",
+        "Mecca",
+        "Toxic"
       ]
     }
   ]
