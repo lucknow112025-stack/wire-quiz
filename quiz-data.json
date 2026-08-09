@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-09T19:19:01.903Z",
+  "generatedAt": "2026-08-09T21:05:05.275Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
     "Jharkhand student protest: Round 2 of talks with government fails to end deadlock",
     "Trump Started Iran War Over Nukes, He Will Give It Up For Hormuz: Report",
-    "‘Could have been killed’: Mamata Banerjee's vehicle attacked with ‘stones, mud’ in North 24 Parganas | India News",
     "What now as Israel rejects Trump’s 15-point plan for Gaza?",
-    "Trainer Aircraft Crashes In Baramati, 2nd Incident Since Ajit Pawar's Accident",
+    "‘Could have been killed’: Mamata Banerjee's vehicle attacked with ‘stones, mud’ in North 24 Parganas | India News",
     "Iran says Oman deal is in 'final stages' but US must act to open Hormuz",
-    "Wrestlers' sexual harassment case against Brij Bhushan Sharan Singh was political, false and fabricated: Delhi court",
-    "Suvendu Adhikari orders fresh probe into R.G. Kar case",
-    "Days After \"Girls Enjoy Rape\" Remark, Right-Wing Activist Taken Into Custody",
-    "Wanted to ‘silence’ him: Tarun Tejpal's daughter defends father after Bombay HC conviction",
-    "Iran Releases Undated Video Of Mojtaba Khamenei Amid Health Rumours",
-    "Houthi attacks kill seven in Yemen, refinery targeted in Saudi Arabia",
-    "India, Russia to be linked by rail? Moscow floats proposal, calls it 'viable'",
+    "Trainer Aircraft Crashes In Baramati, 2nd Incident Since Ajit Pawar's Accident",
+    "Allegations Against Brij Bhushan False, Political Conspiracy: Delhi Court",
+    "Rajahmundry Hit-and-run: Medico Priyanka Dies",
+    "SAD backs women's quota, delimitation bills after Badal-PM Modi meet fuels buzz",
+    "Wanted to ‘silence’ him for his investigative journalism: Tarun Tejpal's daughter defends father",
+    "Amid Questions Over Mojtaba Khamenei's Health, An Iran President-Supreme Leader Meet",
     "Five killed in Ukrainian drone attack on Belgorod, Russian authorities say",
+    "Yemen's Houthis Claim Attack On Aramco Refinery On Red Sea Coast",
+    "Russia to India via train? Moscow floats ambitious railway route, says link 'should be explored'",
     "India's Maruti sees passenger vehicle market rising to up to 6.3 mln units by 2031",
     "After Warren Buffett exit, Greg Abel starts deploying Berkshire Hathaway’s $365.5 billion cash pile",
-    "Lok Sabha passes bill to authorise govt to permit banks to levy charges on UPI transactions",
-    "Hidden environmental cost of powering growing digital and AI-world",
+    "UPI stays free for users, vast majority of transactions to remain free for merchants as well, says government",
+    "HDFC Bank vs SBI: The king is still standing. But the challenger is closing in",
     "Apple iPhone 18 Pro appears on preview website, Caviar unveils five limited editions",
     "10 home and kitchen appliances deals to look for during Amazon Freedom Sale, from ACs to air fryers",
     "Deals: Galaxy Z Flip8 gets a discount out of the gate, Z Fold8 and Z Fold8 Ultra also on sale - GSMArena.com news",
-    "Grok's image tools get a professional upgrade with templates, precise editing, and an Arena number two ranking",
+    "Quordle Hints Today: Monday, August 10 Clues And Answers",
     "Kiara Advani Wears White Corset Top And Thigh-Slit Skirt For Toxic Trailer Launch, Internet Reacts",
-    "Sonu Nigam sings through surgery: The health struggles the singer has faced over the years",
+    "Sonu Nigam opens up about recurring health condition, reveals why he sang Mohammed Rafi’s song during sur",
     "Govinda Recalls Suicide Attempt After Mother's Death: 'I Went Into The Narmada River'"
   ],
   "quiz": [
     {
-      "blanked": "India, ______ to be linked by rail? Moscow floats proposal, calls it 'viable'",
-      "answer": "Russia",
+      "blanked": "Shadow bands likely during upcoming total solar-eclipse: ______ are they?",
+      "answer": "What",
       "options": [
-        "Arabia",
-        "Narmada",
-        "6.3",
-        "Russia"
+        "What",
+        "Abel",
+        "River",
+        "Captain"
       ]
     },
     {
-      "blanked": "MRI Diagnostic Model Improved ______ Cancer Differentiation in HBV",
-      "answer": "Liver",
+      "blanked": "No miscommunication between BCCI ______ and Indian team management, says Laxman",
+      "answer": "CoE",
       "options": [
-        "Incident",
-        "2031",
         "Liver",
-        "Yemen"
+        "Subtle",
+        "CoE",
+        "Mojtaba"
       ]
     },
     {
-      "blanked": "Apple iPhone 18 Pro appears on preview website, ______ unveils five limited editions",
-      "answer": "Caviar",
+      "blanked": "‘Could have been killed’: Mamata Banerjee's vehicle attacked with ‘stones, mud’ in North 24 ______ | India News",
+      "answer": "Parganas",
       "options": [
-        "Iran",
-        "Caviar",
-        "AI-world",
-        "Russian"
+        "Questions",
+        "Parganas",
+        "Mamata",
+        "Bhushan"
       ]
     },
     {
-      "blanked": "Iran says ______ deal is in 'final stages' but US must act to open Hormuz",
-      "answer": "Oman",
+      "blanked": "Trainer Aircraft Crashes In Baramati, 2nd Incident ______ Ajit Pawar's Accident",
+      "answer": "Since",
       "options": [
-        "Kar",
-        "Parents",
-        "Skirt",
-        "Oman"
+        "Since",
+        "2031",
+        "Dies",
+        "Nasas"
       ]
     },
     {
-      "blanked": "10 home and kitchen appliances deals to look for during ______ Freedom Sale, from ACs to air fryers",
-      "answer": "Amazon",
+      "blanked": "Govinda ______ Suicide Attempt After Mother's Death: 'I Went Into The Narmada River'",
+      "answer": "Recalls",
       "options": [
+        "Recalls",
+        "Attack",
+        "Bharat",
+        "Corset"
+      ]
+    },
+    {
+      "blanked": "Five killed in Ukrainian drone attack on ______ Russian authorities say",
+      "answer": "Belgorod",
+      "options": [
+        "Belgorod",
+        "Bharat",
         "CWG",
-        "Mojtaba",
-        "Lunar",
-        "Amazon"
-      ]
-    },
-    {
-      "blanked": "Deals: Galaxy Z Flip8 gets a discount out of the gate, Z Fold8 and Z Fold8 ______ also on sale - GSMArena.com news",
-      "answer": "Ultra",
-      "options": [
-        "Thigh-Slit",
-        "Images",
-        "Realizing",
-        "Ultra"
-      ]
-    },
-    {
-      "blanked": "'Batwara 1947' cast salary revealed: Sunny ______ reportedly takes home Rs 60 crore, Preity Zinta Rs 10 cro",
-      "answer": "Deol",
-      "options": [
-        "May",
-        "365.5",
-        "Deol",
-        "Give"
-      ]
-    },
-    {
-      "blanked": "‘Could have been killed’: ______ Banerjee's vehicle attacked with ‘stones, mud’ in North 24 Parganas | India News",
-      "answer": "Mamata",
-      "options": [
-        "Compromise",
-        "Narmada",
-        "Khan",
-        "Mamata"
+        "Khameneis"
       ]
     },
     {
       "blanked": "‘You’re hit with a slam of shadow’: ______ air mission to capture rare eclipse data",
       "answer": "Nasas",
       "options": [
-        "Trumps",
+        "First",
         "Nasas",
-        "Realizing",
-        "Custody"
+        "Death",
+        "Toxic"
       ]
     },
     {
-      "blanked": "Iran Releases Undated Video Of Mojtaba Khamenei Amid ______ Rumours",
-      "answer": "Health",
+      "blanked": "10 home and kitchen appliances deals to look for during ______ Freedom Sale, from ACs to air fryers",
+      "answer": "Amazon",
       "options": [
-        "Maruti",
-        "Health",
-        "Mojtaba",
-        "May"
+        "Death",
+        "Answers",
+        "Amazon",
+        "Indian"
       ]
     },
     {
-      "blanked": "‘CoE is not merely a rehab centre’: ______ Laxman speaks out as India’s injury crisis puts BCCI facility und",
-      "answer": "VVS",
+      "blanked": "Deals: Galaxy Z Flip8 gets a discount out of the gate, Z Fold8 and Z Fold8 ______ also on sale - GSMArena.com news",
+      "answer": "Ultra",
       "options": [
-        "VVS",
-        "2031",
-        "Adhikari",
-        "Sai"
+        "Anxiety",
+        "Started",
+        "Ultra",
+        "Mamata"
       ]
     },
     {
-      "blanked": "Hidden environmental cost of powering growing digital and ______",
-      "answer": "AI-world",
+      "blanked": "HDFC Bank vs ______ The king is still standing. But the challenger is closing in",
+      "answer": "SBI",
       "options": [
-        "AI-world",
-        "Buffett",
-        "Went",
-        "Liver"
+        "Sale",
+        "Indias",
+        "SBI",
+        "Oman"
+      ]
+    },
+    {
+      "blanked": "Amid Questions Over Mojtaba Khamenei's Health, An ______ President-Supreme Leader Meet",
+      "answer": "Iran",
+      "options": [
+        "Brij",
+        "Greg",
+        "Iran",
+        "Accident"
+      ]
+    },
+    {
+      "blanked": "Allegations Against Brij Bhushan False, ______ Conspiracy: Delhi Court",
+      "answer": "Political",
+      "options": [
+        "Political",
+        "Complete",
+        "Meet",
+        "HBV"
       ]
     }
   ]
