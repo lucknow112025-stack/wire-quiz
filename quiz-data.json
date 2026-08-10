@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-10T10:02:11.383Z",
+  "generatedAt": "2026-08-10T14:34:04.516Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "Jharkhand students protest LIVE: Police use water cannons on protestors trying to march to the Assembly",
-    "Parliament Monsoon Session Day 16 LIVE: Govt is ready to discuss students' protest issue; don't run away, says Rijiju amidst heavy sloganeering",
-    "TNIE Exclusive | ‘Triple hydraulic systems failure behind AI Phuket-Delhi flight’s altitude loss’",
-    "Pakistan Army’s media wing has a song on Mecca defence pact. Be afraid of god, journalist says",
-    "Government may be going slow on FCRA to woo DMK, NCP(SP) for delimitation",
-    "TVK's state song resolution sails through with DMK, AIADMK support; Tamil Nadu CM Vijay says 'mother tongue is life' | India News",
-    "Death Count In Assam Floods Reaches 100, Nearly 1.4 Lakh Affected",
-    "Amit Shah likely to table bills to change Kerala's name, expand NCDC financing powers in Lok Sabha today | India News",
-    "Tamil Nadu Teen, 17, Wins Rs 3.55 Crore Scholarship To Study At Ivy League’s Brown University",
-    "‘Ek baar maaf kardo’: Ahmedabad rape accused seen limping, repeatedly pleading for forgiveness in video",
+    "Jharkhand Students Protest Live Updates: CID Arrests Former JPSC Chairman L Khiangte Amid Ongoing Aspirants' Protest",
+    "Amit Shah will speak on Delhi protest crackdown, but Centre has a condition",
+    "Iran says no reason to fear Pakistan-Turkey-Saudi security pact",
+    "MEA condemns defacement of Indian Embassy in Slovenia, calls for action against ‘anti-India elements’ | India News",
+    "Not turbulence: Air India A320 suffered rare flight-control event before 300-foot altitude drop",
+    "Lok Sabha Passes Tribunals Reforms Bill 2026 Without Debate",
+    "Parliament monsoon session LIVE: Rajya Sabha passes Bankers' Books Evidence Bill amid Opposition walkout | Hindustan Times",
+    "80th Independence Day: In a 1st, Vande Mataram to be sung from ramparts of Red Fort",
+    "Sheikh Hasina Extradition Comes Up During Indian Envoy's Meet With Bangladesh PM",
+    "CIK arrests two Kashmir residents over alleged radical propaganda on social media",
     "West Asia war LIVE: Iran ties Strait of Hormuz reopening to U.S. concessions on several demands",
-    "12 killed, 39 injured as Ukrainian drones strike civilian sites, oil refinery in Russia",
-    "Storms from Dolphin soak China's east, ground nearly 950 Shanghai flights",
-    "Gunman fires inside Thai government office as country reels from school shooting",
-    "Stock Market LIVE: Sensex, Nifty stuck in range; Nifty MidCap & Nifty SmallCap near 52-week high - business-standard.com",
-    "DLF’s The Dahlias penthouse goes for Rs 271 crore in Gurugram",
-    "J.P. Morgan lifts 2026-end target for S&P 500 to 8,000 on AI, earnings strength",
-    "DII equity inflows top Rs 5 trillion for third straight calendar year - business-standard.com",
-    "WhatsApp Media Sharing Issues Reported Globally, Users Affected",
-    "Goldmund's \"most advanced amplifier ever\" is packed with cutting-edge tech and costs more than a Ferrari - What Hi-Fi?",
-    "iPhone 18 BOM set for sharp jump as memory chip prices soar",
-    "iQOO Neo11 Ultra and Z11s to launch next week, design revealed - GSMArena.com news",
-    "China Box Office: 'Spider-Man: Brand New Day' Retains Crown",
-    "'Baseless, Defamatory': Amruta Khanvilkar Issues Statement Over Reports Of Separation From Himanshu Malhotra",
-    "'Na maine chumma diya, na liya': Kumar Sanu takes a playful dig at Udit Narayan's kiss row"
+    "7.4 magnitude earthquake shakes Colombia, causes injuries and significant damage to buildings",
+    "India unlikely to cut Russian crude purchases in near term despite US Senate sanctions bill",
+    "Child Among 13 Killed In One Of Deadliest Ukraine Drone Strikes In Russia",
+    "Parliament clears taxation bill, Sitharaman says UPI transactions to remain free",
+    "Adani Group 'lying brazenly' to stock exchanges: Mahua Moitra over group's alleged airline plans",
+    "₹271 crore for one penthouse: DLF's The Dahlias sets new luxury benchmark",
+    "SEBI probing August 3-4 trades during CAS to check for possible manipulation",
+    "WhatsApp down in India?: Users report problems sending photos, videos, and other media files",
+    "Apple Rumoured To Hike iPhone 18 Pro Prices",
+    "Spotify tests podcast ad skip as advertising value faces new questions",
+    "Google Drive has just shut down desktop app Photos backups - here’s what to do now",
+    "Highest Grossing Hollywood Films at the Indian Box Office: Spider Man Brand New Day Tops, The Odyssey Eighth",
+    "Thudakkam Box Office Collection Day 3: Vismaya Mohanlal Starrer Beats Sookshmadarshini To Score 2nd Biggest Opening Weekend For A Female-Led Malayalam Film",
+    "AR Rahman’s son AR Ameen meets with car accident in Chennai near Olympia Tech Park, taken to hospital wit"
   ],
   "quiz": [
     {
-      "blanked": "WhatsApp Media Sharing Issues Reported Globally, ______ Affected",
+      "blanked": "India unlikely to cut ______ crude purchases in near term despite US Senate sanctions bill",
+      "answer": "Russian",
+      "options": [
+        "Russian",
+        "Strait",
+        "Reforms",
+        "Office"
+      ]
+    },
+    {
+      "blanked": "Lok Sabha ______ Tribunals Reforms Bill 2026 Without Debate",
+      "answer": "Passes",
+      "options": [
+        "Six-Fold",
+        "Passes",
+        "Killed",
+        "Olympia"
+      ]
+    },
+    {
+      "blanked": "Highest Grossing Hollywood Films at the Indian Box Office: ______ Man Brand New Day Tops, The Odyssey Eighth",
+      "answer": "Spider",
+      "options": [
+        "Spider",
+        "Books",
+        "Strait",
+        "Reforms"
+      ]
+    },
+    {
+      "blanked": "Antiphospholipid Antibodies Linked to ______ Risks in Lupus",
+      "answer": "Pregnancy",
+      "options": [
+        "JPSC",
+        "Lupus",
+        "Pregnancy",
+        "LIVE"
+      ]
+    },
+    {
+      "blanked": "India top-order batter ruled out of ______ Lanka Tests",
+      "answer": "Sri",
+      "options": [
+        "Moitra",
+        "Opening",
+        "During",
+        "Sri"
+      ]
+    },
+    {
+      "blanked": "WhatsApp down in India?: ______ report problems sending photos, videos, and other media files",
       "answer": "Users",
       "options": [
+        "Rumoured",
+        "Beats",
         "Users",
-        "Pakistan",
-        "India",
-        "Fine"
+        "Russian"
       ]
     },
     {
-      "blanked": "China Box Office: 'Spider-Man: ______ New Day' Retains Crown",
-      "answer": "Brand",
+      "blanked": "If ______ is the instruction manual, we just opened a big second volume",
+      "answer": "DNA",
       "options": [
-        "Sensex",
-        "Brand",
-        "Market",
-        "Images"
+        "Olympia",
+        "Colombia",
+        "DNA",
+        "Without"
       ]
     },
     {
-      "blanked": "South Korea’s Danuri Orbiter Captures First Images of SpaceX Rocket’s Lunar ______",
-      "answer": "Crater",
+      "blanked": "Perseid meteor shower set to light up northern skies | ______ Sabah",
+      "answer": "Daily",
       "options": [
-        "Pakistan",
-        "Reports",
-        "Crater",
-        "Nearly"
+        "Daily",
+        "Spider",
+        "Students",
+        "Kashmir"
       ]
     },
     {
-      "blanked": "Amit Shah likely to table bills to change ______ name, expand NCDC financing powers in Lok Sabha today | India News",
-      "answer": "Keralas",
+      "blanked": "Apple ______ To Hike iPhone 18 Pro Prices",
+      "answer": "Rumoured",
       "options": [
-        "FCRA",
-        "Assembly",
-        "Keralas",
-        "Crore"
+        "Envoys",
+        "Khiangte",
+        "Rumoured",
+        "Protest"
       ]
     },
     {
-      "blanked": "Guru Randhawa asks trolls to 'calm down' amid ______ Shyt backlash: 'Silly little slang' | Bollywood",
-      "answer": "Fine",
+      "blanked": "CIK arrests two ______ residents over alleged radical propaganda on social media",
+      "answer": "Kashmir",
       "options": [
-        "Himanshu",
-        "271",
-        "Fine",
-        "Pakistan"
+        "Sri",
+        "Centre",
+        "Anil",
+        "Kashmir"
       ]
     },
     {
-      "blanked": "iPhone 18 ______ set for sharp jump as memory chip prices soar",
-      "answer": "BOM",
+      "blanked": "Iran says no reason to fear ______ security pact",
+      "answer": "Pakistan-Turkey-Saudi",
       "options": [
-        "NCPSP",
-        "Police",
-        "BOM",
-        "Crater"
+        "Pakistan-Turkey-Saudi",
+        "Evidence",
+        "ICCs",
+        "Arrests"
       ]
     },
     {
-      "blanked": "Tamil Nadu Teen, 17, Wins Rs 3.55 Crore Scholarship To Study At ______ League’s Brown University",
-      "answer": "Ivy",
+      "blanked": "‘Mujhe Narendra naam se nafrat ho gayi hai’: Narender Berwal’s Pakistan boxer story leaves PM ______ laughi",
+      "answer": "Modi",
       "options": [
-        "Affected",
-        "Tamil",
-        "FCRA",
-        "Ivy"
-      ]
-    },
-    {
-      "blanked": "Jharkhand students protest LIVE: ______ use water cannons on protestors trying to march to the Assembly",
-      "answer": "Police",
-      "options": [
-        "Images",
-        "Assembly",
-        "Police",
-        "Count"
-      ]
-    },
-    {
-      "blanked": "Goldmund's \"most advanced amplifier ever\" is packed with cutting-edge tech and costs more than a Ferrari - What ______",
-      "answer": "Hi-Fi",
-      "options": [
-        "Assembly",
-        "Hi-Fi",
-        "University",
-        "Ahmedabad"
-      ]
-    },
-    {
-      "blanked": "TVK's state song resolution sails through with DMK, ______ support; Tamil Nadu CM Vijay says 'mother tongue is life' | India News",
-      "answer": "AIADMK",
-      "options": [
-        "Box",
-        "Iran",
-        "AIADMK",
-        "Narendra"
-      ]
-    },
-    {
-      "blanked": "Jaiswal, ______ get batting practice as India beat Sri Lanka XI by six wickets in warm-up",
-      "answer": "Gill",
-      "options": [
-        "Ahmedabad",
-        "AIADMK",
-        "Gill",
-        "Crater"
-      ]
-    },
-    {
-      "blanked": "West Asia war ______ Iran ties Strait of Hormuz reopening to U.S. concessions on several demands",
-      "answer": "LIVE",
-      "options": [
-        "LIVE",
-        "Assembly",
-        "Ivy",
-        "Defamatory"
+        "Modi",
+        "Bill",
+        "Aspirants",
+        "Park"
       ]
     }
   ]
