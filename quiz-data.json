@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-10T00:03:57.600Z",
+  "generatedAt": "2026-08-10T05:11:37.253Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "All 3 JPSC members quit amid CID summons; Jharkhand Governor accepts resignations | India News",
-    "No more strikes on Iran? Trump says US going 'low key', stresses economic pressure over military op",
-    "Russia Proposes Direct Rail Line To India. Deputy PM Shares Possible Route",
-    "Iran says Oman deal is in 'final stages' but US must act to open Hormuz",
-    "Which other countries could join the Turkiye-Saudi-Pakistan defence pact?",
-    "\"Could Have Died\": Mamata Banerjee Alleges Attack On Car Near Kolkata",
+    "Jharkhand government cancels JPSC exam; protests to continue till CBI probe ordered, say students",
+    "Better Governance, Clearer Rules: India's Mythbuster On Foreign Funding Bill",
+    "Amit Shah likely to table bills to change Kerala's name, expand NCDC financing powers in Lok Sabha today | India News",
+    "Iran ties Hormuz reopening to US concessions on several demands",
+    "23-year-old on evening walk raped by apartment guard in Ahmedabad",
+    "Iran Releases Undated Video Of Mojtaba Khamenei Amid Health Rumours",
     "Allegations Against Brij Bhushan False, Political Conspiracy: Delhi Court",
-    "Rajahmundry Hit-and-run: Medico Priyanka Dies",
-    "JNU cancels discussion on Umar Khalid’s book, cites 'non-disclosure' of programme details",
-    "Day after PM Modi-Sukhbir Badal meet, SAD pledges support for women's quota, delimitation bill",
-    "Amid Questions Over Mojtaba Khamenei's Health, An Iran President-Supreme Leader Meet",
-    "Six die in Ukrainian drone attack on Belgorod, Russian authorities say",
+    "CM Vijay likely to move resolution in Assembly emphasising on mandatory rendition of ‘Tamil Thai Vazhthu’ first",
+    "'Avoid making statements that appease BJP': Venugopal to Congress leaders following Tharoor's comments",
+    "Different strokes on delimitation in Tamil Nadu, Punjab",
+    "Typhoon Dolphin: Shanghai airports cancel 1,300 flights as China evacuates thousands",
+    "Trump says US 'low-keying' talks with Iran amid deadlock on Hormuz: 'Will work out, it's like chess game' | World News",
     "US Bill to sanction Russian oil: Why it could become not just India’s, but the world’s problem",
-    "China issues red alert as Typhoon Dolphin hits its eastern coast",
-    "Lok Sabha passes bill to authorise govt to permit banks to levy charges on UPI transactions",
-    "India's Maruti sees passenger vehicle market rising to up to 6.3 mln units by 2031",
-    "Clean power push: India hits 300 GW non-fossil capacity milestone ahead of 2030 target",
-    "Upcoming IPOs: Shiprocket IPO, Dhoot Transmission IPO among new issues to open next week; full list here",
+    "5-month-old baby among 2 dead as boat capsizes near New York’s Liberty Island",
+    "GIFT Nifty signals steady start for Sensex, Nifty; Asian markets rise after Wall Street rally, oil gains",
+    "State Bank of India: Motilal Oswal retains 'Buy', target at Rs 1,370; loan growth guidance at 14-15%",
+    "Not all REIT/InvIT distributions are tax-free under new Bill: Here's why",
+    "Molbio Diagnostics IPO GMP, Grey Market Premium Today",
     "Apple iPhone 18 Pro appears on preview website, Caviar unveils five limited editions",
-    "10 home and kitchen appliances deals to look for during Amazon Freedom Sale, from ACs to air fryers",
-    "Grok Imagine Image 2.0 Gets Major AI Image Editing Upgrade, Challenges GPT Image 2",
+    "Quordle Hints Today: Monday, August 10 Clues And Answers",
+    "Grok's image tools get a professional upgrade with templates, precise editing, and an Arena number two ranking",
     "Deals: Galaxy Z Flip8 gets a discount out of the gate, Z Fold8 and Z Fold8 Ultra also on sale - GSMArena.com news",
-    "Kiara Advani Wears White Corset Top And Thigh-Slit Skirt For Toxic Trailer Launch, Internet Reacts",
-    "Filmmaker Shakeel Noorani held for rape, blackmail of aspiring actress",
-    "‘The Odyssey’ Becomes Christopher Nolan’s Highest Grossing Movie Ever At Global Box Office With $1.1B"
+    "'Spider-Man: Brand New Day' earns USD 1.67 billion worldwide in just 10 days; 'The Odyssey' sets new box",
+    "73-Year-Old Film Director Arrested For Raping Actor In Mumbai",
+    "Teen goes missing from home, travels 900 km to Mumbai to act in Taarak Mehta"
   ],
   "quiz": [
     {
-      "blanked": "US Bill to sanction Russian oil: ______ it could become not just India’s, but the world’s problem",
-      "answer": "Why",
+      "blanked": "Delhi sees nearly 6-fold rise in H1N1 cases: ______ causes, who is most at risk",
+      "answer": "Symptoms",
       "options": [
-        "Editing",
-        "Captures",
+        "Nifty",
+        "Symptoms",
+        "NCDC",
+        "Mehta"
+      ]
+    },
+    {
+      "blanked": "Different strokes on delimitation in ______ Nadu, Punjab",
+      "answer": "Tamil",
+      "options": [
         "Why",
-        "Died"
+        "Laxman",
+        "Tamil",
+        "Street"
       ]
     },
     {
-      "blanked": "Six die in Ukrainian drone attack on Belgorod, ______ authorities say",
-      "answer": "Russian",
+      "blanked": "Grok's image tools get a professional upgrade with templates, precise editing, and an ______ number two ranking",
+      "answer": "Arena",
       "options": [
-        "Tests",
-        "Rockets",
-        "President-Supreme",
-        "Russian"
+        "Arena",
+        "Indias",
+        "Director",
+        "Delhi"
       ]
     },
     {
-      "blanked": "Which other countries could join the ______ defence pact?",
-      "answer": "Turkiye-Saudi-Pakistan",
+      "blanked": "5-month-old baby among 2 dead as boat capsizes near New York’s ______ Island",
+      "answer": "Liberty",
       "options": [
-        "Court",
-        "Turkiye-Saudi-Pakistan",
-        "2.0",
-        "Yashasvi"
+        "Liberty",
+        "Street",
+        "Taarak",
+        "Mythbuster"
       ]
     },
     {
-      "blanked": "Amid Questions Over Mojtaba Khamenei's Health, An Iran President-Supreme Leader ______",
-      "answer": "Meet",
+      "blanked": "Typhoon ______ Shanghai airports cancel 1,300 flights as China evacuates thousands",
+      "answer": "Dolphin",
       "options": [
-        "Meet",
-        "India",
-        "Orbiter",
-        "SpaceX"
+        "Dolphin",
+        "Mehta",
+        "Sudharsans",
+        "August"
       ]
     },
     {
-      "blanked": "10 home and kitchen appliances deals to look for during Amazon Freedom Sale, from ______ to air fryers",
-      "answer": "ACs",
+      "blanked": "Cholesterol Won't Budge? The Issue Is Insulin Resistance in Your Liver (And 3 Ways to Reverse It Starting ______",
+      "answer": "Today",
       "options": [
-        "Hit",
-        "Governor",
-        "ACs",
-        "Anxiety"
+        "Municipal",
+        "Budge",
+        "Shami",
+        "Today"
       ]
     },
     {
-      "blanked": "Lok ______ passes bill to authorise govt to permit banks to levy charges on UPI transactions",
-      "answer": "Sabha",
+      "blanked": "CM ______ likely to move resolution in Assembly emphasising on mandatory rendition of ‘Tamil Thai Vazhthu’ first",
+      "answer": "Vijay",
       "options": [
-        "Second-Fastest",
-        "JPSC",
-        "Becomes",
-        "Sabha"
+        "Reverse",
+        "Vijay",
+        "Keralas",
+        "Symptoms"
       ]
     },
     {
-      "blanked": "India's ______ sees passenger vehicle market rising to up to 6.3 mln units by 2031",
-      "answer": "Maruti",
+      "blanked": "Jharkhand government cancels JPSC exam; protests to continue till ______ probe ordered, say students",
+      "answer": "CBI",
       "options": [
-        "Bengal",
-        "Challenges",
-        "Maruti",
-        "Khilega"
+        "Rules",
+        "CBI",
+        "Nasas",
+        "Health"
       ]
     },
     {
-      "blanked": "China issues red alert as ______ Dolphin hits its eastern coast",
-      "answer": "Typhoon",
+      "blanked": "‘You’re hit with a slam of shadow’: ______ air mission to capture rare eclipse data",
+      "answer": "Nasas",
       "options": [
-        "Typhoon",
-        "Gurnoor",
-        "Attack",
-        "Died"
+        "Nasas",
+        "August",
+        "Dravid",
+        "Ultra"
       ]
     },
     {
-      "blanked": "All 3 JPSC members quit amid CID summons; Jharkhand Governor accepts resignations | India ______",
+      "blanked": "‘Not taking up the position’: ______ Laxman reveals why he turned down India head coach job after Dravid",
+      "answer": "VVS",
+      "options": [
+        "Venugopal",
+        "Shanghai",
+        "USD",
+        "VVS"
+      ]
+    },
+    {
+      "blanked": "Trump says US 'low-keying' talks with Iran amid deadlock on Hormuz: 'Will work out, it's like chess game' | World ______",
       "answer": "News",
       "options": [
+        "Clues",
         "News",
-        "Sai",
-        "Amritsar",
-        "Brand"
+        "Grey",
+        "Arrested"
       ]
     },
     {
-      "blanked": "Kiara Advani ______ White Corset Top And Thigh-Slit Skirt For Toxic Trailer Launch, Internet Reacts",
-      "answer": "Wears",
+      "blanked": "Better Governance, Clearer Rules: India's Mythbuster On Foreign ______ Bill",
+      "answer": "Funding",
       "options": [
-        "Without",
-        "Pro",
-        "Bhushan",
-        "Wears"
-      ]
-    },
-    {
-      "blanked": "\"Could ______ Died\": Mamata Banerjee Alleges Attack On Car Near Kolkata",
-      "answer": "Have",
-      "options": [
-        "Possible",
-        "Have",
-        "Rockets",
-        "Toxic"
-      ]
-    },
-    {
-      "blanked": "Filmmaker ______ Noorani held for rape, blackmail of aspiring actress",
-      "answer": "Shakeel",
-      "options": [
-        "Meet",
-        "Line",
-        "Sudharsans",
-        "Shakeel"
+        "China",
+        "Dravid",
+        "Tests",
+        "Funding"
       ]
     }
   ]
