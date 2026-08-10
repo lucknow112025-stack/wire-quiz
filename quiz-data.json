@@ -1,152 +1,152 @@
 {
-  "generatedAt": "2026-08-10T20:05:56.300Z",
+  "generatedAt": "2026-08-10T22:10:05.780Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "Jharkhand students protest LIVE: Mahto hospitalised as health deteriorates; police lathi-charge protesters again outside Assembly",
-    "69 Killed After 7.4 Magnitude Earthquake Jolts Colombia, Situation \"Critical\"",
-    "Iran says no reason to fear Pakistan-Turkey-Saudi security pact",
+    "Colombia earthquake: at least 111 people killed; President declares emergency",
+    "Indian police fire tear gas, use batons to disperse youth protesters",
     "Trump rejects Iran’s compensation demand, says Tehran must instead pay for ‘all the people they killed’ | World News",
+    "Students Vs Congress Ally: Rahul Gandhi's NEET Playbook Faces Its Biggest Test In Jharkhand",
     "Not turbulence: Air India A320 suffered rare flight-control event before 300-foot altitude drop",
-    "Amit Shah will speak on Delhi protest crackdown, but Centre has a condition",
+    "Oil prices climb as Iranian demands cloud outlook for Strait of Hormuz",
+    "Parliament Monsoon Session 2026 LIVE Updates: Both Houses Adjourned Till 2 pm Amid Opposition Protest On Various Issues",
     "80th Independence Day: In a 1st, Vande Mataram to be sung from ramparts of Red Fort",
-    "'Diplomatic premises are inviolable': India calls for accountability after embassy property defaced in Slovenian capital",
+    "Two days after Modi-Vance call, Indian envoy to US defends FCRA Bill with a ‘reality check’",
     "Monsoon rain clouds begin to disappear as El Nino eyes a comeback over India",
-    "Bangladesh urges faster extradition of Hasina as Indian envoy meets PM Tarique | India News",
-    "Trump administration has revoked more than 175,000 visas, State Department says",
-    "12 killed, 39 injured as Ukrainian drones strike civilian sites, oil refinery in Russia",
-    "Watch: China's Long March 7A rocket explodes just 85 seconds after launch",
-    "Who is Iran's Mohsen Rezaei, the hardliner appointed to key security role?",
+    "Oman steps up efforts to contain oil spill in Dhofar; no impact on desalination plants",
+    "‘We have no one’: Palestinians react to Israel’s rejection of Gaza plan",
+    "Indian professionals to face higher H-1B, L-1 costs under new US immigration rule",
+    "Over 1 million evacuated as Typhoon Dolphin hits eastern China; 1,400 Shanghai flights cancelled",
     "Parliament clears taxation bill: FM Sitharaman says UPI will remain free; no framework on MDR yet",
     "Vodafone Idea Q1: Revenue rises 6% YoY to ₹11,689 crore; ARPU jumps 10.2% to ₹195 — key highlights",
     "No govt policy restricts airport operators from operating airlines: Union Min Murlidhar Mohol",
-    "Stock Market Highlights: Nifty, Sensex End Marginally Higher As Losses In SBI, RIL Offset Gains In Bajaj Finance, Titan",
+    "Who is Manav Sardana, entrepreneur who bought ₹271 crore penthouse at DLF’s The Dahlias? | Trending",
     "TrendForce: 256GB iPhone 18 Pro BOM Runs ~38% Above iPhone 17 Pro as Memory Share Hits 34%",
-    "Report: Samsung is increasing the Galaxy Z Fold8 production target for this year by 1 million units - GSMArena.com news",
-    "I finally got the Chrome customization I've been waiting for on Android",
-    "iQOO Z11S sneaks in with a 10,000mAh battery while its Neo 11 Extreme Edition sibling steals the spotlight",
+    "Samsung Rushes More Galaxy Z Fold 8s Before iPhone Fold Release",
+    "How to Watch Made by Google, the Pixel 11 and Watch 5 Event",
+    "iQOO Neo11 Ultra and Z11s to launch next week, design revealed - GSMArena.com news",
     "Highest Grossing Hollywood Films at the Indian Box Office: Spider Man Brand New Day Tops, The Odyssey Eighth",
-    "Shehnaaz Gill accidentally swallows nose ring while shooting on set; actor Saurabh Sachdeva rushes to hel",
+    "Rohit Sharma to debut with his own show, Ajay Devgn to host Crime Patrol and Madhuri Dixit on KBC Marathi: Know more | Hindustan Times",
     "SCOOP: Akshay Kumar to play Rajesh Khanna in Farhan Akhtar and Neeraj Pandeys R D Burman biopic"
   ],
   "quiz": [
     {
-      "blanked": "Jharkhand students protest LIVE: ______ hospitalised as health deteriorates; police lathi-charge protesters again outside Assembly",
-      "answer": "Mahto",
+      "blanked": "Solar eclipse tracker: What time will it hit your location on ______ 12?",
+      "answer": "August",
       "options": [
-        "Sensex",
-        "Mahto",
-        "Brand",
-        "7.4"
+        "August",
+        "Strait",
+        "Planet",
+        "Check"
       ]
     },
     {
-      "blanked": "Monsoon rain clouds begin to disappear as El Nino eyes a comeback over ______",
-      "answer": "India",
+      "blanked": "Highest Grossing Hollywood Films at the Indian Box Office: Spider Man Brand New Day ______ The Odyssey Eighth",
+      "answer": "Tops",
       "options": [
-        "India",
-        "Reports",
-        "Offset",
-        "Pregnancy"
+        "Tops",
+        "Know",
+        "Adjourned",
+        "Opposition"
       ]
     },
     {
-      "blanked": "Shehnaaz Gill accidentally swallows nose ring while shooting on set; actor Saurabh ______ rushes to hel",
-      "answer": "Sachdeva",
+      "blanked": "Rare Cosmic Quadruple: Planet Parade, Solar Eclipse And Meteor Shower To ______ On August 12",
+      "answer": "Align",
       "options": [
-        "Check",
-        "Cships",
-        "Sachdeva",
-        "Hindustan"
-      ]
-    },
-    {
-      "blanked": "Report: Samsung is increasing the ______ Z Fold8 production target for this year by 1 million units - GSMArena.com news",
-      "answer": "Galaxy",
-      "options": [
-        "Hollywood",
-        "Ive",
-        "RIL",
-        "Galaxy"
-      ]
-    },
-    {
-      "blanked": "Delhi Reports Nearly Six-Fold Rise in H1N1 ______",
-      "answer": "Cases",
-      "options": [
-        "Sitharaman",
-        "Six-Fold",
-        "Cases",
-        "Grossing"
-      ]
-    },
-    {
-      "blanked": "Iran says no reason to fear ______ security pact",
-      "answer": "Pakistan-Turkey-Saudi",
-      "options": [
-        "Hollywood",
-        "Shah",
-        "Pakistan-Turkey-Saudi",
-        "Neeraj"
-      ]
-    },
-    {
-      "blanked": "Landmark Cosmic Survey ______ the Accelerating Expansion of the Universe",
-      "answer": "Maps",
-      "options": [
-        "Crime",
+        "Updates",
         "Maps",
-        "Murlidhar",
-        "End"
+        "Align",
+        "Irans"
       ]
     },
     {
-      "blanked": "Trump rejects ______ compensation demand, says Tehran must instead pay for ‘all the people they killed’ | World News",
-      "answer": "Irans",
+      "blanked": "Oil prices climb as ______ demands cloud outlook for Strait of Hormuz",
+      "answer": "Iranian",
       "options": [
-        "Irans",
-        "Cships",
-        "Crime",
-        "Union"
+        "Prriya",
+        "Iranian",
+        "Championships",
+        "Eighth"
       ]
     },
     {
-      "blanked": "'Diplomatic premises are inviolable': ______ calls for accountability after embassy property defaced in Slovenian capital",
-      "answer": "India",
+      "blanked": "The ______ of COVID-19 Influencing the Development of Vaccines",
+      "answer": "Effects",
       "options": [
-        "India",
+        "Idea",
         "Neeraj",
-        "Ganguly",
-        "Critical"
+        "Fold",
+        "Effects"
       ]
     },
     {
-      "blanked": "Rohit Sharma to debut with his own show, ______ Devgn to host Crime Patrol and Madhuri Dixit on KBC Marathi: Know more | Hindustan Times",
-      "answer": "Ajay",
+      "blanked": "SCOOP: Akshay Kumar to play Rajesh Khanna in Farhan ______ and Neeraj Pandeys R D Burman biopic",
+      "answer": "Akhtar",
       "options": [
-        "LIVE",
-        "Jolts",
-        "175000",
-        "Ajay"
-      ]
-    },
-    {
-      "blanked": "80th ______ Day: In a 1st, Vande Mataram to be sung from ramparts of Red Fort",
-      "answer": "Independence",
-      "options": [
-        "Bajaj",
-        "Independence",
-        "Brand",
+        "Akhtar",
+        "Meteor",
+        "Iranian",
         "Burman"
       ]
     },
     {
-      "blanked": "High jumper Pooja, women’s 4x400m team disappoint; India end ______ Athletics U20 Championships with 3 medals",
-      "answer": "World",
+      "blanked": "TrendForce: 256GB iPhone 18 Pro BOM Runs ______ Above iPhone 17 Pro as Memory Share Hits 34%",
+      "answer": "38%",
       "options": [
-        "World",
-        "Market",
-        "Revenue",
+        "Athletics",
+        "38%",
+        "Both",
+        "Google"
+      ]
+    },
+    {
+      "blanked": "Not turbulence: ______ India A320 suffered rare flight-control event before 300-foot altitude drop",
+      "answer": "Air",
+      "options": [
+        "Air",
+        "Hormuz",
+        "Issues",
+        "Trending"
+      ]
+    },
+    {
+      "blanked": "80th Independence Day: In a 1st, Vande Mataram to be sung from ramparts of Red ______",
+      "answer": "Fort",
+      "options": [
+        "Congress",
+        "President",
+        "Crime",
+        "Fort"
+      ]
+    },
+    {
+      "blanked": "Rohit ______ to debut with his own show, Ajay Devgn to host Crime Patrol and Madhuri Dixit on KBC Marathi: Know more | Hindustan Times",
+      "answer": "Sharma",
+      "options": [
+        "Sharma",
+        "Eighth",
+        "Rahul",
+        "Ultra"
+      ]
+    },
+    {
+      "blanked": "Antiphospholipid Antibodies Linked to Pregnancy ______ in Lupus",
+      "answer": "Risks",
+      "options": [
+        "Risks",
+        "Burman",
+        "Akhtar",
+        "Eshpuniyani"
+      ]
+    },
+    {
+      "blanked": "Samsung Rushes More Galaxy Z Fold 8s Before iPhone Fold ______",
+      "answer": "Release",
+      "options": [
+        "Above",
+        "Release",
+        "Health",
         "Tests"
       ]
     }
