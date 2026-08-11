@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-11T20:26:18.923Z",
+  "generatedAt": "2026-08-11T22:26:55.067Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "Air India captain's confirmatory drug test positive for marijuana, source says",
+    "Phuket-Delhi Flight's Pilot Smoked Marijuana, Failed 2 Dope Tests: Sources",
     "Iran, US set new conditions during Hormuz talks: What does this mean?",
     "Centre eyes consensus on sending foreign funding bill to JPC amid demands for complete withdrawal | India News",
-    "‘Trump, Modi have good working relations; will work it out’: US official amid 100% tarrif threat",
-    "Colombia quake: Frantic search for survivors as over 2,700 reported missing",
     "‘Are you a staunch Hindu, do you eat non-veg food?’ Ram Temple CEO candidates asked to fill Google form | India News",
-    "Jharkhand students' protests LIVE: Over 100 ABVP workers detained during march to Assembly over police action on students",
+    "‘Trump, Modi have good working relations; will work it out’: US official amid 100% tariff threat",
+    "Supreme Court Seeks Union's Response On Plea For CBI Probe Against Fake Advocates & Curbs On Monetisation ...",
+    "Jharkhand students' protests updates: Over 100 ABVP workers detained during march to Assembly over police action on students",
     "\"Extremely Unhygienic\": Raid Exposes Filth In Zepto's Bengaluru Warehouse",
     "President Murmu gives assent to Vande Mataram Bill, grants it same legal protection as National Anthem | India News",
     "Amit Shah to make statement on Delhi protest crackdown, Opposition must not disrupt: Government",
     "Trump secretly flew out of Turkiye after NATO summit because of Iran threat: report",
     "What are Saudi Arabia, Turkiye and Pakistan’s joint military capabilities?",
-    "Syria sentences former president Bashar al-Assad to death over killings, torture",
-    "Hormuz to stay closed unless US meets Iran's conditions, Iran official says",
-    "July AMFI Data: MF Industry Bounces Back As Debt Funds Lead Charge, Active Equity Inflow Dips",
-    "Stock Market Close: Sensex falls 388 pts, Nifty settles at 24,472; FMCG, realty, cement shares weigh",
+    "Trump promises 'a great cheeseburger' to marine veteran freed from Russian prison",
+    "Syria's Ex-President Bashar Al-Assad Sentenced To Death For Crimes Against Humanity",
+    "Equity mutual fund inflows fall 15% to Rs 24,697 crore in July; smallcaps lead inflows",
+    "Sudhir Sitapati resigns as Godrej Consumer Products MD & CEO, Aasif Malbari to take over",
     "Wall Street ends down as US-Iran peace optimism fades",
-    "India's Vodafone Idea reaffirms three-year growth targets, $4.7 billion capex plan",
+    "Stock Market Close: Sensex falls 388 pts, Nifty settles at 24,472; FMCG, realty, cement shares weigh",
+    "iPhone 18 Pro BOM cost estimated to be up by 40% - GSMArena.com news",
+    "Google Pixel 11 Series Launch Set for August 12: 4 New Pixel Phones Expected With Tensor G6 and Major AI Upgrades",
+    "iQOO Z11 Launching With AI Features Under ₹40K",
     "Someone ported Microsoft Word from 1990 onto x64 systems, and you can download it right now",
-    "Apple is bracing for an iPhone 18 shortage due to a global memory shortage",
-    "Google Pixel 11 Pro XL appears on Geekbench as hands-on images of the Pro leak - GSMArena.com news",
-    "Amazfit gains FTMS rowing and manual swim rest tracking",
-    "Box Office: Awarapan 2 fights it out for showcasing against Batwara 1947 - Strong advances & distribution help the cause",
+    "Video of actor Vikram with Lar Gibbon: Tamil Nadu Forest Department probes",
     "‘Mirzapur: The Movie’ trailer out: Kaleen Bhaiya, Munna Bhaiya and Guddu Pandit return for bigger fight f",
-    "'Jana Nayagan' box office collection day 19: Vijay and Pooja Hegde starrer takes a lead over Suriya's 'Ka"
+    "Box Office: Awarapan 2 fights it out for showcasing against Batwara 1947 - Strong advances & distribution help the cause"
   ],
   "quiz": [
     {
-      "blanked": "India's Vodafone Idea reaffirms three-year growth targets, ______ billion capex plan",
-      "answer": "4.7",
+      "blanked": "'Jana Nayagan' box office collection day 19: Vijay and Pooja ______ starrer takes a lead over Suriya's 'Ka",
+      "answer": "Hegde",
       "options": [
-        "4.7",
-        "Shah",
-        "Messi",
-        "Movie"
+        "Hegde",
+        "Google",
+        "Solar",
+        "Mourinhos"
       ]
     },
     {
-      "blanked": "‘Are you a staunch Hindu, do you eat non-veg food?’ Ram Temple ______ candidates asked to fill Google form | India News",
-      "answer": "CEO",
+      "blanked": "Centre eyes consensus on sending foreign funding bill to JPC amid demands for complete withdrawal | ______ News",
+      "answer": "India",
       "options": [
-        "CEO",
-        "Suriyas",
-        "Among",
-        "Data"
+        "India",
+        "Hindu",
+        "Doctors",
+        "Pooja"
       ]
     },
     {
-      "blanked": "Hormuz to stay closed unless US meets ______ conditions, Iran official says",
-      "answer": "Irans",
+      "blanked": "What are Saudi ______ Turkiye and Pakistan’s joint military capabilities?",
+      "answer": "Arabia",
       "options": [
-        "Opposition",
-        "Hormuz",
-        "Irans",
-        "Batwara"
+        "100",
+        "Arabia",
+        "Mataram",
+        "Temple"
       ]
     },
     {
-      "blanked": "Box Office: Awarapan 2 fights it out for showcasing against ______ 1947 - Strong advances & distribution help the cause",
-      "answer": "Batwara",
+      "blanked": "Indian Investment Has Given SA20 ______ Life', Says Chris Morris",
+      "answer": "Absolute",
       "options": [
-        "Batwara",
-        "What",
-        "Word",
-        "Idea"
+        "Tensor",
+        "Advocates",
+        "Absolute",
+        "Assembly"
+      ]
+    },
+    {
+      "blanked": "Syria's Ex-President Bashar Al-Assad Sentenced To Death For Crimes Against ______",
+      "answer": "Humanity",
+      "options": [
+        "Iran",
+        "FMCG",
+        "Humanity",
+        "Consumer"
       ]
     },
     {
       "blanked": "India's ______ reports spike in H1N1 cases: media",
       "answer": "Delhi",
       "options": [
-        "Molecular",
-        "Iran",
+        "Sir",
         "Delhi",
-        "Bengaluru"
+        "Failed",
+        "Ferguson"
       ]
     },
     {
-      "blanked": "\"Extremely Unhygienic\": Raid Exposes Filth In Zepto's Bengaluru ______",
-      "answer": "Warehouse",
+      "blanked": "President Murmu gives assent to ______ Mataram Bill, grants it same legal protection as National Anthem | India News",
+      "answer": "Vande",
       "options": [
-        "Warehouse",
-        "Liverpool",
-        "Infections",
-        "Vande"
+        "Vande",
+        "Gibbon",
+        "Alex",
+        "Pro"
       ]
     },
     {
-      "blanked": "Solar eclipse 2026: Where will it be visible in ______",
-      "answer": "MENA",
+      "blanked": "Ebola deaths top ______ as scientists race to develop vaccine",
+      "answer": "2000",
       "options": [
-        "Has",
-        "24472",
-        "Iran",
-        "MENA"
+        "2000",
+        "5.6",
+        "Series",
+        "Messi"
       ]
     },
     {
-      "blanked": "Google Pixel 11 Pro XL appears on ______ as hands-on images of the Pro leak - GSMArena.com news",
-      "answer": "Geekbench",
+      "blanked": "Cricketer ______ Porel arrested on charges of rape; devices seized",
+      "answer": "Abhishek",
       "options": [
-        "Geekbench",
-        "Workers",
-        "Data",
-        "Delhi"
+        "Temple",
+        "Ahead",
+        "Lar",
+        "Abhishek"
       ]
     },
     {
-      "blanked": "Someone ported Microsoft Word from ______ onto x64 systems, and you can download it right now",
-      "answer": "1990",
+      "blanked": "Video of actor Vikram with Lar Gibbon: Tamil Nadu ______ Department probes",
+      "answer": "Forest",
       "options": [
-        "Given",
+        "Forest",
+        "Al-Assad",
+        "JPC",
+        "Utd"
+      ]
+    },
+    {
+      "blanked": "Jharkhand students' protests updates: Over 100 ______ workers detained during march to Assembly over police action on students",
+      "answer": "ABVP",
+      "options": [
+        "Turkiye",
+        "Government",
         "1990",
-        "Workers",
-        "Lead"
+        "ABVP"
       ]
     },
     {
-      "blanked": "Wall ______ ends down as US-Iran peace optimism fades",
-      "answer": "Street",
+      "blanked": "‘Trump, Modi have good working relations; will work it out’: US official amid ______ tariff threat",
+      "answer": "100%",
       "options": [
-        "Street",
-        "Sports",
-        "388",
-        "Porel"
-      ]
-    },
-    {
-      "blanked": "Cricketer Abhishek ______ arrested on charges of rape; devices seized",
-      "answer": "Porel",
-      "options": [
-        "Pixel",
-        "Back",
-        "Porel",
-        "Unhygienic"
-      ]
-    },
-    {
-      "blanked": "President Murmu gives assent to Vande Mataram Bill, grants it same legal protection as National Anthem | ______ News",
-      "answer": "India",
-      "options": [
-        "Industry",
-        "India",
-        "Movie",
-        "Shift"
+        "Google",
+        "Rise",
+        "100%",
+        "Sitapati"
       ]
     }
   ]
