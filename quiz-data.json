@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-11T14:47:02.762Z",
+  "generatedAt": "2026-08-11T18:07:03.000Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "Pilot Of Flight That Suddenly Dropped 300 Feet Fails 2nd Dope Test: Sources",
-    "'Cowards': Congress on Amit Shah's 'no show ' in Lok Sabha, Rijiju hits back | India News",
-    "Syria court sentences ousted ruler Bashar al-Assad to death in absentia | World News",
-    "Government may be going slow on FCRA to woo DMK, NCP(SP) for delimitation",
+    "Air India captain's confirmatory drug test positive for marijuana, source says",
+    "Assessing ramifications of new defence pact between Pak, Türkiye and Saudi: MEA | India News",
+    "Centre eyes consensus on sending foreign funding bill to JPC amid demands for complete withdrawal | India News",
+    "Today is Balochistan's Independence Day? Does that mean anything?",
     "President Murmu gives assent to Vande Mataram Bill, grants it same legal protection as National Anthem | India News",
-    "BJP asks Congress to withdraw support to Hemant Soren govt. in Jharkhand; Rahul Gandhi slams police action",
-    "Bengaluru hotel horror: Father checked into 5-star with girls, they are dead",
-    "'State Of Border Will Reflect State of Ties': India Warns China On Arunachal",
-    "PM Modi, Amit Shah attend NDA’s ‘Mangal Milan’ meet, wave Tiranga",
-    "SIR may shrink Hyderabad voter list by 40 pc as 19 lakh flagged",
-    "Iran, US set new conditions during Hormuz talks: What does this mean?",
-    "Baloch leader urges global recognition of Balochistan's independence; doubles down on Pak atrocities",
-    "Massive Colombia earthquake triggers frantic search for missing as death toll tops 100",
-    "Yemen’s Houthis launch ballistic missile attacks on al-Makha and Marib",
-    "Fitch affirms India’s sovereign rating at BBB-, retains stable outlook",
-    "AI can do for lending what UPI did for payments, RBI Governor Sanjay Malhotra says",
+    "'Do you wear a janeu, eat non-veg food?' Ram Temple CEO candidates asked to fill Google form | India News",
+    "Jharkhand students' protests LIVE: Over 100 ABVP workers detained during march to Assembly over police action on students",
+    "Speeding BMW runs over woman in Delhi, villagers block road near T-3 terminal",
+    "Parliament Monsoon Session Day 17 updates: Rajya Sabha passes Tribunals Reforms Bill; LS passes Bill to rename Kerala as 'Keralam'",
+    "India news Highlights, 11 August 2026 | Gurugram-Delhi traffic: Heavy vehicles barred from entry during Independence Day",
+    "Colombia quake: Frantic search for survivors as over 2,700 reported missing",
+    "Syria's Ex-President Bashar Al-Assad Sentenced To Death For Crimes Against Humanity",
+    "Trump secretly flew out of Turkiye after NATO summit because of Iran threat: report",
+    "US Fires On Ship Attempting To Break Iran Blockade, Amid Several Regional Maritime Attacks",
+    "July AMFI Data: MF Industry Bounces Back As Debt Funds Lead Charge, Active Equity Inflow Dips",
     "Stock Market Close: Sensex falls 388 pts, Nifty settles at 24,472; FMCG, realty, cement shares weigh",
-    "Intel Increases Size of Stock Offering to Raise $20 Billion",
-    "Third-generation foldable iPhone said to feature larger displays - GSMArena.com news",
-    "Modder crams Steam Deck hardware inside a GameBoy chassis, creating the SteamBoy",
-    "iPhone 18 Pro Will Reportedly Start With 256GB of Storage",
-    "Made by Google 2026: Pixel 11 series, Watch 5 and Pixel Tag — what to expect",
-    "Farhan Akhtar takes a dig at Ranveer Singh’s exit from Don 3: ‘A pattern nowadays’",
-    "Kangana Ranaut slams Naseeruddin Shah after Piyush Mishra's reaction to his 'dog' comment: 'Woh iss desh",
-    "Jana Nayagan Box Office Collections: Thalapathy Vijay starrer adds Rs 7.25 crore in 3rd weekend, grosses Rs 223 crore in 17 days"
+    "Meta Unveils AI Model 'Muse Glimmer' That Can Run On Personal Computers",
+    "Wall St inches lower as tech drags, US-Iran peace optimism fades",
+    "Someone ported Microsoft Word from 1990 onto x64 systems, and you can download it right now",
+    "Apple is bracing for an iPhone 18 shortage due to a global memory shortage",
+    "Amazfit gains FTMS rowing and manual swim rest tracking",
+    "Google teases the Pixel 11 Pro in new video - GSMArena.com news",
+    "‘Mirzapur: The Movie’ trailer out: Kaleen Bhaiya, Munna Bhaiya and Guddu Pandit return for bigger fight f",
+    "Box Office: Awarapan 2 takes an advance leading Batwara 1947 BUT showcasing going other way",
+    "Farhan Akhtar takes a dig at Ranveer Singh’s exit from Don 3: ‘A pattern nowadays’"
   ],
   "quiz": [
     {
-      "blanked": "Yemen’s ______ launch ballistic missile attacks on al-Makha and Marib",
-      "answer": "Houthis",
+      "blanked": "Colombia quake: ______ search for survivors as over 2,700 reported missing",
+      "answer": "Frantic",
       "options": [
-        "Houthis",
-        "Feet",
-        "Sabha",
-        "Araujo"
+        "Iran",
+        "Rise",
+        "Turkiye",
+        "Frantic"
       ]
     },
     {
-      "blanked": "Bengaluru hotel horror: ______ checked into 5-star with girls, they are dead",
-      "answer": "Father",
+      "blanked": "President ______ gives assent to Vande Mataram Bill, grants it same legal protection as National Anthem | India News",
+      "answer": "Murmu",
       "options": [
-        "Nifty",
-        "Father",
-        "Chelsea",
-        "Perseid"
+        "Balochistans",
+        "Pixel",
+        "Murmu",
+        "Sri"
       ]
     },
     {
-      "blanked": "Farhan Akhtar takes a dig at Ranveer Singh’s exit from ______ 3: ‘A pattern nowadays’",
-      "answer": "Don",
+      "blanked": "Trump secretly flew out of Turkiye after NATO summit because of ______ threat: report",
+      "answer": "Iran",
       "options": [
-        "Woh",
-        "Bridge",
+        "Iran",
+        "Muse",
+        "BUT",
+        "Batwara"
+      ]
+    },
+    {
+      "blanked": "'Do you wear a janeu, eat non-veg food?' Ram Temple CEO candidates asked to fill Google form | ______ News",
+      "answer": "India",
+      "options": [
+        "Dips",
+        "Balochistans",
+        "Kerala",
+        "India"
+      ]
+    },
+    {
+      "blanked": "Air ______ captain's confirmatory drug test positive for marijuana, source says",
+      "answer": "India",
+      "options": [
+        "Awarapan",
+        "India",
+        "Google",
+        "2026"
+      ]
+    },
+    {
+      "blanked": "US Fires On Ship Attempting To Break ______ Blockade, Amid Several Regional Maritime Attacks",
+      "answer": "Iran",
+      "options": [
+        "Unveils",
+        "Liverpool",
+        "Al-Assad",
+        "Iran"
+      ]
+    },
+    {
+      "blanked": "India news Highlights, 11 ______ 2026 | Gurugram-Delhi traffic: Heavy vehicles barred from entry during Independence Day",
+      "answer": "August",
+      "options": [
+        "August",
+        "Temple",
+        "Break",
+        "Morris"
+      ]
+    },
+    {
+      "blanked": "Meta Unveils AI Model 'Muse ______ That Can Run On Personal Computers",
+      "answer": "Glimmer",
+      "options": [
+        "Glimmer",
+        "Active",
         "Don",
-        "Start"
+        "ABVP"
       ]
     },
     {
-      "blanked": "Baloch leader urges global recognition of Balochistan's independence; doubles down on ______ atrocities",
-      "answer": "Pak",
+      "blanked": "Solar eclipse 2026: ______ will it be visible in MENA?",
+      "answer": "Where",
       "options": [
-        "Pak",
-        "Box",
-        "Rahul",
-        "Tiranga"
+        "Gurugram-Delhi",
+        "Keralam",
+        "Where",
+        "Accelerating"
       ]
     },
     {
-      "blanked": "BJP asks Congress to withdraw support to ______ Soren govt. in Jharkhand; Rahul Gandhi slams police action",
-      "answer": "Hemant",
+      "blanked": "Araujo pens farewell message to ______ fans after Liverpool move: 'Time to face a new challenge'",
+      "answer": "Barcelona",
       "options": [
+        "Assembly",
         "Vande",
-        "Hemant",
-        "Pixel",
-        "Steam"
+        "Batwara",
+        "Barcelona"
       ]
     },
     {
-      "blanked": "Arsenal star offered to Chelsea and Man ______ as transfer stance takes surprise twist",
-      "answer": "United",
+      "blanked": "Amazfit gains ______ rowing and manual swim rest tracking",
+      "answer": "FTMS",
       "options": [
-        "Feet",
-        "223",
-        "Ranaut",
-        "United"
-      ]
-    },
-    {
-      "blanked": "SIR may shrink ______ voter list by 40 pc as 19 lakh flagged",
-      "answer": "Hyderabad",
-      "options": [
-        "What",
-        "Hyderabad",
-        "Offering",
-        "Dragon"
-      ]
-    },
-    {
-      "blanked": "India's ______ reports spike in H1N1 cases: media",
-      "answer": "Delhi",
-      "options": [
-        "Pixel",
-        "Flight",
-        "Cup",
-        "Delhi"
-      ]
-    },
-    {
-      "blanked": "Will ______ shooting stars be visible during the Aug. 12 total solar eclipse?",
-      "answer": "Perseid",
-      "options": [
-        "Perseid",
-        "Gandhi",
-        "Pixel",
-        "Kidney"
-      ]
-    },
-    {
-      "blanked": "President Murmu gives assent to Vande Mataram Bill, grants it same legal protection as National Anthem | India ______",
-      "answer": "News",
-      "options": [
-        "Risk",
-        "Dope",
+        "FTMS",
+        "Bill",
         "News",
-        "Indias"
+        "Barcelona"
       ]
     },
     {
-      "blanked": "Kangana Ranaut slams Naseeruddin ______ after Piyush Mishra's reaction to his 'dog' comment: 'Woh iss desh",
-      "answer": "Shah",
+      "blanked": "Today is Balochistan's Independence Day? ______ that mean anything?",
+      "answer": "Does",
       "options": [
-        "Shah",
-        "BBB-",
-        "Kidney",
-        "Malhotra"
-      ]
-    },
-    {
-      "blanked": "Pilot Of Flight That Suddenly Dropped 300 Feet Fails 2nd Dope ______ Sources",
-      "answer": "Test",
-      "options": [
-        "Test",
-        "Houthis",
-        "Feet",
-        "Reportedly"
+        "NATO",
+        "Does",
+        "Muse",
+        "Session"
       ]
     }
   ]
