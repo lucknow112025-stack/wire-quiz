@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-10T23:59:28.938Z",
+  "generatedAt": "2026-08-11T04:51:13.980Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "Oil Surges With No Hormuz Deal in Sight",
-    "111 Killed After 7.4 Magnitude Earthquake Jolts Colombia, Situation \"Critical\"",
-    "Indian police fire tear gas, use batons to disperse youth protesters",
-    "Trump rejects Iran’s compensation demand, says Tehran must instead pay for ‘all the people they killed’ | World News",
-    "Amit Shah will speak on Delhi protest crackdown, but Centre has a condition",
-    "Not turbulence: Air India A320 suffered rare flight-control event before 300-foot altitude drop",
-    "80th Independence Day: In a 1st, Vande Mataram to be sung from ramparts of Red Fort",
-    "Weather LIVE Updates: Delhi Crosses August Rainfall Average In First 8 Days",
-    "Two days after Modi-Vance call, Indian envoy to US defends FCRA Bill with a ‘reality check’",
-    "'Everyone Has Right To Choose Medical Care' : Supreme Court Gives Abhishek Banerjee Foreign Travel...",
+    "At least 69 killed as earthquake of magnitude 7.4 shakes Colombia; tremors felt in Ecuador too | World News",
+    "US court ends all criminal charges against Gautam Adani, Sagar Adani and associate Vneet Jaain | Hindustan Times",
+    "Trump Hid In Food Truck, Used Military Jet To Leave Turkey Amid Iran Threat",
+    "BJP asks Congress to withdraw support to hemant Soren govt; Rahul Gandhi slams police action",
+    "Dope test of turbulent Air India flight’s pilot ‘not negative’, sent for confirmation, says government",
+    "Trump declares Strait of Hormuz 'open now'; says only US Navy has control over it",
+    "Monsoon Session: Govt offers Amit Shah statement in Parliament, opposition doesn't relent",
+    "'New Parliament, PM house, why not new govt schools in villages?' CJP's Dipke announces nationwide campa",
+    "Bengaluru Man Books 5-Star Hotel Room, Kills 2 Children, Attempts Suicide",
+    "'Vande Mataram' To Be Sung At Red Fort On I-Day For 1st Time. Here's Why",
+    "'3 Flags, 1 Heart': Pak Anthem For Saudi-Turkey Defence Pact Sparks Ridicule",
+    "‘We’re reducing them’: Trump targets childhood vaccine schedule, pushes separate MMR jabs",
+    "‘Compulsive addiction to sanctions’: Iran mocks Trump admin's ‘suffocating’ threat",
     "Trump's Gaza plan hinges on Hamas disarmament, Israeli withdrawals",
-    "More than 175,000 visas revoked so far in Trump's second term: Majority due to criminal activities, DUI",
-    "Typhoon Dolphin triggers heavy rainfall in China, but is choking India’s monsoon. Here’s how",
-    "Child among 13 killed as Ukraine launches one of the deadliest attacks on Russian oil-refining city | World News",
-    "Parliament clears taxation bill: FM Sitharaman says UPI will remain free; no framework on MDR yet",
-    "No govt policy restricts airport operators from operating airlines: Union Min Murlidhar Mohol",
-    "Vodafone Idea Q1: Revenue rises 6% YoY to ₹11,689 crore; ARPU jumps 10.2% to ₹195 — key highlights",
+    "BSE to replace Wipro in India's benchmark Nifty 50 index",
     "Stock Market Highlights: Nifty, Sensex End Marginally Higher As Losses In SBI, RIL Offset Gains In Bajaj Finance, Titan",
+    "Ahead of Market: 10 things that will decide stock market action on Tuesday",
+    "Indian central bank likely intervenes to support rupee, traders say",
+    "Today’s NYT Strands Hints, Answers and Help for Aug. 11 #891",
     "iPhone 18 Pro BOM cost estimated to be up by 40% - GSMArena.com news",
     "Samsung Rushes More Galaxy Z Fold 8s Before iPhone Fold Release",
-    "Google is turning things up to 11 in latest Pixel 11 Pro teaser",
-    "iQOO Z11S sneaks in with a 10,000mAh battery while its Neo 11 Extreme Edition sibling steals the spotlight",
+    "The Pixel 11 Pro XL Geekbench score barely beats the Pixel 10 Pro",
+    "Sunita Ahuja reacts to Govinda’s new co-star Komal: ‘Vinash Kaale, Vipreet Buddhi’",
     "Highest Grossing Hollywood Films at the Indian Box Office: Spider Man Brand New Day Tops, The Odyssey Eighth",
-    "Ajay Devgn steps in as the new host of Crime Patrol; Replaces Anup Soni, shoots 15 episodes",
-    "SCOOP: Akshay Kumar to play Rajesh Khanna in Farhan Akhtar and Neeraj Pandeys R D Burman biopic"
+    "Brad Pitt reveals he is 'NOT SOBER'; admits being 'suicidal' amid 'family stuff' with ex-wife Angelina Jo"
   ],
   "quiz": [
     {
-      "blanked": "iQOO Z11S sneaks in with a 10,000mAh battery while its Neo 11 Extreme ______ sibling steals the spotlight",
-      "answer": "Edition",
+      "blanked": "BJP asks Congress to withdraw support to hemant Soren govt; Rahul ______ slams police action",
+      "answer": "Gandhi",
       "options": [
-        "Shah",
-        "Dixit",
-        "Rushes",
-        "Edition"
+        "891",
+        "Gandhi",
+        "NYT",
+        "Highlights"
       ]
     },
     {
-      "blanked": "WHO says Congo's fast-moving ______ outbreak started months before it was declared",
-      "answer": "Ebola",
+      "blanked": "The Effects of COVID-19 Influencing the Development of ______",
+      "answer": "Vaccines",
       "options": [
-        "Grossing",
-        "Ebola",
-        "Oncologist",
-        "Planet"
+        "Cup",
+        "Hamas",
+        "Iran",
+        "Vaccines"
+      ]
+    },
+    {
+      "blanked": "Monsoon Session: Govt offers Amit Shah statement in ______ opposition doesn't relent",
+      "answer": "Parliament",
+      "options": [
+        "Ecuador",
+        "Parliament",
+        "Heres",
+        "Help"
+      ]
+    },
+    {
+      "blanked": "Bengaluru Man Books 5-Star Hotel Room, Kills 2 ______ Attempts Suicide",
+      "answer": "Children",
+      "options": [
+        "Parliament",
+        "Children",
+        "SBI",
+        "7.4"
+      ]
+    },
+    {
+      "blanked": "BSE to replace ______ in India's benchmark Nifty 50 index",
+      "answer": "Wipro",
+      "options": [
+        "Eshpuniyani",
+        "Wipro",
+        "Indias",
+        "Hormuz"
+      ]
+    },
+    {
+      "blanked": "Sourav Ganguly, wife ______ receive death threats; Kolkata Police begin probe",
+      "answer": "Dona",
+      "options": [
+        "Ronald",
+        "Dona",
+        "Leave",
+        "Losses"
+      ]
+    },
+    {
+      "blanked": "WHO says ______ fast-moving Ebola outbreak started months before it was declared",
+      "answer": "Congos",
+      "options": [
+        "Congos",
+        "Threat",
+        "Adani",
+        "Brand"
+      ]
+    },
+    {
+      "blanked": "Rashid stars in tense win to secure Afghanistan's World ______ spot",
+      "answer": "Cup",
+      "options": [
+        "Influencing",
+        "Room",
+        "40%",
+        "Cup"
+      ]
+    },
+    {
+      "blanked": "India top-order batter ruled out of ______ Lanka Tests",
+      "answer": "Sri",
+      "options": [
+        "Gautam",
+        "Sri",
+        "Komal",
+        "Gaza"
       ]
     },
     {
       "blanked": "iPhone 18 ______ BOM cost estimated to be up by 40% - GSMArena.com news",
       "answer": "Pro",
       "options": [
-        "Release",
-        "Colombia",
-        "More",
-        "Pro"
+        "Galaxy",
+        "Air",
+        "Pro",
+        "When"
       ]
     },
     {
-      "blanked": "Weather LIVE Updates: ______ Crosses August Rainfall Average In First 8 Days",
-      "answer": "Delhi",
+      "blanked": "'Vande Mataram' To Be Sung At Red Fort On I-Day For 1st Time. ______ Why",
+      "answer": "Heres",
       "options": [
-        "Replaces",
-        "Delhi",
-        "Meteor",
-        "Madhuri"
+        "Grossing",
+        "Heres",
+        "Titan",
+        "I-Day"
       ]
     },
     {
-      "blanked": "Amit ______ will speak on Delhi protest crackdown, but Centre has a condition",
-      "answer": "Shah",
+      "blanked": "Samsung ______ More Galaxy Z Fold 8s Before iPhone Fold Release",
+      "answer": "Rushes",
       "options": [
-        "Shah",
-        "Market",
-        "Tops",
-        "Patrol"
-      ]
-    },
-    {
-      "blanked": "Oil Surges With No ______ Deal in Sight",
-      "answer": "Hormuz",
-      "options": [
-        "Hormuz",
-        "Ebola",
-        "Survey",
-        "Hindustan"
-      ]
-    },
-    {
-      "blanked": "Antiphospholipid ______ Linked to Pregnancy Risks in Lupus",
-      "answer": "Antibodies",
-      "options": [
-        "Ajay",
-        "Irans",
-        "Antibodies",
-        "Patrol"
-      ]
-    },
-    {
-      "blanked": "More than 175,000 visas revoked so far in ______ second term: Majority due to criminal activities, DUI",
-      "answer": "Trumps",
-      "options": [
-        "More",
-        "Care",
-        "Trumps",
-        "Critical"
-      ]
-    },
-    {
-      "blanked": "Child among 13 killed as Ukraine launches one of the deadliest attacks on Russian oil-refining city | ______ News",
-      "answer": "World",
-      "options": [
-        "World",
-        "Align",
-        "Market",
-        "Fort"
-      ]
-    },
-    {
-      "blanked": "Highest Grossing ______ Films at the Indian Box Office: Spider Man Brand New Day Tops, The Odyssey Eighth",
-      "answer": "Hollywood",
-      "options": [
-        "Box",
-        "Hollywood",
-        "Sensex",
-        "Align"
-      ]
-    },
-    {
-      "blanked": "Landmark ______ Survey Maps the Accelerating Expansion of the Universe",
-      "answer": "Cosmic",
-      "options": [
-        "Vande",
-        "First",
-        "Cosmic",
-        "Red"
-      ]
-    },
-    {
-      "blanked": "NASA reschedules upcoming spacewalks after bizarre CO2 readings from Anil Menon's suit: ______ new dates",
-      "answer": "Check",
-      "options": [
-        "Gives",
-        "China",
-        "Antibodies",
-        "Check"
+        "Ahuja",
+        "Rushes",
+        "Ganguly",
+        "Tops"
       ]
     }
   ]
