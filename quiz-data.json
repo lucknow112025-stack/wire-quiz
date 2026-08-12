@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-12T18:40:53.573Z",
+  "generatedAt": "2026-08-12T21:25:33.529Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "Air India Downplayed Phuket Plane Failures With 'Turbulence'? What Documents Say",
     "Cash discovery case: Charges against Justice Yashwant Varma “proved”, says Lok Sabha panel",
-    "'Praise Be To Allah': Trump Says US May Keep Control Of Hormuz As Iran Conflict Hits Dead End",
+    "Iran knew Trump's hotel floor, targeted his aircraft during Nato summit: Report",
     "Karnataka Cabinet: On the eve of Monsoon Session, portfolios finally allocated",
-    "US must return to interim deal, no ceasefire extension talks, senior Iranian source says",
-    "‘Jantar-Mantar Season 2 soon': CJP founder Abhijeet Dipke hints at fresh protest plans",
-    "Lok Sabha Refers FCRA Amendment Bill 2026 To JPC",
-    "Mumbai landslip updates: Bodies of seven deceased taken from Rajawadi Hospital; victims identified",
-    "Karnataka bans sale of gutka, pan masala containing tobacco or nicotine for one year",
+    "Air India Downplayed Phuket Plane Failures With 'Turbulence'? What Documents Say",
+    "Iran says no progress on reviving interim peace deal with US",
+    "Karnataka bandh on August 13: What will remain open? Which services will be affected? Check full list",
+    "Centre softens stance on FCRA Bill following appeals by minority groups",
+    "Licences Of 3 Domino's Pizza Outlets In Mumbai Suspended Over Hygiene Issues",
     "Woman out for a drive with friend gangraped by 6 in Cuttack",
-    "Trump says he slipped away from Air Force One in Turkey due to threat",
-    "Former Chinese Premier Zhu Rongji, who pushed reforms and India ties, dies of illness at 98",
-    "'Imran Khan no longer with us': Noted Pakistani journalist makes big claim, cites 'military sources'",
-    "Trump aide says he got ‘firebombed’ by India over remarks against its Russian oil purchases: ‘Don't do that’ | India News",
-    "Tata Group Chairman N Chandrasekaran to step down in February",
+    "Jharkhand: 200 ABVP activists detained during march against lathi-charge on protesters",
+    "'Praise Be To Allah, I Think We'll Keep It': Trump Says US Has Total Control Of Hormuz",
+    "Total solar eclipse Aug. 12, 2026 live updates",
+    "Trump announces Karoline Leavitt’s exit as White House press secretary",
+    "Former Chinese Premier Zhu Rongji, who pushed reforms and India ties, dies of illness at 97",
+    "Tata Sons Had Several Chairmen. Why N Chandrasekaran, Cyrus Mistry Stood Out",
     "BofA to take 49.9% stake in Jio Credit for $1.9 billion in India push",
-    "Stock Market Close: Sensex extends losses to 2nd day, drops 188 pts; Nifty ends at 24,436",
+    "India’s inflation accelerates to 4.45% in July, raising hopes of a rate hike later this year",
     "India’s Yulu raises $93M as quick-commerce boom fuels e-bike demand",
     "Here is how much the new Pixel 11 phones cost - GSMArena.com news",
-    "Apple Skipping iPhone 18 Launch This Year",
-    "Sonos Ace Ultra headphones could be on the horizon",
-    "Thousands of new free movies and TV shows are now on demand via Google TV Freeplay - Pocket-lint",
+    "The solar eclipse is today, but don't take photos of it with your phone",
+    "Apple iPhone 18 said to get surprising design upgrade, with more RAM also coming to iPhone 18e",
+    "Google TV Freeplay adds on-demand library with 10,000-plus titles",
     "Anupama Parameswaran says she faced narcissistic abuse for 2 years in a relationship: ‘I was shrinking’ | Hindustan Times",
     "Ranbir responds to criticism of 'Ramayana': 'People are mistaking it for AI after watching the trailer on p...",
-    "Ali Fazal on Jitendra Kumar joining the franchise ‘Mirzapur: The Movie’: 'Shuru majboori mein kiye the le"
+    "Batwara 1947 advance booking opens ahead of August 14 release"
   ],
   "quiz": [
     {
-      "blanked": "Karnataka ______ On the eve of Monsoon Session, portfolios finally allocated",
-      "answer": "Cabinet",
+      "blanked": "Cash discovery case: Charges against Justice Yashwant Varma “proved”, says Lok ______ panel",
+      "answer": "Sabha",
       "options": [
-        "Cabinet",
-        "Amendment",
-        "Cases",
-        "Google"
-      ]
-    },
-    {
-      "blanked": "Team led by ______ scientists predicts ‘petal-like’ structures in Sun’s corona during eclipse",
-      "answer": "RRI",
-      "options": [
-        "RRI",
-        "Cabinet",
-        "Google",
-        "Test"
-      ]
-    },
-    {
-      "blanked": "Cash discovery case: Charges against Justice Yashwant ______ “proved”, says Lok Sabha panel",
-      "answer": "Varma",
-      "options": [
-        "Varma",
-        "Launch",
-        "Vikram",
-        "AASC"
-      ]
-    },
-    {
-      "blanked": "Former Chinese Premier Zhu Rongji, who pushed reforms and ______ ties, dies of illness at 98",
-      "answer": "India",
-      "options": [
-        "Yulu",
-        "Downplayed",
-        "India",
-        "Hospital"
-      ]
-    },
-    {
-      "blanked": "Ali Fazal on Jitendra Kumar joining the franchise ‘Mirzapur: The Movie’: ______ majboori mein kiye the le",
-      "answer": "Shuru",
-      "options": [
-        "Pakistani",
-        "Keep",
-        "Highlights",
-        "Shuru"
-      ]
-    },
-    {
-      "blanked": "Air India Downplayed Phuket Plane Failures With 'Turbulence'? What ______ Say",
-      "answer": "Documents",
-      "options": [
-        "Yulu",
-        "FCRA",
-        "People",
-        "Documents"
-      ]
-    },
-    {
-      "blanked": "Trump says he slipped away from ______ Force One in Turkey due to threat",
-      "answer": "Air",
-      "options": [
-        "Sri",
-        "Air",
+        "Think",
         "May",
-        "Hospital"
+        "Sabha",
+        "Cabinet"
       ]
     },
     {
-      "blanked": "Hours after Gautam Gambhir's visit to ______ lawn mower hits the pitch",
-      "answer": "Galle",
+      "blanked": "Tata Sons Had Several Chairmen. ______ N Chandrasekaran, Cyrus Mistry Stood Out",
+      "answer": "Why",
       "options": [
-        "Group",
-        "Galle",
-        "Abhijeet",
-        "Ramayana"
+        "Lok",
+        "Billion",
+        "Gautam",
+        "Why"
       ]
     },
     {
-      "blanked": "Trump aide says he got ‘firebombed’ by India over remarks against its Russian oil purchases: ‘Don't do that’ | ______ News",
-      "answer": "India",
+      "blanked": "Centre softens stance on ______ Bill following appeals by minority groups",
+      "answer": "FCRA",
       "options": [
-        "India",
-        "Shuru",
-        "Pocket-lint",
-        "Ramayana"
+        "Australian",
+        "1.9",
+        "FCRA",
+        "Had"
       ]
     },
     {
-      "blanked": "Stock Market ______ Sensex extends losses to 2nd day, drops 188 pts; Nifty ends at 24,436",
-      "answer": "Close",
+      "blanked": "WHO aims to reverse DR Congo ______ outbreak in 3 months",
+      "answer": "Ebola",
       "options": [
-        "Keep",
-        "Millions",
-        "Close",
-        "Monsoon"
+        "Plane",
+        "Ebola",
+        "Bangladesh",
+        "Sleep"
       ]
     },
     {
-      "blanked": "Sarfaraz Khan or Dhruv ______ India's no. 6 dilemma takes centre stage ahead of Sri Lanka Test",
-      "answer": "Jurel",
+      "blanked": "Apple iPhone 18 said to get surprising design upgrade, with more ______ also coming to iPhone 18e",
+      "answer": "RAM",
       "options": [
-        "Chandrasekaran",
-        "Cases",
+        "Check",
         "Charges",
-        "Jurel"
+        "Turbulence",
+        "RAM"
       ]
     },
     {
-      "blanked": "Anupama ______ says she faced narcissistic abuse for 2 years in a relationship: ‘I was shrinking’ | Hindustan Times",
-      "answer": "Parameswaran",
+      "blanked": "Woman out for a drive with friend gangraped by 6 in ______",
+      "answer": "Cuttack",
       "options": [
-        "Apnoea",
-        "Parameswaran",
-        "End",
-        "Kumar"
+        "Map",
+        "House",
+        "Cuttack",
+        "World"
+      ]
+    },
+    {
+      "blanked": "East Bengal vs Al-Arabi Highlights, AFC Champions League Two Preliminary Knockout: EBFC 4-1 ______ Red and Gold Brigade advances",
+      "answer": "AASC",
+      "options": [
+        "AASC",
+        "Downplayed",
+        "Rongji",
+        "Credit"
+      ]
+    },
+    {
+      "blanked": "Google TV ______ adds on-demand library with 10,000-plus titles",
+      "answer": "Freeplay",
+      "options": [
+        "Several",
+        "League",
+        "Downplayed",
+        "Freeplay"
+      ]
+    },
+    {
+      "blanked": "BofA to take 49.9% stake in ______ Credit for $1.9 billion in India push",
+      "answer": "Jio",
+      "options": [
+        "Total",
+        "Hormuz",
+        "Jio",
+        "Pizza"
+      ]
+    },
+    {
+      "blanked": "Trump announces Karoline ______ exit as White House press secretary",
+      "answer": "Leavitts",
+      "options": [
+        "Leavitts",
+        "AFC",
+        "Stood",
+        "India"
+      ]
+    },
+    {
+      "blanked": "Total solar eclipse Aug. 12, ______ live updates",
+      "answer": "2026",
+      "options": [
+        "AFC",
+        "People",
+        "Rise",
+        "2026"
+      ]
+    },
+    {
+      "blanked": "Air India Downplayed Phuket ______ Failures With 'Turbulence'? What Documents Say",
+      "answer": "Plane",
+      "options": [
+        "AFC",
+        "200",
+        "Plane",
+        "Documents"
       ]
     }
   ]
