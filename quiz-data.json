@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-12T05:12:30.618Z",
+  "generatedAt": "2026-08-12T09:37:09.563Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "'I go by Secret Service, military': Trump confirms switching planes in Turkey over Iran threat",
-    "Air India captain's confirmatory drug test positive for marijuana, source says",
-    "2 dead, several feared trapped after landslide in Mumbai's Kurla following heavy rain | India News",
+    "Parliament monsoon session Day 18 LIVE: Amit Shah says ready to discuss students' protests, asks Oppn. to let House function",
+    "5 dead, 6 injured after landslide in Mumbai's Kurla following heavy rain | India News",
     "Trump aide says he got ‘firebombed’ by India over remarks against its Russian oil purchases: ‘Don't do that’ | India News",
-    "Police use teargas on young Indians as government jobs protest escalates",
-    "Centre eyes consensus on sending foreign funding bill to JPC amid demands for complete withdrawal | India News",
-    "2.5-year-old among 2 dead in Mumbai’s Ville Parle building fire",
-    "Abhishek Malhan pledges to rebuild Hanuman temple damaged in Assam floods, raises ₹20 lakh. Watch | Hindustan Times",
+    "FCRA amendments: What the new bill proposes, and why it has sparked pushback | Hindustan Times",
+    "Trump says his plane faced 'greater risk' in secret flight change",
     "‘Are you a staunch Hindu, do you eat non-veg food?’ Ram Temple CEO candidates asked to fill Google form | India News",
-    "Inquiry committee report on Justice Varma to be tabled in Lok Sabha on August 12",
+    "Air India Pilot's Behaviour Erratic, Had To Be Helped For Dope Test: New Revelations",
+    "Jharkhand students' protests updates: Over 100 ABVP workers detained during march to Assembly over police action on students",
+    "Justice Yashwant Varma Inquiry Report To Be Tabled In Lok Sabha Today",
+    "Karnataka schools likely to stay open on Aug 13 as KAMS withdraws bandh closure call",
+    "One dead, 172 rescued after Indonesian ferry from Bali catches fire",
+    "West Asia war LIVE: Pakistan says Interior Minister in Iran to discuss regional security",
+    "\"I'm Just Pregnant\": Woman Who Went Viral At Trump Event Responds To \"Weirdos\"",
     "Death Count In 7.4-Magnitude Earthquake In Colombia Rises To 240",
-    "West Asia war LIVE: U.S. helicopter fired on ship that tried to break Iran ports blockade",
-    "Syria sentences former president Bashar al-Assad to death over killings, torture",
-    "Middle East standoff: Why Gulf states may accept that Iran will control the Strait of Hormuz",
+    "Tata Sons Chairman Unexpectedly Resigns Before Shareholder Vote",
     "Stock markets decline in early trade as elevated crude oil prices weigh on sentiment",
-    "Chair of India's Tata Sons may step down ahead amid tensions with Tata Trusts, source says",
-    "Is China about to lose the US data centre fibre market? 2 Indian stocks stand to gain",
-    "Rupee retreats to near two-week low as US-Iran standoff pushes oil higher",
-    "Apple is bracing for an iPhone 18 shortage due to a global memory shortage",
+    "Oracle Plans Fresh Layoffs After Cutting 21,000 Jobs Earlier This Year: Report",
+    "Oil prices rise as attacks dent hopes for Strait of Hormuz reopening",
     "Leak claims Pixel 11 features a 10.8MP telephoto camera, lacks RGB notification LED - GSMArena.com news",
-    "Samsung to add 1 million Galaxy Z Fold8 units as foldable demand surges",
-    "iQOO Neo 11 Ultra Full Specifications Leak Ahead of August 18 Launch",
+    "iPhone 18 Pro Launch: Apple Model Could Cost More; Rumours Point To Bigger Battery, Camera Upgrades",
+    "Lenovo unveils its next gaming tablet's AnTuTu score while a rumor reveals its battery capacity - GSMArena.com news",
+    "I finally got the Chrome customization I've been waiting for on Android",
+    "Akshay Kumar reveals why Priyadarshan's ‘Haiwaan’ marks his first truly evil role, calls it his biggest a",
     "Video of actor Vikram with Lar Gibbon: Tamil Nadu Forest Department probes",
-    "Thudakkam Box Office Collection Day 4: All Set To Surpass Pallichattambi and Enter Top 10 Highest Mollywood Grossers of 2026",
-    "Atif Aslam tells Indian fans ‘I miss you guys’ after 10-year ban; says restrictions helped him discover h"
+    "Mallika Sherawat says Tom Cruise has a crush on her: ‘Mere paas phone hota toh videos dikhaati uske’ | Web Series"
   ],
   "quiz": [
     {
-      "blanked": "'I would be very worried': Former ______ Lankan cricketer names India's biggest weapon",
-      "answer": "Sri",
+      "blanked": "Akshay Kumar reveals why Priyadarshan's ______ marks his first truly evil role, calls it his biggest a",
+      "answer": "Haiwaan",
       "options": [
-        "Sri",
-        "Hindu",
-        "Full",
-        "Indian"
-      ]
-    },
-    {
-      "blanked": "Rupee retreats to near two-week low as ______ standoff pushes oil higher",
-      "answer": "US-Iran",
-      "options": [
-        "LED",
-        "Gut",
-        "US-Iran",
-        "Vikram"
-      ]
-    },
-    {
-      "blanked": "Syria sentences former president ______ al-Assad to death over killings, torture",
-      "answer": "Bashar",
-      "options": [
-        "Rodriguez",
-        "Bashar",
-        "Indian",
+        "Indias",
+        "Colombia",
+        "Haiwaan",
         "Google"
       ]
     },
     {
-      "blanked": "Air ______ captain's confirmatory drug test positive for marijuana, source says",
+      "blanked": "Converging this week: ______ eclipse, meteor shower",
+      "answer": "Solar",
+      "options": [
+        "What",
+        "Weirdos",
+        "Solar",
+        "Revelations"
+      ]
+    },
+    {
+      "blanked": "Video of actor Vikram with Lar ______ Tamil Nadu Forest Department probes",
+      "answer": "Gibbon",
+      "options": [
+        "Fresh",
+        "Gibbon",
+        "Bali",
+        "Sherawat"
+      ]
+    },
+    {
+      "blanked": "10-Year Thyroid Cancer Outcomes Support ______ Ablation",
+      "answer": "Microwave",
+      "options": [
+        "Microwave",
+        "Bangladesh",
+        "Priyadarshans",
+        "Cancer"
+      ]
+    },
+    {
+      "blanked": "Oracle Plans Fresh Layoffs After Cutting ______ Jobs Earlier This Year: Report",
+      "answer": "21000",
+      "options": [
+        "Web",
+        "Could",
+        "Yashwant",
+        "21000"
+      ]
+    },
+    {
+      "blanked": "Cristiano Ronaldo announces marriage to ______ Rodriguez in Portugal",
+      "answer": "Georgina",
+      "options": [
+        "Georgina",
+        "Cost",
+        "Count",
+        "Weirdos"
+      ]
+    },
+    {
+      "blanked": "ACB confirms dates for ______ T20Is after BCCI greenlight",
+      "answer": "Delhi",
+      "options": [
+        "Delhi",
+        "Ranaut",
+        "Republic",
+        "Rodriguez"
+      ]
+    },
+    {
+      "blanked": "Trump aide says he got ‘firebombed’ by ______ over remarks against its Russian oil purchases: ‘Don't do that’ | India News",
       "answer": "India",
       "options": [
-        "Forest",
-        "Count",
-        "Box",
+        "RGB",
+        "Lar",
+        "Republic",
         "India"
       ]
     },
     {
-      "blanked": "Cristiano Ronaldo and Georgina ______ tie the knot after 10 years",
-      "answer": "Rodriguez",
+      "blanked": "Ebola outbreak in the Democratic Republic of ______ is now the second-largest ever",
+      "answer": "Congo",
       "options": [
-        "Rodriguez",
-        "Galaxy",
-        "Pallichattambi",
-        "East"
-      ]
-    },
-    {
-      "blanked": "Leak claims ______ 11 features a 10.8MP telephoto camera, lacks RGB notification LED - GSMArena.com news",
-      "answer": "Pixel",
-      "options": [
-        "Trusts",
-        "Pixel",
-        "Service",
-        "Surpass"
-      ]
-    },
-    {
-      "blanked": "Atif Aslam tells ______ fans ‘I miss you guys’ after 10-year ban; says restrictions helped him discover h",
-      "answer": "Indian",
-      "options": [
-        "Indian",
-        "Ville",
-        "Tata",
-        "JPC"
+        "Forest",
+        "Helped",
+        "Russian",
+        "Congo"
       ]
     },
     {
       "blanked": "Long Covid: ______ immune system struggling to clear virus, study finds",
       "answer": "Gut",
       "options": [
-        "Shower",
+        "Trump",
         "Gut",
-        "Ville",
-        "Top"
+        "Woman",
+        "Aug"
       ]
     },
     {
-      "blanked": "Lung cancer is not only about smoking: ______ explains the risks hiding in your air, home and daily routine",
-      "answer": "Doctor",
+      "blanked": "'Eats Here But...': Kangana Ranaut Jabs Naseeruddin Shah Over ______ Remark",
+      "answer": "Dog",
       "options": [
-        "Specifications",
-        "Grossers",
-        "Kumar",
-        "Doctor"
+        "Dog",
+        "Web",
+        "Jurel",
+        "Plans"
       ]
     },
     {
-      "blanked": "Haiwaan teaser to release on August 12, makers share new posters featuring ______ Kumar, Saif Ali Khan",
-      "answer": "Akshay",
+      "blanked": "Tata Sons Chairman Unexpectedly ______ Before Shareholder Vote",
+      "answer": "Resigns",
       "options": [
-        "Akshay",
-        "Watch",
-        "US-Iran",
-        "Gujarat"
-      ]
-    },
-    {
-      "blanked": "Middle East standoff: Why Gulf states may accept that ______ will control the Strait of Hormuz",
-      "answer": "Iran",
-      "options": [
-        "Specifications",
-        "Ali",
-        "Iran",
-        "Mollywood"
-      ]
-    },
-    {
-      "blanked": "iQOO Neo 11 Ultra ______ Specifications Leak Ahead of August 18 Launch",
-      "answer": "Full",
-      "options": [
-        "Enter",
-        "Full",
-        "Gulf",
-        "2026"
+        "Resigns",
+        "Colombia",
+        "CEO",
+        "Cancer"
       ]
     }
   ]
