@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-12T15:32:05.422Z",
+  "generatedAt": "2026-08-12T18:40:53.573Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
     "Air India Downplayed Phuket Plane Failures With 'Turbulence'? What Documents Say",
-    "Iran knew Trump's hotel floor, targeted his aircraft during Nato summit: Report",
-    "Lok Sabha Inquiry Committee Indicts Justice Yashwant Varma, Says No Explanation For Huge Cash Bundles At...",
-    "Karnataka Cabinet: On the eve of Monsoon session, the portfolios are finally allocated",
-    "Amit Shah sets condition for debate on student protests, Rahul Gandhi says 'not interested' | India News",
-    "'BJP threatening to hang Delhi hall owners upside down': Dipke's big claim after cancelled meet | India News",
+    "Cash discovery case: Charges against Justice Yashwant Varma “proved”, says Lok Sabha panel",
+    "'Praise Be To Allah': Trump Says US May Keep Control Of Hormuz As Iran Conflict Hits Dead End",
+    "Karnataka Cabinet: On the eve of Monsoon Session, portfolios finally allocated",
+    "US must return to interim deal, no ceasefire extension talks, senior Iranian source says",
+    "‘Jantar-Mantar Season 2 soon': CJP founder Abhijeet Dipke hints at fresh protest plans",
+    "Lok Sabha Refers FCRA Amendment Bill 2026 To JPC",
+    "Mumbai landslip updates: Bodies of seven deceased taken from Rajawadi Hospital; victims identified",
     "Karnataka bans sale of gutka, pan masala containing tobacco or nicotine for one year",
-    "Mumbai landslip LIVE: Seven dead, seven injured; Mayor announces aid for victims",
-    "PM Modi urges youth to read autobiographies, warns against shortcut culture of reels and social media",
-    "‘Delete posts, apologise’: Bengal CM Adhikari orders action over derogatory posts about Netaji",
-    "Iran says no progress on reviving interim peace deal with US",
-    "Former Chinese Premier Zhu Rongji dies of illness at 98",
-    "'I'm their banker': Trump says US controls Iran's frozen assets as he threatens economic or military acti",
-    "‘Imran Khan no longer with us’: Pak journalist cites '3 military sources' to claim ex-PM may be dead....",
+    "Woman out for a drive with friend gangraped by 6 in Cuttack",
+    "Trump says he slipped away from Air Force One in Turkey due to threat",
+    "Former Chinese Premier Zhu Rongji, who pushed reforms and India ties, dies of illness at 98",
+    "'Imran Khan no longer with us': Noted Pakistani journalist makes big claim, cites 'military sources'",
+    "Trump aide says he got ‘firebombed’ by India over remarks against its Russian oil purchases: ‘Don't do that’ | India News",
     "Tata Group Chairman N Chandrasekaran to step down in February",
-    "Higher oil, fall in Tata stocks drag Indian shares lower; inflation data in focus",
-    "India’s inflation accelerates to 4.45% in July, raising hopes of a rate hike later this year",
-    "Breaking: US CPI inflation softens to 3.4% in July as expected",
-    "Pixel 11 camera gets new main sensors, 'Camera Looks,' 'Instant Night Sight,' and much more",
-    "Sonos Ace Ultra headphones could be on the horizon",
+    "BofA to take 49.9% stake in Jio Credit for $1.9 billion in India push",
+    "Stock Market Close: Sensex extends losses to 2nd day, drops 188 pts; Nifty ends at 24,436",
+    "India’s Yulu raises $93M as quick-commerce boom fuels e-bike demand",
+    "Here is how much the new Pixel 11 phones cost - GSMArena.com news",
     "Apple Skipping iPhone 18 Launch This Year",
-    "The Google Pixel Watch 5 will come in a Stephen Curry edition - GSMArena.com news",
-    "Akshay Kumar reveals why Priyadarshan's ‘Haiwaan’ marks his first truly evil role, calls it his biggest a",
-    "Ravi Kishan's wife wants to lock him in a room: 'Na yeh niklenge na yeh viral honge'",
-    "Mallika Sherawat says Tom Cruise has a crush on her: ‘Mere paas phone hota toh videos dikhaati uske’ | Web Series"
+    "Sonos Ace Ultra headphones could be on the horizon",
+    "Thousands of new free movies and TV shows are now on demand via Google TV Freeplay - Pocket-lint",
+    "Anupama Parameswaran says she faced narcissistic abuse for 2 years in a relationship: ‘I was shrinking’ | Hindustan Times",
+    "Ranbir responds to criticism of 'Ramayana': 'People are mistaking it for AI after watching the trailer on p...",
+    "Ali Fazal on Jitendra Kumar joining the franchise ‘Mirzapur: The Movie’: 'Shuru majboori mein kiye the le"
   ],
   "quiz": [
     {
-      "blanked": "Pixel 11 camera gets new main sensors, 'Camera Looks,' 'Instant ______ Sight,' and much more",
-      "answer": "Night",
+      "blanked": "Karnataka ______ On the eve of Monsoon Session, portfolios finally allocated",
+      "answer": "Cabinet",
       "options": [
-        "Cardiovascular",
-        "Night",
-        "CPI",
-        "Chinese"
-      ]
-    },
-    {
-      "blanked": "Karnataka Cabinet: On the eve of ______ session, the portfolios are finally allocated",
-      "answer": "Monsoon",
-      "options": [
-        "Mayor",
-        "Engagement",
-        "Monsoon",
-        "Tom"
-      ]
-    },
-    {
-      "blanked": "Lok Sabha Inquiry Committee Indicts Justice Yashwant Varma, Says No Explanation For Huge ______ Bundles At...",
-      "answer": "Cash",
-      "options": [
-        "Sherawat",
-        "Cash",
-        "Pixel",
-        "Huge"
-      ]
-    },
-    {
-      "blanked": "‘Delete posts, apologise’: Bengal CM ______ orders action over derogatory posts about Netaji",
-      "answer": "Adhikari",
-      "options": [
-        "Adhikari",
-        "Yashs",
-        "3.4%",
-        "Seven"
-      ]
-    },
-    {
-      "blanked": "Total solar eclipse Aug. 12, ______ live updates",
-      "answer": "2026",
-      "options": [
-        "2026",
-        "How",
-        "Ace",
-        "Phuket"
-      ]
-    },
-    {
-      "blanked": "Argentina star ______ not certain to play “much longer” after father’s death",
-      "answer": "Messi",
-      "options": [
-        "Cruise",
-        "Messi",
-        "Varma",
-        "Committee"
-      ]
-    },
-    {
-      "blanked": "Breaking: US CPI inflation softens to ______ in July as expected",
-      "answer": "3.4%",
-      "options": [
-        "Plane",
-        "Yashwant",
-        "3.4%",
-        "Year"
-      ]
-    },
-    {
-      "blanked": "Iran knew Trump's hotel floor, targeted his aircraft during ______ summit: Report",
-      "answer": "Nato",
-      "options": [
-        "Chairman",
-        "Nato",
-        "Rahul",
+        "Cabinet",
+        "Amendment",
+        "Cases",
         "Google"
       ]
     },
     {
-      "blanked": "'I'm their banker': Trump says US controls ______ frozen assets as he threatens economic or military acti",
-      "answer": "Irans",
+      "blanked": "Team led by ______ scientists predicts ‘petal-like’ structures in Sun’s corona during eclipse",
+      "answer": "RRI",
       "options": [
-        "Past",
-        "Trump",
-        "Irans",
-        "Web"
+        "RRI",
+        "Cabinet",
+        "Google",
+        "Test"
       ]
     },
     {
-      "blanked": "'BJP threatening to hang Delhi hall owners upside down': Dipke's big claim after cancelled meet | ______ News",
+      "blanked": "Cash discovery case: Charges against Justice Yashwant ______ “proved”, says Lok Sabha panel",
+      "answer": "Varma",
+      "options": [
+        "Varma",
+        "Launch",
+        "Vikram",
+        "AASC"
+      ]
+    },
+    {
+      "blanked": "Former Chinese Premier Zhu Rongji, who pushed reforms and ______ ties, dies of illness at 98",
       "answer": "India",
       "options": [
-        "Table",
+        "Yulu",
+        "Downplayed",
         "India",
-        "Indian",
-        "Federation"
+        "Hospital"
       ]
     },
     {
-      "blanked": "Sports ministry suspends Table ______ Federation of India recognition over governance issues",
-      "answer": "Tennis",
+      "blanked": "Ali Fazal on Jitendra Kumar joining the franchise ‘Mirzapur: The Movie’: ______ majboori mein kiye the le",
+      "answer": "Shuru",
       "options": [
-        "Engagement",
-        "Tennis",
-        "Justice",
-        "Wife"
+        "Pakistani",
+        "Keep",
+        "Highlights",
+        "Shuru"
       ]
     },
     {
-      "blanked": "Amit Shah sets condition for debate on student protests, Rahul Gandhi says 'not interested' | India ______",
-      "answer": "News",
+      "blanked": "Air India Downplayed Phuket Plane Failures With 'Turbulence'? What ______ Say",
+      "answer": "Documents",
       "options": [
-        "Forget",
-        "News",
-        "Suns",
-        "Gandhi"
+        "Yulu",
+        "FCRA",
+        "People",
+        "Documents"
+      ]
+    },
+    {
+      "blanked": "Trump says he slipped away from ______ Force One in Turkey due to threat",
+      "answer": "Air",
+      "options": [
+        "Sri",
+        "Air",
+        "May",
+        "Hospital"
+      ]
+    },
+    {
+      "blanked": "Hours after Gautam Gambhir's visit to ______ lawn mower hits the pitch",
+      "answer": "Galle",
+      "options": [
+        "Group",
+        "Galle",
+        "Abhijeet",
+        "Ramayana"
+      ]
+    },
+    {
+      "blanked": "Trump aide says he got ‘firebombed’ by India over remarks against its Russian oil purchases: ‘Don't do that’ | ______ News",
+      "answer": "India",
+      "options": [
+        "India",
+        "Shuru",
+        "Pocket-lint",
+        "Ramayana"
+      ]
+    },
+    {
+      "blanked": "Stock Market ______ Sensex extends losses to 2nd day, drops 188 pts; Nifty ends at 24,436",
+      "answer": "Close",
+      "options": [
+        "Keep",
+        "Millions",
+        "Close",
+        "Monsoon"
+      ]
+    },
+    {
+      "blanked": "Sarfaraz Khan or Dhruv ______ India's no. 6 dilemma takes centre stage ahead of Sri Lanka Test",
+      "answer": "Jurel",
+      "options": [
+        "Chandrasekaran",
+        "Cases",
+        "Charges",
+        "Jurel"
+      ]
+    },
+    {
+      "blanked": "Anupama ______ says she faced narcissistic abuse for 2 years in a relationship: ‘I was shrinking’ | Hindustan Times",
+      "answer": "Parameswaran",
+      "options": [
+        "Apnoea",
+        "Parameswaran",
+        "End",
+        "Kumar"
       ]
     }
   ]
