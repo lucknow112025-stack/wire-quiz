@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-13T15:34:14.089Z",
+  "generatedAt": "2026-08-13T18:41:28.050Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "Dope Test For All Air India Pilots After Captain Found Positive For Marijuana",
-    "Akali Dal chief Sukhbir Badal attacked in Maharashtra’s Nanded; one held",
-    "Parliament Monsoon Session highlights: 'Very successful' in terms of business as 12 Bills passed, Rijiju says as session draws to close",
-    "BREAKING| No NALSAR Graduate Of 2026 Will Be Enrolled As Advocate, Says BCI Chairman After Students'...",
+    "No NALSAR Graduate Of 2026 Will Be Enrolled As Advocate, Says BCI Chairman After Students' Campaign...",
+    "Akali Dal chief Badal attacked in Maharashtra’s Nanded; party demands CBI probe",
+    "Air India to test all pilots for banned substances",
+    "CIA doubted Israeli intel on threat to Trump before Turkey plane switch: Report | World News",
+    "6 workers trapped, 16 rescued as debris, water enter tunnel in Uttarakhand's Chamoli after landslide | India News",
     "Turkey lays out plans for defence pact with Pakistan and Saudi Arabia",
-    "Karnataka bandh LIVE updates: Shutdown call withdrawn after Kannada activists meet CM DK Shivakumar | Hindustan Times",
-    "Nurse found dead under mysterious circumstances in hospital washroom during night shift in Kolkata",
-    "Bengal Withdraws State Honour From BJP MP Nagendra Ray, Who Insulted Netaji",
-    "Several Workers Trapped As Water, Debris Enter Tunnel in Uttarakhand's Chamoli",
+    "'Actor Darshan Stood On His Chest': Accomplice's Tell-All In Renukaswamy Murder",
     "Case against 600 protesters, including 500 unidentified students, in Jharkhand stir",
-    "Israel's Unverified 'Iran Kill Plot' Warning Behind Trump's Secret Jet Switch In Turkey: Report",
-    "Why Putin’s first Kuril Islands visit matters as Russia-Japan ties hit new low",
-    "Bangladesh is running out of power: 10-hour blackouts, early shop closures, angry crowds and a desperate...",
-    "After US criticism, Israel ties Lebanon withdrawal to Hezbollah disarmament",
+    "Parliament Monsoon Session highlights: 'Very successful' in terms of business as 12 Bills passed, Rijiju says as session draws to close",
+    "Bengal govt strips BJP MP Ananta Maharaj of Banga Bibhushan award over 'insulting' remarks against Netaji",
+    "Putin pays his first visit to Pacific island chain claimed by Japan, drawing protest from Tokyo",
+    "Iran blockade: US Navy redirects 4 more ships near Hormuz as Tehran's oil lifeline chokes",
+    "Will all-out war in Yemen reignite as the Houthis escalate attacks?",
+    "Pakistan is going to the Moon, but China is giving it the lift: Meet ‘Jinnah-1’, Islamabad’s first...",
     "India's Tata Trusts says panel will recommend next Tata Sons chairman",
+    "Tata Motors PV Q1 Results: Profit Slumps 80% Even As Revenue Rises To Nearly Rs 96,000 Crore",
     "India's trade portfolio: Deficit widens 31.5% to $15bn in July; electronics exports surge 11-fold",
-    "Bank of America to invest $1.9 billion for 49.9% stake in Jio Financial NBFC unit",
     "L&T, Coal India, 18 others bid for Centre's Rs 7,280-cr rare earth magnet scheme",
-    "Twitch is facing backlash for its plan to use creators' content to train Amazon's AI models",
-    "Google Pixel Buds Pro 2 get a new color and new software features - GSMArena.com news",
+    "'One flag for each laid off dev:' Union workers stage unmissable protest for Xbox boss Asha Sharma",
     "Google Pixel 11 vs. Galaxy S26: 6 reasons I'm buying Pixel this year",
-    "Garmin CIRQA Ring: What We Know So Far",
+    "New 'magnetoelastic' tent generates electricity from wind, body movement and sound to power small devices",
+    "Samsung Galaxy Z8 preorders jump over 30% globally",
     "Awarapan 2 Vs Batwara 1947: Emraan Hashmi Film Leads By 81% In Advance Booking",
-    "Salman Khan shares action-packed ‘7 Dogs’ official trailer as Sanjay Dutt joins international cast in big",
-    "Anupama opens up about ‘narcissistic abuse’ after break up post hinting at Dhruv Vikram"
+    "Anupama opens up about ‘narcissistic abuse’ after break up post hinting at Dhruv Vikram",
+    "Batwara 1947 first review: Sunny Deol, Abhimanyu Singh deliver terrific performances in ‘deeply sensitive, moving film’ | Bollywood"
   ],
   "quiz": [
-    {
-      "blanked": "FIFA’s Infantino backed by six Arab federations including ______ and Morocco",
-      "answer": "Qatar",
-      "options": [
-        "Quality",
-        "Nagendra",
-        "Qatar",
-        "Cup"
-      ]
-    },
-    {
-      "blanked": "Australia bat first in Darwin, Bangladesh play Ebadot and ______",
-      "answer": "Mahmud",
-      "options": [
-        "All",
-        "Mahmud",
-        "Test",
-        "Nagendra"
-      ]
-    },
-    {
-      "blanked": "Nurse found dead under mysterious circumstances in hospital washroom during night shift in ______",
-      "answer": "Kolkata",
-      "options": [
-        "All",
-        "Bangladesh",
-        "Kolkata",
-        "Israel"
-      ]
-    },
     {
       "blanked": "Anupama opens up about ‘narcissistic abuse’ after break up post hinting at ______ Vikram",
       "answer": "Dhruv",
       "options": [
-        "Unverified",
-        "Tracking",
-        "Trusts",
-        "Dhruv"
+        "Dhruv",
+        "30%",
+        "Bibhushan",
+        "DRCs"
       ]
     },
     {
-      "blanked": "Google ______ Buds Pro 2 get a new color and new software features - GSMArena.com news",
+      "blanked": "Putin pays his first visit to Pacific island chain claimed by ______ drawing protest from Tokyo",
+      "answer": "Japan",
+      "options": [
+        "Japan",
+        "Israeli",
+        "Photos",
+        "Tracking"
+      ]
+    },
+    {
+      "blanked": "No NALSAR Graduate Of 2026 Will Be Enrolled As Advocate, Says BCI Chairman After ______ Campaign...",
+      "answer": "Students",
+      "options": [
+        "News",
+        "India",
+        "Students",
+        "Tokyo"
+      ]
+    },
+    {
+      "blanked": "Google ______ 11 vs. Galaxy S26: 6 reasons I'm buying Pixel this year",
       "answer": "Pixel",
       "options": [
-        "Lebanon",
-        "AI-Powered",
-        "Shivakumar",
+        "Quality",
+        "Bills",
+        "600",
         "Pixel"
       ]
     },
     {
-      "blanked": "Why ______ first Kuril Islands visit matters as Russia-Japan ties hit new low",
-      "answer": "Putins",
+      "blanked": "Not quite a star, possibly a black hole: ______ spots mysterious cosmic object",
+      "answer": "JWST",
       "options": [
-        "NBFC",
-        "Jharkhand",
-        "Putins",
-        "Miami"
+        "WHO",
+        "600",
+        "JWST",
+        "1947"
       ]
     },
     {
-      "blanked": "Turkey lays out plans for defence pact with ______ and Saudi Arabia",
-      "answer": "Pakistan",
+      "blanked": "6 workers trapped, 16 rescued as debris, water enter tunnel in Uttarakhand's Chamoli after landslide | India ______",
+      "answer": "News",
       "options": [
-        "FIFA",
-        "Pakistan",
-        "Tracking",
-        "Know"
+        "Dogs",
+        "Bollywood",
+        "News",
+        "Tell-All"
       ]
     },
     {
-      "blanked": "Several Workers Trapped As Water, Debris Enter Tunnel in Uttarakhand's ______",
-      "answer": "Chamoli",
+      "blanked": "Turkey lays out plans for defence pact with Pakistan and ______ Arabia",
+      "answer": "Saudi",
       "options": [
-        "Buds",
-        "Khan",
-        "Chamoli",
-        "America"
+        "Tata",
+        "Israeli",
+        "Saudi",
+        "BCI"
       ]
     },
     {
-      "blanked": "Sleep Quality Tracking Revealed Lasting Drivers ______ the Pandemic",
-      "answer": "Beyond",
+      "blanked": "Exclusive: ______ says Ebola outbreak has become DRC’s largest as cases outpace response",
+      "answer": "WHO",
       "options": [
-        "Beyond",
-        "Enrolled",
-        "Centres",
-        "FIFA"
+        "Sri",
+        "Viewers",
+        "WHO",
+        "Crore"
       ]
     },
     {
-      "blanked": "Rare solar eclipse is a dramatic celestial spectacle for millions across ______ in photos",
-      "answer": "Europe",
+      "blanked": "Artificial Intelligence (AI)-Powered Acute Stroke ______",
+      "answer": "Triage",
       "options": [
-        "Europe",
-        "Enrolled",
-        "GDN",
-        "Booking"
+        "Triage",
+        "Sunny",
+        "Sri",
+        "Very"
       ]
     },
     {
-      "blanked": "Dope Test For All Air India Pilots After Captain Found ______ For Marijuana",
-      "answer": "Positive",
+      "blanked": "Bengal govt strips BJP MP Ananta Maharaj of Banga ______ award over 'insulting' remarks against Netaji",
+      "answer": "Bibhushan",
       "options": [
-        "Badal",
-        "Sukhbir",
-        "Madhav",
-        "Positive"
+        "Bibhushan",
+        "Arabia",
+        "Maharashtras",
+        "Deficit"
       ]
     },
     {
-      "blanked": "Messi plays in Inter ______ defeat by Leon only hours after retirement hint",
-      "answer": "Miami",
+      "blanked": "Batwara 1947 first review: Sunny Deol, ______ Singh deliver terrific performances in ‘deeply sensitive, moving film’ | Bollywood",
+      "answer": "Abhimanyu",
       "options": [
-        "Iran",
-        "Plot",
-        "Miami",
-        "Air"
+        "Infantino",
+        "Ebola",
+        "BJP",
+        "Abhimanyu"
+      ]
+    },
+    {
+      "blanked": "FIFA’s Infantino backed by six ______ federations including Qatar and Morocco",
+      "answer": "Arab",
+      "options": [
+        "BJP",
+        "Arab",
+        "Time",
+        "Line"
       ]
     }
   ]
