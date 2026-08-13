@@ -1,29 +1,29 @@
 {
-  "generatedAt": "2026-08-13T18:41:28.050Z",
+  "generatedAt": "2026-08-13T21:27:05.858Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "No NALSAR Graduate Of 2026 Will Be Enrolled As Advocate, Says BCI Chairman After Students' Campaign...",
+    "Bar Council of India threatens Nalsar students, Cockroach Janta Party roars, order is withdrawn",
+    "Several Workers Trapped As Water, Debris Enter Tunnel in Uttarakhand's Chamoli",
     "Akali Dal chief Badal attacked in Maharashtra’s Nanded; party demands CBI probe",
-    "Air India to test all pilots for banned substances",
-    "CIA doubted Israeli intel on threat to Trump before Turkey plane switch: Report | World News",
-    "6 workers trapped, 16 rescued as debris, water enter tunnel in Uttarakhand's Chamoli after landslide | India News",
+    "Former MP Prajwal Revanna loses VIP cell privileges after phone, pen drive found in prison | India News",
     "Turkey lays out plans for defence pact with Pakistan and Saudi Arabia",
-    "'Actor Darshan Stood On His Chest': Accomplice's Tell-All In Renukaswamy Murder",
-    "Case against 600 protesters, including 500 unidentified students, in Jharkhand stir",
-    "Parliament Monsoon Session highlights: 'Very successful' in terms of business as 12 Bills passed, Rijiju says as session draws to close",
-    "Bengal govt strips BJP MP Ananta Maharaj of Banga Bibhushan award over 'insulting' remarks against Netaji",
+    "Dope Test For All Air India Pilots After Captain Found Positive For Marijuana",
+    "Sonam Wangchuk's pitch for India's '2nd Independence movement' to 'reform political system' | India News",
+    "Rahul mocks Modi’s ‘hug diplomacy’, Dikshit pulls Meloni into joke; BJP calls it ‘gutter-level’",
+    "Jharkhand: JLKM's Devendra Mahto writes to civil surgeon seeking permission to return to protest site",
+    "Nurse found dead under mysterious circumstances in hospital washroom during night shift in Kolkata",
     "Putin pays his first visit to Pacific island chain claimed by Japan, drawing protest from Tokyo",
-    "Iran blockade: US Navy redirects 4 more ships near Hormuz as Tehran's oil lifeline chokes",
-    "Will all-out war in Yemen reignite as the Houthis escalate attacks?",
     "Pakistan is going to the Moon, but China is giving it the lift: Meet ‘Jinnah-1’, Islamabad’s first...",
-    "India's Tata Trusts says panel will recommend next Tata Sons chairman",
+    "'Will Hide In Trash Can': Iran Mocks Trump's Plane Switch With Memes",
+    "After US criticism, Israel ties Lebanon withdrawal to Hezbollah disarmament",
+    "Noel Tata emerges as power broker in group's succession, listing decisions",
     "Tata Motors PV Q1 Results: Profit Slumps 80% Even As Revenue Rises To Nearly Rs 96,000 Crore",
-    "India's trade portfolio: Deficit widens 31.5% to $15bn in July; electronics exports surge 11-fold",
     "L&T, Coal India, 18 others bid for Centre's Rs 7,280-cr rare earth magnet scheme",
-    "'One flag for each laid off dev:' Union workers stage unmissable protest for Xbox boss Asha Sharma",
+    "India's trade portfolio: Deficit widens 31.5% to $15bn in July; electronics exports surge 11-fold",
     "Google Pixel 11 vs. Galaxy S26: 6 reasons I'm buying Pixel this year",
-    "New 'magnetoelastic' tent generates electricity from wind, body movement and sound to power small devices",
+    "Apple again reported to skip launching the iPhone 18 this year - GSMArena.com news",
+    "IISc SPIRE Lab releases SraVaani speech AI model covering 65 Indian languages",
     "Samsung Galaxy Z8 preorders jump over 30% globally",
     "Awarapan 2 Vs Batwara 1947: Emraan Hashmi Film Leads By 81% In Advance Booking",
     "Anupama opens up about ‘narcissistic abuse’ after break up post hinting at Dhruv Vikram",
@@ -31,123 +31,123 @@
   ],
   "quiz": [
     {
-      "blanked": "Anupama opens up about ‘narcissistic abuse’ after break up post hinting at ______ Vikram",
-      "answer": "Dhruv",
+      "blanked": "Akali Dal chief ______ attacked in Maharashtra’s Nanded; party demands CBI probe",
+      "answer": "Badal",
       "options": [
-        "Dhruv",
-        "30%",
-        "Bibhushan",
-        "DRCs"
+        "Badal",
+        "Wangchuks",
+        "Shubman",
+        "Mahto"
       ]
     },
     {
-      "blanked": "Putin pays his first visit to Pacific island chain claimed by ______ drawing protest from Tokyo",
-      "answer": "Japan",
+      "blanked": "Total solar eclipse 2026: Team led by RRI scientists predicts ‘petal-like’ structures in ______ corona during eclipse",
+      "answer": "Suns",
       "options": [
-        "Japan",
-        "Israeli",
-        "Photos",
-        "Tracking"
-      ]
-    },
-    {
-      "blanked": "No NALSAR Graduate Of 2026 Will Be Enrolled As Advocate, Says BCI Chairman After ______ Campaign...",
-      "answer": "Students",
-      "options": [
-        "News",
-        "India",
-        "Students",
-        "Tokyo"
-      ]
-    },
-    {
-      "blanked": "Google ______ 11 vs. Galaxy S26: 6 reasons I'm buying Pixel this year",
-      "answer": "Pixel",
-      "options": [
-        "Quality",
-        "Bills",
-        "600",
-        "Pixel"
+        "Film",
+        "Booking",
+        "Suns",
+        "Nepomniachtchi"
       ]
     },
     {
       "blanked": "Not quite a star, possibly a black hole: ______ spots mysterious cosmic object",
       "answer": "JWST",
       "options": [
-        "WHO",
-        "600",
+        "Nepomniachtchi",
+        "Memes",
         "JWST",
-        "1947"
+        "Meloni"
       ]
     },
     {
-      "blanked": "6 workers trapped, 16 rescued as debris, water enter tunnel in Uttarakhand's Chamoli after landslide | India ______",
+      "blanked": "Turkey lays out plans for defence pact with ______ and Saudi Arabia",
+      "answer": "Pakistan",
+      "options": [
+        "Moon",
+        "Pakistan",
+        "Badal",
+        "Gambhir"
+      ]
+    },
+    {
+      "blanked": "After US criticism, Israel ties ______ withdrawal to Hezbollah disarmament",
+      "answer": "Lebanon",
+      "options": [
+        "Quarterfinals",
+        "Joins",
+        "Lebanon",
+        "Trapped"
+      ]
+    },
+    {
+      "blanked": "Samsung Galaxy Z8 preorders jump over ______ globally",
+      "answer": "30%",
+      "options": [
+        "Janta",
+        "80%",
+        "Viddhaata",
+        "30%"
+      ]
+    },
+    {
+      "blanked": "Nurse found dead under mysterious circumstances in hospital washroom during night shift in ______",
+      "answer": "Kolkata",
+      "options": [
+        "Kolkata",
+        "Coal",
+        "Crore",
+        "Viddhaata"
+      ]
+    },
+    {
+      "blanked": "Jharkhand: JLKM's ______ Mahto writes to civil surgeon seeking permission to return to protest site",
+      "answer": "Devendra",
+      "options": [
+        "Dikshit",
+        "Batwara",
+        "Devendra",
+        "Joins"
+      ]
+    },
+    {
+      "blanked": "Gautam Gambhir and Shubman Gill urged to be ‘clear in messaging’ with Sarfaraz Khan: ‘That way, he won’t waste time' | ______",
+      "answer": "Cricket",
+      "options": [
+        "Coal",
+        "Photos",
+        "Cricket",
+        "Janta"
+      ]
+    },
+    {
+      "blanked": "Friday OTT releases (August 14, ______ ‘Bharat Bhhagya Viddhaata’, ‘Cocktail 2’, ‘Umthetho’ and more",
+      "answer": "2026",
+      "options": [
+        "2026",
+        "Crore",
+        "96000",
+        "Test"
+      ]
+    },
+    {
+      "blanked": "Sonam Wangchuk's pitch for India's '2nd Independence movement' to 'reform political system' | India ______",
       "answer": "News",
       "options": [
-        "Dogs",
-        "Bollywood",
         "News",
-        "Tell-All"
-      ]
-    },
-    {
-      "blanked": "Turkey lays out plans for defence pact with Pakistan and ______ Arabia",
-      "answer": "Saudi",
-      "options": [
-        "Tata",
-        "Israeli",
-        "Saudi",
-        "BCI"
-      ]
-    },
-    {
-      "blanked": "Exclusive: ______ says Ebola outbreak has become DRC’s largest as cases outpace response",
-      "answer": "WHO",
-      "options": [
-        "Sri",
-        "Viewers",
-        "WHO",
-        "Crore"
-      ]
-    },
-    {
-      "blanked": "Artificial Intelligence (AI)-Powered Acute Stroke ______",
-      "answer": "Triage",
-      "options": [
-        "Triage",
-        "Sunny",
-        "Sri",
-        "Very"
-      ]
-    },
-    {
-      "blanked": "Bengal govt strips BJP MP Ananta Maharaj of Banga ______ award over 'insulting' remarks against Netaji",
-      "answer": "Bibhushan",
-      "options": [
-        "Bibhushan",
-        "Arabia",
-        "Maharashtras",
-        "Deficit"
-      ]
-    },
-    {
-      "blanked": "Batwara 1947 first review: Sunny Deol, ______ Singh deliver terrific performances in ‘deeply sensitive, moving film’ | Bollywood",
-      "answer": "Abhimanyu",
-      "options": [
-        "Infantino",
-        "Ebola",
+        "Tunnel",
         "BJP",
-        "Abhimanyu"
+        "Tokyo"
       ]
     },
     {
-      "blanked": "FIFA’s Infantino backed by six ______ federations including Qatar and Morocco",
-      "answer": "Arab",
+      "blanked": "Several Workers Trapped As Water, ______ Enter Tunnel in Uttarakhand's Chamoli",
+      "answer": "Debris",
       "options": [
-        "BJP",
-        "Arab",
-        "Time",
-        "Line"
+        "Meet",
+        "Debris",
+        "Affects",
+        "All"
       ]
     }
   ]
