@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-13T21:27:05.858Z",
+  "generatedAt": "2026-08-13T23:26:35.688Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
     "Bar Council of India threatens Nalsar students, Cockroach Janta Party roars, order is withdrawn",
-    "Several Workers Trapped As Water, Debris Enter Tunnel in Uttarakhand's Chamoli",
+    "6 Killed, 2 Trapped As Water, Debris Enter Tunnel In Uttarakhand's Chamoli",
     "Akali Dal chief Badal attacked in Maharashtra’s Nanded; party demands CBI probe",
-    "Former MP Prajwal Revanna loses VIP cell privileges after phone, pen drive found in prison | India News",
     "Turkey lays out plans for defence pact with Pakistan and Saudi Arabia",
-    "Dope Test For All Air India Pilots After Captain Found Positive For Marijuana",
+    "Supreme Court Slams FSSAI For Opposing Warning Labels For High-Fat, Sugar & Salt Foods, Asks If It's Due...",
+    "Air India to screen all pilots for drug abuse after turbulent flight's captain found 'high' | India News",
     "Sonam Wangchuk's pitch for India's '2nd Independence movement' to 'reform political system' | India News",
     "Rahul mocks Modi’s ‘hug diplomacy’, Dikshit pulls Meloni into joke; BJP calls it ‘gutter-level’",
-    "Jharkhand: JLKM's Devendra Mahto writes to civil surgeon seeking permission to return to protest site",
     "Nurse found dead under mysterious circumstances in hospital washroom during night shift in Kolkata",
-    "Putin pays his first visit to Pacific island chain claimed by Japan, drawing protest from Tokyo",
-    "Pakistan is going to the Moon, but China is giving it the lift: Meet ‘Jinnah-1’, Islamabad’s first...",
+    "Activist Devendra Mahto Seeks Civil Surgeon's Nod To Return To Protest Site",
+    "US rushes new carrier to Middle East amid reports of mental health crisis on USS Lincoln",
     "'Will Hide In Trash Can': Iran Mocks Trump's Plane Switch With Memes",
-    "After US criticism, Israel ties Lebanon withdrawal to Hezbollah disarmament",
-    "Noel Tata emerges as power broker in group's succession, listing decisions",
-    "Tata Motors PV Q1 Results: Profit Slumps 80% Even As Revenue Rises To Nearly Rs 96,000 Crore",
-    "L&T, Coal India, 18 others bid for Centre's Rs 7,280-cr rare earth magnet scheme",
+    "Putin pays his first visit to Pacific island chain claimed by Japan, drawing protest from Tokyo",
+    "West Asia war LIVE: Iran rejects Trump claims of U.S. control over Strait of Hormuz as ‘lies’",
+    "The battle for control of India’s $280bn Tata Group",
     "India's trade portfolio: Deficit widens 31.5% to $15bn in July; electronics exports surge 11-fold",
-    "Google Pixel 11 vs. Galaxy S26: 6 reasons I'm buying Pixel this year",
+    "L&T, Coal India, 18 others bid for Centre's Rs 7,280-cr rare earth magnet scheme",
+    "Tata Motors PV Q1 Results: Profit Slumps 80% Even As Revenue Rises To Nearly Rs 96,000 Crore",
+    "Pixel 11 phones get seven years of spare parts to go with update policy",
     "Apple again reported to skip launching the iPhone 18 this year - GSMArena.com news",
-    "IISc SPIRE Lab releases SraVaani speech AI model covering 65 Indian languages",
     "Samsung Galaxy Z8 preorders jump over 30% globally",
+    "Pixel Watch 5 Will Call Emergency Services if It Detects a Breathing Emergency",
     "Awarapan 2 Vs Batwara 1947: Emraan Hashmi Film Leads By 81% In Advance Booking",
-    "Anupama opens up about ‘narcissistic abuse’ after break up post hinting at Dhruv Vikram",
-    "Batwara 1947 first review: Sunny Deol, Abhimanyu Singh deliver terrific performances in ‘deeply sensitive, moving film’ | Bollywood"
+    "Batwara 1947 Box Office Day 1 Advance Booking (1 Day To Go): 2X Jump But It's Still Poor, Sunny Deol To Miss 10 Crore Opening?",
+    "Anupama opens up about ‘narcissistic abuse’ after break up post hinting at Dhruv Vikram"
   ],
   "quiz": [
     {
-      "blanked": "Akali Dal chief ______ attacked in Maharashtra’s Nanded; party demands CBI probe",
-      "answer": "Badal",
+      "blanked": "Bar Council of India threatens Nalsar students, ______ Janta Party roars, order is withdrawn",
+      "answer": "Cockroach",
       "options": [
-        "Badal",
-        "Wangchuks",
-        "Shubman",
+        "Cockroach",
+        "Kanakaraju",
+        "31.5%",
+        "Joins"
+      ]
+    },
+    {
+      "blanked": "Solar ______ Photos: Viewers Line Up in Europe To Watch",
+      "answer": "Eclipse",
+      "options": [
+        "Party",
+        "BJP",
+        "Eclipse",
+        "Arabia"
+      ]
+    },
+    {
+      "blanked": "US rushes new carrier to Middle East amid reports of mental health crisis on ______ Lincoln",
+      "answer": "USS",
+      "options": [
+        "Party",
+        "Mahasayulaku",
+        "India",
+        "USS"
+      ]
+    },
+    {
+      "blanked": "Pixel ______ 5 Will Call Emergency Services if It Detects a Breathing Emergency",
+      "answer": "Watch",
+      "options": [
+        "Iran",
+        "Time",
+        "Wignyapthi",
+        "Watch"
+      ]
+    },
+    {
+      "blanked": "Turkey lays out plans for defence pact with Pakistan and Saudi ______",
+      "answer": "Arabia",
+      "options": [
+        "Sarfaraz",
+        "Arabia",
+        "Trumps",
+        "Council"
+      ]
+    },
+    {
+      "blanked": "Esports ______ Cup: Lazavik Ousts Nepomniachtchi, Joins Arjun, Nihal, Niemann In Quarterfinals",
+      "answer": "World",
+      "options": [
+        "World",
+        "Rises",
+        "RRI",
         "Mahto"
       ]
     },
     {
-      "blanked": "Total solar eclipse 2026: Team led by RRI scientists predicts ‘petal-like’ structures in ______ corona during eclipse",
-      "answer": "Suns",
+      "blanked": "Chandipura outbreak claimed 27 lives in ______ Govt",
+      "answer": "Gujarat",
       "options": [
-        "Film",
-        "Booking",
-        "Suns",
-        "Nepomniachtchi"
-      ]
-    },
-    {
-      "blanked": "Not quite a star, possibly a black hole: ______ spots mysterious cosmic object",
-      "answer": "JWST",
-      "options": [
-        "Nepomniachtchi",
-        "Memes",
-        "JWST",
-        "Meloni"
-      ]
-    },
-    {
-      "blanked": "Turkey lays out plans for defence pact with ______ and Saudi Arabia",
-      "answer": "Pakistan",
-      "options": [
-        "Moon",
-        "Pakistan",
-        "Badal",
-        "Gambhir"
-      ]
-    },
-    {
-      "blanked": "After US criticism, Israel ties ______ withdrawal to Hezbollah disarmament",
-      "answer": "Lebanon",
-      "options": [
-        "Quarterfinals",
-        "Joins",
-        "Lebanon",
-        "Trapped"
-      ]
-    },
-    {
-      "blanked": "Samsung Galaxy Z8 preorders jump over ______ globally",
-      "answer": "30%",
-      "options": [
-        "Janta",
-        "80%",
-        "Viddhaata",
-        "30%"
-      ]
-    },
-    {
-      "blanked": "Nurse found dead under mysterious circumstances in hospital washroom during night shift in ______",
-      "answer": "Kolkata",
-      "options": [
-        "Kolkata",
-        "Coal",
-        "Crore",
-        "Viddhaata"
-      ]
-    },
-    {
-      "blanked": "Jharkhand: JLKM's ______ Mahto writes to civil surgeon seeking permission to return to protest site",
-      "answer": "Devendra",
-      "options": [
-        "Dikshit",
-        "Batwara",
-        "Devendra",
-        "Joins"
+        "Gujarat",
+        "Opening",
+        "Study",
+        "Site"
       ]
     },
     {
       "blanked": "Gautam Gambhir and Shubman Gill urged to be ‘clear in messaging’ with Sarfaraz Khan: ‘That way, he won’t waste time' | ______",
       "answer": "Cricket",
       "options": [
-        "Coal",
-        "Photos",
-        "Cricket",
-        "Janta"
-      ]
-    },
-    {
-      "blanked": "Friday OTT releases (August 14, ______ ‘Bharat Bhhagya Viddhaata’, ‘Cocktail 2’, ‘Umthetho’ and more",
-      "answer": "2026",
-      "options": [
-        "2026",
-        "Crore",
+        "Jump",
         "96000",
-        "Test"
+        "Next",
+        "Cricket"
       ]
     },
     {
-      "blanked": "Sonam Wangchuk's pitch for India's '2nd Independence movement' to 'reform political system' | India ______",
-      "answer": "News",
+      "blanked": "L&T, ______ India, 18 others bid for Centre's Rs 7,280-cr rare earth magnet scheme",
+      "answer": "Coal",
       "options": [
-        "News",
-        "Tunnel",
-        "BJP",
-        "Tokyo"
+        "Coal",
+        "Even",
+        "Istanbul",
+        "Box"
       ]
     },
     {
-      "blanked": "Several Workers Trapped As Water, ______ Enter Tunnel in Uttarakhand's Chamoli",
-      "answer": "Debris",
+      "blanked": "Supreme Court Slams FSSAI For Opposing Warning Labels For ______ Sugar & Salt Foods, Asks If It's Due...",
+      "answer": "High-Fat",
       "options": [
-        "Meet",
-        "Debris",
-        "Affects",
-        "All"
+        "Results",
+        "Trash",
+        "Trump",
+        "High-Fat"
+      ]
+    },
+    {
+      "blanked": "Putin pays his first visit to Pacific island chain claimed by ______ drawing protest from Tokyo",
+      "answer": "Japan",
+      "options": [
+        "Time",
+        "Japan",
+        "Rises",
+        "Target"
+      ]
+    },
+    {
+      "blanked": "Samsung Galaxy Z8 preorders jump over ______ globally",
+      "answer": "30%",
+      "options": [
+        "Children",
+        "Deficit",
+        "30%",
+        "Miss"
       ]
     }
   ]
