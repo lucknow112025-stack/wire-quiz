@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-14T09:34:49.625Z",
+  "generatedAt": "2026-08-14T12:01:05.406Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "Supreme Court quashes all FIRs against Samay Raina, others over Latent show remarks against persons with disabilities | India News",
-    "BREAKING| CJI Surya Kant Disapproves BCI Action Against NALSAR Students, Says They Have Right To Protest",
+    "CJI Surya Kant Disapproves BCI Action Against NALSAR Students, Says They Have Right To Protest",
+    "India's Got Latent: FIRs Against Samay Raina Over Insensitive Remarks Cancelled By Top Court",
     "Air India A320 briefly lost key flight controls, Airbus analysis shows",
+    "Akali Dal chief Badal attacked in Maharashtra’s Nanded; party demands CBI probe",
+    "‘Lal Qila ta nishana hove ga’: Delhi HC bomb threat ahead of Independence Day mentions khaki-clad attacke",
     "‘Great scam’: US after India named among 40 nations aiding China evade tariffs",
-    "Delhi High Court, Airport Receive Bomb Threat Day Before Independence Day",
-    "US rushes new carrier to Middle East amid reports of mental health crisis on USS Lincoln",
-    "Census 2027 to have 40 questions, including details of caste, COVID vaccination, ID proofs",
-    "Meet The Maharashtra Cop Whose Split-Second Response Saved Sukhbir Badal",
-    "BREAKING| Supreme Court Quashes Hate Speech Case Against Rahul Gandhi Over Comments Against Savarkar Due...",
-    "Seven workers dead, three still trapped after water floods tunnel in Uttarakhand’s Chamoli",
-    "West Asia war updates: Iran rejects Trump claims of U.S. control over Strait of Hormuz as ‘lies’",
-    "Indian-origin man pleads guilty to accessing CSAM, jailed in US",
-    "UK records hottest day of year as temperature crosses 38°C in west London",
+    "Supreme Court quashes hate speech case against Rahul Gandhi over Savarkar remarks after U.P. govt. refuses sanction",
+    "'Don't mistake India's generosity with weakness': NSA Ajit Doval on Operation Sindoor",
+    "Supreme Court Affirms Quashing Of FIR Against Andhra CM Chandrababu Naidu & Ex-Minister Over Amaravati...",
+    "80 years free, India’s biggest independence challenge is its bureaucracy with colonial mindset | India News",
+    "4 dead as ‘unprecedented’ rain floods Eastern Japan, strands thousands at Narita Airport",
     "Nigel Farage defeats Count Binface to reclaim UK parliamentary seat",
-    "Tata Sons chairman hunt hits a roadblock. Why Tata Trusts may go to court",
-    "Nifty 50, Sensex prediction today: Check how Indian stock market is expected to trade on 14 August",
-    "Zee Entertainment shares rise up to 7% as SAT grants conditional relief in SEBI case",
-    "Which key items became costlier or cheaper as inflation jumps to 4.45% in July? | Food inflation climbed to 5.52% | Inshorts",
-    "In Photos: Google Pixel 11 And Pixel 11 Pro Series First Look After India Launch",
+    "US Navy sends replacement for USS Lincoln after reports of sailors threatening to jump overboard",
+    "Bangladesh to shut commercial activities by 8 pm amid energy crisis, asks India for help",
+    "Tata chairman’s shock exit move puts JLR owner's bets on chips, iPhones and Air India at risk",
+    "Indian rupee logs weekly decline, with RBI intervention curbing losses",
+    "Stock Market LIVE Updates, Sensex Today: Sensex Drops 200 Points Amid Mixed Global Cues",
+    "Shiprocket IPO Day 3 LIVE: GMP, subscription status, review, other details. Apply or not?",
+    "Want a future-proof TV? This Dolby Vision 2 RGB Mini LED just had its price slashed - What Hi-Fi?",
+    "Epic Games Store to get an official Linux version, which could mean a native app for Steam Deck and Machine",
+    "Kanto Launches 2nd-Gen Obi3 Turntable",
     "Samsung Officially Launches Galaxy Z Fold8 Ultra, Fold8, Flip8, Watch Ultra2 and Watch9 in Australia",
-    "Google unveils Gemini 3.7 Flash AI model for coding, agent workflows",
-    "iPhone 18 Pro Max launching soon: Expected launch date, price, display, battery and specifications",
     "Awarapan 2 Final Advance Booking: Emraan Hashmi & Disha Patani starrer set for excellent opening day; Sells 1.25 lakh tickets in National Chains",
-    "'Things were so erratic, there was just disbelief all over': Sunny Deol on his partition roles in ‘Batwar",
-    "\"We Will Make You Vacate Karnataka\": Actor Rishika Singh Slams Yash's Toxic Trailer"
+    "Batwara 1947 Vs Gadar: Sunny Deol Reveals Why His Partition Heroes Differ",
+    "Yash Praises Kiara Advani's Dedication In Toxic, Reveals He Was \"Worried\" For Her"
   ],
   "quiz": [
     {
-      "blanked": "Vitamin D Deficiency Affects Most Children in New ______",
-      "answer": "Study",
+      "blanked": "A series of unknowns as once familiar Sri ______ and India face off",
+      "answer": "Lanka",
       "options": [
-        "Tanzid",
-        "Study",
-        "Actor",
-        "Karnataka"
+        "Mini",
+        "Lanka",
+        "Chains",
+        "Differ"
       ]
     },
     {
-      "blanked": "Ferran Torres' PSG transfer could finally unlock Barcelona's move for ______ Cup-winning star - report",
-      "answer": "World",
+      "blanked": "CJI Surya Kant ______ BCI Action Against NALSAR Students, Says They Have Right To Protest",
+      "answer": "Disapproves",
       "options": [
-        "NALSAR",
-        "Five",
-        "Savarkar",
-        "World"
+        "Disapproves",
+        "Look",
+        "They",
+        "Raina"
       ]
     },
     {
-      "blanked": "Nigel Farage defeats ______ Binface to reclaim UK parliamentary seat",
-      "answer": "Count",
+      "blanked": "Millions across ______ and Portugal watch the start of the countries' first total solar eclipse in over a century",
+      "answer": "Spain",
       "options": [
-        "Count",
-        "Cup-winning",
-        "Barcelonas",
-        "Lincoln"
+        "Delhi",
+        "Airbus",
+        "Students",
+        "Spain"
       ]
     },
     {
-      "blanked": "Indian-origin man pleads guilty to accessing ______ jailed in US",
-      "answer": "CSAM",
+      "blanked": "Barcelona structure Ferran Torres’s ______ sale to avoid €10 million Manchester City payment",
+      "answer": "PSG",
       "options": [
-        "CSAM",
-        "Study",
-        "Karnataka",
-        "Galaxy"
+        "Lanka",
+        "Deficiency",
+        "PSG",
+        "Japan"
       ]
     },
     {
-      "blanked": "New AI Tool Uses ______ Learning to Spot Hidden Cancer Cells",
-      "answer": "Deep",
+      "blanked": "Batwara 1947 Vs Gadar: Sunny Deol Reveals Why His Partition ______ Differ",
+      "answer": "Heroes",
       "options": [
-        "Saved",
-        "Sons",
-        "Deep",
-        "Uttarakhands"
+        "Heroes",
+        "Delhi",
+        "Navy",
+        "Sells"
       ]
     },
     {
-      "blanked": "AUS vs BAN, ______ Test: Tanzid Hasan Tamim vindicates selection gamble with historic ton",
-      "answer": "Darwin",
+      "blanked": "Awarapan 2 Final Advance ______ Emraan Hashmi & Disha Patani starrer set for excellent opening day; Sells 1.25 lakh tickets in National Chains",
+      "answer": "Booking",
       "options": [
-        "Trump",
-        "Darwin",
-        "Asia",
-        "Launch"
+        "Booking",
+        "Partition",
+        "BCI",
+        "Found"
       ]
     },
     {
-      "blanked": "Zee ______ shares rise up to 7% as SAT grants conditional relief in SEBI case",
-      "answer": "Entertainment",
+      "blanked": "Kanto ______ 2nd-Gen Obi3 Turntable",
+      "answer": "Launches",
       "options": [
-        "Atluri",
-        "Manpreet",
-        "Sells",
-        "Entertainment"
+        "Launches",
+        "Turntable",
+        "Got",
+        "Sells"
       ]
     },
     {
-      "blanked": "Seven workers dead, three still trapped after water floods tunnel in ______ Chamoli",
-      "answer": "Uttarakhands",
+      "blanked": "AUS vs BAN, Darwin ______ Tanzid Hasan Tamim vindicates selection gamble with historic ton",
+      "answer": "Test",
       "options": [
-        "Raina",
-        "Sri",
-        "Uttarakhands",
-        "Hidden"
+        "Ultra",
+        "Test",
+        "Tribute",
+        "Australia"
       ]
     },
     {
-      "blanked": "Not quite a star, possibly a black hole: ______ spots mysterious cosmic object",
-      "answer": "JWST",
+      "blanked": "Priyanka Chopra Pays Tribute To Sridevi With First Look Of Her Upcoming ______",
+      "answer": "Biography",
       "options": [
-        "JWST",
-        "July",
-        "Manpreet",
-        "Cup"
+        "May",
+        "Biography",
+        "Advanis",
+        "Independence"
       ]
     },
     {
-      "blanked": "US rushes new carrier to Middle ______ amid reports of mental health crisis on USS Lincoln",
-      "answer": "East",
+      "blanked": "‘Great scam’: US after ______ named among 40 nations aiding China evade tariffs",
+      "answer": "India",
       "options": [
-        "East",
-        "Sukhbir",
-        "Updates",
-        "Slams"
+        "1.25",
+        "Mixed",
+        "India",
+        "Hashmi"
       ]
     },
     {
-      "blanked": "Supreme Court quashes all FIRs against Samay Raina, others over ______ show remarks against persons with disabilities | India News",
-      "answer": "Latent",
+      "blanked": "Yash ______ Kiara Advani's Dedication In Toxic, Reveals He Was \"Worried\" For Her",
+      "answer": "Praises",
       "options": [
-        "Latent",
-        "Torres",
-        "Savarkar",
-        "Cancer"
+        "Quashing",
+        "Praises",
+        "BAN",
+        "Lanka"
       ]
     },
     {
-      "blanked": "Delhi High Court, ______ Receive Bomb Threat Day Before Independence Day",
-      "answer": "Airport",
+      "blanked": "Supreme Court Affirms ______ Of FIR Against Andhra CM Chandrababu Naidu & Ex-Minister Over Amaravati...",
+      "answer": "Quashing",
       "options": [
-        "Tata",
-        "Binface",
-        "Airport",
-        "Entertainment"
+        "Global",
+        "Turntable",
+        "Advanis",
+        "Quashing"
       ]
     }
   ]
