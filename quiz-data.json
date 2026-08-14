@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-14T22:53:45.543Z",
+  "generatedAt": "2026-08-14T23:50:44.808Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
     "Govt taking comprehensive steps for exam reforms, says President Murmu in address to nation | Hindustan Times",
     "‘First Islamic republic with nuclear weapons’: Netanyahu lashes out at UK",
-    "India's generosity, tolerance should not be seen as weakness: NSA Ajit Doval on Operation Sindoor",
     "\"When Will You Grow Up?\" BJP Slams Rahul Gandhi Over 'Hug' Jibe At PM Modi",
+    "India's generosity, tolerance should not be seen as weakness: NSA Ajit Doval on Operation Sindoor",
     "Plea In Supreme Court Seeks Enquiry Into How BCI Chairman Issued Orders Against NALSAR Students",
     "Bangladesh turns to India for help as power crisis forces 8pm shutdown for malls, shops | India News",
     "Pune Lawyer Turned Nihang Sikh: Man Who Attacked Sukhbir Singh Badal",
     "Jharkhand exam stir: Police lodge FIR against more than 500 unidentified protesters",
-    "Parliament Passes Law Curbing States' Power To Levy Tax On Minerals & Recover Past Dues",
     "Tukaram Mundhe Went To Dinner With Friends. Then Fake Paneer Was Served",
-    "US Navy sends replacement for USS Lincoln after reports of sailors threatening to jump overboard",
+    "FCRA Bill sent to JPC: What are Parliamentary committees and how do they work?",
     "‘Pretty soon’: Trump vows to claim Hormuz as US territory; Iran hits back",
+    "US Navy sends replacement for USS Lincoln after reports of sailors threatening to jump overboard",
+    "7.7 Magnitude Earthquake Hits Indonesia, Tsunami Warning Issued",
     "\"I Shot Him, He Died\": Luigi Mangione Admits He Killed UnitedHealthcare CEO Brian Thompson",
-    "India in U.S. crosshairs again — White House report cites countries ‘enabling’ China’s tariff evasions",
     "Stock Market Close: Sensex sheds 71 pts; Nifty settles at 24,366; Consumer Durables shares shine",
-    "Billionaire Mukesh Ambani’s Reliance, Rolls-Royce To Develop Fighter Jet Engines In India",
-    "RBI prematurely closes FCNR(B) swap window as forex inflows cross $56.8 billion",
-    "Meta says it has taken down 756,000 Australian teen accounts as ban enforcement looms",
+    "RBI to close FX swap for overseas deposits earlier than planned, inflows top $50 billion",
+    "SAT allows Zee Entertainment's upcoming capital raise but SEBI's market ban to continue",
+    "Tata CEOs, family scions seen in early list for new Tata Sons chairman",
     "Android Circuit: Pixel 11 Pro And Made By Google, Galaxy Z Fold8 Success, Honor Robot Arrives",
-    "Google launches Gemini 3.7 Flash with stronger coding and AI agent skills",
-    "Lamborghini unveils Revuelto SV, its most powerful production car ever",
-    "Samsung Officially Launches Galaxy Z Fold8 Ultra, Fold8, Flip8, Watch Ultra2 and Watch9 in Australia",
+    "Google Brings Gemini 3.7 Flash To AI Mode In Search",
+    "‘iPhone feels like a dad phone’: Galaxy Z Fold8’s ‘passport’ design wins over Apple loyalists",
+    "Motorola Moto G Max comes to India with a different set of specs - GSMArena.com news",
     "Awarapan 2 vs Batwara 1947 box office: Emraan Hashmi leads Sunny Deol by Rs 7 cr, beats Dhurandhar",
-    "CM Adityanath hails Nana Patekar, reveals actor worked to prevent farmer suicides without publicity | Bollywood",
-    "Sunita Ahuja takes dig at Govinda; reacts to his outing with Komal Rani Swarnkar; calls him ‘sugar daddy’"
+    "‘End of Oak Street’ Box Office Aims to Take Bite Out of ‘Spider-Man: Brand New Day’",
+    "CM Adityanath hails Nana Patekar, reveals actor worked to prevent farmer suicides without publicity | Bollywood"
   ],
   "quiz": [
     {
-      "blanked": "Google launches Gemini ______ Flash with stronger coding and AI agent skills",
+      "blanked": "Tukaram Mundhe Went To ______ With Friends. Then Fake Paneer Was Served",
+      "answer": "Dinner",
+      "options": [
+        "Murmu",
+        "Dinner",
+        "Gardner",
+        "Box"
+      ]
+    },
+    {
+      "blanked": "Coffee consumption linked to metabolic health, sex hormone changes: ______",
+      "answer": "Study",
+      "options": [
+        "Film",
+        "1947",
+        "Study",
+        "Tamim"
+      ]
+    },
+    {
+      "blanked": "India look for a fresh wave to crash ______ shores in Galle",
+      "answer": "Test",
+      "options": [
+        "Nihang",
+        "Chairman",
+        "Sancho",
+        "Test"
+      ]
+    },
+    {
+      "blanked": "The Price of ______ Awake",
+      "answer": "Staying",
+      "options": [
+        "1947",
+        "Mode",
+        "Staying",
+        "PSG"
+      ]
+    },
+    {
+      "blanked": "Motorola Moto G ______ comes to India with a different set of specs - GSMArena.com news",
+      "answer": "Max",
+      "options": [
+        "Students",
+        "BAN",
+        "Max",
+        "Sensex"
+      ]
+    },
+    {
+      "blanked": "7.7 Magnitude ______ Hits Indonesia, Tsunami Warning Issued",
+      "answer": "Earthquake",
+      "options": [
+        "Made",
+        "Students",
+        "BJP",
+        "Earthquake"
+      ]
+    },
+    {
+      "blanked": "Study shows how the immune system behaves throughout pregnancy - ______",
+      "answer": "News-Medical",
+      "options": [
+        "News-Medical",
+        "Bollywood",
+        "Paneer",
+        "Hashmi"
+      ]
+    },
+    {
+      "blanked": "Android Circuit: Pixel 11 Pro And Made By Google, ______ Z Fold8 Success, Honor Robot Arrives",
+      "answer": "Galaxy",
+      "options": [
+        "3.7",
+        "Hasan",
+        "Doval",
+        "Galaxy"
+      ]
+    },
+    {
+      "blanked": "Australia vice-captain ______ addresses marriage breakdown amid affair allegations",
+      "answer": "Gardner",
+      "options": [
+        "Success",
+        "Doctors",
+        "BAN",
+        "Gardner"
+      ]
+    },
+    {
+      "blanked": "Batwara ______ Box Office Collection Day 1: Sunny Deol Film Sees Steady Earnings",
+      "answer": "1947",
+      "options": [
+        "Mbaye",
+        "Netanyahu",
+        "1947",
+        "Seeks"
+      ]
+    },
+    {
+      "blanked": "Google Brings Gemini ______ Flash To AI Mode In Search",
       "answer": "3.7",
       "options": [
-        "Circuit",
+        "Navy",
         "3.7",
-        "Govinda",
-        "Rahul"
+        "Brand",
+        "Paneer"
       ]
     },
     {
       "blanked": "US ______ sends replacement for USS Lincoln after reports of sailors threatening to jump overboard",
       "answer": "Navy",
       "options": [
+        "Consumer",
         "Navy",
-        "Operation",
-        "Arrives",
-        "56.8"
-      ]
-    },
-    {
-      "blanked": "Can your smartwatch really tell if your heart is healthy? ______ explain",
-      "answer": "Doctors",
-      "options": [
-        "Sukhbir",
-        "Murmu",
-        "Spider-Man",
-        "Doctors"
-      ]
-    },
-    {
-      "blanked": "India in U.S. crosshairs again — ______ House report cites countries ‘enabling’ China’s tariff evasions",
-      "answer": "White",
-      "options": [
-        "White",
-        "Went",
-        "Drinking",
-        "Bite"
-      ]
-    },
-    {
-      "blanked": "Aditya-L1 findings offer fresh clues to Sun's super-heated corona: ______ scientists",
-      "answer": "Indian",
-      "options": [
-        "News",
-        "Murmu",
-        "Indian",
-        "Past"
-      ]
-    },
-    {
-      "blanked": "Astronomers discover a possible ‘black hole star’ in the early ______ with a supermassive black hole h",
-      "answer": "Universe",
-      "options": [
-        "Universe",
-        "Police",
-        "Compulsive",
-        "Street"
-      ]
-    },
-    {
-      "blanked": "India look for a fresh wave to crash Test shores in ______",
-      "answer": "Galle",
-      "options": [
-        "Galle",
-        "Google",
-        "Admits",
-        "Compulsive"
-      ]
-    },
-    {
-      "blanked": "\"I Shot Him, He Died\": ______ Mangione Admits He Killed UnitedHealthcare CEO Brian Thompson",
-      "answer": "Luigi",
-      "options": [
-        "Watch",
-        "Served",
-        "Deol",
-        "Luigi"
-      ]
-    },
-    {
-      "blanked": "Govt taking comprehensive steps for exam reforms, says President Murmu in address to nation | ______ Times",
-      "answer": "Hindustan",
-      "options": [
-        "Linked",
-        "Increase",
-        "Hindustan",
+        "Aims",
         "Mundhe"
-      ]
-    },
-    {
-      "blanked": "Ferran ______ transfer both solves and creates a problem for Barcelona",
-      "answer": "Torres",
-      "options": [
-        "Torres",
-        "Nifty",
-        "Navy",
-        "Durables"
-      ]
-    },
-    {
-      "blanked": "\"When Will You Grow Up?\" BJP Slams ______ Gandhi Over 'Hug' Jibe At PM Modi",
-      "answer": "Rahul",
-      "options": [
-        "Dhurandhar",
-        "Hug",
-        "Brain",
-        "Rahul"
-      ]
-    },
-    {
-      "blanked": "Parliament Passes Law ______ States' Power To Levy Tax On Minerals & Recover Past Dues",
-      "answer": "Curbing",
-      "options": [
-        "Arrives",
-        "Operation",
-        "Curbing",
-        "3.7"
       ]
     }
   ]
