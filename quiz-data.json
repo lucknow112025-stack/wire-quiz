@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-14T20:04:04.130Z",
+  "generatedAt": "2026-08-14T21:02:53.696Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "Plea In Supreme Court Seeks Enquiry Into How BCI Chairman Issued Orders Against NALSAR Students",
     "Students are architects of India’s future, says President Murmu",
-    "'Don't mistake India's generosity with weakness': NSA Ajit Doval on Operation Sindoor",
+    "Plea In Supreme Court Seeks Enquiry Into How BCI Chairman Issued Orders Against NALSAR Students",
+    "‘First Islamic republic with nuclear weapons’: Netanyahu’s sharp rebuke of UK",
+    "India's generosity, tolerance should not be seen as weakness: NSA Ajit Doval on Operation Sindoor",
     "\"When Will You Grow Up?\" BJP Slams Rahul Gandhi Over 'Hug' Jibe At PM Modi",
-    "Did You Know India’s Independence Was Originally Scheduled For June 30?",
-    "Iran President Masoud Pezeshkian to travel to Delhi for BRICS Summit | India News",
-    "Supreme Court Quashes FIRs Against Samay Raina & Others Over Disability Jokes, Appreciates Their Efforts...",
+    "Census 2027: Centre notifies 40 questions for second phase",
+    "India rejects Norwegian foreign minister's remarks on Kashmir",
+    "Will TVs Get Badly Affected with Govt Decision?",
     "Tukaram Mundhe Went To Dinner With Friends. Then Fake Paneer Was Served",
-    "‘How many patrol points has India given up to China?’ Former Modi govt minister RK Singh attacks Centre",
     "Parliament Passes Law Curbing States' Power To Levy Tax On Minerals & Recover Past Dues",
     "US Navy sends replacement for USS Lincoln after reports of sailors threatening to jump overboard",
+    "\"I Shot Him, He Died\": Luigi Mangione Admits He Killed UnitedHealthcare CEO Brian Thompson",
     "India in U.S. crosshairs again — White House report cites countries ‘enabling’ China’s tariff evasions",
     "Top French court upholds assisted dying law, rejects teen social media ban",
-    "UAE President directs $10 million aid to Colombia after earthquake kills 265",
     "Stock Market Close: Sensex sheds 71 pts; Nifty settles at 24,366; Consumer Durables shares shine",
     "RBI prematurely closes FCNR(B) swap window as forex inflows cross $56.8 billion",
     "SAT allows Zee Entertainment's upcoming capital raise but SEBI's market ban to continue",
-    "SpaceX Completes $60 Billion Acquisition of AI Startup Cursor",
+    "Mid-cap inflows crossed Rs 6,000 crore in July: What the top 3 mid-cap mutual funds bought and sold",
+    "Android Circuit: Pixel 11 Pro And Made By Google, Galaxy Z Fold8 Success, Honor Robot Arrives",
     "Google launches Gemini 3.7 Flash with stronger coding and AI agent skills",
-    "Here's a quick look at Google's new Pixel 11 series, Pixel Watch 5, and Fitbit Air - GSMArena.com news",
+    "Lamborghini Launches Revuelto SV Limited-Edition Hybrid Supercar",
     "Samsung Officially Launches Galaxy Z Fold8 Ultra, Fold8, Flip8, Watch Ultra2 and Watch9 in Australia",
-    "Lamborghini’s flagship Revuelto levels up with SV trim",
     "Awarapan 2 vs Batwara 1947 box office: Emraan Hashmi leads Sunny Deol by Rs 7 cr, beats Dhurandhar",
     "Box Office: ‘End of Oak Street’ Makes $2.5 Million in Previews",
     "CM Adityanath hails Nana Patekar, reveals actor worked to prevent farmer suicides without publicity | Bollywood"
   ],
   "quiz": [
     {
-      "blanked": "SpaceX Completes $60 ______ Acquisition of AI Startup Cursor",
-      "answer": "Billion",
+      "blanked": "RBI prematurely closes FCNR(B) swap window as forex inflows cross ______ billion",
+      "answer": "56.8",
       "options": [
-        "Billion",
-        "Jokes",
-        "Chairman",
-        "BCI"
-      ]
-    },
-    {
-      "blanked": "Samsung ______ Launches Galaxy Z Fold8 Ultra, Fold8, Flip8, Watch Ultra2 and Watch9 in Australia",
-      "answer": "Officially",
-      "options": [
-        "House",
-        "USS",
-        "Officially",
-        "Cursor"
-      ]
-    },
-    {
-      "blanked": "Plea In Supreme Court Seeks Enquiry Into ______ BCI Chairman Issued Orders Against NALSAR Students",
-      "answer": "How",
-      "options": [
-        "Centre",
-        "How",
-        "Asian",
-        "Modi"
-      ]
-    },
-    {
-      "blanked": "Iran President Masoud ______ to travel to Delhi for BRICS Summit | India News",
-      "answer": "Pezeshkian",
-      "options": [
-        "End",
-        "Street",
-        "Linked",
-        "Pezeshkian"
-      ]
-    },
-    {
-      "blanked": "Sunita Ahuja takes dig at Govinda; reacts to his outing with Komal ______ Swarnkar; calls him ‘sugar daddy’",
-      "answer": "Rani",
-      "options": [
-        "Jokes",
-        "Rani",
-        "FIRs",
-        "Centre"
-      ]
-    },
-    {
-      "blanked": "Stock Market Close: Sensex sheds 71 pts; Nifty settles at ______ Consumer Durables shares shine",
-      "answer": "24366",
-      "options": [
-        "Indias",
-        "TNPL",
-        "24366",
-        "Grow"
-      ]
-    },
-    {
-      "blanked": "Here's a quick look at Google's new Pixel 11 series, Pixel Watch 5, and Fitbit ______ - GSMArena.com news",
-      "answer": "Air",
-      "options": [
-        "Air",
-        "Zee",
-        "Students",
-        "Chinas"
-      ]
-    },
-    {
-      "blanked": "Top ______ court upholds assisted dying law, rejects teen social media ban",
-      "answer": "French",
-      "options": [
-        "Power",
-        "Disability",
-        "French",
-        "Swarnkar"
-      ]
-    },
-    {
-      "blanked": "Aditya-L1 findings offer fresh clues to ______ super-heated corona: Indian scientists",
-      "answer": "Suns",
-      "options": [
-        "Tanzid",
-        "Suns",
         "56.8",
-        "USS"
+        "Supreme",
+        "Passes",
+        "NSA"
       ]
     },
     {
-      "blanked": "'Don't mistake India's generosity with weakness': NSA Ajit Doval on ______ Sindoor",
-      "answer": "Operation",
+      "blanked": "CM Adityanath hails Nana ______ reveals actor worked to prevent farmer suicides without publicity | Bollywood",
+      "answer": "Patekar",
       "options": [
+        "ISS",
+        "Patekar",
+        "Drinking",
+        "TNPL"
+      ]
+    },
+    {
+      "blanked": "Fulton's ______ ready to embrace World Cup pressure with defence, set-pieces under the scanner",
+      "answer": "India",
+      "options": [
+        "Luigi",
+        "Suns",
+        "Ultra",
+        "India"
+      ]
+    },
+    {
+      "blanked": "Aditya-L1 findings offer fresh clues to Sun's super-heated corona: ______ scientists",
+      "answer": "Indian",
+      "options": [
+        "Him",
+        "Honor",
+        "Power",
+        "Indian"
+      ]
+    },
+    {
+      "blanked": "Android Circuit: Pixel 11 Pro And Made By Google, Galaxy Z Fold8 Success, Honor Robot ______",
+      "answer": "Arrives",
+      "options": [
+        "Arrives",
         "Pregnancy",
-        "Operation",
-        "Then",
-        "Minerals"
+        "Set",
+        "Mundhe"
       ]
     },
     {
-      "blanked": "Astronomers discover a possible ‘black hole star’ in the early ______ with a supermassive black hole h",
-      "answer": "Universe",
+      "blanked": "Quitting Alcohol Changes The Brain And Can Increase The Risk Of Compulsive Drinking - New ______ In Mice",
+      "answer": "Research",
       "options": [
-        "Increase",
-        "Issued",
-        "Universe",
-        "Served"
+        "Research",
+        "World",
+        "Minerals",
+        "Ultra"
       ]
     },
     {
-      "blanked": "BREAKING: Ranji Trophy-capped TNPL player fined Rs 1 lakh by BCCI’s ______",
-      "answer": "ACSU",
+      "blanked": "‘First Islamic republic with nuclear weapons’: ______ sharp rebuke of UK",
+      "answer": "Netanyahus",
       "options": [
-        "Hug",
-        "ACSU",
-        "Acquisition",
-        "Googles"
+        "Deol",
+        "Entertainments",
+        "Netanyahus",
+        "Issued"
+      ]
+    },
+    {
+      "blanked": "Ranji Trophy-capped ______ player fined Rs 1 lakh for anti-corruption breach",
+      "answer": "TNPL",
+      "options": [
+        "Fix",
+        "Mangione",
+        "TNPL",
+        "Him"
+      ]
+    },
+    {
+      "blanked": "Lamborghini Launches ______ SV Limited-Edition Hybrid Supercar",
+      "answer": "Revuelto",
+      "options": [
+        "Law",
+        "Revuelto",
+        "Galaxy",
+        "Patekar"
+      ]
+    },
+    {
+      "blanked": "\"I Shot Him, He ______ Luigi Mangione Admits He Killed UnitedHealthcare CEO Brian Thompson",
+      "answer": "Died",
+      "options": [
+        "Pro",
+        "Died",
+        "Galaxy",
+        "Hormones"
+      ]
+    },
+    {
+      "blanked": "Plea In Supreme Court Seeks ______ Into How BCI Chairman Issued Orders Against NALSAR Students",
+      "answer": "Enquiry",
+      "options": [
+        "Enquiry",
+        "How",
+        "House",
+        "Google"
+      ]
+    },
+    {
+      "blanked": "Box Office: ‘End of Oak Street’ Makes $2.5 ______ in Previews",
+      "answer": "Million",
+      "options": [
+        "Limited-Edition",
+        "Navy",
+        "Badly",
+        "Million"
       ]
     }
   ]
