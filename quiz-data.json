@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-14T05:20:03.617Z",
+  "generatedAt": "2026-08-14T09:34:49.625Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "Dope Test For All Air India Pilots After Captain Found Positive For Marijuana",
-    "US names India a part of ‘shadow transhipment network’ helping China evade Trump tariffs | India News",
-    "Sudden water inflow traps workers inside Uttarakhand tunnel after heavy rain, 16 rescued",
-    "Trump allows Navy to build ships abroad, orders return to steam catapults on carriers",
-    "BCI Chairman Drops Inquiry Against NALSAR 2026 Batch After Backlash",
-    "Activist Devendra Mahto Seeks Civil Surgeon's Nod To Return To Protest Site",
-    "Rahul mocks Modi’s ‘hug diplomacy’, Dikshit pulls Meloni into joke; BJP calls it ‘gutter-level’",
-    "'A moment that tore apart several lives': PM Modi on Partition Horrors Remembrance Day",
-    "MMDR Amendment Bill, 2026 gets Parliament nod, set to become law after President's assent",
-    "Justice Yashwant Varma inquiry: What the panel found and what happens next? | Explained",
-    "West Asia war updates: Iran rejects Trump claims of U.S. control over Strait of Hormuz as ‘lies’",
+    "Supreme Court quashes all FIRs against Samay Raina, others over Latent show remarks against persons with disabilities | India News",
+    "BREAKING| CJI Surya Kant Disapproves BCI Action Against NALSAR Students, Says They Have Right To Protest",
+    "Air India A320 briefly lost key flight controls, Airbus analysis shows",
+    "‘Great scam’: US after India named among 40 nations aiding China evade tariffs",
+    "Delhi High Court, Airport Receive Bomb Threat Day Before Independence Day",
     "US rushes new carrier to Middle East amid reports of mental health crisis on USS Lincoln",
-    "When Karoline Leavitt Became Trump's Voice On India-US Trade, War With Pak",
-    "Trump imposes up to 100% tariffs on imported drones, components",
-    "Tata Trusts kicks off process to pick Chandrasekaran’s successor",
-    "Stock Market Today: Gift Nifty To Trump Tariffs — Five Key Factors That May Drive Sensex, Nifty 50 on August 14",
-    "US Set to Pay Most for 30-Year Debt in Quarter of a Century",
-    "Rupee slips, muted price action sinks volatility expectations to five-month low",
-    "Galaxy Z Fold8 does not impress in teardown - GSMArena.com news",
-    "Pixel 11 phones get seven years of spare parts to go with update policy",
-    "Pixel Watch 5 Will Call Emergency Services if It Detects a Breathing Emergency",
-    "iPhone manufacturer says base iPhone 18 won't launch until 2027",
+    "Census 2027 to have 40 questions, including details of caste, COVID vaccination, ID proofs",
+    "Meet The Maharashtra Cop Whose Split-Second Response Saved Sukhbir Badal",
+    "BREAKING| Supreme Court Quashes Hate Speech Case Against Rahul Gandhi Over Comments Against Savarkar Due...",
+    "Seven workers dead, three still trapped after water floods tunnel in Uttarakhand’s Chamoli",
+    "West Asia war updates: Iran rejects Trump claims of U.S. control over Strait of Hormuz as ‘lies’",
+    "Indian-origin man pleads guilty to accessing CSAM, jailed in US",
+    "UK records hottest day of year as temperature crosses 38°C in west London",
+    "Nigel Farage defeats Count Binface to reclaim UK parliamentary seat",
+    "Tata Sons chairman hunt hits a roadblock. Why Tata Trusts may go to court",
+    "Nifty 50, Sensex prediction today: Check how Indian stock market is expected to trade on 14 August",
+    "Zee Entertainment shares rise up to 7% as SAT grants conditional relief in SEBI case",
+    "Which key items became costlier or cheaper as inflation jumps to 4.45% in July? | Food inflation climbed to 5.52% | Inshorts",
+    "In Photos: Google Pixel 11 And Pixel 11 Pro Series First Look After India Launch",
+    "Samsung Officially Launches Galaxy Z Fold8 Ultra, Fold8, Flip8, Watch Ultra2 and Watch9 in Australia",
+    "Google unveils Gemini 3.7 Flash AI model for coding, agent workflows",
+    "iPhone 18 Pro Max launching soon: Expected launch date, price, display, battery and specifications",
     "Awarapan 2 Final Advance Booking: Emraan Hashmi & Disha Patani starrer set for excellent opening day; Sells 1.25 lakh tickets in National Chains",
     "'Things were so erratic, there was just disbelief all over': Sunny Deol on his partition roles in ‘Batwar",
-    "Yash's Toxic Plot Revealed, Film Gets 'A' Certificate Ahead Of August 26 Release"
+    "\"We Will Make You Vacate Karnataka\": Actor Rishika Singh Slams Yash's Toxic Trailer"
   ],
   "quiz": [
     {
-      "blanked": "A series of unknowns as once familiar ______ Lanka and India face off",
-      "answer": "Sri",
+      "blanked": "Vitamin D Deficiency Affects Most Children in New ______",
+      "answer": "Study",
       "options": [
-        "Sri",
-        "Triplet",
-        "Crossing",
-        "Market"
+        "Tanzid",
+        "Study",
+        "Actor",
+        "Karnataka"
       ]
     },
     {
-      "blanked": "New vaccination approach turns mosquito bites into immunity boosters - ______",
-      "answer": "News-Medical",
+      "blanked": "Ferran Torres' PSG transfer could finally unlock Barcelona's move for ______ Cup-winning star - report",
+      "answer": "World",
       "options": [
-        "News-Medical",
-        "China",
-        "Dikshit",
-        "Explained"
+        "NALSAR",
+        "Five",
+        "Savarkar",
+        "World"
       ]
     },
     {
-      "blanked": "'Things were so erratic, there was just disbelief all over': Sunny Deol on his partition roles in ______",
-      "answer": "Batwar",
+      "blanked": "Nigel Farage defeats ______ Binface to reclaim UK parliamentary seat",
+      "answer": "Count",
       "options": [
-        "Intersystem",
-        "Quarterfinals",
-        "Batwar",
-        "Ousts"
+        "Count",
+        "Cup-winning",
+        "Barcelonas",
+        "Lincoln"
       ]
     },
     {
-      "blanked": "Yash's Toxic Plot Revealed, Film ______ 'A' Certificate Ahead Of August 26 Release",
-      "answer": "Gets",
+      "blanked": "Indian-origin man pleads guilty to accessing ______ jailed in US",
+      "answer": "CSAM",
       "options": [
-        "Sensex",
+        "CSAM",
+        "Study",
+        "Karnataka",
+        "Galaxy"
+      ]
+    },
+    {
+      "blanked": "New AI Tool Uses ______ Learning to Spot Hidden Cancer Cells",
+      "answer": "Deep",
+      "options": [
+        "Saved",
+        "Sons",
+        "Deep",
+        "Uttarakhands"
+      ]
+    },
+    {
+      "blanked": "AUS vs BAN, ______ Test: Tanzid Hasan Tamim vindicates selection gamble with historic ton",
+      "answer": "Darwin",
+      "options": [
         "Trump",
-        "Breathing",
-        "Gets"
+        "Darwin",
+        "Asia",
+        "Launch"
       ]
     },
     {
-      "blanked": "US rushes new carrier to Middle ______ amid reports of mental health crisis on USS Lincoln",
-      "answer": "East",
+      "blanked": "Zee ______ shares rise up to 7% as SAT grants conditional relief in SEBI case",
+      "answer": "Entertainment",
       "options": [
-        "Final",
-        "East",
-        "1.25",
-        "Horrors"
+        "Atluri",
+        "Manpreet",
+        "Sells",
+        "Entertainment"
       ]
     },
     {
-      "blanked": "Ebola tracing improves in DR ______ – but the virus is still winning the race",
-      "answer": "Congo",
+      "blanked": "Seven workers dead, three still trapped after water floods tunnel in ______ Chamoli",
+      "answer": "Uttarakhands",
       "options": [
-        "2027",
-        "Congo",
-        "Backlash",
-        "Partition"
-      ]
-    },
-    {
-      "blanked": "Higher-Lying ______ States Enhance Intersystem Crossing and Phosphorescence",
-      "answer": "Triplet",
-      "options": [
-        "East",
-        "Europe",
-        "Triplet",
-        "Dikshit"
-      ]
-    },
-    {
-      "blanked": "Stock Market Today: Gift Nifty To ______ Tariffs — Five Key Factors That May Drive Sensex, Nifty 50 on August 14",
-      "answer": "Trump",
-      "options": [
-        "Return",
-        "India",
-        "Explained",
-        "Trump"
-      ]
-    },
-    {
-      "blanked": "‘Gambhir a fantastic coach’: Gary ______ backs under-fire India coach to deliver",
-      "answer": "Kirsten",
-      "options": [
-        "Pak",
-        "Kirsten",
-        "Crossing",
-        "Dikshit"
+        "Raina",
+        "Sri",
+        "Uttarakhands",
+        "Hidden"
       ]
     },
     {
       "blanked": "Not quite a star, possibly a black hole: ______ spots mysterious cosmic object",
       "answer": "JWST",
       "options": [
-        "Joins",
         "JWST",
-        "Lincoln",
-        "Trusts"
+        "July",
+        "Manpreet",
+        "Cup"
       ]
     },
     {
-      "blanked": "Pixel ______ 5 Will Call Emergency Services if It Detects a Breathing Emergency",
-      "answer": "Watch",
+      "blanked": "US rushes new carrier to Middle ______ amid reports of mental health crisis on USS Lincoln",
+      "answer": "East",
       "options": [
-        "Watch",
-        "Film",
-        "1.25",
-        "Debt"
+        "East",
+        "Sukhbir",
+        "Updates",
+        "Slams"
       ]
     },
     {
-      "blanked": "West Asia war updates: Iran rejects Trump claims of U.S. control over ______ of Hormuz as ‘lies’",
-      "answer": "Strait",
+      "blanked": "Supreme Court quashes all FIRs against Samay Raina, others over ______ show remarks against persons with disabilities | India News",
+      "answer": "Latent",
       "options": [
-        "Certificate",
-        "Horrors",
-        "Strait",
-        "Trusts"
+        "Latent",
+        "Torres",
+        "Savarkar",
+        "Cancer"
+      ]
+    },
+    {
+      "blanked": "Delhi High Court, ______ Receive Bomb Threat Day Before Independence Day",
+      "answer": "Airport",
+      "options": [
+        "Tata",
+        "Binface",
+        "Airport",
+        "Entertainment"
       ]
     }
   ]
