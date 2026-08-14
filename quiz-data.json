@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-08-14T21:02:53.696Z",
+  "generatedAt": "2026-08-14T21:56:59.653Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "Students are architects of India’s future, says President Murmu",
-    "Plea In Supreme Court Seeks Enquiry Into How BCI Chairman Issued Orders Against NALSAR Students",
+    "Govt taking comprehensive steps for exam reforms, says President Murmu in address to nation | Hindustan Times",
     "‘First Islamic republic with nuclear weapons’: Netanyahu’s sharp rebuke of UK",
     "India's generosity, tolerance should not be seen as weakness: NSA Ajit Doval on Operation Sindoor",
     "\"When Will You Grow Up?\" BJP Slams Rahul Gandhi Over 'Hug' Jibe At PM Modi",
-    "Census 2027: Centre notifies 40 questions for second phase",
-    "India rejects Norwegian foreign minister's remarks on Kashmir",
-    "Will TVs Get Badly Affected with Govt Decision?",
+    "80 years free, India’s biggest independence challenge is its bureaucracy with colonial mindset | India News",
+    "Plea In Supreme Court Seeks Enquiry Into How BCI Chairman Issued Orders Against NALSAR Students",
+    "Pune Lawyer Turned Nihang Sikh: Man Who Attacked Sukhbir Singh Badal",
+    "Jharkhand exam stir: Police lodge FIR against more than 500 unidentified protesters",
     "Tukaram Mundhe Went To Dinner With Friends. Then Fake Paneer Was Served",
     "Parliament Passes Law Curbing States' Power To Levy Tax On Minerals & Recover Past Dues",
     "US Navy sends replacement for USS Lincoln after reports of sailors threatening to jump overboard",
@@ -20,134 +20,134 @@
     "Stock Market Close: Sensex sheds 71 pts; Nifty settles at 24,366; Consumer Durables shares shine",
     "RBI prematurely closes FCNR(B) swap window as forex inflows cross $56.8 billion",
     "SAT allows Zee Entertainment's upcoming capital raise but SEBI's market ban to continue",
-    "Mid-cap inflows crossed Rs 6,000 crore in July: What the top 3 mid-cap mutual funds bought and sold",
+    "Meta says it has taken down 756,000 Australian teen accounts as ban enforcement looms",
     "Android Circuit: Pixel 11 Pro And Made By Google, Galaxy Z Fold8 Success, Honor Robot Arrives",
     "Google launches Gemini 3.7 Flash with stronger coding and AI agent skills",
-    "Lamborghini Launches Revuelto SV Limited-Edition Hybrid Supercar",
     "Samsung Officially Launches Galaxy Z Fold8 Ultra, Fold8, Flip8, Watch Ultra2 and Watch9 in Australia",
+    "Lamborghini unveils Revuelto SV, its most powerful production car ever",
     "Awarapan 2 vs Batwara 1947 box office: Emraan Hashmi leads Sunny Deol by Rs 7 cr, beats Dhurandhar",
-    "Box Office: ‘End of Oak Street’ Makes $2.5 Million in Previews",
-    "CM Adityanath hails Nana Patekar, reveals actor worked to prevent farmer suicides without publicity | Bollywood"
+    "CM Adityanath hails Nana Patekar, reveals actor worked to prevent farmer suicides without publicity | Bollywood",
+    "Sunita Ahuja takes dig at Govinda; reacts to his outing with Komal Rani Swarnkar; calls him ‘sugar daddy’"
   ],
   "quiz": [
     {
-      "blanked": "RBI prematurely closes FCNR(B) swap window as forex inflows cross ______ billion",
-      "answer": "56.8",
+      "blanked": "US ______ sends replacement for USS Lincoln after reports of sailors threatening to jump overboard",
+      "answer": "Navy",
       "options": [
-        "56.8",
-        "Supreme",
-        "Passes",
-        "NSA"
-      ]
-    },
-    {
-      "blanked": "CM Adityanath hails Nana ______ reveals actor worked to prevent farmer suicides without publicity | Bollywood",
-      "answer": "Patekar",
-      "options": [
-        "ISS",
-        "Patekar",
-        "Drinking",
-        "TNPL"
-      ]
-    },
-    {
-      "blanked": "Fulton's ______ ready to embrace World Cup pressure with defence, set-pieces under the scanner",
-      "answer": "India",
-      "options": [
-        "Luigi",
-        "Suns",
-        "Ultra",
-        "India"
-      ]
-    },
-    {
-      "blanked": "Aditya-L1 findings offer fresh clues to Sun's super-heated corona: ______ scientists",
-      "answer": "Indian",
-      "options": [
-        "Him",
-        "Honor",
-        "Power",
-        "Indian"
-      ]
-    },
-    {
-      "blanked": "Android Circuit: Pixel 11 Pro And Made By Google, Galaxy Z Fold8 Success, Honor Robot ______",
-      "answer": "Arrives",
-      "options": [
-        "Arrives",
+        "Test",
         "Pregnancy",
-        "Set",
-        "Mundhe"
-      ]
-    },
-    {
-      "blanked": "Quitting Alcohol Changes The Brain And Can Increase The Risk Of Compulsive Drinking - New ______ In Mice",
-      "answer": "Research",
-      "options": [
-        "Research",
-        "World",
-        "Minerals",
-        "Ultra"
-      ]
-    },
-    {
-      "blanked": "‘First Islamic republic with nuclear weapons’: ______ sharp rebuke of UK",
-      "answer": "Netanyahus",
-      "options": [
-        "Deol",
-        "Entertainments",
-        "Netanyahus",
-        "Issued"
+        "Navy",
+        "Close"
       ]
     },
     {
       "blanked": "Ranji Trophy-capped ______ player fined Rs 1 lakh for anti-corruption breach",
       "answer": "TNPL",
       "options": [
-        "Fix",
-        "Mangione",
+        "Risks",
+        "Brian",
         "TNPL",
-        "Him"
+        "Into"
       ]
     },
     {
-      "blanked": "Lamborghini Launches ______ SV Limited-Edition Hybrid Supercar",
-      "answer": "Revuelto",
+      "blanked": "Can your smartwatch really tell if your heart is healthy? ______ explain",
+      "answer": "Doctors",
       "options": [
+        "Doctors",
+        "Market",
+        "24366",
+        "Komal"
+      ]
+    },
+    {
+      "blanked": "Parliament Passes ______ Curbing States' Power To Levy Tax On Minerals & Recover Past Dues",
+      "answer": "Law",
+      "options": [
+        "Minerals",
+        "24366",
         "Law",
-        "Revuelto",
-        "Galaxy",
-        "Patekar"
+        "Hug"
       ]
     },
     {
-      "blanked": "\"I Shot Him, He ______ Luigi Mangione Admits He Killed UnitedHealthcare CEO Brian Thompson",
-      "answer": "Died",
+      "blanked": "India in U.S. crosshairs again — ______ House report cites countries ‘enabling’ China’s tariff evasions",
+      "answer": "White",
       "options": [
-        "Pro",
-        "Died",
-        "Galaxy",
-        "Hormones"
+        "Risks",
+        "Dues",
+        "White",
+        "Dinner"
       ]
     },
     {
-      "blanked": "Plea In Supreme Court Seeks ______ Into How BCI Chairman Issued Orders Against NALSAR Students",
-      "answer": "Enquiry",
+      "blanked": "Aditya-L1 findings offer fresh clues to Sun's super-heated corona: ______ scientists",
+      "answer": "Indian",
       "options": [
-        "Enquiry",
-        "How",
-        "House",
-        "Google"
+        "Flash",
+        "Officially",
+        "Indian",
+        "NALSAR"
       ]
     },
     {
-      "blanked": "Box Office: ‘End of Oak Street’ Makes $2.5 ______ in Previews",
-      "answer": "Million",
+      "blanked": "Meta says it has taken down ______ Australian teen accounts as ban enforcement looms",
+      "answer": "756000",
       "options": [
-        "Limited-Edition",
-        "Navy",
-        "Badly",
-        "Million"
+        "756000",
+        "Bollywood",
+        "Emraan",
+        "Then"
+      ]
+    },
+    {
+      "blanked": "Coffee consumption linked to metabolic health, sex hormone changes: ______",
+      "answer": "Study",
+      "options": [
+        "Galle",
+        "Study",
+        "Nifty",
+        "Barcelona"
+      ]
+    },
+    {
+      "blanked": "80 years free, India’s biggest independence challenge is its bureaucracy with colonial mindset | ______ News",
+      "answer": "India",
+      "options": [
+        "Dhurandhar",
+        "Bite",
+        "India",
+        "Indias"
+      ]
+    },
+    {
+      "blanked": "Antiphospholipid Antibodies Linked to ______ Risks in SLE",
+      "answer": "Pregnancy",
+      "options": [
+        "Universe",
+        "Test",
+        "Pregnancy",
+        "Linked"
+      ]
+    },
+    {
+      "blanked": "Awarapan 2 vs Batwara 1947 box office: ______ Hashmi leads Sunny Deol by Rs 7 cr, beats Dhurandhar",
+      "answer": "Emraan",
+      "options": [
+        "Emraan",
+        "Launches",
+        "Australia",
+        "Attacked"
+      ]
+    },
+    {
+      "blanked": "\"I Shot Him, He Died\": Luigi ______ Admits He Killed UnitedHealthcare CEO Brian Thompson",
+      "answer": "Mangione",
+      "options": [
+        "Mangione",
+        "Netanyahus",
+        "FCNRB",
+        "Manpreet"
       ]
     }
   ]
