@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-14T21:56:59.653Z",
+  "generatedAt": "2026-08-14T22:53:45.543Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
     "Govt taking comprehensive steps for exam reforms, says President Murmu in address to nation | Hindustan Times",
-    "‘First Islamic republic with nuclear weapons’: Netanyahu’s sharp rebuke of UK",
+    "‘First Islamic republic with nuclear weapons’: Netanyahu lashes out at UK",
     "India's generosity, tolerance should not be seen as weakness: NSA Ajit Doval on Operation Sindoor",
     "\"When Will You Grow Up?\" BJP Slams Rahul Gandhi Over 'Hug' Jibe At PM Modi",
-    "80 years free, India’s biggest independence challenge is its bureaucracy with colonial mindset | India News",
     "Plea In Supreme Court Seeks Enquiry Into How BCI Chairman Issued Orders Against NALSAR Students",
+    "Bangladesh turns to India for help as power crisis forces 8pm shutdown for malls, shops | India News",
     "Pune Lawyer Turned Nihang Sikh: Man Who Attacked Sukhbir Singh Badal",
     "Jharkhand exam stir: Police lodge FIR against more than 500 unidentified protesters",
-    "Tukaram Mundhe Went To Dinner With Friends. Then Fake Paneer Was Served",
     "Parliament Passes Law Curbing States' Power To Levy Tax On Minerals & Recover Past Dues",
+    "Tukaram Mundhe Went To Dinner With Friends. Then Fake Paneer Was Served",
     "US Navy sends replacement for USS Lincoln after reports of sailors threatening to jump overboard",
+    "‘Pretty soon’: Trump vows to claim Hormuz as US territory; Iran hits back",
     "\"I Shot Him, He Died\": Luigi Mangione Admits He Killed UnitedHealthcare CEO Brian Thompson",
     "India in U.S. crosshairs again — White House report cites countries ‘enabling’ China’s tariff evasions",
-    "Top French court upholds assisted dying law, rejects teen social media ban",
     "Stock Market Close: Sensex sheds 71 pts; Nifty settles at 24,366; Consumer Durables shares shine",
+    "Billionaire Mukesh Ambani’s Reliance, Rolls-Royce To Develop Fighter Jet Engines In India",
     "RBI prematurely closes FCNR(B) swap window as forex inflows cross $56.8 billion",
-    "SAT allows Zee Entertainment's upcoming capital raise but SEBI's market ban to continue",
     "Meta says it has taken down 756,000 Australian teen accounts as ban enforcement looms",
     "Android Circuit: Pixel 11 Pro And Made By Google, Galaxy Z Fold8 Success, Honor Robot Arrives",
     "Google launches Gemini 3.7 Flash with stronger coding and AI agent skills",
-    "Samsung Officially Launches Galaxy Z Fold8 Ultra, Fold8, Flip8, Watch Ultra2 and Watch9 in Australia",
     "Lamborghini unveils Revuelto SV, its most powerful production car ever",
+    "Samsung Officially Launches Galaxy Z Fold8 Ultra, Fold8, Flip8, Watch Ultra2 and Watch9 in Australia",
     "Awarapan 2 vs Batwara 1947 box office: Emraan Hashmi leads Sunny Deol by Rs 7 cr, beats Dhurandhar",
     "CM Adityanath hails Nana Patekar, reveals actor worked to prevent farmer suicides without publicity | Bollywood",
     "Sunita Ahuja takes dig at Govinda; reacts to his outing with Komal Rani Swarnkar; calls him ‘sugar daddy’"
   ],
   "quiz": [
     {
-      "blanked": "US ______ sends replacement for USS Lincoln after reports of sailors threatening to jump overboard",
-      "answer": "Navy",
+      "blanked": "Google launches Gemini ______ Flash with stronger coding and AI agent skills",
+      "answer": "3.7",
       "options": [
-        "Test",
-        "Pregnancy",
-        "Navy",
-        "Close"
+        "Circuit",
+        "3.7",
+        "Govinda",
+        "Rahul"
       ]
     },
     {
-      "blanked": "Ranji Trophy-capped ______ player fined Rs 1 lakh for anti-corruption breach",
-      "answer": "TNPL",
+      "blanked": "US ______ sends replacement for USS Lincoln after reports of sailors threatening to jump overboard",
+      "answer": "Navy",
       "options": [
-        "Risks",
-        "Brian",
-        "TNPL",
-        "Into"
+        "Navy",
+        "Operation",
+        "Arrives",
+        "56.8"
       ]
     },
     {
       "blanked": "Can your smartwatch really tell if your heart is healthy? ______ explain",
       "answer": "Doctors",
       "options": [
-        "Doctors",
-        "Market",
-        "24366",
-        "Komal"
-      ]
-    },
-    {
-      "blanked": "Parliament Passes ______ Curbing States' Power To Levy Tax On Minerals & Recover Past Dues",
-      "answer": "Law",
-      "options": [
-        "Minerals",
-        "24366",
-        "Law",
-        "Hug"
+        "Sukhbir",
+        "Murmu",
+        "Spider-Man",
+        "Doctors"
       ]
     },
     {
       "blanked": "India in U.S. crosshairs again — ______ House report cites countries ‘enabling’ China’s tariff evasions",
       "answer": "White",
       "options": [
-        "Risks",
-        "Dues",
         "White",
-        "Dinner"
+        "Went",
+        "Drinking",
+        "Bite"
       ]
     },
     {
       "blanked": "Aditya-L1 findings offer fresh clues to Sun's super-heated corona: ______ scientists",
       "answer": "Indian",
       "options": [
-        "Flash",
-        "Officially",
+        "News",
+        "Murmu",
         "Indian",
-        "NALSAR"
+        "Past"
       ]
     },
     {
-      "blanked": "Meta says it has taken down ______ Australian teen accounts as ban enforcement looms",
-      "answer": "756000",
-      "options": [
-        "756000",
-        "Bollywood",
-        "Emraan",
-        "Then"
-      ]
-    },
-    {
-      "blanked": "Coffee consumption linked to metabolic health, sex hormone changes: ______",
-      "answer": "Study",
-      "options": [
-        "Galle",
-        "Study",
-        "Nifty",
-        "Barcelona"
-      ]
-    },
-    {
-      "blanked": "80 years free, India’s biggest independence challenge is its bureaucracy with colonial mindset | ______ News",
-      "answer": "India",
-      "options": [
-        "Dhurandhar",
-        "Bite",
-        "India",
-        "Indias"
-      ]
-    },
-    {
-      "blanked": "Antiphospholipid Antibodies Linked to ______ Risks in SLE",
-      "answer": "Pregnancy",
+      "blanked": "Astronomers discover a possible ‘black hole star’ in the early ______ with a supermassive black hole h",
+      "answer": "Universe",
       "options": [
         "Universe",
-        "Test",
-        "Pregnancy",
-        "Linked"
+        "Police",
+        "Compulsive",
+        "Street"
       ]
     },
     {
-      "blanked": "Awarapan 2 vs Batwara 1947 box office: ______ Hashmi leads Sunny Deol by Rs 7 cr, beats Dhurandhar",
-      "answer": "Emraan",
+      "blanked": "India look for a fresh wave to crash Test shores in ______",
+      "answer": "Galle",
       "options": [
-        "Emraan",
-        "Launches",
-        "Australia",
-        "Attacked"
+        "Galle",
+        "Google",
+        "Admits",
+        "Compulsive"
       ]
     },
     {
-      "blanked": "\"I Shot Him, He Died\": Luigi ______ Admits He Killed UnitedHealthcare CEO Brian Thompson",
-      "answer": "Mangione",
+      "blanked": "\"I Shot Him, He Died\": ______ Mangione Admits He Killed UnitedHealthcare CEO Brian Thompson",
+      "answer": "Luigi",
       "options": [
-        "Mangione",
-        "Netanyahus",
-        "FCNRB",
-        "Manpreet"
+        "Watch",
+        "Served",
+        "Deol",
+        "Luigi"
+      ]
+    },
+    {
+      "blanked": "Govt taking comprehensive steps for exam reforms, says President Murmu in address to nation | ______ Times",
+      "answer": "Hindustan",
+      "options": [
+        "Linked",
+        "Increase",
+        "Hindustan",
+        "Mundhe"
+      ]
+    },
+    {
+      "blanked": "Ferran ______ transfer both solves and creates a problem for Barcelona",
+      "answer": "Torres",
+      "options": [
+        "Torres",
+        "Nifty",
+        "Navy",
+        "Durables"
+      ]
+    },
+    {
+      "blanked": "\"When Will You Grow Up?\" BJP Slams ______ Gandhi Over 'Hug' Jibe At PM Modi",
+      "answer": "Rahul",
+      "options": [
+        "Dhurandhar",
+        "Hug",
+        "Brain",
+        "Rahul"
+      ]
+    },
+    {
+      "blanked": "Parliament Passes Law ______ States' Power To Levy Tax On Minerals & Recover Past Dues",
+      "answer": "Curbing",
+      "options": [
+        "Arrives",
+        "Operation",
+        "Curbing",
+        "3.7"
       ]
     }
   ]
