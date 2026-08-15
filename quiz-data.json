@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-15T21:41:30.660Z",
+  "generatedAt": "2026-08-15T22:00:35.295Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "BCI Chairperson Manan Kumar Mishra Apologises To Law Students Amid NALSAR Row",
     "Modi threatens to target ‘intellectual Naxals’ in Independence Day speech",
+    "BCI Chairperson Manan Kumar Mishra Apologises To Law Students Amid NALSAR Row",
     "Jharkhand protest: Students demand CM Hemant Soren's resignation, ask Congress to ‘withdraw support’ | India News",
     "Trump urges Americans to pay ‘little bit more’ for gas as Hormuz crisis with Iran deepens | World News",
     "Zardari claims Pakistan’s Hindus prefer ‘being with us’, says 'India believes in Akhand Bharat, but we…' | World News",
     "August 15 also marks five years of Taliban’s return to power in Afghanistan: What the country is like now | Hindustan Times",
     "As Sukhbir Badal Recovers, Harsimrat Steps Up: Woman Leading Akalis' Fight",
     "Happy Independence Day 2026: Best Quotes, Wishes, Images and Messages to Share on 15th August",
-    "Students are architects of India’s future, says President Murmu",
     "'Zameen, aasmaan, paatal, jahan bhi ho': Doval recalls PM Modi's Operation Sindoor order | India News",
+    "'Warmest congratulations': World leaders wish India 80th Independence Day, hail growing ties",
     "6.9-Magnitude Quake Strikes Indonesia, Hours After Deadly Tremor Killed 47",
     "West Asia war LIVE: Israeli airstrike on southern Lebanon kills 7 people, Lebanese state media say",
     "UAE says Iran attacked ADNOC vessel in Hormuz, urges waterway's reopening",
-    "Michigan shooting: 5 killed, 1 critically injured, suspected gunman found dead after manhunt",
+    "‘Harm to bilateral ties’: Russia demands US, Turkey explanation over possible Ukraine arms transfer - What's happening | World News",
+    "Why Chandrasekaran’s exit has revived the ghosts of the Cyrus Mistry battle",
     "2026 Mahindra Scorpio Lifestyler Pickup Vs Toyota Hilux: Compared In Detail",
-    "Tata chairman’s shock exit move puts JLR owner's bets on chips, iPhones and Air India at risk",
     "India may get 5-8 more semiconductor plants in 7-8 years, says PM Modi",
     "Billionaire Mukesh Ambani’s Reliance, Rolls-Royce To Develop Fighter Jet Engines In India",
     "Apple iPhone 18 Pro Release Date: Discounted Day Re-Enters The September Schedule",
-    "Honor Robot Phone Is Live: Hands-on, a Camera Can Dance and Price Details",
-    "Lamborghini Revuelto SV Revealed with 1,050bhp Hybrid V12 Setup; Limited to 1,963 Units",
-    "Deals: Google Pixel 11 series pre-orders start - GSMArena.com news",
+    "Deals: Pixel 11 series goes on pre-order, Galaxy Z8 foldables and S26 models drop prices - GSMArena.com news",
+    "Lamborghini Revuelto SV unveiled at Monterey Car Week, limited to 1,963 units",
+    "‘iPhone feels like a dad phone’: Galaxy Z Fold8’s ‘passport’ design wins over Apple loyalists",
     "Box Office Early Trends: Awarapan 2, Batwara 1947 and Spider Man biz soars on Independence Day in India",
     "Kareena Kapoor shares son Taimur Ali Khan’s adorable Independence Day artwork | Bollywood",
-    "Shah Rukh Khan says there's something special about being Indian as he drops Independence day wishes with"
+    "Yash Praises Kiara Advani's Dedication In Toxic, Reveals He Was \"Worried\" For Her"
   ],
   "quiz": [
     {
-      "blanked": "Kareena ______ shares son Taimur Ali Khan’s adorable Independence Day artwork | Bollywood",
-      "answer": "Kapoor",
+      "blanked": "Apple iPhone 18 Pro ______ Date: Discounted Day Re-Enters The September Schedule",
+      "answer": "Release",
       "options": [
-        "Beyond",
-        "Kapoor",
-        "Scorecard",
-        "Bharat"
-      ]
-    },
-    {
-      "blanked": "BWF World Championships: ______ smashes, drops, the conditions could decide the winner",
-      "answer": "Beyond",
-      "options": [
-        "Patriotic",
-        "Woman",
-        "Setup",
-        "Beyond"
-      ]
-    },
-    {
-      "blanked": "Deals: ______ Pixel 11 series pre-orders start - GSMArena.com news",
-      "answer": "Google",
-      "options": [
-        "Spider",
-        "Doval",
-        "Google",
-        "Batwara"
-      ]
-    },
-    {
-      "blanked": "NASA’s new AI model can predict ______ storm-causing regions up to 12 hours before they appear",
-      "answer": "Suns",
-      "options": [
-        "Apologises",
-        "Suns",
-        "Discounted",
-        "Bollywood"
-      ]
-    },
-    {
-      "blanked": "August 15 also marks five years of ______ return to power in Afghanistan: What the country is like now | Hindustan Times",
-      "answer": "Talibans",
-      "options": [
-        "Talibans",
-        "India",
-        "Badal",
+        "Hemant",
+        "Release",
+        "Manan",
         "Everyday"
-      ]
-    },
-    {
-      "blanked": "Lamborghini Revuelto SV ______ with 1,050bhp Hybrid V12 Setup; Limited to 1,963 Units",
-      "answer": "Revealed",
-      "options": [
-        "Revealed",
-        "Killed",
-        "Strikes",
-        "Talibans"
-      ]
-    },
-    {
-      "blanked": "Tata chairman’s shock exit move puts JLR owner's bets on chips, iPhones and ______ India at risk",
-      "answer": "Air",
-      "options": [
-        "Deadly",
-        "Wishes",
-        "Hours",
-        "Air"
-      ]
-    },
-    {
-      "blanked": "6.9-Magnitude Quake ______ Indonesia, Hours After Deadly Tremor Killed 47",
-      "answer": "Strikes",
-      "options": [
-        "Strikes",
-        "Day",
-        "Full",
-        "Steps"
-      ]
-    },
-    {
-      "blanked": "‘I drink black coffee daily’: ______ shares 6 research-backed benefits, from brain health to longevity | Health",
-      "answer": "Oncologist",
-      "options": [
-        "Oncologist",
-        "Batwara",
-        "Air",
-        "Google"
       ]
     },
     {
       "blanked": "Alzheimer’s Biomarkers Associated with ______ Motor Decline",
       "answer": "Early",
       "options": [
-        "Cup",
-        "Cricket",
-        "Fighter",
-        "Early"
+        "Motor",
+        "Early",
+        "Decline",
+        "Independence"
       ]
     },
     {
-      "blanked": "Devdutt ______ maximises Galle's soft landing",
-      "answer": "Padikkal",
+      "blanked": "Box ______ Early Trends: Awarapan 2, Batwara 1947 and Spider Man biz soars on Independence Day in India",
+      "answer": "Office",
       "options": [
-        "Dance",
-        "Law",
-        "Leading",
-        "Padikkal"
+        "Deadly",
+        "Hindustan",
+        "Spider",
+        "Office"
       ]
     },
     {
-      "blanked": "BCI Chairperson Manan ______ Mishra Apologises To Law Students Amid NALSAR Row",
-      "answer": "Kumar",
+      "blanked": "UAE says Iran attacked ADNOC vessel in ______ urges waterway's reopening",
+      "answer": "Hormuz",
       "options": [
-        "Bollywood",
-        "Engines",
         "Kumar",
-        "Beyond"
+        "Arthritis",
+        "Hormuz",
+        "IND"
+      ]
+    },
+    {
+      "blanked": "Spider-Man: Brand New Day India Box Office Day 16: Becomes First Hollywood Film To Reach 450 Crore, ______ To Miss The Next Historic Milestone?",
+      "answer": "Likely",
+      "options": [
+        "Likely",
+        "What",
+        "Jet",
+        "Discounted"
+      ]
+    },
+    {
+      "blanked": "Modi threatens to target ‘intellectual Naxals’ in ______ Day speech",
+      "answer": "Independence",
+      "options": [
+        "Taimur",
+        "Independence",
+        "Reliance",
+        "1947"
+      ]
+    },
+    {
+      "blanked": "6.9-Magnitude Quake Strikes Indonesia, Hours After Deadly Tremor ______ 47",
+      "answer": "Killed",
+      "options": [
+        "Killed",
+        "Jet",
+        "Lebanese",
+        "Date"
+      ]
+    },
+    {
+      "blanked": "Devdutt Padikkal maximises ______ soft landing",
+      "answer": "Galles",
+      "options": [
+        "Decline",
+        "Galles",
+        "Deadly",
+        "Miss"
+      ]
+    },
+    {
+      "blanked": "Astronomers discover a possible ‘black hole star’ in the early ______ with a supermassive black hole h",
+      "answer": "Universe",
+      "options": [
+        "Next",
+        "Afghanistan",
+        "Universe",
+        "Congress"
+      ]
+    },
+    {
+      "blanked": "NICK STROBEL: ______ eclipse on tap for Aug. 27",
+      "answer": "Lunar",
+      "options": [
+        "Brand",
+        "Lunar",
+        "Trends",
+        "Galles"
+      ]
+    },
+    {
+      "blanked": "Jharkhand protest: ______ demand CM Hemant Soren's resignation, ask Congress to ‘withdraw support’ | India News",
+      "answer": "Students",
+      "options": [
+        "Afghanistan",
+        "Revuelto",
+        "Akhand",
+        "Students"
+      ]
+    },
+    {
+      "blanked": "Lamborghini Revuelto SV unveiled at Monterey Car Week, limited to ______ units",
+      "answer": "1963",
+      "options": [
+        "Modis",
+        "Trends",
+        "1963",
+        "Row"
       ]
     }
   ]
