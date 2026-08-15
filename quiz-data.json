@@ -1,43 +1,43 @@
 {
-  "generatedAt": "2026-08-15T09:02:37.602Z",
+  "generatedAt": "2026-08-15T09:55:46.090Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
     "Independence Day LIVE updates: PM Modi calls for manufacturing sector boost, lays out seven-point reform framework",
     "‘I want it immediately’: NSA Ajit Doval reveals first question PM Modi asked after Pahalgam terror attack | India News",
     "20 dead in Indonesia's 7.7-magnitude earthquake: Visuals show buildings collapse, people fleeing | World News",
-    "NLSIU Students Demand BCI Apology For Orders Against NALSAR",
-    "Centre notifies 40 questions for Census 2027; caste, SC, ST status included",
-    "CJP claims Instagram account restored after being taken down, Abhijeet Dipke calls out 'bloody cowards' | India News",
-    "\"PoK Would Have Joined J&K If...\": Omar Abdullah's Statehood Pitch",
-    "‘Imagine the audacity’: Mahua Moitra alleges late-night eviction bid from Circuit House",
     "Bengal Man Arrested In Bengaluru For Terror Links, Wanted To Go To Afghanistan, Fight Pak",
-    "\"Take Credit, But...\": PM Modi's Appeal To Political Parties On Women Quota",
-    "West Asia war LIVE: Iran defiant on strait as Trump tells Americans to accept high gas prices",
+    "Centre notifies 40 questions for Census 2027; caste, SC, ST status included",
+    "‘Pretty soon’: Trump vows to claim Hormuz as US territory; Iran hits back",
+    "'What kind of freedom is this?': Devendra Mahto stopped from attending Tiranga Yatra in Ranchi; watch",
+    "Eating out? Maharashtra FDA chief Tukaram Mundhe says check these 4 things first",
+    "Trisha salutes Vijay at Independence Day event days after Sangeetha withdraws divorce petition",
+    "Union Ministers call Rahul Gandhi’s remarks on PM Modi ‘undignified, undemocratic’",
     "Entrenched, Embattled and Defiant, the Taliban Celebrate 5 Years in Power",
     "US Army temporarily halts Apache training missions after two soldiers killed in Texas crash",
     "Jason Arday, former Cambridge University professor at centre of plagiarism scandal, found dead",
+    "UAE's ADNOC says one of its vessels came under attack while transiting Hormuz",
+    "Govt opens one-time foreign assets' disclosure window starting Aug 16",
     "India cuts windfall tax on exports of petrol, diesel, aviation fuel",
     "India’s big semiconductor push: PM Modi says 7-8 plants coming up; stresses self-reliance in chips",
     "Tata Sons' Tuesday AGM faces uncertainty as SDTT flags lack of quorum",
-    "Inflows over $52 bn, RBI opts to shut FCNR(B) tap ahead of schedule",
-    "Dolby Vision 2 HDR May Be Available on Current 4K Blu-ray Players",
+    "Google Play Store hides Pixel 11 series discounts in plain sight",
     "‘iPhone feels like a dad phone’: Galaxy Z Fold8’s ‘passport’ design wins over Apple loyalists",
-    "Motorola Moto G Max comes to India with a different set of specs - GSMArena.com news",
-    "Lamborghini Revuelto SV unveiled at Monterey Car Week, limited to 1,963 units",
-    "'Vishwanath and Sons' box office collections day 1: Suriya's family entertainer opens strongly; Mamitha B",
-    "Awarapan 2 Box Office Collections: Emraan Hashmi starrer has a fantastic opening day of Rs. 22 Cr in India",
-    "New Avengers: Doomsday Trailer Shows Doctor Doom Raising an Army of Sentinels"
+    "Motorola Launches moto g max, the Most Complete Smartphone Featuring a Luxury Satin Finish With Pantone™ Curated Colours, Segments Leading 50MP Sony LYTIA™ 600 Camera System, Snapdragon® 6s Gen 4 Performance, and Massive 7000mAh Bat",
+    "Lamborghini Launches Revuelto SV Limited-Edition Hybrid Supercar",
+    "Awarapan 2 Box Office Collection Day 1: Beats Saiyaara To Record Bollywood’s Biggest Romantic Opening",
+    "Teri Mitti To Ae Watan, Memorable Patriotic Songs To Celebrate Independence Day 2026",
+    "Marvel’s ‘X-Men’ Reboot Sets May 2028 Release Date"
   ],
   "quiz": [
     {
-      "blanked": "‘iPhone feels like a dad phone’: Galaxy Z Fold8’s ‘passport’ design wins over ______ loyalists",
-      "answer": "Apple",
+      "blanked": "PM Modi announces nationwide sports talent hunt for children aged 5-15 to prepare for 2036 Olympics | ______ is bidding to host 2036 Olympics | Inshorts",
+      "answer": "India",
       "options": [
-        "Apple",
-        "Italy",
-        "Future",
-        "Visibility"
+        "Schedule",
+        "India",
+        "Pantone",
+        "Celebrate"
       ]
     },
     {
@@ -45,109 +45,109 @@
       "answer": "Why",
       "options": [
         "Why",
+        "Celebrate",
+        "Sri",
+        "Study"
+      ]
+    },
+    {
+      "blanked": "20 dead in Indonesia's 7.7-magnitude earthquake: ______ show buildings collapse, people fleeing | World News",
+      "answer": "Visuals",
+      "options": [
+        "Visuals",
         "World",
-        "Details",
-        "Survival"
+        "Bengaluru",
+        "Leading"
       ]
     },
     {
-      "blanked": "West ______ war LIVE: Iran defiant on strait as Trump tells Americans to accept high gas prices",
-      "answer": "Asia",
+      "blanked": "US ______ temporarily halts Apache training missions after two soldiers killed in Texas crash",
+      "answer": "Army",
       "options": [
-        "Asia",
-        "2027",
-        "Indian",
-        "Heart"
+        "Memorable",
+        "Tukaram",
+        "Sentinels",
+        "Army"
       ]
     },
     {
-      "blanked": "Dolby Vision 2 HDR May Be Available on Current 4K ______ Players",
-      "answer": "Blu-ray",
-      "options": [
-        "Political",
-        "Blu-ray",
-        "Future",
-        "Tuesday"
-      ]
-    },
-    {
-      "blanked": "Cardiologist Highlights Limitations of Smartwatches for Heart ______",
-      "answer": "Health",
+      "blanked": "‘I want it immediately’: NSA ______ Doval reveals first question PM Modi asked after Pahalgam terror attack | India News",
+      "answer": "Ajit",
       "options": [
         "Census",
-        "Health",
-        "Monterey",
-        "NSCLC"
+        "NSA",
+        "ADNOC",
+        "Ajit"
       ]
     },
     {
-      "blanked": "Motorola Moto G Max comes to ______ with a different set of specs - GSMArena.com news",
-      "answer": "India",
+      "blanked": "Cardiologist Highlights Limitations of ______ for Heart Health",
+      "answer": "Smartwatches",
       "options": [
-        "India",
-        "Pahalgam",
-        "Cambridge",
-        "World"
+        "Universe",
+        "Smartwatches",
+        "Collection",
+        "NSA"
       ]
     },
     {
       "blanked": "Astronomers discover a possible ‘black hole star’ in the early ______ with a supermassive black hole h",
       "answer": "Universe",
       "options": [
-        "Modis",
+        "600",
+        "Power",
         "Universe",
-        "Students",
-        "Basu"
+        "ICU"
       ]
     },
     {
-      "blanked": "Bengal Man Arrested In Bengaluru For Terror Links, Wanted To Go To Afghanistan, Fight ______",
-      "answer": "Pak",
+      "blanked": "Tata ______ Tuesday AGM faces uncertainty as SDTT flags lack of quorum",
+      "answer": "Sons",
       "options": [
-        "Fight",
-        "Pak",
-        "Cambridge",
-        "Asia"
-      ]
-    },
-    {
-      "blanked": "New Avengers: Doomsday Trailer Shows Doctor Doom ______ an Army of Sentinels",
-      "answer": "Raising",
-      "options": [
-        "Modi",
-        "Raising",
-        "Galaxy",
-        "101127.0"
-      ]
-    },
-    {
-      "blanked": "Inflows over $52 bn, RBI opts to shut ______ tap ahead of schedule",
-      "answer": "FCNRB",
-      "options": [
-        "Avengers",
-        "Visuals",
-        "FCNRB",
-        "Transplant"
-      ]
-    },
-    {
-      "blanked": "‘I want it immediately’: ______ Ajit Doval reveals first question PM Modi asked after Pahalgam terror attack | India News",
-      "answer": "NSA",
-      "options": [
+        "Biggest",
+        "Sons",
         "Taliban",
-        "Mamitha",
-        "NSA",
-        "Apple"
+        "Links"
       ]
     },
     {
-      "blanked": "Jason Arday, former Cambridge ______ professor at centre of plagiarism scandal, found dead",
-      "answer": "University",
+      "blanked": "UAE's ADNOC says one of its vessels came under attack while transiting ______",
+      "answer": "Hormuz",
       "options": [
-        "Suriyas",
-        "Week",
-        "University",
-        "Stadium"
+        "Pixel",
+        "Hormuz",
+        "Highlights",
+        "Sets"
+      ]
+    },
+    {
+      "blanked": "Coffee consumption linked to metabolic health, sex hormone changes: ______",
+      "answer": "Study",
+      "options": [
+        "NSA",
+        "Shows",
+        "Gen",
+        "Study"
+      ]
+    },
+    {
+      "blanked": "Entrenched, Embattled and ______ the Taliban Celebrate 5 Years in Power",
+      "answer": "Defiant",
+      "options": [
+        "Texas",
+        "Doctor",
+        "Defiant",
+        "Eclipse"
+      ]
+    },
+    {
+      "blanked": "SL vs IND, 1st Test, India tour of Sri ______ 2026 - Commentary",
+      "answer": "Lanka",
+      "options": [
+        "Performance",
+        "Camera",
+        "Videos",
+        "Lanka"
       ]
     }
   ]
