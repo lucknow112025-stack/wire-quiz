@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-15T08:02:18.279Z",
+  "generatedAt": "2026-08-15T09:02:37.602Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "In a first, Vande Mataram rendered during 80th Independence Day celebrations at Red Fort",
-    "Buildings collapse, residents flee: Videos show moment magnitude 7.7 earthquake hit Indonesia; 5 killed | World News",
-    "Bengal Man Arrested In Bengaluru For Terror Links, Wanted To Go To Afghanistan, Fight Pak",
-    "Census 2027: Centre notifies 40 questions for second phase",
+    "Independence Day LIVE updates: PM Modi calls for manufacturing sector boost, lays out seven-point reform framework",
+    "‘I want it immediately’: NSA Ajit Doval reveals first question PM Modi asked after Pahalgam terror attack | India News",
+    "20 dead in Indonesia's 7.7-magnitude earthquake: Visuals show buildings collapse, people fleeing | World News",
+    "NLSIU Students Demand BCI Apology For Orders Against NALSAR",
+    "Centre notifies 40 questions for Census 2027; caste, SC, ST status included",
     "CJP claims Instagram account restored after being taken down, Abhijeet Dipke calls out 'bloody cowards' | India News",
-    "‘Pretty soon’: Trump vows to claim Hormuz as US territory; Iran hits back",
-    "\"Take Credit, But...\": PM Modi's Appeal To Political Parties On Women Quota",
     "\"PoK Would Have Joined J&K If...\": Omar Abdullah's Statehood Pitch",
-    "79 Years Of Independence: Lesser-Known Facts About India | Photos",
-    "Traffic restrictions in place for Independence Day in Hyderabad",
+    "‘Imagine the audacity’: Mahua Moitra alleges late-night eviction bid from Circuit House",
+    "Bengal Man Arrested In Bengaluru For Terror Links, Wanted To Go To Afghanistan, Fight Pak",
+    "\"Take Credit, But...\": PM Modi's Appeal To Political Parties On Women Quota",
+    "West Asia war LIVE: Iran defiant on strait as Trump tells Americans to accept high gas prices",
     "Entrenched, Embattled and Defiant, the Taliban Celebrate 5 Years in Power",
     "US Army temporarily halts Apache training missions after two soldiers killed in Texas crash",
-    "Youngest Black Cambridge Professor Who Faced Plagiarism Claims Found Dead",
-    "Buenaventura residents criticise state neglect after Colombia’s earthquake",
+    "Jason Arday, former Cambridge University professor at centre of plagiarism scandal, found dead",
     "India cuts windfall tax on exports of petrol, diesel, aviation fuel",
+    "India’s big semiconductor push: PM Modi says 7-8 plants coming up; stresses self-reliance in chips",
+    "Tata Sons' Tuesday AGM faces uncertainty as SDTT flags lack of quorum",
     "Inflows over $52 bn, RBI opts to shut FCNR(B) tap ahead of schedule",
-    "2026 Mahindra Scorpio Lifestyler Pickup Vs Toyota Hilux: Compared In Detail",
-    "Stock Market Highlights, Sensex Today: Sensex, Nifty Settle Flat Amid Mixed Global Cues",
-    "Dolby Vision 2 HDR can work on existing 4K Blu-ray players – but there's a catch - What Hi-Fi?",
+    "Dolby Vision 2 HDR May Be Available on Current 4K Blu-ray Players",
     "‘iPhone feels like a dad phone’: Galaxy Z Fold8’s ‘passport’ design wins over Apple loyalists",
-    "Motorola launches Moto G Max with Snapdragon processor",
-    "Android Circuit: Pixel 11 Pro And Made By Google, Galaxy Z Fold8 Success, Honor Robot Arrives",
+    "Motorola Moto G Max comes to India with a different set of specs - GSMArena.com news",
+    "Lamborghini Revuelto SV unveiled at Monterey Car Week, limited to 1,963 units",
     "'Vishwanath and Sons' box office collections day 1: Suriya's family entertainer opens strongly; Mamitha B",
-    "New Avengers: Doomsday Trailer Shows Doctor Doom Raising an Army of Sentinels",
-    "Awarapan 2 Box Office Collections: Emraan Hashmi starrer has a fantastic opening day of Rs. 22 Cr in India"
+    "Awarapan 2 Box Office Collections: Emraan Hashmi starrer has a fantastic opening day of Rs. 22 Cr in India",
+    "New Avengers: Doomsday Trailer Shows Doctor Doom Raising an Army of Sentinels"
   ],
   "quiz": [
     {
-      "blanked": "New Avengers: Doomsday ______ Shows Doctor Doom Raising an Army of Sentinels",
-      "answer": "Trailer",
+      "blanked": "‘iPhone feels like a dad phone’: Galaxy Z Fold8’s ‘passport’ design wins over ______ loyalists",
+      "answer": "Apple",
       "options": [
-        "About",
-        "Emraan",
-        "Credit",
-        "Trailer"
+        "Apple",
+        "Italy",
+        "Future",
+        "Visibility"
       ]
     },
     {
-      "blanked": "Youngest Black Cambridge Professor Who Faced ______ Claims Found Dead",
-      "answer": "Plagiarism",
+      "blanked": "The ‘40-year-old ICU club’: ______ experts are warning against sacrificing sleep for success",
+      "answer": "Why",
       "options": [
-        "Plagiarism",
-        "Abhijeet",
-        "Detail",
-        "Stadium"
+        "Why",
+        "World",
+        "Details",
+        "Survival"
       ]
     },
     {
-      "blanked": "‘iPhone feels like a dad phone’: ______ Z Fold8’s ‘passport’ design wins over Apple loyalists",
-      "answer": "Galaxy",
+      "blanked": "West ______ war LIVE: Iran defiant on strait as Trump tells Americans to accept high gas prices",
+      "answer": "Asia",
       "options": [
-        "RBI",
-        "Galaxy",
-        "Box",
-        "Market"
+        "Asia",
+        "2027",
+        "Indian",
+        "Heart"
       ]
     },
     {
-      "blanked": "79 Years Of Independence: ______ Facts About India | Photos",
-      "answer": "Lesser-Known",
+      "blanked": "Dolby Vision 2 HDR May Be Available on Current 4K ______ Players",
+      "answer": "Blu-ray",
       "options": [
-        "Plagiarism",
+        "Political",
         "Blu-ray",
-        "Lesser-Known",
-        "Sholay"
+        "Future",
+        "Tuesday"
       ]
     },
     {
-      "blanked": "CJP claims Instagram account restored after being taken down, Abhijeet Dipke calls out 'bloody cowards' | ______ News",
+      "blanked": "Cardiologist Highlights Limitations of Smartwatches for Heart ______",
+      "answer": "Health",
+      "options": [
+        "Census",
+        "Health",
+        "Monterey",
+        "NSCLC"
+      ]
+    },
+    {
+      "blanked": "Motorola Moto G Max comes to ______ with a different set of specs - GSMArena.com news",
       "answer": "India",
       "options": [
-        "USA",
-        "Black",
         "India",
-        "Joined"
+        "Pahalgam",
+        "Cambridge",
+        "World"
       ]
     },
     {
-      "blanked": "BCCI officials to meet chief selector ______ about tenure extension",
-      "answer": "Agarkar",
+      "blanked": "Astronomers discover a possible ‘black hole star’ in the early ______ with a supermassive black hole h",
+      "answer": "Universe",
       "options": [
-        "Italy",
-        "Agarkar",
-        "Links",
-        "Box"
+        "Modis",
+        "Universe",
+        "Students",
+        "Basu"
       ]
     },
     {
-      "blanked": "Simmons asked for '40-50 balls'. Hasan gave ______ 76",
-      "answer": "Australia",
+      "blanked": "Bengal Man Arrested In Bengaluru For Terror Links, Wanted To Go To Afghanistan, Fight ______",
+      "answer": "Pak",
       "options": [
-        "Australia",
-        "Centre",
-        "7.7",
-        "Power"
+        "Fight",
+        "Pak",
+        "Cambridge",
+        "Asia"
       ]
     },
     {
-      "blanked": "Amitabh Bachchan recalls overwhelming response to ______ at its restored screening in Italy: 'Waha par",
-      "answer": "Sholay",
+      "blanked": "New Avengers: Doomsday Trailer Shows Doctor Doom ______ an Army of Sentinels",
+      "answer": "Raising",
       "options": [
-        "Scorpio",
-        "Waha",
-        "Visibility",
-        "Sholay"
+        "Modi",
+        "Raising",
+        "Galaxy",
+        "101127.0"
       ]
     },
     {
-      "blanked": "India: 88/1(22.4) | IND vs SL 1st ______ Match - Live Cricket Score, Full Scorecard, Galle International Stadium, Galle",
-      "answer": "Test",
+      "blanked": "Inflows over $52 bn, RBI opts to shut ______ tap ahead of schedule",
+      "answer": "FCNRB",
       "options": [
-        "Test",
-        "Texas",
-        "Eclipse",
-        "Google"
+        "Avengers",
+        "Visuals",
+        "FCNRB",
+        "Transplant"
       ]
     },
     {
-      "blanked": "Census 2027: ______ notifies 40 questions for second phase",
-      "answer": "Centre",
+      "blanked": "‘I want it immediately’: ______ Ajit Doval reveals first question PM Modi asked after Pahalgam terror attack | India News",
+      "answer": "NSA",
       "options": [
-        "Suns",
-        "Centre",
-        "Stadium",
-        "Plagiarism"
+        "Taliban",
+        "Mamitha",
+        "NSA",
+        "Apple"
       ]
     },
     {
-      "blanked": "In a first, Vande ______ rendered during 80th Independence Day celebrations at Red Fort",
-      "answer": "Mataram",
+      "blanked": "Jason Arday, former Cambridge ______ professor at centre of plagiarism scandal, found dead",
+      "answer": "University",
       "options": [
-        "Professor",
-        "Mataram",
-        "Smartwatches",
-        "Abdullahs"
-      ]
-    },
-    {
-      "blanked": "Android Circuit: Pixel 11 Pro And ______ By Google, Galaxy Z Fold8 Success, Honor Robot Arrives",
-      "answer": "Made",
-      "options": [
-        "Waha",
-        "Made",
-        "Arrested",
-        "Hormuz"
+        "Suriyas",
+        "Week",
+        "University",
+        "Stadium"
       ]
     }
   ]
