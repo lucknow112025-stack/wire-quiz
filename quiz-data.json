@@ -1,29 +1,29 @@
 {
-  "generatedAt": "2026-08-15T13:45:28.499Z",
+  "generatedAt": "2026-08-15T14:51:34.335Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "PM’s I-Day speech — Reforms, AI skilling for youth, free online coaching and a warning on ‘dimagi Naxal’",
+    "Modi Maps India’s Growth Push as He Reaches Out to Students",
     "38 dead in Indonesia's 7.7-magnitude earthquake: Visuals show buildings collapse, people fleeing | World News",
-    "\"PoK Would Have Joined Jammu And Kashmir If...\": Omar Abdullah On Special Status",
-    "August 15 also marks five years of Taliban’s return to power in Afghanistan: What the country is like now | Hindustan Times",
-    "'I Want It Immediately': NSA Ajit Doval Reveals PM Modi's 1st Question After Pahalgam Attack",
-    "‘Pretty soon’: Trump vows to claim Hormuz as US territory; Iran hits back",
-    "Independence Day: BJP Claims Sonia Gandhi Tried To Stop Singing Of Vande Mataram, Congress Denies",
-    "'What kind of freedom is this?': Devendra Mahto stopped from attending Tiranga Yatra in Ranchi; watch",
+    "Zardari claims Pakistan’s Hindus prefer ‘being with us’, says 'India believes in Akhand Bharat, but we…' | World News",
     "‘Ask Your Mother’: Row Over Nainar Nagendran’s Reply To Vijay’s ‘Where Is Father’ Jibe",
+    "August 15 also marks five years of Taliban’s return to power in Afghanistan: What the country is like now | Hindustan Times",
+    "\"PoK Would Have Joined Jammu And Kashmir If...\": Omar Abdullah On Special Status",
+    "Video: Jharkhand Activist Stopped From Joining Tiranga Yatra, Dragged Into Hospital",
     "Bengaluru Man Hits Techie Wife, Suffocates Her. Then Dies By Suicide",
+    "NLSIU Students Demand BCI Apology For Orders Against NALSAR, Oppose Manan Kumar Mishra Attending...",
+    "‘I want it immediately’: NSA Ajit Doval reveals first question PM Modi asked after Pahalgam terror attack | India News",
+    "West Asia war LIVE: Israeli airstrike on southern Lebanon kills 7 people, Lebanese state media say",
     "266 days deployed: USS Abraham Lincoln to return home amid rising scrutiny over sailor welfare",
-    "Youngest Black Cambridge Professor Who Faced Plagiarism Claims Found Dead",
-    "Michigan shooting: 5 killed, 1 critically injured, suspected gunman found dead after manhunt",
-    "UAE says ADNOC vessel attacked in Hormuz, vows to defend navigation rights",
-    "Tata Sons AGM likely to be deferred for lack of quorum as SRTT remains under regulatory curbs",
+    "Virginia State University under lockdown after shooting near student housing leaves several injured",
+    "Ukraine strikes Russian aerospace facility and MiG-31 base in overnight attacks",
+    "2026 Mahindra Scorpio Lifestyler Pickup Vs Toyota Hilux: Compared In Detail",
     "Govt opens one-time foreign assets' disclosure window starting Aug 16",
     "India’s big semiconductor push: PM Modi says 7-8 plants coming up; stresses self-reliance in chips",
     "Government reduces export duty on petrol to nil; diesel and ATF duty also reduced",
-    "Here's a quick look at Google's new Pixel 11 series, Pixel Watch 5, and Fitbit Air - GSMArena.com news",
+    "Deals: Google Pixel 11 series pre-orders start - GSMArena.com news",
+    "Google Health now lets you remove AI guidance from the Today tab",
     "Lamborghini Revuelto SV unveiled at Monterey Car Week, limited to 1,963 units",
-    "Motorola launches Moto G Max with Snapdragon processor",
     "‘iPhone feels like a dad phone’: Galaxy Z Fold8’s ‘passport’ design wins over Apple loyalists",
     "Box Office Early Trends: Awarapan 2, Batwara 1947 and Spider Man biz soars on Independence Day in India",
     "Govinda Fires Back At Sunita Ahuja After 'Sugar Daddy' Remark, Calls Out Her 'Abusive' Language",
@@ -31,123 +31,123 @@
   ],
   "quiz": [
     {
-      "blanked": "'I Want It Immediately': NSA Ajit Doval Reveals PM ______ 1st Question After Pahalgam Attack",
-      "answer": "Modis",
+      "blanked": "Bangladesh rock ______ as historic Test win in sight",
+      "answer": "Australia",
       "options": [
-        "What",
-        "Modis",
-        "IND",
-        "2026"
+        "Omar",
+        "Have",
+        "Mishra",
+        "Australia"
       ]
     },
     {
-      "blanked": "Astronomers discover a possible ‘black hole star’ in the early ______ with a supermassive black hole h",
-      "answer": "Universe",
+      "blanked": "‘I drink black coffee daily’: ______ shares 6 research-backed benefits, from brain health to longevity | Health",
+      "answer": "Oncologist",
       "options": [
-        "Songs",
-        "Mens",
-        "Gandhi",
+        "Pahalgam",
+        "Oncologist",
+        "Likely",
+        "Week"
+      ]
+    },
+    {
+      "blanked": "2026 Mahindra Scorpio Lifestyler Pickup Vs Toyota ______ Compared In Detail",
+      "answer": "Hilux",
+      "options": [
+        "Hollywood",
+        "Modi",
+        "Abraham",
+        "Hilux"
+      ]
+    },
+    {
+      "blanked": "Ukraine strikes ______ aerospace facility and MiG-31 base in overnight attacks",
+      "answer": "Russian",
+      "options": [
+        "Wife",
+        "Russian",
+        "Nagendrans",
+        "Rahul"
+      ]
+    },
+    {
+      "blanked": "‘I want it immediately’: NSA Ajit Doval reveals first question PM ______ asked after Pahalgam terror attack | India News",
+      "answer": "Modi",
+      "options": [
+        "Hindus",
+        "Modi",
+        "Have",
+        "BCI"
+      ]
+    },
+    {
+      "blanked": "NLSIU Students Demand BCI Apology For Orders Against NALSAR, Oppose Manan ______ Mishra Attending...",
+      "answer": "Kumar",
+      "options": [
+        "FIH",
+        "Early",
+        "Kumar",
         "Universe"
       ]
     },
     {
-      "blanked": "Motorola launches Moto G ______ with Snapdragon processor",
-      "answer": "Max",
+      "blanked": "Padikkal, Rahul fifties power India to 197-1 v ______ Lanka",
+      "answer": "Sri",
       "options": [
-        "Attack",
-        "Kashmir",
-        "Max",
-        "1947"
+        "Tiranga",
+        "Sri",
+        "Lanka",
+        "FIH"
       ]
     },
     {
-      "blanked": "August 15 also marks five years of Taliban’s return to power in Afghanistan: What the country is like now | Hindustan ______",
-      "answer": "Times",
+      "blanked": "\"PoK Would ______ Joined Jammu And Kashmir If...\": Omar Abdullah On Special Status",
+      "answer": "Have",
       "options": [
-        "Times",
-        "Congress",
-        "Googles",
-        "Devendra"
-      ]
-    },
-    {
-      "blanked": "'What kind of freedom is this?': Devendra Mahto stopped from attending Tiranga ______ in Ranchi; watch",
-      "answer": "Yatra",
-      "options": [
-        "Yatra",
-        "Father",
-        "450",
-        "Hockey"
-      ]
-    },
-    {
-      "blanked": "Cardiologist ______ Limitations of Smartwatches for Heart Health",
-      "answer": "Highlights",
-      "options": [
-        "Office",
+        "Have",
+        "Batwara",
         "Apple",
-        "Modi",
-        "Highlights"
+        "Kumar"
       ]
     },
     {
-      "blanked": "Mehidy takes centre stage as Bangladesh eye historic win in ______",
-      "answer": "Australia",
+      "blanked": "Lamborghini Revuelto SV unveiled at Monterey Car ______ limited to 1,963 units",
+      "answer": "Week",
       "options": [
-        "Gandhi",
-        "Indonesias",
-        "Ferran",
-        "Australia"
+        "Israeli",
+        "Week",
+        "Kashmir",
+        "Toyota"
       ]
     },
     {
       "blanked": "NASA’s new AI model can predict ______ storm-causing regions up to 12 hours before they appear",
       "answer": "Suns",
       "options": [
-        "Suns",
-        "Gandhi",
-        "Apple",
-        "Claims"
+        "Torres",
+        "Father",
+        "Scorpio",
+        "Suns"
       ]
     },
     {
-      "blanked": "UAE says ADNOC vessel attacked in ______ vows to defend navigation rights",
-      "answer": "Hormuz",
+      "blanked": "Astronomers discover a possible ‘black hole star’ in the early ______ with a supermassive black hole h",
+      "answer": "Universe",
       "options": [
-        "ICU",
-        "Abdullah",
-        "Hormuz",
-        "Want"
-      ]
-    },
-    {
-      "blanked": "NICK STROBEL: ______ eclipse on tap for Aug. 27",
-      "answer": "Lunar",
-      "options": [
-        "Lunar",
-        "Googles",
-        "Visuals",
-        "Batwara"
-      ]
-    },
-    {
-      "blanked": "Alzheimer’s Biomarkers ______ with Early Motor Decline",
-      "answer": "Associated",
-      "options": [
-        "Universe",
-        "LIVE",
-        "Abusive",
-        "Associated"
-      ]
-    },
-    {
-      "blanked": "Here's a quick look at Google's new ______ 11 series, Pixel Watch 5, and Fitbit Air - GSMArena.com news",
-      "answer": "Pixel",
-      "options": [
+        "Pakistans",
         "Pixel",
-        "Crore",
-        "I-Day",
-        "Jammu"
+        "Universe",
+        "Dragged"
+      ]
+    },
+    {
+      "blanked": "Alzheimer’s Biomarkers Associated with Early Motor ______",
+      "answer": "Decline",
+      "options": [
+        "Lebanese",
+        "Spider",
+        "Decline",
+        "Asia"
       ]
     }
   ]
