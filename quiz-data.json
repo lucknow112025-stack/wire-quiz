@@ -1,21 +1,21 @@
 {
-  "generatedAt": "2026-08-15T07:18:41.416Z",
+  "generatedAt": "2026-08-15T08:02:18.279Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "Independence Day LIVE updates: In 12 years, India transformed from 'Fragile 5' to world's fastest-growing major economy, says Modi",
-    "At least two killed as magnitude 7.7 quake hits Indonesia",
+    "In a first, Vande Mataram rendered during 80th Independence Day celebrations at Red Fort",
+    "Buildings collapse, residents flee: Videos show moment magnitude 7.7 earthquake hit Indonesia; 5 killed | World News",
     "Bengal Man Arrested In Bengaluru For Terror Links, Wanted To Go To Afghanistan, Fight Pak",
     "Census 2027: Centre notifies 40 questions for second phase",
     "CJP claims Instagram account restored after being taken down, Abhijeet Dipke calls out 'bloody cowards' | India News",
     "‘Pretty soon’: Trump vows to claim Hormuz as US territory; Iran hits back",
-    "Happy Independence Day 2026: Best Quotes, Wishes, Images and Messages to Share on 15th August",
-    "80 years free, India’s biggest independence challenge is its bureaucracy with colonial mindset | India News",
-    "Tukaram Mundhe, the no-nonsense IAS officer leading Maharashtra’s food safety crackdown",
+    "\"Take Credit, But...\": PM Modi's Appeal To Political Parties On Women Quota",
+    "\"PoK Would Have Joined J&K If...\": Omar Abdullah's Statehood Pitch",
+    "79 Years Of Independence: Lesser-Known Facts About India | Photos",
     "Traffic restrictions in place for Independence Day in Hyderabad",
     "Entrenched, Embattled and Defiant, the Taliban Celebrate 5 Years in Power",
-    "West Asia war highlights: Bessent says U.S. to apply measures never seen on Iran",
-    "Jason Arday, ex-Cambridge professor at centre of plagiarism row, found dead",
+    "US Army temporarily halts Apache training missions after two soldiers killed in Texas crash",
+    "Youngest Black Cambridge Professor Who Faced Plagiarism Claims Found Dead",
     "Buenaventura residents criticise state neglect after Colombia’s earthquake",
     "India cuts windfall tax on exports of petrol, diesel, aviation fuel",
     "Inflows over $52 bn, RBI opts to shut FCNR(B) tap ahead of schedule",
@@ -23,131 +23,131 @@
     "Stock Market Highlights, Sensex Today: Sensex, Nifty Settle Flat Amid Mixed Global Cues",
     "Dolby Vision 2 HDR can work on existing 4K Blu-ray players – but there's a catch - What Hi-Fi?",
     "‘iPhone feels like a dad phone’: Galaxy Z Fold8’s ‘passport’ design wins over Apple loyalists",
-    "Android Circuit: Pixel 11 Pro And Made By Google, Galaxy Z Fold8 Success, Honor Robot Arrives",
     "Motorola launches Moto G Max with Snapdragon processor",
+    "Android Circuit: Pixel 11 Pro And Made By Google, Galaxy Z Fold8 Success, Honor Robot Arrives",
     "'Vishwanath and Sons' box office collections day 1: Suriya's family entertainer opens strongly; Mamitha B",
     "New Avengers: Doomsday Trailer Shows Doctor Doom Raising an Army of Sentinels",
     "Awarapan 2 Box Office Collections: Emraan Hashmi starrer has a fantastic opening day of Rs. 22 Cr in India"
   ],
   "quiz": [
     {
-      "blanked": "Simmons asked for '40-50 balls'. ______ gave Australia 76",
-      "answer": "Hasan",
+      "blanked": "New Avengers: Doomsday ______ Shows Doctor Doom Raising an Army of Sentinels",
+      "answer": "Trailer",
       "options": [
-        "Dipke",
-        "Hasan",
+        "About",
+        "Emraan",
+        "Credit",
+        "Trailer"
+      ]
+    },
+    {
+      "blanked": "Youngest Black Cambridge Professor Who Faced ______ Claims Found Dead",
+      "answer": "Plagiarism",
+      "options": [
+        "Plagiarism",
         "Abhijeet",
-        "Office"
+        "Detail",
+        "Stadium"
       ]
     },
     {
-      "blanked": "‘Pretty soon’: ______ vows to claim Hormuz as US territory; Iran hits back",
-      "answer": "Trump",
+      "blanked": "‘iPhone feels like a dad phone’: ______ Z Fold8’s ‘passport’ design wins over Apple loyalists",
+      "answer": "Galaxy",
       "options": [
-        "Compared",
+        "RBI",
+        "Galaxy",
         "Box",
-        "Shows",
-        "Trump"
+        "Market"
       ]
     },
     {
-      "blanked": "Marvel’s ‘X-Men’ Reboot Sets ______ 2028 Release Date",
-      "answer": "May",
+      "blanked": "79 Years Of Independence: ______ Facts About India | Photos",
+      "answer": "Lesser-Known",
       "options": [
-        "May",
-        "Day",
-        "Suriyas",
-        "Colombias"
+        "Plagiarism",
+        "Blu-ray",
+        "Lesser-Known",
+        "Sholay"
       ]
     },
     {
-      "blanked": "Astronomers discover a possible ‘black hole star’ in the early ______ with a supermassive black hole h",
-      "answer": "Universe",
+      "blanked": "CJP claims Instagram account restored after being taken down, Abhijeet Dipke calls out 'bloody cowards' | ______ News",
+      "answer": "India",
       "options": [
-        "Mahindra",
-        "Asia",
-        "Universe",
-        "Suns"
+        "USA",
+        "Black",
+        "India",
+        "Joined"
       ]
     },
     {
-      "blanked": "Stock Market Highlights, Sensex Today: ______ Nifty Settle Flat Amid Mixed Global Cues",
-      "answer": "Sensex",
+      "blanked": "BCCI officials to meet chief selector ______ about tenure extension",
+      "answer": "Agarkar",
       "options": [
-        "Sensex",
-        "Shows",
-        "Max",
+        "Italy",
+        "Agarkar",
+        "Links",
         "Box"
       ]
     },
     {
-      "blanked": "Census ______ Centre notifies 40 questions for second phase",
-      "answer": "2027",
+      "blanked": "Simmons asked for '40-50 balls'. Hasan gave ______ 76",
+      "answer": "Australia",
       "options": [
-        "Taliban",
-        "Box",
-        "2027",
-        "Emraan"
+        "Australia",
+        "Centre",
+        "7.7",
+        "Power"
       ]
     },
     {
-      "blanked": "Bengal Man Arrested In ______ For Terror Links, Wanted To Go To Afghanistan, Fight Pak",
-      "answer": "Bengaluru",
+      "blanked": "Amitabh Bachchan recalls overwhelming response to ______ at its restored screening in Italy: 'Waha par",
+      "answer": "Sholay",
       "options": [
-        "Bessent",
-        "2036",
-        "Bengaluru",
-        "Mamitha"
+        "Scorpio",
+        "Waha",
+        "Visibility",
+        "Sholay"
       ]
     },
     {
-      "blanked": "Dolby Vision 2 ______ can work on existing 4K Blu-ray players – but there's a catch - What Hi-Fi?",
-      "answer": "HDR",
+      "blanked": "India: 88/1(22.4) | IND vs SL 1st ______ Match - Live Cricket Score, Full Scorecard, Galle International Stadium, Galle",
+      "answer": "Test",
       "options": [
-        "2026",
-        "X-Men",
-        "Pak",
-        "HDR"
+        "Test",
+        "Texas",
+        "Eclipse",
+        "Google"
       ]
     },
     {
-      "blanked": "PM announces nationwide talent hunt for 5-15-year-olds ahead of 2036 ______",
-      "answer": "Olympics",
+      "blanked": "Census 2027: ______ notifies 40 questions for second phase",
+      "answer": "Centre",
       "options": [
-        "Hormuz",
-        "Best",
-        "Olympics",
-        "Avengers"
+        "Suns",
+        "Centre",
+        "Stadium",
+        "Plagiarism"
       ]
     },
     {
-      "blanked": "New seismic mapping reveals ancient ocean remains and trapped water pockets under the Eastern ______ craton",
-      "answer": "Indian",
+      "blanked": "In a first, Vande ______ rendered during 80th Independence Day celebrations at Red Fort",
+      "answer": "Mataram",
       "options": [
-        "Indian",
-        "Trump",
-        "Global",
-        "Eastern"
+        "Professor",
+        "Mataram",
+        "Smartwatches",
+        "Abdullahs"
       ]
     },
     {
-      "blanked": "Tukaram Mundhe, the no-nonsense IAS officer leading ______ food safety crackdown",
-      "answer": "Maharashtras",
+      "blanked": "Android Circuit: Pixel 11 Pro And ______ By Google, Galaxy Z Fold8 Success, Honor Robot Arrives",
+      "answer": "Made",
       "options": [
-        "Maharashtras",
-        "2027",
-        "Galle",
-        "Nifty"
-      ]
-    },
-    {
-      "blanked": "Independence Day ______ updates: In 12 years, India transformed from 'Fragile 5' to world's fastest-growing major economy, says Modi",
-      "answer": "LIVE",
-      "options": [
-        "Man",
-        "Mundhe",
-        "Abhijeet",
-        "LIVE"
+        "Waha",
+        "Made",
+        "Arrested",
+        "Hormuz"
       ]
     }
   ]
