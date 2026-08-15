@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-15T10:50:04.245Z",
+  "generatedAt": "2026-08-15T11:39:40.788Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "Independence Day LIVE updates: PM Modi calls for manufacturing sector boost, lays out seven-point reform framework",
-    "‘PoK would have joined Jammu and Kashmir if…’: CM Omar Abdullah's pitch for statehood in Independence Day address | India News",
-    "Did Sonia Gandhi ‘Insult’ Vande Mataram During I-Day Celebration? Here’s What Congress Said",
+    "Modi promises free exam coaching after India’s ‘cockroach’ protests",
+    "‘I want it immediately’: NSA Ajit Doval reveals first question PM Modi asked after Pahalgam terror attack | India News",
+    "38 dead in Indonesia's 7.7-magnitude earthquake: Visuals show buildings collapse, people fleeing | World News",
     "‘Pretty soon’: Trump vows to claim Hormuz as US territory; Iran hits back",
-    "20 dead in Indonesia's 7.7-magnitude earthquake: Visuals show buildings collapse, people fleeing | World News",
-    "India's generosity, tolerance should not be seen as weakness: NSA Ajit Doval on Operation Sindoor",
+    "80th Independence Day: PM Modi's Maroon Bandhani Safa — What His Turban Legacy Means",
     "NLSIU Students Demand BCI Apology For Orders Against NALSAR, Oppose Manan Kumar Mishra Attending...",
     "Video: Jharkhand Activist Stopped From Joining Tiranga Yatra, Dragged Into Hospital",
-    "Bengaluru police arrest TTP-linked man planning attack against Pakistan Army",
-    "Mahua Moitra alleges she was asked to vacate circuit house late at night",
+    "Saptadhara Explained: Hinduism's Sacred Seven Streams Behind PM Modi's 7-Point Vision For Viksit Bharat",
+    "Arunachal Pradesh flash floods: Four killed, five Army personnel missing after landslide",
+    "CJP Instagram account restored after brief suspension on Independence Day",
     "Entrenched, Embattled and Defiant, the Taliban Celebrate 5 Years in Power",
-    "Lebanon state media says Israeli strike on south kills 7",
     "US Army temporarily halts Apache training missions after two soldiers killed in Texas crash",
-    "Jason Arday, former Cambridge University professor at centre of plagiarism scandal, found dead",
+    "US Navy sends replacement for USS Lincoln after reports of sailors threatening to jump overboard",
+    "Jason Arday, who quit as Cambridge professor last week over plagiarism row, found dead in London",
     "Tata Sons AGM likely to be deferred for lack of quorum as SRTT remains under regulatory curbs",
     "Govt opens one-time foreign assets' disclosure window starting Aug 16",
-    "India’s big semiconductor push: PM Modi says 7-8 plants coming up; stresses self-reliance in chips",
     "India cuts windfall tax on exports of petrol, diesel, aviation fuel",
+    "India’s big semiconductor push: PM Modi says 7-8 plants coming up; stresses self-reliance in chips",
     "Android Circuit: Pixel 11 Pro And Made By Google, Galaxy Z Fold8 Success, Honor Robot Arrives",
     "Lamborghini Revuelto SV unveiled at Monterey Car Week, limited to 1,963 units",
-    "‘iPhone feels like a dad phone’: Galaxy Z Fold8’s ‘passport’ design wins over Apple loyalists",
     "Motorola Moto G Max comes to India with a different set of specs - GSMArena.com news",
-    "Awarapan 2 Box Office Collections: Emraan Hashmi starrer has a fantastic opening day of Rs. 22 Cr in India",
-    "Marvel’s ‘X-Men’ Reboot Sets May 2028 Release Date",
-    "\"Your Sugar Daddy Is Rich, Dress Better\": Sunita Ahuja's Brutal Swipe at Govinda and Komal Rani"
+    "‘iPhone feels like a dad phone’: Galaxy Z Fold8’s ‘passport’ design wins over Apple loyalists",
+    "Awarapan 2 Box Office Collection Day 1: Beats Saiyaara To Record Bollywood’s Biggest Romantic Opening",
+    "Govinda Fires Back At Sunita Ahuja After 'Sugar Daddy' Remark, Calls Out Her 'Abusive' Language",
+    "Marvel’s ‘X-Men’ Reboot Sets May 2028 Release Date"
   ],
   "quiz": [
-    {
-      "blanked": "Jason Arday, former Cambridge ______ professor at centre of plagiarism scandal, found dead",
-      "answer": "University",
-      "options": [
-        "University",
-        "Indian",
-        "Better",
-        "Cricket"
-      ]
-    },
-    {
-      "blanked": "Android Circuit: Pixel 11 Pro And Made By Google, Galaxy Z Fold8 ______ Honor Robot Arrives",
-      "answer": "Success",
-      "options": [
-        "Success",
-        "Modi",
-        "Songs",
-        "Inshorts"
-      ]
-    },
-    {
-      "blanked": "\"Your Sugar Daddy Is Rich, Dress ______ Sunita Ahuja's Brutal Swipe at Govinda and Komal Rani",
-      "answer": "Better",
-      "options": [
-        "Date",
-        "Ahujas",
-        "Indian",
-        "Better"
-      ]
-    },
-    {
-      "blanked": "Lebanon state media says ______ strike on south kills 7",
-      "answer": "Israeli",
-      "options": [
-        "Insult",
-        "Israeli",
-        "Tamim",
-        "Patriotic"
-      ]
-    },
-    {
-      "blanked": "India's generosity, tolerance should not be seen as weakness: ______ Ajit Doval on Operation Sindoor",
-      "answer": "NSA",
-      "options": [
-        "Govinda",
-        "NSA",
-        "Power",
-        "Sonia"
-      ]
-    },
     {
       "blanked": "Govt opens one-time foreign assets' disclosure window starting ______ 16",
       "answer": "Aug",
       "options": [
-        "University",
         "Aug",
-        "World",
-        "Congress"
+        "Army",
+        "Doom",
+        "Celebrate"
       ]
     },
     {
-      "blanked": "Entrenched, Embattled and Defiant, the ______ Celebrate 5 Years in Power",
-      "answer": "Taliban",
+      "blanked": "Arunachal Pradesh flash floods: ______ killed, five Army personnel missing after landslide",
+      "answer": "Four",
       "options": [
-        "Watan",
-        "Galle",
-        "Daddy",
-        "Taliban"
+        "Seven",
+        "Jharkhand",
+        "London",
+        "Four"
       ]
     },
     {
-      "blanked": "AUS vs BAN, Darwin Test: ______ Hasan Tamim vindicates selection gamble with historic ton",
-      "answer": "Tanzid",
+      "blanked": "Modi promises free exam coaching after ______ ‘cockroach’ protests",
+      "answer": "Indias",
       "options": [
-        "Tanzid",
-        "Suns",
-        "Lunar",
-        "Taliban"
+        "ICU",
+        "Lincoln",
+        "Safa",
+        "Indias"
       ]
     },
     {
-      "blanked": "PM ______ announces nationwide sports talent hunt for children aged 5-15 to prepare for 2036 Olympics | India is bidding to host 2036 Olympics | Inshorts",
+      "blanked": "US Army temporarily halts Apache training missions after two soldiers killed in ______ crash",
+      "answer": "Texas",
+      "options": [
+        "Stats",
+        "Wales",
+        "Texas",
+        "1963"
+      ]
+    },
+    {
+      "blanked": "Tata Sons ______ likely to be deferred for lack of quorum as SRTT remains under regulatory curbs",
+      "answer": "AGM",
+      "options": [
+        "AGM",
+        "Videos",
+        "Mishra",
+        "Lunar"
+      ]
+    },
+    {
+      "blanked": "Entrenched, Embattled and Defiant, the Taliban ______ 5 Years in Power",
+      "answer": "Celebrate",
+      "options": [
+        "Bandhani",
+        "London",
+        "Behind",
+        "Celebrate"
+      ]
+    },
+    {
+      "blanked": "‘iPhone feels like a dad phone’: Galaxy Z Fold8’s ‘passport’ design wins over ______ loyalists",
+      "answer": "Apple",
+      "options": [
+        "Apple",
+        "ICU",
+        "Ahuja",
+        "Pradesh"
+      ]
+    },
+    {
+      "blanked": "Motorola Moto G Max comes to ______ with a different set of specs - GSMArena.com news",
+      "answer": "India",
+      "options": [
+        "Fires",
+        "Romantic",
+        "Vision",
+        "India"
+      ]
+    },
+    {
+      "blanked": "India’s big semiconductor push: PM ______ says 7-8 plants coming up; stresses self-reliance in chips",
       "answer": "Modi",
       "options": [
+        "Ask",
         "Modi",
-        "Demand",
-        "Galle",
-        "Scorecard"
-      ]
-    },
-    {
-      "blanked": "NICK STROBEL: ______ eclipse on tap for Aug. 27",
-      "answer": "Lunar",
-      "options": [
-        "Lunar",
-        "Manan",
-        "AGM",
-        "Stopped"
-      ]
-    },
-    {
-      "blanked": "How ______ Henry took Liverpool from crisis club to $7bn juggernaut",
-      "answer": "John",
-      "options": [
-        "Score",
-        "Olympics",
-        "John",
-        "Taliban"
-      ]
-    },
-    {
-      "blanked": "Lamborghini Revuelto SV unveiled at Monterey Car Week, limited to ______ units",
-      "answer": "1963",
-      "options": [
-        "1963",
-        "Release",
         "Test",
-        "Circuit"
+        "Mens"
+      ]
+    },
+    {
+      "blanked": "Former Barcelona defender gives blunt response to Xavi's Netherlands appointment: 'Ask Frenkie de ______",
+      "answer": "Jong",
+      "options": [
+        "NALSAR",
+        "Jong",
+        "Yatra",
+        "Romantic"
+      ]
+    },
+    {
+      "blanked": "Lamborghini Revuelto SV unveiled at ______ Car Week, limited to 1,963 units",
+      "answer": "Monterey",
+      "options": [
+        "Heart",
+        "Legacy",
+        "Monterey",
+        "Abusive"
+      ]
+    },
+    {
+      "blanked": "Govinda Fires Back At Sunita Ahuja After 'Sugar Daddy' Remark, Calls Out Her ______ Language",
+      "answer": "Abusive",
+      "options": [
+        "Beats",
+        "NALSAR",
+        "Arrives",
+        "Abusive"
       ]
     }
   ]
