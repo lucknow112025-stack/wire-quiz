@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-14T23:50:44.808Z",
+  "generatedAt": "2026-08-15T03:02:49.316Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "Govt taking comprehensive steps for exam reforms, says President Murmu in address to nation | Hindustan Times",
-    "‘First Islamic republic with nuclear weapons’: Netanyahu lashes out at UK",
-    "\"When Will You Grow Up?\" BJP Slams Rahul Gandhi Over 'Hug' Jibe At PM Modi",
-    "India's generosity, tolerance should not be seen as weakness: NSA Ajit Doval on Operation Sindoor",
-    "Plea In Supreme Court Seeks Enquiry Into How BCI Chairman Issued Orders Against NALSAR Students",
-    "Bangladesh turns to India for help as power crisis forces 8pm shutdown for malls, shops | India News",
-    "Pune Lawyer Turned Nihang Sikh: Man Who Attacked Sukhbir Singh Badal",
-    "Jharkhand exam stir: Police lodge FIR against more than 500 unidentified protesters",
-    "Tukaram Mundhe Went To Dinner With Friends. Then Fake Paneer Was Served",
-    "FCRA Bill sent to JPC: What are Parliamentary committees and how do they work?",
+    "India Ushers In 80th Independence Day, PM Modi To Address Nation From Red Fort",
     "‘Pretty soon’: Trump vows to claim Hormuz as US territory; Iran hits back",
-    "US Navy sends replacement for USS Lincoln after reports of sailors threatening to jump overboard",
-    "7.7 Magnitude Earthquake Hits Indonesia, Tsunami Warning Issued",
-    "\"I Shot Him, He Died\": Luigi Mangione Admits He Killed UnitedHealthcare CEO Brian Thompson",
+    "'SC Asked Me To Face Bullets': Mahua Moitra Alleges Late-Night Order To Vacate Circuit House",
+    "To Rahul Gandhi’s mock hug, party’s leader’s ‘Meloni’ swipe. BJP not amused",
+    "Govt taking comprehensive steps for exam reforms, says President Murmu in address to nation | Hindustan Times",
+    "Plea In Supreme Court Seeks Enquiry Into How BCI Chairman Issued Orders Against NALSAR Students",
+    "RSS in the frame? Karnataka cabinet clears Bill to regulate public space use by ‘unregistered entities’",
+    "4 die after inhaling toxic gas inside well in Bihar's Gaya | India News",
+    "79 Years Of Independence: Lesser-Known Facts About India | Photos",
+    "FCRA Bill sent to JPC: What are Parliamentary committees and how do they work?",
+    "2 Killed In 7.7 Magnitude Earthquake In Indonesia, Tsunami Warning Lifted",
+    "Trump says USS Abraham Lincoln deployment 'not nearly long enough'",
+    "‘First Islamic republic with nuclear weapons’: Netanyahu lashes out at UK",
+    "Jason Arday, former Cambridge University professor at centre of plagiarism scandal, found dead",
     "Stock Market Close: Sensex sheds 71 pts; Nifty settles at 24,366; Consumer Durables shares shine",
-    "RBI to close FX swap for overseas deposits earlier than planned, inflows top $50 billion",
-    "SAT allows Zee Entertainment's upcoming capital raise but SEBI's market ban to continue",
-    "Tata CEOs, family scions seen in early list for new Tata Sons chairman",
+    "2026 Mahindra Scorpio Lifestyler Pickup Debuts In India",
+    "Noel Tata emerges as key power broker in Tata Group succession, listing decisions",
+    "Billionaire Mukesh Ambani’s Reliance, Rolls-Royce To Develop Fighter Jet Engines In India",
     "Android Circuit: Pixel 11 Pro And Made By Google, Galaxy Z Fold8 Success, Honor Robot Arrives",
     "Google Brings Gemini 3.7 Flash To AI Mode In Search",
     "‘iPhone feels like a dad phone’: Galaxy Z Fold8’s ‘passport’ design wins over Apple loyalists",
-    "Motorola Moto G Max comes to India with a different set of specs - GSMArena.com news",
+    "Lamborghini unveils Revuelto SV, its most powerful production car ever",
+    "'Vishwanath And Sons' box office collection day 1 [Live]: Suriya starrer eyes bigger opening than 'Karupp",
     "Awarapan 2 vs Batwara 1947 box office: Emraan Hashmi leads Sunny Deol by Rs 7 cr, beats Dhurandhar",
-    "‘End of Oak Street’ Box Office Aims to Take Bite Out of ‘Spider-Man: Brand New Day’",
-    "CM Adityanath hails Nana Patekar, reveals actor worked to prevent farmer suicides without publicity | Bollywood"
+    "From Safed Sagar to Sindoor: Renaissance of Indian Airpower"
   ],
   "quiz": [
     {
-      "blanked": "Tukaram Mundhe Went To ______ With Friends. Then Fake Paneer Was Served",
-      "answer": "Dinner",
+      "blanked": "‘First ______ republic with nuclear weapons’: Netanyahu lashes out at UK",
+      "answer": "Islamic",
       "options": [
-        "Murmu",
-        "Dinner",
-        "Gardner",
-        "Box"
+        "Indian",
+        "Islamic",
+        "Office",
+        "Issued"
       ]
     },
     {
-      "blanked": "Coffee consumption linked to metabolic health, sex hormone changes: ______",
-      "answer": "Study",
+      "blanked": "AUS vs BAN, Darwin Test: ______ Hasan Tamim vindicates selection gamble with historic ton",
+      "answer": "Tanzid",
       "options": [
-        "Film",
-        "1947",
-        "Study",
-        "Tamim"
+        "Test",
+        "Tanzid",
+        "Magnitude",
+        "Jet"
+      ]
+    },
+    {
+      "blanked": "Android Circuit: Pixel 11 Pro And Made By ______ Galaxy Z Fold8 Success, Honor Robot Arrives",
+      "answer": "Google",
+      "options": [
+        "Galaxy",
+        "Karupp",
+        "Mode",
+        "Google"
+      ]
+    },
+    {
+      "blanked": "2 ______ In 7.7 Magnitude Earthquake In Indonesia, Tsunami Warning Lifted",
+      "answer": "Killed",
+      "options": [
+        "Google",
+        "Mahindra",
+        "Killed",
+        "Eastern"
+      ]
+    },
+    {
+      "blanked": "Stock Market ______ Sensex sheds 71 pts; Nifty settles at 24,366; Consumer Durables shares shine",
+      "answer": "Close",
+      "options": [
+        "Cambridge",
+        "Galle",
+        "Murmu",
+        "Close"
       ]
     },
     {
       "blanked": "India look for a fresh wave to crash ______ shores in Galle",
       "answer": "Test",
       "options": [
-        "Nihang",
-        "Chairman",
-        "Sancho",
+        "1947",
+        "Jet",
+        "Tsunami",
         "Test"
       ]
     },
     {
-      "blanked": "The Price of ______ Awake",
-      "answer": "Staying",
+      "blanked": "New seismic mapping reveals ancient ocean remains and trapped water pockets under the Eastern ______ craton",
+      "answer": "Indian",
       "options": [
-        "1947",
-        "Mode",
-        "Staying",
-        "PSG"
+        "Indian",
+        "5.50",
+        "Warning",
+        "Bill"
       ]
     },
     {
-      "blanked": "Motorola Moto G ______ comes to India with a different set of specs - GSMArena.com news",
-      "answer": "Max",
+      "blanked": "Noel ______ emerges as key power broker in Tata Group succession, listing decisions",
+      "answer": "Tata",
       "options": [
-        "Students",
-        "BAN",
-        "Max",
-        "Sensex"
+        "Price",
+        "Tata",
+        "Islamic",
+        "Netanyahu"
       ]
     },
     {
-      "blanked": "7.7 Magnitude ______ Hits Indonesia, Tsunami Warning Issued",
-      "answer": "Earthquake",
+      "blanked": "India Ushers In 80th Independence Day, PM Modi To ______ Nation From Red Fort",
+      "answer": "Address",
       "options": [
-        "Made",
-        "Students",
-        "BJP",
-        "Earthquake"
+        "Darwin",
+        "Address",
+        "Modi",
+        "BJP"
       ]
     },
     {
-      "blanked": "Study shows how the immune system behaves throughout pregnancy - ______",
-      "answer": "News-Medical",
+      "blanked": "FCRA Bill sent to ______ What are Parliamentary committees and how do they work?",
+      "answer": "JPC",
       "options": [
-        "News-Medical",
-        "Bollywood",
-        "Paneer",
-        "Hashmi"
+        "Gandhis",
+        "JPC",
+        "Search",
+        "Murmu"
       ]
     },
     {
-      "blanked": "Android Circuit: Pixel 11 Pro And Made By Google, ______ Z Fold8 Success, Honor Robot Arrives",
-      "answer": "Galaxy",
+      "blanked": "Can your smartwatch really tell if your heart is healthy? ______ explain",
+      "answer": "Doctors",
       "options": [
-        "3.7",
-        "Hasan",
-        "Doval",
-        "Galaxy"
-      ]
-    },
-    {
-      "blanked": "Australia vice-captain ______ addresses marriage breakdown amid affair allegations",
-      "answer": "Gardner",
-      "options": [
-        "Success",
         "Doctors",
-        "BAN",
-        "Gardner"
+        "Indian",
+        "Live",
+        "JPC"
       ]
     },
     {
-      "blanked": "Batwara ______ Box Office Collection Day 1: Sunny Deol Film Sees Steady Earnings",
-      "answer": "1947",
+      "blanked": "79 Years Of Independence: Lesser-Known Facts About India | ______",
+      "answer": "Photos",
       "options": [
-        "Mbaye",
-        "Netanyahu",
-        "1947",
-        "Seeks"
-      ]
-    },
-    {
-      "blanked": "Google Brings Gemini ______ Flash To AI Mode In Search",
-      "answer": "3.7",
-      "options": [
-        "Navy",
-        "3.7",
-        "Brand",
-        "Paneer"
-      ]
-    },
-    {
-      "blanked": "US ______ sends replacement for USS Lincoln after reports of sailors threatening to jump overboard",
-      "answer": "Navy",
-      "options": [
-        "Consumer",
-        "Navy",
-        "Aims",
-        "Mundhe"
+        "Awake",
+        "Mode",
+        "Photos",
+        "Universe"
       ]
     }
   ]
