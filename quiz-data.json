@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-15T11:39:40.788Z",
+  "generatedAt": "2026-08-15T12:00:15.072Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
     "Modi promises free exam coaching after India’s ‘cockroach’ protests",
     "‘I want it immediately’: NSA Ajit Doval reveals first question PM Modi asked after Pahalgam terror attack | India News",
-    "38 dead in Indonesia's 7.7-magnitude earthquake: Visuals show buildings collapse, people fleeing | World News",
-    "‘Pretty soon’: Trump vows to claim Hormuz as US territory; Iran hits back",
-    "80th Independence Day: PM Modi's Maroon Bandhani Safa — What His Turban Legacy Means",
-    "NLSIU Students Demand BCI Apology For Orders Against NALSAR, Oppose Manan Kumar Mishra Attending...",
-    "Video: Jharkhand Activist Stopped From Joining Tiranga Yatra, Dragged Into Hospital",
+    "‘PoK would have joined Jammu and Kashmir if…’: CM Omar Abdullah's pitch for statehood in Independence Day address | India News",
     "Saptadhara Explained: Hinduism's Sacred Seven Streams Behind PM Modi's 7-Point Vision For Viksit Bharat",
-    "Arunachal Pradesh flash floods: Four killed, five Army personnel missing after landslide",
+    "Did Sonia Gandhi ‘Insult’ Vande Mataram During I-Day Celebration? Here’s What Congress Said",
+    "‘Pretty soon’: Trump vows to claim Hormuz as US territory; Iran hits back",
+    "'What kind of freedom is this?': Devendra Mahto stopped from attending Tiranga Yatra in Ranchi; watch",
+    "\"Take Credit, But...\": PM Modi's Appeal To Political Parties On Women Quota",
     "CJP Instagram account restored after brief suspension on Independence Day",
-    "Entrenched, Embattled and Defiant, the Taliban Celebrate 5 Years in Power",
+    "NLSIU Students Demand BCI Apology For Orders Against NALSAR, Oppose Manan Kumar Mishra Attending...",
+    "Video: Buildings Collapse As 7.7 Earthquake Strikes Indonesia, Killing 38",
     "US Army temporarily halts Apache training missions after two soldiers killed in Texas crash",
+    "Entrenched, Embattled and Defiant, the Taliban Celebrate 5 Years in Power",
     "US Navy sends replacement for USS Lincoln after reports of sailors threatening to jump overboard",
-    "Jason Arday, who quit as Cambridge professor last week over plagiarism row, found dead in London",
     "Tata Sons AGM likely to be deferred for lack of quorum as SRTT remains under regulatory curbs",
     "Govt opens one-time foreign assets' disclosure window starting Aug 16",
     "India cuts windfall tax on exports of petrol, diesel, aviation fuel",
     "India’s big semiconductor push: PM Modi says 7-8 plants coming up; stresses self-reliance in chips",
     "Android Circuit: Pixel 11 Pro And Made By Google, Galaxy Z Fold8 Success, Honor Robot Arrives",
     "Lamborghini Revuelto SV unveiled at Monterey Car Week, limited to 1,963 units",
-    "Motorola Moto G Max comes to India with a different set of specs - GSMArena.com news",
+    "Motorola launches Moto G Max with Snapdragon processor",
     "‘iPhone feels like a dad phone’: Galaxy Z Fold8’s ‘passport’ design wins over Apple loyalists",
-    "Awarapan 2 Box Office Collection Day 1: Beats Saiyaara To Record Bollywood’s Biggest Romantic Opening",
+    "Awarapan 2 Box Office Collections: Emraan Hashmi starrer has a fantastic opening day of Rs. 22 Cr in India",
     "Govinda Fires Back At Sunita Ahuja After 'Sugar Daddy' Remark, Calls Out Her 'Abusive' Language",
-    "Marvel’s ‘X-Men’ Reboot Sets May 2028 Release Date"
+    "'Avengers: Doomsday' trailer: Robert Downey Jr establishes himself as MCU's most powerful villain in EPIC"
   ],
   "quiz": [
     {
       "blanked": "Govt opens one-time foreign assets' disclosure window starting ______ 16",
       "answer": "Aug",
       "options": [
-        "Aug",
-        "Army",
-        "Doom",
-        "Celebrate"
+        "Daddy",
+        "Devendra",
+        "EPIC",
+        "Aug"
       ]
     },
     {
-      "blanked": "Arunachal Pradesh flash floods: ______ killed, five Army personnel missing after landslide",
-      "answer": "Four",
+      "blanked": "How John ______ took Liverpool from crisis club to $7bn juggernaut",
+      "answer": "Henry",
       "options": [
-        "Seven",
-        "Jharkhand",
-        "London",
-        "Four"
+        "Henry",
+        "Streams",
+        "Office",
+        "Snapdragon"
       ]
     },
     {
-      "blanked": "Modi promises free exam coaching after ______ ‘cockroach’ protests",
-      "answer": "Indias",
+      "blanked": "The ‘40-year-old ______ club’: Why experts are warning against sacrificing sleep for success",
+      "answer": "ICU",
       "options": [
+        "Congress",
+        "7.7",
+        "I-Day",
+        "ICU"
+      ]
+    },
+    {
+      "blanked": "CJP Instagram account restored after brief suspension on ______ Day",
+      "answer": "Independence",
+      "options": [
+        "Independence",
         "ICU",
-        "Lincoln",
-        "Safa",
-        "Indias"
+        "Associated",
+        "Kashmir"
       ]
     },
     {
-      "blanked": "US Army temporarily halts Apache training missions after two soldiers killed in ______ crash",
-      "answer": "Texas",
+      "blanked": "IND vs SL Live Score, 1st Test: India 197/1 at Tea vs ______ Lanka in Galle",
+      "answer": "Sri",
       "options": [
-        "Stats",
-        "Wales",
-        "Texas",
-        "1963"
-      ]
-    },
-    {
-      "blanked": "Tata Sons ______ likely to be deferred for lack of quorum as SRTT remains under regulatory curbs",
-      "answer": "AGM",
-      "options": [
-        "AGM",
-        "Videos",
-        "Mishra",
-        "Lunar"
-      ]
-    },
-    {
-      "blanked": "Entrenched, Embattled and Defiant, the Taliban ______ 5 Years in Power",
-      "answer": "Celebrate",
-      "options": [
-        "Bandhani",
-        "London",
-        "Behind",
-        "Celebrate"
-      ]
-    },
-    {
-      "blanked": "‘iPhone feels like a dad phone’: Galaxy Z Fold8’s ‘passport’ design wins over ______ loyalists",
-      "answer": "Apple",
-      "options": [
-        "Apple",
-        "ICU",
-        "Ahuja",
-        "Pradesh"
-      ]
-    },
-    {
-      "blanked": "Motorola Moto G Max comes to ______ with a different set of specs - GSMArena.com news",
-      "answer": "India",
-      "options": [
-        "Fires",
-        "Romantic",
-        "Vision",
-        "India"
-      ]
-    },
-    {
-      "blanked": "India’s big semiconductor push: PM ______ says 7-8 plants coming up; stresses self-reliance in chips",
-      "answer": "Modi",
-      "options": [
-        "Ask",
-        "Modi",
-        "Test",
-        "Mens"
+        "Lunar",
+        "Car",
+        "Sri",
+        "Ask"
       ]
     },
     {
       "blanked": "Former Barcelona defender gives blunt response to Xavi's Netherlands appointment: 'Ask Frenkie de ______",
       "answer": "Jong",
       "options": [
-        "NALSAR",
-        "Jong",
-        "Yatra",
-        "Romantic"
+        "Max",
+        "Kumar",
+        "Devendra",
+        "Jong"
       ]
     },
     {
-      "blanked": "Lamborghini Revuelto SV unveiled at ______ Car Week, limited to 1,963 units",
-      "answer": "Monterey",
+      "blanked": "\"Take Credit, But...\": PM Modi's Appeal To Political Parties On Women ______",
+      "answer": "Quota",
       "options": [
-        "Heart",
-        "Legacy",
-        "Monterey",
-        "Abusive"
+        "Limitations",
+        "Indonesia",
+        "Hashmi",
+        "Quota"
       ]
     },
     {
-      "blanked": "Govinda Fires Back At Sunita Ahuja After 'Sugar Daddy' Remark, Calls Out Her ______ Language",
-      "answer": "Abusive",
+      "blanked": "‘Pretty soon’: Trump vows to claim Hormuz as US territory; ______ hits back",
+      "answer": "Iran",
       "options": [
-        "Beats",
-        "NALSAR",
-        "Arrives",
-        "Abusive"
+        "Priyadarshan",
+        "Iran",
+        "Biomarkers",
+        "Hashmi"
+      ]
+    },
+    {
+      "blanked": "'I found him a little greedy': ______ opens up about directing Saif Ali Khan for the first time in",
+      "answer": "Priyadarshan",
+      "options": [
+        "Demand",
+        "Priyadarshan",
+        "Appeal",
+        "Made"
+      ]
+    },
+    {
+      "blanked": "Video: ______ Collapse As 7.7 Earthquake Strikes Indonesia, Killing 38",
+      "answer": "Buildings",
+      "options": [
+        "Buildings",
+        "Orders",
+        "Indian",
+        "Universe"
+      ]
+    },
+    {
+      "blanked": "US ______ sends replacement for USS Lincoln after reports of sailors threatening to jump overboard",
+      "answer": "Navy",
+      "options": [
+        "Navy",
+        "During",
+        "Modi",
+        "Snapdragon"
+      ]
+    },
+    {
+      "blanked": "Bangladesh six wickets away from historic Test win as Australia stumble to ______ on day 3",
+      "answer": "1614",
+      "options": [
+        "Mishra",
+        "Trump",
+        "1614",
+        "Honor"
       ]
     }
   ]
