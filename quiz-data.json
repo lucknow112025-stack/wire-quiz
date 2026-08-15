@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-15T09:55:46.090Z",
+  "generatedAt": "2026-08-15T10:50:04.245Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
     "Independence Day LIVE updates: PM Modi calls for manufacturing sector boost, lays out seven-point reform framework",
-    "‘I want it immediately’: NSA Ajit Doval reveals first question PM Modi asked after Pahalgam terror attack | India News",
-    "20 dead in Indonesia's 7.7-magnitude earthquake: Visuals show buildings collapse, people fleeing | World News",
-    "Bengal Man Arrested In Bengaluru For Terror Links, Wanted To Go To Afghanistan, Fight Pak",
-    "Centre notifies 40 questions for Census 2027; caste, SC, ST status included",
+    "‘PoK would have joined Jammu and Kashmir if…’: CM Omar Abdullah's pitch for statehood in Independence Day address | India News",
+    "Did Sonia Gandhi ‘Insult’ Vande Mataram During I-Day Celebration? Here’s What Congress Said",
     "‘Pretty soon’: Trump vows to claim Hormuz as US territory; Iran hits back",
-    "'What kind of freedom is this?': Devendra Mahto stopped from attending Tiranga Yatra in Ranchi; watch",
-    "Eating out? Maharashtra FDA chief Tukaram Mundhe says check these 4 things first",
-    "Trisha salutes Vijay at Independence Day event days after Sangeetha withdraws divorce petition",
-    "Union Ministers call Rahul Gandhi’s remarks on PM Modi ‘undignified, undemocratic’",
+    "20 dead in Indonesia's 7.7-magnitude earthquake: Visuals show buildings collapse, people fleeing | World News",
+    "India's generosity, tolerance should not be seen as weakness: NSA Ajit Doval on Operation Sindoor",
+    "NLSIU Students Demand BCI Apology For Orders Against NALSAR, Oppose Manan Kumar Mishra Attending...",
+    "Video: Jharkhand Activist Stopped From Joining Tiranga Yatra, Dragged Into Hospital",
+    "Bengaluru police arrest TTP-linked man planning attack against Pakistan Army",
+    "Mahua Moitra alleges she was asked to vacate circuit house late at night",
     "Entrenched, Embattled and Defiant, the Taliban Celebrate 5 Years in Power",
+    "Lebanon state media says Israeli strike on south kills 7",
     "US Army temporarily halts Apache training missions after two soldiers killed in Texas crash",
     "Jason Arday, former Cambridge University professor at centre of plagiarism scandal, found dead",
-    "UAE's ADNOC says one of its vessels came under attack while transiting Hormuz",
+    "Tata Sons AGM likely to be deferred for lack of quorum as SRTT remains under regulatory curbs",
     "Govt opens one-time foreign assets' disclosure window starting Aug 16",
-    "India cuts windfall tax on exports of petrol, diesel, aviation fuel",
     "India’s big semiconductor push: PM Modi says 7-8 plants coming up; stresses self-reliance in chips",
-    "Tata Sons' Tuesday AGM faces uncertainty as SDTT flags lack of quorum",
-    "Google Play Store hides Pixel 11 series discounts in plain sight",
+    "India cuts windfall tax on exports of petrol, diesel, aviation fuel",
+    "Android Circuit: Pixel 11 Pro And Made By Google, Galaxy Z Fold8 Success, Honor Robot Arrives",
+    "Lamborghini Revuelto SV unveiled at Monterey Car Week, limited to 1,963 units",
     "‘iPhone feels like a dad phone’: Galaxy Z Fold8’s ‘passport’ design wins over Apple loyalists",
-    "Motorola Launches moto g max, the Most Complete Smartphone Featuring a Luxury Satin Finish With Pantone™ Curated Colours, Segments Leading 50MP Sony LYTIA™ 600 Camera System, Snapdragon® 6s Gen 4 Performance, and Massive 7000mAh Bat",
-    "Lamborghini Launches Revuelto SV Limited-Edition Hybrid Supercar",
-    "Awarapan 2 Box Office Collection Day 1: Beats Saiyaara To Record Bollywood’s Biggest Romantic Opening",
-    "Teri Mitti To Ae Watan, Memorable Patriotic Songs To Celebrate Independence Day 2026",
-    "Marvel’s ‘X-Men’ Reboot Sets May 2028 Release Date"
+    "Motorola Moto G Max comes to India with a different set of specs - GSMArena.com news",
+    "Awarapan 2 Box Office Collections: Emraan Hashmi starrer has a fantastic opening day of Rs. 22 Cr in India",
+    "Marvel’s ‘X-Men’ Reboot Sets May 2028 Release Date",
+    "\"Your Sugar Daddy Is Rich, Dress Better\": Sunita Ahuja's Brutal Swipe at Govinda and Komal Rani"
   ],
   "quiz": [
     {
-      "blanked": "PM Modi announces nationwide sports talent hunt for children aged 5-15 to prepare for 2036 Olympics | ______ is bidding to host 2036 Olympics | Inshorts",
-      "answer": "India",
+      "blanked": "Jason Arday, former Cambridge ______ professor at centre of plagiarism scandal, found dead",
+      "answer": "University",
       "options": [
-        "Schedule",
-        "India",
-        "Pantone",
-        "Celebrate"
+        "University",
+        "Indian",
+        "Better",
+        "Cricket"
       ]
     },
     {
-      "blanked": "The ‘40-year-old ICU club’: ______ experts are warning against sacrificing sleep for success",
-      "answer": "Why",
+      "blanked": "Android Circuit: Pixel 11 Pro And Made By Google, Galaxy Z Fold8 ______ Honor Robot Arrives",
+      "answer": "Success",
       "options": [
-        "Why",
-        "Celebrate",
-        "Sri",
-        "Study"
+        "Success",
+        "Modi",
+        "Songs",
+        "Inshorts"
       ]
     },
     {
-      "blanked": "20 dead in Indonesia's 7.7-magnitude earthquake: ______ show buildings collapse, people fleeing | World News",
-      "answer": "Visuals",
+      "blanked": "\"Your Sugar Daddy Is Rich, Dress ______ Sunita Ahuja's Brutal Swipe at Govinda and Komal Rani",
+      "answer": "Better",
       "options": [
-        "Visuals",
-        "World",
-        "Bengaluru",
-        "Leading"
+        "Date",
+        "Ahujas",
+        "Indian",
+        "Better"
       ]
     },
     {
-      "blanked": "US ______ temporarily halts Apache training missions after two soldiers killed in Texas crash",
-      "answer": "Army",
+      "blanked": "Lebanon state media says ______ strike on south kills 7",
+      "answer": "Israeli",
       "options": [
-        "Memorable",
-        "Tukaram",
-        "Sentinels",
-        "Army"
+        "Insult",
+        "Israeli",
+        "Tamim",
+        "Patriotic"
       ]
     },
     {
-      "blanked": "‘I want it immediately’: NSA ______ Doval reveals first question PM Modi asked after Pahalgam terror attack | India News",
-      "answer": "Ajit",
+      "blanked": "India's generosity, tolerance should not be seen as weakness: ______ Ajit Doval on Operation Sindoor",
+      "answer": "NSA",
       "options": [
-        "Census",
+        "Govinda",
         "NSA",
-        "ADNOC",
-        "Ajit"
-      ]
-    },
-    {
-      "blanked": "Cardiologist Highlights Limitations of ______ for Heart Health",
-      "answer": "Smartwatches",
-      "options": [
-        "Universe",
-        "Smartwatches",
-        "Collection",
-        "NSA"
-      ]
-    },
-    {
-      "blanked": "Astronomers discover a possible ‘black hole star’ in the early ______ with a supermassive black hole h",
-      "answer": "Universe",
-      "options": [
-        "600",
         "Power",
-        "Universe",
-        "ICU"
+        "Sonia"
       ]
     },
     {
-      "blanked": "Tata ______ Tuesday AGM faces uncertainty as SDTT flags lack of quorum",
-      "answer": "Sons",
+      "blanked": "Govt opens one-time foreign assets' disclosure window starting ______ 16",
+      "answer": "Aug",
       "options": [
-        "Biggest",
-        "Sons",
-        "Taliban",
-        "Links"
+        "University",
+        "Aug",
+        "World",
+        "Congress"
       ]
     },
     {
-      "blanked": "UAE's ADNOC says one of its vessels came under attack while transiting ______",
-      "answer": "Hormuz",
+      "blanked": "Entrenched, Embattled and Defiant, the ______ Celebrate 5 Years in Power",
+      "answer": "Taliban",
       "options": [
-        "Pixel",
-        "Hormuz",
-        "Highlights",
-        "Sets"
+        "Watan",
+        "Galle",
+        "Daddy",
+        "Taliban"
       ]
     },
     {
-      "blanked": "Coffee consumption linked to metabolic health, sex hormone changes: ______",
-      "answer": "Study",
+      "blanked": "AUS vs BAN, Darwin Test: ______ Hasan Tamim vindicates selection gamble with historic ton",
+      "answer": "Tanzid",
       "options": [
-        "NSA",
-        "Shows",
-        "Gen",
-        "Study"
+        "Tanzid",
+        "Suns",
+        "Lunar",
+        "Taliban"
       ]
     },
     {
-      "blanked": "Entrenched, Embattled and ______ the Taliban Celebrate 5 Years in Power",
-      "answer": "Defiant",
+      "blanked": "PM ______ announces nationwide sports talent hunt for children aged 5-15 to prepare for 2036 Olympics | India is bidding to host 2036 Olympics | Inshorts",
+      "answer": "Modi",
       "options": [
-        "Texas",
-        "Doctor",
-        "Defiant",
-        "Eclipse"
+        "Modi",
+        "Demand",
+        "Galle",
+        "Scorecard"
       ]
     },
     {
-      "blanked": "SL vs IND, 1st Test, India tour of Sri ______ 2026 - Commentary",
-      "answer": "Lanka",
+      "blanked": "NICK STROBEL: ______ eclipse on tap for Aug. 27",
+      "answer": "Lunar",
       "options": [
-        "Performance",
-        "Camera",
-        "Videos",
-        "Lanka"
+        "Lunar",
+        "Manan",
+        "AGM",
+        "Stopped"
+      ]
+    },
+    {
+      "blanked": "How ______ Henry took Liverpool from crisis club to $7bn juggernaut",
+      "answer": "John",
+      "options": [
+        "Score",
+        "Olympics",
+        "John",
+        "Taliban"
+      ]
+    },
+    {
+      "blanked": "Lamborghini Revuelto SV unveiled at Monterey Car Week, limited to ______ units",
+      "answer": "1963",
+      "options": [
+        "1963",
+        "Release",
+        "Test",
+        "Circuit"
       ]
     }
   ]
