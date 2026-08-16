@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-16T15:44:35.275Z",
+  "generatedAt": "2026-08-16T17:39:50.965Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
+    "NTA admits errors, orders fresh NET for 3 subjects",
+    "‘They are like the dead’: Jharkhand students burn CM Hemant Soren, Rahul Gandhi's effigies amid exam protest | India News",
     "Bankim Chandra's descendant seeks Sonia Gandhi's apology over 'Vande Mataram' row",
-    "Bengal ex-deputy speaker Ashis Banerjee found hanging at local TMC office in Birbhum",
     "Bangladesh Lists 2 Riders For PM Rahman's India Visit. One Is Hasina Return",
-    "Air India Express passenger 'accidentally' fires during security check at Varanasi airport, 2 injured",
-    "Large clouds of smoke engulf Russia's Wildberries warehouse after Ukraine's massive attack on Moscow | Visuals | World News",
-    "Jharkhand protest: Students to burn Soren and Rahul effigies, gherao CM's residence August 20",
-    "CJI Surya Kant Advises Against Prohibiting AI Tools In Law Schools; Says Students Must Be Taught To Use...",
-    "‘Raises several questions’: Adhir Ranjan Chowdhury condemns Congress leader, son’s murder in Bengal",
-    "‘Witch hunt’: NLSIU students object to Bar Council chief, CJI Surya Kant attending convocation amid NALSAR row | India News",
+    "Asish Banerjee, former Bengal Minister and Trinamool leader, found dead in party office",
+    "Licensed pistol 'accidentally discharges' during security screening at Varanasi airport, two injured",
+    "CJP says three sets of questions on youth protests disallowed in Lok Sabha",
+    "'Supreme Court & CJI Not Beyond Legitimate Scrutiny In A Democracy': NALSAR Student Councils Condemns BCI ...",
+    "‘Explanation unacceptable’: CM Vijay condemns killing of three Tamil men by Karnataka forest department | India News",
     "Navy sailor, three family members found dead in Mumbai’s Colaba quarters; probe on",
-    "Thousands evacuate after Indonesia quake kills 53, aftershocks hamper rescue efforts",
+    "Kill A US Soldier, Get $30,000 - Iran Announces Bounty, Double Pay For Women",
+    "Large clouds of smoke engulf Russia's Wildberries warehouse after Ukraine's massive attack on Moscow | Visuals | World News",
+    "Indonesia earthquake: Thousands evacuate after earthquake kills 51",
     "West Asia war LIVE: Pope calls for an end to West Bank violence against Palestinians",
-    "Iran offers $30,000 for killing or capturing US soldiers, double if done by women | World News",
-    "Why has Israel escalated attacks in southern Lebanon despite ceasefire?",
-    "6 IPOs to hit market this week to raise nearly ₹5,600 crore | 2026 IPO count expected to reach 54 companies | Inshorts",
     "Oppo, OnePlus, Realme phones to be made by Amber Enterprises in India from FY28",
+    "Rs 6,400-crore IPO rush: 7 companies set to tap primary market next week",
     "Can SpaceX Leap to the AI Frontier?",
-    "ONGC gets U.S. licence to resume full Venezuela operations, eyes operatorship",
-    "Google now lets you remove Gemini's visible watermark - GSMArena.com news",
-    "iPhone 18 Pro leaks roundup: New camera, design, processor, RAM upgrade and all we know so far",
-    "Quordle Hints Today: Sunday, August 16 Clues And Answers",
-    "Samsung's Galaxy Z Fold 8 rocks for video — except for one problem you can't un-hear",
+    "19 months of foreign investor selling Indian equities wipes out 100 months of inflows | FIIs invested around $1.71 bn in Aug so far | Inshorts",
+    "Apple To Skip iPhone 18 Launch This Year, To Unveil iPhone 18 Pro, iPhone Ultra: Report",
+    "Quordle Hints Today: Monday, August 17 Clues And Answers",
+    "Deals: the Google Pixel 11 series is now on pre-order with gift cards and trade-in bonuses - GSMArena.com news",
+    "BGMI Lite Finally Becomes Official, Bringing a Lighter Version of the Battle Royale to Budget Devices",
+    "Awarapan 2 Box Office Collections: Emraan Hashmi starrer has an outstanding Independence Day in India, Nets Rs. 56 Cr in 2 days",
     "Actor Ananya Raj, known for 'Ghost' and 'Thaggede Le', passes away at 27",
-    "FDA notice to Shah Rukh, Ajay Devgn and Tiger Shroff over Vimal Elaichi ad",
-    "EXCLUSIVE: Salman Khan, Sunny Deol, Anil Kapoor and many other prominent celebs attend David Dhawans grand 75th birthday bash"
+    "FDA notice to Shah Rukh, Ajay Devgn and Tiger Shroff over Vimal Elaichi ad"
   ],
   "quiz": [
     {
-      "blanked": "Bankim ______ descendant seeks Sonia Gandhi's apology over 'Vande Mataram' row",
-      "answer": "Chandras",
+      "blanked": "Deals: the ______ Pixel 11 series is now on pre-order with gift cards and trade-in bonuses - GSMArena.com news",
+      "answer": "Google",
       "options": [
-        "Chandras",
-        "Visuals",
-        "Realme",
-        "Chowdhury"
-      ]
-    },
-    {
-      "blanked": "Black hole star: ______ discover a brand-new type of astrophysical object",
-      "answer": "Astronomers",
-      "options": [
+        "Iran",
         "Astronomers",
-        "Law",
-        "CMs",
-        "Express"
+        "Lighter",
+        "Google"
       ]
     },
     {
-      "blanked": "Raja Sen passes away at 71: Three-Time ______ Award-Winning Bengali filmmaker passes away after battlin",
-      "answer": "National",
+      "blanked": "Actor ______ Raj, known for 'Ghost' and 'Thaggede Le', passes away at 27",
+      "answer": "Ananya",
       "options": [
-        "Sunny",
-        "De-labels",
-        "Banerjee",
-        "National"
+        "Riders",
+        "Minister",
+        "Ananya",
+        "Asia"
       ]
     },
     {
-      "blanked": "Iran offers ______ for killing or capturing US soldiers, double if done by women | World News",
-      "answer": "30000",
+      "blanked": "6 of 20 sudden cardiac arrest deaths in ______ district are cab or auto drivers; 5 key reasons...",
+      "answer": "Karnataka",
       "options": [
-        "Sunday",
-        "Schools",
-        "30000",
-        "Curious"
+        "Inshorts",
+        "Community",
+        "Karnataka",
+        "Children"
       ]
     },
     {
-      "blanked": "Can ______ Leap to the AI Frontier?",
-      "answer": "SpaceX",
+      "blanked": "‘They are like the dead’: Jharkhand students burn CM ______ Soren, Rahul Gandhi's effigies amid exam protest | India News",
+      "answer": "Hemant",
       "options": [
-        "Ranjan",
-        "Maps",
-        "SpaceX",
-        "Pro"
+        "Frontier",
+        "Finally",
+        "Hemant",
+        "Galle"
       ]
     },
     {
-      "blanked": "SpaceX launches ______ classified US Space Force missions 38 minutes apart in record-breaking feat",
-      "answer": "Globalstar",
+      "blanked": "NTA admits errors, orders fresh ______ for 3 subjects",
+      "answer": "NET",
       "options": [
-        "Globalstar",
-        "Jurel",
-        "China",
-        "IPOs"
+        "Bounty",
+        "NET",
+        "Russias",
+        "Frontier"
       ]
     },
     {
-      "blanked": "Quordle Hints Today: Sunday, ______ 16 Clues And Answers",
-      "answer": "August",
+      "blanked": "West Asia war LIVE: Pope calls for an end to ______ Bank violence against Palestinians",
+      "answer": "West",
       "options": [
-        "Cup",
-        "August",
-        "Khan",
-        "China"
+        "Championships",
+        "Condemns",
+        "NALSAR",
+        "West"
       ]
     },
     {
-      "blanked": "iPhone 18 Pro leaks roundup: New camera, design, processor, ______ upgrade and all we know so far",
-      "answer": "RAM",
+      "blanked": "Oppo, ______ Realme phones to be made by Amber Enterprises in India from FY28",
+      "answer": "OnePlus",
       "options": [
-        "RAM",
-        "Thaggede",
-        "Return",
-        "Bank"
+        "Dengue",
+        "OnePlus",
+        "Raj",
+        "Leap"
       ]
     },
     {
-      "blanked": "India vs China Highlights, Women's Hockey World ______ 2026: IND 2-2 CHN; Teams share spoils in opener",
-      "answer": "Cup",
+      "blanked": "‘I drink black coffee daily’: ______ shares 6 research-backed benefits, from brain health to longevity | Health",
+      "answer": "Oncologist",
       "options": [
-        "Israel",
-        "Cup",
-        "Ghost",
-        "Dhawans"
+        "Trinamool",
+        "Answers",
+        "Oncologist",
+        "Championships"
       ]
     },
     {
-      "blanked": "FDA notice to Shah Rukh, Ajay ______ and Tiger Shroff over Vimal Elaichi ad",
-      "answer": "Devgn",
+      "blanked": "Large clouds of smoke engulf Russia's Wildberries warehouse after Ukraine's massive attack on ______ | Visuals | World News",
+      "answer": "Moscow",
       "options": [
-        "Tiger",
-        "Bengali",
-        "Devgn",
-        "Sunday"
+        "Moscow",
+        "Women",
+        "Karnataka",
+        "NALSAR"
       ]
     },
     {
-      "blanked": "Telangana Records ______ Dengue Cases In 4 Months",
-      "answer": "230",
+      "blanked": "A defeat like no other for ______ sets alarm bells ringing",
+      "answer": "Australia",
       "options": [
-        "30000",
-        "Asia",
-        "230",
-        "Ashis"
+        "Australia",
+        "Sabha",
+        "Vijay",
+        "Pixel"
       ]
     },
     {
-      "blanked": "Google now lets you remove ______ visible watermark - GSMArena.com news",
-      "answer": "Geminis",
+      "blanked": "In ______ a Google Maps User was planning a trip using the app; and what he found was a giant meteorite cr",
+      "answer": "2024",
       "options": [
-        "Force",
-        "Geminis",
-        "August",
-        "Surya"
+        "Frontier",
+        "Collections",
+        "2024",
+        "FIIs"
+      ]
+    },
+    {
+      "blanked": "CJP says three sets of questions on youth protests disallowed in Lok ______",
+      "answer": "Sabha",
+      "options": [
+        "User",
+        "Official",
+        "Championships",
+        "Sabha"
       ]
     }
   ]
