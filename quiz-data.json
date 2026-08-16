@@ -1,113 +1,43 @@
 {
-  "generatedAt": "2026-08-16T09:57:09.602Z",
+  "generatedAt": "2026-08-16T10:52:25.704Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
     "BJP says Sonia Gandhi opposed singing of full Vande Mataram, demands apology; Congress rejects charge",
     "Air India Express Flyer 'Accidentally' Fires At Varanasi Airport, 2 Injured",
     "Asish Banerjee, former Bengal Minister and Trinamool leader, found dead in party office",
-    "Modi threatens to target ‘intellectual Naxals’ in Independence Day speech",
-    "Students detained ahead of Amit Shah's Alwar visit as they planned protest to demand his resignation over CJP crackdown | India News",
     "'Supreme Court & CJI Not Beyond Legitimate Scrutiny In A Democracy': NALSAR Student Councils Condemns BCI ...",
+    "Students detained ahead of Amit Shah's Alwar visit as they planned protest to demand his resignation over CJP crackdown | India News",
+    "Sailors 'tried to jump off' US warship: What Homer knew and science now explains about being at sea for long | Hindustan Times",
     "India Nears Rs 70,000-Crore Submarine Deal With Germany, Key Meet Likely Soon",
     "11, including 7 children, fall ill; 3 in ICU after 'dead lizard' found in cake near Mumbai",
     "‘Feeding my friends’: PM Modi’s quiet Independence Day morning with cows, peacocks",
     "Army jawan killed wife, tried to pass it off as fall from roof; arrested",
     "Thousands evacuate after Indonesia quake kills 51, cuts roads",
     "West Asia war highlights: Iran fires back at Trump’s threat to declare Hormuz a U.S. territory",
-    "USS George Washington, Last US Aircraft Carrier In Asia, Is Leaving Pacific",
-    "Ukraine targets Moscow in mass drone attack as Russia bombards Kyiv",
-    "Government fixes LPG production targets for refiners, Reliance gets largest share",
-    "E20 Petrol Not Sole Factor Behind Low Mileage, Says Govt: Here's What May Cost You More Fuel",
-    "Will Sensex, Nifty continue to bleed on Monday? 4 factors which will drive D-Street action this week",
+    "World News Updates: 6 killed after Ukraine launches one of its largest drone attacks on Russia",
+    "Japanese minister visits shrine to war dead, angering China, South Korea",
+    "IPO rush continues: Six companies to raise nearly Rs 5,600 crore next week",
+    "ONGC gets US licence to resume full Venezuela operations, eyes operatorship",
+    "Government sets LPG production targets for refiners; Reliance gets largest quota",
     "Chandrasekaran’s exit puts Tata’s Air India bet under fresh scrutiny",
     "Why do so many AI chatbots call themselves Nova? I asked ChatGPT, Claude, Gemini and more to name themselves",
     "Fans aren't just for summer — here are 5 alternative uses for your personal cooler, from styling hair to drying socks",
     "Apple iPhone 18 Pro Release Date: Discounted Day Re-Enters The September Schedule",
     "Lamborghini Revuelto SV unveiled at Monterey Car Week, limited to 1,963 units",
+    "FDA notice to Shah Rukh, Ajay Devgn and Tiger Shroff over Vimal Elaichi ad",
     "Awarapan 2 Box Office Collections: Emraan Hashmi starrer has an outstanding Independence Day in India, Nets Rs. 56 Cr in 2 days",
-    "'Batwara 1947' box office collection Day 2: Sunny Deol film soars 135% to mint Rs. 13.50 crore as domesti",
-    "'Explain Vimal Ad In 15 Days': Tukaram Mundhe's Notice To Shah Rukh Khan, Ajay Devgn, Tiger Shroff"
+    "Who is Shubhra Shetty? Emotional Anurag Kashyap reveals how 20 years age gap affected his relationship wit"
   ],
   "quiz": [
     {
-      "blanked": "Cosmically ______ Missed the Perseids? Don’t miss August’s near-total lunar eclipse",
-      "answer": "Curious",
+      "blanked": "Apple iPhone 18 ______ Release Date: Discounted Day Re-Enters The September Schedule",
+      "answer": "Pro",
       "options": [
-        "Shubhra",
-        "LPG",
-        "Release",
-        "Curious"
-      ]
-    },
-    {
-      "blanked": "COVID-19 awakens dormant viruses — and one is linked to long ______",
-      "answer": "COVID",
-      "options": [
-        "Pro",
-        "COVID",
-        "Govt",
-        "Aircraft"
-      ]
-    },
-    {
-      "blanked": "Thousands evacuate after ______ quake kills 51, cuts roads",
-      "answer": "Indonesia",
-      "options": [
-        "Kyiv",
-        "Indonesia",
-        "Air",
-        "Wales"
-      ]
-    },
-    {
-      "blanked": "Will Sensex, Nifty continue to bleed on ______ 4 factors which will drive D-Street action this week",
-      "answer": "Monday",
-      "options": [
-        "Monday",
-        "Claude",
-        "Deol",
-        "Mileage"
-      ]
-    },
-    {
-      "blanked": "‘100 Billion Times More Powerful Than A Star’: Viral ‘Black Hole Star’ Discovery ______ Internet Stunned",
-      "answer": "Leaves",
-      "options": [
-        "CJI",
-        "India",
-        "Asia",
-        "Leaves"
-      ]
-    },
-    {
-      "blanked": "Chengalpattu: ______ rise in dengue cases among children leaves public concerned",
-      "answer": "Sharp",
-      "options": [
-        "Sharp",
-        "May",
-        "Office",
-        "Australia"
-      ]
-    },
-    {
-      "blanked": "Apple iPhone 18 Pro Release Date: Discounted Day ______ The September Schedule",
-      "answer": "Re-Enters",
-      "options": [
-        "Modis",
-        "Re-Enters",
-        "Submarine",
-        "Iran"
-      ]
-    },
-    {
-      "blanked": "‘Feeding my friends’: PM Modi’s quiet ______ Day morning with cows, peacocks",
-      "answer": "Independence",
-      "options": [
-        "Shroff",
-        "Independence",
-        "Suns",
-        "Alwar"
+        "News",
+        "Fires",
+        "Emotional",
+        "Pro"
       ]
     },
     {
@@ -115,39 +45,109 @@
       "answer": "Suns",
       "options": [
         "Suns",
-        "Nifty",
-        "Bengal",
-        "CJP"
+        "Asia",
+        "Nashville",
+        "Monterey"
       ]
     },
     {
-      "blanked": "'Explain Vimal Ad In 15 Days': Tukaram Mundhe's Notice To Shah Rukh ______ Ajay Devgn, Tiger Shroff",
-      "answer": "Khan",
+      "blanked": "ONGC gets US licence to resume full ______ operations, eyes operatorship",
+      "answer": "Venezuela",
       "options": [
-        "AKKARE",
-        "Khan",
-        "Hole",
-        "Vimal"
-      ]
-    },
-    {
-      "blanked": "Ukraine targets ______ in mass drone attack as Russia bombards Kyiv",
-      "answer": "Moscow",
-      "options": [
-        "Tatas",
-        "Moscow",
-        "Penalty",
-        "Student"
-      ]
-    },
-    {
-      "blanked": "Government fixes LPG production targets for refiners, ______ gets largest share",
-      "answer": "Reliance",
-      "options": [
-        "Monterey",
+        "Falcon",
         "CJI",
-        "Reliance",
-        "Discovery"
+        "Mataram",
+        "Venezuela"
+      ]
+    },
+    {
+      "blanked": "James Webb discovers a “black hole star” the size of the ______ System",
+      "answer": "Solar",
+      "options": [
+        "Webb",
+        "330",
+        "Tatas",
+        "Solar"
+      ]
+    },
+    {
+      "blanked": "BJP says Sonia Gandhi opposed singing of full Vande Mataram, demands apology; ______ rejects charge",
+      "answer": "Congress",
+      "options": [
+        "Congress",
+        "CJP",
+        "Misses",
+        "Bengal"
+      ]
+    },
+    {
+      "blanked": "Lionel Messi Misses Penalty, Fumes At Referee As Nashville Hammer ______ Miami 4-1",
+      "answer": "Inter",
+      "options": [
+        "Russia",
+        "Trumps",
+        "Inter",
+        "Augusts"
+      ]
+    },
+    {
+      "blanked": "UFC 330: Makhachev secures record-setting win against Machado ______",
+      "answer": "Garry",
+      "options": [
+        "Suns",
+        "Makhachev",
+        "Garry",
+        "Express"
+      ]
+    },
+    {
+      "blanked": "Sailors 'tried to jump off' US warship: What Homer knew and science now explains about being at sea for long | ______ Times",
+      "answer": "Hindustan",
+      "options": [
+        "Car",
+        "Iran",
+        "Garry",
+        "Hindustan"
+      ]
+    },
+    {
+      "blanked": "'Vishwanath and Sons' vs 'Jana Nayagan' box office collections: Suriya's film grows 45% on day 2; ______",
+      "answer": "Vijays",
+      "options": [
+        "Karnataka",
+        "Vijays",
+        "Makhachev",
+        "Galles"
+      ]
+    },
+    {
+      "blanked": "11, including 7 children, fall ill; 3 in ICU after 'dead lizard' found in cake near ______",
+      "answer": "Mumbai",
+      "options": [
+        "Express",
+        "Gandhi",
+        "Kerala",
+        "Mumbai"
+      ]
+    },
+    {
+      "blanked": "How does migration change the way we age? AKKARE looks for answers among ______ Americans",
+      "answer": "Kerala",
+      "options": [
+        "Kerala",
+        "Ukraine",
+        "Claude",
+        "45%"
+      ]
+    },
+    {
+      "blanked": "Students detained ahead of ______ Shah's Alwar visit as they planned protest to demand his resignation over CJP crackdown | India News",
+      "answer": "Amit",
+      "options": [
+        "BCI",
+        "Australia",
+        "Amit",
+        "South"
       ]
     }
   ]
