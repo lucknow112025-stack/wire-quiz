@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-16T19:00:42.403Z",
+  "generatedAt": "2026-08-16T19:48:36.344Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
     "\"Many Errors\": Re-Exam For 3 UGC-NET Papers. Dates Announced",
     "Bangladesh sets extradition of Hasina, Hadi’s killers as conditions for Tarique Rahman’s India visit",
+    "Bankim Chandra's descendant seeks Sonia Gandhi's apology over 'Vande Mataram' row",
     "Air India Express passenger 'accidentally' fires during security check at Varanasi airport, 2 injured",
     "Chaos In Delhi Metro After Paramilitary Official Allegedly Takes Woman's Pic",
+    "Day after PM Modi warns of ‘new enemy’, Rijiju offers 4-point definition of ‘dimagi naxal’",
+    "TN political leaders condemn killing of three Tamil farmers by Karnataka forest officials",
+    "'Delhi cops told us we are traitors': Jantar Mantar protesters meet Rahul Gandhi | India News",
     "CJP says three sets of questions on youth protests disallowed in Lok Sabha",
-    "BCI Chairperson Manan Kumar Mishra Apologises To Law Students Amid NALSAR Row",
-    "Bankim Chandra's descendant seeks Sonia Gandhi's apology over 'Vande Mataram' row",
-    "‘Explanation unacceptable’: CM Vijay condemns killing of three Tamil men by Karnataka forest department | India News",
-    "E. coli bacteria found in drinking water samples across railway stations: CAG report",
-    "CJI Surya Kant Advises Against Prohibiting AI Tools In Law Schools; Says Students Must Be Taught To Use...",
-    "Kill A US Soldier, Get $30,000 - Iran Announces Bounty, Double Pay For Women",
+    "Centre's Auditor CAG Flags E Coli In Drinking Water Across Railway Stations",
     "In Spain's Ceuta, hundreds of migrants stage protest and demand asylum",
-    "Large clouds of smoke engulf Russia's Wildberries warehouse after Ukraine's massive attack on Moscow | Visuals | World News",
-    "Kushner meets Hamas chief in Egypt in push for Gaza disarmament; IDF continues strikes",
+    "Video: Apocalyptic Blaze After Massive Drone Attack Hits Moscow Region",
+    "Hamas leader heads to Cairo for Gaza talks ahead of Kushner visit",
+    "West Asia war LIVE: Pope calls for an end to West Bank violence against Palestinians",
     "Oppo, OnePlus, Realme phones to be made by Amber Enterprises in India from FY28",
     "Bullion watch: Where are gold and silver prices headed next week? Fed minutes, Middle East in focus",
     "Can SpaceX Leap to the AI Frontier?",
     "Chandrasekaran’s exit puts Tata’s Air India bet under fresh scrutiny",
+    "Audio Advice Live: 4 of the most talented and sonically insightful tower speakers I heard at the elite hi-fi show",
     "Apple To Skip iPhone 18 Launch This Year, To Unveil iPhone 18 Pro, iPhone Ultra: Report",
     "Quordle Hints Today: Monday, August 17 Clues And Answers",
-    "Samsung's Galaxy Z Fold 8 rocks for video — except for one problem you can't un-hear",
-    "Deals: the Google Pixel 11 series is now on pre-order with gift cards and trade-in bonuses - GSMArena.com news",
+    "Pixel 11 series, Honor Robot Phone, Redmi 17 official, Week 33 in review - GSMArena.com news",
     "Awarapan 2 Box Office: Emraan Hashmi Ends 10-Year Dry Spell; Bollywood Registers 8th Success Of 2026",
     "FDA notice to Shah Rukh, Ajay Devgn and Tiger Shroff over Vimal Elaichi ad",
     "Actor Ananya Raj, known for 'Ghost' and 'Thaggede Le', passes away at 27"
   ],
   "quiz": [
     {
-      "blanked": "FDA notice to ______ Rukh, Ajay Devgn and Tiger Shroff over Vimal Elaichi ad",
-      "answer": "Shah",
+      "blanked": "Day after PM ______ warns of ‘new enemy’, Rijiju offers 4-point definition of ‘dimagi naxal’",
+      "answer": "Modi",
       "options": [
-        "Shah",
-        "Gabriel",
-        "Vimal",
-        "Express"
+        "Modi",
+        "Rahul",
+        "Falcon",
+        "Pope"
       ]
     },
     {
-      "blanked": "BCI Chairperson Manan Kumar Mishra Apologises To Law Students Amid ______ Row",
-      "answer": "NALSAR",
+      "blanked": "Yash Lands In Trouble After ______ On Telugu Stars",
+      "answer": "Comments",
       "options": [
-        "Metabolic",
-        "Ukraines",
-        "NALSAR",
-        "China"
+        "SpaceX",
+        "Trouble",
+        "Comments",
+        "Women"
       ]
     },
     {
-      "blanked": "Quordle ______ Today: Monday, August 17 Clues And Answers",
-      "answer": "Hints",
+      "blanked": "Can ______ Leap to the AI Frontier?",
+      "answer": "SpaceX",
       "options": [
-        "Hints",
-        "167",
-        "30000",
-        "Teams"
+        "Tatas",
+        "SpaceX",
+        "Long",
+        "Fasting"
       ]
     },
     {
-      "blanked": "Bankim Chandra's descendant seeks Sonia ______ apology over 'Vande Mataram' row",
-      "answer": "Gandhis",
-      "options": [
-        "230",
-        "Padikkals",
-        "Coronal",
-        "Gandhis"
-      ]
-    },
-    {
-      "blanked": "Kill A US Soldier, Get $30,000 - ______ Announces Bounty, Double Pay For Women",
-      "answer": "Iran",
-      "options": [
-        "Ananya",
-        "Iran",
-        "Bad",
-        "Tarique"
-      ]
-    },
-    {
-      "blanked": "New Study Reveals Anthocyanin-Rich Foods Support Heart and Metabolic ______ in Healthy Adults",
-      "answer": "Health",
-      "options": [
-        "Health",
-        "Coronal",
-        "CHN",
-        "Kumar"
-      ]
-    },
-    {
-      "blanked": "Telangana Records 230 Dengue ______ In 4 Months",
-      "answer": "Cases",
-      "options": [
-        "Hints",
-        "Test",
-        "Stars",
-        "Cases"
-      ]
-    },
-    {
-      "blanked": "Bullion watch: Where are gold and silver prices headed next week? Fed minutes, Middle ______ in focus",
-      "answer": "East",
-      "options": [
-        "Karnataka",
-        "Heart",
-        "News",
-        "East"
-      ]
-    },
-    {
-      "blanked": "Kushner meets ______ chief in Egypt in push for Gaza disarmament; IDF continues strikes",
-      "answer": "Hamas",
-      "options": [
-        "Wildberries",
-        "Google",
-        "Vande",
-        "Hamas"
-      ]
-    },
-    {
-      "blanked": "Bangladesh sets extradition of Hasina, Hadi’s killers as conditions for Tarique Rahman’s ______ visit",
+      "blanked": "Air ______ Express passenger 'accidentally' fires during security check at Varanasi airport, 2 injured",
       "answer": "India",
       "options": [
+        "Mantar",
         "India",
-        "Fold",
-        "Russias",
-        "Express"
+        "Varanasi",
+        "Womans"
       ]
     },
     {
-      "blanked": "Chandrasekaran’s exit puts Tata’s ______ India bet under fresh scrutiny",
-      "answer": "Air",
+      "blanked": "\"Many Errors\": Re-Exam For 3 UGC-NET Papers. Dates ______",
+      "answer": "Announced",
       "options": [
-        "UGC-NET",
-        "Air",
+        "Announced",
         "Ananya",
-        "Metabolic"
+        "Frontier",
+        "Region"
       ]
     },
     {
-      "blanked": "Awarapan 2 Box ______ Emraan Hashmi Ends 10-Year Dry Spell; Bollywood Registers 8th Success Of 2026",
-      "answer": "Office",
+      "blanked": "In ______ Ceuta, hundreds of migrants stage protest and demand asylum",
+      "answer": "Spains",
       "options": [
+        "Robot",
+        "Spains",
+        "Affect",
+        "Modi"
+      ]
+    },
+    {
+      "blanked": "Is Intermittent Fasting Bad For ______ Nutritionist Explains How Long Fasting May Affect Hormones",
+      "answer": "Women",
+      "options": [
+        "City",
         "Re-Exam",
-        "Hashmi",
-        "Office",
-        "Realme"
+        "Women",
+        "Clues"
+      ]
+    },
+    {
+      "blanked": "Actor ______ Raj, known for 'Ghost' and 'Thaggede Le', passes away at 27",
+      "answer": "Ananya",
+      "options": [
+        "Modi",
+        "Skip",
+        "Ananya",
+        "Metro"
+      ]
+    },
+    {
+      "blanked": "TN political leaders condemn killing of three ______ farmers by Karnataka forest officials",
+      "answer": "Tamil",
+      "options": [
+        "Intermittent",
+        "Hadis",
+        "Tamil",
+        "Rijiju"
+      ]
+    },
+    {
+      "blanked": "Video: ______ Blaze After Massive Drone Attack Hits Moscow Region",
+      "answer": "Apocalyptic",
+      "options": [
+        "Angina",
+        "Sonia",
+        "Tiger",
+        "Apocalyptic"
+      ]
+    },
+    {
+      "blanked": "CJP says three sets of questions on youth protests disallowed in ______ Sabha",
+      "answer": "Lok",
+      "options": [
+        "Clues",
+        "Success",
+        "Lok",
+        "Drinking"
+      ]
+    },
+    {
+      "blanked": "IIA researchers develop 3D model to forecast arrival of Coronal ______ Ejections",
+      "answer": "Mass",
+      "options": [
+        "Mass",
+        "Kushner",
+        "Report",
+        "Treatment"
       ]
     }
   ]
