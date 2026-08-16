@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-16T10:52:25.704Z",
+  "generatedAt": "2026-08-16T11:41:13.505Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
     "BJP says Sonia Gandhi opposed singing of full Vande Mataram, demands apology; Congress rejects charge",
-    "Air India Express Flyer 'Accidentally' Fires At Varanasi Airport, 2 Injured",
-    "Asish Banerjee, former Bengal Minister and Trinamool leader, found dead in party office",
-    "'Supreme Court & CJI Not Beyond Legitimate Scrutiny In A Democracy': NALSAR Student Councils Condemns BCI ...",
+    "Air India Express passenger carrying weapon fires round at Varanasi airport; 2 injured",
+    "Bengal ex-deputy speaker Ashis Banerjee found hanging at local TMC office in Birbhum",
+    "Navy Sailor, Family Found Dead At Mumbai Home, Cops Suspect Murder-Suicide",
     "Students detained ahead of Amit Shah's Alwar visit as they planned protest to demand his resignation over CJP crackdown | India News",
     "Sailors 'tried to jump off' US warship: What Homer knew and science now explains about being at sea for long | Hindustan Times",
+    "CJP's Saurav Das hits out at PM Modi over 'dimagi Naxal' remark: 'Bells are ringing. The awakening is her",
+    "What Happens When Millions Of Young Indians Can't Find Their First Job?",
     "India Nears Rs 70,000-Crore Submarine Deal With Germany, Key Meet Likely Soon",
-    "11, including 7 children, fall ill; 3 in ICU after 'dead lizard' found in cake near Mumbai",
-    "‘Feeding my friends’: PM Modi’s quiet Independence Day morning with cows, peacocks",
-    "Army jawan killed wife, tried to pass it off as fall from roof; arrested",
+    "Israeli Diplomat Distributes Tricolours At A Railway Station In Mumbai, Wins Praise Online",
     "Thousands evacuate after Indonesia quake kills 51, cuts roads",
-    "West Asia war highlights: Iran fires back at Trump’s threat to declare Hormuz a U.S. territory",
-    "World News Updates: 6 killed after Ukraine launches one of its largest drone attacks on Russia",
-    "Japanese minister visits shrine to war dead, angering China, South Korea",
-    "IPO rush continues: Six companies to raise nearly Rs 5,600 crore next week",
+    "Belgium's biggest wildfire on record heads towards Germany",
+    "Suspected Russian drone shot down in Romanian airspace",
+    "Israeli strikes kill 11 in southern Lebanon as attacks intensify",
+    "7 new IPOs next week: Horizon Industrial Parks, Lalithaa Jewellery lead Rs 6,400-crore rush",
     "ONGC gets US licence to resume full Venezuela operations, eyes operatorship",
     "Government sets LPG production targets for refiners; Reliance gets largest quota",
     "Chandrasekaran’s exit puts Tata’s Air India bet under fresh scrutiny",
     "Why do so many AI chatbots call themselves Nova? I asked ChatGPT, Claude, Gemini and more to name themselves",
-    "Fans aren't just for summer — here are 5 alternative uses for your personal cooler, from styling hair to drying socks",
     "Apple iPhone 18 Pro Release Date: Discounted Day Re-Enters The September Schedule",
-    "Lamborghini Revuelto SV unveiled at Monterey Car Week, limited to 1,963 units",
+    "Fans aren't just for summer — here are 5 alternative uses for your personal cooler, from styling hair to drying socks",
+    "Deals: the Google Pixel 11 series is now on pre-order with gift cards and trade-in bonuses - GSMArena.com news",
     "FDA notice to Shah Rukh, Ajay Devgn and Tiger Shroff over Vimal Elaichi ad",
-    "Awarapan 2 Box Office Collections: Emraan Hashmi starrer has an outstanding Independence Day in India, Nets Rs. 56 Cr in 2 days",
-    "Who is Shubhra Shetty? Emotional Anurag Kashyap reveals how 20 years age gap affected his relationship wit"
+    "Who is Shubhra Shetty? Emotional Anurag Kashyap reveals how 20 years age gap affected his relationship wit",
+    "To those who call me kafir...: Actor Faria Abdullah breaks down over Bonalu trolling"
   ],
   "quiz": [
     {
-      "blanked": "Apple iPhone 18 ______ Release Date: Discounted Day Re-Enters The September Schedule",
-      "answer": "Pro",
+      "blanked": "CJP's Saurav Das hits out at PM Modi over 'dimagi Naxal' remark: ______ are ringing. The awakening is her",
+      "answer": "Bells",
       "options": [
-        "News",
-        "Fires",
+        "Independence",
+        "Modi",
+        "World",
+        "Bells"
+      ]
+    },
+    {
+      "blanked": "Israeli Diplomat ______ Tricolours At A Railway Station In Mumbai, Wins Praise Online",
+      "answer": "Distributes",
+      "options": [
+        "Dont",
+        "Shahs",
         "Emotional",
-        "Pro"
+        "Distributes"
       ]
     },
     {
-      "blanked": "NASA’s new AI model can predict ______ storm-causing regions up to 12 hours before they appear",
-      "answer": "Suns",
+      "blanked": "Black hole star: ______ discover a brand-new type of astrophysical object",
+      "answer": "Astronomers",
       "options": [
-        "Suns",
-        "Asia",
-        "Nashville",
-        "Monterey"
+        "Sunny",
+        "Nears",
+        "Emotional",
+        "Astronomers"
       ]
     },
     {
-      "blanked": "ONGC gets US licence to resume full ______ operations, eyes operatorship",
-      "answer": "Venezuela",
+      "blanked": "Harmanpreet Singh's brace powers India to 3-1 win over ______ in FIH World Cup opener",
+      "answer": "Wales",
       "options": [
-        "Falcon",
-        "CJI",
-        "Mataram",
-        "Venezuela"
-      ]
-    },
-    {
-      "blanked": "James Webb discovers a “black hole star” the size of the ______ System",
-      "answer": "Solar",
-      "options": [
-        "Webb",
-        "330",
-        "Tatas",
-        "Solar"
-      ]
-    },
-    {
-      "blanked": "BJP says Sonia Gandhi opposed singing of full Vande Mataram, demands apology; ______ rejects charge",
-      "answer": "Congress",
-      "options": [
-        "Congress",
-        "CJP",
-        "Misses",
-        "Bengal"
-      ]
-    },
-    {
-      "blanked": "Lionel Messi Misses Penalty, Fumes At Referee As Nashville Hammer ______ Miami 4-1",
-      "answer": "Inter",
-      "options": [
-        "Russia",
-        "Trumps",
-        "Inter",
-        "Augusts"
-      ]
-    },
-    {
-      "blanked": "UFC 330: Makhachev secures record-setting win against Machado ______",
-      "answer": "Garry",
-      "options": [
-        "Suns",
-        "Makhachev",
-        "Garry",
-        "Express"
-      ]
-    },
-    {
-      "blanked": "Sailors 'tried to jump off' US warship: What Homer knew and science now explains about being at sea for long | ______ Times",
-      "answer": "Hindustan",
-      "options": [
-        "Car",
-        "Iran",
-        "Garry",
-        "Hindustan"
-      ]
-    },
-    {
-      "blanked": "'Vishwanath and Sons' vs 'Jana Nayagan' box office collections: Suriya's film grows 45% on day 2; ______",
-      "answer": "Vijays",
-      "options": [
-        "Karnataka",
-        "Vijays",
-        "Makhachev",
+        "Padikkal",
+        "Wales",
+        "Happens",
         "Galles"
       ]
     },
     {
-      "blanked": "11, including 7 children, fall ill; 3 in ICU after 'dead lizard' found in cake near ______",
-      "answer": "Mumbai",
+      "blanked": "Chandrasekaran’s exit puts Tata’s ______ India bet under fresh scrutiny",
+      "answer": "Air",
       "options": [
-        "Express",
-        "Gandhi",
-        "Kerala",
-        "Mumbai"
+        "Indonesia",
+        "Air",
+        "Galles",
+        "Industrial"
       ]
     },
     {
-      "blanked": "How does migration change the way we age? AKKARE looks for answers among ______ Americans",
-      "answer": "Kerala",
+      "blanked": "Why corona is too hot to handle: Indian researchers point to ______ magnetic dance",
+      "answer": "Suns",
       "options": [
-        "Kerala",
-        "Ukraine",
-        "Claude",
-        "45%"
+        "AKKARE",
+        "Date",
+        "Hindustan",
+        "Suns"
       ]
     },
     {
-      "blanked": "Students detained ahead of ______ Shah's Alwar visit as they planned protest to demand his resignation over CJP crackdown | India News",
-      "answer": "Amit",
+      "blanked": "New record! ______ launches 2 Falcon 9 rockets just 38 minutes apart",
+      "answer": "SpaceX",
       "options": [
-        "BCI",
-        "Australia",
-        "Amit",
-        "South"
+        "2026",
+        "Commentary",
+        "SpaceX",
+        "Devgn"
+      ]
+    },
+    {
+      "blanked": "SL vs IND, 1st Test, India tour of ______ Lanka 2026 - Commentary",
+      "answer": "Sri",
+      "options": [
+        "Sri",
+        "Americans",
+        "Day",
+        "Jewellery"
+      ]
+    },
+    {
+      "blanked": "Cosmically Curious: ______ the Perseids? Don’t miss August’s near-total lunar eclipse",
+      "answer": "Missed",
+      "options": [
+        "Office",
+        "Pro",
+        "Missed",
+        "Lalithaa"
+      ]
+    },
+    {
+      "blanked": "Bengal ex-deputy speaker Ashis Banerjee found hanging at local TMC office in ______",
+      "answer": "Birbhum",
+      "options": [
+        "Vande",
+        "Likely",
+        "Birbhum",
+        "Home"
+      ]
+    },
+    {
+      "blanked": "Suspected ______ drone shot down in Romanian airspace",
+      "answer": "Russian",
+      "options": [
+        "Job",
+        "Russian",
+        "LPG",
+        "News"
+      ]
+    },
+    {
+      "blanked": "6 of 20 sudden cardiac arrest deaths in ______ district are cab or auto drivers; 5 key reasons...",
+      "answer": "Karnataka",
+      "options": [
+        "Karnataka",
+        "1947",
+        "Indians",
+        "Missed"
       ]
     }
   ]
