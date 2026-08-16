@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-16T11:41:13.505Z",
+  "generatedAt": "2026-08-16T12:01:00.540Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "BJP says Sonia Gandhi opposed singing of full Vande Mataram, demands apology; Congress rejects charge",
-    "Air India Express passenger carrying weapon fires round at Varanasi airport; 2 injured",
-    "Bengal ex-deputy speaker Ashis Banerjee found hanging at local TMC office in Birbhum",
+    "Congress should apologise for insulting Vande Mataram on Independence Day: Amit Shah",
+    "Air India Express Flyer's Gun Goes Off At Varanasi Airport, 2 Security Staffers Injured",
     "Navy Sailor, Family Found Dead At Mumbai Home, Cops Suspect Murder-Suicide",
+    "Bengal ex-deputy speaker Ashis Banerjee found hanging at local TMC office in Birbhum",
+    "Jharkhand protest: Students to burn Soren and Rahul effigies, gherao CM's residence August 20",
     "Students detained ahead of Amit Shah's Alwar visit as they planned protest to demand his resignation over CJP crackdown | India News",
-    "Sailors 'tried to jump off' US warship: What Homer knew and science now explains about being at sea for long | Hindustan Times",
-    "CJP's Saurav Das hits out at PM Modi over 'dimagi Naxal' remark: 'Bells are ringing. The awakening is her",
+    "Father dies as ‘School Thik Karo’ audit ends in attack on Bengal man, his family. CJP blames BJP",
     "What Happens When Millions Of Young Indians Can't Find Their First Job?",
+    "'Supreme Court & CJI Not Beyond Legitimate Scrutiny In A Democracy': NALSAR Student Councils Condemns BCI ...",
     "India Nears Rs 70,000-Crore Submarine Deal With Germany, Key Meet Likely Soon",
-    "Israeli Diplomat Distributes Tricolours At A Railway Station In Mumbai, Wins Praise Online",
     "Thousands evacuate after Indonesia quake kills 51, cuts roads",
     "Belgium's biggest wildfire on record heads towards Germany",
-    "Suspected Russian drone shot down in Romanian airspace",
-    "Israeli strikes kill 11 in southern Lebanon as attacks intensify",
+    "Trump wants more economic pressure on Iran. What are his options?",
+    "Large clouds of smoke engulf Russia's Wildberries warehouse after Ukraine's massive attack on Moscow | Visuals | World News",
     "7 new IPOs next week: Horizon Industrial Parks, Lalithaa Jewellery lead Rs 6,400-crore rush",
     "ONGC gets US licence to resume full Venezuela operations, eyes operatorship",
     "Government sets LPG production targets for refiners; Reliance gets largest quota",
     "Chandrasekaran’s exit puts Tata’s Air India bet under fresh scrutiny",
     "Why do so many AI chatbots call themselves Nova? I asked ChatGPT, Claude, Gemini and more to name themselves",
-    "Apple iPhone 18 Pro Release Date: Discounted Day Re-Enters The September Schedule",
-    "Fans aren't just for summer — here are 5 alternative uses for your personal cooler, from styling hair to drying socks",
+    "iPhone 18 Pro leaks roundup: New camera, design, processor, RAM upgrade and all we know so far",
     "Deals: the Google Pixel 11 series is now on pre-order with gift cards and trade-in bonuses - GSMArena.com news",
+    "GPU thieves replaced RTX 5080 with RTX 3060 at esports hotel, but power outage gave them away",
     "FDA notice to Shah Rukh, Ajay Devgn and Tiger Shroff over Vimal Elaichi ad",
     "Who is Shubhra Shetty? Emotional Anurag Kashyap reveals how 20 years age gap affected his relationship wit",
-    "To those who call me kafir...: Actor Faria Abdullah breaks down over Bonalu trolling"
+    "Govinda once called keeping marriage with Sunita Ahuja private a 'mistake'; said 'Isko lagta tha bura'"
   ],
   "quiz": [
     {
-      "blanked": "CJP's Saurav Das hits out at PM Modi over 'dimagi Naxal' remark: ______ are ringing. The awakening is her",
-      "answer": "Bells",
+      "blanked": "Harmanpreet Singh's brace powers India to 3-1 win over Wales in ______ World Cup opener",
+      "answer": "FIH",
       "options": [
-        "Independence",
-        "Modi",
-        "World",
-        "Bells"
+        "Curious",
+        "5080",
+        "Flyers",
+        "FIH"
       ]
     },
     {
-      "blanked": "Israeli Diplomat ______ Tricolours At A Railway Station In Mumbai, Wins Praise Online",
-      "answer": "Distributes",
+      "blanked": "What Happens ______ Millions Of Young Indians Can't Find Their First Job?",
+      "answer": "When",
       "options": [
-        "Dont",
-        "Shahs",
-        "Emotional",
-        "Distributes"
+        "Indian",
+        "Isko",
+        "Claude",
+        "When"
       ]
     },
     {
-      "blanked": "Black hole star: ______ discover a brand-new type of astrophysical object",
-      "answer": "Astronomers",
+      "blanked": "iPhone 18 ______ leaks roundup: New camera, design, processor, RAM upgrade and all we know so far",
+      "answer": "Pro",
       "options": [
-        "Sunny",
-        "Nears",
-        "Emotional",
-        "Astronomers"
+        "Ahuja",
+        "Legitimate",
+        "Family",
+        "Pro"
       ]
     },
     {
-      "blanked": "Harmanpreet Singh's brace powers India to 3-1 win over ______ in FIH World Cup opener",
-      "answer": "Wales",
+      "blanked": "Govinda once called keeping marriage with Sunita Ahuja private a 'mistake'; said ______ lagta tha bura'",
+      "answer": "Isko",
       "options": [
-        "Padikkal",
-        "Wales",
-        "Happens",
-        "Galles"
-      ]
-    },
-    {
-      "blanked": "Chandrasekaran’s exit puts Tata’s ______ India bet under fresh scrutiny",
-      "answer": "Air",
-      "options": [
-        "Indonesia",
-        "Air",
-        "Galles",
-        "Industrial"
+        "Isko",
+        "Commentary",
+        "Ukraines",
+        "Rahul"
       ]
     },
     {
       "blanked": "Why corona is too hot to handle: Indian researchers point to ______ magnetic dance",
       "answer": "Suns",
       "options": [
-        "AKKARE",
-        "Date",
-        "Hindustan",
-        "Suns"
+        "Suns",
+        "Russias",
+        "Staffers",
+        "CJP"
       ]
     },
     {
-      "blanked": "New record! ______ launches 2 Falcon 9 rockets just 38 minutes apart",
-      "answer": "SpaceX",
+      "blanked": "Father dies as ‘School Thik Karo’ audit ends in attack on ______ man, his family. CJP blames BJP",
+      "answer": "Bengal",
       "options": [
-        "2026",
-        "Commentary",
-        "SpaceX",
-        "Devgn"
+        "IPOs",
+        "Bengal",
+        "Shahs",
+        "What"
       ]
     },
     {
-      "blanked": "SL vs IND, 1st Test, India tour of ______ Lanka 2026 - Commentary",
-      "answer": "Sri",
+      "blanked": "Bangladesh make history with first-ever ______ cricket win in Australia",
+      "answer": "Test",
       "options": [
-        "Sri",
-        "Americans",
-        "Day",
-        "Jewellery"
-      ]
-    },
-    {
-      "blanked": "Cosmically Curious: ______ the Perseids? Don’t miss August’s near-total lunar eclipse",
-      "answer": "Missed",
-      "options": [
-        "Office",
-        "Pro",
-        "Missed",
-        "Lalithaa"
-      ]
-    },
-    {
-      "blanked": "Bengal ex-deputy speaker Ashis Banerjee found hanging at local TMC office in ______",
-      "answer": "Birbhum",
-      "options": [
-        "Vande",
-        "Likely",
-        "Birbhum",
-        "Home"
-      ]
-    },
-    {
-      "blanked": "Suspected ______ drone shot down in Romanian airspace",
-      "answer": "Russian",
-      "options": [
-        "Job",
-        "Russian",
-        "LPG",
-        "News"
-      ]
-    },
-    {
-      "blanked": "6 of 20 sudden cardiac arrest deaths in ______ district are cab or auto drivers; 5 key reasons...",
-      "answer": "Karnataka",
-      "options": [
-        "Karnataka",
-        "1947",
+        "Germany",
         "Indians",
-        "Missed"
+        "Test",
+        "Lanka"
+      ]
+    },
+    {
+      "blanked": "How does migration change the way we age? ______ looks for answers among Kerala Americans",
+      "answer": "AKKARE",
+      "options": [
+        "BJP",
+        "Bengal",
+        "Devgn",
+        "AKKARE"
+      ]
+    },
+    {
+      "blanked": "Belgium's biggest wildfire on record heads towards ______",
+      "answer": "Germany",
+      "options": [
+        "Submarine",
+        "CJP",
+        "Germany",
+        "Mataram"
+      ]
+    },
+    {
+      "blanked": "Bengal ex-deputy speaker ______ Banerjee found hanging at local TMC office in Birbhum",
+      "answer": "Ashis",
+      "options": [
+        "Ashis",
+        "ChatGPT",
+        "Suns",
+        "Perseids"
+      ]
+    },
+    {
+      "blanked": "India Nears Rs 70,000-Crore Submarine Deal With Germany, ______ Meet Likely Soon",
+      "answer": "Key",
+      "options": [
+        "Key",
+        "Job",
+        "3060",
+        "RTX"
+      ]
+    },
+    {
+      "blanked": "Chengalpattu: ______ rise in dengue cases among children leaves public concerned",
+      "answer": "Sharp",
+      "options": [
+        "Google",
+        "Wildberries",
+        "Jewellery",
+        "Sharp"
       ]
     }
   ]
