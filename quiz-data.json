@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-16T06:01:18.981Z",
+  "generatedAt": "2026-08-16T07:48:10.715Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
+    "Air India passenger's gun goes off at Varanasi airport, two injured | India News",
     "'Supreme Court & CJI Not Beyond Legitimate Scrutiny In A Democracy': NALSAR Student Councils Condemns BCI ...",
     "Asish Banerjee, Mamata Banerjee's Close Aide, Found Dead At Trinamool Office",
+    "E coli bacteria in drinking water, no toilets, no dustbins: CAG flags basics missing at major railway stations | India News",
     "Qatar denies Tehran’s claim it is detaining Iranian bomber pilots",
-    "Jharkhand protest: Students to burn Soren and Rahul effigies, gherao CM's residence August 20",
-    "Shah Rukh Khan, Ajay Devgn, Tiger Shroff Issued Notices By Tukaram Mundhe Over 'Vimal Elaichi' Ad",
-    "Leopard skins seized, top Delhi wildlife NGO accused of nexus with poachers",
+    "India Nears Rs 70,000-Crore Submarine Deal With Germany, Key Meet Likely Soon",
     "Modi threatens to target ‘intellectual Naxals’ in Independence Day speech",
-    "'Warmest congratulations': World leaders wish India 80th Independence Day, hail growing ties",
-    "Pilot or plane? 12 alerts, 3 hydraulic failures & 4 seconds of no control before AI flight’s 300-ft drop",
-    "Delivery agent thrashed by man for arriving 5 minutes late; assault caught on CCTV",
+    "'Fell from roof': BSF jawan tells family after wife's murder; arrested",
+    "Odisha weather alert: Heavy rain, thunderstorms to lash state till August 19",
+    "Independence Day 2026 Live Updates: Global leaders extend greetings on 80th Independence Day to India",
+    "Thousands evacuate after Indonesia quake kills 51, cuts roads",
     "West Asia war highlights: Iran fires back at Trump’s threat to declare Hormuz a U.S. territory",
-    "Iran President Pezeshkian greets PM Modi on Independence Day, calls historic ties with India ‘valuable as",
-    "Virginia State University shooting leaves 5 injured, 1 critical; campus lockdown lifted",
+    "USS George Washington, Last US Aircraft Carrier In Asia, Is Leaving Pacific",
     "Hamas leader heads to Cairo for Gaza talks ahead of Kushner visit",
-    "E20 mileage row: Govt says fuel alone cannot be blamed; cites driving, traffic, maintenance",
-    "These 2 stocks are riding the AI boom where few investors are looking",
+    "Government fixes LPG production targets for refiners, Reliance gets largest share",
     "Nvidia cuts planned OpenAI data center guarantee to below $120 billion - WSJ",
+    "E20 mileage row: Govt says fuel alone cannot be blamed; cites driving, traffic, maintenance",
     "Chandrasekaran’s exit puts Tata’s Air India bet under fresh scrutiny",
     "Apple iPhone 18 Pro Release Date: Discounted Day Re-Enters The September Schedule",
     "Lamborghini Revuelto SV unveiled at Monterey Car Week, limited to 1,963 units",
     "Deals: Pixel 11 series goes on pre-order, Galaxy Z8 foldables and S26 models drop prices - GSMArena.com news",
     "‘iPhone feels like a dad phone’: Galaxy Z Fold8’s ‘passport’ design wins over Apple loyalists",
     "Awarapan 2 Box Office Collections: Emraan Hashmi starrer has an outstanding Independence Day in India, Nets Rs. 56 Cr in 2 days",
-    "Yash clarifies the ₹4000 crore budget for Ramayana, says it runs on Hollywood math: 'Revenue is global too' | Bollywood",
-    "'Batwara 1947' box office collection Day 2: Sunny Deol and Preity Zinta starrer witnesses huge jump amid"
+    "'Batwara 1947' box office collection Day 2: Sunny Deol film soars 135% to mint Rs. 13.50 crore as domesti",
+    "Who is Shubhra Shetty? Emotional Anurag Kashyap reveals how 20 years age gap affected his relationship wit"
   ],
   "quiz": [
-    {
-      "blanked": "Chandrasekaran’s exit puts Tata’s ______ India bet under fresh scrutiny",
-      "answer": "Air",
-      "options": [
-        "Rahul",
-        "Hashmi",
-        "Week",
-        "Air"
-      ]
-    },
-    {
-      "blanked": "Beyond dialysis: ______ kidney care is giving patients a second chance",
-      "answer": "How",
-      "options": [
-        "How",
-        "Than",
-        "Notices",
-        "Tiger"
-      ]
-    },
-    {
-      "blanked": "Virginia State ______ shooting leaves 5 injured, 1 critical; campus lockdown lifted",
-      "answer": "University",
-      "options": [
-        "Tukaram",
-        "University",
-        "World",
-        "Khan"
-      ]
-    },
     {
       "blanked": "Nvidia cuts planned OpenAI data center guarantee to below $120 billion - ______",
       "answer": "WSJ",
       "options": [
-        "Stunned",
-        "Banerjee",
-        "CJI",
+        "September",
+        "Score",
+        "Hollywood",
         "WSJ"
+      ]
+    },
+    {
+      "blanked": "India vs Wales Highlights, Hockey World Cup 2026: IND 3-1 ______ Harmanpreet bags brace as Indian team starts campaign with win on Independence Day",
+      "answer": "WAL",
+      "options": [
+        "India",
+        "Live",
+        "Deal",
+        "WAL"
+      ]
+    },
+    {
+      "blanked": "Chengalpattu: ______ rise in dengue cases among children leaves public concerned",
+      "answer": "Sharp",
+      "options": [
+        "Sharp",
+        "Found",
+        "Meet",
+        "Understanding"
+      ]
+    },
+    {
+      "blanked": "Yash clarifies the ₹4000 crore budget for Ramayana, says it runs on Hollywood math: ______ is global too' | Bollywood",
+      "answer": "Revenue",
+      "options": [
+        "Revuelto",
+        "Revenue",
+        "1947",
+        "Shetty"
+      ]
+    },
+    {
+      "blanked": "E20 mileage row: ______ says fuel alone cannot be blamed; cites driving, traffic, maintenance",
+      "answer": "Govt",
+      "options": [
+        "Condemns",
+        "Deol",
+        "Wales",
+        "Govt"
+      ]
+    },
+    {
+      "blanked": "Apple iPhone 18 Pro Release Date: Discounted ______ Re-Enters The September Schedule",
+      "answer": "Day",
+      "options": [
+        "Apple",
+        "Indonesia",
+        "Day",
+        "Schedule"
       ]
     },
     {
       "blanked": "COVID-19 awakens dormant viruses — and one is linked to long ______",
       "answer": "COVID",
       "options": [
-        "Stunned",
         "COVID",
-        "Pezeshkian",
-        "Sri"
+        "Court",
+        "August",
+        "2026"
       ]
     },
     {
-      "blanked": "'Batwara 1947' box office collection Day 2: Sunny Deol and Preity ______ starrer witnesses huge jump amid",
-      "answer": "Zinta",
+      "blanked": "Mehidy five-fer seals Bangladesh's historic maiden ______ win in Australia",
+      "answer": "Test",
       "options": [
-        "Devgn",
-        "Hormuz",
-        "Zinta",
-        "Vimal"
+        "Stunned",
+        "Washington",
+        "Test",
+        "Indonesia"
       ]
     },
     {
-      "blanked": "West ______ war highlights: Iran fires back at Trump’s threat to declare Hormuz a U.S. territory",
-      "answer": "Asia",
+      "blanked": "'Supreme Court & ______ Not Beyond Legitimate Scrutiny In A Democracy': NALSAR Student Councils Condemns BCI ...",
+      "answer": "CJI",
       "options": [
-        "STROBEL",
-        "Outbreak",
-        "Deepika",
-        "Asia"
+        "Hashmi",
+        "Submarine",
+        "CJI",
+        "BCI"
       ]
     },
     {
-      "blanked": "Hamas leader heads to Cairo for Gaza talks ahead of ______ visit",
-      "answer": "Kushner",
+      "blanked": "Chandrasekaran’s exit puts Tata’s Air ______ bet under fresh scrutiny",
+      "answer": "India",
       "options": [
-        "Mundhe",
+        "India",
+        "Cup",
+        "Car",
+        "Sunny"
+      ]
+    },
+    {
+      "blanked": "Thousands evacuate after ______ quake kills 51, cuts roads",
+      "answer": "Indonesia",
+      "options": [
         "Kushner",
-        "Schedule",
-        "Suns"
+        "Indonesia",
+        "Week",
+        "Understanding"
       ]
     },
     {
-      "blanked": "Awarapan 2 ______ Office Collections: Emraan Hashmi starrer has an outstanding Independence Day in India, Nets Rs. 56 Cr in 2 days",
-      "answer": "Box",
+      "blanked": "India vs Sri Lanka LIVE Score, 1st Test Day 2: Early Lunch Taken, Start Time For 2nd ______ Announced",
+      "answer": "Session",
       "options": [
-        "Times",
-        "Student",
-        "Box",
-        "Action"
-      ]
-    },
-    {
-      "blanked": "NASA’s new AI model can predict ______ storm-causing regions up to 12 hours before they appear",
-      "answer": "Suns",
-      "options": [
-        "NGO",
-        "Deol",
-        "Lanka",
-        "Suns"
-      ]
-    },
-    {
-      "blanked": "Asish Banerjee, Mamata Banerjee's Close Aide, Found Dead At ______ Office",
-      "answer": "Trinamool",
-      "options": [
-        "Vimal",
-        "Tehrans",
-        "Naxals",
-        "Trinamool"
-      ]
-    },
-    {
-      "blanked": "Jharkhand protest: ______ to burn Soren and Rahul effigies, gherao CM's residence August 20",
-      "answer": "Students",
-      "options": [
-        "Harmanpreet",
-        "Students",
-        "Ajay",
-        "Start"
+        "CAG",
+        "Aircraft",
+        "Mamata",
+        "Session"
       ]
     }
   ]
