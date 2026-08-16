@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-16T14:52:50.083Z",
+  "generatedAt": "2026-08-16T15:44:35.275Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
     "Bankim Chandra's descendant seeks Sonia Gandhi's apology over 'Vande Mataram' row",
+    "Bengal ex-deputy speaker Ashis Banerjee found hanging at local TMC office in Birbhum",
     "Bangladesh Lists 2 Riders For PM Rahman's India Visit. One Is Hasina Return",
     "Air India Express passenger 'accidentally' fires during security check at Varanasi airport, 2 injured",
-    "India's Modi says armed Maoists are fading, but warns threat remains from ideological supporters",
-    "Bengal ex-deputy speaker Ashis Banerjee found hanging at local TMC office in Birbhum",
     "Large clouds of smoke engulf Russia's Wildberries warehouse after Ukraine's massive attack on Moscow | Visuals | World News",
-    "Bengal: CJP volunteer’s father dies after alleged ‘assault’ over ‘School Thik Karo’ campaign, Dipke seeks arrests",
+    "Jharkhand protest: Students to burn Soren and Rahul effigies, gherao CM's residence August 20",
+    "CJI Surya Kant Advises Against Prohibiting AI Tools In Law Schools; Says Students Must Be Taught To Use...",
+    "‘Raises several questions’: Adhir Ranjan Chowdhury condemns Congress leader, son’s murder in Bengal",
+    "‘Witch hunt’: NLSIU students object to Bar Council chief, CJI Surya Kant attending convocation amid NALSAR row | India News",
     "Navy sailor, three family members found dead in Mumbai’s Colaba quarters; probe on",
-    "E coli in water, no toilets, no dustbins: CAG flags basics missing at Delhi, Mumbai among major railway stations | India News",
-    "India Nears Rs 70,000-Crore Submarine Deal With Germany, Key Meet Likely Soon",
     "Thousands evacuate after Indonesia quake kills 53, aftershocks hamper rescue efforts",
+    "West Asia war LIVE: Pope calls for an end to West Bank violence against Palestinians",
+    "Iran offers $30,000 for killing or capturing US soldiers, double if done by women | World News",
     "Why has Israel escalated attacks in southern Lebanon despite ceasefire?",
-    "America’s civil war over USS Lincoln: 'Grow a pair' vs 'bring them home'",
-    "Trump wants more economic pressure on Iran. What are his options?",
     "6 IPOs to hit market this week to raise nearly ₹5,600 crore | 2026 IPO count expected to reach 54 companies | Inshorts",
-    "IRCTC's Numbers Show What \"Free\" UPI Actually Costs — A Breakdown",
+    "Oppo, OnePlus, Realme phones to be made by Amber Enterprises in India from FY28",
     "Can SpaceX Leap to the AI Frontier?",
-    "FPIs back in buying mode: Rs 16,621 crore flows into Indian stocks in August",
-    "Google now lets you remove the watermark from Gemini's creations",
-    "'It feels curious, bright, and a little mysterious': Why do so many AI chatbots call themselves Nova? I asked ChatGPT, Claude, Gemini and more to name themselves",
+    "ONGC gets U.S. licence to resume full Venezuela operations, eyes operatorship",
+    "Google now lets you remove Gemini's visible watermark - GSMArena.com news",
     "iPhone 18 Pro leaks roundup: New camera, design, processor, RAM upgrade and all we know so far",
     "Quordle Hints Today: Sunday, August 16 Clues And Answers",
+    "Samsung's Galaxy Z Fold 8 rocks for video — except for one problem you can't un-hear",
     "Actor Ananya Raj, known for 'Ghost' and 'Thaggede Le', passes away at 27",
-    "Govinda Fires Back At Sunita Ahuja After 'Sugar Daddy' Remark, Calls Out Her 'Abusive' Language",
-    "FDA notice to Shah Rukh, Ajay Devgn and Tiger Shroff over Vimal Elaichi ad"
+    "FDA notice to Shah Rukh, Ajay Devgn and Tiger Shroff over Vimal Elaichi ad",
+    "EXCLUSIVE: Salman Khan, Sunny Deol, Anil Kapoor and many other prominent celebs attend David Dhawans grand 75th birthday bash"
   ],
   "quiz": [
     {
-      "blanked": "E coli in water, no toilets, no dustbins: ______ flags basics missing at Delhi, Mumbai among major railway stations | India News",
-      "answer": "CAG",
+      "blanked": "Bankim ______ descendant seeks Sonia Gandhi's apology over 'Vande Mataram' row",
+      "answer": "Chandras",
       "options": [
-        "CAG",
-        "Pujara",
-        "Answers",
-        "Sunita"
-      ]
-    },
-    {
-      "blanked": "Devdutt Padikkal falls for ______ joins Rahul Dravid and Cheteshwar Pujara in Sri Lanka record list",
-      "answer": "167",
-      "options": [
-        "167",
-        "Key",
-        "Sunday",
-        "Maoists"
-      ]
-    },
-    {
-      "blanked": "Bengal ex-deputy speaker Ashis Banerjee found hanging at local ______ office in Birbhum",
-      "answer": "TMC",
-      "options": [
-        "Sonia",
-        "Devgn",
-        "USS",
-        "TMC"
-      ]
-    },
-    {
-      "blanked": "Actor Ananya Raj, known for ______ and 'Thaggede Le', passes away at 27",
-      "answer": "Ghost",
-      "options": [
-        "Back",
-        "Ghost",
-        "Answers",
-        "Chandras"
-      ]
-    },
-    {
-      "blanked": "‘I drink black coffee daily’: ______ shares 6 research-backed benefits, from brain health to longevity | Health",
-      "answer": "Oncologist",
-      "options": [
-        "Stumps",
-        "Oncologist",
-        "Allergy",
-        "Breakdown"
-      ]
-    },
-    {
-      "blanked": "SpaceX launches Globalstar, classified US Space ______ missions 38 minutes apart in record-breaking feat",
-      "answer": "Force",
-      "options": [
-        "Force",
-        "Office",
-        "Show",
-        "5600"
-      ]
-    },
-    {
-      "blanked": "Calcium and ______ D supplements may not help most older adults, study reveals",
-      "answer": "Vitamin",
-      "options": [
-        "Office",
-        "Meet",
-        "Vitamin",
-        "Rahul"
-      ]
-    },
-    {
-      "blanked": "Machine Learning COFFIES “Hears” Sunspots Before We Can See ______",
-      "answer": "Them",
-      "options": [
-        "Remark",
-        "August",
-        "Them",
-        "One"
-      ]
-    },
-    {
-      "blanked": "Google now lets you remove the watermark from ______ creations",
-      "answer": "Geminis",
-      "options": [
-        "Dipke",
-        "Geminis",
-        "TMC",
-        "Galle"
+        "Chandras",
+        "Visuals",
+        "Realme",
+        "Chowdhury"
       ]
     },
     {
       "blanked": "Black hole star: ______ discover a brand-new type of astrophysical object",
       "answer": "Astronomers",
       "options": [
-        "Cheteshwar",
-        "Gandhis",
-        "Free",
-        "Astronomers"
+        "Astronomers",
+        "Law",
+        "CMs",
+        "Express"
       ]
     },
     {
-      "blanked": "6 ______ to hit market this week to raise nearly ₹5,600 crore | 2026 IPO count expected to reach 54 companies | Inshorts",
-      "answer": "IPOs",
+      "blanked": "Raja Sen passes away at 71: Three-Time ______ Award-Winning Bengali filmmaker passes away after battlin",
+      "answer": "National",
       "options": [
-        "Sugar",
-        "Free",
-        "IPOs",
-        "August"
+        "Sunny",
+        "De-labels",
+        "Banerjee",
+        "National"
       ]
     },
     {
-      "blanked": "America’s civil war over ______ Lincoln: 'Grow a pair' vs 'bring them home'",
-      "answer": "USS",
+      "blanked": "Iran offers ______ for killing or capturing US soldiers, double if done by women | World News",
+      "answer": "30000",
       "options": [
-        "What",
-        "IND",
-        "USS",
-        "Galle"
+        "Sunday",
+        "Schools",
+        "30000",
+        "Curious"
+      ]
+    },
+    {
+      "blanked": "Can ______ Leap to the AI Frontier?",
+      "answer": "SpaceX",
+      "options": [
+        "Ranjan",
+        "Maps",
+        "SpaceX",
+        "Pro"
+      ]
+    },
+    {
+      "blanked": "SpaceX launches ______ classified US Space Force missions 38 minutes apart in record-breaking feat",
+      "answer": "Globalstar",
+      "options": [
+        "Globalstar",
+        "Jurel",
+        "China",
+        "IPOs"
+      ]
+    },
+    {
+      "blanked": "Quordle Hints Today: Sunday, ______ 16 Clues And Answers",
+      "answer": "August",
+      "options": [
+        "Cup",
+        "August",
+        "Khan",
+        "China"
+      ]
+    },
+    {
+      "blanked": "iPhone 18 Pro leaks roundup: New camera, design, processor, ______ upgrade and all we know so far",
+      "answer": "RAM",
+      "options": [
+        "RAM",
+        "Thaggede",
+        "Return",
+        "Bank"
+      ]
+    },
+    {
+      "blanked": "India vs China Highlights, Women's Hockey World ______ 2026: IND 2-2 CHN; Teams share spoils in opener",
+      "answer": "Cup",
+      "options": [
+        "Israel",
+        "Cup",
+        "Ghost",
+        "Dhawans"
+      ]
+    },
+    {
+      "blanked": "FDA notice to Shah Rukh, Ajay ______ and Tiger Shroff over Vimal Elaichi ad",
+      "answer": "Devgn",
+      "options": [
+        "Tiger",
+        "Bengali",
+        "Devgn",
+        "Sunday"
+      ]
+    },
+    {
+      "blanked": "Telangana Records ______ Dengue Cases In 4 Months",
+      "answer": "230",
+      "options": [
+        "30000",
+        "Asia",
+        "230",
+        "Ashis"
+      ]
+    },
+    {
+      "blanked": "Google now lets you remove ______ visible watermark - GSMArena.com news",
+      "answer": "Geminis",
+      "options": [
+        "Force",
+        "Geminis",
+        "August",
+        "Surya"
       ]
     }
   ]
