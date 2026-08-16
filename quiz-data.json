@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-16T17:59:55.611Z",
+  "generatedAt": "2026-08-16T19:00:42.403Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "UGC NET June 2026 Answer Key Released: Check Provisional Key, Challenge Window, Fee",
-    "‘They are like the dead’: Jharkhand students burn CM Hemant Soren, Rahul Gandhi's effigies amid exam protest | India News",
+    "\"Many Errors\": Re-Exam For 3 UGC-NET Papers. Dates Announced",
     "Bangladesh sets extradition of Hasina, Hadi’s killers as conditions for Tarique Rahman’s India visit",
-    "Bankim Chandra's descendant seeks Sonia Gandhi's apology over 'Vande Mataram' row",
     "Air India Express passenger 'accidentally' fires during security check at Varanasi airport, 2 injured",
-    "Bengal ex-deputy speaker Ashis Banerjee found hanging at local TMC office in Birbhum",
-    "‘Explanation unacceptable’: CM Vijay condemns killing of three Tamil men by Karnataka forest department | India News",
+    "Chaos In Delhi Metro After Paramilitary Official Allegedly Takes Woman's Pic",
     "CJP says three sets of questions on youth protests disallowed in Lok Sabha",
-    "Navy sailor, three family members found dead in Mumbai’s Colaba quarters; probe on",
+    "BCI Chairperson Manan Kumar Mishra Apologises To Law Students Amid NALSAR Row",
+    "Bankim Chandra's descendant seeks Sonia Gandhi's apology over 'Vande Mataram' row",
+    "‘Explanation unacceptable’: CM Vijay condemns killing of three Tamil men by Karnataka forest department | India News",
     "E. coli bacteria found in drinking water samples across railway stations: CAG report",
+    "CJI Surya Kant Advises Against Prohibiting AI Tools In Law Schools; Says Students Must Be Taught To Use...",
     "Kill A US Soldier, Get $30,000 - Iran Announces Bounty, Double Pay For Women",
+    "In Spain's Ceuta, hundreds of migrants stage protest and demand asylum",
     "Large clouds of smoke engulf Russia's Wildberries warehouse after Ukraine's massive attack on Moscow | Visuals | World News",
-    "Indonesia earthquake: Thousands evacuate after earthquake kills 51",
-    "West Asia war LIVE: Pope calls for an end to West Bank violence against Palestinians",
+    "Kushner meets Hamas chief in Egypt in push for Gaza disarmament; IDF continues strikes",
     "Oppo, OnePlus, Realme phones to be made by Amber Enterprises in India from FY28",
-    "Rs 6,400-crore IPO rush: 7 companies set to tap primary market next week",
-    "Can SpaceX Leap to the AI Frontier?",
     "Bullion watch: Where are gold and silver prices headed next week? Fed minutes, Middle East in focus",
+    "Can SpaceX Leap to the AI Frontier?",
+    "Chandrasekaran’s exit puts Tata’s Air India bet under fresh scrutiny",
     "Apple To Skip iPhone 18 Launch This Year, To Unveil iPhone 18 Pro, iPhone Ultra: Report",
     "Quordle Hints Today: Monday, August 17 Clues And Answers",
+    "Samsung's Galaxy Z Fold 8 rocks for video — except for one problem you can't un-hear",
     "Deals: the Google Pixel 11 series is now on pre-order with gift cards and trade-in bonuses - GSMArena.com news",
-    "BGMI Lite Finally Becomes Official, Bringing a Lighter Version of the Battle Royale to Budget Devices",
+    "Awarapan 2 Box Office: Emraan Hashmi Ends 10-Year Dry Spell; Bollywood Registers 8th Success Of 2026",
     "FDA notice to Shah Rukh, Ajay Devgn and Tiger Shroff over Vimal Elaichi ad",
-    "Actor Ananya Raj, known for 'Ghost' and 'Thaggede Le', passes away at 27",
-    "Anurag Kashyap opens up about marrying 20-year-younger girlfriend Shubhra Shetty: ‘I’m very happy to be with her, I don’t want to lose this’"
+    "Actor Ananya Raj, known for 'Ghost' and 'Thaggede Le', passes away at 27"
   ],
   "quiz": [
+    {
+      "blanked": "FDA notice to ______ Rukh, Ajay Devgn and Tiger Shroff over Vimal Elaichi ad",
+      "answer": "Shah",
+      "options": [
+        "Shah",
+        "Gabriel",
+        "Vimal",
+        "Express"
+      ]
+    },
+    {
+      "blanked": "BCI Chairperson Manan Kumar Mishra Apologises To Law Students Amid ______ Row",
+      "answer": "NALSAR",
+      "options": [
+        "Metabolic",
+        "Ukraines",
+        "NALSAR",
+        "China"
+      ]
+    },
+    {
+      "blanked": "Quordle ______ Today: Monday, August 17 Clues And Answers",
+      "answer": "Hints",
+      "options": [
+        "Hints",
+        "167",
+        "30000",
+        "Teams"
+      ]
+    },
+    {
+      "blanked": "Bankim Chandra's descendant seeks Sonia ______ apology over 'Vande Mataram' row",
+      "answer": "Gandhis",
+      "options": [
+        "230",
+        "Padikkals",
+        "Coronal",
+        "Gandhis"
+      ]
+    },
+    {
+      "blanked": "Kill A US Soldier, Get $30,000 - ______ Announces Bounty, Double Pay For Women",
+      "answer": "Iran",
+      "options": [
+        "Ananya",
+        "Iran",
+        "Bad",
+        "Tarique"
+      ]
+    },
+    {
+      "blanked": "New Study Reveals Anthocyanin-Rich Foods Support Heart and Metabolic ______ in Healthy Adults",
+      "answer": "Health",
+      "options": [
+        "Health",
+        "Coronal",
+        "CHN",
+        "Kumar"
+      ]
+    },
     {
       "blanked": "Telangana Records 230 Dengue ______ In 4 Months",
       "answer": "Cases",
       "options": [
-        "Cases",
-        "Monday",
-        "Day",
-        "Clues"
-      ]
-    },
-    {
-      "blanked": "Awarapan 2 Box ______ Collections: Emraan Hashmi starrer has an outstanding Independence Day in India, Nets Rs. 56 Cr in 2 days",
-      "answer": "Office",
-      "options": [
-        "Today",
-        "Check",
-        "Office",
-        "CAG"
-      ]
-    },
-    {
-      "blanked": "Bullion watch: Where are gold and silver prices headed next week? Fed minutes, ______ East in focus",
-      "answer": "Middle",
-      "options": [
-        "Middle",
-        "Force",
-        "User",
-        "Mumbais"
-      ]
-    },
-    {
-      "blanked": "‘They are like the dead’: Jharkhand students burn CM Hemant ______ Rahul Gandhi's effigies amid exam protest | India News",
-      "answer": "Soren",
-      "options": [
-        "Answer",
-        "Soren",
-        "Rahmans",
-        "Check"
-      ]
-    },
-    {
-      "blanked": "Navy sailor, three family members found dead in ______ Colaba quarters; probe on",
-      "answer": "Mumbais",
-      "options": [
-        "Mumbais",
-        "Arsenal",
         "Hints",
-        "Mass"
+        "Test",
+        "Stars",
+        "Cases"
       ]
     },
     {
-      "blanked": "‘Explanation unacceptable’: CM Vijay condemns killing of three Tamil men by Karnataka forest department | ______ News",
+      "blanked": "Bullion watch: Where are gold and silver prices headed next week? Fed minutes, Middle ______ in focus",
+      "answer": "East",
+      "options": [
+        "Karnataka",
+        "Heart",
+        "News",
+        "East"
+      ]
+    },
+    {
+      "blanked": "Kushner meets ______ chief in Egypt in push for Gaza disarmament; IDF continues strikes",
+      "answer": "Hamas",
+      "options": [
+        "Wildberries",
+        "Google",
+        "Vande",
+        "Hamas"
+      ]
+    },
+    {
+      "blanked": "Bangladesh sets extradition of Hasina, Hadi’s killers as conditions for Tarique Rahman’s ______ visit",
       "answer": "India",
       "options": [
-        "Enterprises",
-        "Soren",
         "India",
-        "Key"
+        "Fold",
+        "Russias",
+        "Express"
       ]
     },
     {
-      "blanked": "Bengal ex-deputy speaker Ashis ______ found hanging at local TMC office in Birbhum",
-      "answer": "Banerjee",
+      "blanked": "Chandrasekaran’s exit puts Tata’s ______ India bet under fresh scrutiny",
+      "answer": "Air",
       "options": [
-        "230",
-        "Jharkhand",
-        "Banerjee",
-        "Report"
+        "UGC-NET",
+        "Air",
+        "Ananya",
+        "Metabolic"
       ]
     },
     {
-      "blanked": "A defeat like no other for ______ sets alarm bells ringing",
-      "answer": "Australia",
+      "blanked": "Awarapan 2 Box ______ Emraan Hashmi Ends 10-Year Dry Spell; Bollywood Registers 8th Success Of 2026",
+      "answer": "Office",
       "options": [
-        "Ejections",
-        "Australia",
-        "Varanasi",
-        "Devgn"
-      ]
-    },
-    {
-      "blanked": "India vs China Highlights, ______ Hockey World Cup 2026: IND 2-2 CHN; Teams share spoils in opener",
-      "answer": "Womens",
-      "options": [
-        "Elaichi",
-        "Womens",
-        "Key",
-        "Fed"
-      ]
-    },
-    {
-      "blanked": "Can SpaceX Leap to the AI ______",
-      "answer": "Frontier",
-      "options": [
-        "Allergy",
-        "Frontier",
-        "Tarique",
-        "Collections"
-      ]
-    },
-    {
-      "blanked": "Rs 6,400-crore ______ rush: 7 companies set to tap primary market next week",
-      "answer": "IPO",
-      "options": [
-        "IPO",
-        "Google",
-        "Chandras",
-        "Where"
-      ]
-    },
-    {
-      "blanked": "Apple To Skip iPhone 18 Launch This Year, To Unveil iPhone 18 Pro, iPhone ______ Report",
-      "answer": "Ultra",
-      "options": [
-        "Ashis",
-        "China",
-        "Tarique",
-        "Ultra"
+        "Re-Exam",
+        "Hashmi",
+        "Office",
+        "Realme"
       ]
     }
   ]
