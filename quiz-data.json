@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-16T21:59:48.450Z",
+  "generatedAt": "2026-08-16T22:49:58.455Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
     "'Putzer for Ritzer, Parsow for Parsons': What are the typos, errors that forced NTA to cancel 3 UGC-NET papers? | India News",
     "Bangladesh sets extradition of Hasina, Hadi’s killers as conditions for Tarique Rahman’s India visit",
-    "After Hyderabad, Top Bengaluru Law College Opposes Invitation To Chief Justice",
+    "After NALSAR, Another Top Law College Opposes Invite To Chief Justice",
     "Chaos In Delhi Metro After Paramilitary Official Allegedly Takes Woman's Pic",
-    "Day after PM Modi warns of ‘new enemy’, Rijiju offers 4-point definition of ‘dimagi naxal’",
     "Photos: Patriotic music and flags mark Taliban rule anniversary in Kabul",
+    "‘Explanation unacceptable’: CM Vijay condemns killing of three Tamil men by Karnataka forest department | India News",
     "'They are as good as dead': Jharkhand protester shaves head for CM Soren, Rahul Gandhi's 'last rites'",
     "Bankim Chandra's descendant seeks Sonia Gandhi's apology over 'Vande Mataram' row",
-    "Punjab Congress faces fresh rift as Randhawa challenges Warring's 'one family, one ticket' rule",
+    "\"One Family One Ticket\" Row Grows As BJP's Ravneet Bittu Targets Congress",
     "'Delhi cops told us we are traitors': Jantar Mantar protesters meet Rahul Gandhi | India News",
     "In Spain's Ceuta, hundreds of migrants stage protest and demand asylum",
     "Video: Apocalyptic Blaze After Massive Drone Attack Hits Moscow Region",
     "Trump's envoys meet mediators, Israel strikes Gaza",
     "West Asia war LIVE: Pope calls for an end to West Bank violence against Palestinians",
     "Chandrasekaran’s exit puts Tata’s Air India bet under fresh scrutiny",
-    "Can SpaceX Leap to the AI Frontier?",
-    "Oppo, OnePlus, Realme phones to be made by Amber Enterprises in India from FY28",
     "19 months of foreign investor selling Indian equities wipes out 100 months of inflows | FIIs invested around $1.71 bn in Aug so far | Inshorts",
-    "Quordle Hints Today: Monday, August 17 Clues And Answers",
-    "Apple To Skip iPhone 18 Launch This Year, To Unveil iPhone 18 Pro, iPhone Ultra: Report",
+    "Can SpaceX Leap to the AI Frontier?",
+    "Rs 6,400-crore IPO rush: 7 companies set to tap primary market next week",
+    "Apple iPhone 18 Pro Release Date: Discounted Day Re-Enters The September Schedule",
     "Pixel 11 series, Honor Robot Phone, Redmi 17 official, Week 33 in review - GSMArena.com news",
     "Samsung's Galaxy Z Fold 8 rocks for video — except for one problem you can't un-hear",
-    "Awarapan 2 Hits Rs 50 Crore In 2 Days, Producer Says 'Nobody Came To Buy The Film'",
+    "Xiaomi releases new HyperOS launcher update 8.01.02",
     "FDA notice to Shah Rukh, Ajay Devgn and Tiger Shroff over Vimal Elaichi ad",
-    "Yash REACTS to Allu Aravind’s ‘Who was Yash before ‘KGF’?’ comment: ‘Cinema doesn’t just belong to a prod"
+    "Awarapan 2 Hits Rs 50 Crore In 2 Days, Producer Says 'Nobody Came To Buy The Film'",
+    "Spider-Man: Brand New Day Box Office Collections: Tom Holland starrer witnesses big spike on Independence Day, grosses Rs 534 crore"
   ],
   "quiz": [
     {
-      "blanked": "Can SpaceX Leap to the AI ______",
-      "answer": "Frontier",
+      "blanked": "Chaos In Delhi Metro After Paramilitary Official Allegedly Takes Woman's ______",
+      "answer": "Pic",
       "options": [
-        "Parsow",
-        "Antibiotic",
+        "Test",
+        "Pic",
+        "Palestinians",
+        "Kwath"
+      ]
+    },
+    {
+      "blanked": "Pushkarmooladi Kwath and Modern Treatment Together Outperform Standard Care ______ in BHU Stable Angina Study",
+      "answer": "Alone",
+      "options": [
+        "Ticket",
+        "Re-Enters",
+        "Alone",
+        "Kwath"
+      ]
+    },
+    {
+      "blanked": "Black hole star: ______ discover a brand-new type of astrophysical object",
+      "answer": "Astronomers",
+      "options": [
+        "Taliban",
+        "Astronomers",
         "Frontier",
-        "Who"
+        "Inshorts"
       ]
     },
     {
-      "blanked": "Actor Ananya ______ dies at 35 after battling health issues for over a year, family confirms: ‘Fought like a warrior’ | Bollywood",
-      "answer": "Raj",
+      "blanked": "\"One Family One Ticket\" Row Grows As BJP's Ravneet ______ Targets Congress",
+      "answer": "Bittu",
       "options": [
-        "Raj",
-        "Robot",
-        "Hyderabad",
-        "Sonia"
+        "Justice",
+        "Long",
+        "Schedule",
+        "Bittu"
       ]
     },
     {
-      "blanked": "Video: Apocalyptic Blaze After Massive Drone Attack Hits Moscow ______",
-      "answer": "Region",
+      "blanked": "IIA researchers develop 3D model to forecast arrival of ______ Mass Ejections",
+      "answer": "Coronal",
       "options": [
-        "Sonia",
-        "Official",
-        "Unveil",
-        "Region"
-      ]
-    },
-    {
-      "blanked": "19 months of foreign investor selling Indian equities wipes out ______ months of inflows | FIIs invested around $1.71 bn in Aug so far | Inshorts",
-      "answer": "100",
-      "options": [
-        "Aravinds",
-        "100",
-        "Amber",
-        "Arsenal"
+        "Ananya",
+        "Chandras",
+        "534",
+        "Coronal"
       ]
     },
     {
       "blanked": "'They are as good as dead': ______ protester shaves head for CM Soren, Rahul Gandhi's 'last rites'",
       "answer": "Jharkhand",
       "options": [
+        "Bengal",
+        "Warning",
         "Jharkhand",
-        "Testing",
-        "Yash",
-        "Allegedly"
+        "Outperform"
       ]
     },
     {
-      "blanked": "Punjab Congress faces fresh rift as ______ challenges Warring's 'one family, one ticket' rule",
-      "answer": "Randhawa",
+      "blanked": "Indian Army FT vs East Bengal Highlights: ______ strike helps Red and Gold Brigade secure Durand Cup 2026 semifinal berth",
+      "answer": "Vishnus",
       "options": [
-        "Randhawa",
-        "Amber",
-        "Ajay",
-        "Hits"
+        "Globalstar",
+        "Leap",
+        "Vishnus",
+        "Rukh"
       ]
     },
     {
-      "blanked": "Bankim Chandra's descendant seeks Sonia Gandhi's apology over ______ Mataram' row",
-      "answer": "Vande",
+      "blanked": "Trump's envoys meet mediators, ______ strikes Gaza",
+      "answer": "Israel",
       "options": [
-        "What",
-        "Women",
-        "Vande",
-        "Intermittent"
-      ]
-    },
-    {
-      "blanked": "West ______ war LIVE: Pope calls for an end to West Bank violence against Palestinians",
-      "answer": "Asia",
-      "options": [
-        "Asia",
-        "Maresca",
-        "Region",
-        "100"
-      ]
-    },
-    {
-      "blanked": "Yash REACTS to Allu Aravind’s ______ was Yash before ‘KGF’?’ comment: ‘Cinema doesn’t just belong to a prod",
-      "answer": "Who",
-      "options": [
+        "Israel",
         "NTA",
-        "Who",
+        "Rahmans",
+        "Family"
+      ]
+    },
+    {
+      "blanked": "Direct Antibiotic Allergy ______ De-labels Most Children",
+      "answer": "Testing",
+      "options": [
+        "Globalstar",
+        "NALSAR",
+        "Mataram",
+        "Testing"
+      ]
+    },
+    {
+      "blanked": "After NALSAR, Another Top Law ______ Opposes Invite To Chief Justice",
+      "answer": "College",
+      "options": [
+        "Bank",
+        "How",
+        "Allegedly",
+        "College"
+      ]
+    },
+    {
+      "blanked": "‘Explanation unacceptable’: CM Vijay condemns killing of three Tamil men by Karnataka forest department | India ______",
+      "answer": "News",
+      "options": [
+        "News",
+        "Came",
+        "FIIs",
+        "Massive"
+      ]
+    },
+    {
+      "blanked": "Bangladesh sets extradition of Hasina, ______ killers as conditions for Tarique Rahman’s India visit",
+      "answer": "Hadis",
+      "options": [
+        "Hadis",
         "Durand",
-        "167"
-      ]
-    },
-    {
-      "blanked": "Quordle Hints Today: Monday, August 17 ______ And Answers",
-      "answer": "Clues",
-      "options": [
-        "Treatment",
-        "NTA",
-        "Fought",
-        "Clues"
-      ]
-    },
-    {
-      "blanked": "Photos: Patriotic music and flags mark Taliban rule anniversary in ______",
-      "answer": "Kabul",
-      "options": [
-        "Padikkal",
-        "Man",
-        "Rodri",
-        "Kabul"
-      ]
-    },
-    {
-      "blanked": "Pixel 11 series, ______ Robot Phone, Redmi 17 official, Week 33 in review - GSMArena.com news",
-      "answer": "Honor",
-      "options": [
-        "Today",
-        "Monday",
-        "Shroff",
-        "Honor"
+        "Date",
+        "SpaceX"
       ]
     }
   ]
