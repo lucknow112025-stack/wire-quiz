@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-16T22:49:58.455Z",
+  "generatedAt": "2026-08-16T23:39:07.676Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
     "'Putzer for Ritzer, Parsow for Parsons': What are the typos, errors that forced NTA to cancel 3 UGC-NET papers? | India News",
-    "Bangladesh sets extradition of Hasina, Hadi’s killers as conditions for Tarique Rahman’s India visit",
     "After NALSAR, Another Top Law College Opposes Invite To Chief Justice",
+    "Bangladesh sets extradition of Hasina, Hadi’s killers as conditions for Tarique Rahman’s India visit",
     "Chaos In Delhi Metro After Paramilitary Official Allegedly Takes Woman's Pic",
-    "Photos: Patriotic music and flags mark Taliban rule anniversary in Kabul",
     "‘Explanation unacceptable’: CM Vijay condemns killing of three Tamil men by Karnataka forest department | India News",
-    "'They are as good as dead': Jharkhand protester shaves head for CM Soren, Rahul Gandhi's 'last rites'",
+    "Jharkhand protest: Students to burn Soren and Rahul effigies, gherao CM's residence August 20",
     "Bankim Chandra's descendant seeks Sonia Gandhi's apology over 'Vande Mataram' row",
-    "\"One Family One Ticket\" Row Grows As BJP's Ravneet Bittu Targets Congress",
+    "Day after PM Modi warns of ‘new enemy’, Rijiju offers 4-point definition of ‘dimagi naxal’",
     "'Delhi cops told us we are traitors': Jantar Mantar protesters meet Rahul Gandhi | India News",
+    "IPS Officer's Mother Found Murdered In UP Home, Jewellery Looted",
     "In Spain's Ceuta, hundreds of migrants stage protest and demand asylum",
-    "Video: Apocalyptic Blaze After Massive Drone Attack Hits Moscow Region",
     "Trump's envoys meet mediators, Israel strikes Gaza",
     "West Asia war LIVE: Pope calls for an end to West Bank violence against Palestinians",
+    "Russia Claims 600 Ukrainian Drones Targeted Moscow Overnight, 3 Hurt",
     "Chandrasekaran’s exit puts Tata’s Air India bet under fresh scrutiny",
-    "19 months of foreign investor selling Indian equities wipes out 100 months of inflows | FIIs invested around $1.71 bn in Aug so far | Inshorts",
     "Can SpaceX Leap to the AI Frontier?",
+    "19 months of foreign investor selling Indian equities wipes out 100 months of inflows | FIIs invested around $1.71 bn in Aug so far | Inshorts",
     "Rs 6,400-crore IPO rush: 7 companies set to tap primary market next week",
-    "Apple iPhone 18 Pro Release Date: Discounted Day Re-Enters The September Schedule",
+    "Quordle Hints Today: Monday, August 17 Clues And Answers",
+    "Apple To Skip iPhone 18 Launch This Year, To Unveil iPhone 18 Pro, iPhone Ultra: Report",
     "Pixel 11 series, Honor Robot Phone, Redmi 17 official, Week 33 in review - GSMArena.com news",
     "Samsung's Galaxy Z Fold 8 rocks for video — except for one problem you can't un-hear",
-    "Xiaomi releases new HyperOS launcher update 8.01.02",
-    "FDA notice to Shah Rukh, Ajay Devgn and Tiger Shroff over Vimal Elaichi ad",
     "Awarapan 2 Hits Rs 50 Crore In 2 Days, Producer Says 'Nobody Came To Buy The Film'",
+    "FDA notice to Shah Rukh, Ajay Devgn and Tiger Shroff over Vimal Elaichi ad",
     "Spider-Man: Brand New Day Box Office Collections: Tom Holland starrer witnesses big spike on Independence Day, grosses Rs 534 crore"
   ],
   "quiz": [
     {
+      "blanked": "Russia Claims 600 Ukrainian Drones ______ Moscow Overnight, 3 Hurt",
+      "answer": "Targeted",
+      "options": [
+        "Frontier",
+        "India",
+        "Targeted",
+        "Pope"
+      ]
+    },
+    {
+      "blanked": "Indian Army FT vs East Bengal Highlights: Vishnu's strike helps Red and Gold ______ secure Durand Cup 2026 semifinal berth",
+      "answer": "Brigade",
+      "options": [
+        "Tarique",
+        "Hasina",
+        "IPO",
+        "Brigade"
+      ]
+    },
+    {
+      "blanked": "In ______ Ceuta, hundreds of migrants stage protest and demand asylum",
+      "answer": "Spains",
+      "options": [
+        "Ceuta",
+        "Spains",
+        "Bengal",
+        "Angina"
+      ]
+    },
+    {
+      "blanked": "Samsung's ______ Z Fold 8 rocks for video — except for one problem you can't un-hear",
+      "answer": "Galaxy",
+      "options": [
+        "Shah",
+        "Opposes",
+        "Officers",
+        "Galaxy"
+      ]
+    },
+    {
+      "blanked": "'Putzer for Ritzer, Parsow for Parsons': What are the typos, errors that forced ______ to cancel 3 UGC-NET papers? | India News",
+      "answer": "NTA",
+      "options": [
+        "NTA",
+        "Tom",
+        "Kwath",
+        "Ronaldo"
+      ]
+    },
+    {
+      "blanked": "After NALSAR, Another Top ______ College Opposes Invite To Chief Justice",
+      "answer": "Law",
+      "options": [
+        "Law",
+        "Durand",
+        "100",
+        "Jantar"
+      ]
+    },
+    {
+      "blanked": "Devdutt Padikkal falls for 167, joins ______ Dravid and Cheteshwar Pujara in Sri Lanka record list",
+      "answer": "Rahul",
+      "options": [
+        "167",
+        "Rahul",
+        "Gaza",
+        "Stable"
+      ]
+    },
+    {
+      "blanked": "Cristiano Ronaldo Drops Retirement ______ With Massive 'Last Year' Admission",
+      "answer": "Bombshell",
+      "options": [
+        "Mantar",
+        "Bombshell",
+        "Palestinians",
+        "Cup"
+      ]
+    },
+    {
+      "blanked": "Apple To ______ iPhone 18 Launch This Year, To Unveil iPhone 18 Pro, iPhone Ultra: Report",
+      "answer": "Skip",
+      "options": [
+        "Delhi",
+        "Indian",
+        "Buy",
+        "Skip"
+      ]
+    },
+    {
+      "blanked": "Direct Antibiotic ______ Testing De-labels Most Children",
+      "answer": "Allergy",
+      "options": [
+        "Allergy",
+        "Pro",
+        "2026",
+        "Karnataka"
+      ]
+    },
+    {
       "blanked": "Chaos In Delhi Metro After Paramilitary Official Allegedly Takes Woman's ______",
       "answer": "Pic",
       "options": [
-        "Test",
-        "Pic",
-        "Palestinians",
-        "Kwath"
-      ]
-    },
-    {
-      "blanked": "Pushkarmooladi Kwath and Modern Treatment Together Outperform Standard Care ______ in BHU Stable Angina Study",
-      "answer": "Alone",
-      "options": [
-        "Ticket",
-        "Re-Enters",
-        "Alone",
-        "Kwath"
-      ]
-    },
-    {
-      "blanked": "Black hole star: ______ discover a brand-new type of astrophysical object",
-      "answer": "Astronomers",
-      "options": [
-        "Taliban",
-        "Astronomers",
-        "Frontier",
-        "Inshorts"
-      ]
-    },
-    {
-      "blanked": "\"One Family One Ticket\" Row Grows As BJP's Ravneet ______ Targets Congress",
-      "answer": "Bittu",
-      "options": [
-        "Justice",
-        "Long",
-        "Schedule",
-        "Bittu"
+        "NTA",
+        "Looted",
+        "Nutritionist",
+        "Pic"
       ]
     },
     {
       "blanked": "IIA researchers develop 3D model to forecast arrival of ______ Mass Ejections",
       "answer": "Coronal",
       "options": [
-        "Ananya",
-        "Chandras",
-        "534",
-        "Coronal"
-      ]
-    },
-    {
-      "blanked": "'They are as good as dead': ______ protester shaves head for CM Soren, Rahul Gandhi's 'last rites'",
-      "answer": "Jharkhand",
-      "options": [
-        "Bengal",
-        "Warning",
-        "Jharkhand",
-        "Outperform"
-      ]
-    },
-    {
-      "blanked": "Indian Army FT vs East Bengal Highlights: ______ strike helps Red and Gold Brigade secure Durand Cup 2026 semifinal berth",
-      "answer": "Vishnus",
-      "options": [
+        "Coronal",
         "Globalstar",
-        "Leap",
-        "Vishnus",
-        "Rukh"
-      ]
-    },
-    {
-      "blanked": "Trump's envoys meet mediators, ______ strikes Gaza",
-      "answer": "Israel",
-      "options": [
-        "Israel",
-        "NTA",
-        "Rahmans",
-        "Family"
-      ]
-    },
-    {
-      "blanked": "Direct Antibiotic Allergy ______ De-labels Most Children",
-      "answer": "Testing",
-      "options": [
-        "Globalstar",
-        "NALSAR",
-        "Mataram",
-        "Testing"
-      ]
-    },
-    {
-      "blanked": "After NALSAR, Another Top Law ______ Opposes Invite To Chief Justice",
-      "answer": "College",
-      "options": [
-        "Bank",
-        "How",
-        "Allegedly",
-        "College"
-      ]
-    },
-    {
-      "blanked": "‘Explanation unacceptable’: CM Vijay condemns killing of three Tamil men by Karnataka forest department | India ______",
-      "answer": "News",
-      "options": [
-        "News",
-        "Came",
-        "FIIs",
-        "Massive"
-      ]
-    },
-    {
-      "blanked": "Bangladesh sets extradition of Hasina, ______ killers as conditions for Tarique Rahman’s India visit",
-      "answer": "Hadis",
-      "options": [
-        "Hadis",
-        "Durand",
-        "Date",
-        "SpaceX"
+        "Crore",
+        "Tiger"
       ]
     }
   ]
