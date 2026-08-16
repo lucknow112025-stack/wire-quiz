@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-16T12:01:00.540Z",
+  "generatedAt": "2026-08-16T13:46:33.928Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "Congress should apologise for insulting Vande Mataram on Independence Day: Amit Shah",
-    "Air India Express Flyer's Gun Goes Off At Varanasi Airport, 2 Security Staffers Injured",
-    "Navy Sailor, Family Found Dead At Mumbai Home, Cops Suspect Murder-Suicide",
+    "‘Propitious environment needs to be created’: Bangladesh says PM Tarique Rahman will not visit India until Hasina’s extradition",
+    "Amit Shah's \"Sin You Committed\" Swipe At Sonia Gandhi Over Vande Mataram Row",
     "Bengal ex-deputy speaker Ashis Banerjee found hanging at local TMC office in Birbhum",
+    "Navy sailor, three family members found dead in Mumbai’s Colaba quarters; probe on",
+    "Air India Express passenger 'accidentally' fires during security check at Varanasi airport, 2 injured",
     "Jharkhand protest: Students to burn Soren and Rahul effigies, gherao CM's residence August 20",
-    "Students detained ahead of Amit Shah's Alwar visit as they planned protest to demand his resignation over CJP crackdown | India News",
-    "Father dies as ‘School Thik Karo’ audit ends in attack on Bengal man, his family. CJP blames BJP",
-    "What Happens When Millions Of Young Indians Can't Find Their First Job?",
-    "'Supreme Court & CJI Not Beyond Legitimate Scrutiny In A Democracy': NALSAR Student Councils Condemns BCI ...",
+    "Bengal: CJP volunteer’s father dies after alleged ‘assault’ over ‘School Thik Karo’ campaign, Dipke seeks arrests",
     "India Nears Rs 70,000-Crore Submarine Deal With Germany, Key Meet Likely Soon",
-    "Thousands evacuate after Indonesia quake kills 51, cuts roads",
-    "Belgium's biggest wildfire on record heads towards Germany",
+    "E coli in water, no toilets, no dustbins: CAG flags basics missing at Delhi, Mumbai among major railway stations | India News",
+    "Air India is the Word of the Week: How a ‘high’ pilot is yet another low for the airline",
+    "Thousands evacuate after Indonesia quake kills 53, aftershocks hamper rescue efforts",
     "Trump wants more economic pressure on Iran. What are his options?",
-    "Large clouds of smoke engulf Russia's Wildberries warehouse after Ukraine's massive attack on Moscow | Visuals | World News",
-    "7 new IPOs next week: Horizon Industrial Parks, Lalithaa Jewellery lead Rs 6,400-crore rush",
-    "ONGC gets US licence to resume full Venezuela operations, eyes operatorship",
-    "Government sets LPG production targets for refiners; Reliance gets largest quota",
-    "Chandrasekaran’s exit puts Tata’s Air India bet under fresh scrutiny",
-    "Why do so many AI chatbots call themselves Nova? I asked ChatGPT, Claude, Gemini and more to name themselves",
+    "Why has Israel escalated attacks in southern Lebanon despite ceasefire?",
+    "Russia Claims 600 Ukrainian Drones Targeted Moscow Overnight, 3 Hurt",
+    "IPO rush continues: Six companies to raise nearly Rs 5,600 crore next week",
+    "ONGC gets U.S. licence to resume full Venezuela operations, eyes operatorship",
+    "IRCTC's Numbers Show What \"Free\" UPI Actually Costs — A Breakdown",
+    "Can SpaceX Leap to the AI Frontier?",
+    "Google makes visible AI watermarks optional for creators",
+    "'It feels curious, bright, and a little mysterious': Why do so many AI chatbots call themselves Nova? I asked ChatGPT, Claude, Gemini and more to name themselves",
     "iPhone 18 Pro leaks roundup: New camera, design, processor, RAM upgrade and all we know so far",
     "Deals: the Google Pixel 11 series is now on pre-order with gift cards and trade-in bonuses - GSMArena.com news",
-    "GPU thieves replaced RTX 5080 with RTX 3060 at esports hotel, but power outage gave them away",
     "FDA notice to Shah Rukh, Ajay Devgn and Tiger Shroff over Vimal Elaichi ad",
-    "Who is Shubhra Shetty? Emotional Anurag Kashyap reveals how 20 years age gap affected his relationship wit",
-    "Govinda once called keeping marriage with Sunita Ahuja private a 'mistake'; said 'Isko lagta tha bura'"
+    "Ranveer Singh, Kalyani Priyadarshan's 'Pralay' Starts Filming",
+    "Raja Sen passes away at 71: Three-Time National Award-Winning Bengali filmmaker passes away after battlin"
   ],
   "quiz": [
     {
-      "blanked": "Harmanpreet Singh's brace powers India to 3-1 win over Wales in ______ World Cup opener",
-      "answer": "FIH",
+      "blanked": "Air India is the ______ of the Week: How a ‘high’ pilot is yet another low for the airline",
+      "answer": "Word",
       "options": [
-        "Curious",
-        "5080",
-        "Flyers",
-        "FIH"
-      ]
-    },
-    {
-      "blanked": "What Happens ______ Millions Of Young Indians Can't Find Their First Job?",
-      "answer": "When",
-      "options": [
-        "Indian",
-        "Isko",
-        "Claude",
-        "When"
-      ]
-    },
-    {
-      "blanked": "iPhone 18 ______ leaks roundup: New camera, design, processor, RAM upgrade and all we know so far",
-      "answer": "Pro",
-      "options": [
-        "Ahuja",
-        "Legitimate",
-        "Family",
-        "Pro"
-      ]
-    },
-    {
-      "blanked": "Govinda once called keeping marriage with Sunita Ahuja private a 'mistake'; said ______ lagta tha bura'",
-      "answer": "Isko",
-      "options": [
-        "Isko",
-        "Commentary",
-        "Ukraines",
-        "Rahul"
-      ]
-    },
-    {
-      "blanked": "Why corona is too hot to handle: Indian researchers point to ______ magnetic dance",
-      "answer": "Suns",
-      "options": [
-        "Suns",
-        "Russias",
-        "Staffers",
-        "CJP"
-      ]
-    },
-    {
-      "blanked": "Father dies as ‘School Thik Karo’ audit ends in attack on ______ man, his family. CJP blames BJP",
-      "answer": "Bengal",
-      "options": [
-        "IPOs",
-        "Bengal",
+        "Word",
+        "Sharp",
         "Shahs",
-        "What"
-      ]
-    },
-    {
-      "blanked": "Bangladesh make history with first-ever ______ cricket win in Australia",
-      "answer": "Test",
-      "options": [
-        "Germany",
-        "Indians",
-        "Test",
-        "Lanka"
-      ]
-    },
-    {
-      "blanked": "How does migration change the way we age? ______ looks for answers among Kerala Americans",
-      "answer": "AKKARE",
-      "options": [
-        "BJP",
-        "Bengal",
-        "Devgn",
-        "AKKARE"
-      ]
-    },
-    {
-      "blanked": "Belgium's biggest wildfire on record heads towards ______",
-      "answer": "Germany",
-      "options": [
-        "Submarine",
-        "CJP",
-        "Germany",
         "Mataram"
       ]
     },
     {
-      "blanked": "Bengal ex-deputy speaker ______ Banerjee found hanging at local TMC office in Birbhum",
-      "answer": "Ashis",
+      "blanked": "Bengal: ______ volunteer’s father dies after alleged ‘assault’ over ‘School Thik Karo’ campaign, Dipke seeks arrests",
+      "answer": "CJP",
       "options": [
-        "Ashis",
-        "ChatGPT",
-        "Suns",
-        "Perseids"
+        "CJP",
+        "Banerjee",
+        "Pralay",
+        "You"
       ]
     },
     {
-      "blanked": "India Nears Rs 70,000-Crore Submarine Deal With Germany, ______ Meet Likely Soon",
-      "answer": "Key",
+      "blanked": "Raja Sen passes away at 71: Three-Time ______ Award-Winning Bengali filmmaker passes away after battlin",
+      "answer": "National",
       "options": [
-        "Key",
-        "Job",
-        "3060",
-        "RTX"
+        "Elaichi",
+        "India",
+        "National",
+        "SpaceX"
       ]
     },
     {
-      "blanked": "Chengalpattu: ______ rise in dengue cases among children leaves public concerned",
-      "answer": "Sharp",
+      "blanked": "Bangladesh make history with first-ever Test cricket win in ______",
+      "answer": "Australia",
       "options": [
-        "Google",
-        "Wildberries",
-        "Jewellery",
-        "Sharp"
+        "Kalyani",
+        "Draw",
+        "Cup",
+        "Australia"
+      ]
+    },
+    {
+      "blanked": "Thousands evacuate after ______ quake kills 53, aftershocks hamper rescue efforts",
+      "answer": "Indonesia",
+      "options": [
+        "India",
+        "Indonesia",
+        "Karnataka",
+        "Vande"
+      ]
+    },
+    {
+      "blanked": "PV ______ turns to sports science, strength & conditioning in bid for record sixth World Championships me",
+      "answer": "Sindhu",
+      "options": [
+        "Australia",
+        "Mataram",
+        "Sindhu",
+        "Ashis"
+      ]
+    },
+    {
+      "blanked": "Deals: the ______ Pixel 11 series is now on pre-order with gift cards and trade-in bonuses - GSMArena.com news",
+      "answer": "Google",
+      "options": [
+        "Filming",
+        "Extending",
+        "Soren",
+        "Google"
+      ]
+    },
+    {
+      "blanked": "Russia Claims 600 Ukrainian Drones Targeted ______ Overnight, 3 Hurt",
+      "answer": "Moscow",
+      "options": [
+        "Moscow",
+        "Astronomers",
+        "Mataram",
+        "Winning"
+      ]
+    },
+    {
+      "blanked": "‘Propitious environment needs to be created’: Bangladesh says PM Tarique Rahman will not visit India until ______ extradition",
+      "answer": "Hasinas",
+      "options": [
+        "Singh",
+        "Hasinas",
+        "Galles",
+        "Rukh"
+      ]
+    },
+    {
+      "blanked": "NASA Orders ______ Diet' for Voyager 2, Extending Observation Life by One Year",
+      "answer": "Power",
+      "options": [
+        "Ahuja",
+        "Power",
+        "Rukh",
+        "Pixel"
+      ]
+    },
+    {
+      "blanked": "India Nears Rs 70,000-Crore Submarine ______ With Germany, Key Meet Likely Soon",
+      "answer": "Deal",
+      "options": [
+        "Astronomers",
+        "2026",
+        "Germany",
+        "Deal"
+      ]
+    },
+    {
+      "blanked": "Jharkhand protest: ______ to burn Soren and Rahul effigies, gherao CM's residence August 20",
+      "answer": "Students",
+      "options": [
+        "Calls",
+        "Students",
+        "Six",
+        "Gandhi"
       ]
     }
   ]
