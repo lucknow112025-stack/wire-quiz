@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-17T00:00:31.536Z",
+  "generatedAt": "2026-08-17T03:29:31.627Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "'Putzer for Ritzer, Parsow for Parsons': What are the typos, errors that forced NTA to cancel 3 UGC-NET papers? | India News",
-    "After NALSAR, Another Top Law College Opposes Invite To Chief Justice",
-    "Bangladesh sets extradition of Hasina, Hadi’s killers as conditions for Tarique Rahman’s India visit",
-    "Chaos In Delhi Metro After Paramilitary Official Allegedly Takes Woman's Pic",
-    "Photos: Patriotic music and flags mark Taliban rule anniversary in Kabul",
-    "Jharkhand protest: Students to burn Soren and Rahul effigies, gherao CM's residence August 20",
-    "Congress should apologise for insulting Vande Mataram on Independence Day: Amit Shah",
+    "JPSC-JSSC aspirants burn effigies of Soren, Rahul Gandhi, Tejashwi over exam row, threaten CM house siege",
+    "6 Killed, Many Injured In Stampede At Temple In Bihar's Lakhisarai",
+    "BCI Chairperson Manan Kumar Mishra Apologises To Law Students Amid NALSAR Row",
+    "NTA to re-conduct UGC-NET exams for English, Sociology, Commerce after complaints",
+    "Population count for Census 2027 begins today; 40 questions include caste query for first time since Independence | India News",
+    "5,000 special guests witness I-Day celebrations at Red Fort: ‘A dream come true’ | Latest News Delhi",
+    "India opens tax amnesty scheme for small taxpayers with undisclosed foreign assets",
     "Day after PM Modi warns of ‘new enemy’, Rijiju offers 4-point definition of ‘dimagi naxal’",
-    "'Delhi cops told us we are traitors': Jantar Mantar protesters meet Rahul Gandhi | India News",
-    "TN political leaders condemn killing of three Tamil farmers by Karnataka forest officials",
-    "In Spain's Ceuta, hundreds of migrants stage protest and demand asylum",
-    "Trump's envoys meet mediators, Israel strikes Gaza",
-    "West Asia war LIVE: Pope calls for an end to West Bank violence against Palestinians",
-    "Russia Claims 600 Ukrainian Drones Targeted Moscow Overnight, 3 Hurt",
+    "Navy sailor, three family members found dead in Mumbai’s Colaba quarters; probe on",
+    "IPS Officer's Mother Found Murdered In UP Home, Jewellery Looted",
+    "Trump orders Pentagon to scale back joint exercises with South Korea",
+    "Lakshmi Mittal's Ukraine Factory In Volodymyr Zelensky's Hometown Hit By Russian Missile",
+    "Kushner has rare meeting with Hamas chief on Gaza road map; to meet Netanyahu next",
+    "Zimbabwe Ferry Accident: Death Count Rises To 68 As 22 More Bodies Recovered",
     "Chandrasekaran’s exit puts Tata’s Air India bet under fresh scrutiny",
-    "19 months of foreign investor selling Indian equities wipes out 100 months of inflows | FIIs invested around $1.71 bn in Aug so far | Inshorts",
-    "Can SpaceX Leap to the AI Frontier?",
+    "India sets targets for oil companies to boost cooking gas output amid Middle East war",
+    "NIFTY50 this week: Crude oil prices, US Fed minutes, FIIs activity among key market triggers to watch",
     "Rs 6,400-crore IPO rush: 7 companies set to tap primary market next week",
     "Apple iPhone 18 Pro Release Date: Discounted Day Re-Enters The September Schedule",
+    "Not 5G or AI, this is what's forcing Indians to buy new phones early",
     "Pixel 11 series, Honor Robot Phone, Redmi 17 official, Week 33 in review - GSMArena.com news",
     "Samsung's Galaxy Z Fold 8 rocks for video — except for one problem you can't un-hear",
-    "Xiaomi releases new HyperOS launcher update 8.01.02",
-    "Awarapan 2 Hits Rs 50 Crore In 2 Days, Producer Says 'Nobody Came To Buy The Film'",
-    "FDA notice to Shah Rukh, Ajay Devgn and Tiger Shroff over Vimal Elaichi ad",
-    "Spider-Man: Brand New Day Box Office Collections: Tom Holland starrer witnesses big spike on Independence Day, grosses Rs 534 crore"
+    "'Awarapan 2' box office collection day 3: The Emraan Hashmi film races ahead of 'Batwara 1947', inches to",
+    "‘Spider-Man: Brand New Day’ Enters Rare Air With $2 Billion At Box Office",
+    "Actor Ananya Raj dies at 35 after battling health issues for over a year, family confirms: ‘Fought like a warrior’ | Bollywood"
   ],
   "quiz": [
     {
-      "blanked": "Jharkhand protest: Students to burn Soren and ______ effigies, gherao CM's residence August 20",
-      "answer": "Rahul",
+      "blanked": "India sets targets for oil companies to boost cooking gas output amid Middle ______ war",
+      "answer": "East",
       "options": [
-        "Space",
-        "Dravid",
-        "Rijiju",
-        "Rahul"
-      ]
-    },
-    {
-      "blanked": "Pixel 11 series, Honor Robot ______ Redmi 17 official, Week 33 in review - GSMArena.com news",
-      "answer": "Phone",
-      "options": [
-        "Bad",
         "UGC-NET",
+        "South",
+        "East",
+        "How"
+      ]
+    },
+    {
+      "blanked": "Navy sailor, three family members found dead in ______ Colaba quarters; probe on",
+      "answer": "Mumbais",
+      "options": [
+        "Looted",
+        "Many",
+        "Ananya",
+        "Mumbais"
+      ]
+    },
+    {
+      "blanked": "Direct Antibiotic ______ Testing De-labels Most Children",
+      "answer": "Allergy",
+      "options": [
         "Phone",
-        "Lanka"
+        "Allergy",
+        "Ukraine",
+        "Most"
       ]
     },
     {
-      "blanked": "Indian Army FT vs East Bengal Highlights: Vishnu's strike helps Red and ______ Brigade secure Durand Cup 2026 semifinal berth",
-      "answer": "Gold",
+      "blanked": "FDA notice to Shah Rukh, Ajay Devgn and Tiger Shroff over ______ Elaichi ad",
+      "answer": "Vimal",
       "options": [
-        "Discounted",
-        "Collections",
-        "Gold",
-        "Allergy"
+        "Mumbais",
+        "Vimal",
+        "Super",
+        "Discounted"
       ]
     },
     {
-      "blanked": "Chandrasekaran’s exit puts Tata’s ______ India bet under fresh scrutiny",
-      "answer": "Air",
+      "blanked": "'Awarapan 2' box office collection day 3: The Emraan ______ film races ahead of 'Batwara 1947', inches to",
+      "answer": "Hashmi",
       "options": [
-        "Air",
-        "Kwath",
-        "Mass",
-        "Massive"
+        "Indians",
+        "Raj",
+        "Hashmi",
+        "Mass"
       ]
     },
     {
-      "blanked": "FDA notice to Shah Rukh, Ajay Devgn and ______ Shroff over Vimal Elaichi ad",
-      "answer": "Tiger",
+      "blanked": "NTA to re-conduct UGC-NET exams for English, ______ Commerce after complaints",
+      "answer": "Sociology",
       "options": [
-        "City",
-        "Crore",
-        "Tiger",
-        "College"
+        "2027",
+        "Mens",
+        "Hundred",
+        "Sociology"
       ]
     },
     {
-      "blanked": "Can SpaceX Leap to the AI ______",
-      "answer": "Frontier",
+      "blanked": "Zimbabwe Ferry Accident: Death Count Rises To 68 As 22 ______ Bodies Recovered",
+      "answer": "More",
       "options": [
-        "Jantar",
-        "Phone",
+        "Fort",
+        "More",
+        "Astronomers",
+        "Affect"
+      ]
+    },
+    {
+      "blanked": "6 Killed, Many Injured In Stampede At ______ In Bihar's Lakhisarai",
+      "answer": "Temple",
+      "options": [
+        "Temple",
         "Soren",
-        "Frontier"
+        "167",
+        "Many"
       ]
     },
     {
-      "blanked": "Samsung's ______ Z Fold 8 rocks for video — except for one problem you can't un-hear",
-      "answer": "Galaxy",
+      "blanked": "Samsung's Galaxy Z ______ 8 rocks for video — except for one problem you can't un-hear",
+      "answer": "Fold",
       "options": [
-        "News",
-        "Admission",
-        "Galaxy",
-        "Army"
+        "Dravid",
+        "Fold",
+        "Indians",
+        "Tejashwi"
       ]
     },
     {
-      "blanked": "Pushkarmooladi Kwath and Modern Treatment Together Outperform ______ Care Alone in BHU Stable Angina Study",
-      "answer": "Standard",
+      "blanked": "NIFTY50 this week: Crude oil prices, US ______ minutes, FIIs activity among key market triggers to watch",
+      "answer": "Fed",
       "options": [
-        "FIIs",
-        "Standard",
-        "Intermittent",
-        "What"
+        "Successful",
+        "Fed",
+        "Most",
+        "Injured"
       ]
     },
     {
-      "blanked": "Russia Claims ______ Ukrainian Drones Targeted Moscow Overnight, 3 Hurt",
-      "answer": "600",
+      "blanked": "Population count for Census ______ begins today; 40 questions include caste query for first time since Independence | India News",
+      "answer": "2027",
       "options": [
-        "Hits",
-        "600",
-        "534",
-        "Bank"
+        "Billion",
+        "2027",
+        "Affect",
+        "Batwara"
       ]
     },
     {
-      "blanked": "Day after PM ______ warns of ‘new enemy’, Rijiju offers 4-point definition of ‘dimagi naxal’",
-      "answer": "Modi",
+      "blanked": "Devdutt Padikkal falls for ______ joins Rahul Dravid and Cheteshwar Pujara in Sri Lanka record list",
+      "answer": "167",
       "options": [
-        "Discounted",
-        "Frontier",
-        "Modi",
-        "Space"
-      ]
-    },
-    {
-      "blanked": "Cristiano Ronaldo Drops Retirement ______ With Massive 'Last Year' Admission",
-      "answer": "Bombshell",
-      "options": [
-        "News",
-        "Bombshell",
-        "Devgn",
-        "Stable"
-      ]
-    },
-    {
-      "blanked": "Trump's envoys meet mediators, ______ strikes Gaza",
-      "answer": "Israel",
-      "options": [
-        "Days",
-        "Israel",
-        "Space",
-        "Modern"
+        "Fold",
+        "Nutritionist",
+        "167",
+        "Bollywood"
       ]
     }
   ]
