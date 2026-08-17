@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-17T10:06:40.438Z",
+  "generatedAt": "2026-08-17T11:03:58.159Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "BREAKING| Supreme Court Halts Allahabad HC Proceedings Against Rahul Gandhi In Plea Seeking CBI/ED Probe",
+    "Smriti Irani's Big Comeback In BJP Revamp Ahead Of Key Polls",
     "'Go Meet Jharkhand Protesters': Rahul Gandhi's Letter To Ally Hemant Soren",
-    "Nitin Nabin to unveil new BJP team today: Anurag Thakur and Smriti Irani may return",
-    "Six die at temple in India's Bihar after 'stampede-like' event, officials say",
-    "2 More Air India Pilots Fail To Clear 1st Drug Test After Phuket Flight Fiasco",
+    "Supreme Court halts HC proceedings against Rahul Gandhi in disproportionate assets case",
     "Supreme Court Asks Karnataka To Comply With Cauvery Authority's Directions On Water Release To Tamil Nadu",
+    "2 More Air India Pilots Fail To Clear 1st Drug Test After Phuket Flight Fiasco",
     "Shehzad Poonawalla resigns from BJP ending speculation, says ‘certain individuals’ forced decision",
-    "'Look What Your Testing Agency Did': Rahul Gandhi Jabs PM On UGC-NET Retests",
     "Bangladesh sets extradition of Hasina, Hadi’s killers as conditions for Tarique Rahman’s India visit",
     "5,000 special guests witness I-Day celebrations at Red Fort: ‘A dream come true’ | Latest News Delhi",
-    "Fake Iran nuclear post: How a fabricated X claim by Indian account created panic in Israel, US",
-    "CNBC Daily Open: U.S.-Iran ceasefire set to expire",
-    "West Asia war LIVE: Trump welcomes defence pact between Saudi Arabia, Turkiye and Pakistan",
+    "At least seven dead in ‘stampede-like’ incident at India temple",
+    "‘Witch hunt’: NLSIU students object to Bar Council chief, CJI Surya Kant attending convocation amid NALSAR row | India News",
+    "US-Iran MoU ends: What happens next?",
     "Kushner has rare meeting with Hamas chief on Gaza road map; to meet Netanyahu next",
+    "US Immigration authority to H1-B visa holders, students and other visa holders: These forms will be rejec",
+    "Russia Hits Indian Billionaire's Factory In Ukraine As War Spills In Europe",
     "Indian shares fall as crude remains at elevated levels",
     "High-powered committee on banking to be announced soon, says Nirmala Sitharaman",
     "India Readies Big LPG Output Boost as Hormuz Uncertainty Lingers",
-    "Sebi chief Tuhin Kanta Pandey says CAS here to stay, will study concerns over rollout",
+    "BSE Share Price Falls As Jefferies Downgrades Stock, Cuts Target Price — Check Potential Upside",
+    "Spotify's Car Thing Is Resurrected, Thanks To Community Firmware Wizards Who Refused To Abandon It",
     "CERT-In warns Chrome users of critical flaws that risk remote attacks",
     "Poco M8x to be powered by Snapdragon 4 Gen 5 SoC, key specs and pricing tipped - GSMArena.com news",
     "BGMI Lite Finally Confirmed, Low-End Android Players Can Now Celebrate",
-    "Disney expands its licensing business with a wave of fall 2026 collaborations",
     "Awarapan 2 Box Office Collections: Emraan Hashmi film has an EXCELLENT first weekend of Rs. 82 Cr in India",
     "Scream 4 Actor Hayden Panettiere Dies Days Before 37th Birthday",
-    "Ghost actor Ananya Raj dies at 35, family confirms news: ‘Fought like a warrior’"
+    "Deepak Mukuts Emraan Hashmi, Genelia Deshmukh and Aparshakti Khurana starrer Gunmaaster G9 to release on November 27, 2026"
   ],
   "quiz": [
     {
-      "blanked": "India vs ______ Craig Fulton’s young side chases first World Cup win over England since 1994",
-      "answer": "England",
+      "blanked": "BSE Share Price Falls As Jefferies Downgrades Stock, Cuts Target Price — Check ______ Upside",
+      "answer": "Potential",
       "options": [
-        "Enzo",
-        "England",
-        "Ananya",
-        "Fail"
+        "Potential",
+        "What",
+        "August",
+        "Fort"
+      ]
+    },
+    {
+      "blanked": "BGMI Lite Finally Confirmed, Low-End Android ______ Can Now Celebrate",
+      "answer": "Players",
+      "options": [
+        "Actor",
+        "167",
+        "Players",
+        "BAN"
+      ]
+    },
+    {
+      "blanked": "Kushner has rare meeting with ______ chief on Gaza road map; to meet Netanyahu next",
+      "answer": "Hamas",
+      "options": [
+        "Hits",
+        "Gaza",
+        "Khurana",
+        "Hamas"
+      ]
+    },
+    {
+      "blanked": "WTC Points Table update after ______ beat Australia: BAN dent AUS lead",
+      "answer": "Bangladesh",
+      "options": [
+        "Asks",
+        "Mukuts",
+        "Bangladesh",
+        "Confirmed"
       ]
     },
     {
       "blanked": "CERT-In warns ______ users of critical flaws that risk remote attacks",
       "answer": "Chrome",
       "options": [
-        "Snapdragon",
-        "Lanka",
+        "Upside",
         "Chrome",
-        "Lab-built"
+        "Big",
+        "Padikkal"
       ]
     },
     {
-      "blanked": "CNBC Daily ______ U.S.-Iran ceasefire set to expire",
-      "answer": "Open",
+      "blanked": "Awarapan 2 ______ Office Collections: Emraan Hashmi film has an EXCELLENT first weekend of Rs. 82 Cr in India",
+      "answer": "Box",
       "options": [
-        "Delhi",
-        "CAS",
-        "Open",
-        "News"
+        "Hits",
+        "Box",
+        "Bar",
+        "Rise"
       ]
     },
     {
-      "blanked": "Air Pollution Linked to Rise in RA ______ Disease Activity",
-      "answer": "Flares",
+      "blanked": "Russia Hits Indian Billionaire's Factory In Ukraine As ______ Spills In Europe",
+      "answer": "War",
       "options": [
-        "2026",
-        "SoC",
-        "Flares",
-        "Rodri"
+        "Firmware",
+        "Fail",
+        "War",
+        "Polls"
       ]
     },
     {
-      "blanked": "Six die at temple in India's ______ after 'stampede-like' event, officials say",
-      "answer": "Bihar",
+      "blanked": "Bangladesh sets extradition of Hasina, Hadi’s killers as conditions for Tarique ______ India visit",
+      "answer": "Rahmans",
       "options": [
-        "Bihar",
-        "Test",
-        "Thakur",
-        "Most"
-      ]
-    },
-    {
-      "blanked": "Nitin Nabin to unveil new BJP team today: Anurag ______ and Smriti Irani may return",
-      "answer": "Thakur",
-      "options": [
-        "1994",
-        "Thakur",
-        "Authoritys",
-        "Gandhi"
-      ]
-    },
-    {
-      "blanked": "Sebi chief Tuhin Kanta ______ says CAS here to stay, will study concerns over rollout",
-      "answer": "Pandey",
-      "options": [
-        "2026",
-        "BJP",
-        "Pandey",
-        "Galle"
-      ]
-    },
-    {
-      "blanked": "'Go Meet ______ Protesters': Rahul Gandhi's Letter To Ally Hemant Soren",
-      "answer": "Jharkhand",
-      "options": [
+        "Aparshakti",
         "Jharkhand",
-        "Drug",
-        "Gandhi",
-        "Daily"
+        "Rahmans",
+        "BAN"
       ]
     },
     {
-      "blanked": "IND vs SL LIVE Score, 1st Test ______ 3: Sri Lanka rebuild in Galle after Manav Suthar, Kuldeep Yadav dominate",
-      "answer": "Day",
+      "blanked": "Cameroon dominates Malawi to win first ______ Africa Cup of Nations title",
+      "answer": "Womens",
       "options": [
-        "Arabia",
-        "Day",
+        "Bar",
+        "Resurrected",
+        "Womens",
+        "Livestream"
+      ]
+    },
+    {
+      "blanked": "At least seven dead in ‘stampede-like’ incident at ______ temple",
+      "answer": "India",
+      "options": [
+        "India",
+        "Snapdragon",
+        "Hemant",
+        "Devdutt"
+      ]
+    },
+    {
+      "blanked": "High-powered committee on banking to be announced soon, says ______ Sitharaman",
+      "answer": "Nirmala",
+      "options": [
+        "Kant",
+        "Nirmala",
         "De-labels",
-        "Days"
+        "Tarique"
       ]
     },
     {
-      "blanked": "2 More Air India Pilots Fail To ______ 1st Drug Test After Phuket Flight Fiasco",
-      "answer": "Clear",
+      "blanked": "US-Iran MoU ends: ______ happens next?",
+      "answer": "What",
       "options": [
-        "Poonawalla",
-        "Clear",
-        "Sitharaman",
-        "Nirmala"
-      ]
-    },
-    {
-      "blanked": "'Look What ______ Testing Agency Did': Rahul Gandhi Jabs PM On UGC-NET Retests",
-      "answer": "Your",
-      "options": [
-        "Did",
-        "Your",
-        "Open",
-        "Hashmi"
-      ]
-    },
-    {
-      "blanked": "Fake Iran nuclear post: ______ a fabricated X claim by Indian account created panic in Israel, US",
-      "answer": "How",
-      "options": [
-        "Saudi",
-        "How",
+        "What",
+        "Can",
         "Lingers",
-        "Air"
+        "Table"
       ]
     }
   ]
