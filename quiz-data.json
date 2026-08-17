@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-17T05:22:55.467Z",
+  "generatedAt": "2026-08-17T08:03:22.822Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "Shehzad Poonawalla 'presses' BJP to accept resignation after first letter rejected | India News",
-    "Crowd swell, broken barricades, live wire rumour: What led to Bihar temple stampede | India News",
-    "After Jharkhand protesters burn Soren, Rahul effigies, State Government calls for fourth round of talks",
-    "‘Big, Bold, Important First Step’: Trump Welcomes Saudi-Türkiye-Pakistan Defence Pact",
-    "5,000 special guests witness I-Day celebrations at Red Fort: ‘A dream come true’ | Latest News Delhi",
-    "NTA to re-conduct UGC-NET exams for English, Sociology, Commerce after complaints",
-    "Bangladesh sets extradition of Hasina, Hadi’s killers as conditions for Tarique Rahman’s India visit",
-    "India opens tax amnesty scheme for small taxpayers with undisclosed foreign assets",
-    "Low-pressure area forms over Bay of Bengal; IMD predicts heavy rainfall in Odisha",
-    "600 Students Leave \"Haunted\" Maharashtra Hostel, Claim Some Girls Are \"Possessed\"",
+    "Six die at temple in India's Bihar after 'stampede-like' event, officials say",
+    "JPSC-JSSC aspirants burn effigies of Soren, Rahul Gandhi, Tejashwi over exam row, threaten CM house siege",
+    "Shehzad Poonawalla Quits BJP, Cites \"Pressing\" Financial, Personal Issues",
+    "BREAKING| Supreme Court Halts Allahabad HC Proceedings Against Rahul Gandhi In Plea Seeking CBI/ED Probe",
+    "US-Iran MoU ends: What happens next?",
+    "How PM Modi has changed focus of Independence Day speeches",
+    "'Look What Your Testing Agency Did': Rahul Gandhi Jabs PM On UGC-NET Retests",
+    "2 More Air India Pilots Fail To Clear 1st Drug Test After Phuket Flight Fiasco",
+    "Bangladesh sets Sheikh Hasina's extradition as condition for PM Tarique Rahman’s India visit | World News",
+    "Are you a 'dimaagi Naxal'? Take Rijiju test to know if you fit the bill",
     "Trump orders Pentagon to scale back joint exercises with South Korea",
-    "Russia Hits Indian Billionaire's Factory In Ukraine As War Spills In Europe",
-    "US Immigration authority to H1-B visa holders, students and other visa holders: These forms will be rejec",
-    "Kushner has rare meeting with Hamas chief on Gaza road map; to meet Netanyahu next",
-    "NIFTY50 this week: Crude oil prices, US Fed minutes, FIIs activity among key market triggers to watch",
-    "Before Chandrasekaran's exit, he and Noel Tata separately briefed govt on rift, concerns",
-    "India built the world's biggest digital payments miracle. Now comes the bill",
-    "Asian Stock Markets Today: Nikkei Rises Despite Japan GDP Growth Miss",
-    "Apple iPhone 18 Pro Release Date: Discounted Day Re-Enters The September Schedule",
+    "West Asia war LIVE: Trump welcomes defence pact between Saudi Arabia, Turkey and Pakistan",
+    "Behind the Iran talks: How Trump opened secret channel to the IRGC",
+    "How A Fake Iran Nuke Claim From Indian Account Angered Team Trump, Netanyahu",
+    "Stock Market LIVE Updates, Sensex Today: Sensex Drops 500 Points Amid Negative Global Cues",
+    "High-powered committee on banking to be announced soon, says Nirmala Sitharaman",
+    "Breakout stocks to buy or sell: Sumeet Bagadia recommends five shares to buy today - 17 August 2026",
+    "India Readies Big LPG Output Boost as Hormuz Uncertainty Lingers",
+    "Apple May Unveil iPhone 18 Pro Max on September 9: Reports",
+    "Poco M8x to be powered by Snapdragon 4 Gen 5 SoC, key specs and pricing tipped - GSMArena.com news",
+    "BGMI Lite Finally Confirmed, Low-End Android Players Can Now Celebrate",
     "Not 5G or AI, this is what's forcing Indians to buy new phones early",
-    "Krafton India to launch BGMI Lite by the end of 2026: What we know",
-    "Pixel 11 series, Honor Robot Phone, Redmi 17 official, Week 33 in review - GSMArena.com news",
-    "'Awarapan 2' box office collection day 3: The Emraan Hashmi film races ahead of 'Batwara 1947', inches to",
-    "Hayden Panettiere, Star of ‘Heroes’ and ‘Nashville, Dies at 36",
-    "Ghost actor Ananya Raj dies at 35, family confirms news: ‘Fought like a warrior’"
+    "Awarapan 2 Box Office Collections: Emraan Hashmi film has an EXCELLENT first weekend of Rs. 82 Cr in India",
+    "Ghost actor Ananya Raj dies at 35, family confirms news: ‘Fought like a warrior’",
+    "Hayden Panettiere, Star of ‘Heroes’ and ‘Nashville,’ Dies at 36"
   ],
   "quiz": [
     {
-      "blanked": "Before ______ exit, he and Noel Tata separately briefed govt on rift, concerns",
-      "answer": "Chandrasekarans",
+      "blanked": "Trump orders Pentagon to scale back joint exercises with South ______",
+      "answer": "Korea",
       "options": [
-        "Immigration",
-        "Chandrasekarans",
-        "Billionaires",
-        "Welcomes"
+        "May",
+        "Allahabad",
+        "Seeking",
+        "Korea"
       ]
     },
     {
-      "blanked": "Kushner has rare meeting with ______ chief on Gaza road map; to meet Netanyahu next",
-      "answer": "Hamas",
+      "blanked": "Ghost actor Ananya ______ dies at 35, family confirms news: ‘Fought like a warrior’",
+      "answer": "Raj",
       "options": [
-        "Bad",
-        "Explains",
-        "Hamas",
-        "Test"
+        "Gandhi",
+        "Super",
+        "Dies",
+        "Raj"
       ]
     },
     {
-      "blanked": "Black hole star: ______ discover a brand-new type of astrophysical object",
-      "answer": "Astronomers",
+      "blanked": "How PM Modi has changed focus of Independence ______ speeches",
+      "answer": "Day",
       "options": [
-        "Week",
-        "Astronomers",
-        "Tarique",
-        "Cheteshwar"
+        "Day",
+        "Most",
+        "Negative",
+        "World"
       ]
     },
     {
-      "blanked": "Is Intermittent Fasting Bad For Women? Nutritionist Explains How Long Fasting May ______ Hormones",
-      "answer": "Affect",
+      "blanked": "West Asia war LIVE: Trump welcomes defence pact between Saudi Arabia, Turkey and ______",
+      "answer": "Pakistan",
       "options": [
-        "Saudi-Trkiye-Pakistan",
-        "Commerce",
-        "Affect",
-        "Week"
+        "Cues",
+        "Box",
+        "Pakistan",
+        "Rahul"
       ]
     },
     {
-      "blanked": "Your kidneys do more than filter waste: ______ how they help control blood sugar",
-      "answer": "Heres",
+      "blanked": "Rocket Lab-built satellites deployed for ______ constellation replenishment",
+      "answer": "Globalstar",
       "options": [
-        "Allergy",
-        "Heres",
-        "Fort",
-        "Fasting"
+        "EXCELLENT",
+        "Saudi",
+        "2026",
+        "Globalstar"
       ]
     },
     {
-      "blanked": "Shehzad Poonawalla 'presses' BJP to accept resignation after first letter rejected | ______ News",
-      "answer": "India",
+      "blanked": "US-Iran MoU ends: ______ happens next?",
+      "answer": "What",
       "options": [
-        "India",
-        "Children",
-        "Miss",
-        "Netanyahu"
+        "Allahabad",
+        "What",
+        "Your",
+        "Cricket"
       ]
     },
     {
-      "blanked": "Pixel 11 series, Honor Robot ______ Redmi 17 official, Week 33 in review - GSMArena.com news",
-      "answer": "Phone",
+      "blanked": "BREAKING| Supreme Court Halts Allahabad HC Proceedings Against Rahul Gandhi In Plea Seeking CBI/ED ______",
+      "answer": "Probe",
       "options": [
-        "Phone",
-        "Bay",
-        "Girls",
-        "Maharashtra"
+        "Boost",
+        "Day",
+        "Probe",
+        "Halts"
       ]
     },
     {
-      "blanked": "5,000 special guests witness I-Day celebrations at Red Fort: ‘A dream come true’ | Latest ______ Delhi",
-      "answer": "News",
+      "blanked": "Stock Market LIVE Updates, Sensex Today: Sensex Drops 500 Points Amid Negative Global ______",
+      "answer": "Cues",
       "options": [
-        "News",
-        "Allergy",
-        "Today",
-        "May"
+        "Air",
+        "Cues",
+        "Proceedings",
+        "Clear"
       ]
     },
     {
-      "blanked": "India built the world's biggest digital payments miracle. ______ comes the bill",
-      "answer": "Now",
+      "blanked": "Ravi Kishan recreates his viral dance step with the paparazzi; ______ Munna Bhaiya and Guddu Pandit j",
+      "answer": "Mirzapurs",
       "options": [
-        "Factory",
-        "Possessed",
-        "Arsenal",
-        "Now"
+        "Students",
+        "Updates",
+        "Confirmed",
+        "Mirzapurs"
       ]
     },
     {
-      "blanked": "Hayden ______ Star of ‘Heroes’ and ‘Nashville, Dies at 36",
-      "answer": "Panettiere",
+      "blanked": "Seifert blasts Manchester Super Giants to maiden ______ title",
+      "answer": "Hundred",
       "options": [
-        "Fasting",
-        "India",
-        "Man",
-        "Panettiere"
+        "Confirmed",
+        "Nirmala",
+        "Hundred",
+        "Antibiotic"
       ]
     },
     {
-      "blanked": "NTA to re-conduct UGC-NET exams for ______ Sociology, Commerce after complaints",
-      "answer": "English",
+      "blanked": "BGMI Lite Finally Confirmed, Low-End ______ Players Can Now Celebrate",
+      "answer": "Android",
       "options": [
-        "Fort",
-        "Hashmi",
-        "English",
-        "Giants"
+        "Pakistan",
+        "Android",
+        "Ananya",
+        "What"
       ]
     },
     {
-      "blanked": "Russia Hits ______ Billionaire's Factory In Ukraine As War Spills In Europe",
-      "answer": "Indian",
+      "blanked": "Poco M8x to be powered by Snapdragon 4 Gen 5 ______ key specs and pricing tipped - GSMArena.com news",
+      "answer": "SoC",
       "options": [
-        "State",
-        "Soren",
-        "Indian",
-        "Pujara"
+        "Lab-built",
+        "Fall",
+        "Cricket",
+        "SoC"
       ]
     }
   ]
