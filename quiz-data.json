@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-17T08:03:22.822Z",
+  "generatedAt": "2026-08-17T10:06:40.438Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "Six die at temple in India's Bihar after 'stampede-like' event, officials say",
-    "JPSC-JSSC aspirants burn effigies of Soren, Rahul Gandhi, Tejashwi over exam row, threaten CM house siege",
-    "Shehzad Poonawalla Quits BJP, Cites \"Pressing\" Financial, Personal Issues",
     "BREAKING| Supreme Court Halts Allahabad HC Proceedings Against Rahul Gandhi In Plea Seeking CBI/ED Probe",
-    "US-Iran MoU ends: What happens next?",
-    "How PM Modi has changed focus of Independence Day speeches",
-    "'Look What Your Testing Agency Did': Rahul Gandhi Jabs PM On UGC-NET Retests",
+    "'Go Meet Jharkhand Protesters': Rahul Gandhi's Letter To Ally Hemant Soren",
+    "Nitin Nabin to unveil new BJP team today: Anurag Thakur and Smriti Irani may return",
+    "Six die at temple in India's Bihar after 'stampede-like' event, officials say",
     "2 More Air India Pilots Fail To Clear 1st Drug Test After Phuket Flight Fiasco",
-    "Bangladesh sets Sheikh Hasina's extradition as condition for PM Tarique Rahman’s India visit | World News",
-    "Are you a 'dimaagi Naxal'? Take Rijiju test to know if you fit the bill",
-    "Trump orders Pentagon to scale back joint exercises with South Korea",
-    "West Asia war LIVE: Trump welcomes defence pact between Saudi Arabia, Turkey and Pakistan",
-    "Behind the Iran talks: How Trump opened secret channel to the IRGC",
-    "How A Fake Iran Nuke Claim From Indian Account Angered Team Trump, Netanyahu",
-    "Stock Market LIVE Updates, Sensex Today: Sensex Drops 500 Points Amid Negative Global Cues",
+    "Supreme Court Asks Karnataka To Comply With Cauvery Authority's Directions On Water Release To Tamil Nadu",
+    "Shehzad Poonawalla resigns from BJP ending speculation, says ‘certain individuals’ forced decision",
+    "'Look What Your Testing Agency Did': Rahul Gandhi Jabs PM On UGC-NET Retests",
+    "Bangladesh sets extradition of Hasina, Hadi’s killers as conditions for Tarique Rahman’s India visit",
+    "5,000 special guests witness I-Day celebrations at Red Fort: ‘A dream come true’ | Latest News Delhi",
+    "Fake Iran nuclear post: How a fabricated X claim by Indian account created panic in Israel, US",
+    "CNBC Daily Open: U.S.-Iran ceasefire set to expire",
+    "West Asia war LIVE: Trump welcomes defence pact between Saudi Arabia, Turkiye and Pakistan",
+    "Kushner has rare meeting with Hamas chief on Gaza road map; to meet Netanyahu next",
+    "Indian shares fall as crude remains at elevated levels",
     "High-powered committee on banking to be announced soon, says Nirmala Sitharaman",
-    "Breakout stocks to buy or sell: Sumeet Bagadia recommends five shares to buy today - 17 August 2026",
     "India Readies Big LPG Output Boost as Hormuz Uncertainty Lingers",
-    "Apple May Unveil iPhone 18 Pro Max on September 9: Reports",
+    "Sebi chief Tuhin Kanta Pandey says CAS here to stay, will study concerns over rollout",
+    "CERT-In warns Chrome users of critical flaws that risk remote attacks",
     "Poco M8x to be powered by Snapdragon 4 Gen 5 SoC, key specs and pricing tipped - GSMArena.com news",
     "BGMI Lite Finally Confirmed, Low-End Android Players Can Now Celebrate",
-    "Not 5G or AI, this is what's forcing Indians to buy new phones early",
+    "Disney expands its licensing business with a wave of fall 2026 collaborations",
     "Awarapan 2 Box Office Collections: Emraan Hashmi film has an EXCELLENT first weekend of Rs. 82 Cr in India",
-    "Ghost actor Ananya Raj dies at 35, family confirms news: ‘Fought like a warrior’",
-    "Hayden Panettiere, Star of ‘Heroes’ and ‘Nashville,’ Dies at 36"
+    "Scream 4 Actor Hayden Panettiere Dies Days Before 37th Birthday",
+    "Ghost actor Ananya Raj dies at 35, family confirms news: ‘Fought like a warrior’"
   ],
   "quiz": [
     {
-      "blanked": "Trump orders Pentagon to scale back joint exercises with South ______",
-      "answer": "Korea",
+      "blanked": "India vs ______ Craig Fulton’s young side chases first World Cup win over England since 1994",
+      "answer": "England",
       "options": [
-        "May",
-        "Allahabad",
-        "Seeking",
-        "Korea"
+        "Enzo",
+        "England",
+        "Ananya",
+        "Fail"
       ]
     },
     {
-      "blanked": "Ghost actor Ananya ______ dies at 35, family confirms news: ‘Fought like a warrior’",
-      "answer": "Raj",
+      "blanked": "CERT-In warns ______ users of critical flaws that risk remote attacks",
+      "answer": "Chrome",
       "options": [
+        "Snapdragon",
+        "Lanka",
+        "Chrome",
+        "Lab-built"
+      ]
+    },
+    {
+      "blanked": "CNBC Daily ______ U.S.-Iran ceasefire set to expire",
+      "answer": "Open",
+      "options": [
+        "Delhi",
+        "CAS",
+        "Open",
+        "News"
+      ]
+    },
+    {
+      "blanked": "Air Pollution Linked to Rise in RA ______ Disease Activity",
+      "answer": "Flares",
+      "options": [
+        "2026",
+        "SoC",
+        "Flares",
+        "Rodri"
+      ]
+    },
+    {
+      "blanked": "Six die at temple in India's ______ after 'stampede-like' event, officials say",
+      "answer": "Bihar",
+      "options": [
+        "Bihar",
+        "Test",
+        "Thakur",
+        "Most"
+      ]
+    },
+    {
+      "blanked": "Nitin Nabin to unveil new BJP team today: Anurag ______ and Smriti Irani may return",
+      "answer": "Thakur",
+      "options": [
+        "1994",
+        "Thakur",
+        "Authoritys",
+        "Gandhi"
+      ]
+    },
+    {
+      "blanked": "Sebi chief Tuhin Kanta ______ says CAS here to stay, will study concerns over rollout",
+      "answer": "Pandey",
+      "options": [
+        "2026",
+        "BJP",
+        "Pandey",
+        "Galle"
+      ]
+    },
+    {
+      "blanked": "'Go Meet ______ Protesters': Rahul Gandhi's Letter To Ally Hemant Soren",
+      "answer": "Jharkhand",
+      "options": [
+        "Jharkhand",
+        "Drug",
         "Gandhi",
-        "Super",
-        "Dies",
-        "Raj"
+        "Daily"
       ]
     },
     {
-      "blanked": "How PM Modi has changed focus of Independence ______ speeches",
+      "blanked": "IND vs SL LIVE Score, 1st Test ______ 3: Sri Lanka rebuild in Galle after Manav Suthar, Kuldeep Yadav dominate",
       "answer": "Day",
       "options": [
+        "Arabia",
         "Day",
-        "Most",
-        "Negative",
-        "World"
+        "De-labels",
+        "Days"
       ]
     },
     {
-      "blanked": "West Asia war LIVE: Trump welcomes defence pact between Saudi Arabia, Turkey and ______",
-      "answer": "Pakistan",
+      "blanked": "2 More Air India Pilots Fail To ______ 1st Drug Test After Phuket Flight Fiasco",
+      "answer": "Clear",
       "options": [
-        "Cues",
-        "Box",
-        "Pakistan",
-        "Rahul"
+        "Poonawalla",
+        "Clear",
+        "Sitharaman",
+        "Nirmala"
       ]
     },
     {
-      "blanked": "Rocket Lab-built satellites deployed for ______ constellation replenishment",
-      "answer": "Globalstar",
+      "blanked": "'Look What ______ Testing Agency Did': Rahul Gandhi Jabs PM On UGC-NET Retests",
+      "answer": "Your",
       "options": [
-        "EXCELLENT",
-        "Saudi",
-        "2026",
-        "Globalstar"
-      ]
-    },
-    {
-      "blanked": "US-Iran MoU ends: ______ happens next?",
-      "answer": "What",
-      "options": [
-        "Allahabad",
-        "What",
+        "Did",
         "Your",
-        "Cricket"
+        "Open",
+        "Hashmi"
       ]
     },
     {
-      "blanked": "BREAKING| Supreme Court Halts Allahabad HC Proceedings Against Rahul Gandhi In Plea Seeking CBI/ED ______",
-      "answer": "Probe",
+      "blanked": "Fake Iran nuclear post: ______ a fabricated X claim by Indian account created panic in Israel, US",
+      "answer": "How",
       "options": [
-        "Boost",
-        "Day",
-        "Probe",
-        "Halts"
-      ]
-    },
-    {
-      "blanked": "Stock Market LIVE Updates, Sensex Today: Sensex Drops 500 Points Amid Negative Global ______",
-      "answer": "Cues",
-      "options": [
-        "Air",
-        "Cues",
-        "Proceedings",
-        "Clear"
-      ]
-    },
-    {
-      "blanked": "Ravi Kishan recreates his viral dance step with the paparazzi; ______ Munna Bhaiya and Guddu Pandit j",
-      "answer": "Mirzapurs",
-      "options": [
-        "Students",
-        "Updates",
-        "Confirmed",
-        "Mirzapurs"
-      ]
-    },
-    {
-      "blanked": "Seifert blasts Manchester Super Giants to maiden ______ title",
-      "answer": "Hundred",
-      "options": [
-        "Confirmed",
-        "Nirmala",
-        "Hundred",
-        "Antibiotic"
-      ]
-    },
-    {
-      "blanked": "BGMI Lite Finally Confirmed, Low-End ______ Players Can Now Celebrate",
-      "answer": "Android",
-      "options": [
-        "Pakistan",
-        "Android",
-        "Ananya",
-        "What"
-      ]
-    },
-    {
-      "blanked": "Poco M8x to be powered by Snapdragon 4 Gen 5 ______ key specs and pricing tipped - GSMArena.com news",
-      "answer": "SoC",
-      "options": [
-        "Lab-built",
-        "Fall",
-        "Cricket",
-        "SoC"
+        "Saudi",
+        "How",
+        "Lingers",
+        "Air"
       ]
     }
   ]
