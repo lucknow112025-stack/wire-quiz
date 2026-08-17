@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-17T15:53:56.892Z",
+  "generatedAt": "2026-08-17T18:02:02.520Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
+    "Hemant Sorent announces JSSC-CGL exam cancellation; students to continue protest till CBI probe demand is met",
     "BJP reshuffle: Ram Madhav, Smriti Irani, Biplab Deb in new national team; Piyush Goyal named treasurer",
-    "‘Will bomb the s*** out of Oman’: Trump's latest threat over Strait of Hormuz blockade row | World News",
+    "\"US Will Bomb The S*** Out Of Oman If It Gets In Way\": Trump's Hormuz Warning",
     "Supreme Court Asks Karnataka To Comply With Cauvery Authority's Directions On Water Release To Tamil Nadu",
-    "'Go Meet Jharkhand Protesters': Rahul Gandhi's Letter To Ally Hemant Soren",
-    "Iran says it will escalate if US does not honour deal within weeks",
     "CEO Releases Telangana Electoral Roll, Check Here",
+    "2 More Air India Pilots Fail To Clear 1st Drug Test After Phuket Flight Fiasco",
     "Satirical ‘Dimagi Naxal Party’ blows up on Instagram with over 200,000 followers after PM Modi’s remark",
-    "7 Pilgrims Killed In Fire At Hotel Near Tarapith Temple In Bengal's Birbhum",
+    "Will ‘Cockroach Jagan’ Accept Lokesh’s Challenge?",
     "\"State Road Caved, But I Was Blamed\": Nitin Gadkari On 'Missing Link' Project",
-    "ISI-backed Shahzad Bhatti group destroyed before Independence Day, terror plot foiled: Centre | India News",
+    "Leopard skins seized, top Delhi wildlife NGO accused of nexus with poachers",
     "Trump Cites 'Good Ties' With Kim Jong Un In Scaling Back South Korea Drills",
-    "US backs 'Islamic Nato': Trump calls Saudi-Turkey-Pakistan pact 'big, bold and important step'",
+    "Why Kushner met Hamas leaders, and what it means for Trump’s Gaza roadmap",
+    "Iran threatens to go on offensive in Strait of Hormuz if diplomacy with US fails",
     "America is 'getting ready' to send letter to dozens of countries telling them: You can go with us or Chin",
-    "Lakshmi Mittal’s Ukraine steel plant hit by Russian missile; blast furnace, power units damaged",
-    "India's Chief Economic Adviser Calls for Return of E10 Petrol",
-    "Government to soon announce high-level panel on ‘Banking for Viksit Bharat’",
-    "Options trading cannot drive market policy, says SEBI chief; SLBM revamp coming soon",
-    "Rupee falls 17 paise to 95.59 against US dollar as FCNR swap deadline weighs down sentiment",
-    "DDR5 prices get dafter",
+    "Govt clears 31 electronics component applications worth Rs 7,877 crore under ECMS 2.0",
+    "Stocks to Watch for August 18: Paytm, Netweb Tech, Wipro, Syrma SGS and more",
+    "Reliance Jio Relaunches Jio Prime for Rs 300 to Protect Against Future Tariff Hike",
+    "Bets on imminent Fed rate hike fade; retail earnings ahead - what’s moving markets",
+    "Apple’s Fitness+ service may be getting a live upgrade",
     "ChatGPT's Google Drive Plugin Now Lets You Edit, Save Files Directly from Chat",
     "5 of the best GPS watches for hiking and outdoor expeditions, tested by me — a professional hiker and adventure writer",
-    "CERT-In warns Chrome users of critical flaws that risk remote attacks - business-standard.com",
+    "As iPhone 18 series launch nears, one of Tesla’s biggest investor Ross Gerber says that ‘now is a good ti",
     "Awarapan 2 Box Office Collections: Emraan Hashmi film has an EXCELLENT first weekend of Rs. 82 Cr in India",
-    "Scream 4 Actor Hayden Panettiere Dies Days Before 37th Birthday",
-    "Deepak Mukuts Emraan Hashmi, Genelia Deshmukh and Aparshakti Khurana starrer Gunmaaster G9 to release on November 27, 2026"
+    "Hayden Panettiere passes away at 36: Initial investigation finds no signs of foul play or suspicious circ",
+    "‘Jana Nayagan’ OTT: Find out when and where to watch Vijay Thalapathy’s final film online"
   ],
   "quiz": [
     {
-      "blanked": "IIT ______ researchers have found why the ocean’s rare bacteria can’t be ignored",
-      "answer": "Madras",
+      "blanked": "Trump Cites 'Good Ties' With Kim Jong Un In ______ Back South Korea Drills",
+      "answer": "Scaling",
       "options": [
-        "Vijay",
-        "FCNR",
-        "World",
-        "Madras"
+        "Scaling",
+        "Against",
+        "Cships",
+        "ASCVD"
       ]
     },
     {
-      "blanked": "BJP reshuffle: Ram ______ Smriti Irani, Biplab Deb in new national team; Piyush Goyal named treasurer",
-      "answer": "Madhav",
+      "blanked": "IND vs SL 1st Test: Suthar, Jadeja spin India into commanding 178-run lead over Sri Lanka in ______",
+      "answer": "Galle",
       "options": [
-        "November",
-        "Hormuz",
-        "Birthday",
-        "Madhav"
+        "Nadu",
+        "Test",
+        "Hamas",
+        "Galle"
       ]
     },
     {
-      "blanked": "Government to soon announce high-level panel on ‘Banking for ______ Bharat’",
-      "answer": "Viksit",
+      "blanked": "NASA astronauts are gearing up for a high-risk spacewalk outside the ______ into the void",
+      "answer": "ISS",
       "options": [
-        "Shahzad",
-        "Cites",
-        "Viksit",
-        "Tarapith"
+        "Australia",
+        "ISS",
+        "Drive",
+        "Hockey"
       ]
     },
     {
-      "blanked": "5 of the best ______ watches for hiking and outdoor expeditions, tested by me — a professional hiker and adventure writer",
-      "answer": "GPS",
+      "blanked": "Awarapan 2 Box Office Collections: Emraan Hashmi film has an EXCELLENT first weekend of Rs. 82 Cr in ______",
+      "answer": "India",
+      "options": [
+        "Fail",
+        "Flight",
+        "India",
+        "World"
+      ]
+    },
+    {
+      "blanked": "Add-On ______ May Reduce MACE Risk in People With T2D, ASCVD",
+      "answer": "Tirzepatide",
+      "options": [
+        "Tirzepatide",
+        "Chat",
+        "Bomb",
+        "Hike"
+      ]
+    },
+    {
+      "blanked": "Hayden Panettiere passes away at 36: ______ investigation finds no signs of foul play or suspicious circ",
+      "answer": "Initial",
+      "options": [
+        "Initial",
+        "Relaunches",
+        "Hockey",
+        "Congos"
+      ]
+    },
+    {
+      "blanked": "FIH ______ Hockey World Cup Points Table — LIVE updated standings",
+      "answer": "Mens",
+      "options": [
+        "Box",
+        "Mens",
+        "Goyal",
+        "Lets"
+      ]
+    },
+    {
+      "blanked": "Leopard skins seized, top Delhi wildlife ______ accused of nexus with poachers",
+      "answer": "NGO",
+      "options": [
+        "NGO",
+        "Trumps",
+        "Galle",
+        "Gaza"
+      ]
+    },
+    {
+      "blanked": "\"US Will Bomb The S*** Out Of Oman If It ______ In Way\": Trump's Hormuz Warning",
+      "answer": "Gets",
+      "options": [
+        "Jadeja",
+        "Gets",
+        "Directly",
+        "Fiasco"
+      ]
+    },
+    {
+      "blanked": "‘Jana Nayagan’ OTT: ______ out when and where to watch Vijay Thalapathy’s final film online",
+      "answer": "Find",
+      "options": [
+        "Pilots",
+        "Find",
+        "Goyal",
+        "Save"
+      ]
+    },
+    {
+      "blanked": "BJP reshuffle: Ram Madhav, Smriti Irani, Biplab ______ in new national team; Piyush Goyal named treasurer",
+      "answer": "Deb",
       "options": [
         "Deb",
-        "Protesters",
-        "Missing",
-        "GPS"
+        "Paytm",
+        "LIVE",
+        "Irani"
       ]
     },
     {
-      "blanked": "Trump ______ 'Good Ties' With Kim Jong Un In Scaling Back South Korea Drills",
-      "answer": "Cites",
+      "blanked": "CEO Releases Telangana Electoral ______ Check Here",
+      "answer": "Roll",
       "options": [
-        "Water",
-        "Cites",
-        "Gunmaaster",
-        "Barca"
-      ]
-    },
-    {
-      "blanked": "'Go Meet Jharkhand Protesters': Rahul Gandhi's ______ To Ally Hemant Soren",
-      "answer": "Letter",
-      "options": [
-        "Aparshakti",
-        "Hemant",
-        "Gandhis",
-        "Letter"
-      ]
-    },
-    {
-      "blanked": "Lunar waste crisis: ______ Moon avoid becoming a dumping ground for space missions?",
-      "answer": "Can",
-      "options": [
-        "Can",
-        "Suthar",
-        "Releases",
-        "Smriti"
-      ]
-    },
-    {
-      "blanked": "When ______ refused to let fear take over in Australia Darwin 1st Test match feature",
-      "answer": "Bangladesh",
-      "options": [
-        "Complications",
-        "Releases",
-        "Files",
-        "Bangladesh"
-      ]
-    },
-    {
-      "blanked": "\"State Road Caved, But I Was ______ Nitin Gadkari On 'Missing Link' Project",
-      "answer": "Blamed",
-      "options": [
-        "Blamed",
-        "Russian",
-        "Centre",
-        "Project"
-      ]
-    },
-    {
-      "blanked": "US backs 'Islamic Nato': ______ calls Saudi-Turkey-Pakistan pact 'big, bold and important step'",
-      "answer": "Trump",
-      "options": [
-        "Electoral",
-        "Trump",
-        "2026",
-        "Panettiere"
-      ]
-    },
-    {
-      "blanked": "Deepak Mukuts Emraan Hashmi, Genelia Deshmukh and Aparshakti Khurana starrer Gunmaaster G9 to release on November 27, ______",
-      "answer": "2026",
-      "options": [
-        "Goyal",
-        "Comply",
-        "Hockey",
-        "2026"
-      ]
-    },
-    {
-      "blanked": "Options trading cannot drive market policy, says SEBI chief; ______ revamp coming soon",
-      "answer": "SLBM",
-      "options": [
-        "SLBM",
-        "Chrome",
-        "Water",
-        "Russian"
+        "7877",
+        "Way",
+        "Roll",
+        "Syrma"
       ]
     }
   ]
