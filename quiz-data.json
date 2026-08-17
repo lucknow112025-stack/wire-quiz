@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-17T03:29:31.627Z",
+  "generatedAt": "2026-08-17T05:22:55.467Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "JPSC-JSSC aspirants burn effigies of Soren, Rahul Gandhi, Tejashwi over exam row, threaten CM house siege",
-    "6 Killed, Many Injured In Stampede At Temple In Bihar's Lakhisarai",
-    "BCI Chairperson Manan Kumar Mishra Apologises To Law Students Amid NALSAR Row",
-    "NTA to re-conduct UGC-NET exams for English, Sociology, Commerce after complaints",
-    "Population count for Census 2027 begins today; 40 questions include caste query for first time since Independence | India News",
+    "Shehzad Poonawalla 'presses' BJP to accept resignation after first letter rejected | India News",
+    "Crowd swell, broken barricades, live wire rumour: What led to Bihar temple stampede | India News",
+    "After Jharkhand protesters burn Soren, Rahul effigies, State Government calls for fourth round of talks",
+    "‘Big, Bold, Important First Step’: Trump Welcomes Saudi-Türkiye-Pakistan Defence Pact",
     "5,000 special guests witness I-Day celebrations at Red Fort: ‘A dream come true’ | Latest News Delhi",
+    "NTA to re-conduct UGC-NET exams for English, Sociology, Commerce after complaints",
+    "Bangladesh sets extradition of Hasina, Hadi’s killers as conditions for Tarique Rahman’s India visit",
     "India opens tax amnesty scheme for small taxpayers with undisclosed foreign assets",
-    "Day after PM Modi warns of ‘new enemy’, Rijiju offers 4-point definition of ‘dimagi naxal’",
-    "Navy sailor, three family members found dead in Mumbai’s Colaba quarters; probe on",
-    "IPS Officer's Mother Found Murdered In UP Home, Jewellery Looted",
+    "Low-pressure area forms over Bay of Bengal; IMD predicts heavy rainfall in Odisha",
+    "600 Students Leave \"Haunted\" Maharashtra Hostel, Claim Some Girls Are \"Possessed\"",
     "Trump orders Pentagon to scale back joint exercises with South Korea",
-    "Lakshmi Mittal's Ukraine Factory In Volodymyr Zelensky's Hometown Hit By Russian Missile",
+    "Russia Hits Indian Billionaire's Factory In Ukraine As War Spills In Europe",
+    "US Immigration authority to H1-B visa holders, students and other visa holders: These forms will be rejec",
     "Kushner has rare meeting with Hamas chief on Gaza road map; to meet Netanyahu next",
-    "Zimbabwe Ferry Accident: Death Count Rises To 68 As 22 More Bodies Recovered",
-    "Chandrasekaran’s exit puts Tata’s Air India bet under fresh scrutiny",
-    "India sets targets for oil companies to boost cooking gas output amid Middle East war",
     "NIFTY50 this week: Crude oil prices, US Fed minutes, FIIs activity among key market triggers to watch",
-    "Rs 6,400-crore IPO rush: 7 companies set to tap primary market next week",
+    "Before Chandrasekaran's exit, he and Noel Tata separately briefed govt on rift, concerns",
+    "India built the world's biggest digital payments miracle. Now comes the bill",
+    "Asian Stock Markets Today: Nikkei Rises Despite Japan GDP Growth Miss",
     "Apple iPhone 18 Pro Release Date: Discounted Day Re-Enters The September Schedule",
     "Not 5G or AI, this is what's forcing Indians to buy new phones early",
+    "Krafton India to launch BGMI Lite by the end of 2026: What we know",
     "Pixel 11 series, Honor Robot Phone, Redmi 17 official, Week 33 in review - GSMArena.com news",
-    "Samsung's Galaxy Z Fold 8 rocks for video — except for one problem you can't un-hear",
     "'Awarapan 2' box office collection day 3: The Emraan Hashmi film races ahead of 'Batwara 1947', inches to",
-    "‘Spider-Man: Brand New Day’ Enters Rare Air With $2 Billion At Box Office",
-    "Actor Ananya Raj dies at 35 after battling health issues for over a year, family confirms: ‘Fought like a warrior’ | Bollywood"
+    "Hayden Panettiere, Star of ‘Heroes’ and ‘Nashville, Dies at 36",
+    "Ghost actor Ananya Raj dies at 35, family confirms news: ‘Fought like a warrior’"
   ],
   "quiz": [
     {
-      "blanked": "India sets targets for oil companies to boost cooking gas output amid Middle ______ war",
-      "answer": "East",
+      "blanked": "Before ______ exit, he and Noel Tata separately briefed govt on rift, concerns",
+      "answer": "Chandrasekarans",
       "options": [
-        "UGC-NET",
-        "South",
-        "East",
-        "How"
+        "Immigration",
+        "Chandrasekarans",
+        "Billionaires",
+        "Welcomes"
       ]
     },
     {
-      "blanked": "Navy sailor, three family members found dead in ______ Colaba quarters; probe on",
-      "answer": "Mumbais",
+      "blanked": "Kushner has rare meeting with ______ chief on Gaza road map; to meet Netanyahu next",
+      "answer": "Hamas",
       "options": [
-        "Looted",
-        "Many",
-        "Ananya",
-        "Mumbais"
+        "Bad",
+        "Explains",
+        "Hamas",
+        "Test"
       ]
     },
     {
-      "blanked": "Direct Antibiotic ______ Testing De-labels Most Children",
-      "answer": "Allergy",
+      "blanked": "Black hole star: ______ discover a brand-new type of astrophysical object",
+      "answer": "Astronomers",
+      "options": [
+        "Week",
+        "Astronomers",
+        "Tarique",
+        "Cheteshwar"
+      ]
+    },
+    {
+      "blanked": "Is Intermittent Fasting Bad For Women? Nutritionist Explains How Long Fasting May ______ Hormones",
+      "answer": "Affect",
+      "options": [
+        "Saudi-Trkiye-Pakistan",
+        "Commerce",
+        "Affect",
+        "Week"
+      ]
+    },
+    {
+      "blanked": "Your kidneys do more than filter waste: ______ how they help control blood sugar",
+      "answer": "Heres",
+      "options": [
+        "Allergy",
+        "Heres",
+        "Fort",
+        "Fasting"
+      ]
+    },
+    {
+      "blanked": "Shehzad Poonawalla 'presses' BJP to accept resignation after first letter rejected | ______ News",
+      "answer": "India",
+      "options": [
+        "India",
+        "Children",
+        "Miss",
+        "Netanyahu"
+      ]
+    },
+    {
+      "blanked": "Pixel 11 series, Honor Robot ______ Redmi 17 official, Week 33 in review - GSMArena.com news",
+      "answer": "Phone",
       "options": [
         "Phone",
+        "Bay",
+        "Girls",
+        "Maharashtra"
+      ]
+    },
+    {
+      "blanked": "5,000 special guests witness I-Day celebrations at Red Fort: ‘A dream come true’ | Latest ______ Delhi",
+      "answer": "News",
+      "options": [
+        "News",
         "Allergy",
-        "Ukraine",
-        "Most"
+        "Today",
+        "May"
       ]
     },
     {
-      "blanked": "FDA notice to Shah Rukh, Ajay Devgn and Tiger Shroff over ______ Elaichi ad",
-      "answer": "Vimal",
+      "blanked": "India built the world's biggest digital payments miracle. ______ comes the bill",
+      "answer": "Now",
       "options": [
-        "Mumbais",
-        "Vimal",
-        "Super",
-        "Discounted"
+        "Factory",
+        "Possessed",
+        "Arsenal",
+        "Now"
       ]
     },
     {
-      "blanked": "'Awarapan 2' box office collection day 3: The Emraan ______ film races ahead of 'Batwara 1947', inches to",
-      "answer": "Hashmi",
+      "blanked": "Hayden ______ Star of ‘Heroes’ and ‘Nashville, Dies at 36",
+      "answer": "Panettiere",
       "options": [
-        "Indians",
-        "Raj",
-        "Hashmi",
-        "Mass"
+        "Fasting",
+        "India",
+        "Man",
+        "Panettiere"
       ]
     },
     {
-      "blanked": "NTA to re-conduct UGC-NET exams for English, ______ Commerce after complaints",
-      "answer": "Sociology",
-      "options": [
-        "2027",
-        "Mens",
-        "Hundred",
-        "Sociology"
-      ]
-    },
-    {
-      "blanked": "Zimbabwe Ferry Accident: Death Count Rises To 68 As 22 ______ Bodies Recovered",
-      "answer": "More",
+      "blanked": "NTA to re-conduct UGC-NET exams for ______ Sociology, Commerce after complaints",
+      "answer": "English",
       "options": [
         "Fort",
-        "More",
-        "Astronomers",
-        "Affect"
+        "Hashmi",
+        "English",
+        "Giants"
       ]
     },
     {
-      "blanked": "6 Killed, Many Injured In Stampede At ______ In Bihar's Lakhisarai",
-      "answer": "Temple",
+      "blanked": "Russia Hits ______ Billionaire's Factory In Ukraine As War Spills In Europe",
+      "answer": "Indian",
       "options": [
-        "Temple",
+        "State",
         "Soren",
-        "167",
-        "Many"
-      ]
-    },
-    {
-      "blanked": "Samsung's Galaxy Z ______ 8 rocks for video — except for one problem you can't un-hear",
-      "answer": "Fold",
-      "options": [
-        "Dravid",
-        "Fold",
-        "Indians",
-        "Tejashwi"
-      ]
-    },
-    {
-      "blanked": "NIFTY50 this week: Crude oil prices, US ______ minutes, FIIs activity among key market triggers to watch",
-      "answer": "Fed",
-      "options": [
-        "Successful",
-        "Fed",
-        "Most",
-        "Injured"
-      ]
-    },
-    {
-      "blanked": "Population count for Census ______ begins today; 40 questions include caste query for first time since Independence | India News",
-      "answer": "2027",
-      "options": [
-        "Billion",
-        "2027",
-        "Affect",
-        "Batwara"
-      ]
-    },
-    {
-      "blanked": "Devdutt Padikkal falls for ______ joins Rahul Dravid and Cheteshwar Pujara in Sri Lanka record list",
-      "answer": "167",
-      "options": [
-        "Fold",
-        "Nutritionist",
-        "167",
-        "Bollywood"
+        "Indian",
+        "Pujara"
       ]
     }
   ]
