@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-17T11:57:30.318Z",
+  "generatedAt": "2026-08-17T13:56:32.554Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "Smriti Irani's Big Comeback As BJP 3.0 Gets Massive Women Representation",
-    "'Go Meet Jharkhand Protesters': Rahul Gandhi's Letter To Ally Hemant Soren",
-    "Rahul Gandhi Disproportionate assets case: SC halts proceedings against Congress leader",
+    "BJP reshuffle: Ram Madhav, Smriti Irani, Biplab Deb in new national team; Piyush Goyal named treasurer",
+    "‘Will bomb the s*** out of Oman’: Trump's latest threat over Strait of Hormuz blockade row | World News",
     "Supreme Court Asks Karnataka To Comply With Cauvery Authority's Directions On Water Release To Tamil Nadu",
+    "'Go Meet Jharkhand Protesters': Rahul Gandhi's Letter To Ally Hemant Soren",
+    "How PM Modi has changed focus of Independence Day speeches",
     "Shehzad Poonawalla resigns from BJP ending speculation, says ‘certain individuals’ forced decision",
-    "2 More Air India Pilots Fail To Clear 1st Drug Test After Phuket Flight Fiasco",
-    "CJI Surya Kant declines NALSAR convocation invite amid student row, BCI controversy",
-    "Seven killed, several injured in hotel fire in West Bengal’s Tarapith",
-    "'Modi ji, look at what your NTA has done': Rahul Gandhi after fresh NET ordered for 3 subjects",
-    "India news Live Updates, 17 August 2026 | ‘Proud to be a dimagi Naxal’: Kejriwal hits back at Modi’s remark",
+    "Satirical ‘Dimagi Naxal Party’ blows up on Instagram with over 200,000 followers after PM Modi’s remark",
+    "'Look What Your Testing Agency Did': Rahul Gandhi Jabs PM On UGC-NET Retests",
+    "2 more Air India pilots fail to clear dope test after Phuket-Delhi flight scare; taken off duty",
+    "Bengal hotel fire: 7 pilgrims charred to death in Birbhum, several critically injured",
+    "Has Mecca pact deepened UAE-Saudi fault line along India-Israel axis?",
     "Kushner has rare meeting with Hamas chief on Gaza road map; to meet Netanyahu next",
-    "US Deports Indian 'Alien' Over \"Sexually Motivated Coercion\" Conviction",
-    "US-Iran MoU ends: What happens next?",
-    "US backs 'Islamic Nato': Trump calls Saudi-Turkey-Pakistan pact 'big, bold and important step'",
-    "Indian shares fall as crude remains at elevated levels",
+    "‘Very good’ ties with Kim: Trump orders 'substantial' cut in military drills with South Korea",
+    "Why the USS Lincoln hasn’t left the Arabian Sea even after 260 days, ‘moldy showers, no soap or toothpaste’",
     "High-powered committee on banking to be announced soon, says Nirmala Sitharaman",
-    "India Readies Big LPG Output Boost as Hormuz Uncertainty Lingers",
-    "BSE Share Price Falls As Jefferies Downgrades Stock, Cuts Target Price — Check Potential Upside",
+    "India's Chief Economic Adviser Calls for Return of E10 Petrol",
+    "Before Chandrasekaran's exit, he and Noel Tata separately briefed govt on rift, concerns",
+    "Kaynes, Wipro Plants To Go Live Soon As MeitY Clears Rs 7,877 Crore ECMS Tranche",
+    "5 of the best GPS watches for hiking and outdoor expeditions, tested by me — a professional hiker and adventure writer",
+    "Here’s how much you have to pay for an import of the Honor Robot Phone",
     "CERT-In warns Chrome users of critical flaws that risk remote attacks",
-    "As iPhone 18 series launch nears, one of Tesla’s biggest investor Ross Gerber says that ‘now is a good ti",
-    "OnePlus Nord 6 5G, Nord N6 Lineup Gets Price Hike in India",
-    "Poco M8x to be powered by Snapdragon 4 Gen 5 SoC, key specs and pricing tipped - GSMArena.com news",
-    "Awarapan 2 Box Office Collections: Emraan Hashmi film has an EXCELLENT first weekend of Rs. 82 Cr in India",
-    "Scream 4 Actor Hayden Panettiere Dies Days Before 37th Birthday",
+    "OnePlus Price Hike In India: N6, N6x And Nord 6 Series Get Costlier",
+    "Awarapan 2 Box Office Collection Day 3 Updates: Emraan Hashmi film earns Rs 120 cr; struggles on Monday",
+    "Vishwanath & Sons Box Office Collections: Suriya starrer has a good first weekend grossing Rs. 105 Cr worldwide",
     "Deepak Mukuts Emraan Hashmi, Genelia Deshmukh and Aparshakti Khurana starrer Gunmaaster G9 to release on November 27, 2026"
   ],
   "quiz": [
     {
-      "blanked": "US-Iran MoU ends: ______ happens next?",
-      "answer": "What",
+      "blanked": "Physicians Explain Why ______ Aren’t the Answer To Every Monsoon Fever",
+      "answer": "Antibiotics",
       "options": [
-        "What",
-        "Lineup",
-        "Motivated",
-        "Jharkhand"
+        "Removes",
+        "Tranche",
+        "Antibiotics",
+        "Return"
       ]
     },
     {
-      "blanked": "Fortis ______ Faridabad Removes Over 4,000 Gallstones From Obese Patient",
-      "answer": "Escorts",
-      "options": [
-        "Africa",
-        "Escorts",
-        "Birthday",
-        "Ananya"
-      ]
-    },
-    {
-      "blanked": "US backs 'Islamic Nato': ______ calls Saudi-Turkey-Pakistan pact 'big, bold and important step'",
+      "blanked": "‘Very good’ ties with Kim: ______ orders 'substantial' cut in military drills with South Korea",
       "answer": "Trump",
       "options": [
+        "Arabian",
         "Trump",
-        "Gaza",
-        "Poonawalla",
-        "Hayden"
+        "4000",
+        "GPS"
       ]
     },
     {
-      "blanked": "Awarapan 2 Box ______ Collections: Emraan Hashmi film has an EXCELLENT first weekend of Rs. 82 Cr in India",
-      "answer": "Office",
+      "blanked": "Here’s how much you have to pay for an import of the ______ Robot Phone",
+      "answer": "Honor",
       "options": [
-        "Office",
-        "Representation",
-        "Gandhis",
-        "Jefferies"
+        "Collections",
+        "Removes",
+        "Honor",
+        "Collection"
       ]
     },
     {
-      "blanked": "Lunar waste crisis: ______ Moon avoid becoming a dumping ground for space missions?",
-      "answer": "Can",
+      "blanked": "'Go Meet Jharkhand Protesters': Rahul ______ Letter To Ally Hemant Soren",
+      "answer": "Gandhis",
       "options": [
-        "Coercion",
-        "Rahul",
-        "Lingers",
-        "Can"
+        "Arent",
+        "Strait",
+        "Agency",
+        "Gandhis"
       ]
     },
     {
-      "blanked": "Smriti Irani's ______ Comeback As BJP 3.0 Gets Massive Women Representation",
-      "answer": "Big",
+      "blanked": "Supreme ______ Asks Karnataka To Comply With Cauvery Authority's Directions On Water Release To Tamil Nadu",
+      "answer": "Court",
       "options": [
-        "Patient",
-        "Target",
-        "Alien",
-        "Big"
+        "Court",
+        "India-Israel",
+        "Birbhum",
+        "Netanyahu"
       ]
     },
     {
-      "blanked": "ESA's Sophie ______ to become first French woman to perform spacewalk on August 18: Livestream details",
-      "answer": "Adenot",
+      "blanked": "2 more ______ India pilots fail to clear dope test after Phuket-Delhi flight scare; taken off duty",
+      "answer": "Air",
+      "options": [
+        "Antibiotics",
+        "Bangladeshs",
+        "Dimagi",
+        "Air"
+      ]
+    },
+    {
+      "blanked": "Lunar Waste Crisis: Is the Moon becoming a \"dumping ground\" for spacecraft? ______ are...",
+      "answer": "Scientists",
       "options": [
         "Chrome",
-        "Adenot",
-        "Lineup",
-        "Protesters"
+        "November",
+        "Scientists",
+        "South"
       ]
     },
     {
-      "blanked": "Manchester ______ Giants lift maiden Men's Hundred title",
-      "answer": "Super",
+      "blanked": "Deepak Mukuts Emraan Hashmi, Genelia Deshmukh and Aparshakti ______ starrer Gunmaaster G9 to release on November 27, 2026",
+      "answer": "Khurana",
       "options": [
-        "NALSAR",
-        "Days",
-        "Super",
-        "Hashmi"
+        "Petrol",
+        "Khurana",
+        "Obese",
+        "Nirmala"
       ]
     },
     {
-      "blanked": "Physicians Explain Why Antibiotics Aren’t the Answer To ______ Monsoon Fever",
-      "answer": "Every",
+      "blanked": "Kushner has rare meeting with Hamas chief on Gaza road map; to meet ______ next",
+      "answer": "Netanyahu",
       "options": [
-        "Padikkal",
-        "Every",
-        "4000",
-        "Islamic"
+        "Jadeja",
+        "Arabian",
+        "Netanyahu",
+        "Ghost"
       ]
     },
     {
-      "blanked": "India Readies ______ LPG Output Boost as Hormuz Uncertainty Lingers",
-      "answer": "Big",
+      "blanked": "Suthar, Jadeja share seven to hand India 178-run lead despite ______ 100",
+      "answer": "Dinusha",
       "options": [
-        "Surya",
-        "Big",
-        "Patient",
-        "Proud"
+        "Dinusha",
+        "Raj",
+        "Phone",
+        "Asks"
       ]
     },
     {
       "blanked": "CERT-In warns ______ users of critical flaws that risk remote attacks",
       "answer": "Chrome",
       "options": [
-        "LPG",
+        "Deshmukh",
         "Chrome",
-        "Hayden",
-        "Collections"
+        "Nations",
+        "Nadu"
       ]
     },
     {
-      "blanked": "Seven killed, several injured in hotel fire in ______ Bengal’s Tarapith",
-      "answer": "West",
+      "blanked": "Has ______ pact deepened UAE-Saudi fault line along India-Israel axis?",
+      "answer": "Mecca",
       "options": [
-        "Cup",
-        "Price",
-        "West",
-        "Hormuz"
+        "Emraan",
+        "Mecca",
+        "Gallstones",
+        "100"
       ]
     }
   ]
