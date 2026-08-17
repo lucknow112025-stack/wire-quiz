@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-17T22:53:22.211Z",
+  "generatedAt": "2026-08-17T23:48:44.519Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
     "Hemant Sorent announces JSSC-CGL exam cancellation; students to continue protest till CBI probe demand is met",
     "\"US Will Bomb The S*** Out Of Oman If It Gets In Way\": Trump's Hormuz Warning",
-    "Why BJP has replaced Amit Malviya as party’s IT cell chief",
     "India says it thwarted attacks by Pakistan-backed militants, arrested over 200 operatives",
-    "Trump hails Mecca pact: Can it replace the region’s US security umbrella?",
+    "Why BJP has replaced Amit Malviya as party’s IT cell chief",
     "Telangana SIR | Draft rolls-2026 published",
+    "Satirical ‘Dimagi Naxal Party’ blows up on Instagram with over 200,000 followers after PM Modi’s remark",
     "Jharkhand Student Leader Devendra Nath Mahto Ends Hunger Strike",
     "'Let me die in peace right now': Chargesheet reveals Twisha Sharma's chilling final message before death",
     "'Black Money In Elections Corrupts Democracy': Supreme Court Issues Directions To Curb Use Of Unaccounted ...",
-    "Skymet Downgrades Monsoon 2026 Forecast to Drought ( -15% of LPA)",
-    "Trump Cites 'Good Ties' With Kim Jong Un In Scaling Back South Korea Drills",
-    "Kushner's talks with Israel, Hamas end without breakthrough on Trump Gaza plan",
+    "Monsoon to begin its exit: Rain deficit at 13%, hopes to shrink the gap fading",
+    "Iran says it will escalate if US does not honour deal within weeks",
+    "South Korea hopes for talks between U.S. and North Korea after Trump downsizes military drills",
     "Why the USS Lincoln hasn’t left the Arabian Sea even after 260 days, ‘moldy showers, no soap or toothpaste’",
     "Ukraine launches its biggest attack of 2026, Russia strikes Zelenskyy's hometown",
-    "Kaynes, Micromax Arm, Wipro Plants To Go Live Soon As Govt Clears Rs 7,877 Cr ECMS Tranche",
+    "Govt clears 31 electronics component applications worth Rs 7,877 crore under ECMS 2.0",
     "Stocks to Watch for August 18: Paytm, Netweb Tech, Wipro, Syrma SGS and more",
-    "Indian shares fall as crude remains at elevated levels",
-    "Noel Tata meets PMO, Home Ministry officials as Tata Sons prepares for leadership transition: Report",
+    "Stock Market Highlights, Sensex Today: Sensex Settles 280 Points Lower Amid Negative Global Cues",
+    "India's Chief Economic Adviser Calls for Return of E10 Petrol",
     "The Firefox browser for iOS now features a built-in ad blocker",
     "Apple iPhone 18 Pro Release Date: Discounted Day Re-Enters The September Schedule",
     "As iPhone 18 series launch nears, one of Tesla’s biggest investor Ross Gerber says that ‘now is a good ti",
     "Pixel 11 Pro XL vs. iPhone 17 Pro Max: I Compared Google and Apple’s Flagship Phones",
-    "Hayden Panettiere passes away at 36: Initial investigation finds no signs of foul play or suspicious circ",
-    "Awarapan 2 Box Office Collections: Emraan Hashmi film has an EXCELLENT first weekend of Rs. 82 Cr in India",
-    "‘Zindagi Na Milegi Dobara 2’: Zoya Akhtar confirms sequel to Hrithik Roshan, Farhan Akhtar and Abhay Deol"
+    "Hayden Panettiere passes away: Connie Britton, Viola Davis, Selma Blair and other Hollywood stars pay tri",
+    "‘Zindagi Na Milegi Dobara 2’: Zoya Akhtar confirms sequel to Hrithik Roshan, Farhan Akhtar and Abhay Deol",
+    "Awarapan 2 Worldwide Opening Weekend Box Office: Emraan Hashmi starrer hits Rs 116 crore in 3 days globally"
   ],
   "quiz": [
     {
-      "blanked": "Hayden Panettiere passes away at 36: ______ investigation finds no signs of foul play or suspicious circ",
-      "answer": "Initial",
+      "blanked": "India's Chief Economic Adviser Calls for ______ of E10 Petrol",
+      "answer": "Return",
       "options": [
-        "Nath",
-        "Netweb",
-        "Initial",
-        "Explain"
+        "Return",
+        "Lincoln",
+        "Phones",
+        "Viola"
       ]
     },
     {
-      "blanked": "Why the ______ Lincoln hasn’t left the Arabian Sea even after 260 days, ‘moldy showers, no soap or toothpaste’",
-      "answer": "USS",
+      "blanked": "'Black Money In Elections Corrupts Democracy': Supreme Court Issues Directions To ______ Use Of Unaccounted ...",
+      "answer": "Curb",
       "options": [
-        "USS",
-        "SIR",
-        "Sharmas",
-        "Suthar"
+        "Devendra",
+        "Warning",
+        "Curb",
+        "Hollywood"
       ]
     },
     {
-      "blanked": "‘Jana Nayagan’ OTT: Find out when and where to watch Vijay ______ final film online",
-      "answer": "Thalapathys",
+      "blanked": "Satirical ‘Dimagi Naxal Party’ blows up on Instagram with over 200,000 followers after PM ______ remark",
+      "answer": "Modis",
       "options": [
-        "Fever",
-        "Thalapathys",
-        "Clears",
-        "Ayush"
+        "Modis",
+        "Mahto",
+        "Find",
+        "Global"
+      ]
+    },
+    {
+      "blanked": "‘Jana Nayagan’ OTT: Find out when and where to watch ______ Thalapathy’s final film online",
+      "answer": "Vijay",
+      "options": [
+        "Vijay",
+        "Weekend",
+        "Party",
+        "280"
+      ]
+    },
+    {
+      "blanked": "South ______ hopes for talks between U.S. and North Korea after Trump downsizes military drills",
+      "answer": "Korea",
+      "options": [
+        "Korea",
+        "2026",
+        "Out",
+        "North"
       ]
     },
     {
       "blanked": "The ______ browser for iOS now features a built-in ad blocker",
       "answer": "Firefox",
       "options": [
-        "Phones",
-        "SIR",
-        "Corrupts",
-        "Firefox"
+        "OTT",
+        "Firefox",
+        "Dimagi",
+        "13%"
       ]
     },
     {
-      "blanked": "Ukraine launches its biggest attack of 2026, ______ strikes Zelenskyy's hometown",
-      "answer": "Russia",
+      "blanked": "Hayden Panettiere passes away: ______ Britton, Viola Davis, Selma Blair and other Hollywood stars pay tri",
+      "answer": "Connie",
       "options": [
-        "Russia",
-        "7877",
-        "Test",
-        "Endometrial"
-      ]
-    },
-    {
-      "blanked": "Stocks to Watch for August 18: ______ Netweb Tech, Wipro, Syrma SGS and more",
-      "answer": "Paytm",
-      "options": [
-        "Soon",
-        "Strike",
-        "Paytm",
-        "Firefox"
-      ]
-    },
-    {
-      "blanked": "India says it thwarted attacks by ______ militants, arrested over 200 operatives",
-      "answer": "Pakistan-backed",
-      "options": [
-        "Soon",
-        "Pakistan-backed",
-        "Good",
-        "7877"
-      ]
-    },
-    {
-      "blanked": "As iPhone 18 series launch nears, one of Tesla’s biggest investor Ross ______ says that ‘now is a good ti",
-      "answer": "Gerber",
-      "options": [
-        "Russia",
-        "Release",
-        "Every",
-        "Gerber"
-      ]
-    },
-    {
-      "blanked": "FIH Men’s Hockey World Cup ______ Table — LIVE updated standings",
-      "answer": "Points",
-      "options": [
-        "Out",
-        "Sorent",
-        "Points",
-        "Akhtar"
-      ]
-    },
-    {
-      "blanked": "Australia greats want change as ______ ponders way forward",
-      "answer": "Cummins",
-      "options": [
-        "Money",
-        "ECMS",
-        "Kim",
-        "Cummins"
-      ]
-    },
-    {
-      "blanked": "Hemant Sorent announces JSSC-CGL exam cancellation; students to continue protest till ______ probe demand is met",
-      "answer": "CBI",
-      "options": [
-        "Malviya",
-        "CBI",
-        "Abhay",
-        "Amit"
+        "Shetty",
+        "280",
+        "Connie",
+        "Mahto"
       ]
     },
     {
       "blanked": "Why BJP has replaced Amit ______ as party’s IT cell chief",
       "answer": "Malviya",
       "options": [
+        "Ebola",
         "Malviya",
-        "Zelenskyys",
-        "Tech",
-        "Micromax"
+        "Shetty",
+        "Firefox"
+      ]
+    },
+    {
+      "blanked": "India's Shetty stuns world number one ______ at World Championships",
+      "answer": "Shi",
+      "options": [
+        "World",
+        "Party",
+        "Shi",
+        "India"
+      ]
+    },
+    {
+      "blanked": "Monsoon to begin its exit: ______ deficit at 13%, hopes to shrink the gap fading",
+      "answer": "Rain",
+      "options": [
+        "Date",
+        "Box",
+        "Rain",
+        "Hollywood"
+      ]
+    },
+    {
+      "blanked": "\"US Will Bomb The S*** Out Of Oman If It Gets In Way\": ______ Hormuz Warning",
+      "answer": "Trumps",
+      "options": [
+        "Discounted",
+        "Korea",
+        "Trumps",
+        "Market"
+      ]
+    },
+    {
+      "blanked": "Jharkhand Student Leader ______ Nath Mahto Ends Hunger Strike",
+      "answer": "Devendra",
+      "options": [
+        "Democracy",
+        "Deol",
+        "Devendra",
+        "BJP"
       ]
     }
   ]
