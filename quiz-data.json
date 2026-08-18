@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-18T21:42:46.111Z",
+  "generatedAt": "2026-08-18T22:50:31.986Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "Hormuz Strait to remain shut until U.S. meets interim deal conditions, Iran says",
+    "Ready to drop FIRs against student protesters, says Supreme Court",
+    "Iran Launched 2 Ballistic Missiles, 1 Fell In Our Territorial Waters: UAE",
+    "Arvind Kejriwal says Satyendar Jain arrested at BJP's 'behest': 'Lies will be exposed again' | India News",
     "Jharkhand protest updates: Will launch second phase stir for corruption-free job examinations, says Devendra Mahto",
-    "Gen Z Protests : Supreme Court Expresses Intention To Quash FIRs Against Students, Says 'Question Of...",
-    "AAP Leader Satyendar Jain Among 6 Arrested Over Irregularities In Delhi Sewage Treatment Plant Tenders",
-    "Trump Cites Indian Poll Chief's Question To Make A Case For Save America Act",
+    "Trump cites CEC’s remark, India’s election model in bid to push Save America Act",
     "Pakistan runs for narrative cover as new Op Sindoor documentary busts Asim Munir's victory claim",
     "Jharkhand exam scam: CID arrests key accused's wife, brother who cleared JSSC-CGL",
-    "Foreigner On Mumbai-Delhi Train Sprays Fire Extinguisher, Dies During Probe",
+    "Vijay Wants To Shift His Office. BJP Alleges Corruption In Tender Process",
     "10 points: In BJP rejig, Smriti Irani, Ram Madhav back, Amit Malviya out",
-    "New 'boss' scam to dupe corporate employees busted",
-    "Trump says N Korea’s Kim has responded to his request for a conversation",
+    "2 More Air India Pilots Fail To Clear 1st Drug Test After Phuket Flight Fiasco",
+    "Israeli airstrikes hit Syrian air base, US envoy concerned over escalation",
+    "‘No intention to attack North Korea’: South Korea President Lee after Donald Trump reduces US drills",
+    "Meet Natalie Harp, Trump's Close Aide Who Travelled With Him During Turkey Flight Scare",
     "US Navy destroyer spent four days without toilets, AC, galley after power failure in South China Sea",
-    "Houthis Claim Third Attack on Saudi Aramco Refinery in Two Weeks",
-    "Ukraine aims a drone blitz at Moscow as Russian missiles kill 10 in a Ukrainian village",
     "Tata Sons AGM adjourned due to lack of quorum",
-    "Meta trial that could reshape Facebook, Instagram gets underway",
-    "Nifty 50, Sensex prediction today: Check how Indian stock market is expected to trade on 18 August",
     "2026 Skoda Slavia Facelift Variant-wise Colour Options Explained",
-    "iPhone 18 Pro: 7 New Features Reportedly Coming With Apple’s 2026 Launch",
+    "Tech selloff weighs down Wall Street as bond yields climb By Reuters",
+    "Live: Nifty below 24,200 on expiry day; defence stocks in focus | Closing Bell",
+    "iPhone 18 Pro Launch: Bigger Battery, Camera Upgrades And Higher Price Rumored — What We Know",
+    "I tested Samsung’s ultimate folding phone – and it’s a good, not perfect, option for AV fans - What Hi-Fi?",
     "GTA 6 gameplay and map leaks see DMCA strikes, as confidence grows in their legitimacy",
-    "iQOO Neo11 Ultra and Z11S debut in China - GSMArena.com news",
     "NBA 2K27 Announces New Gameplay Features in Videos from Global Game Reveal",
-    "Awarapan 2 Box Office Collection Day 4: Emraan Hashmi Starrer Becomes A Clean Hit, Only 2nd Bollywood Film To Achieve This In 2026",
     "New Details Emerge About Hayden Panettiere’s Health Before Her Death",
+    "Awarapan 2 Box Office Collections: Emraan Hashmi film holds well on Monday, Nets Rs. 90 Cr in four days",
     "Shah Rukh Khan's Mannat sees two snakes in the property's lawn; one rescued other still missing - Report"
   ],
   "quiz": [
     {
-      "blanked": "Jharkhand exam scam: CID arrests key accused's wife, brother who cleared ______",
-      "answer": "JSSC-CGL",
+      "blanked": "Trump cites ______ remark, India’s election model in bid to push Save America Act",
+      "answer": "CECs",
       "options": [
-        "Strait",
-        "AGM",
-        "Sindoor",
-        "JSSC-CGL"
+        "CECs",
+        "Cup",
+        "Universe",
+        "Linked"
+      ]
+    },
+    {
+      "blanked": "From Engineering to Edge of the Universe: Meet Rohan ______ the Astronomer Behind ‘Black Hole Star’ Discovery",
+      "answer": "Naidu",
+      "options": [
+        "Great",
+        "Battery",
+        "Naidu",
+        "Health"
+      ]
+    },
+    {
+      "blanked": "Vijay Wants To Shift His Office. BJP Alleges Corruption In ______ Process",
+      "answer": "Tender",
+      "options": [
+        "Tender",
+        "Satyendar",
+        "Meet",
+        "Report"
       ]
     },
     {
       "blanked": "ISRO, ______ celebrate one successful yr of NISAR Mission on orbit",
       "answer": "NASA",
       "options": [
-        "NASA",
-        "Report",
-        "Make",
-        "Bollywood"
+        "Detected",
+        "Behind",
+        "Screening",
+        "NASA"
       ]
     },
     {
-      "blanked": "Trump says N ______ Kim has responded to his request for a conversation",
-      "answer": "Koreas",
+      "blanked": "NBA 2K27 Announces New Gameplay Features in Videos from ______ Game Reveal",
+      "answer": "Global",
       "options": [
-        "Mahto",
-        "Fire",
-        "Koreas",
-        "India"
+        "Satyendar",
+        "Global",
+        "Supreme",
+        "Harp"
       ]
     },
     {
-      "blanked": "French astronaut Sophie Adenot and US astronaut Anil Menon start spacewalk outside the International Space ______",
-      "answer": "Station",
+      "blanked": "First Human ______ Influenza A(H1N2)v Case Detected in China",
+      "answer": "Swine",
       "options": [
-        "Measure",
-        "Station",
-        "Features",
-        "Sea"
+        "DMCA",
+        "2026",
+        "Swine",
+        "Global"
       ]
     },
     {
-      "blanked": "Trump ______ Indian Poll Chief's Question To Make A Case For Save America Act",
-      "answer": "Cites",
+      "blanked": "Rodri signs for Barcelona as World ______ winner transfers from Man City",
+      "answer": "Cup",
       "options": [
-        "Sprays",
-        "Discovery",
-        "Cites",
-        "Extinguisher"
+        "Battery",
+        "Cup",
+        "Turkey",
+        "BJPs"
       ]
     },
     {
-      "blanked": "2026 Skoda ______ Facelift Variant-wise Colour Options Explained",
-      "answer": "Slavia",
+      "blanked": "US Navy destroyer spent four days without toilets, AC, galley after power failure in South ______ Sea",
+      "answer": "China",
       "options": [
-        "Bollywood",
-        "Influenza",
-        "Court",
-        "Slavia"
+        "China",
+        "Aide",
+        "Arora",
+        "Irani"
       ]
     },
     {
-      "blanked": "New Details Emerge About Hayden ______ Health Before Her Death",
-      "answer": "Panettieres",
+      "blanked": "New Details Emerge About Hayden Panettiere’s Health Before Her ______",
+      "answer": "Death",
       "options": [
-        "Star",
+        "Harp",
+        "Game",
+        "Swine",
+        "Death"
+      ]
+    },
+    {
+      "blanked": "Israeli airstrikes hit ______ air base, US envoy concerned over escalation",
+      "answer": "Syrian",
+      "options": [
+        "Syrian",
+        "BJP",
+        "Videos",
+        "Emraan"
+      ]
+    },
+    {
+      "blanked": "Awarapan 2 Box Office Collections: Emraan ______ film holds well on Monday, Nets Rs. 90 Cr in four days",
+      "answer": "Hashmi",
+      "options": [
+        "Musiala",
+        "Hashmi",
+        "Amit",
+        "Price"
+      ]
+    },
+    {
+      "blanked": "Kacha Badam Fame Anjali Arora ______ As Sita In Shri Ramayan Katha, Angry Netizens Say ‘Ghor Kalyug’",
+      "answer": "Cast",
+      "options": [
+        "Cast",
+        "Angry",
         "Panettieres",
-        "Lanka",
-        "Report"
-      ]
-    },
-    {
-      "blanked": "Tata Sons ______ adjourned due to lack of quorum",
-      "answer": "AGM",
-      "options": [
-        "Probe",
-        "Cites",
-        "Human",
-        "AGM"
-      ]
-    },
-    {
-      "blanked": "Gen Z Protests : Supreme Court Expresses Intention To Quash FIRs Against ______ Says 'Question Of...",
-      "answer": "Students",
-      "options": [
-        "Star",
-        "Report",
-        "Students",
-        "Rukh"
-      ]
-    },
-    {
-      "blanked": "From Engineering to Edge of the Universe: Meet Rohan Naidu, the Astronomer Behind ‘Black Hole ______ Discovery",
-      "answer": "Star",
-      "options": [
-        "Smriti",
-        "Star",
-        "Universe",
-        "JSSC-CGL"
-      ]
-    },
-    {
-      "blanked": "iPhone 18 Pro: 7 New Features Reportedly Coming With ______ 2026 Launch",
-      "answer": "Apples",
-      "options": [
-        "Anil",
-        "Monday",
-        "Apples",
-        "Satyendar"
-      ]
-    },
-    {
-      "blanked": "Hormuz Strait to remain shut until U.S. meets interim deal conditions, ______ says",
-      "answer": "Iran",
-      "options": [
-        "5000",
-        "Iran",
-        "Act",
-        "Among"
+        "Musiala"
       ]
     }
   ]
