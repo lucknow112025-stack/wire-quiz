@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-18T19:39:56.836Z",
+  "generatedAt": "2026-08-18T20:44:16.966Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
     "Jharkhand protest updates: Will launch second phase stir for corruption-free job examinations, says Devendra Mahto",
     "Hormuz Strait to remain shut until U.S. meets interim deal conditions, Iran says",
-    "Satyendar Jain Arrest: Case Will Be Proven Fake, Says Arvind Kejriwal",
     "Gen Z Protests : Supreme Court Expresses Intention To Quash FIRs Against Students, Says 'Question Of...",
-    "Dubai residents receive missile alert for first time in weeks, UAE warns citizens | World News",
-    "Trump cites India's voter cards to make case for SAVE America Act",
-    "NTA removes 600 experts, brings four-tier checks for question papers",
-    "Air India undertakes pilot testing programme amidst scrutiny after Phuket incident",
+    "AAP Leader Satyendar Jain Arrested In Corruption Case Linked To Delhi Jal Board",
+    "Trump cites CEC’s remark, India’s election model in bid to push Save America Act",
+    "CCTV off, phone wiped clean: Police probe if Bengaluru child was killed for witnessing dad's murder",
+    "2 Critical, Several Injured After Ferris Wheel Crashes At Lucknow Fair",
+    "Foreigner On Mumbai-Delhi Train Sprays Fire Extinguisher, Dies During Probe",
     "TVK govt under fire over alleged tender violations in CMO construction",
-    "Foreigner Sprays Fire Extinguisher In Train, Dies During Railway Police Questioning",
+    "10 points: In BJP rejig, Smriti Irani, Ram Madhav back, Amit Malviya out",
     "Trump says N Korea’s Kim has responded to his request for a conversation",
-    "At least seven people killed in Ukrainian air attacks on Russia",
-    "Pakistan top court orders Imran Khan’s hospital transfer amid access battle",
+    "Ukraine aims a drone blitz at Moscow as Russian missiles kill 10 in a Ukrainian village",
+    "US Navy destroyer spent four days without toilets, AC, galley after power failure in South China Sea",
     "Houthis Claim Third Attack on Saudi Aramco Refinery in Two Weeks",
     "Tata Sons AGM adjourned due to lack of quorum",
     "Live: Nifty below 24,200 on expiry day; defence stocks in focus | Closing Bell",
     "Meta trial that could reshape Facebook, Instagram gets underway",
-    "Finance Minister Nirmala Sitharaman asks PSBs to gear up for next phase of banking reforms",
-    "I asked ChatGPT to test me on 5 things I thought I knew — my confidence was wildly misplaced",
-    "Windows 11 File Explorer Gets Faster, Customizable Right-Click Menu With App Extension Controls",
+    "2026 Skoda Slavia Facelift Unveiled",
     "Apple iPhone 18 Pro: Most exciting camera upgrade said to be iPhone 18 Pro Max exclusive",
-    "Sonos Rolls Out Live Activities for iPhone Lock Screen Controls",
+    "GTA 6 New Footage Just Leaked — Here Are The Cars Spotted On Leonida's Streets",
+    "The Tecno Pova 8 Pro is now up on Flipkart, will launch in India later this week - GSMArena.com news",
+    "Elden Ring: Tarnished Edition Trailer Highlights Gameplay",
     "Awarapan 2 Box Office Collections: Emraan Hashmi film holds well on Monday, Nets Rs. 90 Cr in four days",
-    "Kacha Badam Fame Anjali Arora Cast As Sita In Shri Ramayan Katha, Angry Netizens Say ‘Ghor Kalyug’",
-    "Shah Rukh Khan's Mannat sees two snakes in the property's lawn; one rescued other still missing - Report"
+    "Hayden Panettiere revealed 'future plans' weeks before death: 'I have a lot more life left' - WATCH",
+    "Kacha Badam Fame Anjali Arora Cast As Sita In Shri Ramayan Katha, Angry Netizens Say ‘Ghor Kalyug’"
   ],
   "quiz": [
     {
       "blanked": "Watch: Indian-origin Nasa astronaut Anil ______ takes second spacewalk",
       "answer": "Menon",
       "options": [
-        "Most",
+        "Critical",
+        "AGM",
         "Menon",
-        "Sergio",
-        "Hockey"
+        "Ring"
       ]
     },
     {
-      "blanked": "TVK govt under fire over alleged tender violations in ______ construction",
-      "answer": "CMO",
+      "blanked": "Trump says N ______ Kim has responded to his request for a conversation",
+      "answer": "Koreas",
       "options": [
-        "Out",
-        "CMO",
-        "Weeks",
-        "Menu"
-      ]
-    },
-    {
-      "blanked": "Air India undertakes pilot testing programme amidst scrutiny after ______ incident",
-      "answer": "Phuket",
-      "options": [
-        "UAE",
-        "Africa",
-        "Phuket",
-        "Lymphoma"
-      ]
-    },
-    {
-      "blanked": "Apple iPhone 18 ______ Most exciting camera upgrade said to be iPhone 18 Pro Max exclusive",
-      "answer": "Pro",
-      "options": [
-        "Minister",
-        "Sons",
-        "Pro",
-        "Intention"
-      ]
-    },
-    {
-      "blanked": "From Engineering to Edge of the Universe: Meet Rohan Naidu, the Astronomer ______ ‘Black Hole Star’ Discovery",
-      "answer": "Behind",
-      "options": [
-        "Claim",
-        "Attack",
-        "Behind",
-        "Protests"
-      ]
-    },
-    {
-      "blanked": "Jharkhand protest updates: Will launch second phase stir for corruption-free job examinations, says Devendra ______",
-      "answer": "Mahto",
-      "options": [
-        "Train",
-        "WATCH",
-        "Mahto",
-        "Status"
-      ]
-    },
-    {
-      "blanked": "India vs South Africa Highlights, ______ Hockey World Cup 2026: IND 6-1 RSA; Indian team improves GD",
-      "answer": "Womens",
-      "options": [
-        "Womens",
-        "Facebook",
-        "Astronomer",
-        "Lymphoma"
-      ]
-    },
-    {
-      "blanked": "‘Barcelona was my first choice’ - Rodri talks Hansi Flick, ______ Busquets and Marc Bernal after transfer",
-      "answer": "Sergio",
-      "options": [
-        "Menon",
-        "Faster",
-        "Human",
-        "Sergio"
-      ]
-    },
-    {
-      "blanked": "NTA removes ______ experts, brings four-tier checks for question papers",
-      "answer": "600",
-      "options": [
-        "600",
-        "Anil",
-        "Chance",
-        "Max"
-      ]
-    },
-    {
-      "blanked": "Houthis Claim Third Attack on Saudi Aramco Refinery in Two ______",
-      "answer": "Weeks",
-      "options": [
-        "Lock",
-        "Aggressive",
-        "Weeks",
-        "Detected"
-      ]
-    },
-    {
-      "blanked": "Shah Rukh ______ Mannat sees two snakes in the property's lawn; one rescued other still missing - Report",
-      "answer": "Khans",
-      "options": [
-        "Customizable",
-        "Lymphoma",
-        "Khans",
+        "Koreas",
+        "Footage",
+        "Trailer",
         "Extinguisher"
       ]
     },
     {
-      "blanked": "Hormuz Strait to remain shut until U.S. meets interim deal conditions, ______ says",
-      "answer": "Iran",
+      "blanked": "AAP ______ Satyendar Jain Arrested In Corruption Case Linked To Delhi Jal Board",
+      "answer": "Leader",
       "options": [
-        "Emraan",
-        "Iran",
-        "Rolls",
-        "Jain"
+        "Cast",
+        "Leader",
+        "India",
+        "Shahrukh"
+      ]
+    },
+    {
+      "blanked": "Snake found at Shahrukh ______ residence in Mumbai, rescued | India News",
+      "answer": "Khans",
+      "options": [
+        "RSA",
+        "Mumbai-Delhi",
+        "Khans",
+        "Skoda"
+      ]
+    },
+    {
+      "blanked": "SL vs ______ - The high-wire logic of the Rishabh Pant six",
+      "answer": "Ind",
+      "options": [
+        "Supreme",
+        "Amit",
+        "Facebook",
+        "Ind"
+      ]
+    },
+    {
+      "blanked": "Pant's rapid 66, Suthar's double strike tighten ______ grip",
+      "answer": "Indias",
+      "options": [
+        "Indias",
+        "Facebook",
+        "Rohan",
+        "Great"
+      ]
+    },
+    {
+      "blanked": "10 points: In BJP rejig, Smriti Irani, Ram Madhav back, Amit ______ out",
+      "answer": "Malviya",
+      "options": [
+        "Fair",
+        "Ring",
+        "Malviya",
+        "Act"
+      ]
+    },
+    {
+      "blanked": "Kacha Badam Fame ______ Arora Cast As Sita In Shri Ramayan Katha, Angry Netizens Say ‘Ghor Kalyug’",
+      "answer": "Anjali",
+      "options": [
+        "Rishabh",
+        "Menon",
+        "Anjali",
+        "Leader"
+      ]
+    },
+    {
+      "blanked": "Hayden ______ revealed 'future plans' weeks before death: 'I have a lot more life left' - WATCH",
+      "answer": "Panettiere",
+      "options": [
+        "Panettiere",
+        "Ind",
+        "IND",
+        "Weeks"
+      ]
+    },
+    {
+      "blanked": "Tata Sons ______ adjourned due to lack of quorum",
+      "answer": "AGM",
+      "options": [
+        "Mahto",
+        "AGM",
+        "Extinguisher",
+        "Irani"
+      ]
+    },
+    {
+      "blanked": "GTA 6 New ______ Just Leaked — Here Are The Cars Spotted On Leonida's Streets",
+      "answer": "Footage",
+      "options": [
+        "Footage",
+        "NISAR",
+        "Screening",
+        "Fire"
+      ]
+    },
+    {
+      "blanked": "India vs ______ Africa Highlights, Women's Hockey World Cup 2026: IND 6-1 RSA; Indian team improves GD",
+      "answer": "South",
+      "options": [
+        "South",
+        "FIRs",
+        "Panettiere",
+        "Katha"
       ]
     }
   ]
