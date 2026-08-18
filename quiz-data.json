@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-18T11:56:38.873Z",
+  "generatedAt": "2026-08-18T15:51:07.328Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "Jharkhand protests: Devendra Nath Mahto ends hunger strike after 16 days",
-    "Pleas Against Police Action During CJP Student Protests : Live Updates From Supreme Court",
-    "10 points: In BJP rejig, Smriti Irani, Ram Madhav back, Amit Malviya out",
-    "CCTV off, phone wiped clean: Police probe if Bengaluru child was killed for witnessing dad's murder",
-    "‘Where is he?’ AAP claims Delhi Police 'picked' its MLA Kuldeep Kumar, Delhi HC agrees for urgent hearing | India News",
-    "Pakistan top court orders Imran Khan’s hospital transfer amid access battle",
-    "Trump cites India in push for SAVE America Act: 'Every voter had valid photo ID'",
-    "'AK 47 Fired During Student Protests But None Injured' : Bihar Govt Tells Supreme Court, Denies Using...",
-    "On Camera, Boy, 11, Crushed By Truck After Bike Skids Due To Pothole In Pune",
-    "Paras Defence, Zen Tech, other defence shares rise up to 8% as MoD notifies sixth Positive Indigenisation...",
-    "West Asia war LIVE: Strait of Hormuz to remain closed until U.S. meets interim deal conditions, says Ghalibaf",
-    "‘No intention to attack North Korea’: South Korea President Lee after Donald Trump reduces US drills",
+    "Jharkhand protest LIVE: Will launch second phase stir for corruption-free job examinations, says Devendra Mahto",
+    "Gen Z Protests : Supreme Court Expresses Intention To Quash FIRs Against Students, Says 'Question Of...",
+    "Hormuz Strait to remain shut until U.S. meets interim deal conditions, Iran says",
+    "Trump Cites Indian Poll Chief's Question To Make A Case For Save America Act",
+    "‘Change is possible’: Govt school at Abhijeet Dipke's native village gets its ‘first-ever computer’ | India News",
+    "PM CARES fund saw 592% jump in donations in 2024-25 to ₹480 crore, spent 0.1% of that",
+    "‘If govt doesn’t demonstrate…': CJP issues big 'two-day' warning over FIRs on protesting students | India News",
+    "Exclusive: Bangladesh PM Tarique Rahman ‘has no plans’ to visit India soon, set to skip BRICS too",
+    "He Delivered Bihar, Now BJP Bets On Vinod Tawde For Uttar Pradesh Hat-Trick",
+    "Surat restaurant shut after child dies, 3 hospitalised due to suspected food poisoning",
+    "UAE warns of 'potential missile threats', asks people to seek shelter",
+    "Trump says N Korea’s Kim has responded to his request for a conversation",
     "Houthis Claim Third Attack on Saudi Aramco Refinery in Two Weeks",
-    "Russian strikes kill 10 in Kharkiv as Ukrainian drones hit Moscow",
-    "Tata Sons AGM adjourned on lack of quorum",
+    "At least seven people killed in Ukrainian air attacks on Russia",
+    "Live: Nifty below 24,200 on expiry day; defence stocks in focus | Closing Bell",
+    "Tata Sons AGM adjourned due to lack of quorum",
     "Temasek-backed Milky Mist jumps 30% in India debut, hits $1.5 billion valuation",
-    "NIFTY50, SENSEX trade flat in afternoon session; Zaggle Prepaid, Kalyan Jewellers, L&T among buzzing stocks",
     "Govt may raise FDI approval limit for CCEA to Rs 15,000 crore, ease downstream rules",
-    "Apple AirPods with cameras surface in leaked video - GSMArena.com news",
+    "Microsoft finally fixing File Explorer and the Context Menu",
+    "Spotify’s playlist notes are for editors and listeners alike",
     "Samsung 65-Inch R95H RGB TV Review: Industry-Leading Specs Meet Real-World Flaws",
-    "Apple iPhone 18 Pro Release Date: Discounted Day Re-Enters The September Schedule",
-    "The grief and fragile hope of deciding to freeze my eggs",
+    "Apple iPhone 18 Pro: Most exciting camera upgrade said to be iPhone 18 Pro Max exclusive",
     "Awarapan 2 Box Office Collections: Emraan Hashmi film holds well on Monday, Nets Rs. 90 Cr in four days",
-    "'Batwara 1947' box office collection day 4: Sunny Deol, Preity Zinta's film sees 72 percent drop on Monda",
-    "Snake found at Shahrukh Khan's residence in Mumbai, rescued | India News"
+    "Shah Rukh Khan's Mannat sees two snakes in the property's lawn; one rescued other still missing - Report",
+    "Isha Koppikar calls herself proud ‘andhbhakt’; declares love for changing Bharat: ‘Not blindly, but unapologetically’ | Bollywood"
   ],
   "quiz": [
     {
-      "blanked": "Awarapan 2 Box Office ______ Emraan Hashmi film holds well on Monday, Nets Rs. 90 Cr in four days",
-      "answer": "Collections",
+      "blanked": "India vs South ______ Hockey World Cup LIVE: IND lead 1-0 in Q1",
+      "answer": "Africa",
       "options": [
-        "SAVE",
-        "Sports",
+        "Behind",
+        "Menu",
+        "15000",
+        "Africa"
+      ]
+    },
+    {
+      "blanked": "Trump Cites Indian Poll Chief's ______ To Make A Case For Save America Act",
+      "answer": "Question",
+      "options": [
+        "Lanka",
+        "Bollywood",
+        "Engineering",
+        "Question"
+      ]
+    },
+    {
+      "blanked": "Scream 4 ______ Hayden Panettiere Dies Days Before 37th Birthday",
+      "answer": "Actor",
+      "options": [
+        "Most",
+        "Actor",
+        "Great",
+        "Sports"
+      ]
+    },
+    {
+      "blanked": "IND vs SL 1st Test: India on verge of massive win as Sri ______ four down in chase of 372",
+      "answer": "Lanka",
+      "options": [
+        "Face",
+        "FDI",
+        "Chiefs",
+        "Lanka"
+      ]
+    },
+    {
+      "blanked": "Jharkhand protest LIVE: Will launch second phase stir for corruption-free job examinations, says Devendra ______",
+      "answer": "Mahto",
+      "options": [
+        "Mahto",
         "Collections",
+        "Chiefs",
         "Attack"
       ]
     },
     {
-      "blanked": "Vishwanath & Sons ______ Office Collections: Suriya starrer has an ordinary Monday, Gross Rs. 75 Cr in 4 days in India",
-      "answer": "Box",
+      "blanked": "Tata Sons ______ adjourned due to lack of quorum",
+      "answer": "AGM",
       "options": [
-        "Denies",
-        "Tells",
-        "15000",
-        "Box"
+        "India",
+        "LIVE",
+        "AGM",
+        "ISS"
       ]
     },
     {
-      "blanked": "West Asia war LIVE: Strait of Hormuz to remain closed until U.S. meets interim deal conditions, says ______",
-      "answer": "Ghalibaf",
+      "blanked": "Govt may raise FDI approval limit for ______ to Rs 15,000 crore, ease downstream rules",
+      "answer": "CCEA",
       "options": [
-        "AAP",
-        "Skids",
-        "Irani",
-        "Ghalibaf"
-      ]
-    },
-    {
-      "blanked": "Pakistan top court orders Imran ______ hospital transfer amid access battle",
-      "answer": "Khans",
-      "options": [
-        "Inside",
-        "Action",
-        "Mission",
-        "Khans"
-      ]
-    },
-    {
-      "blanked": "'Batwara 1947' box office collection day 4: Sunny Deol, Preity Zinta's film sees 72 percent drop on ______",
-      "answer": "Monda",
-      "options": [
-        "Sports",
-        "Monda",
-        "Crushed",
-        "Suriya"
-      ]
-    },
-    {
-      "blanked": "DRC’s latest deadly Ebola outbreak | ______",
-      "answer": "Explained",
-      "options": [
-        "Release",
-        "Gayatri",
+        "Bangladesh",
         "Flaws",
-        "Explained"
+        "CCEA",
+        "Weeks"
       ]
     },
     {
-      "blanked": "Govt may raise FDI approval limit for CCEA to Rs ______ crore, ease downstream rules",
-      "answer": "15000",
+      "blanked": "Apple iPhone 18 ______ Most exciting camera upgrade said to be iPhone 18 Pro Max exclusive",
+      "answer": "Pro",
       "options": [
-        "Gopichand",
-        "15000",
-        "Discovery",
-        "Moscow"
-      ]
-    },
-    {
-      "blanked": "NIFTY50, SENSEX trade flat in afternoon session; Zaggle Prepaid, Kalyan ______ L&T among buzzing stocks",
-      "answer": "Jewellers",
-      "options": [
-        "Jewellers",
-        "Aramco",
-        "Universe",
-        "Act"
-      ]
-    },
-    {
-      "blanked": "Pleas Against Police Action During CJP Student Protests : ______ Updates From Supreme Court",
-      "answer": "Live",
-      "options": [
-        "Adenot",
-        "Skids",
-        "Live",
-        "AAP"
-      ]
-    },
-    {
-      "blanked": "National Sports Awards 2025 announced; Divya ______ Gayatri Gopichand, Narender among 17 named for Arjuna Awards",
-      "answer": "Deshmukh",
-      "options": [
-        "30%",
-        "Hole",
-        "Deshmukh",
-        "Kharkiv"
-      ]
-    },
-    {
-      "blanked": "Sophie ______ to become first French woman to conduct spacewalk at ISS",
-      "answer": "Adenot",
-      "options": [
-        "Adenot",
-        "September",
-        "Action",
-        "Court"
-      ]
-    },
-    {
-      "blanked": "Temasek-backed Milky ______ jumps 30% in India debut, hits $1.5 billion valuation",
-      "answer": "Mist",
-      "options": [
-        "Court",
+        "Devendra",
+        "Indian",
         "Pro",
-        "Date",
-        "Mist"
+        "480"
+      ]
+    },
+    {
+      "blanked": "Rishabh ______ becomes first Indian and fastest to hit 100 sixes in Test cricket",
+      "answer": "Pant",
+      "options": [
+        "Pant",
+        "Star",
+        "Ukrainian",
+        "File"
+      ]
+    },
+    {
+      "blanked": "National Sports Awards 2025 announced; Divya Deshmukh, Gayatri Gopichand, Narender among 17 named for ______ Awards",
+      "answer": "Arjuna",
+      "options": [
+        "Tawde",
+        "Arjuna",
+        "NISAR",
+        "Koreas"
+      ]
+    },
+    {
+      "blanked": "At least seven people killed in Ukrainian air attacks on ______",
+      "answer": "Russia",
+      "options": [
+        "Black",
+        "Russia",
+        "Closing",
+        "Naidu"
+      ]
+    },
+    {
+      "blanked": "Exclusive: ______ PM Tarique Rahman ‘has no plans’ to visit India soon, set to skip BRICS too",
+      "answer": "Bangladesh",
+      "options": [
+        "Russia",
+        "Monday",
+        "Higher",
+        "Bangladesh"
       ]
     }
   ]
