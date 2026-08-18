@@ -1,113 +1,103 @@
 {
-  "generatedAt": "2026-08-18T15:51:07.328Z",
+  "generatedAt": "2026-08-18T17:02:17.898Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
+    "AAP Leader Satyendar Jain Arrested In Corruption Case Linked To Delhi Jal Board",
+    "Hormuz Strait to remain shut until U.S. meets interim deal conditions, Iran says",
     "Jharkhand protest LIVE: Will launch second phase stir for corruption-free job examinations, says Devendra Mahto",
     "Gen Z Protests : Supreme Court Expresses Intention To Quash FIRs Against Students, Says 'Question Of...",
-    "Hormuz Strait to remain shut until U.S. meets interim deal conditions, Iran says",
-    "Trump Cites Indian Poll Chief's Question To Make A Case For Save America Act",
-    "‘Change is possible’: Govt school at Abhijeet Dipke's native village gets its ‘first-ever computer’ | India News",
-    "PM CARES fund saw 592% jump in donations in 2024-25 to ₹480 crore, spent 0.1% of that",
-    "‘If govt doesn’t demonstrate…': CJP issues big 'two-day' warning over FIRs on protesting students | India News",
+    "Dubai residents receive missile alert for first time in weeks, UAE warns citizens | World News",
+    "'Every voter had valid photo ID': Trump cites Indian election system to make case for 'Save America Act'",
     "Exclusive: Bangladesh PM Tarique Rahman ‘has no plans’ to visit India soon, set to skip BRICS too",
-    "He Delivered Bihar, Now BJP Bets On Vinod Tawde For Uttar Pradesh Hat-Trick",
-    "Surat restaurant shut after child dies, 3 hospitalised due to suspected food poisoning",
-    "UAE warns of 'potential missile threats', asks people to seek shelter",
+    "KBR Park One-Way Sparks Traffic Chaos",
+    "‘PM CARES? hardly’: Barbs and questions fly after Rs 8,452-crore fund reveal in audit",
+    "Bengaluru double murder: Woman detained as husband, son found dead at home; cops hunt for her 'lover'",
     "Trump says N Korea’s Kim has responded to his request for a conversation",
-    "Houthis Claim Third Attack on Saudi Aramco Refinery in Two Weeks",
     "At least seven people killed in Ukrainian air attacks on Russia",
+    "Houthis Claim Third Attack on Saudi Aramco Refinery in Two Weeks",
+    "Syria, US say Israel attacked airbase in Idlib",
     "Live: Nifty below 24,200 on expiry day; defence stocks in focus | Closing Bell",
     "Tata Sons AGM adjourned due to lack of quorum",
     "Temasek-backed Milky Mist jumps 30% in India debut, hits $1.5 billion valuation",
-    "Govt may raise FDI approval limit for CCEA to Rs 15,000 crore, ease downstream rules",
+    "Rupee ends marginally lower as central bank shields from oil, yield strain",
     "Microsoft finally fixing File Explorer and the Context Menu",
-    "Spotify’s playlist notes are for editors and listeners alike",
-    "Samsung 65-Inch R95H RGB TV Review: Industry-Leading Specs Meet Real-World Flaws",
     "Apple iPhone 18 Pro: Most exciting camera upgrade said to be iPhone 18 Pro Max exclusive",
+    "Sonos finally added Live Activities controls for your iPhone lockscreen",
+    "Apple AirPods with cameras surface in leaked video - GSMArena.com news",
     "Awarapan 2 Box Office Collections: Emraan Hashmi film holds well on Monday, Nets Rs. 90 Cr in four days",
-    "Shah Rukh Khan's Mannat sees two snakes in the property's lawn; one rescued other still missing - Report",
-    "Isha Koppikar calls herself proud ‘andhbhakt’; declares love for changing Bharat: ‘Not blindly, but unapologetically’ | Bollywood"
+    "Hayden Panettiere passes away: Connie Britton, Viola Davis, Selma Blair and other Hollywood stars pay tri",
+    "Snake found at Shahrukh Khan's residence in Mumbai, rescued | India News"
   ],
   "quiz": [
     {
-      "blanked": "India vs South ______ Hockey World Cup LIVE: IND lead 1-0 in Q1",
-      "answer": "Africa",
+      "blanked": "Sonos finally added Live ______ controls for your iPhone lockscreen",
+      "answer": "Activities",
       "options": [
-        "Behind",
-        "Menu",
-        "15000",
-        "Africa"
+        "Explorer",
+        "Box",
+        "Quash",
+        "Activities"
       ]
     },
     {
-      "blanked": "Trump Cites Indian Poll Chief's ______ To Make A Case For Save America Act",
-      "answer": "Question",
+      "blanked": "Bengaluru double murder: ______ detained as husband, son found dead at home; cops hunt for her 'lover'",
+      "answer": "Woman",
       "options": [
-        "Lanka",
-        "Bollywood",
-        "Engineering",
-        "Question"
+        "Russia",
+        "Office",
+        "Aramco",
+        "Woman"
       ]
     },
     {
-      "blanked": "Scream 4 ______ Hayden Panettiere Dies Days Before 37th Birthday",
-      "answer": "Actor",
+      "blanked": "Vishwanath & Sons Box Office Collections: ______ starrer has an ordinary Monday, Gross Rs. 75 Cr in 4 days in India",
+      "answer": "Suriya",
       "options": [
-        "Most",
-        "Actor",
-        "Great",
-        "Sports"
+        "Live",
+        "Edge",
+        "Suriya",
+        "Measure"
       ]
     },
     {
-      "blanked": "IND vs SL 1st Test: India on verge of massive win as Sri ______ four down in chase of 372",
-      "answer": "Lanka",
+      "blanked": "‘PM ______ hardly’: Barbs and questions fly after Rs 8,452-crore fund reveal in audit",
+      "answer": "CARES",
       "options": [
-        "Face",
-        "FDI",
-        "Chiefs",
-        "Lanka"
+        "Reef",
+        "Aggressive",
+        "CARES",
+        "Astronomer"
       ]
     },
     {
-      "blanked": "Jharkhand protest LIVE: Will launch second phase stir for corruption-free job examinations, says Devendra ______",
-      "answer": "Mahto",
+      "blanked": "Dubai residents receive missile alert for first time in weeks, ______ warns citizens | World News",
+      "answer": "UAE",
       "options": [
-        "Mahto",
+        "Traffic",
+        "Bell",
         "Collections",
-        "Chiefs",
-        "Attack"
+        "UAE"
       ]
     },
     {
-      "blanked": "Tata Sons ______ adjourned due to lack of quorum",
-      "answer": "AGM",
+      "blanked": "Awarapan 2 Box ______ Collections: Emraan Hashmi film holds well on Monday, Nets Rs. 90 Cr in four days",
+      "answer": "Office",
       "options": [
-        "India",
-        "LIVE",
-        "AGM",
-        "ISS"
+        "Office",
+        "Milky",
+        "AirPods",
+        "Monday"
       ]
     },
     {
-      "blanked": "Govt may raise FDI approval limit for ______ to Rs 15,000 crore, ease downstream rules",
-      "answer": "CCEA",
+      "blanked": "Australian Researchers ______ New Tool to Measure Great Barrier Reef Health",
+      "answer": "Develop",
       "options": [
-        "Bangladesh",
-        "Flaws",
-        "CCEA",
-        "Weeks"
-      ]
-    },
-    {
-      "blanked": "Apple iPhone 18 ______ Most exciting camera upgrade said to be iPhone 18 Pro Max exclusive",
-      "answer": "Pro",
-      "options": [
-        "Devendra",
-        "Indian",
-        "Pro",
-        "480"
+        "Develop",
+        "Nifty",
+        "Attack",
+        "Case"
       ]
     },
     {
@@ -115,39 +105,49 @@
       "answer": "Pant",
       "options": [
         "Pant",
-        "Star",
-        "Ukrainian",
-        "File"
+        "Satyendar",
+        "Weeks",
+        "Jal"
       ]
     },
     {
-      "blanked": "National Sports Awards 2025 announced; Divya Deshmukh, Gayatri Gopichand, Narender among 17 named for ______ Awards",
-      "answer": "Arjuna",
+      "blanked": "National Sports Awards 2025 announced; Divya Deshmukh, Gayatri Gopichand, ______ among 17 named for Arjuna Awards",
+      "answer": "Narender",
       "options": [
-        "Tawde",
-        "Arjuna",
-        "NISAR",
-        "Koreas"
+        "Strait",
+        "File",
+        "Narender",
+        "Blair"
       ]
     },
     {
-      "blanked": "At least seven people killed in Ukrainian air attacks on ______",
-      "answer": "Russia",
+      "blanked": "’14 of 24 sudden deaths were under 45′: ______ auto, cab drivers may face a hidden heart risk",
+      "answer": "Why",
       "options": [
-        "Black",
-        "Russia",
-        "Closing",
-        "Naidu"
+        "Suthars",
+        "India",
+        "Why",
+        "Deshmukh"
       ]
     },
     {
-      "blanked": "Exclusive: ______ PM Tarique Rahman ‘has no plans’ to visit India soon, set to skip BRICS too",
-      "answer": "Bangladesh",
+      "blanked": "'Every voter had valid photo ID': Trump cites ______ election system to make case for 'Save America Act'",
+      "answer": "Indian",
       "options": [
-        "Russia",
-        "Monday",
-        "Higher",
-        "Bangladesh"
+        "Indian",
+        "Mist",
+        "Gross",
+        "Most"
+      ]
+    },
+    {
+      "blanked": "Apple iPhone 18 Pro: Most exciting camera upgrade said to be iPhone 18 ______ Max exclusive",
+      "answer": "Pro",
+      "options": [
+        "Mumbai",
+        "Traffic",
+        "Adenot",
+        "Pro"
       ]
     }
   ]
