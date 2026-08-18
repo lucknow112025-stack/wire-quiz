@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-18T10:59:45.382Z",
+  "generatedAt": "2026-08-18T11:56:38.873Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
     "Jharkhand protests: Devendra Nath Mahto ends hunger strike after 16 days",
     "Pleas Against Police Action During CJP Student Protests : Live Updates From Supreme Court",
-    "'Move Imran Khan To Hospital': Pakistan's Top Court Amid Health Concerns For Ex-PM",
-    "Trump cites India's voter cards to make case for SAVE America Act",
+    "10 points: In BJP rejig, Smriti Irani, Ram Madhav back, Amit Malviya out",
+    "CCTV off, phone wiped clean: Police probe if Bengaluru child was killed for witnessing dad's murder",
     "‘Where is he?’ AAP claims Delhi Police 'picked' its MLA Kuldeep Kumar, Delhi HC agrees for urgent hearing | India News",
-    "Why BJP has replaced Amit Malviya as party’s IT cell chief",
-    "'Positive response' from Amit Shah on NRC updation before Census: Ex-Manipur CM N Biren Singh",
-    "BJP appoints state in-charges for poll-bound UP and Punjab day after unveiling ‘Team Nitin Nabin’",
-    "\"Less Painful\" Lethal Injection For Death Penalty? Supreme Court Says No",
-    "Rs 1.20-Crore Testicle Myth: How A Reel Led To A Teen's Murder In Bhopal",
+    "Pakistan top court orders Imran Khan’s hospital transfer amid access battle",
+    "Trump cites India in push for SAVE America Act: 'Every voter had valid photo ID'",
+    "'AK 47 Fired During Student Protests But None Injured' : Bihar Govt Tells Supreme Court, Denies Using...",
+    "On Camera, Boy, 11, Crushed By Truck After Bike Skids Due To Pothole In Pune",
+    "Paras Defence, Zen Tech, other defence shares rise up to 8% as MoD notifies sixth Positive Indigenisation...",
+    "West Asia war LIVE: Strait of Hormuz to remain closed until U.S. meets interim deal conditions, says Ghalibaf",
     "‘No intention to attack North Korea’: South Korea President Lee after Donald Trump reduces US drills",
-    "West Asia war LIVE: Vessel struck by unknown projectile in Strait of Hormuz, crew casualty reported",
-    "Meet Natalie Harp, Trump's Close Aide Who Travelled With Him During Turkey Flight Scare",
-    "How Indian misinformation on Iran war went mainstream? | Explained",
+    "Houthis Claim Third Attack on Saudi Aramco Refinery in Two Weeks",
+    "Russian strikes kill 10 in Kharkiv as Ukrainian drones hit Moscow",
     "Tata Sons AGM adjourned on lack of quorum",
-    "NIFTY50, SENSEX trade flat in afternoon session; Zaggle Prepaid, Kalyan Jewellers, L&T among buzzing stocks",
     "Temasek-backed Milky Mist jumps 30% in India debut, hits $1.5 billion valuation",
-    "NSE Said to Seek Up to $55 Billion Valuation in Record India IPO",
+    "NIFTY50, SENSEX trade flat in afternoon session; Zaggle Prepaid, Kalyan Jewellers, L&T among buzzing stocks",
+    "Govt may raise FDI approval limit for CCEA to Rs 15,000 crore, ease downstream rules",
     "Apple AirPods with cameras surface in leaked video - GSMArena.com news",
+    "Samsung 65-Inch R95H RGB TV Review: Industry-Leading Specs Meet Real-World Flaws",
     "Apple iPhone 18 Pro Release Date: Discounted Day Re-Enters The September Schedule",
     "The grief and fragile hope of deciding to freeze my eggs",
-    "TECNO POVA 8 Pro 5G Launched in India With 144Hz AMOLED Display and 6500mAh Battery",
     "Awarapan 2 Box Office Collections: Emraan Hashmi film holds well on Monday, Nets Rs. 90 Cr in four days",
-    "Batwara 1947 Box Office Collection Day 4: Sunny Deol's Film Sees Massive Drop On First Monday",
-    "Anirudh Ravichander and Kavya Maran to marry in Greece? Wedding dates locked for post Diwali - Report"
+    "'Batwara 1947' box office collection day 4: Sunny Deol, Preity Zinta's film sees 72 percent drop on Monda",
+    "Snake found at Shahrukh Khan's residence in Mumbai, rescued | India News"
   ],
   "quiz": [
     {
-      "blanked": "Trump cites India's voter cards to make case for ______ America Act",
-      "answer": "SAVE",
+      "blanked": "Awarapan 2 Box Office ______ Emraan Hashmi film holds well on Monday, Nets Rs. 90 Cr in four days",
+      "answer": "Collections",
       "options": [
-        "BJP",
-        "110",
         "SAVE",
-        "Mission"
-      ]
-    },
-    {
-      "blanked": "'Move Imran Khan To Hospital': Pakistan's Top Court Amid Health Concerns For ______",
-      "answer": "Ex-PM",
-      "options": [
-        "Painful",
-        "Ex-PM",
-        "Emraan",
-        "30%"
-      ]
-    },
-    {
-      "blanked": "Batwara 1947 Box Office Collection ______ 4: Sunny Deol's Film Sees Massive Drop On First Monday",
-      "answer": "Day",
-      "options": [
-        "Hospital",
-        "Day",
-        "Nitin",
-        "Reel"
-      ]
-    },
-    {
-      "blanked": "Rishabh ______ creates history, becomes first Indian to achieve this feat in Tests",
-      "answer": "Pant",
-      "options": [
-        "Testicle",
-        "Radiation-Linked",
-        "Pant",
-        "Collection"
-      ]
-    },
-    {
-      "blanked": "Meet Natalie Harp, ______ Close Aide Who Travelled With Him During Turkey Flight Scare",
-      "answer": "Trumps",
-      "options": [
-        "Trumps",
-        "Aide",
-        "Gopichand",
-        "Release"
-      ]
-    },
-    {
-      "blanked": "Apple ______ with cameras surface in leaked video - GSMArena.com news",
-      "answer": "AirPods",
-      "options": [
-        "Naidu",
-        "Kumar",
-        "Donald",
-        "AirPods"
-      ]
-    },
-    {
-      "blanked": "'Positive response' from Amit Shah on NRC updation before Census: Ex-Manipur CM N Biren ______",
-      "answer": "Singh",
-      "options": [
-        "Cancer",
-        "North",
-        "Led",
-        "Singh"
-      ]
-    },
-    {
-      "blanked": "Pleas Against Police Action ______ CJP Student Protests : Live Updates From Supreme Court",
-      "answer": "During",
-      "options": [
-        "Milky",
-        "Box",
-        "During",
-        "Ex-PM"
-      ]
-    },
-    {
-      "blanked": "Why ______ has replaced Amit Malviya as party’s IT cell chief",
-      "answer": "BJP",
-      "options": [
-        "AGM",
-        "September",
-        "BJP",
-        "Rain"
-      ]
-    },
-    {
-      "blanked": "Jharkhand protests: ______ Nath Mahto ends hunger strike after 16 days",
-      "answer": "Devendra",
-      "options": [
-        "Divya",
-        "1.5",
-        "Devendra",
-        "Suriyas"
-      ]
-    },
-    {
-      "blanked": "Sophie Adenot set to become first ______ female astronaut to venture outside ISS",
-      "answer": "French",
-      "options": [
-        "Act",
+        "Sports",
         "Collections",
-        "French",
-        "Health"
+        "Attack"
       ]
     },
     {
-      "blanked": "India vs Sri Lanka Live ______ 1st Test, Day 4: Rain delays play in Galle",
-      "answer": "Score",
+      "blanked": "Vishwanath & Sons ______ Office Collections: Suriya starrer has an ordinary Monday, Gross Rs. 75 Cr in 4 days in India",
+      "answer": "Box",
       "options": [
+        "Denies",
+        "Tells",
+        "15000",
+        "Box"
+      ]
+    },
+    {
+      "blanked": "West Asia war LIVE: Strait of Hormuz to remain closed until U.S. meets interim deal conditions, says ______",
+      "answer": "Ghalibaf",
+      "options": [
+        "AAP",
+        "Skids",
+        "Irani",
+        "Ghalibaf"
+      ]
+    },
+    {
+      "blanked": "Pakistan top court orders Imran ______ hospital transfer amid access battle",
+      "answer": "Khans",
+      "options": [
+        "Inside",
+        "Action",
+        "Mission",
+        "Khans"
+      ]
+    },
+    {
+      "blanked": "'Batwara 1947' box office collection day 4: Sunny Deol, Preity Zinta's film sees 72 percent drop on ______",
+      "answer": "Monda",
+      "options": [
+        "Sports",
+        "Monda",
+        "Crushed",
+        "Suriya"
+      ]
+    },
+    {
+      "blanked": "DRC’s latest deadly Ebola outbreak | ______",
+      "answer": "Explained",
+      "options": [
+        "Release",
+        "Gayatri",
+        "Flaws",
+        "Explained"
+      ]
+    },
+    {
+      "blanked": "Govt may raise FDI approval limit for CCEA to Rs ______ crore, ease downstream rules",
+      "answer": "15000",
+      "options": [
+        "Gopichand",
+        "15000",
+        "Discovery",
+        "Moscow"
+      ]
+    },
+    {
+      "blanked": "NIFTY50, SENSEX trade flat in afternoon session; Zaggle Prepaid, Kalyan ______ L&T among buzzing stocks",
+      "answer": "Jewellers",
+      "options": [
+        "Jewellers",
+        "Aramco",
+        "Universe",
+        "Act"
+      ]
+    },
+    {
+      "blanked": "Pleas Against Police Action During CJP Student Protests : ______ Updates From Supreme Court",
+      "answer": "Live",
+      "options": [
+        "Adenot",
+        "Skids",
+        "Live",
+        "AAP"
+      ]
+    },
+    {
+      "blanked": "National Sports Awards 2025 announced; Divya ______ Gayatri Gopichand, Narender among 17 named for Arjuna Awards",
+      "answer": "Deshmukh",
+      "options": [
+        "30%",
+        "Hole",
+        "Deshmukh",
+        "Kharkiv"
+      ]
+    },
+    {
+      "blanked": "Sophie ______ to become first French woman to conduct spacewalk at ISS",
+      "answer": "Adenot",
+      "options": [
+        "Adenot",
         "September",
-        "Score",
-        "ISS",
-        "Office"
+        "Action",
+        "Court"
+      ]
+    },
+    {
+      "blanked": "Temasek-backed Milky ______ jumps 30% in India debut, hits $1.5 billion valuation",
+      "answer": "Mist",
+      "options": [
+        "Court",
+        "Pro",
+        "Date",
+        "Mist"
       ]
     }
   ]
