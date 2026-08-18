@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-18T03:10:37.186Z",
+  "generatedAt": "2026-08-18T05:02:18.382Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
+    "Trump's Nod To India's Electoral System In Push For Mandatory US Voter ID",
     "Jharkhand protest: Rahul Gandhi urges Hemant Soren to meet protesting students and resolve their issue",
-    "'Every voter had valid ID': Trump praises India polls, renews push for SAVE America Act",
-    "Why BJP has replaced Amit Malviya as party’s IT cell chief",
+    "BJP chief Nitin Nabin’s new team—Piyush Goyal as treasurer, Malviya out, Madhav & Irani make comeback",
+    "Ram Mandir donation theft probe: Supreme Court asks SIT to consider suggestions of litigants, bonafide citizens",
+    "March to July, Government sent one blocking order to social media firms every minute",
+    "Tamil Nadu CM Vijay apologises after minister mentions ex-CM Karunanidhi by name | India News",
+    "Rahul Gandhi demands accountability as NTA announces re-conduct of UGC-NET | India News",
     "India says it thwarted attacks by Pakistan-backed militants, arrested over 200 operatives",
-    "Behind Peace Talks, Iran Hard-Liners Prepare for a Longer, Costlier U.S. War",
-    "\"Let Me Die In Peace\": The Last 90 Minutes Of Twisha Sharma's Life",
-    "Jharkhand Student Leader Devendra Nath Mahto Ends Hunger Strike",
-    "Bengaluru Man, 4-Year-Old Son Found Dead, Wife's Alleged Affair Being Probed",
-    "CEO Releases Telangana Electoral Roll, Check Here",
-    "'Black Money In Elections Corrupts Democracy': Supreme Court Issues Directions To Curb Use Of Unaccounted ...",
-    "Trump Envoy Says Hamas Disarmament Could Begin Within 30 Days",
-    "South Korea hopes for talks between U.S. and North Korea after Trump downsizes military drills",
-    "\"Would Pay A Price\": Moscow Warns UK After British-Made Drones Hit Russia",
-    "Trump threatens to bomb Oman if it gets in way of Iran deal: report",
+    "Indian sailors’ SOS: ‘Company asking us to risk lives, cross Strait of Hormuz’",
+    "Shehzad Poonawalla resigns from BJP ending speculation, says ‘certain individuals’ forced decision",
+    "Trump Slams CNN Reporter Over Natalie Harp, North Korea Questions",
+    "West Asia war LIVE: Erdogan urges Trump to pursue talks with Iran, offers support",
+    "‘Very good’ ties with Kim: Trump orders 'substantial' cut in military drills with South Korea",
+    "Iran says it will escalate if U.S. does not honour deal within weeks",
+    "Stock Market Close: Sensex falls 281 pts, Nifty settles at 24,288; Nifty IT declines nearly 2% - business-standard.com",
+    "Noel Tata may soon discuss Tata Sons status with RBI",
     "Government to soon announce high-level panel on ‘Banking for Viksit Bharat’",
-    "₹20,000 Cr Drone Push: Can This Defence Stock Benefit From Rising Army Procurement?",
-    "Stock Market Close: Sensex falls 281 pts, Nifty settles at 24,288; Nifty IT declines nearly 2%",
-    "Kaynes, Micromax Arm, Wipro Plants To Go Live Soon As Govt Clears Rs 7,877 Cr ECMS Tranche",
-    "iPhone Ultra leakers reveal new details around release and 'extremely limited' availability",
+    "Oil climbs as fading US-Iran peace hopes raise supply risks",
+    "OnePlus, Oppo raise smartphone prices in India",
     "Apple iPhone 18 Pro Release Date: Discounted Day Re-Enters The September Schedule",
     "As iPhone 18 series launch nears, one of Tesla’s biggest investor Ross Gerber says that ‘now is a good ti",
-    "Pixel 11 Pro XL vs. iPhone 17 Pro Max: I Compared Google and Apple’s Flagship Phones",
+    "As Apple’s iPhone Fold launch nears, markets outside US may not get it until later",
     "'Awarapan 2' box office collection day 4: The Emraan Hashmi, Disha Patani starrer holds well on Monday, c",
-    "Batwara 1947 Opening Weekend Box Office: Sunny Deol and Preity Zinta starrer collects slightly under Rs 25 crore in 3 days, needs miraculous trend ahead",
-    "Rhea Chakraborty on life after Sushant Singh Rajput death: ‘Dad was fired, brother lost IIM seat’"
+    "Bigg Boss Malayalam 7 winner Anumol set to enter marital bliss? Shares pictures hinting at 'new beginning",
+    "Anirudh Ravichander and Kavya Maran to marry in Greece? Wedding dates locked for post Diwali - Report"
   ],
   "quiz": [
     {
-      "blanked": "Bengaluru Man, 4-Year-Old Son Found ______ Wife's Alleged Affair Being Probed",
-      "answer": "Dead",
+      "blanked": "‘Very good’ ties with Kim: Trump orders 'substantial' cut in military drills with South ______",
+      "answer": "Korea",
       "options": [
+        "Soren",
+        "24288",
+        "Korea",
+        "Pakistan-backed"
+      ]
+    },
+    {
+      "blanked": "Watch ______ astronaut make history during spacewalk today",
+      "answer": "European",
+      "options": [
+        "CNN",
+        "Viksit",
+        "Shares",
+        "European"
+      ]
+    },
+    {
+      "blanked": "Trump Slams CNN Reporter Over ______ Harp, North Korea Questions",
+      "answer": "Natalie",
+      "options": [
+        "Natalie",
+        "Indias",
         "Release",
-        "Gandhi",
-        "Dead",
-        "Begin"
+        "India"
       ]
     },
     {
-      "blanked": "CEO Releases Telangana Electoral Roll, ______ Here",
-      "answer": "Check",
+      "blanked": "Rahul Gandhi demands accountability as NTA announces re-conduct of UGC-NET | India ______",
+      "answer": "News",
       "options": [
-        "Check",
-        "Singh",
-        "Boom",
-        "Chakraborty"
+        "Nadu",
+        "Boss",
+        "News",
+        "Malayalam"
       ]
     },
     {
-      "blanked": "Stock Market Close: Sensex falls 281 pts, ______ settles at 24,288; Nifty IT declines nearly 2%",
-      "answer": "Nifty",
-      "options": [
-        "Nifty",
-        "Australia",
-        "Disha",
-        "200"
-      ]
-    },
-    {
-      "blanked": "India says it thwarted attacks by Pakistan-backed militants, arrested over ______ operatives",
-      "answer": "200",
-      "options": [
-        "Bangladesh",
-        "200",
-        "Surgery",
-        "ECMS"
-      ]
-    },
-    {
-      "blanked": "South Korea hopes for talks between U.S. and North Korea after ______ downsizes military drills",
-      "answer": "Trump",
-      "options": [
-        "Benefit",
-        "Live",
-        "Trump",
-        "Leader"
-      ]
-    },
-    {
-      "blanked": "Scream 4 Actor Hayden Panettiere Dies Days Before 37th ______",
-      "answer": "Birthday",
-      "options": [
-        "Found",
-        "Defence",
-        "LIVE",
-        "Birthday"
-      ]
-    },
-    {
-      "blanked": "'Every voter had valid ID': Trump praises ______ polls, renews push for SAVE America Act",
-      "answer": "India",
+      "blanked": "OnePlus, ______ raise smartphone prices in India",
+      "answer": "Oppo",
       "options": [
         "India",
-        "LIVE",
-        "Benefit",
-        "Here"
+        "Wedding",
+        "Oppo",
+        "Test"
       ]
     },
     {
-      "blanked": "₹20,000 Cr Drone Push: Can This Defence Stock ______ From Rising Army Procurement?",
-      "answer": "Benefit",
+      "blanked": "Stock ______ Close: Sensex falls 281 pts, Nifty settles at 24,288; Nifty IT declines nearly 2% - business-standard.com",
+      "answer": "Market",
       "options": [
-        "Nifty",
-        "Mahto",
-        "Special",
-        "Benefit"
+        "PNG",
+        "Greece",
+        "Market",
+        "Dobara"
       ]
     },
     {
-      "blanked": "Jharkhand Student ______ Devendra Nath Mahto Ends Hunger Strike",
-      "answer": "Leader",
+      "blanked": "When Bangladesh refused to let fear take over in Australia ______ 1st Test match feature",
+      "answer": "Darwin",
       "options": [
-        "Galle",
-        "Leader",
-        "Directions",
-        "Student"
+        "24288",
+        "Madhav",
+        "Trump",
+        "Darwin"
       ]
     },
     {
-      "blanked": "Kaynes, Micromax ______ Wipro Plants To Go Live Soon As Govt Clears Rs 7,877 Cr ECMS Tranche",
-      "answer": "Arm",
-      "options": [
-        "Singh",
-        "Arm",
-        "America",
-        "Tranche"
-      ]
-    },
-    {
-      "blanked": "\"Would Pay A Price\": ______ Warns UK After British-Made Drones Hit Russia",
-      "answer": "Moscow",
-      "options": [
-        "Moscow",
-        "Rahul",
-        "Drone",
-        "Flagship"
-      ]
-    },
-    {
-      "blanked": "FIH Men’s Hockey ______ Cup Points Table — LIVE updated standings",
+      "blanked": "India's Shetty stuns world number one Shi at ______ Championships",
       "answer": "World",
       "options": [
-        "Explain",
-        "1947",
-        "7877",
-        "World"
+        "Monday",
+        "Date",
+        "World",
+        "Viksit"
+      ]
+    },
+    {
+      "blanked": "Tamil Nadu CM Vijay apologises after minister mentions ex-CM Karunanidhi by name | ______ News",
+      "answer": "India",
+      "options": [
+        "Cargo",
+        "India",
+        "Maran",
+        "Voter"
+      ]
+    },
+    {
+      "blanked": "Jharkhand protest: Rahul ______ urges Hemant Soren to meet protesting students and resolve their issue",
+      "answer": "Gandhi",
+      "options": [
+        "Ebola",
+        "Slams",
+        "Oppo",
+        "Gandhi"
+      ]
+    },
+    {
+      "blanked": "Galle Test: ______ gains big lead despite Dinusha-Dickwella fightback",
+      "answer": "India",
+      "options": [
+        "Sons",
+        "Shetty",
+        "India",
+        "Apples"
+      ]
+    },
+    {
+      "blanked": "‘Zindagi Na Milegi Dobara 2’: Zoya Akhtar confirms sequel to Hrithik Roshan, Farhan Akhtar and Abhay ______",
+      "answer": "Deol",
+      "options": [
+        "Wedding",
+        "200",
+        "Deol",
+        "Push"
       ]
     }
   ]
