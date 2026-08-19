@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-19T06:04:06.519Z",
+  "generatedAt": "2026-08-19T08:04:26.412Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
     "Trump Posts AI Photo Of Hormuz As \"New US Territory\", Says All Mines Removed",
-    "At least 9 killed, 6 injured in massive fire at hotel in Kolkata",
-    "West Asia war highlights: UAE accuses Iran of firing ballistic missiles at its territory",
+    "UAE imposes indefinite trade embargo on Iran over alleged missile attacks",
+    "Child among 9 dead as massive fire breaks out at Kolkata hotel | India News",
+    "CJP vs Vijay: TN directs departments to prevent students from joining left-wing protests",
     "Goa Government Moves Supreme Court Seeking Life Sentence For Tarun Tejpal In Rape Case",
-    "Arvind Kejriwal says Satyendar Jain arrested at BJP's 'behest': 'Lies will be exposed again' | India News",
-    "Jharkhand Government releases list of 44 recruitment exams cancelled due to irregularities",
-    "ED raids 10 locations linked to SP leader Azam Khan, Jauhar University across UP, Delhi",
-    "\"Need To Pay Rent\": Shehzad Poonawalla's First Interview After Quitting BJP",
-    "\"Students Have Eyes Too\": Rahul Gandhi On Union Minister's Protests Remark",
-    "Sang same 'Vande Mataram' as followed by national leaders: Mallikarjun Kharge on charges of 'incomplete' version",
-    "Israel confirms striking Syrian air base, saying Turkey was planning to deploy forces",
-    "Indian-origin man arrested for sexually assaulting woman in Canada's Surrey",
-    "Speed dropped twice, tail strike, tyres burst: 2-hour Vietnam flight drama in Munich",
-    "Fired Ex-Ukrainian Defence Minister Calls For Wartime Elections",
+    "AAP Leader Satyendar Jain Among 6 Arrested Over Irregularities In Delhi Sewage Treatment Plant Tenders",
+    "ED raids SP leader Azam Khan's Trust and university in Uttar Pradesh",
+    "At least 34 children fall ill after detergent served instead of salt in Bihar school’s midday meal",
+    "Independence Day skipped in Punjab schools near Pakistan border? NHRC seeks answers in 4 weeks",
+    "'Deeper nefarious purpose': Congress slams Census 2027 questionnaire, calls it 'deeply flawed'",
+    "US, South Korea to cut length, scope of military drills after Trump order",
+    "US-Canada trade deal: Donald Trump pauses 50% tariffs on Canadian imports for 3 days",
+    "Imran Khan Meets Wife Bushra Bibi, Sister For 1st Time This Year After Court Order",
+    "US issues details of new Green Card rules coming into effect from September 18: Wants bond to prove that",
     "Sensex down 250 pts, Nifty near 24,050: Higher crude prices among key factors behind market decline",
-    "Landmark trial on Meta’s impact on children’s mental health begins in US",
-    "Tech selloff weighs down Wall Street as bond yields climb By Reuters",
-    "Investcorp bets ₹500 crore on 20Cube 3PL, plans $1 billion India push",
+    "'They knew': US states accuse Meta of hiding Instagram's impact on teenagers",
+    "Tata Sons AGM put off over lack of quorum",
+    "Shiprocket shares list at 35% premium on NSE: Here's how much investors made per lot",
     "iPhone 18 Pro's chipset tipped to be 18 percent faster than predecessor - GSMArena.com news",
-    "I tested Samsung’s ultimate folding phone – and it’s a good, not perfect, option for AV fans - What Hi-Fi?",
-    "GTA 6 Leaked Gameplay Shows Off Chaos in a Knockoff Ranchero",
-    "Leaked video of new AirPods shows camera and AI capabilities",
+    "GTA 6 gameplay and map leaks see DMCA strikes, as confidence grows in their legitimacy",
+    "iQOO Neo11 Ultra and Z11S debut in China - GSMArena.com news",
+    "Elden Ring Tarnished Edition on Nintendo Switch 2: New footage shows fewer stutters, but handheld perform",
     "Awarapan 2 Box Office Collection Day 5 Updates: Emraan Hashmi film to cross Rs 150 cr worldwide today",
-    "12.5 percent growth on Day 5 over Monday: Sunny Deol's 'Batwara 1947' crosses Rs 30 crore, recovers only",
-    "Kangana Ranaut says she protested against a teacher who hit children, as she backs Isha Koppikar's views"
+    "Batwara 1947 Box Office Collection Day 5: Sunny Deol's Film Is At Rs 30 Crore And Counting In India",
+    "Apoorva Makhija aka The Rebel Kid confirms she has moved to New York, says ‘I really want to live here’"
   ],
   "quiz": [
     {
-      "blanked": "Investcorp bets ₹500 crore on 20Cube 3PL, plans $1 billion ______ push",
-      "answer": "India",
+      "blanked": "Trump Posts AI Photo Of Hormuz As \"New US Territory\", Says All Mines ______",
+      "answer": "Removed",
+      "options": [
+        "Removed",
+        "Case",
+        "Higher",
+        "Tied"
+      ]
+    },
+    {
+      "blanked": "Disability Status Linked With Lower ______ Cancer Screening Rates",
+      "answer": "Prostate",
       "options": [
         "Mines",
-        "250",
-        "Asia",
-        "India"
-      ]
-    },
-    {
-      "blanked": "Astronauts Anil ______ Sophie Adenot remove faulty ISS antenna but run out of time to install spare",
-      "answer": "Menon",
-      "options": [
-        "Khan",
-        "Leaked",
-        "Mines",
-        "Menon"
-      ]
-    },
-    {
-      "blanked": "\"Students Have Eyes Too\": Rahul Gandhi On Union Minister's ______ Remark",
-      "answer": "Protests",
-      "options": [
-        "Kundra",
-        "Mallikarjun",
-        "Deols",
-        "Protests"
-      ]
-    },
-    {
-      "blanked": "Sang same 'Vande ______ as followed by national leaders: Mallikarjun Kharge on charges of 'incomplete' version",
-      "answer": "Mataram",
-      "options": [
-        "Calls",
-        "Deols",
-        "Mataram",
-        "Removed"
-      ]
-    },
-    {
-      "blanked": "Jharkhand ______ releases list of 44 recruitment exams cancelled due to irregularities",
-      "answer": "Government",
-      "options": [
-        "Interview",
-        "Delhi",
-        "Government",
-        "Ranchero"
-      ]
-    },
-    {
-      "blanked": "ED raids 10 locations linked to SP leader Azam ______ Jauhar University across UP, Delhi",
-      "answer": "Khan",
-      "options": [
-        "Deols",
-        "Khan",
-        "Day",
-        "Syrian"
-      ]
-    },
-    {
-      "blanked": "Speed dropped twice, tail strike, tyres burst: 2-hour ______ flight drama in Munich",
-      "answer": "Vietnam",
-      "options": [
-        "Vietnam",
-        "Menon",
-        "Kundra",
-        "Tarun"
-      ]
-    },
-    {
-      "blanked": "12.5 percent growth on Day 5 over ______ Sunny Deol's 'Batwara 1947' crosses Rs 30 crore, recovers only",
-      "answer": "Monday",
-      "options": [
-        "CKD",
-        "Monday",
-        "Parle-G",
-        "Kejriwal"
-      ]
-    },
-    {
-      "blanked": "\"Need To Pay Rent\": Shehzad Poonawalla's First Interview After Quitting ______",
-      "answer": "BJP",
-      "options": [
-        "500",
-        "Metas",
-        "AirPods",
-        "BJP"
-      ]
-    },
-    {
-      "blanked": "Dietary Risks Tied to Rising Global CKD Burden - The American Journal of Managed ______ (AJMC®)",
-      "answer": "Care",
-      "options": [
-        "Shilpa",
-        "Elections",
-        "Cup",
-        "Care"
-      ]
-    },
-    {
-      "blanked": "Leaked video of new ______ shows camera and AI capabilities",
-      "answer": "AirPods",
-      "options": [
-        "Supreme",
-        "AirPods",
-        "Kundra",
-        "Pay"
-      ]
-    },
-    {
-      "blanked": "GTA 6 Leaked Gameplay Shows ______ Chaos in a Knockoff Ranchero",
-      "answer": "Off",
-      "options": [
-        "Off",
-        "BJPs",
         "Journal",
-        "Interview"
+        "Punjab",
+        "Prostate"
+      ]
+    },
+    {
+      "blanked": "Elden ______ Tarnished Edition on Nintendo Switch 2: New footage shows fewer stutters, but handheld perform",
+      "answer": "Ring",
+      "options": [
+        "Year",
+        "Nintendo",
+        "Ring",
+        "Pros"
+      ]
+    },
+    {
+      "blanked": "'They knew': US states accuse ______ of hiding Instagram's impact on teenagers",
+      "answer": "Meta",
+      "options": [
+        "South",
+        "Heres",
+        "Meta",
+        "Tejpal"
+      ]
+    },
+    {
+      "blanked": "NASA Images Show Crater Carved by SpaceX Rocket that Slammed Into the Moon - ASHARQ AL-AWSAT ______",
+      "answer": "English",
+      "options": [
+        "Shuttling",
+        "English",
+        "Ring",
+        "Heres"
+      ]
+    },
+    {
+      "blanked": "Commiserations pour in for Bayern ______ star Jamal Musiala after his collapse",
+      "answer": "Munich",
+      "options": [
+        "Munich",
+        "Test",
+        "Human",
+        "Year"
+      ]
+    },
+    {
+      "blanked": "Inhalers and blood sugar: Can asthma or ______ medicines raise glucose levels?",
+      "answer": "COPD",
+      "options": [
+        "Korea",
+        "Ranaut",
+        "COPD",
+        "Irregularities"
+      ]
+    },
+    {
+      "blanked": "US issues details of new Green ______ rules coming into effect from September 18: Wants bond to prove that",
+      "answer": "Card",
+      "options": [
+        "Rising",
+        "Pradesh",
+        "Card",
+        "Space"
+      ]
+    },
+    {
+      "blanked": "IND vs SL 1st ______ India on verge of massive win as Sri Lanka four down in chase of 372",
+      "answer": "Test",
+      "options": [
+        "Updates",
+        "Munich",
+        "1947",
+        "Test"
+      ]
+    },
+    {
+      "blanked": "Shiprocket shares list at ______ premium on NSE: Here's how much investors made per lot",
+      "answer": "35%",
+      "options": [
+        "Emraan",
+        "Prostate",
+        "35%",
+        "Into"
+      ]
+    },
+    {
+      "blanked": "At least 34 children fall ill after detergent served instead of salt in ______ school’s midday meal",
+      "answer": "Bihar",
+      "options": [
+        "NSE",
+        "Bihar",
+        "Jamal",
+        "Tenders"
+      ]
+    },
+    {
+      "blanked": "NASA, ______ Space Agency astronauts conduct spacewalk to replace antenna",
+      "answer": "European",
+      "options": [
+        "European",
+        "Khan",
+        "Posts",
+        "Context"
       ]
     }
   ]
