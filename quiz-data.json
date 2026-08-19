@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-19T22:54:56.494Z",
+  "generatedAt": "2026-08-19T23:48:49.580Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
     "U.S. envoy Sergio Gor terms J&K as ‘important part of India’, praises Delhi, CM for peace efforts",
     "Court Rejects Satyendar Jain's Plea Challenging Arrest, Sends Him To Judicial Custody In Delhi Jal Board...",
     "UAE's financial embargo on Iran after missile threat puts rivalry back in spotlight",
-    "30-year corruption case: Supreme Court acquits 2 government employees over ₹20 bribe",
-    "Bombay Bar Association Calls Manan Kumar Mishra's Apology Belated, Says He Must Resign As BCI Chairman",
     "NCERT reconstitutes textbook development team for Class 11, 12 political science; at least 4 members have",
-    "Congress Firm On 2-Stanza Vande Mataram, BJP Terms Party \"Muslim League\"",
+    "30-year corruption case: Supreme Court acquits 2 government employees over ₹20 bribe",
+    "Jharkhand govt. cancels 22 exams over irregularities, tells CID to probe 23 tests",
     "CWC backs two-stanza 'Vande Mataram', seeks to expand student outreach to 800 cities",
-    "Bengal court issues arrest warrant against TMC MP Mahua Moitra in hate speech case | India News",
-    "Bihar: Water cannon used as RJD leaders march to Raj Bhavan; Tejashwi, Misa Bharti detained",
+    "Congress Firm On 2-Stanza Vande Mataram, BJP Terms Party \"Muslim League\"",
+    "Tejashwi, Misa Bharti detained in Patna amid RJD protest against Siwan ‘firing’, paper leaks",
+    "India Reaffirms Support For Palestine, Backs Negotiated Two-State Solution",
     "US pressure on Israel needed for peace in Syria",
-    "Imran Khan Meets Wife Bushra Bibi, Sister For 1st Time This Year After Court Order",
+    "Trump’s Military Strikes Fail To Break Iran: Can ‘Never Seen Before’ Sanctions Force Tehran To Surrender?",
+    "Trump-Kim Jong Un Meeting Could Happen In November This Year: Report",
     "Iran calls California ‘new territory’ after Trump labels Hormuz ‘new US territory’",
-    "'I get along with Kim Jong Un, he has 57 very powerful nuclear weapons': Donald Trump",
     "SEBI bars JP Morgan entity, Mansi Share over alleged CAS manipulation, slaps Rs 3.68 crore impounding...",
-    "Gold pops as dollar, yields fall; spot prices top $4.5k for first time since June",
     "Stock Market LIVE Updates, Sensex Today: Sensex Drops 250 Points As Oil Rises For 4th Day Amid US-Iran Deadlock",
+    "US Treasury doubles some long-dated debt buybacks to support liquidity",
     "Hyundai India Announces Car Price Hike From Sep 2026",
-    "The reMarkable Paper Pro can technically run Android, but it’s a hassle",
-    "Apple camera AirPods could debut soon with Visual Intelligence",
+    "YouTuber ports Android to reMarkable Paper Pro and it brings huge benefits",
     "iPhone 18 Pro Max tipped to be the only model with a variable-aperture camera - GSMArena.com news",
     "Samsung's new foldable smartphones may get costlier in India",
+    "GTA VI keeps leaking ahead of its gameplay premiere",
     "Awarapan 2 Box Office Collection Day 5 Highlights: Emraan Hashmi film set to cross Rs 150 crore mark",
     "Mini Mathur reveals she lost Indian Idol season 5 hosting gig after she revealed her pregnancy: ‘I felt very let down’ | Bollywood",
     "Kartik Aaryan suffers severe knee injury on the sets of Kabir Khan's film, will undergo surgery and rest"
   ],
   "quiz": [
     {
-      "blanked": "Bihar: ______ cannon used as RJD leaders march to Raj Bhavan; Tejashwi, Misa Bharti detained",
-      "answer": "Water",
+      "blanked": "NCERT reconstitutes textbook development team for ______ 11, 12 political science; at least 4 members have",
+      "answer": "Class",
       "options": [
-        "Sons",
-        "Biological",
-        "Water",
-        "Custody"
+        "Class",
+        "Reduces",
+        "Android",
+        "Hike"
       ]
     },
     {
-      "blanked": "Padikkal's innings the defining part of the Galle Test - KL ______",
-      "answer": "Rahul",
-      "options": [
-        "Mathur",
-        "Points",
-        "Rahul",
-        "Fragile"
-      ]
-    },
-    {
-      "blanked": "Iran calls California ‘new territory’ after ______ labels Hormuz ‘new US territory’",
-      "answer": "Trump",
-      "options": [
-        "Sensex",
-        "Championships",
-        "Share",
-        "Trump"
-      ]
-    },
-    {
-      "blanked": "AI ______ Eliminates Sample Shuttling to Protect Fragile Biological Context",
-      "answer": "Microscope",
-      "options": [
-        "World",
-        "Suriyas",
-        "Microscope",
-        "Tan"
-      ]
-    },
-    {
-      "blanked": "Congress Firm On 2-Stanza Vande Mataram, BJP Terms Party ______ League\"",
-      "answer": "Muslim",
-      "options": [
-        "Muslim",
-        "Tejashwi",
-        "Could",
-        "Kabir"
-      ]
-    },
-    {
-      "blanked": "Stock Market LIVE Updates, Sensex Today: Sensex Drops 250 ______ As Oil Rises For 4th Day Amid US-Iran Deadlock",
-      "answer": "Points",
-      "options": [
-        "Drops",
-        "Points",
-        "Water",
-        "Syria"
-      ]
-    },
-    {
-      "blanked": "U.S. envoy ______ Gor terms J&K as ‘important part of India’, praises Delhi, CM for peace efforts",
-      "answer": "Sergio",
-      "options": [
-        "Sergio",
-        "Pakistan",
-        "Emraan",
-        "Mathur"
-      ]
-    },
-    {
-      "blanked": "India rout Pakistan at Hockey World Cup ______ to qualify for second round",
+      "blanked": "Hyundai India Announces Car Price Hike From Sep ______",
       "answer": "2026",
       "options": [
-        "Today",
         "2026",
-        "2378",
-        "Jal"
+        "BJP",
+        "Share",
+        "Garret"
       ]
     },
     {
-      "blanked": "Imran Khan Meets Wife Bushra Bibi, Sister For 1st Time This ______ After Court Order",
-      "answer": "Year",
+      "blanked": "US pressure on ______ needed for peace in Syria",
+      "answer": "Israel",
       "options": [
-        "Suriyas",
-        "Year",
-        "Moon",
-        "European"
+        "Seen",
+        "Israel",
+        "Pro",
+        "Arthritis"
       ]
     },
     {
-      "blanked": "Apple camera ______ could debut soon with Visual Intelligence",
-      "answer": "AirPods",
+      "blanked": "UAE's financial embargo on ______ after missile threat puts rivalry back in spotlight",
+      "answer": "Iran",
       "options": [
-        "Sends",
+        "Iran",
+        "Hike",
+        "Report",
+        "Support"
+      ]
+    },
+    {
+      "blanked": "Mini Mathur reveals she lost ______ Idol season 5 hosting gig after she revealed her pregnancy: ‘I felt very let down’ | Bollywood",
+      "answer": "Indian",
+      "options": [
+        "Never",
         "Indian",
-        "AirPods",
-        "CAS"
+        "5000",
+        "Suthars"
       ]
     },
     {
-      "blanked": "30-year corruption case: Supreme ______ acquits 2 government employees over ₹20 bribe",
-      "answer": "Court",
+      "blanked": "CWC backs two-stanza ______ Mataram', seeks to expand student outreach to 800 cities",
+      "answer": "Vande",
       "options": [
-        "Court",
-        "Microscope",
-        "Apology",
-        "Water"
+        "Android",
+        "Vande",
+        "Pakistan",
+        "Vishwanath"
       ]
     },
     {
-      "blanked": "Awarapan 2 Box Office Collection Day 5 Highlights: ______ Hashmi film set to cross Rs 150 crore mark",
-      "answer": "Emraan",
+      "blanked": "SEBI bars JP Morgan entity, Mansi Share over alleged CAS manipulation, slaps Rs ______ crore impounding...",
+      "answer": "3.68",
       "options": [
-        "Rahul",
-        "Mataram",
-        "June",
-        "Emraan"
+        "Arrest",
+        "Can",
+        "Paper",
+        "3.68"
+      ]
+    },
+    {
+      "blanked": "Jharkhand govt. cancels 22 exams over irregularities, tells ______ to probe 23 tests",
+      "answer": "CID",
+      "options": [
+        "Lakshya",
+        "Adenot",
+        "Human",
+        "CID"
+      ]
+    },
+    {
+      "blanked": "'Speechless' Garret Tan silences Lakshya Sen and Delhi crowd at BWF ______ Championships",
+      "answer": "World",
+      "options": [
+        "Android",
+        "Paper",
+        "Sons",
+        "World"
+      ]
+    },
+    {
+      "blanked": "Samsung's new foldable smartphones may get costlier in ______",
+      "answer": "India",
+      "options": [
+        "India",
+        "Adenot",
+        "Custody",
+        "RJD"
+      ]
+    },
+    {
+      "blanked": "Tejashwi, Misa Bharti detained in Patna amid ______ protest against Siwan ‘firing’, paper leaks",
+      "answer": "RJD",
+      "options": [
+        "Headingley",
+        "800",
+        "CID",
+        "RJD"
+      ]
+    },
+    {
+      "blanked": "IND vs SL 1st Test: ______ 10-wicket haul powers India to 165-run win",
+      "answer": "Suthars",
+      "options": [
+        "Can",
+        "Drops",
+        "Suthars",
+        "LIVE"
       ]
     }
   ]
