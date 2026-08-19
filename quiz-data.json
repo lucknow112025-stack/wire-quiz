@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-19T19:57:19.131Z",
+  "generatedAt": "2026-08-19T20:58:34.817Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
     "U.S. envoy Sergio Gor terms J&K as ‘important part of India’, praises Delhi, CM for peace efforts",
-    "At least nine killed in hotel fire in India's Kolkata",
     "Court Rejects Satyendar Jain's Plea Challenging Arrest, Sends Him To Judicial Custody In Delhi Jal Board...",
+    "UAE's financial embargo on Iran after missile threat puts rivalry back in spotlight",
+    "In U-Turn, Vijay Government Withdraws Order Barring Students From Protesting",
     "3 Killed, 3 Injured As CNG Cylinder Explodes At Fuel Pump In Delhi",
-    "UAE trade embargo could shut Iran’s key economic escape route: Here’s why",
-    "Tamil Nadu government order to prevent student participation in Left, CJP protests sparks controversy, withdrawn",
+    "In Cabinet Meet, Review Of Ministers' Social Media Performance: Inside Track",
+    "CWC backs two-stanza 'Vande Mataram', seeks to expand student outreach to 800 cities",
     "Congress Firm On 2-Stanza Vande Mataram, BJP Terms Party \"Muslim League\"",
     "Bengal court issues arrest warrant against TMC MP Mahua Moitra in hate speech case | India News",
     "Woman Critical After Doctors Leave Gloves, Wipes In Abdomen During C-Section",
-    "Don’t need certificate of honesty: Punjab CM Mann attacks BJP, ED over allegations of 61 wrongdoings",
-    "EXCLUSIVE: Mossad director, Syria foreign minister discussed Turkish military deployments before strikes, sources say",
+    "Trump-Bibi tensions deepen? US officials frustrated by Israel’s Syria strikes: Report",
     "Imran Khan Meets Wife Bushra Bibi, Sister For 1st Time This Year After Court Order",
-    "‘Strangling over time’: Trump shifts Iran strategy, halts talks amid frustration over Oman...",
-    "Israel admits firing on car carrying Hind Rajab, symbol of Gaza’s suffering",
+    "Iran calls California ‘new territory’ after Trump labels Hormuz ‘new US territory’",
+    "Trump-Kim Jong Un Meeting Could Happen In November This Year: Report",
     "Stock Market LIVE Updates, Sensex Today: Sensex Drops 250 Points As Oil Rises For 4th Day Amid US-Iran Deadlock",
     "US Treasury doubles some long-dated debt buybacks to support liquidity",
     "SEBI bars JP Morgan entity, Mansi Share over alleged CAS manipulation, slaps Rs 3.68 crore impounding...",
-    "RBI MPC minutes: Governor Sanjay Malhotra says inflation largely supply-driven, sees FY27 average at 5%",
-    "Samsung's new foldable smartphones may get costlier in India",
-    "Apple Camera-Equipped AirPods Leak: What We Know",
+    "Hyundai India Announces Car Price Hike From Sep 2026",
+    "The reMarkable Paper Pro can technically run Android, but it’s a hassle",
     "iPhone 18 Pro Max tipped to be the only model with a variable-aperture camera - GSMArena.com news",
-    "Garmin Draws Level With Samsung in Global Smartwatch Share",
+    "T-Mobile is giving away the Samsung Galaxy Z Fold 8 right now — how to qualify for this wild offer",
+    "GTA VI keeps leaking ahead of its gameplay premiere",
     "Awarapan 2 Box Office Collection Day 5 Highlights: Emraan Hashmi film set to cross Rs 150 crore mark",
     "Amid Divorce Buzz With Sunita Ahuja, Govinda's Old Claim About 'Second Marriage' In Kundali Resurfaces",
     "Mini Mathur reveals she lost Indian Idol season 5 hosting gig after she revealed her pregnancy: ‘I felt very let down’ | Bollywood"
   ],
   "quiz": [
     {
+      "blanked": "Amid Divorce Buzz With Sunita Ahuja, Govinda's Old Claim About 'Second Marriage' In Kundali ______",
+      "answer": "Resurfaces",
+      "options": [
+        "Deadlock",
+        "Announces",
+        "Resurfaces",
+        "Performance"
+      ]
+    },
+    {
+      "blanked": "AI Microscope Eliminates Sample Shuttling to Protect Fragile ______ Context",
+      "answer": "Biological",
+      "options": [
+        "Gloves",
+        "2026",
+        "Biological",
+        "Leave"
+      ]
+    },
+    {
+      "blanked": "The reMarkable Paper Pro can technically run ______ but it’s a hassle",
+      "answer": "Android",
+      "options": [
+        "Leave",
+        "Satyendar",
+        "Android",
+        "Firm"
+      ]
+    },
+    {
+      "blanked": "U.S. envoy Sergio ______ terms J&K as ‘important part of India’, praises Delhi, CM for peace efforts",
+      "answer": "Gor",
+      "options": [
+        "Cylinder",
+        "Gor",
+        "800",
+        "Challenging"
+      ]
+    },
+    {
+      "blanked": "Trump-Bibi tensions deepen? US officials frustrated by ______ Syria strikes: Report",
+      "answer": "Israels",
+      "options": [
+        "US-Iran",
+        "Israels",
+        "Track",
+        "Oil"
+      ]
+    },
+    {
+      "blanked": "In ______ Meet, Review Of Ministers' Social Media Performance: Inside Track",
+      "answer": "Cabinet",
+      "options": [
+        "Cabinet",
+        "Galle",
+        "India",
+        "Drops"
+      ]
+    },
+    {
+      "blanked": "Imran Khan Meets Wife Bushra Bibi, Sister For 1st Time This Year After Court ______",
+      "answer": "Order",
+      "options": [
+        "Muslim",
+        "150",
+        "Order",
+        "Study"
+      ]
+    },
+    {
+      "blanked": "3 Killed, 3 Injured As CNG Cylinder ______ At Fuel Pump In Delhi",
+      "answer": "Explodes",
+      "options": [
+        "European",
+        "Explodes",
+        "Vijay",
+        "Arrest"
+      ]
+    },
+    {
+      "blanked": "India rout Pakistan at Hockey World Cup ______ to qualify for second round",
+      "answer": "2026",
+      "options": [
+        "150",
+        "2026",
+        "Championships",
+        "Delhi"
+      ]
+    },
+    {
       "blanked": "Mini Mathur reveals she lost Indian ______ season 5 hosting gig after she revealed her pregnancy: ‘I felt very let down’ | Bollywood",
       "answer": "Idol",
       "options": [
-        "Know",
+        "SpaceX",
+        "Bollywood",
         "Idol",
-        "Points",
-        "Year"
+        "Barring"
       ]
     },
     {
-      "blanked": "Woman Critical After Doctors Leave ______ Wipes In Abdomen During C-Section",
-      "answer": "Gloves",
+      "blanked": "Awarapan 2 Box Office Collection Day 5 Highlights: Emraan ______ film set to cross Rs 150 crore mark",
+      "answer": "Hashmi",
       "options": [
-        "Tan",
-        "Camera-Equipped",
-        "Gloves",
-        "Irans"
-      ]
-    },
-    {
-      "blanked": "Apple Camera-Equipped ______ Leak: What We Know",
-      "answer": "AirPods",
-      "options": [
-        "Smartwatch",
-        "AirPods",
-        "Vande",
-        "BMI"
-      ]
-    },
-    {
-      "blanked": "iPhone 18 Pro ______ tipped to be the only model with a variable-aperture camera - GSMArena.com news",
-      "answer": "Max",
-      "options": [
-        "Explodes",
-        "Order",
-        "Max",
-        "Heres"
-      ]
-    },
-    {
-      "blanked": "IND vs SL 1st Test: ______ 10-wicket haul powers India to 165-run win",
-      "answer": "Suthars",
-      "options": [
-        "Level",
         "Challenging",
-        "Suthars",
-        "Mansi"
+        "Hashmi",
+        "250",
+        "Moitra"
       ]
     },
     {
-      "blanked": "Amid Divorce Buzz With Sunita Ahuja, Govinda's Old Claim About 'Second ______ In Kundali Resurfaces",
-      "answer": "Marriage",
+      "blanked": "IND vs SL 1st Test: ______ ‘pleased’ with Sri Lanka’s attitude",
+      "answer": "Kirsten",
       "options": [
-        "Know",
-        "Marriage",
-        "Suthars",
-        "Resurfaces"
-      ]
-    },
-    {
-      "blanked": "SEBI bars JP Morgan entity, Mansi Share over alleged CAS manipulation, slaps Rs ______ crore impounding...",
-      "answer": "3.68",
-      "options": [
-        "Sister",
-        "Critical",
-        "3.68",
-        "Biological"
-      ]
-    },
-    {
-      "blanked": "'Speechless' Garret ______ silences Lakshya Sen and Delhi crowd at BWF World Championships",
-      "answer": "Tan",
-      "options": [
-        "Tan",
-        "Effectiveness",
-        "Crater",
-        "Lankas"
-      ]
-    },
-    {
-      "blanked": "3 Killed, 3 Injured As CNG ______ Explodes At Fuel Pump In Delhi",
-      "answer": "Cylinder",
-      "options": [
-        "Mataram",
-        "Cylinder",
-        "Agency",
-        "Microscope"
-      ]
-    },
-    {
-      "blanked": "DR Congo says Ebola cases exceed 5,000 with ______ deaths",
-      "answer": "2378",
-      "options": [
-        "Wife",
-        "Rocket",
-        "Irans",
+        "Year",
+        "Microscope",
+        "Kirsten",
         "2378"
-      ]
-    },
-    {
-      "blanked": "Akshaye ______ set to return in 'Mahakali'; 'Dhurandhar' star to appear as Shukracharya; first glimpse ar",
-      "answer": "Khanna",
-      "options": [
-        "Meets",
-        "Into",
-        "Khanna",
-        "Championships"
-      ]
-    },
-    {
-      "blanked": "Imran ______ Meets Wife Bushra Bibi, Sister For 1st Time This Year After Court Order",
-      "answer": "Khan",
-      "options": [
-        "Second",
-        "Context",
-        "Khan",
-        "Collection"
       ]
     }
   ]
