@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-19T05:04:24.371Z",
+  "generatedAt": "2026-08-19T06:04:06.519Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "West Asia war highlights: UAE accuses Iran of firing ballistic missiles at its territory",
+    "Trump Posts AI Photo Of Hormuz As \"New US Territory\", Says All Mines Removed",
     "At least 9 killed, 6 injured in massive fire at hotel in Kolkata",
-    "Gen Z Protests : Supreme Court Expresses Intention To Quash FIRs Against Students, Says 'Question Of...",
+    "West Asia war highlights: UAE accuses Iran of firing ballistic missiles at its territory",
     "Goa Government Moves Supreme Court Seeking Life Sentence For Tarun Tejpal In Rape Case",
     "Arvind Kejriwal says Satyendar Jain arrested at BJP's 'behest': 'Lies will be exposed again' | India News",
-    "Hormuz Strait to remain shut until U.S. meets interim deal conditions, Iran says",
+    "Jharkhand Government releases list of 44 recruitment exams cancelled due to irregularities",
     "ED raids 10 locations linked to SP leader Azam Khan, Jauhar University across UP, Delhi",
-    "Bengaluru Woman, Friend Arrested For Killing Husband, Son",
-    "‘I don’t live in India anymore': Apoorva Mukhija reveals why she moved to New York, says ‘kaleshi aurat is dead now’ | Web Series",
-    "Education Ministry tightens noose on question paper leak, introduces four-tier checking system",
-    "West Asia war LIVE: Turkiye rejects Israeli claims after strike on Syria air base",
-    "Indian-Origin Man, 40, Arrested For Groping Young Woman In Canada Park",
+    "\"Need To Pay Rent\": Shehzad Poonawalla's First Interview After Quitting BJP",
+    "\"Students Have Eyes Too\": Rahul Gandhi On Union Minister's Protests Remark",
+    "Sang same 'Vande Mataram' as followed by national leaders: Mallikarjun Kharge on charges of 'incomplete' version",
+    "Israel confirms striking Syrian air base, saying Turkey was planning to deploy forces",
+    "Indian-origin man arrested for sexually assaulting woman in Canada's Surrey",
+    "Speed dropped twice, tail strike, tyres burst: 2-hour Vietnam flight drama in Munich",
     "Fired Ex-Ukrainian Defence Minister Calls For Wartime Elections",
-    "US, South Korea to cut length, scope of military drills after Trump order",
-    "GIFT Nifty inches up, signals cautious start for Sensex, Nifty; Asian chip rout, rising crude, yields...",
+    "Sensex down 250 pts, Nifty near 24,050: Higher crude prices among key factors behind market decline",
     "Landmark trial on Meta’s impact on children’s mental health begins in US",
-    "Tata Sons AGM put off over lack of quorum",
     "Tech selloff weighs down Wall Street as bond yields climb By Reuters",
+    "Investcorp bets ₹500 crore on 20Cube 3PL, plans $1 billion India push",
     "iPhone 18 Pro's chipset tipped to be 18 percent faster than predecessor - GSMArena.com news",
     "I tested Samsung’s ultimate folding phone – and it’s a good, not perfect, option for AV fans - What Hi-Fi?",
-    "OnePlus hikes prices for the fifth time in nine months as India market share sinks",
+    "GTA 6 Leaked Gameplay Shows Off Chaos in a Knockoff Ranchero",
     "Leaked video of new AirPods shows camera and AI capabilities",
     "Awarapan 2 Box Office Collection Day 5 Updates: Emraan Hashmi film to cross Rs 150 cr worldwide today",
     "12.5 percent growth on Day 5 over Monday: Sunny Deol's 'Batwara 1947' crosses Rs 30 crore, recovers only",
-    "Vishwanath & Sons Box Office Collections: Suriya starrer has an ordinary Monday, Gross Rs. 75 Cr in 4 days in India"
+    "Kangana Ranaut says she protested against a teacher who hit children, as she backs Isha Koppikar's views"
   ],
   "quiz": [
     {
-      "blanked": "West Asia war highlights: UAE accuses ______ of firing ballistic missiles at its territory",
-      "answer": "Iran",
-      "options": [
-        "Khan",
-        "University",
-        "Elections",
-        "Iran"
-      ]
-    },
-    {
-      "blanked": "Disability Status ______ With Lower Prostate Cancer Screening Rates",
-      "answer": "Linked",
-      "options": [
-        "Parameswarans",
-        "Linked",
-        "FIRs",
-        "CKD"
-      ]
-    },
-    {
-      "blanked": "Tata ______ AGM put off over lack of quorum",
-      "answer": "Sons",
-      "options": [
-        "Hockey",
-        "Sons",
-        "Star",
-        "Trump"
-      ]
-    },
-    {
-      "blanked": "Dietary Risks ______ to Rising Global CKD Burden - The American Journal of Managed Care® (AJMC®)",
-      "answer": "Tied",
-      "options": [
-        "FIRs",
-        "Hi-Fi",
-        "Tied",
-        "Kolkata"
-      ]
-    },
-    {
-      "blanked": "OnePlus hikes prices for the fifth time in nine months as ______ market share sinks",
+      "blanked": "Investcorp bets ₹500 crore on 20Cube 3PL, plans $1 billion ______ push",
       "answer": "India",
       "options": [
-        "Rates",
-        "Parameswarans",
-        "India",
-        "Court"
+        "Mines",
+        "250",
+        "Asia",
+        "India"
       ]
     },
     {
-      "blanked": "Leaked video of new ______ shows camera and AI capabilities",
-      "answer": "AirPods",
+      "blanked": "Astronauts Anil ______ Sophie Adenot remove faulty ISS antenna but run out of time to install spare",
+      "answer": "Menon",
       "options": [
-        "Turkiye",
-        "Managed",
-        "AirPods",
-        "Ministry"
+        "Khan",
+        "Leaked",
+        "Mines",
+        "Menon"
       ]
     },
     {
-      "blanked": "Gen Z ______ : Supreme Court Expresses Intention To Quash FIRs Against Students, Says 'Question Of...",
+      "blanked": "\"Students Have Eyes Too\": Rahul Gandhi On Union Minister's ______ Remark",
       "answer": "Protests",
       "options": [
-        "Day",
-        "Like",
-        "Protests",
-        "India"
+        "Kundra",
+        "Mallikarjun",
+        "Deols",
+        "Protests"
+      ]
+    },
+    {
+      "blanked": "Sang same 'Vande ______ as followed by national leaders: Mallikarjun Kharge on charges of 'incomplete' version",
+      "answer": "Mataram",
+      "options": [
+        "Calls",
+        "Deols",
+        "Mataram",
+        "Removed"
+      ]
+    },
+    {
+      "blanked": "Jharkhand ______ releases list of 44 recruitment exams cancelled due to irregularities",
+      "answer": "Government",
+      "options": [
+        "Interview",
+        "Delhi",
+        "Government",
+        "Ranchero"
       ]
     },
     {
       "blanked": "ED raids 10 locations linked to SP leader Azam ______ Jauhar University across UP, Delhi",
       "answer": "Khan",
       "options": [
-        "Cancer",
-        "Sentence",
+        "Deols",
         "Khan",
-        "Students"
+        "Day",
+        "Syrian"
       ]
     },
     {
-      "blanked": "Indian-Origin Man, 40, Arrested For ______ Young Woman In Canada Park",
-      "answer": "Groping",
+      "blanked": "Speed dropped twice, tail strike, tyres burst: 2-hour ______ flight drama in Munich",
+      "answer": "Vietnam",
       "options": [
-        "Edge",
-        "Groping",
-        "CKD",
-        "Daughter"
-      ]
-    },
-    {
-      "blanked": "India vs Pakistan Hockey ______ Cup: Knockout dream, survival at stake in blockbuster clash",
-      "answer": "World",
-      "options": [
-        "University",
-        "Meet",
-        "World",
-        "Box"
+        "Vietnam",
+        "Menon",
+        "Kundra",
+        "Tarun"
       ]
     },
     {
       "blanked": "12.5 percent growth on Day 5 over ______ Sunny Deol's 'Batwara 1947' crosses Rs 30 crore, recovers only",
       "answer": "Monday",
       "options": [
-        "Intention",
+        "CKD",
         "Monday",
-        "Hashmi",
-        "Delhi"
+        "Parle-G",
+        "Kejriwal"
       ]
     },
     {
-      "blanked": "From Engineering to Edge of the Universe: Meet Rohan Naidu, the Astronomer Behind ‘Black ______ Star’ Discovery",
-      "answer": "Hole",
+      "blanked": "\"Need To Pay Rent\": Shehzad Poonawalla's First Interview After Quitting ______",
+      "answer": "BJP",
       "options": [
-        "What",
-        "Asian",
-        "Parameswarans",
-        "Hole"
+        "500",
+        "Metas",
+        "AirPods",
+        "BJP"
+      ]
+    },
+    {
+      "blanked": "Dietary Risks Tied to Rising Global CKD Burden - The American Journal of Managed ______ (AJMC®)",
+      "answer": "Care",
+      "options": [
+        "Shilpa",
+        "Elections",
+        "Cup",
+        "Care"
+      ]
+    },
+    {
+      "blanked": "Leaked video of new ______ shows camera and AI capabilities",
+      "answer": "AirPods",
+      "options": [
+        "Supreme",
+        "AirPods",
+        "Kundra",
+        "Pay"
+      ]
+    },
+    {
+      "blanked": "GTA 6 Leaked Gameplay Shows ______ Chaos in a Knockoff Ranchero",
+      "answer": "Off",
+      "options": [
+        "Off",
+        "BJPs",
+        "Journal",
+        "Interview"
       ]
     }
   ]
