@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-19T16:59:59.436Z",
+  "generatedAt": "2026-08-19T17:54:34.872Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
     "U.S. envoy Sergio Gor terms J&K as ‘important part of India’, praises Delhi, CM for peace efforts",
     "At least nine killed in hotel fire in India's Kolkata",
+    "NEET-UG : Supreme Court Scrutinises NTA Capacity, Says Dedicated & Scientifically Equipped Body Like UPSC ...",
+    "Delhi court sends AAP's Satyendar Jain to judicial custody, refuses to declare his arrest illegal",
     "3 Killed, 3 Injured As CNG Cylinder Explodes At Fuel Pump In Delhi",
-    "Court Rejects Satyendar Jain's Plea Challenging Arrest, Sends Him To Judicial Custody In Delhi Jal Board...",
     "Tamil Nadu government order to prevent students from participating in CJP, Left parties’ protests withdrawn after row",
+    "Bengal court issues arrest warrant against TMC MP Mahua Moitra in hate speech case | India News",
+    "At least 34 children fall ill after alleged detergent mix-up in Bihar school midday meal",
+    "Don’t need certificate of honesty: Punjab CM Mann attacks BJP, ED over allegations of 61 wrongdoings",
+    "'I will join Congress only if...': Ex-BJP leader Shehzad Poonawalla sets condition for opposition",
     "UAE trade embargo could shut Iran’s key economic escape route: Here’s why",
-    "\"Need To Pay Rent\": Shehzad Poonawalla's First Interview After Quitting BJP",
-    "Husband and mother-in-law charged over Indian bride's death",
-    "'There's a problem at the border': Rijiju admits delineation issue in Arunachal, rejects China incursion",
-    "“If You Don't Decide, We Will”: Supreme Court Pulls Up Odisha Over Delay In Dara Singh's Remission",
-    "US green card applicants to face broader public charge scrutiny from September 18",
-    "Trump Pauses New 50% Tariffs On Canada, Claiming Last-Minute Deal",
     "Imran Khan Meets Wife Bushra Bibi, Sister For 1st Time This Year After Court Order",
     "Turkey slams Israel's 'untenable' claims after strikes on Syrian base",
-    "Nifty falls for 7th straight session: Will the benchmark take support at 24,000? Here's what analysts say",
-    "RBI MPC minutes: Governor Sanjay Malhotra says inflation largely supply-driven, sees FY27 average at 5%",
-    "SEBI passes swift order in Sensex Expiry-Day Manipulation, slaps Rs 3.68 crore impounding order on...",
+    "US-Canada tariff row eases: Trump pauses 50% levies after last-minute deal",
+    "Stock Market LIVE Updates, Sensex Today: Sensex Drops 250 Points As Oil Rises For 4th Day Amid US-Iran Deadlock",
     "Gold prices extend gains after Treasury says it plans to increase buybacks",
+    "SEBI passes swift order in Sensex Expiry-Day Manipulation, slaps Rs 3.68 crore impounding order on...",
+    "Marvell gives Google option to buy $12.2 billion stake in custom AI chip deal",
     "Samsung's new foldable smartphones may get costlier in India",
-    "HOVERAir Launches VERSA 2-in-1 Gimbal and Camera Drone",
     "Garmin Draws Level With Samsung in Global Smartwatch Share",
+    "Hoverair Versa launches on Indiegogo: Self-flying gimbal camera with AI auto tracking, 10-bit H-LOG, and up to 17.5 stops dynamic range",
     "iPhone 18 Pro Max tipped to be the only model with a variable-aperture camera - GSMArena.com news",
     "Awarapan 2 Box Office Collection Day 5 Updates: Emraan Hashmi film set to cross Rs 150 crore mark",
-    "Sunita Ahuja Withdraws Divorce Case Against Govinda, Manager Confirms",
-    "Jr NTR's Beloved Dog Bagheera Dies After Four Years, Actor Shares Heartbreaking Memories"
+    "Amid Divorce Buzz With Sunita Ahuja, Govinda's Old Claim About 'Second Marriage' In Kundali Resurfaces",
+    "Akshaye Khanna set to return in 'Mahakali'; 'Dhurandhar' star to appear as Shukracharya; first glimpse ar"
   ],
   "quiz": [
     {
-      "blanked": "HOVERAir Launches VERSA 2-in-1 Gimbal and Camera ______",
-      "answer": "Drone",
+      "blanked": "Higher BMI Reduces ______ of JAK Inhibitors in Arthritis",
+      "answer": "Effectiveness",
       "options": [
-        "Highlights",
-        "Dara",
-        "Drone",
-        "Rejects"
+        "SpaceX",
+        "Effectiveness",
+        "Samsung",
+        "About"
       ]
     },
     {
-      "blanked": "NASA, ______ Space Agency astronauts conduct spacewalk to replace antenna",
-      "answer": "European",
+      "blanked": "Delhi court sends ______ Satyendar Jain to judicial custody, refuses to declare his arrest illegal",
+      "answer": "AAPs",
       "options": [
-        "World",
-        "Four",
-        "European",
-        "Solves"
+        "Max",
+        "AAPs",
+        "Sensex",
+        "Year"
       ]
     },
     {
       "blanked": "At least nine killed in hotel fire in ______ Kolkata",
       "answer": "Indias",
       "options": [
-        "China",
-        "Face",
+        "Meets",
+        "Indias",
+        "Sister",
+        "Mann"
+      ]
+    },
+    {
+      "blanked": "3 Killed, 3 Injured As CNG Cylinder ______ At Fuel Pump In Delhi",
+      "answer": "Explodes",
+      "options": [
+        "Suthars",
+        "Explodes",
+        "Beyond",
+        "TMC"
+      ]
+    },
+    {
+      "blanked": "Turkey slams ______ 'untenable' claims after strikes on Syrian base",
+      "answer": "Israels",
+      "options": [
+        "Mahakali",
+        "Israels",
         "Manipulation",
-        "Indias"
+        "Agency"
       ]
     },
     {
-      "blanked": "US green card applicants to face broader public charge scrutiny from ______ 18",
-      "answer": "September",
+      "blanked": "Imran Khan Meets Wife Bushra Bibi, Sister For 1st Time This Year After Court ______",
+      "answer": "Order",
       "options": [
-        "Sensex",
-        "September",
-        "Sindhu",
-        "CJP"
+        "BJP",
+        "Indiegogo",
+        "Self-flying",
+        "Order"
       ]
     },
     {
-      "blanked": "Turkey slams Israel's 'untenable' claims after strikes on ______ base",
-      "answer": "Syrian",
+      "blanked": "Tamil Nadu government order to prevent students from participating in CJP, ______ parties’ protests withdrawn after row",
+      "answer": "Left",
       "options": [
-        "Killed",
-        "Ahuja",
-        "Interview",
-        "Syrian"
+        "Congress",
+        "Left",
+        "Fuel",
+        "Office"
       ]
     },
     {
-      "blanked": "Garmin Draws ______ With Samsung in Global Smartwatch Share",
-      "answer": "Level",
+      "blanked": "iPhone 18 Pro ______ tipped to be the only model with a variable-aperture camera - GSMArena.com news",
+      "answer": "Max",
       "options": [
-        "Level",
-        "Four",
-        "Challenging",
-        "Dara"
+        "Max",
+        "Punjab",
+        "Jain",
+        "5000"
       ]
     },
     {
-      "blanked": "India vs Pakistan Highlights, Hockey World ______ 2026: IND 5-3 PAK; Abhishek, Harmanpreet bag braces; Indian team advances",
-      "answer": "Cup",
+      "blanked": "Don’t need certificate of honesty: Punjab CM ______ attacks BJP, ED over allegations of 61 wrongdoings",
+      "answer": "Mann",
       "options": [
-        "Tariffs",
-        "Cup",
-        "Risk",
-        "Indias"
+        "Versa",
+        "Points",
+        "Mann",
+        "Khanna"
+      ]
+    },
+    {
+      "blanked": "NEET-UG : Supreme Court Scrutinises NTA Capacity, Says Dedicated & ______ Equipped Body Like UPSC ...",
+      "answer": "Scientifically",
+      "options": [
+        "Combat",
+        "Scientifically",
+        "Cylinder",
+        "Pakistan"
       ]
     },
     {
       "blanked": "Nasa images reveal 60-foot crater after SpaceX rocket crashes on ______",
       "answer": "Moon",
       "options": [
-        "Flight",
-        "Challenging",
-        "Ayush",
-        "Moon"
+        "Garret",
+        "3.68",
+        "Moon",
+        "Hockey"
       ]
     },
     {
-      "blanked": "Gold prices extend gains after ______ says it plans to increase buybacks",
-      "answer": "Treasury",
+      "blanked": "'I will join Congress only if...': ______ leader Shehzad Poonawalla sets condition for opposition",
+      "answer": "Ex-BJP",
       "options": [
-        "24000",
-        "Time",
-        "China",
-        "Treasury"
-      ]
-    },
-    {
-      "blanked": "Akshaye ______ set to return in 'Mahakali'; 'Dhurandhar' star to appear as Shukracharya; first glimpse ar",
-      "answer": "Khanna",
-      "options": [
-        "Khanna",
-        "NTRs",
-        "Pauses",
-        "Pakistan"
-      ]
-    },
-    {
-      "blanked": "Sunita Ahuja Withdraws Divorce Case ______ Govinda, Manager Confirms",
-      "answer": "Against",
-      "options": [
-        "Plea",
-        "Indias",
-        "Withdraws",
-        "Against"
-      ]
-    },
-    {
-      "blanked": "RBI MPC minutes: Governor ______ Malhotra says inflation largely supply-driven, sees FY27 average at 5%",
-      "answer": "Sanjay",
-      "options": [
-        "Tariffs",
-        "Sanjay",
-        "Decide",
-        "JAK"
+        "Kundali",
+        "Ex-BJP",
+        "Second",
+        "World"
       ]
     }
   ]
