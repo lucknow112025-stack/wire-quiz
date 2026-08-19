@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-19T08:04:26.412Z",
+  "generatedAt": "2026-08-19T09:54:17.977Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "Trump Posts AI Photo Of Hormuz As \"New US Territory\", Says All Mines Removed",
+    "Massive fire in Kolkata hotel kills nine",
+    "In U-Turn, Vijay Government Withdraws Order Barring Students From Protesting",
+    "NEET-UG : Supreme Court Scrutinises NTA Capacity, Says Dedicated & Scientifically Equipped Body Like UPSC ...",
+    "Hormuz Strait to remain shut until U.S. meets interim deal conditions, Iran says",
     "UAE imposes indefinite trade embargo on Iran over alleged missile attacks",
-    "Child among 9 dead as massive fire breaks out at Kolkata hotel | India News",
-    "CJP vs Vijay: TN directs departments to prevent students from joining left-wing protests",
-    "Goa Government Moves Supreme Court Seeking Life Sentence For Tarun Tejpal In Rape Case",
-    "AAP Leader Satyendar Jain Among 6 Arrested Over Irregularities In Delhi Sewage Treatment Plant Tenders",
-    "ED raids SP leader Azam Khan's Trust and university in Uttar Pradesh",
+    "India imposes phased ban on import of 405 defence items to boost domestic production | India News",
+    "Tejashwi Yadav Detained During Protest Against Cop Using AK-47, Water Cannons Used",
+    "'CJI Like A Father Figure,' Says Newly Elected SCBA President Pradeep Rai",
     "At least 34 children fall ill after detergent served instead of salt in Bihar school’s midday meal",
-    "Independence Day skipped in Punjab schools near Pakistan border? NHRC seeks answers in 4 weeks",
-    "'Deeper nefarious purpose': Congress slams Census 2027 questionnaire, calls it 'deeply flawed'",
-    "US, South Korea to cut length, scope of military drills after Trump order",
+    "ED raids SP leader Azam Khan's Trust and university in Uttar Pradesh",
+    "South Korea, US scale back annual military drills after Trump’s order",
+    "Imran Khan’s sister meets him after 9 months as Pakistan SC orders hospital transfer for jailed ex-PM",
     "US-Canada trade deal: Donald Trump pauses 50% tariffs on Canadian imports for 3 days",
-    "Imran Khan Meets Wife Bushra Bibi, Sister For 1st Time This Year After Court Order",
     "US issues details of new Green Card rules coming into effect from September 18: Wants bond to prove that",
-    "Sensex down 250 pts, Nifty near 24,050: Higher crude prices among key factors behind market decline",
-    "'They knew': US states accuse Meta of hiding Instagram's impact on teenagers",
+    "Stock Market LIVE Updates, Sensex Today: Sensex Drops 250 Points As Oil Rises For 4th Day Amid US-Iran Deadlock",
     "Tata Sons AGM put off over lack of quorum",
-    "Shiprocket shares list at 35% premium on NSE: Here's how much investors made per lot",
+    "'They knew': US states accuse Meta of hiding Instagram's impact on teenagers",
+    "NCLT imposes ₹15 lakh costs on SpiceJet and Aviator ML for last-minute settlement",
     "iPhone 18 Pro's chipset tipped to be 18 percent faster than predecessor - GSMArena.com news",
-    "GTA 6 gameplay and map leaks see DMCA strikes, as confidence grows in their legitimacy",
-    "iQOO Neo11 Ultra and Z11S debut in China - GSMArena.com news",
-    "Elden Ring Tarnished Edition on Nintendo Switch 2: New footage shows fewer stutters, but handheld perform",
+    "GTA 6 Map, Gameplay Leak Online Ahead Of Extended Look Premiere On Netflix. Check Details",
+    "Google Fixes Two Critical Chrome Flaws in WebGL and Dawn — Update Your Browser",
+    "OnePlus Price Hike in India: 5 Phones Get Costlier",
+    "Amid divorce buzz, Sunita Ahuja visits family court with son Yashvardhan, gives cryptic reply to paps — W",
     "Awarapan 2 Box Office Collection Day 5 Updates: Emraan Hashmi film to cross Rs 150 cr worldwide today",
-    "Batwara 1947 Box Office Collection Day 5: Sunny Deol's Film Is At Rs 30 Crore And Counting In India",
-    "Apoorva Makhija aka The Rebel Kid confirms she has moved to New York, says ‘I really want to live here’"
+    "Kangana Ranaut says she protested against a teacher who hit children, as she backs Isha Koppikar's views"
   ],
   "quiz": [
     {
-      "blanked": "Trump Posts AI Photo Of Hormuz As \"New US Territory\", Says All Mines ______",
-      "answer": "Removed",
+      "blanked": "\"Don't Live In India Anymore\": Apoorva Mukhija Reveals Why She Moved To New York After India's ______ Latent Row",
+      "answer": "Got",
       "options": [
-        "Removed",
-        "Case",
-        "Higher",
-        "Tied"
+        "Swine",
+        "5000",
+        "Rates",
+        "Got"
       ]
     },
     {
-      "blanked": "Disability Status Linked With Lower ______ Cancer Screening Rates",
-      "answer": "Prostate",
+      "blanked": "Suthar ten-for seals big victory for India in ______",
+      "answer": "Galle",
       "options": [
-        "Mines",
-        "Journal",
-        "Punjab",
-        "Prostate"
+        "Why",
+        "Galle",
+        "Tied",
+        "Managed"
       ]
     },
     {
-      "blanked": "Elden ______ Tarnished Edition on Nintendo Switch 2: New footage shows fewer stutters, but handheld perform",
-      "answer": "Ring",
+      "blanked": "Dietary Risks Tied to Rising Global CKD Burden - The American Journal of Managed Care® ______",
+      "answer": "AJMC",
       "options": [
-        "Year",
-        "Nintendo",
-        "Ring",
-        "Pros"
+        "Instagrams",
+        "AJMC",
+        "Iran",
+        "50%"
       ]
     },
     {
-      "blanked": "'They knew': US states accuse ______ of hiding Instagram's impact on teenagers",
-      "answer": "Meta",
+      "blanked": "In U-Turn, Vijay Government Withdraws Order Barring ______ From Protesting",
+      "answer": "Students",
       "options": [
-        "South",
-        "Heres",
+        "Students",
+        "Lower",
+        "Risks",
+        "Ebola"
+      ]
+    },
+    {
+      "blanked": "First Human Swine Influenza A(H1N2)v Case ______ in China",
+      "answer": "Detected",
+      "options": [
+        "Update",
         "Meta",
-        "Tejpal"
+        "Detected",
+        "Chrome"
       ]
     },
     {
-      "blanked": "NASA Images Show Crater Carved by SpaceX Rocket that Slammed Into the Moon - ASHARQ AL-AWSAT ______",
-      "answer": "English",
+      "blanked": "UAE imposes indefinite trade embargo on ______ over alleged missile attacks",
+      "answer": "Iran",
       "options": [
-        "Shuttling",
-        "English",
-        "Ring",
-        "Heres"
+        "Day",
+        "Vijay",
+        "World",
+        "Iran"
       ]
     },
     {
-      "blanked": "Commiserations pour in for Bayern ______ star Jamal Musiala after his collapse",
-      "answer": "Munich",
+      "blanked": "NCLT imposes ₹15 lakh costs on ______ and Aviator ML for last-minute settlement",
+      "answer": "SpiceJet",
       "options": [
-        "Munich",
-        "Test",
-        "Human",
-        "Year"
+        "Donald",
+        "SpiceJet",
+        "US-Iran",
+        "Jamal"
       ]
     },
     {
-      "blanked": "Inhalers and blood sugar: Can asthma or ______ medicines raise glucose levels?",
-      "answer": "COPD",
+      "blanked": "Awarapan 2 Box Office Collection Day 5 Updates: Emraan ______ film to cross Rs 150 cr worldwide today",
+      "answer": "Hashmi",
       "options": [
-        "Korea",
+        "LIVE",
+        "Hashmi",
+        "Order",
+        "Body"
+      ]
+    },
+    {
+      "blanked": "AI Microscope Eliminates Sample Shuttling to Protect ______ Biological Context",
+      "answer": "Fragile",
+      "options": [
+        "Instagrams",
+        "Deadlock",
+        "Fragile",
+        "Azam"
+      ]
+    },
+    {
+      "blanked": "NEET-UG : Supreme Court ______ NTA Capacity, Says Dedicated & Scientifically Equipped Body Like UPSC ...",
+      "answer": "Scrutinises",
+      "options": [
+        "Yashvardhan",
+        "Scrutinises",
+        "150",
+        "WebGL"
+      ]
+    },
+    {
+      "blanked": "Kangana ______ says she protested against a teacher who hit children, as she backs Isha Koppikar's views",
+      "answer": "Ranaut",
+      "options": [
+        "Ahead",
         "Ranaut",
-        "COPD",
-        "Irregularities"
+        "Father",
+        "Trumps"
       ]
     },
     {
-      "blanked": "US issues details of new Green ______ rules coming into effect from September 18: Wants bond to prove that",
-      "answer": "Card",
+      "blanked": "South ______ US scale back annual military drills after Trump’s order",
+      "answer": "Korea",
       "options": [
-        "Rising",
-        "Pradesh",
-        "Card",
-        "Space"
-      ]
-    },
-    {
-      "blanked": "IND vs SL 1st ______ India on verge of massive win as Sri Lanka four down in chase of 372",
-      "answer": "Test",
-      "options": [
-        "Updates",
-        "Munich",
-        "1947",
-        "Test"
-      ]
-    },
-    {
-      "blanked": "Shiprocket shares list at ______ premium on NSE: Here's how much investors made per lot",
-      "answer": "35%",
-      "options": [
-        "Emraan",
-        "Prostate",
-        "35%",
-        "Into"
-      ]
-    },
-    {
-      "blanked": "At least 34 children fall ill after detergent served instead of salt in ______ school’s midday meal",
-      "answer": "Bihar",
-      "options": [
-        "NSE",
-        "Bihar",
-        "Jamal",
-        "Tenders"
-      ]
-    },
-    {
-      "blanked": "NASA, ______ Space Agency astronauts conduct spacewalk to replace antenna",
-      "answer": "European",
-      "options": [
-        "European",
-        "Khan",
-        "Posts",
-        "Context"
+        "LIVE",
+        "Burden",
+        "Update",
+        "Korea"
       ]
     }
   ]
