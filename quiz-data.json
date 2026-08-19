@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-19T11:55:51.184Z",
+  "generatedAt": "2026-08-19T14:05:52.749Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "\"Coming To Listen To Us\": Omar Abdullah On Meeting US Envoy In J&K",
-    "NEET-UG : Supreme Court Scrutinises NTA Capacity, Says Dedicated & Scientifically Equipped Body Like UPSC ...",
-    "Tamil Nadu government order seeking steps to prevent students from protesting withdrawn after row",
+    "\"J&K Important Part Of India\": US Ambassador Sergio Gor In Srinagar",
     "At least nine killed in hotel fire in India's Kolkata",
-    "Rocket launchers linked to terrorists being destroyed in Delhi: Report | India News",
-    "Body parts on terrace, 2 failed attempts, video call: How ‘Rs 1.2 crore testicle’ claim led to teen's mur",
-    "At least 34 children fall ill after detergent served instead of salt in Bihar school’s midday meal",
-    "Tejashwi Yadav Detained During Protest Against Cop Using AK-47, Water Cannons Used",
-    "'CJI Like A Father Figure,' Says Newly Elected SCBA President Pradeep Rai",
+    "Delhi court sends AAP's Satyendar Jain to judicial custody, refuses to declare his arrest illegal",
+    "‘We are Gen Z’ the new ‘jaante nahi mera baap kaun hai’: Omar Abdullah on viral Kargil video of woman | India News",
+    "Jharkhand Govt. issues notification cancelling 22 recruitment exams over ‘irregularities’; CID probe for 23 others",
+    "Tamil Nadu government order seeking steps to prevent students from protesting withdrawn after row",
     "1 Killed, 6 Injured As CNG Cylinder Explodes At Fuel Pump In Delhi",
+    "“If You Don't Decide, We Will”: Supreme Court Pulls Up Odisha Over Delay In Dara Singh's Remission",
+    "'There's a problem at the border': Rijiju admits delineation issue in Arunachal, rejects China incursion",
+    "At least 34 children fall ill after alleged detergent mix-up in Bihar school midday meal",
     "Why Iran Might Be Losing Its Control Over The Strait Of Hormuz",
     "South Korea, US scale back annual military drills after Trump’s order",
-    "‘All trade, commercial exchanges halted’: How UAE responded to Iran’s latest ballistic missile attack",
-    "Pakistan Supreme Court orders ex-PM Imran Khan be moved to hospital from jail",
-    "Stock Market LIVE: Power Grid, Bajaj Finance drive 300-pts decline in Sensex; Nifty near 24,050",
+    "US-Canada tariff row eases: Trump pauses 50% levies after last-minute deal",
+    "Turkey slams Israel's 'untenable' claims after strikes on Syrian base",
+    "NIFTY50, SENSEX fall: HDFC Bank, ITC, IRFC, HUL among 112 stocks that hit 52-week low on NSE",
+    "RBI MPC minutes: Governor Sanjay Malhotra says inflation largely supply-driven, sees FY27 average at 5%",
     "Tata Sons AGM put off over lack of quorum",
-    "Milky Mist shares hit another 10% upper circuit, rallying 43% from IPO price. Should you buy, sell or hold",
-    "From gold to REITs: Nilesh Shah pitches products to channel household savings into financial assets",
+    "Hyundai cars to become costlier from September; prices to rise up to 1%",
+    "Samsung's new foldable smartphones may get costlier in India",
+    "This Kindle update ends your ability to own ebooks, but there's an escape route",
+    "Fairphone officially starts selling its new repairable Android phone in the US for $649",
     "iPhone 18 Pro's chipset tipped to be 18 percent faster than predecessor - GSMArena.com news",
-    "GTA 6 Map, Gameplay Leak Online Ahead Of Extended Look Premiere On Netflix. Check Details",
-    "Record Galaxy Z Fold 8 sales fail to save Samsung's mobile unit from losses",
-    "Google Fixes Two Critical Chrome Flaws in WebGL and Dawn — Update Your Browser",
     "Govinda’s wife Sunita Ahuja withdraws divorce case",
-    "Kangana Ranaut says she protested against a teacher who hit children, as she backs Isha Koppikar's views",
-    "\"Don't Live In India Anymore\": Apoorva Mukhija Reveals Why She Moved To New York After India's Got Latent Row"
+    "\"Don't Live In India Anymore\": Apoorva Mukhija Reveals Why She Moved To New York After India's Got Latent Row",
+    "Akshaye Khanna set to return in 'Mahakali'; 'Dhurandhar' star to appear as Shukracharya; first glimpse ar"
   ],
   "quiz": [
     {
-      "blanked": "1 Killed, 6 ______ As CNG Cylinder Explodes At Fuel Pump In Delhi",
-      "answer": "Injured",
+      "blanked": "“If You Don't Decide, We Will”: Supreme ______ Pulls Up Odisha Over Delay In Dara Singh's Remission",
+      "answer": "Court",
       "options": [
-        "South",
-        "AGM",
-        "Injured",
-        "India"
-      ]
-    },
-    {
-      "blanked": "Milky Mist shares hit another 10% upper circuit, rallying ______ from IPO price. Should you buy, sell or hold",
-      "answer": "43%",
-      "options": [
-        "43%",
-        "Shuttling",
-        "Africa",
-        "Body"
-      ]
-    },
-    {
-      "blanked": "GTA 6 Map, Gameplay Leak Online Ahead Of Extended Look ______ On Netflix. Check Details",
-      "answer": "Premiere",
-      "options": [
-        "LIVE",
-        "England",
-        "Premiere",
-        "Chrome"
-      ]
-    },
-    {
-      "blanked": "Babar to miss first ______ Test, Pakistan name new captain",
-      "answer": "England",
-      "options": [
-        "England",
-        "Biological",
-        "Figure",
-        "Influenza"
-      ]
-    },
-    {
-      "blanked": "Why Iran Might Be Losing Its Control Over The ______ Of Hormuz",
-      "answer": "Strait",
-      "options": [
-        "Samsungs",
-        "Strait",
-        "NTA",
-        "Cancers"
-      ]
-    },
-    {
-      "blanked": "NEET-UG : Supreme Court Scrutinises NTA Capacity, Says Dedicated & Scientifically Equipped ______ Like UPSC ...",
-      "answer": "Body",
-      "options": [
-        "Body",
-        "REITs",
-        "Extended",
-        "Shah"
-      ]
-    },
-    {
-      "blanked": "South Korea, US scale back annual military drills after ______ order",
-      "answer": "Trumps",
-      "options": [
-        "Trumps",
+        "Court",
         "Tumour",
-        "Report",
-        "Envoy"
+        "HDFC",
+        "Dara"
       ]
     },
     {
-      "blanked": "'CJI Like A Father Figure,' Says Newly Elected SCBA President ______ Rai",
-      "answer": "Pradeep",
+      "blanked": "Pilots And Flight ______ Face Higher Risk Of Radiation-Linked Cancer Deaths: Study",
+      "answer": "Attendants",
       "options": [
-        "Test",
-        "SpaceX",
-        "Pradeep",
-        "Cop"
-      ]
-    },
-    {
-      "blanked": "Kangana Ranaut says she protested against a teacher who hit children, as she backs ______ Koppikar's views",
-      "answer": "Isha",
-      "options": [
-        "Against",
-        "She",
-        "Two",
-        "Isha"
-      ]
-    },
-    {
-      "blanked": "Govinda’s wife Sunita ______ withdraws divorce case",
-      "answer": "Ahuja",
-      "options": [
+        "Arunachal",
         "Sons",
-        "Attendants",
-        "Ahuja",
-        "Human"
-      ]
-    },
-    {
-      "blanked": "Flight Attendants and Pilots Have Highest Risk of Dying from Radiation-Linked Cancers, Study Says - ASHARQ AL-AWSAT ______",
-      "answer": "English",
-      "options": [
-        "Figure",
-        "Meeting",
-        "English",
-        "Korea"
-      ]
-    },
-    {
-      "blanked": "India to take on Pakistan in high-stakes Hockey World ______ clash",
-      "answer": "Cup",
-      "options": [
         "She",
-        "Cup",
-        "Indias",
-        "Finance"
+        "Attendants"
+      ]
+    },
+    {
+      "blanked": "RBI MPC minutes: Governor Sanjay ______ says inflation largely supply-driven, sees FY27 average at 5%",
+      "answer": "Malhotra",
+      "options": [
+        "Malhotra",
+        "Live",
+        "Apoorva",
+        "Killed"
+      ]
+    },
+    {
+      "blanked": "Turkey slams Israel's 'untenable' claims after strikes on ______ base",
+      "answer": "Syrian",
+      "options": [
+        "Pulls",
+        "Mourinho",
+        "Syrian",
+        "Higher"
+      ]
+    },
+    {
+      "blanked": "Samsung's new foldable smartphones may get costlier in ______",
+      "answer": "India",
+      "options": [
+        "Moon",
+        "India",
+        "Bank",
+        "Sons"
+      ]
+    },
+    {
+      "blanked": "\"Don't Live In India Anymore\": Apoorva Mukhija Reveals Why She Moved To New York After India's Got Latent ______",
+      "answer": "Row",
+      "options": [
+        "Row",
+        "Made",
+        "Strait",
+        "Supreme"
+      ]
+    },
+    {
+      "blanked": "Nasa images reveal 60-foot crater after ______ rocket crashes on Moon",
+      "answer": "SpaceX",
+      "options": [
+        "SpaceX",
+        "Kis",
+        "Rectal",
+        "Apoorva"
+      ]
+    },
+    {
+      "blanked": "‘Rodri had doubts’ - Jose Mourinho says Real Madrid made ‘very good offer’ to ______ City star before Barcelona transfer",
+      "answer": "Man",
+      "options": [
+        "Pump",
+        "Decide",
+        "Man",
+        "Omar"
+      ]
+    },
+    {
+      "blanked": "Tata ______ AGM put off over lack of quorum",
+      "answer": "Sons",
+      "options": [
+        "York",
+        "Deaths",
+        "Sons",
+        "Why"
+      ]
+    },
+    {
+      "blanked": "iPhone 18 ______ chipset tipped to be 18 percent faster than predecessor - GSMArena.com news",
+      "answer": "Pros",
+      "options": [
+        "Pros",
+        "Flight",
+        "Radiation-Linked",
+        "Indias"
+      ]
+    },
+    {
+      "blanked": "Govinda’s wife ______ Ahuja withdraws divorce case",
+      "answer": "Sunita",
+      "options": [
+        "Sunita",
+        "Real",
+        "Risk",
+        "Fragile"
+      ]
+    },
+    {
+      "blanked": "Tislelizumab Boosts Tumour Response in Pre-Surgery Rectal ______",
+      "answer": "Cancer",
+      "options": [
+        "Cancer",
+        "Risk",
+        "Part",
+        "Sunita"
       ]
     }
   ]
