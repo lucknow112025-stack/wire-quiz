@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-19T17:54:34.872Z",
+  "generatedAt": "2026-08-19T19:57:19.131Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
     "U.S. envoy Sergio Gor terms J&K as ‘important part of India’, praises Delhi, CM for peace efforts",
     "At least nine killed in hotel fire in India's Kolkata",
-    "NEET-UG : Supreme Court Scrutinises NTA Capacity, Says Dedicated & Scientifically Equipped Body Like UPSC ...",
-    "Delhi court sends AAP's Satyendar Jain to judicial custody, refuses to declare his arrest illegal",
+    "Court Rejects Satyendar Jain's Plea Challenging Arrest, Sends Him To Judicial Custody In Delhi Jal Board...",
     "3 Killed, 3 Injured As CNG Cylinder Explodes At Fuel Pump In Delhi",
-    "Tamil Nadu government order to prevent students from participating in CJP, Left parties’ protests withdrawn after row",
-    "Bengal court issues arrest warrant against TMC MP Mahua Moitra in hate speech case | India News",
-    "At least 34 children fall ill after alleged detergent mix-up in Bihar school midday meal",
-    "Don’t need certificate of honesty: Punjab CM Mann attacks BJP, ED over allegations of 61 wrongdoings",
-    "'I will join Congress only if...': Ex-BJP leader Shehzad Poonawalla sets condition for opposition",
     "UAE trade embargo could shut Iran’s key economic escape route: Here’s why",
+    "Tamil Nadu government order to prevent student participation in Left, CJP protests sparks controversy, withdrawn",
+    "Congress Firm On 2-Stanza Vande Mataram, BJP Terms Party \"Muslim League\"",
+    "Bengal court issues arrest warrant against TMC MP Mahua Moitra in hate speech case | India News",
+    "Woman Critical After Doctors Leave Gloves, Wipes In Abdomen During C-Section",
+    "Don’t need certificate of honesty: Punjab CM Mann attacks BJP, ED over allegations of 61 wrongdoings",
+    "EXCLUSIVE: Mossad director, Syria foreign minister discussed Turkish military deployments before strikes, sources say",
     "Imran Khan Meets Wife Bushra Bibi, Sister For 1st Time This Year After Court Order",
-    "Turkey slams Israel's 'untenable' claims after strikes on Syrian base",
-    "US-Canada tariff row eases: Trump pauses 50% levies after last-minute deal",
+    "‘Strangling over time’: Trump shifts Iran strategy, halts talks amid frustration over Oman...",
+    "Israel admits firing on car carrying Hind Rajab, symbol of Gaza’s suffering",
     "Stock Market LIVE Updates, Sensex Today: Sensex Drops 250 Points As Oil Rises For 4th Day Amid US-Iran Deadlock",
-    "Gold prices extend gains after Treasury says it plans to increase buybacks",
-    "SEBI passes swift order in Sensex Expiry-Day Manipulation, slaps Rs 3.68 crore impounding order on...",
-    "Marvell gives Google option to buy $12.2 billion stake in custom AI chip deal",
+    "US Treasury doubles some long-dated debt buybacks to support liquidity",
+    "SEBI bars JP Morgan entity, Mansi Share over alleged CAS manipulation, slaps Rs 3.68 crore impounding...",
+    "RBI MPC minutes: Governor Sanjay Malhotra says inflation largely supply-driven, sees FY27 average at 5%",
     "Samsung's new foldable smartphones may get costlier in India",
-    "Garmin Draws Level With Samsung in Global Smartwatch Share",
-    "Hoverair Versa launches on Indiegogo: Self-flying gimbal camera with AI auto tracking, 10-bit H-LOG, and up to 17.5 stops dynamic range",
+    "Apple Camera-Equipped AirPods Leak: What We Know",
     "iPhone 18 Pro Max tipped to be the only model with a variable-aperture camera - GSMArena.com news",
-    "Awarapan 2 Box Office Collection Day 5 Updates: Emraan Hashmi film set to cross Rs 150 crore mark",
+    "Garmin Draws Level With Samsung in Global Smartwatch Share",
+    "Awarapan 2 Box Office Collection Day 5 Highlights: Emraan Hashmi film set to cross Rs 150 crore mark",
     "Amid Divorce Buzz With Sunita Ahuja, Govinda's Old Claim About 'Second Marriage' In Kundali Resurfaces",
-    "Akshaye Khanna set to return in 'Mahakali'; 'Dhurandhar' star to appear as Shukracharya; first glimpse ar"
+    "Mini Mathur reveals she lost Indian Idol season 5 hosting gig after she revealed her pregnancy: ‘I felt very let down’ | Bollywood"
   ],
   "quiz": [
     {
-      "blanked": "Higher BMI Reduces ______ of JAK Inhibitors in Arthritis",
-      "answer": "Effectiveness",
+      "blanked": "Mini Mathur reveals she lost Indian ______ season 5 hosting gig after she revealed her pregnancy: ‘I felt very let down’ | Bollywood",
+      "answer": "Idol",
       "options": [
-        "SpaceX",
-        "Effectiveness",
-        "Samsung",
-        "About"
-      ]
-    },
-    {
-      "blanked": "Delhi court sends ______ Satyendar Jain to judicial custody, refuses to declare his arrest illegal",
-      "answer": "AAPs",
-      "options": [
-        "Max",
-        "AAPs",
-        "Sensex",
+        "Know",
+        "Idol",
+        "Points",
         "Year"
       ]
     },
     {
-      "blanked": "At least nine killed in hotel fire in ______ Kolkata",
-      "answer": "Indias",
+      "blanked": "Woman Critical After Doctors Leave ______ Wipes In Abdomen During C-Section",
+      "answer": "Gloves",
       "options": [
-        "Meets",
-        "Indias",
-        "Sister",
-        "Mann"
+        "Tan",
+        "Camera-Equipped",
+        "Gloves",
+        "Irans"
       ]
     },
     {
-      "blanked": "3 Killed, 3 Injured As CNG Cylinder ______ At Fuel Pump In Delhi",
-      "answer": "Explodes",
+      "blanked": "Apple Camera-Equipped ______ Leak: What We Know",
+      "answer": "AirPods",
       "options": [
-        "Suthars",
-        "Explodes",
-        "Beyond",
-        "TMC"
-      ]
-    },
-    {
-      "blanked": "Turkey slams ______ 'untenable' claims after strikes on Syrian base",
-      "answer": "Israels",
-      "options": [
-        "Mahakali",
-        "Israels",
-        "Manipulation",
-        "Agency"
-      ]
-    },
-    {
-      "blanked": "Imran Khan Meets Wife Bushra Bibi, Sister For 1st Time This Year After Court ______",
-      "answer": "Order",
-      "options": [
-        "BJP",
-        "Indiegogo",
-        "Self-flying",
-        "Order"
-      ]
-    },
-    {
-      "blanked": "Tamil Nadu government order to prevent students from participating in CJP, ______ parties’ protests withdrawn after row",
-      "answer": "Left",
-      "options": [
-        "Congress",
-        "Left",
-        "Fuel",
-        "Office"
+        "Smartwatch",
+        "AirPods",
+        "Vande",
+        "BMI"
       ]
     },
     {
       "blanked": "iPhone 18 Pro ______ tipped to be the only model with a variable-aperture camera - GSMArena.com news",
       "answer": "Max",
       "options": [
+        "Explodes",
+        "Order",
         "Max",
-        "Punjab",
-        "Jain",
-        "5000"
+        "Heres"
       ]
     },
     {
-      "blanked": "Don’t need certificate of honesty: Punjab CM ______ attacks BJP, ED over allegations of 61 wrongdoings",
-      "answer": "Mann",
+      "blanked": "IND vs SL 1st Test: ______ 10-wicket haul powers India to 165-run win",
+      "answer": "Suthars",
       "options": [
-        "Versa",
-        "Points",
-        "Mann",
-        "Khanna"
+        "Level",
+        "Challenging",
+        "Suthars",
+        "Mansi"
       ]
     },
     {
-      "blanked": "NEET-UG : Supreme Court Scrutinises NTA Capacity, Says Dedicated & ______ Equipped Body Like UPSC ...",
-      "answer": "Scientifically",
+      "blanked": "Amid Divorce Buzz With Sunita Ahuja, Govinda's Old Claim About 'Second ______ In Kundali Resurfaces",
+      "answer": "Marriage",
       "options": [
-        "Combat",
-        "Scientifically",
-        "Cylinder",
-        "Pakistan"
+        "Know",
+        "Marriage",
+        "Suthars",
+        "Resurfaces"
       ]
     },
     {
-      "blanked": "Nasa images reveal 60-foot crater after SpaceX rocket crashes on ______",
-      "answer": "Moon",
+      "blanked": "SEBI bars JP Morgan entity, Mansi Share over alleged CAS manipulation, slaps Rs ______ crore impounding...",
+      "answer": "3.68",
       "options": [
-        "Garret",
+        "Sister",
+        "Critical",
         "3.68",
-        "Moon",
-        "Hockey"
+        "Biological"
       ]
     },
     {
-      "blanked": "'I will join Congress only if...': ______ leader Shehzad Poonawalla sets condition for opposition",
-      "answer": "Ex-BJP",
+      "blanked": "'Speechless' Garret ______ silences Lakshya Sen and Delhi crowd at BWF World Championships",
+      "answer": "Tan",
       "options": [
-        "Kundali",
-        "Ex-BJP",
+        "Tan",
+        "Effectiveness",
+        "Crater",
+        "Lankas"
+      ]
+    },
+    {
+      "blanked": "3 Killed, 3 Injured As CNG ______ Explodes At Fuel Pump In Delhi",
+      "answer": "Cylinder",
+      "options": [
+        "Mataram",
+        "Cylinder",
+        "Agency",
+        "Microscope"
+      ]
+    },
+    {
+      "blanked": "DR Congo says Ebola cases exceed 5,000 with ______ deaths",
+      "answer": "2378",
+      "options": [
+        "Wife",
+        "Rocket",
+        "Irans",
+        "2378"
+      ]
+    },
+    {
+      "blanked": "Akshaye ______ set to return in 'Mahakali'; 'Dhurandhar' star to appear as Shukracharya; first glimpse ar",
+      "answer": "Khanna",
+      "options": [
+        "Meets",
+        "Into",
+        "Khanna",
+        "Championships"
+      ]
+    },
+    {
+      "blanked": "Imran ______ Meets Wife Bushra Bibi, Sister For 1st Time This Year After Court Order",
+      "answer": "Khan",
+      "options": [
         "Second",
-        "World"
+        "Context",
+        "Khan",
+        "Collection"
       ]
     }
   ]
