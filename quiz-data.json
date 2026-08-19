@@ -1,152 +1,152 @@
 {
-  "generatedAt": "2026-08-18T23:48:57.994Z",
+  "generatedAt": "2026-08-19T03:13:47.554Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "Ready to drop FIRs against student protesters, says Supreme Court",
-    "Iran Launched 2 Ballistic Missiles, 1 Fell In Our Territorial Waters: UAE",
+    "West Asia war highlights: UAE accuses Iran of firing ballistic missiles at its territory",
+    "No Excessive Force Used Against Student Protesters, Parliament March Was Illegal : Delhi Police To...",
+    "Trump says no talks planned with Iran, Tehran says Strait of Hormuz still shut",
     "Arvind Kejriwal says Satyendar Jain arrested at BJP's 'behest': 'Lies will be exposed again' | India News",
+    "New BJP social media team members delete or hide X posts, deactivate handles",
     "Jharkhand protest updates: Will launch second phase stir for corruption-free job examinations, says Devendra Mahto",
-    "Trump cites India's voter cards to make case for SAVE America Act",
-    "Pakistan runs for narrative cover as new Op Sindoor documentary busts Asim Munir's victory claim",
-    "Vijay Wants To Shift His Office. BJP Alleges Corruption In Tender Process",
-    "2 More Air India Pilots Fail To Clear 1st Drug Test After Phuket Flight Fiasco",
-    "Bombay High Court grants bail to another convict in Narendra Dabholkar murder case",
-    "KBR Park One-Way Sparks Traffic Chaos",
-    "Israeli airstrikes hit Syrian air base, US envoy concerned over escalation",
-    "‘No intention to attack North Korea’: South Korea President Lee after Donald Trump reduces US drills",
+    "Education Ministry tightens noose on question paper leak, introduces four-tier checking system",
+    "9 Dead In Fire At Hotel In Kolkata, AC Blast Suspected",
+    "'Wanted to start new life': More skeletons tumble out as Bengaluru woman, lover kill husband",
+    "Vande Mataram incident: Delhi Police enquires into complaint against Sonia, Rahul",
     "Trump Posts AI Photo Of Hormuz As \"New US Territory\", Says All Mines Removed",
-    "Meet Natalie Harp, Trump's Close Aide Who Travelled With Him During Turkey Flight Scare",
-    "Tata Sons AGM adjourned due to lack of quorum",
+    "US-led drills to end six days early, South Korea says, amid Trump push for Kim Jong-un talks",
+    "Lawsuit filed challenging Trump admin’s final rule ending ‘duration of status’ for international students",
+    "US and Canada hold last-minute talks to stop Trump’s 50% tariffs",
+    "Tata Sons AGM put off over lack of quorum",
     "'Meta Hooked, Exploited Children': 29 US States Demand $200-Billion Penalty",
-    "Live: Nifty below 24,200 on expiry day; defence stocks in focus | Closing Bell",
-    "2026 Skoda Slavia Facelift Variant-wise Colour Options Explained",
+    "Tech selloff weighs down Wall Street as bond yields climb By Reuters",
+    "Temasek-backed Milky Mist jumps 30% in India debut, hits $1.5 billion valuation",
+    "iPhone 18 Pro India launch soon: 7 changes in specs, making it worthy upgrade over iPhone 17 Pro",
     "Apple's iPhone 18 Release Schedule: What's Coming and When",
     "I tested Samsung’s ultimate folding phone – and it’s a good, not perfect, option for AV fans - What Hi-Fi?",
-    "Apple iPhone 18 Pro: Most exciting camera upgrade said to be iPhone 18 Pro Max exclusive",
-    "GTA 6 Leaked Gameplay Shows Off Chaos in a Knockoff Ranchero",
-    "Hayden Panettiere death case: Boyfriend was at apartment when his brother found actress 'unresponsive'",
+    "Leaked video of new AirPods shows camera and AI capabilities",
+    "12.5 percent growth on Day 5 over Monday: Sunny Deol's 'Batwara 1947' crosses Rs 30 crore, recovers only",
     "Awarapan 2 Box Office Collections: Emraan Hashmi film holds well on Monday, Nets Rs. 90 Cr in four days",
-    "Snake found at Shahrukh Khan's residence in Mumbai, rescued | India News"
+    "New Details Emerge About Hayden Panettiere’s Health Before Her Death"
   ],
   "quiz": [
     {
-      "blanked": "India vs South Africa Highlights, Women's ______ World Cup 2026: IND 6-1 RSA; Indian team improves GD",
-      "answer": "Hockey",
+      "blanked": "Education ______ tightens noose on question paper leak, introduces four-tier checking system",
+      "answer": "Ministry",
       "options": [
-        "Hashmi",
-        "Astronomer",
-        "Shahrukh",
-        "Hockey"
+        "Ministry",
+        "Koppikars",
+        "Global",
+        "Sonia"
       ]
     },
     {
-      "blanked": "Apple's iPhone 18 Release Schedule: ______ Coming and When",
-      "answer": "Whats",
+      "blanked": "Trump Posts AI Photo Of Hormuz As \"New US Territory\", Says ______ Mines Removed",
+      "answer": "All",
       "options": [
-        "Ballistic",
-        "Screening",
+        "Universe",
+        "Journal",
+        "Force",
+        "All"
+      ]
+    },
+    {
+      "blanked": "West Asia war highlights: ______ accuses Iran of firing ballistic missiles at its territory",
+      "answer": "UAE",
+      "options": [
+        "Protesters",
+        "UAE",
+        "Rising",
+        "Batwara"
+      ]
+    },
+    {
+      "blanked": "New Details Emerge About Hayden ______ Health Before Her Death",
+      "answer": "Panettieres",
+      "options": [
+        "Naidu",
+        "Great",
+        "Panettieres",
+        "India"
+      ]
+    },
+    {
+      "blanked": "Australian Researchers Develop New Tool to Measure ______ Barrier Reef Health",
+      "answer": "Great",
+      "options": [
+        "Universe",
         "Whats",
-        "Who"
+        "Rahul",
+        "Great"
       ]
     },
     {
-      "blanked": "‘No intention to attack ______ Korea’: South Korea President Lee after Donald Trump reduces US drills",
-      "answer": "North",
+      "blanked": "Dietary Risks ______ to Rising Global CKD Burden - The American Journal of Managed Care® (AJMC®)",
+      "answer": "Tied",
       "options": [
-        "North",
-        "Cup",
-        "Health",
-        "Ballistic"
+        "China",
+        "Tied",
+        "Posts",
+        "India"
       ]
     },
     {
-      "blanked": "Snake found at Shahrukh Khan's residence in Mumbai, rescued | ______ News",
+      "blanked": "iPhone 18 ______ India launch soon: 7 changes in specs, making it worthy upgrade over iPhone 17 Pro",
+      "answer": "Pro",
+      "options": [
+        "Kejriwal",
+        "Hotel",
+        "Lies",
+        "Pro"
+      ]
+    },
+    {
+      "blanked": "Temasek-backed Milky Mist jumps 30% in ______ debut, hits $1.5 billion valuation",
       "answer": "India",
       "options": [
-        "Status",
-        "India",
-        "Schedule",
-        "Reef"
-      ]
-    },
-    {
-      "blanked": "NASA, ______ astronauts conduct spacewalk to replace high-speed antenna",
-      "answer": "ESA",
-      "options": [
-        "Develop",
-        "Pro",
-        "Box",
-        "ESA"
-      ]
-    },
-    {
-      "blanked": "2 More Air India Pilots Fail To Clear 1st ______ Test After Phuket Flight Fiasco",
-      "answer": "Drug",
-      "options": [
-        "Lee",
-        "Drug",
-        "Most",
-        "Flight"
-      ]
-    },
-    {
-      "blanked": "Australian Researchers Develop New Tool to Measure Great Barrier ______ Health",
-      "answer": "Reef",
-      "options": [
-        "Reef",
-        "Office",
-        "Shri",
-        "Mahto"
-      ]
-    },
-    {
-      "blanked": "2026 Skoda Slavia Facelift Variant-wise Colour Options ______",
-      "answer": "Explained",
-      "options": [
-        "Harp",
-        "Skoda",
-        "Discovery",
-        "Explained"
-      ]
-    },
-    {
-      "blanked": "Ready to drop FIRs against student protesters, says ______ Court",
-      "answer": "Supreme",
-      "options": [
-        "Alleges",
-        "Human",
-        "Supreme",
-        "Naidu"
-      ]
-    },
-    {
-      "blanked": "Pant's rapid 66, Suthar's double strike tighten ______ grip",
-      "answer": "Indias",
-      "options": [
-        "Angry",
-        "Slavia",
-        "Indias",
-        "Lies"
-      ]
-    },
-    {
-      "blanked": "Apple iPhone 18 Pro: Most exciting camera upgrade said to be iPhone 18 Pro ______ exclusive",
-      "answer": "Max",
-      "options": [
-        "Sparks",
         "Health",
-        "Max",
-        "Wants"
+        "India",
+        "Screening",
+        "Koppikars"
       ]
     },
     {
-      "blanked": "Babar to miss first England ______ Pakistan name new captain",
+      "blanked": "'Meta Hooked, Exploited ______ 29 US States Demand $200-Billion Penalty",
+      "answer": "Children",
+      "options": [
+        "Health",
+        "Behind",
+        "Children",
+        "Mission"
+      ]
+    },
+    {
+      "blanked": "Vande Mataram incident: ______ Police enquires into complaint against Sonia, Rahul",
+      "answer": "Delhi",
+      "options": [
+        "Delhi",
+        "Bengaluru",
+        "Researchers",
+        "India"
+      ]
+    },
+    {
+      "blanked": "From Engineering to Edge of the Universe: Meet Rohan Naidu, the Astronomer Behind ‘Black Hole ______ Discovery",
+      "answer": "Star",
+      "options": [
+        "Star",
+        "Trumps",
+        "Emerge",
+        "Kolkata"
+      ]
+    },
+    {
+      "blanked": "Galle ______ India needs six more wickets on the final day to go one up",
       "answer": "Test",
       "options": [
-        "Flight",
-        "Scare",
-        "Shows",
+        "Police",
+        "Prostate",
+        "BJP",
         "Test"
       ]
     }
