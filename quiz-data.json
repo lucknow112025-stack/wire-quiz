@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-20T11:02:07.797Z",
+  "generatedAt": "2026-08-20T12:02:30.470Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "SBI Employee Shoots Wife Outside ICICI Bank In Lucknow, Kills Sister At Home, Then Himself",
-    "Vijay, Shivakumar, Chandrababu Naidu on stage: Amit Shah's meeting brings Southern CMs together | India News",
+    "Jharkhand Government's Order Cancelling JPSC, JSSC Exams Stayed By High Court",
+    "NEET protests: SC sets up 5-member panel to probe excessive use of force by cops on students",
     "Ex-Congress MP Sajjan Kumar, Convicted In 1984 Anti-Sikh Riots Case, Dies",
-    "In A Tit-For-Tat Move, New Delhi Removes Encroachments Outside Pak High Commission",
-    "Red-faced Pakistan summons top diplomat over US envoy Gor's J&K remark in Srinagar",
-    "Oil hits 3-week high on Middle East supply concerns amid war impasse",
-    "'Anti-national decision': Amit Shah slams Congress's stand to stick to first two stanzas of Vande Mataram",
+    "SBI Employee Shoots Wife Outside ICICI Bank In Lucknow, Kills Sister, Then Self",
+    "Vijay, Shivakumar, Chandrababu Naidu on stage: Amit Shah's meeting brings Southern CMs together | India News",
+    "Citing Islamabad-North Korea connect, India urges Japan not to share advanced defence technology with Pakistan",
+    "BJP chief Nabin calls Congress the ‘New Muslim League’ over party’s Vande Mataram stance",
+    "On Camera, Lift Starts Moving As Andhra Woman Tries To Exit. She Dies",
     "Tribal Tangle: BJP Bets On 1st-time MP To Tackle A South Rajasthan Challenge",
-    "'Industry' Definition Given In Bangalore Water Supply Case Must Govern Pending Cases Under ID Act 1947 :...",
-    "Jharkhand students suspend 26-day protest over JPSC-JSSC exam; give 2-month ultimatum to Soren govt",
+    "'Quickest way to erode Gen Z goodwill': Omar Abdullah reacts to tourist’s viral Kargil checkpoint rant",
+    "West Asia LIVE: Iran says Trump's 'Economic D-Day' is a diversion from U.S. domestic problems",
     "Oil flows nearly tripled before US-Iran MoU expired, analysis shows",
     "Bangladesh holds presidential election in first contested vote in 35 years",
-    "Prince Harry And Meghan Markle To Return To UK. A Look At Their $21 Million Montecito Mansion",
-    "Anti-Sikh, anti-Hindu hate crimes rise in US despite overall decline: FBI",
-    "Moderna-Merck Breakthrough Cancer Vaccine Shows Promise In Clinical Trial For Melanoma Treatment",
+    "Prince Harry and Meghan to move back to Britain",
     "Stock Market LIVE: Sensex jumps 600 pts; Nifty tops 24,200; Eternal, Shriram Finance top gainers",
-    "NSE said to plan allowing trading in its shares on its own platform",
-    "HDFC Bank shares advance 1% as RBI approves LIC’s stake hike to 9.99%",
-    "The latest iPhone 18 news, leaks, and rumors: Release date, price increases, and colors",
+    "Moderna-Merck Breakthrough Cancer Vaccine Shows Promise In Clinical Trial For Melanoma Treatment",
+    "IRDAI bars Niva Bupa from opening new offices for six months over expense limit breach",
+    "India imposes sugar stockholding limits on bulk consumers, tightens curbs",
+    "F***: Many Users Say ChatGPT Is Now Using More Swear Words And Nobody Knows Why",
+    "Apple iPhone 18 Pro Could Get Game-Changing 2nm Chip Upgrade",
     "Google Messages RCS breaks with ‘3100’ error for some, especially Galaxy switchers",
     "iQOO Z11 debuts in India with different specs and design, Buds TWS tag along - GSMArena.com news",
-    "Samsung confirms August 27 online event to expand its Galaxy S26 line-up",
-    "Yami Gautam Dhar’s ‘Nayyi Navelli’ Sets October Release From Amazon MGM Studios, Colour Yellow (EXCLUSIVE)",
-    "‘I’ve genuinely forgotten who I am when I’m not The Rebel Kid’: Apoorva Makhija opens up about moving to",
-    "Yash’s ‘Toxic’ Unveils English-Language Trailer"
+    "‘Jailer 2’ first single promo out: Like Tamannaah’s ‘Kaavaalaa’, Shamna Kassim to bring the magic with ‘A",
+    "\"Don't Live In India Anymore\": Apoorva Mukhija Reveals Why She Moved To New York After India's Got Latent Row",
+    "Yami Gautam Dhar’s ‘Nayyi Navelli’ Sets October Release From Amazon MGM Studios, Colour Yellow (EXCLUSIVE)"
   ],
   "quiz": [
     {
-      "blanked": "Oil flows nearly tripled before US-Iran ______ expired, analysis shows",
-      "answer": "MoU",
-      "options": [
-        "Annapurni",
-        "Encroachments",
-        "MoU",
-        "Navelli"
-      ]
-    },
-    {
-      "blanked": "“Initial supply of dengue vaccine for ______ will be manufactured at Takeda’s facility in Germany”",
+      "blanked": "\"Don't Live In ______ Anymore\": Apoorva Mukhija Reveals Why She Moved To New York After India's Got Latent Row",
       "answer": "India",
       "options": [
-        "May",
-        "India",
-        "1984",
-        "Subramaniam"
+        "Dies",
+        "Meghan",
+        "Upgrade",
+        "India"
       ]
     },
     {
-      "blanked": "'Anti-national decision': Amit Shah slams Congress's stand to stick to first two stanzas of ______ Mataram",
-      "answer": "Vande",
+      "blanked": "Moderna-Merck Breakthrough Cancer Vaccine Shows Promise In Clinical ______ For Melanoma Treatment",
+      "answer": "Trial",
       "options": [
-        "Vande",
-        "9.99%",
-        "JPSC-JSSC",
-        "LICs"
+        "Islamabad-North",
+        "Sets",
+        "Context",
+        "Trial"
       ]
     },
     {
-      "blanked": "‘I’ve genuinely forgotten who I am when I’m not The Rebel Kid’: Apoorva ______ opens up about moving to",
-      "answer": "Makhija",
+      "blanked": "Prince ______ and Meghan to move back to Britain",
+      "answer": "Harry",
       "options": [
-        "Apoorva",
-        "Makhija",
-        "Promise",
-        "Return"
-      ]
-    },
-    {
-      "blanked": "Samsung confirms ______ 27 online event to expand its Galaxy S26 line-up",
-      "answer": "August",
-      "options": [
-        "Shah",
-        "Kid",
-        "Water",
-        "August"
+        "Harry",
+        "Agency",
+        "Gen",
+        "Dhars"
       ]
     },
     {
       "blanked": "NASA, European Space ______ astronauts conduct spacewalk to replace antenna",
       "answer": "Agency",
       "options": [
-        "Markle",
-        "Kid",
+        "Got",
         "Agency",
-        "Tackle"
-      ]
-    },
-    {
-      "blanked": "Dengue cases spread across Nepal as it marks ______ Mosquito Day",
-      "answer": "World",
-      "options": [
-        "Montecito",
-        "Home",
-        "World",
-        "Water"
-      ]
-    },
-    {
-      "blanked": "Red-faced Pakistan summons top diplomat over US envoy ______ J&K remark in Srinagar",
-      "answer": "Gors",
-      "options": [
         "Treatment",
-        "Vande",
-        "Gors",
-        "Toxic"
+        "Shuttling"
       ]
     },
     {
-      "blanked": "Anti-Sikh, anti-Hindu hate crimes rise in US despite overall decline: ______",
-      "answer": "FBI",
+      "blanked": "Yami Gautam Dhar’s ‘Nayyi Navelli’ Sets October Release From Amazon MGM ______ Colour Yellow (EXCLUSIVE)",
+      "answer": "Studios",
       "options": [
-        "FBI",
-        "Studios",
-        "LIVE",
-        "BJP"
+        "Kargil",
+        "Galaxy",
+        "Yellow",
+        "Studios"
       ]
     },
     {
-      "blanked": "Prince Harry And Meghan Markle To ______ To UK. A Look At Their $21 Million Montecito Mansion",
-      "answer": "Return",
+      "blanked": "West Asia LIVE: Iran says Trump's ______ D-Day' is a diversion from U.S. domestic problems",
+      "answer": "Economic",
       "options": [
-        "Return",
-        "Naidu",
-        "News",
-        "English-Language"
+        "Economic",
+        "Space",
+        "Pro",
+        "Chip"
       ]
     },
     {
-      "blanked": "Vijay, ______ Chandrababu Naidu on stage: Amit Shah's meeting brings Southern CMs together | India News",
-      "answer": "Shivakumar",
+      "blanked": "Citing Islamabad-North ______ connect, India urges Japan not to share advanced defence technology with Pakistan",
+      "answer": "Korea",
       "options": [
-        "LICs",
-        "Shivakumar",
-        "US-Iran",
-        "Outside"
+        "Bets",
+        "Korea",
+        "Protect",
+        "Pakistan"
       ]
     },
     {
-      "blanked": "Gut and Seminal Microbiomes May Influence ______ Outcomes",
-      "answer": "Reproductive",
+      "blanked": "Gut and ______ Microbiomes May Influence Reproductive Outcomes",
+      "answer": "Seminal",
       "options": [
-        "Reproductive",
-        "SpaceX",
-        "Nidimoru",
-        "1984"
+        "Muslim",
+        "1947",
+        "Sample",
+        "Seminal"
+      ]
+    },
+    {
+      "blanked": "Jharkhand Government's Order Cancelling JPSC, ______ Exams Stayed By High Court",
+      "answer": "JSSC",
+      "options": [
+        "Japan",
+        "Using",
+        "JSSC",
+        "Camera"
+      ]
+    },
+    {
+      "blanked": "Sunny Deol’s Muslim character in ______ 1947’ made investors hesitant, Rajkumar Santoshi clarifies: 'He",
+      "answer": "Batwara",
+      "options": [
+        "She",
+        "Niva",
+        "Batwara",
+        "MGM"
+      ]
+    },
+    {
+      "blanked": "Lionel Messi scores first goal for ______ Miami since father’s death",
+      "answer": "Inter",
+      "options": [
+        "Mosquito",
+        "Inter",
+        "Tries",
+        "1947"
+      ]
+    },
+    {
+      "blanked": "F***: Many Users Say ChatGPT Is Now Using More Swear ______ And Nobody Knows Why",
+      "answer": "Words",
+      "options": [
+        "Eternal",
+        "Words",
+        "Finance",
+        "Deols"
       ]
     }
   ]
