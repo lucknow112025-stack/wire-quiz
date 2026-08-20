@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-20T12:02:30.470Z",
+  "generatedAt": "2026-08-20T14:20:20.459Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
+    "BREAKING| Supreme Court Forms 5-Member Committee Led By Ex-SC Judge Subhash Reddy To Probe Student...",
     "Jharkhand Government's Order Cancelling JPSC, JSSC Exams Stayed By High Court",
-    "NEET protests: SC sets up 5-member panel to probe excessive use of force by cops on students",
-    "Ex-Congress MP Sajjan Kumar, Convicted In 1984 Anti-Sikh Riots Case, Dies",
-    "SBI Employee Shoots Wife Outside ICICI Bank In Lucknow, Kills Sister, Then Self",
+    "Amit Shah slams Congress’ two-stanza Vande Mataram decision, calls it ‘appeasement’ and defiance of law",
     "Vijay, Shivakumar, Chandrababu Naidu on stage: Amit Shah's meeting brings Southern CMs together | India News",
-    "Citing Islamabad-North Korea connect, India urges Japan not to share advanced defence technology with Pakistan",
-    "BJP chief Nabin calls Congress the ‘New Muslim League’ over party’s Vande Mataram stance",
-    "On Camera, Lift Starts Moving As Andhra Woman Tries To Exit. She Dies",
-    "Tribal Tangle: BJP Bets On 1st-time MP To Tackle A South Rajasthan Challenge",
-    "'Quickest way to erode Gen Z goodwill': Omar Abdullah reacts to tourist’s viral Kargil checkpoint rant",
+    "Hormuz shipping unchanged amid US-Iran stalemate, data shows",
+    "Sergio Gor says J&K ‘important part of India’; Pakistan summons US diplomat",
+    "India, Japan sign maritime security pact to deepen defence cooperation",
+    "Sajjan Kumar, former Congress MP convicted in anti-Sikh riots case, passes away",
+    "'How English Can Be Treated As Non-Native?' : Supreme Court Urges CBSE To Revisit Language Policy,...",
+    "'Tareeka badla hai, maqsad nahi': Shehzad Poonawalla predicts Rahul Gandhi's future | India News",
     "West Asia LIVE: Iran says Trump's 'Economic D-Day' is a diversion from U.S. domestic problems",
-    "Oil flows nearly tripled before US-Iran MoU expired, analysis shows",
     "Bangladesh holds presidential election in first contested vote in 35 years",
-    "Prince Harry and Meghan to move back to Britain",
-    "Stock Market LIVE: Sensex jumps 600 pts; Nifty tops 24,200; Eternal, Shriram Finance top gainers",
+    "Prince Harry And Meghan Markle To Return To UK. A Look At Their $21 Million Montecito Mansion",
+    "North Korea launches 10 ballistic missiles as US-South Korea drills near end",
+    "Stock Market Close: Sensex snaps four-day losing streak, jumps 628 pts; Nifty ends at 24,232",
     "Moderna-Merck Breakthrough Cancer Vaccine Shows Promise In Clinical Trial For Melanoma Treatment",
-    "IRDAI bars Niva Bupa from opening new offices for six months over expense limit breach",
-    "India imposes sugar stockholding limits on bulk consumers, tightens curbs",
-    "F***: Many Users Say ChatGPT Is Now Using More Swear Words And Nobody Knows Why",
+    "Raghuram Rajan Warns 'Jobocalypse' Is Coming But Says There's A Way Out",
+    "Wall St futures subdued as bond market rally wanes",
     "Apple iPhone 18 Pro Could Get Game-Changing 2nm Chip Upgrade",
-    "Google Messages RCS breaks with ‘3100’ error for some, especially Galaxy switchers",
-    "iQOO Z11 debuts in India with different specs and design, Buds TWS tag along - GSMArena.com news",
-    "‘Jailer 2’ first single promo out: Like Tamannaah’s ‘Kaavaalaa’, Shamna Kassim to bring the magic with ‘A",
-    "\"Don't Live In India Anymore\": Apoorva Mukhija Reveals Why She Moved To New York After India's Got Latent Row",
-    "Yami Gautam Dhar’s ‘Nayyi Navelli’ Sets October Release From Amazon MGM Studios, Colour Yellow (EXCLUSIVE)"
+    "Alexa+ on Fire TV Is Now Free: 3 Big Wins for Viewers",
+    "Rockstar hit with more leaks as GTA 6 gameplay and assets appear to circulate on social media",
+    "Samsung confirms August 27 online event to expand its Galaxy S26 line-up",
+    "Yami Gautam Dhar’s ‘Nayyi Navelli’ Sets October Release From Amazon MGM Studios, Colour Yellow (EXCLUSIVE)",
+    "'Aishwarya and I started dating in Jaipur': Abhishek Bachchan reveals his wife, daughter Aaradhya and fat",
+    "Khalifa Box Office Advance Booking: Crosses 4 Crore Worldwide For Day 1, Lags 27% Behind Aadujeevitham In Kerala"
   ],
   "quiz": [
     {
-      "blanked": "\"Don't Live In ______ Anymore\": Apoorva Mukhija Reveals Why She Moved To New York After India's Got Latent Row",
-      "answer": "India",
+      "blanked": "Human microbes could survive on ______ South Pole, raising new contamination concerns for future...",
+      "answer": "Moons",
       "options": [
-        "Dies",
-        "Meghan",
-        "Upgrade",
-        "India"
+        "Moons",
+        "Swear",
+        "Score",
+        "Seen"
       ]
     },
     {
-      "blanked": "Moderna-Merck Breakthrough Cancer Vaccine Shows Promise In Clinical ______ For Melanoma Treatment",
-      "answer": "Trial",
+      "blanked": "Moderna-Merck Breakthrough Cancer Vaccine Shows Promise In ______ Trial For Melanoma Treatment",
+      "answer": "Clinical",
       "options": [
-        "Islamabad-North",
-        "Sets",
-        "Context",
-        "Trial"
+        "Opener",
+        "Wins",
+        "Kumar",
+        "Clinical"
       ]
     },
     {
-      "blanked": "Prince ______ and Meghan to move back to Britain",
-      "answer": "Harry",
+      "blanked": "Manav Suthar scripts history, equals 93-year-old record after stunning ______ Lanka Test show",
+      "answer": "Sri",
       "options": [
-        "Harry",
-        "Agency",
-        "Gen",
-        "Dhars"
+        "JPSC",
+        "EXCLUSIVE",
+        "Disallowed",
+        "Sri"
       ]
     },
     {
-      "blanked": "NASA, European Space ______ astronauts conduct spacewalk to replace antenna",
-      "answer": "Agency",
+      "blanked": "'Tareeka badla hai, maqsad nahi': Shehzad Poonawalla predicts Rahul ______ future | India News",
+      "answer": "Gandhis",
       "options": [
-        "Got",
-        "Agency",
-        "Treatment",
-        "Shuttling"
+        "Tests",
+        "Trumps",
+        "Shows",
+        "Gandhis"
       ]
     },
     {
-      "blanked": "Yami Gautam Dhar’s ‘Nayyi Navelli’ Sets October Release From Amazon MGM ______ Colour Yellow (EXCLUSIVE)",
-      "answer": "Studios",
+      "blanked": "Apple iPhone 18 Pro Could ______ Game-Changing 2nm Chip Upgrade",
+      "answer": "Get",
       "options": [
-        "Kargil",
-        "Galaxy",
-        "Yellow",
-        "Studios"
+        "Get",
+        "Montecito",
+        "Hockey",
+        "Cup"
       ]
     },
     {
-      "blanked": "West Asia LIVE: Iran says Trump's ______ D-Day' is a diversion from U.S. domestic problems",
-      "answer": "Economic",
+      "blanked": "India vs England LIVE Score, Women's ______ World Cup: India's Goal Disallowed, Both Teams Eye Opener",
+      "answer": "Hockey",
       "options": [
-        "Economic",
-        "Space",
-        "Pro",
-        "Chip"
+        "Red",
+        "Hockey",
+        "27%",
+        "Trumps"
       ]
     },
     {
-      "blanked": "Citing Islamabad-North ______ connect, India urges Japan not to share advanced defence technology with Pakistan",
-      "answer": "Korea",
+      "blanked": "Yami Gautam Dhar’s ‘Nayyi Navelli’ Sets October Release From ______ MGM Studios, Colour Yellow (EXCLUSIVE)",
+      "answer": "Amazon",
       "options": [
-        "Bets",
-        "Korea",
-        "Protect",
-        "Pakistan"
+        "628",
+        "EXCLUSIVE",
+        "August",
+        "Amazon"
       ]
     },
     {
-      "blanked": "Gut and ______ Microbiomes May Influence Reproductive Outcomes",
-      "answer": "Seminal",
+      "blanked": "Sajjan Kumar, former ______ MP convicted in anti-Sikh riots case, passes away",
+      "answer": "Congress",
       "options": [
-        "Muslim",
-        "1947",
-        "Sample",
-        "Seminal"
+        "Cup",
+        "Congress",
+        "Treated",
+        "Gor"
       ]
     },
     {
-      "blanked": "Jharkhand Government's Order Cancelling JPSC, ______ Exams Stayed By High Court",
-      "answer": "JSSC",
+      "blanked": "Mutiny Review: You’ll Swear You’ve Seen This Jason Statham ______ Before",
+      "answer": "Movie",
       "options": [
-        "Japan",
-        "Using",
-        "JSSC",
-        "Camera"
+        "Supreme",
+        "Movie",
+        "Youve",
+        "Theres"
       ]
     },
     {
-      "blanked": "Sunny Deol’s Muslim character in ______ 1947’ made investors hesitant, Rajkumar Santoshi clarifies: 'He",
-      "answer": "Batwara",
+      "blanked": "West Asia LIVE: Iran says Trump's 'Economic ______ is a diversion from U.S. domestic problems",
+      "answer": "D-Day",
       "options": [
-        "She",
-        "Niva",
-        "Batwara",
-        "MGM"
+        "D-Day",
+        "Flags",
+        "Melanoma",
+        "US-South"
       ]
     },
     {
-      "blanked": "Lionel Messi scores first goal for ______ Miami since father’s death",
-      "answer": "Inter",
+      "blanked": "'How English Can Be Treated As Non-Native?' : ______ Court Urges CBSE To Revisit Language Policy,...",
+      "answer": "Supreme",
       "options": [
-        "Mosquito",
-        "Inter",
-        "Tries",
-        "1947"
+        "Supreme",
+        "Amazon",
+        "Now",
+        "628"
       ]
     },
     {
-      "blanked": "F***: Many Users Say ChatGPT Is Now Using More Swear ______ And Nobody Knows Why",
-      "answer": "Words",
+      "blanked": "Samsung confirms August 27 online event to expand its ______ S26 line-up",
+      "answer": "Galaxy",
       "options": [
-        "Eternal",
-        "Words",
-        "Finance",
-        "Deols"
+        "Court",
+        "Out",
+        "Amit",
+        "Galaxy"
       ]
     }
   ]
