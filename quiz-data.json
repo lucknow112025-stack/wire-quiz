@@ -1,93 +1,73 @@
 {
-  "generatedAt": "2026-08-20T17:50:01.280Z",
+  "generatedAt": "2026-08-20T19:44:45.463Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "Jharkhand Government's Order Cancelling JPSC, JSSC Exams Stayed By High Court",
-    "Tamil Nadu CM Vijay makes three requests to home minister Amit Shah – delimitation, NEET and… | India News",
-    "BREAKING| Supreme Court Forms 5-Member Committee Led By Ex-SC Judge Subhash Reddy To Probe Student...",
-    "Amit Shah slams Congress’ two-stanza Vande Mataram decision, calls it ‘appeasement’ and defiance of law",
     "'Break silos, engage more with youth': PM Modi’s message to officials after key high-level meeting | India News",
+    "'Except 5 TMC for drinking, water from Mekedatu dam will be for Tamil Nadu': Karnataka CM D K Shivakumar says he committed in Shah's presence",
+    "Amit Shah slams Congress’ two-stanza Vande Mataram decision, calls it ‘appeasement’ and defiance of law",
+    "Bessent says US will impose toughest ever sanctions on Iran, urges China to cooperate",
+    "Speeding Aston Martin Rams, Kills Woman In Hyderabad, MP's Son Charged",
     "'How English Can Be Treated As Non-Native?' : Supreme Court Urges CBSE To Revisit Language Policy,...",
-    "Pakistan summons U.S. Chargé d’Affaires over Sergio Gor's remarks on J&K",
     "India, Japan sign maritime security pact to deepen defence cooperation",
+    "Sajjan Kumar, former Congress MP convicted in anti-Sikh riots case, passes away",
+    "Why a Trump envoy’s Kashmir visit has led to US-Pakistan spat",
     "Government to notify Master Plan of Delhi today",
-    "Specially Abled Man Pushed Off Mumbai Local, Dies. Accused Says \"Chasing Crow\"",
-    "World News Today Live Updates: Iran-backed Houthis attack Najran airport, Aramco facilities in Saudi Arabia",
+    "Russian missile barrage kills at least 16 people in Ukraine’s Kyiv",
     "BNP's Mirza Fakhrul elected as Bangladesh's new President",
     "USS Washington arrives in Arabian Sea after aircraft carrier outcry",
-    "Oil flows nearly tripled before US-Iran MoU expired, analysis shows",
+    "Bessent says U.S. likely won’t restart large-scale Iran combat as it steps up economic pressure",
     "India allows duty-free imports of 1 million metric tons of raw sugar",
-    "Stock Market Close: Sensex snaps four-day losing streak, jumps 628 pts; Nifty ends at 24,232",
     "Moderna-Merck Breakthrough Cancer Vaccine Shows Promise In Clinical Trial For Melanoma Treatment",
-    "F&O Trap: 88.5% Traders Aged Under 30 Incur Losses, Most From Low-Income Group, SEBI Study Shows",
-    "The Google Pixel 11 series is now on sale - GSMArena.com news",
+    "Rs 91,685 crore gone! 88% retail investors lost money in F&O trading in FY26 even after strict Sebi rules",
+    "Stock Market Today: Major Indexes Fall After Snapping 3-Day Skids; Oil Prices, Treasury Yields, Bitcoin Rise; Walmart Stock Drops",
     "Apple iPhone 18 Pro Could Get Game-Changing 2nm Chip Upgrade",
     "Windows 11 trials new privacy features, with per-app control for camera, microphone, and location access",
-    "Amazon Rolls Out Free AI Assistant Alexa+ to All Compatible Fire TV Devices",
-    "Yash’s ‘Toxic’ Unveils English-Language Trailer",
-    "Nayyi Navelli: Aditya Dhar Teases Wife Yami Gautam About 'Daayan' Role. Actor Replies",
-    "Khalifa Box Office Advance Booking: Crosses 4 Crore Worldwide For Day 1, Lags 27% Behind Aadujeevitham In Kerala"
+    "Rockstar hit with more leaks as GTA 6 gameplay and assets appear to circulate on social media",
+    "The Google Pixel 11 series is now on sale - GSMArena.com news",
+    "Shweta Tiwari says she is receiving online abuse from Marathi people: ‘Do you believe this is acceptable behaviour?’ | Bollywood",
+    "Rajkumar Santoshi on whether Sunny Deol's Muslim character damaged 'Batwara 1947' at box office: 'We had",
+    "Yash’s ‘Toxic’ Unveils English-Language Trailer"
   ],
   "quiz": [
     {
-      "blanked": "Yash’s ‘Toxic’ ______ English-Language Trailer",
-      "answer": "Unveils",
+      "blanked": "Rockstar hit with more leaks as ______ 6 gameplay and assets appear to circulate on social media",
+      "answer": "GTA",
       "options": [
-        "Unveils",
-        "What",
-        "Study",
-        "Treatment"
+        "Championships",
+        "GTA",
+        "Sebi",
+        "Anand"
       ]
     },
     {
-      "blanked": "RK-251: What we know about ______ new ‘smart’ cancer drug that ‘could replace chemotherapy’",
-      "answer": "Indias",
+      "blanked": "BWF World Championships 2026 Highlights: ______ secure thrilling turnaround victory, Sindhu suffers disappointing defeat",
+      "answer": "Satwik-Chirag",
       "options": [
-        "Mosquito",
-        "628",
-        "Indias",
-        "Aged"
+        "Moons",
+        "Satwik-Chirag",
+        "Pro",
+        "English"
       ]
     },
     {
-      "blanked": "World News Today Live Updates: Iran-backed Houthis attack ______ airport, Aramco facilities in Saudi Arabia",
-      "answer": "Najran",
+      "blanked": "Government to notify Master ______ of Delhi today",
+      "answer": "Plan",
       "options": [
-        "Najran",
-        "Charg",
-        "Office",
-        "Trial"
+        "Plan",
+        "Market",
+        "2026",
+        "Womens"
       ]
     },
     {
-      "blanked": "Dengue cases spread across Nepal as it marks ______ Mosquito Day",
-      "answer": "World",
+      "blanked": "'How English Can Be Treated As Non-Native?' : Supreme ______ Urges CBSE To Revisit Language Policy,...",
+      "answer": "Court",
       "options": [
-        "About",
-        "World",
-        "Mosquito",
-        "Subhash"
-      ]
-    },
-    {
-      "blanked": "Amit ______ slams Congress’ two-stanza Vande Mataram decision, calls it ‘appeasement’ and defiance of law",
-      "answer": "Shah",
-      "options": [
-        "Shah",
-        "Gautam",
-        "Most",
-        "Congress"
-      ]
-    },
-    {
-      "blanked": "'How English ______ Be Treated As Non-Native?' : Supreme Court Urges CBSE To Revisit Language Policy,...",
-      "answer": "Can",
-      "options": [
-        "May",
-        "Google",
-        "News-Medical",
-        "Can"
+        "Urges",
+        "Court",
+        "US-Pakistan",
+        "Son"
       ]
     },
     {
@@ -95,59 +75,79 @@
       "answer": "Japan",
       "options": [
         "Japan",
-        "Most",
-        "Yami",
-        "Teases"
+        "Satwik-Chirag",
+        "Kumar",
+        "Times"
       ]
     },
     {
-      "blanked": "'Break silos, engage more with youth': PM Modi’s message to officials after key high-level meeting | India ______",
-      "answer": "News",
+      "blanked": "‘Maybe that was her tactic’: PV ______ questions ‘cramps’; Wang Zhi Yi says ‘I was really injured’",
+      "answer": "Sindhu",
       "options": [
-        "News",
-        "Melanoma",
+        "India",
+        "Sindhu",
+        "Indias",
+        "2026"
+      ]
+    },
+    {
+      "blanked": "Stock Market Today: Major Indexes Fall After ______ 3-Day Skids; Oil Prices, Treasury Yields, Bitcoin Rise; Walmart Stock Drops",
+      "answer": "Snapping",
+      "options": [
+        "Promise",
+        "Trailer",
+        "Snapping",
+        "Muslim"
+      ]
+    },
+    {
+      "blanked": "Bessent says U.S. likely won’t restart large-scale ______ combat as it steps up economic pressure",
+      "answer": "Iran",
+      "options": [
+        "Woman",
+        "Wang",
+        "Hepatitis",
+        "Iran"
+      ]
+    },
+    {
+      "blanked": "Why a ______ envoy’s Kashmir visit has led to US-Pakistan spat",
+      "answer": "Trump",
+      "options": [
+        "Santoshi",
+        "Sebi",
+        "What",
+        "Trump"
+      ]
+    },
+    {
+      "blanked": "Siddharth Anand earns the ire of ______ film fans after he takes a dig at how multiple big releases have flopped | Hindustan Times",
+      "answer": "Telugu",
+      "options": [
+        "Karnataka",
+        "Tamil",
+        "Telugu",
+        "88%"
+      ]
+    },
+    {
+      "blanked": "Sexual Dysfunction in ______ Hepatitis B Often Overlooked",
+      "answer": "Chronic",
+      "options": [
+        "Mekedatu",
         "Chronic",
-        "Alexa"
+        "Focus",
+        "5000"
       ]
     },
     {
-      "blanked": "Apple iPhone 18 Pro ______ Get Game-Changing 2nm Chip Upgrade",
-      "answer": "Could",
+      "blanked": "Yash’s ‘Toxic’ Unveils English-Language ______",
+      "answer": "Trailer",
       "options": [
-        "Governments",
-        "Get",
-        "Could",
-        "Zhi"
-      ]
-    },
-    {
-      "blanked": "Tamil Nadu CM Vijay makes three requests to home minister Amit Shah – delimitation, ______ and… | India News",
-      "answer": "NEET",
-      "options": [
-        "NEET",
-        "Bangladeshs",
-        "Stayed",
-        "Sea"
-      ]
-    },
-    {
-      "blanked": "Specially Abled ______ Pushed Off Mumbai Local, Dies. Accused Says \"Chasing Crow\"",
-      "answer": "Man",
-      "options": [
-        "Often",
-        "Test",
-        "Man",
-        "Crosses"
-      ]
-    },
-    {
-      "blanked": "USS Washington arrives in ______ Sea after aircraft carrier outcry",
-      "answer": "Arabian",
-      "options": [
-        "Arabian",
-        "Test",
-        "Trap",
-        "Mumbai"
+        "Modis",
+        "Stock",
+        "Bollywood",
+        "Trailer"
       ]
     }
   ]
