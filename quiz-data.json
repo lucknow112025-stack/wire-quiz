@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-20T23:00:16.550Z",
+  "generatedAt": "2026-08-20T23:58:22.704Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "Tamil Nadu CM Vijay makes three requests to home minister Amit Shah – delimitation, NEET and… | India News",
     "'Break silos, engage more with youth': PM Modi’s message to officials after key high-level meeting | India News",
     "Jharkhand Government's Order Cancelling JPSC, JSSC Exams Stayed By High Court",
     "Bessent says US will impose toughest ever sanctions on Iran, urges China to cooperate",
     "Rajya Sabha member’s son booked after Aston Martin kills Hyderabad woman crossing road",
-    "Tanker off Yemen boarded by armed people, diverted towards Somalia, UKMTO says",
+    "Pakistan summons U.S. Chargé d’Affaires over Sergio Gor's remarks on J&K",
+    "Supreme Court Forms 5-Member Committee Led By Ex-SC Judge Subhash Reddy To Probe Student Protest Violence",
     "Bengal, J&K, Ladakh and five other State Collectors empowered to grant citizenship under CAA",
     "Three months after BJP win in Bengal, eggs reach Jadavpur University as ABVP lays siege",
-    "India, Japan sign maritime security pact to deepen defence cooperation",
+    "Delimitation, NEET and Cauvery: What Tamil Nadu CM Vijay discussed with Amit Shah",
     "'Illiterate government': Kejriwal takes aim at Centre over E20 fuel policy, sugar prices",
     "At least 18 people killed in Ukraine as Russia carries out more attacks",
     "BNP's Mirza Fakhrul elected as Bangladesh's new President",
-    "Setback For Shehbaz Govt: Pakistan Supreme Court Returns Plea Against Imran Khan’s Hospital Transfer",
-    "US hits Hezbollah with fresh sanctions, emphasizing ties to Iranian government",
-    "Sugar stocks in focus for 3rd straight session: Balrampur Chini, Dalmia Bharat Sugar, others rise amid high prices",
+    "USS Washington arrives in Arabian Sea after aircraft carrier outcry",
+    "Bessent says U.S. likely won’t restart large-scale Iran combat as it steps up economic pressure",
     "F&O trading bill: Retail traders pay Rs 25,000 crore transaction costs in FY26 despite big losses",
-    "Moderna-Merck Breakthrough Cancer Vaccine Shows Promise In Clinical Trial For Melanoma Treatment",
-    "Robots poised for 'ChatGPT moment,' Unitree CEO says",
+    "Sugar stocks in focus for 3rd straight session: Balrampur Chini, Dalmia Bharat Sugar, others rise amid high prices",
+    "Wall Street sinks as bond yields rise, Walmart results disappoint",
+    "Robot Malfunctions And Suffers 'Seizure' At China Conference, Operators Struggle to Stop It",
     "Google Pixel 11 gets dbrand’s full case lineup, including Tank for the first time [Gallery]",
     "Apple iPhone 18 Pro Could Get Game-Changing 2nm Chip Upgrade",
-    "Galaxy S26 FE Will Reveal Which Phones Get Samsung’s Free Upgrade",
-    "Chinese hackers use AI to automate attacks on 170,000 servers",
+    "Hacker targets Grand Theft Auto VI in apparent leak",
+    "Samsung confirms August 27 online event to expand its Galaxy S26 line-up",
     "Rajkumar Santoshi on whether Sunny Deol's Muslim character damaged 'Batwara 1947' at box office: 'We had",
-    "Shweta Tiwari says she is receiving online abuse from Marathi people: ‘Do you believe this is acceptable behaviour?’ | Bollywood",
-    "Awarapan 2 Box Office Collection Day 6 Highlights: Emraan Hashmi film crosses Rs 150 crore mark worldwide"
+    "Awarapan 2 Box Office Collection Day 6 Highlights: Emraan Hashmi film crosses Rs 150 crore mark worldwide",
+    "Prince Harry, Meghan returning to U.K. with their children, says British newspaper"
   ],
   "quiz": [
     {
-      "blanked": "Arsenal 2026-27 season preview: Mikel Arteta's ______ will run away with the Premier League but fall short in Europe once again",
-      "answer": "Gunners",
+      "blanked": "Wall ______ sinks as bond yields rise, Walmart results disappoint",
+      "answer": "Street",
       "options": [
-        "Centre",
-        "Exams",
-        "Russia",
-        "Gunners"
+        "Seizure",
+        "150",
+        "Congo",
+        "Street"
       ]
     },
     {
-      "blanked": "Shweta ______ says she is receiving online abuse from Marathi people: ‘Do you believe this is acceptable behaviour?’ | Bollywood",
-      "answer": "Tiwari",
+      "blanked": "Bessent says U.S. likely won’t restart large-scale ______ combat as it steps up economic pressure",
+      "answer": "Iran",
       "options": [
-        "Jadavpur",
-        "Reveal",
-        "Tank",
-        "Tiwari"
+        "JSSC",
+        "Sea",
+        "Collectors",
+        "Iran"
+      ]
+    },
+    {
+      "blanked": "Robot Malfunctions And ______ 'Seizure' At China Conference, Operators Struggle to Stop It",
+      "answer": "Suffers",
+      "options": [
+        "NEET",
+        "Seizure",
+        "Forms",
+        "Suffers"
       ]
     },
     {
       "blanked": "World Mosquito ______ Focus on prevention, early diagnosis and timely testing for mosquito-borne diseases",
       "answer": "Day",
       "options": [
-        "Day",
-        "Impatient",
-        "Khans",
-        "Championships"
-      ]
-    },
-    {
-      "blanked": "NSF grant supports UH researchers to investigate how mutation rates evolve across species - ______",
-      "answer": "News-Medical",
-      "options": [
-        "Iran",
-        "Somalia",
-        "News-Medical",
-        "ISS"
-      ]
-    },
-    {
-      "blanked": "BNP's Mirza ______ elected as Bangladesh's new President",
-      "answer": "Fakhrul",
-      "options": [
-        "Fakhrul",
-        "League",
-        "Collection",
-        "Cup"
-      ]
-    },
-    {
-      "blanked": "Astronauts take 6-hour, 23-min spacewalk outside ISS, run out of time to replace antenna | Installation to be attempted in future spacewalk | ______",
-      "answer": "Inshorts",
-      "options": [
-        "Inshorts",
-        "Indias",
-        "Order",
-        "Deols"
-      ]
-    },
-    {
-      "blanked": "Jharkhand Government's Order Cancelling JPSC, JSSC Exams ______ By High Court",
-      "answer": "Stayed",
-      "options": [
-        "Stayed",
-        "Dalmia",
-        "Impatient",
-        "Sunny"
-      ]
-    },
-    {
-      "blanked": "Setback For Shehbaz Govt: Pakistan Supreme Court Returns Plea Against Imran ______ Hospital Transfer",
-      "answer": "Khans",
-      "options": [
         "NEET",
-        "Reveal",
-        "Khans",
-        "Melanoma"
+        "Day",
+        "Gunners",
+        "Find"
       ]
     },
     {
-      "blanked": "Tamil Nadu CM Vijay makes three requests to home minister Amit Shah – delimitation, NEET and… | India ______",
-      "answer": "News",
+      "blanked": "Pakistan summons U.S. Chargé d’Affaires over Sergio ______ remarks on J&K",
+      "answer": "Gors",
       "options": [
-        "News",
-        "Jadavpur",
-        "Shehbaz",
-        "170000"
+        "NASA",
+        "Mothers",
+        "Congo",
+        "Gors"
       ]
     },
     {
-      "blanked": "Three months after BJP win in Bengal, eggs reach Jadavpur University as ______ lays siege",
-      "answer": "ABVP",
+      "blanked": "Google ______ 11 gets dbrand’s full case lineup, including Tank for the first time [Gallery]",
+      "answer": "Pixel",
       "options": [
-        "Modis",
-        "Transfer",
-        "ABVP",
-        "English-Language"
+        "Pixel",
+        "Find",
+        "Struggle",
+        "Conference"
       ]
     },
     {
-      "blanked": "Robots poised for 'ChatGPT moment,' Unitree ______ says",
-      "answer": "CEO",
+      "blanked": "'Dhokha Diya Toh Bheekh Mangega': When Govinda Recalled His ______ Warning About Sunita Ahuja",
+      "answer": "Mothers",
       "options": [
-        "Phones",
-        "CEO",
-        "Cup",
-        "Office"
+        "Mothers",
+        "Order",
+        "Walmart",
+        "Stayed"
       ]
     },
     {
-      "blanked": "US hits ______ with fresh sanctions, emphasizing ties to Iranian government",
-      "answer": "Hezbollah",
+      "blanked": "At least 18 people killed in Ukraine as ______ carries out more attacks",
+      "answer": "Russia",
       "options": [
+        "Malfunctions",
+        "World",
+        "Led",
+        "Russia"
+      ]
+    },
+    {
+      "blanked": "Astronauts take 6-hour, 23-min spacewalk outside ISS, run out of time to replace antenna | ______ to be attempted in future spacewalk | Inshorts",
+      "answer": "Installation",
+      "options": [
+        "Congo",
+        "Installation",
+        "ISS",
+        "Court"
+      ]
+    },
+    {
+      "blanked": "BWF World ______ 2026 Highlights: Satwik-Chirag secure thrilling turnaround victory, Sindhu suffers disappointing defeat",
+      "answer": "Championships",
+      "options": [
+        "Street",
+        "Tank",
         "Championships",
-        "Artetas",
-        "Box",
-        "Hezbollah"
+        "China"
+      ]
+    },
+    {
+      "blanked": "Prince Harry, Meghan returning to U.K. with their children, says ______ newspaper",
+      "answer": "British",
+      "options": [
+        "When",
+        "Emraan",
+        "British",
+        "Warning"
+      ]
+    },
+    {
+      "blanked": "Jharkhand ______ Order Cancelling JPSC, JSSC Exams Stayed By High Court",
+      "answer": "Governments",
+      "options": [
+        "When",
+        "Governments",
+        "Congo",
+        "Probe"
       ]
     }
   ]
