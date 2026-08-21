@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-21T05:18:33.762Z",
+  "generatedAt": "2026-08-21T07:57:23.288Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "US says it will impose 'toughest sanctions in history' on Iran",
-    "Former Pakistan PM Imran Khan Back In Jail, Hours After He Was Shifted To Hospital",
+    "Rahul Gandhi Seeks Info On Pellet Gun Use, Sits Outside Senior Cop's Office",
+    "Two vessels with 22 Indians on board hijacked by pirates near Yemen, Somalia | India News",
+    "Ex-Pakistan PM Imran Khan returns to Adiala Jail after medical examination at Islamabad hospital",
     "Why Congress will sing only the first two stanzas of Vande Mataram, and what the other four say",
-    "Tanker off Yemen boarded by armed people, diverted towards Somalia, UKMTO says",
-    "Rajya Sabha member’s son booked after Aston Martin kills Hyderabad woman crossing road",
-    "Man Pretends To Be Transgender, Enters Woman's Home And Rapes Her In Mumbai",
-    "Three months after BJP win in Bengal, eggs reach Jadavpur University as ABVP lays siege",
-    "Bengal, J&K, Ladakh and five other State Collectors empowered to grant citizenship under CAA",
-    "Arson, assault, vandalism rock Shillong as students' rally turns violent",
-    "Govt limits number of SIM cards you can have, new rules effective from August 24",
-    "Robert F Kennedy Jr's Son Is On Russia's Wanted List. Can Face 10 Years In Jail",
-    "Car salesman becomes Belgian prince after DNA test confirms royal paternity",
-    "At least 18 people killed in Ukraine as Russia carries out more attacks",
-    "Trump wants a new meeting with Kim Jong Un. North Korea says not so fast",
-    "CAS manipulation: SEBI's swift ban on JPMorgan unit seen as warning to traders",
-    "India allows duty-free imports of 1 million metric tons of raw sugar",
-    "F&O trading bill: Retail traders pay Rs 25,000 crore transaction costs in FY26 despite big losses",
+    "BREAKING| Supreme Court Reduces Practice Requirement For Judicial Service To 1 Year; Selected Candidates...",
+    "US says it will impose 'toughest sanctions in history' on Iran",
+    "Jharkhand HC stays the cancellation of appointments made through 11th to 13th JPSC exams",
+    "Centre denies permission for Telangana CM Revanth Reddy’s U.S. visit",
+    "CJP Abhijeet Dipke: Indian schools in focus as 'cockroach' party starts #SchoolThikKaro campaign",
+    "CCTV Shows Moment Lucknow Man Shot Wife Outside ICICI Bank",
+    "8 on board as twin-engine Cessna charter plane crashes in remote Alaska",
+    "No More Automatic Visa Extensions From 1st Sep",
+    "Gaza mediators say latest Israeli strikes undermine efforts to end conflict at critical stage",
+    "Deranged wannabe-influencer mom filmed herself pouring hot wax on her kids and starting fire in kitchen",
+    "How traders allegedly gamed CAS",
     "Stock Market Close: Sensex snaps four-day losing streak, jumps 628 pts; Nifty ends at 24,232",
-    "Sennheiser’s new Momentum 5 earbuds feature easily replaceable batteries",
+    "'Starlink would help the least served in India, especially in rural areas': Elon Musk",
+    "Colgate-Palmolive India MD & CEO Prabha Narasimhan quits, promoted to global role",
     "Apple iPhone 18 Pro Could Get Game-Changing 2nm Chip Upgrade",
+    "GTA 6 Leaks Continue for Third Day as New Video Suggests Playable Build Access",
     "Galaxy S26 FE Will Reveal Which Phones Get Samsung’s Free Upgrade",
-    "Hacker targets ‘Grand Theft Auto VI’ in apparent leak",
-    "Govinda’s manager slams divorce drama after Sunita Ahuja withdraws case: ‘This saddens me’",
-    "'The Odyssey' Becomes Highest-Grossing R-Rated Movie Ever",
-    "'Reduce Art To Religious Practice': Kangana Ranaut Reacts To Sharmila Tagore's Vande Mataram Remark"
+    "Chinese hackers use AI to automate attacks on 170,000 servers",
+    "Kangana Ranaut reacts to Sharmila Tagore's comment on 'Vande Mantaram': 'Shocked to see as an artist her",
+    "'Govinda And Komal Were Planning To Get Married': Sunita Ahuja Tells Rakhi Sawant On Phone After Withdrawing Divorce Case",
+    "Bandar OTT release: When and where to watch Bobby Deol, Anurag Kashyap's controversial film on #MeTooForMen | Bollywood"
   ],
   "quiz": [
     {
-      "blanked": "F&O trading bill: Retail traders pay Rs ______ crore transaction costs in FY26 despite big losses",
-      "answer": "25000",
+      "blanked": "Role of the Reproductive Tract Microbiome in Infertility and Assisted Reproductive Technologies: A Comprehensive ______",
+      "answer": "Review",
       "options": [
-        "25000",
-        "Tract",
-        "Market",
-        "Khan"
+        "Khan",
+        "Phone",
+        "Game-Changing",
+        "Review"
       ]
     },
     {
-      "blanked": "Robert F Kennedy Jr's ______ Is On Russia's Wanted List. Can Face 10 Years In Jail",
-      "answer": "Son",
+      "blanked": "'Starlink would help the least served in ______ especially in rural areas': Elon Musk",
+      "answer": "India",
       "options": [
-        "Upgrade",
+        "India",
+        "Retry",
+        "England",
+        "Received"
+      ]
+    },
+    {
+      "blanked": "Pakistani singer ______ Zahid's emotional note on 'Awarapan 2' honouring his legacy: 'Received what I wa",
+      "answer": "Mustafa",
+      "options": [
+        "Mustafa",
+        "Usmans",
+        "Publishes",
+        "Ranaut"
+      ]
+    },
+    {
+      "blanked": "AHA Publishes Results of Nationwide Initiative for ______ Education and Awareness",
+      "answer": "Lpa",
+      "options": [
+        "Leaks",
+        "Ranaut",
+        "Israeli",
+        "Lpa"
+      ]
+    },
+    {
+      "blanked": "8 on board as twin-engine ______ charter plane crashes in remote Alaska",
+      "answer": "Cessna",
+      "options": [
+        "Game-Changing",
+        "Khan",
+        "Sawant",
+        "Cessna"
+      ]
+    },
+    {
+      "blanked": "GTA 6 Leaks Continue for Third Day as New Video Suggests ______ Build Access",
+      "answer": "Playable",
+      "options": [
+        "Case",
+        "Playable",
+        "Kolkata",
+        "Indias"
+      ]
+    },
+    {
+      "blanked": "CCTV Shows Moment Lucknow Man ______ Wife Outside ICICI Bank",
+      "answer": "Shot",
+      "options": [
         "Install",
-        "Son",
-        "Focus"
+        "Villiers",
+        "Shot",
+        "Received"
       ]
     },
     {
-      "blanked": "Govt limits number of SIM cards you can have, new rules effective from ______ 24",
-      "answer": "August",
+      "blanked": "Ex-Pakistan PM Imran Khan returns to ______ Jail after medical examination at Islamabad hospital",
+      "answer": "Adiala",
       "options": [
-        "August",
-        "Russias",
-        "Former",
-        "SEBIs"
+        "When",
+        "Deol",
+        "Adiala",
+        "OTT"
       ]
     },
     {
-      "blanked": "At least 18 people killed in Ukraine as ______ carries out more attacks",
-      "answer": "Russia",
+      "blanked": "How traders allegedly gamed ______",
+      "answer": "CAS",
       "options": [
-        "Jong",
-        "1947",
-        "Sharmila",
-        "Russia"
+        "Education",
+        "Mosquito",
+        "CAS",
+        "Jail"
       ]
     },
     {
-      "blanked": "Apple iPhone 18 Pro Could Get Game-Changing 2nm Chip ______",
-      "answer": "Upgrade",
+      "blanked": "Apple iPhone 18 Pro Could Get Game-Changing 2nm ______ Upgrade",
+      "answer": "Chip",
       "options": [
-        "Bengal",
-        "Tagores",
-        "Kangana",
-        "Upgrade"
+        "Bollywood",
+        "Chip",
+        "Close",
+        "Reveal"
       ]
     },
     {
-      "blanked": "Role of the Reproductive Tract Microbiome in Infertility and ______ Reproductive Technologies: A Comprehensive Review",
-      "answer": "Assisted",
+      "blanked": "No More ______ Visa Extensions From 1st Sep",
+      "answer": "Automatic",
       "options": [
-        "Ebola",
-        "Assisted",
-        "Mataram",
-        "ISS"
+        "Continue",
+        "Sep",
+        "Indians",
+        "Automatic"
       ]
     },
     {
-      "blanked": "Former Pakistan PM Imran Khan ______ In Jail, Hours After He Was Shifted To Hospital",
-      "answer": "Back",
+      "blanked": "NASA ______ Retry Of ISS Spacewalk Antenna Install On Aug. 25",
+      "answer": "Plans",
       "options": [
-        "Upgrade",
-        "R-Rated",
-        "Back",
-        "Retry"
-      ]
-    },
-    {
-      "blanked": "Hacker targets ‘Grand Theft ______ VI’ in apparent leak",
-      "answer": "Auto",
-      "options": [
-        "Deols",
-        "Cships",
-        "Auto",
-        "Pretends"
-      ]
-    },
-    {
-      "blanked": "Joe ______ scripts history, becomes first player to achieve this feat",
-      "answer": "Root",
-      "options": [
-        "Root",
-        "Tagores",
-        "Free",
-        "1947"
-      ]
-    },
-    {
-      "blanked": "DRC: M23 tightens movement controls as ______ outbreak surpasses 5,000 cases",
-      "answer": "Ebola",
-      "options": [
-        "Ebola",
-        "Martin",
-        "Hospital",
-        "Collectors"
-      ]
-    },
-    {
-      "blanked": "Bengal, J&K, Ladakh and five other State ______ empowered to grant citizenship under CAA",
-      "answer": "Collectors",
-      "options": [
-        "Collectors",
-        "Former",
-        "Congress",
-        "Cships"
-      ]
-    },
-    {
-      "blanked": "Govinda’s manager slams divorce drama after Sunita ______ withdraws case: ‘This saddens me’",
-      "answer": "Ahuja",
-      "options": [
-        "Religious",
-        "Ahuja",
-        "University",
-        "Kennedy"
+        "World",
+        "Annapurni",
+        "Leaks",
+        "Plans"
       ]
     }
   ]
