@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-21T15:53:42.729Z",
+  "generatedAt": "2026-08-21T17:06:26.130Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
     "Rahul Gandhi protest in Delhi LIVE: Rahul ends over-6-hour dharna after FIR registered on pellet victim's complaint",
-    "Father Tries To Pull Back Teen From Cliff Edge, Both Fall. Then Mother Jumps",
+    "Jantar Mantar protest LIVE: Protesters detained, RAF deployed amid ‘Reservation Hatao Andolan’ stir | Hindustan Times",
     "Pezeshkian: Those inviting enemy are not Iranians",
-    "Centre denies permission for Telangana CM Revanth Reddy’s U.S. visit",
-    "Two vessels with 22 Indians on board hijacked by pirates near Yemen, Somalia | India News",
-    "‘Reservation Hatao’ Protest Underway At Jantar Mantar Despite Police Shifting Venue To Ramlila Maidan",
-    "Villagers clash with CJP’s school inspection team in Rajasthan; Dipke slams police as 'mute spectator’",
-    "'Everyone has diabetes these days': Bihar minister says sugar price rise won’t matter much - watch",
-    "Failure All Around: Govt, KSU, Public",
-    "Jharkhand High Court Stays State Government's Decision To Cancel Appointments Made Through 11th-13th JPSC ...",
+    "In A Tit-For-Tat Move, New Delhi Removes Encroachments Outside Pak High Commission",
+    "Six Indians Among 10 Crew On Cargo Ship Carrying Turkish Weapons Hijacked Off Somalia",
+    "Bangladesh PM visit: In unusual move, Rashtrapati Bhavan recalls statement hour after issuing it",
+    "iPhone EMI Behind Family's Wipeout In Maharashtra Hill Horror",
+    "'Programme not appropriate': MEA on rejecting clearance for Revanth Reddy's US visit",
+    "26/11 Mumbai terror attacks: State seeks trial against six Pakistani masterminds in absentia",
+    "CJP activists assaulted in Rajasthan village during school inspection attempt",
     "West Asia LIVE: China says U.S. 'sanctions and pressure' on Iran not a solution",
-    "Pakistan ex-PM Imran Khan’s family accuses gov’t of defying hospital order",
     "El Nino set to be most intense ‘for over a century’: UK forecasters",
-    "Foreign Students Applying to US Colleges Fell 10% This Year",
-    "Bitcoin Tops $75,000 For The First Time Since May As Crypto Surge Continues",
-    "India allows duty-free imports of 1 million metric tons of raw sugar",
-    "Tata Motors to hike car prices by Rs 25,000; joins Maruti, Hyundai as costs hurt pockets",
+    "Pakistan ex-PM Imran Khan’s family accuses gov’t of defying hospital order",
+    "49 terrorists killed in IBOs in KP, Balochistan: ISPR",
     "Stock Market Close: Sensex settles flat, Nifty ends at 24,252; IT, FMCG, auto shares weigh",
-    "Canon Has Increased Its Massive Digital Camera Market Share Lead",
-    "The Pixel 11 Pro brings back one of BlackBerry's best features, but Google gets it all wrong",
-    "Leak reveals Apple’s next-gen headphones with IPX4 and fresh design",
+    "Balrampur Chini, Shree Renuka Sugars, EID Parry: Sugar stocks tumble up to 6%; here is why",
+    "Tata Cars, SUVs Get Price Hike From Sep 2026 - Up To Rs 25,000",
+    "India expects Apple to make more than iPhones, Google to shift export production from China: Vaishnaw",
+    "Google Home update lets you set light color temperature to your favorite kelvin using voice commands",
     "Apple iPhone 18 Pro Could Get Game-Changing 2nm Chip Upgrade",
+    "Canon Has Increased Its Massive Digital Camera Market Share Lead",
+    "Did GTA 6 leaks happen via Rockstar India? Social media abuzz with theories",
     "'Sowcar' Janaki death: Veteran actor passes away at 94",
     "Arjun Rampal marries his girlfriend Gabriella Demetriades in Goa after over six years of togetherness",
-    "Sunita Ahuja claims Govinda was to marry co-star Komal Rani; Rakhi Sawant gives ‘Rs 200 cr advice’"
+    "Toxic: Advance Bookings For Yash, Kiara Advani's Big-Ticket Film Begin"
   ],
   "quiz": [
     {
-      "blanked": "Two vessels with 22 ______ on board hijacked by pirates near Yemen, Somalia | India News",
-      "answer": "Indians",
+      "blanked": "Apple iPhone 18 Pro Could ______ Game-Changing 2nm Chip Upgrade",
+      "answer": "Get",
       "options": [
-        "Both",
-        "Maidan",
-        "Komal",
-        "Indians"
+        "Outbreak",
+        "Get",
+        "Sheds",
+        "ASHARQ"
       ]
     },
     {
-      "blanked": "Foreign Students Applying to US ______ Fell 10% This Year",
-      "answer": "Colleges",
+      "blanked": "26/11 Mumbai terror attacks: ______ seeks trial against six Pakistani masterminds in absentia",
+      "answer": "State",
       "options": [
-        "Colleges",
-        "Around",
-        "Revanth",
-        "Second"
+        "Ravi",
+        "Ice",
+        "English",
+        "State"
       ]
     },
     {
-      "blanked": "Father Tries To Pull Back Teen From Cliff ______ Both Fall. Then Mother Jumps",
-      "answer": "Edge",
+      "blanked": "Stock Market ______ Sensex settles flat, Nifty ends at 24,252; IT, FMCG, auto shares weigh",
+      "answer": "Close",
       "options": [
-        "Edge",
-        "24252",
-        "Surge",
-        "Govinda"
+        "Close",
+        "Share",
+        "State",
+        "EID"
+      ]
+    },
+    {
+      "blanked": "Health Minister J.P. ______ to review H1N1 situation in Delhi today amid spike in swine flu cases",
+      "answer": "Nadda",
+      "options": [
+        "Pakistani",
+        "Developed",
+        "Apple",
+        "Nadda"
+      ]
+    },
+    {
+      "blanked": "Tata Cars, SUVs Get Price Hike From ______ 2026 - Up To Rs 25,000",
+      "answer": "Sep",
+      "options": [
+        "Off",
+        "Gabriella",
+        "Sep",
+        "Hockey"
+      ]
+    },
+    {
+      "blanked": "Jantar Mantar protest LIVE: Protesters detained, RAF deployed amid ‘Reservation Hatao Andolan’ stir | Hindustan ______",
+      "answer": "Times",
+      "options": [
+        "Arthritis",
+        "SUVs",
+        "Times",
+        "Andolan"
+      ]
+    },
+    {
+      "blanked": "West Asia ______ China says U.S. 'sanctions and pressure' on Iran not a solution",
+      "answer": "LIVE",
+      "options": [
+        "Hill",
+        "EMI",
+        "Mantar",
+        "LIVE"
       ]
     },
     {
       "blanked": "El ______ set to be most intense ‘for over a century’: UK forecasters",
       "answer": "Nino",
       "options": [
-        "Rajasthan",
-        "Public",
+        "Hockey",
+        "Behind",
         "Nino",
-        "Rahul"
+        "Apple"
       ]
     },
     {
-      "blanked": "Microbes from Earth may be able to survive the ______ South Pole",
-      "answer": "Moons",
+      "blanked": "Petermann Glacier Sheds Manhattan-Sized Ice ______ in 2026 Calving",
+      "answer": "Island",
       "options": [
-        "Hyundai",
-        "Tops",
-        "Police",
-        "Moons"
+        "Island",
+        "Hijacked",
+        "RAF",
+        "Test"
       ]
     },
     {
-      "blanked": "England vs ______ live: scores and updates from first Test day 3",
-      "answer": "Pakistan",
+      "blanked": "Rescue mission called off for ______ aging Swift space telescope",
+      "answer": "NASAs",
       "options": [
-        "Year",
-        "Benefit",
-        "Venue",
-        "Pakistan"
+        "Balochistan",
+        "Imran",
+        "Finally",
+        "NASAs"
       ]
     },
     {
-      "blanked": "Failure ______ Around: Govt, KSU, Public",
-      "answer": "All",
+      "blanked": "FIH Men’s Hockey World Cup 2026 ______ Round — LIVE Standings, Schedule, Results",
+      "answer": "Second",
       "options": [
-        "Round",
-        "All",
-        "Colleges",
-        "Mother"
+        "Reservation",
+        "25000",
+        "Lead",
+        "Second"
       ]
     },
     {
-      "blanked": "The Pixel 11 ______ brings back one of BlackBerry's best features, but Google gets it all wrong",
-      "answer": "Pro",
+      "blanked": "Netherlands’ Early Arthritis Screening Clinic Shows Long-Term ______",
+      "answer": "Benefit",
       "options": [
-        "Iran",
-        "Pro",
-        "Shifting",
-        "Results"
-      ]
-    },
-    {
-      "blanked": "Jharkhand High ______ Stays State Government's Decision To Cancel Appointments Made Through 11th-13th JPSC ...",
-      "answer": "Court",
-      "options": [
-        "Mens",
-        "Court",
-        "Screening",
-        "Hyundai"
-      ]
-    },
-    {
-      "blanked": "Rahul ______ protest in Delhi LIVE: Rahul ends over-6-hour dharna after FIR registered on pellet victim's complaint",
-      "answer": "Gandhi",
-      "options": [
-        "Colleges",
-        "Around",
-        "Gandhi",
-        "India"
-      ]
-    },
-    {
-      "blanked": "2,500 dead and rising — UN says DR ______ Ebola outbreak ‘growing exponentially’",
-      "answer": "Congo",
-      "options": [
-        "Ramlila",
-        "Results",
-        "Court",
-        "Congo"
-      ]
-    },
-    {
-      "blanked": "'Sowcar' Janaki death: ______ actor passes away at 94",
-      "answer": "Veteran",
-      "options": [
-        "Court",
-        "Veteran",
-        "All",
-        "75000"
+        "Advance",
+        "Sensex",
+        "Kiara",
+        "Benefit"
       ]
     }
   ]
