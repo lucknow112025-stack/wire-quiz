@@ -1,53 +1,103 @@
 {
-  "generatedAt": "2026-08-21T17:06:26.130Z",
+  "generatedAt": "2026-08-21T18:04:31.563Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
     "Rahul Gandhi protest in Delhi LIVE: Rahul ends over-6-hour dharna after FIR registered on pellet victim's complaint",
-    "Jantar Mantar protest LIVE: Protesters detained, RAF deployed amid ‘Reservation Hatao Andolan’ stir | Hindustan Times",
+    "Reservation Hatao Aandolan: Massive gathering at Jantar Mantar; security upped",
+    "'Despite our request...': India's tit-for-tat move against Pakistan mission explained | India News",
     "Pezeshkian: Those inviting enemy are not Iranians",
-    "In A Tit-For-Tat Move, New Delhi Removes Encroachments Outside Pak High Commission",
-    "Six Indians Among 10 Crew On Cargo Ship Carrying Turkish Weapons Hijacked Off Somalia",
-    "Bangladesh PM visit: In unusual move, Rashtrapati Bhavan recalls statement hour after issuing it",
-    "iPhone EMI Behind Family's Wipeout In Maharashtra Hill Horror",
-    "'Programme not appropriate': MEA on rejecting clearance for Revanth Reddy's US visit",
-    "26/11 Mumbai terror attacks: State seeks trial against six Pakistani masterminds in absentia",
+    "Two vessels with 22 Indians on board hijacked by pirates near Yemen, Somalia | India News",
+    "Centre denies permission for Telangana CM Revanth Reddy’s U.S. visit",
+    "iPhone EMI Behind Teen, Parents' Deaths In Maharashtra Hill Horror",
     "CJP activists assaulted in Rajasthan village during school inspection attempt",
+    "Meghalaya-Assam Taxi Operators' Standoff Continues, Tourists Stranded",
+    "Raidurg Creates History With 264 Crore Per Acre Land Deal",
     "West Asia LIVE: China says U.S. 'sanctions and pressure' on Iran not a solution",
-    "El Nino set to be most intense ‘for over a century’: UK forecasters",
     "Pakistan ex-PM Imran Khan’s family accuses gov’t of defying hospital order",
-    "49 terrorists killed in IBOs in KP, Balochistan: ISPR",
+    "Bangladesh elects ruling party veteran Alamgir as president",
+    "El Nino set to be most intense ‘for over a century’: UK forecasters",
     "Stock Market Close: Sensex settles flat, Nifty ends at 24,252; IT, FMCG, auto shares weigh",
-    "Balrampur Chini, Shree Renuka Sugars, EID Parry: Sugar stocks tumble up to 6%; here is why",
-    "Tata Cars, SUVs Get Price Hike From Sep 2026 - Up To Rs 25,000",
-    "India expects Apple to make more than iPhones, Google to shift export production from China: Vaishnaw",
+    "Govt notifies Rs 62,500-crore mobile manufacturing scheme, offers extra incentives for local sourcing",
+    "India allows duty-free imports of 1 million metric tons of raw sugar",
+    "BMW X1 LWB launched in India at Rs 49.90 lakh - Team-BHP",
     "Google Home update lets you set light color temperature to your favorite kelvin using voice commands",
     "Apple iPhone 18 Pro Could Get Game-Changing 2nm Chip Upgrade",
-    "Canon Has Increased Its Massive Digital Camera Market Share Lead",
     "Did GTA 6 leaks happen via Rockstar India? Social media abuzz with theories",
+    "Pixel 11 series factory images are now available to download",
     "'Sowcar' Janaki death: Veteran actor passes away at 94",
     "Arjun Rampal marries his girlfriend Gabriella Demetriades in Goa after over six years of togetherness",
     "Toxic: Advance Bookings For Yash, Kiara Advani's Big-Ticket Film Begin"
   ],
   "quiz": [
     {
-      "blanked": "Apple iPhone 18 Pro Could ______ Game-Changing 2nm Chip Upgrade",
-      "answer": "Get",
+      "blanked": "Netherlands’ Early Arthritis Screening Clinic ______ Long-Term Benefit",
+      "answer": "Shows",
       "options": [
-        "Outbreak",
-        "Get",
-        "Sheds",
-        "ASHARQ"
+        "Shows",
+        "Nifty",
+        "Deal",
+        "Exponentially"
       ]
     },
     {
-      "blanked": "26/11 Mumbai terror attacks: ______ seeks trial against six Pakistani masterminds in absentia",
-      "answer": "State",
+      "blanked": "Petermann Glacier Sheds Manhattan-Sized ______ Island in 2026 Calving",
+      "answer": "Ice",
       "options": [
-        "Ravi",
+        "Office",
         "Ice",
-        "English",
-        "State"
+        "Market",
+        "Kiara"
+      ]
+    },
+    {
+      "blanked": "Raidurg Creates History With 264 Crore Per ______ Land Deal",
+      "answer": "Acre",
+      "options": [
+        "Acre",
+        "Cup",
+        "Aandolan",
+        "Big-Ticket"
+      ]
+    },
+    {
+      "blanked": "India vs Netherlands LIVE ______ Women's Hockey World Cup 2026: Savita Makes Stunning Saves To Deny Netherlands | IND 0-1 NED",
+      "answer": "Score",
+      "options": [
+        "Taxi",
+        "Score",
+        "Revanth",
+        "Nifty"
+      ]
+    },
+    {
+      "blanked": "Rescue mission called off for NASA’s aging ______ space telescope",
+      "answer": "Swift",
+      "options": [
+        "Stunning",
+        "IND",
+        "Janaki",
+        "Swift"
+      ]
+    },
+    {
+      "blanked": "Treesa Jolly-Gayatri Gopichand end India’s 15-year wait, assure World ______ medal",
+      "answer": "Championships",
+      "options": [
+        "Deny",
+        "Arthritis",
+        "Somalia",
+        "Championships"
+      ]
+    },
+    {
+      "blanked": "BMW X1 LWB launched in India at Rs 49.90 lakh - ______",
+      "answer": "Team-BHP",
+      "options": [
+        "Consecutive",
+        "Ebola",
+        "Team-BHP",
+        "Rockstar"
       ]
     },
     {
@@ -55,99 +105,49 @@
       "answer": "Close",
       "options": [
         "Close",
-        "Share",
-        "State",
-        "EID"
+        "Asia",
+        "Parents",
+        "Goa"
       ]
     },
     {
-      "blanked": "Health Minister J.P. ______ to review H1N1 situation in Delhi today amid spike in swine flu cases",
+      "blanked": "Pezeshkian: Those inviting enemy are not ______",
+      "answer": "Iranians",
+      "options": [
+        "Iranians",
+        "FIR",
+        "Tourists",
+        "Hatao"
+      ]
+    },
+    {
+      "blanked": "H1N1 cases rise, health minister ______ reviews influenza preparedness",
       "answer": "Nadda",
       "options": [
-        "Pakistani",
-        "Developed",
-        "Apple",
+        "Veteran",
+        "Janaki",
+        "Drug",
         "Nadda"
       ]
     },
     {
-      "blanked": "Tata Cars, SUVs Get Price Hike From ______ 2026 - Up To Rs 25,000",
-      "answer": "Sep",
+      "blanked": "Centre denies permission for Telangana CM ______ Reddy’s U.S. visit",
+      "answer": "Revanth",
       "options": [
-        "Off",
-        "Gabriella",
-        "Sep",
-        "Hockey"
+        "Swift",
+        "Revanth",
+        "Bookings",
+        "Jantar"
       ]
     },
     {
-      "blanked": "Jantar Mantar protest LIVE: Protesters detained, RAF deployed amid ‘Reservation Hatao Andolan’ stir | Hindustan ______",
-      "answer": "Times",
+      "blanked": "UN: DR Congo Ebola Outbreak 'Growing ______ - ASHARQ AL-AWSAT English",
+      "answer": "Exponentially",
       "options": [
-        "Arthritis",
-        "SUVs",
-        "Times",
-        "Andolan"
-      ]
-    },
-    {
-      "blanked": "West Asia ______ China says U.S. 'sanctions and pressure' on Iran not a solution",
-      "answer": "LIVE",
-      "options": [
-        "Hill",
-        "EMI",
-        "Mantar",
-        "LIVE"
-      ]
-    },
-    {
-      "blanked": "El ______ set to be most intense ‘for over a century’: UK forecasters",
-      "answer": "Nino",
-      "options": [
-        "Hockey",
-        "Behind",
-        "Nino",
-        "Apple"
-      ]
-    },
-    {
-      "blanked": "Petermann Glacier Sheds Manhattan-Sized Ice ______ in 2026 Calving",
-      "answer": "Island",
-      "options": [
-        "Island",
-        "Hijacked",
-        "RAF",
-        "Test"
-      ]
-    },
-    {
-      "blanked": "Rescue mission called off for ______ aging Swift space telescope",
-      "answer": "NASAs",
-      "options": [
-        "Balochistan",
-        "Imran",
-        "Finally",
-        "NASAs"
-      ]
-    },
-    {
-      "blanked": "FIH Men’s Hockey World Cup 2026 ______ Round — LIVE Standings, Schedule, Results",
-      "answer": "Second",
-      "options": [
-        "Reservation",
-        "25000",
-        "Lead",
-        "Second"
-      ]
-    },
-    {
-      "blanked": "Netherlands’ Early Arthritis Screening Clinic Shows Long-Term ______",
-      "answer": "Benefit",
-      "options": [
-        "Advance",
-        "Sensex",
-        "Kiara",
-        "Benefit"
+        "IND",
+        "Test",
+        "Khans",
+        "Exponentially"
       ]
     }
   ]
