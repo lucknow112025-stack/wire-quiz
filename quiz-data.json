@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-21T18:04:31.563Z",
+  "generatedAt": "2026-08-21T19:33:39.483Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
     "Rahul Gandhi protest in Delhi LIVE: Rahul ends over-6-hour dharna after FIR registered on pellet victim's complaint",
-    "Reservation Hatao Aandolan: Massive gathering at Jantar Mantar; security upped",
-    "'Despite our request...': India's tit-for-tat move against Pakistan mission explained | India News",
-    "Pezeshkian: Those inviting enemy are not Iranians",
-    "Two vessels with 22 Indians on board hijacked by pirates near Yemen, Somalia | India News",
-    "Centre denies permission for Telangana CM Revanth Reddy’s U.S. visit",
+    "Jantar Mantar protest LIVE: Protesters detained, RAF deployed amid ‘Reservation Hatao Andolan’ stir | Hindustan Times",
     "iPhone EMI Behind Teen, Parents' Deaths In Maharashtra Hill Horror",
-    "CJP activists assaulted in Rajasthan village during school inspection attempt",
+    "Two vessels with 22 Indians on board hijacked by pirates near Yemen, Somalia | India News",
+    "Why a Trump envoy’s Kashmir visit has led to US-Pakistan spat",
+    "'Despite our request...': India's tit-for-tat move against Pakistan mission explained | India News",
+    "PM Modi says ‘production-linked punishment’ era once held back Indian industry; pegs India as world’s fast",
     "Meghalaya-Assam Taxi Operators' Standoff Continues, Tourists Stranded",
-    "Raidurg Creates History With 264 Crore Per Acre Land Deal",
+    "Jana Sena MP’s son served only a notice after crashing car, killing woman in Hyderabad",
+    "On Camera, Worms Found In Mid-Day Meal In Bihar, Students Throw Away Food",
     "West Asia LIVE: China says U.S. 'sanctions and pressure' on Iran not a solution",
     "Pakistan ex-PM Imran Khan’s family accuses gov’t of defying hospital order",
+    "‘Double-tap’ attack: 14 killed as Russian drones ravage Zelenskyy’s hometown",
     "Bangladesh elects ruling party veteran Alamgir as president",
-    "El Nino set to be most intense ‘for over a century’: UK forecasters",
     "Stock Market Close: Sensex settles flat, Nifty ends at 24,252; IT, FMCG, auto shares weigh",
-    "Govt notifies Rs 62,500-crore mobile manufacturing scheme, offers extra incentives for local sourcing",
-    "India allows duty-free imports of 1 million metric tons of raw sugar",
+    "Apple May Expand India Manufacturing Beyond iPhones: Union Minister",
     "BMW X1 LWB launched in India at Rs 49.90 lakh - Team-BHP",
-    "Google Home update lets you set light color temperature to your favorite kelvin using voice commands",
+    "India allows duty-free imports of 1 million metric tons of raw sugar",
+    "Gemini for Home sharpens Spotify control, lighting tweaks, and message broadcasts",
+    "Take-Two subpoenas Microsoft and Discord to identify GTA VI leaker",
     "Apple iPhone 18 Pro Could Get Game-Changing 2nm Chip Upgrade",
-    "Did GTA 6 leaks happen via Rockstar India? Social media abuzz with theories",
-    "Pixel 11 series factory images are now available to download",
-    "'Sowcar' Janaki death: Veteran actor passes away at 94",
+    "I stopped caring about camera hardware years ago; the Pixel 11 Pro changed that",
+    "Sowcar Janaki, the versatile face of Tamil cinema known for majestic roles and finesses",
     "Arjun Rampal marries his girlfriend Gabriella Demetriades in Goa after over six years of togetherness",
-    "Toxic: Advance Bookings For Yash, Kiara Advani's Big-Ticket Film Begin"
+    "‘Irumudi’ movie review: Shiva Nirvana and Ravi Teja deliver an emotionally steeped tale"
   ],
   "quiz": [
     {
-      "blanked": "Netherlands’ Early Arthritis Screening Clinic ______ Long-Term Benefit",
-      "answer": "Shows",
+      "blanked": "Pakistan ex-PM Imran ______ family accuses gov’t of defying hospital order",
+      "answer": "Khans",
       "options": [
-        "Shows",
-        "Nifty",
-        "Deal",
-        "Exponentially"
-      ]
-    },
-    {
-      "blanked": "Petermann Glacier Sheds Manhattan-Sized ______ Island in 2026 Calving",
-      "answer": "Ice",
-      "options": [
-        "Office",
-        "Ice",
-        "Market",
-        "Kiara"
-      ]
-    },
-    {
-      "blanked": "Raidurg Creates History With 264 Crore Per ______ Land Deal",
-      "answer": "Acre",
-      "options": [
-        "Acre",
-        "Cup",
-        "Aandolan",
-        "Big-Ticket"
-      ]
-    },
-    {
-      "blanked": "India vs Netherlands LIVE ______ Women's Hockey World Cup 2026: Savita Makes Stunning Saves To Deny Netherlands | IND 0-1 NED",
-      "answer": "Score",
-      "options": [
-        "Taxi",
-        "Score",
-        "Revanth",
-        "Nifty"
-      ]
-    },
-    {
-      "blanked": "Rescue mission called off for NASA’s aging ______ space telescope",
-      "answer": "Swift",
-      "options": [
-        "Stunning",
-        "IND",
-        "Janaki",
-        "Swift"
-      ]
-    },
-    {
-      "blanked": "Treesa Jolly-Gayatri Gopichand end India’s 15-year wait, assure World ______ medal",
-      "answer": "Championships",
-      "options": [
-        "Deny",
-        "Arthritis",
-        "Somalia",
-        "Championships"
-      ]
-    },
-    {
-      "blanked": "BMW X1 LWB launched in India at Rs 49.90 lakh - ______",
-      "answer": "Team-BHP",
-      "options": [
-        "Consecutive",
-        "Ebola",
-        "Team-BHP",
-        "Rockstar"
-      ]
-    },
-    {
-      "blanked": "Stock Market ______ Sensex settles flat, Nifty ends at 24,252; IT, FMCG, auto shares weigh",
-      "answer": "Close",
-      "options": [
-        "Close",
-        "Asia",
-        "Parents",
-        "Goa"
-      ]
-    },
-    {
-      "blanked": "Pezeshkian: Those inviting enemy are not ______",
-      "answer": "Iranians",
-      "options": [
-        "Iranians",
-        "FIR",
-        "Tourists",
-        "Hatao"
-      ]
-    },
-    {
-      "blanked": "H1N1 cases rise, health minister ______ reviews influenza preparedness",
-      "answer": "Nadda",
-      "options": [
-        "Veteran",
-        "Janaki",
-        "Drug",
-        "Nadda"
-      ]
-    },
-    {
-      "blanked": "Centre denies permission for Telangana CM ______ Reddy’s U.S. visit",
-      "answer": "Revanth",
-      "options": [
-        "Swift",
-        "Revanth",
+        "Glacier",
         "Bookings",
-        "Jantar"
+        "Khans",
+        "Run"
       ]
     },
     {
-      "blanked": "UN: DR Congo Ebola Outbreak 'Growing ______ - ASHARQ AL-AWSAT English",
-      "answer": "Exponentially",
+      "blanked": "India vs Netherlands Highlights, Women's Hockey World Cup 2026: India's Unbeaten Run ______ With 2-0 Loss To Netherlands",
+      "answer": "Ends",
       "options": [
-        "IND",
+        "India",
+        "Championships",
+        "24252",
+        "Ends"
+      ]
+    },
+    {
+      "blanked": "England take 1-0 lead as shoddy Pakistan suffer innings defeat in Headingley ______",
+      "answer": "Test",
+      "options": [
+        "Bihar",
         "Test",
-        "Khans",
-        "Exponentially"
+        "Ends",
+        "Glacier"
+      ]
+    },
+    {
+      "blanked": "'Despite our request...': India's tit-for-tat move against Pakistan mission explained | India ______",
+      "answer": "News",
+      "options": [
+        "Advance",
+        "News",
+        "NASAs",
+        "Ends"
+      ]
+    },
+    {
+      "blanked": "Sowcar Janaki, the versatile face of ______ cinema known for majestic roles and finesses",
+      "answer": "Tamil",
+      "options": [
+        "Gandhi",
+        "Benefit",
+        "Tamil",
+        "Throw"
+      ]
+    },
+    {
+      "blanked": "Toxic: Advance Bookings For Yash, ______ Advani's Big-Ticket Film Begin",
+      "answer": "Kiara",
+      "options": [
+        "Kiara",
+        "Congo",
+        "Developed",
+        "World"
+      ]
+    },
+    {
+      "blanked": "New Smart ______ RK-251 Developed as Replacement for Chemotherapy",
+      "answer": "Drug",
+      "options": [
+        "China",
+        "Drug",
+        "Stranded",
+        "League"
+      ]
+    },
+    {
+      "blanked": "Treesa Jolly-Gayatri Gopichand end ______ 15-year wait, assure World Championships medal",
+      "answer": "Indias",
+      "options": [
+        "NASAs",
+        "Rumesh",
+        "Indias",
+        "World"
+      ]
+    },
+    {
+      "blanked": "Rahul Gandhi protest in Delhi ______ Rahul ends over-6-hour dharna after FIR registered on pellet victim's complaint",
+      "answer": "LIVE",
+      "options": [
+        "Bookings",
+        "Ends",
+        "Found",
+        "LIVE"
+      ]
+    },
+    {
+      "blanked": "On Camera, Worms Found In ______ Meal In Bihar, Students Throw Away Food",
+      "answer": "Mid-Day",
+      "options": [
+        "Mid-Day",
+        "Championships",
+        "Neeraj",
+        "Gabriella"
+      ]
+    },
+    {
+      "blanked": "‘Double-tap’ attack: 14 killed as Russian drones ravage ______ hometown",
+      "answer": "Zelenskyys",
+      "options": [
+        "Film",
+        "Zelenskyys",
+        "Deaths",
+        "Andolan"
+      ]
+    },
+    {
+      "blanked": "2,500 dead and rising — UN says DR Congo ______ outbreak ‘growing exponentially’",
+      "answer": "Ebola",
+      "options": [
+        "MPs",
+        "Gabriella",
+        "Chopra",
+        "Ebola"
       ]
     }
   ]
