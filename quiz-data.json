@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-21T09:55:01.137Z",
+  "generatedAt": "2026-08-21T11:01:54.645Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "Rahul Gandhi sits on dharna at police station in New Delhi, demands FIR over pellet gun use during July 20 protest",
-    "Pakistan ex-PM Imran Khan back in jail after court-ordered hospital visit ends sooner than expected",
-    "Why Congress will sing only the first two stanzas of Vande Mataram, and what the other four say",
+    "Rahul Gandhi dharna: Leader demands FIR over pellet gun use during CJP protest in Delhi",
+    "'Reservation Hatao Andolan' protest LIVE: Delhi police gives permit for agitation at Ramlila Maidan | Hindustan Times",
     "Centre denies permission for Telangana CM Revanth Reddy’s U.S. visit",
-    "Supreme Court Waives Prior Practice Requirement For Civil Judge (Junior Division) Exams Till March 2027",
+    "Supreme Court Rejects Plea To Treat Post-Graduation As Equivalent To Practice At Bar For Civil Judge...",
     "On visit to Rajasthan schools, CJP says leaders attacked, shares videos",
-    "Mystery about discovery of tunnel sparks excitement in 500-year-old Golconda Fort in Hyderabad",
-    "FBI lists Lawrence Bishnoi gang-linked Indian national as wanted fugitive in US extortion case",
-    "AP Rajya Sabha MP’s son booked after Aston Martin fatally hits woman near Inorbit Mall in Hyderabad",
     "Tamil Nadu Car War: DMK Rejects Vijay's Free Vehicles, Government Clarifies",
+    "Why Congress will sing only the first two stanzas of Vande Mataram, and what the other four say",
+    "Andhra Pradesh Rajya Sabha MP's son in soup after Aston Martin rams, kills Hyderabad woman; no arrest yet",
+    "Father Tries To Pull Back Teen From Cliff Edge, Both Fall. Then Mother Jumps",
+    "Mystery about discovery of tunnel sparks excitement in 500-year-old Golconda Fort in Hyderabad",
     "U.S. pushes allies, China to back Trump’s economic war on Iran",
+    "Pakistan’s ex-PM Imran Khan back in jail after brief hospital visit",
     "8 on board as twin-engine Cessna charter plane crashes in remote Alaska",
     "6 Indians Onboard Hijacked Cargo Ship Carrying Turkish Weapons Near Somalia",
-    "Gaza mediators say latest Israeli strikes undermine efforts to end conflict at critical stage",
     "Stock Market LIVE: Sensex trades flat, Nifty around 24,200; Power Grid, HDFC Life top gainers",
+    "Tata Cars, SUVs Get Price Hike From Sep 2026 - Up To Rs 25,000",
     "CAS manipulation: SEBI's swift ban on JPMorgan unit seen as warning to traders",
-    "U.S. Dollar Attempts To Rebound After Sell-Off: Analysis For EUR/USD, GBP/USD, USD/CAD, USD/JPY",
-    "India to give Canada's Fairfax two years to consolidate holdings for IDBI Bank deal, sources say",
+    "Welspun Corp bags biggest-ever ₹17,200 crore US pipe order, shares soar",
     "Apple iPhone 18 Pro Could Get Game-Changing 2nm Chip Upgrade",
     "Galaxy S26 FE Will Reveal Which Phones Get Samsung’s Free Upgrade",
     "Antiseizure Medications and DOACs Impact Stroke and Mortality",
     "GTA 6 Leaks Continue for Third Day as New Video Suggests Playable Build Access",
+    "94-year-old veteran actor Sowcar Janaki dies after hospitalisation in Chennai, confirms Nassar | Hindustan Times",
     "'Govinda And Komal Were Planning To Get Married': Sunita Ahuja Tells Rakhi Sawant On Phone After Withdrawing Divorce Case",
-    "7 Dogs review: Salman, Sanjay bring swag to Ahmed Ezz's high-octane actioner",
     "'Spirit' controversy: Sandeep Reddy Vanga's brother alleges 'multiple things' led to Deepika Padukone's e"
   ],
   "quiz": [
     {
-      "blanked": "Mystery about discovery of tunnel sparks excitement in 500-year-old ______ Fort in Hyderabad",
-      "answer": "Golconda",
+      "blanked": "7 Dogs review: Salman, Sanjay bring swag to ______ Ezz's high-octane actioner",
+      "answer": "Ahmed",
       "options": [
-        "Severe",
-        "Rajasthan",
-        "Golconda",
+        "Ahmed",
+        "Linked",
+        "Telangana",
+        "Ramlila"
+      ]
+    },
+    {
+      "blanked": "94-year-old veteran actor ______ Janaki dies after hospitalisation in Chennai, confirms Nassar | Hindustan Times",
+      "answer": "Sowcar",
+      "options": [
+        "Sowcar",
+        "Weapons",
+        "Martin",
+        "Telangana"
+      ]
+    },
+    {
+      "blanked": "‘Pass on the weed, brother’: AB de Villiers brutally mocked for putting Virat ______ above Sachin Tendulkar | Cricket",
+      "answer": "Kohli",
+      "options": [
+        "24200",
+        "Rajya",
+        "Kohli",
+        "War"
+      ]
+    },
+    {
+      "blanked": "'Govinda And Komal Were Planning To Get Married': Sunita Ahuja Tells Rakhi ______ On Phone After Withdrawing Divorce Case",
+      "answer": "Sawant",
+      "options": [
+        "Linked",
+        "Outbreak",
+        "Bar",
         "Sawant"
       ]
     },
     {
-      "blanked": "Brook's 91 gives ______ upper hand despite Ali Usman's five-fer",
-      "answer": "England",
+      "blanked": "Father Tries To Pull Back Teen From Cliff Edge, ______ Fall. Then Mother Jumps",
+      "answer": "Both",
       "options": [
-        "Cargo",
-        "FIR",
-        "MPs",
-        "England"
+        "Indians",
+        "Both",
+        "Championships",
+        "Married"
       ]
     },
     {
-      "blanked": "Pakistan ex-PM Imran ______ back in jail after court-ordered hospital visit ends sooner than expected",
-      "answer": "Khan",
+      "blanked": "Tata Cars, SUVs Get Price Hike From Sep ______ - Up To Rs 25,000",
+      "answer": "2026",
       "options": [
-        "Imran",
-        "Studies",
-        "Rebound",
-        "Khan"
+        "Near",
+        "Delhi",
+        "2026",
+        "Sep"
       ]
     },
     {
-      "blanked": "NASA ______ Retry Of ISS Spacewalk Antenna Install On Aug. 25",
-      "answer": "Plans",
+      "blanked": "Meet Annapurni Subramaniam, first Indian woman to win ______ Vikram Sarabhai Medal for space research",
+      "answer": "COSPAR",
       "options": [
-        "Level",
-        "Sawant",
-        "Plans",
-        "Fort"
+        "Adverse",
+        "Playable",
+        "Cohort",
+        "COSPAR"
       ]
     },
     {
-      "blanked": "GTA 6 ______ Continue for Third Day as New Video Suggests Playable Build Access",
-      "answer": "Leaks",
+      "blanked": "'Reservation Hatao Andolan' protest LIVE: Delhi police gives permit for agitation at Ramlila Maidan | Hindustan ______",
+      "answer": "Times",
       "options": [
-        "China",
-        "Leaks",
-        "Grid",
-        "March"
+        "Reveal",
+        "Times",
+        "Revanth",
+        "Hike"
       ]
     },
     {
-      "blanked": "NSF grant supports UH researchers to investigate how mutation rates evolve across species - ______",
-      "answer": "News-Medical",
+      "blanked": "Centre denies permission for Telangana CM Revanth ______ U.S. visit",
+      "answer": "Reddys",
       "options": [
-        "Sabha",
+        "Reddys",
+        "Usmans",
+        "Virat",
+        "Studies"
+      ]
+    },
+    {
+      "blanked": "Tamil Nadu Car War: DMK Rejects Vijay's Free Vehicles, Government ______",
+      "answer": "Clarifies",
+      "options": [
+        "Then",
+        "Vehicles",
         "Clarifies",
-        "Court",
-        "News-Medical"
+        "AL-AWSAT"
       ]
     },
     {
-      "blanked": "U.S. pushes allies, China to back ______ economic war on Iran",
-      "answer": "Trumps",
+      "blanked": "Galaxy S26 FE Will Reveal ______ Phones Get Samsung’s Free Upgrade",
+      "answer": "Which",
       "options": [
         "Annapurni",
-        "Aston",
-        "Trumps",
-        "Medal"
+        "Wellbeing",
+        "Which",
+        "Adverse"
       ]
     },
     {
-      "blanked": "Apple iPhone 18 Pro Could Get ______ 2nm Chip Upgrade",
-      "answer": "Game-Changing",
+      "blanked": "Antiseizure Medications and DOACs Impact Stroke and ______",
+      "answer": "Mortality",
       "options": [
-        "Bishnoi",
-        "Game-Changing",
-        "Division",
-        "Vijays"
-      ]
-    },
-    {
-      "blanked": "Treesa Jolly-Gayatri Gopichand end India’s 15-year wait, assure World ______ medal",
-      "answer": "Championships",
-      "options": [
-        "Championships",
-        "Playable",
-        "OTT",
-        "Ship"
-      ]
-    },
-    {
-      "blanked": "On visit to Rajasthan schools, ______ says leaders attacked, shares videos",
-      "answer": "CJP",
-      "options": [
-        "Cases",
-        "CJP",
-        "Ship",
-        "Life"
-      ]
-    },
-    {
-      "blanked": "Tamil Nadu Car ______ DMK Rejects Vijay's Free Vehicles, Government Clarifies",
-      "answer": "War",
-      "options": [
-        "Game-Changing",
-        "War",
-        "Canadas",
-        "Iran"
-      ]
-    },
-    {
-      "blanked": "6 Indians Onboard Hijacked Cargo Ship Carrying Turkish Weapons ______ Somalia",
-      "answer": "Near",
-      "options": [
-        "Power",
-        "Major",
-        "Near",
-        "Dogs"
+        "Phones",
+        "Ahuja",
+        "Mortality",
+        "Jolly-Gayatri"
       ]
     }
   ]
