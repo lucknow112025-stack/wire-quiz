@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-21T21:45:45.091Z",
+  "generatedAt": "2026-08-21T22:54:40.292Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
     "Jantar Mantar protest LIVE: Massive crowd, RAF at Jantar Mantar for 'Reservation Hatao' protest; several detained | Hindustan Times",
-    "Rahul Gandhi protest in Delhi LIVE: Rahul ends over-6-hour dharna after FIR registered on pellet victim's complaint",
-    "Two vessels with 22 Indians on board hijacked by pirates near Yemen, Somalia | India News",
+    "Bangladesh PM visit: In unusual move, Rashtrapati Bhavan recalls statement hour after issuing it",
+    "Jharkhand protesters attempt to burn effigies of CM Hemant Soren, Rahul Gandhi; scuffle with police in Ranchi",
     "Why a Trump envoy’s Kashmir visit has led to US-Pakistan spat",
     "Iran threatens military response to US sanctions",
-    "Jharkhand Government's Order Cancelling JPSC, JSSC Exams Stayed By High Court",
-    "PM Modi says ‘production-linked punishment’ era once held back Indian industry; pegs India as world’s fast",
-    "Meghalaya-Assam Taxi Operators' Standoff Continues, Tourists Stranded",
-    "Abhijit Dipke warns of Jantar Mantar-like protest after CJP alleges Jaipur attack",
-    "Raidurg Creates History With 264 Crore Per Acre Land Deal",
     "Pakistan ex-PM Imran Khan’s family accuses gov’t of defying hospital order",
-    "‘Double-tap’ attack: 14 killed as Russian drones ravage Zelenskyy’s hometown",
-    "Netanyahu calls Turkish president ‘antisemitic dictator’ after Turkiye issues arrest warrant",
+    "India Has Political Stability, World Sees It As Bright Spot Of Growth: PM Modi",
+    "Meghalaya-Assam Taxi Operators' Standoff Continues, Tourists Stranded",
+    "Rahul Gandhi protest succeeds, Delhi police register FIR on pellet gun victim's complaint",
+    "Raidurg Creates History With 264 Crore Per Acre Land Deal",
+    "Turkey Issues Arrest Warrant For Israel PM Benjamin Netanyahu, Seeks Interpol Red Notice Over Gaza Aid Raid",
+    "2 Ships With 22 Indians Hijacked By Armed Pirates Off Yemen, Somalia",
     "Bangladesh elects ruling party veteran Alamgir as president",
+    "'Should end war now': Iran prez claims world 'acknowledges' Tehran's victory over US",
     "Balrampur Chini, Shree Renuka Sugars, EID Parry: Sugar stocks tumble up to 6%; here is why",
     "Apple May Expand India Manufacturing Beyond iPhones: Union Minister",
-    "Stock Market Close: Sensex settles flat, Nifty ends at 24,252; IT, FMCG, auto shares weigh",
     "BMW X1 LWB launched in India at Rs 49.90 lakh - Team-BHP",
-    "Someone discovered that Windows 11 nukes your GPU drivers if you leave your laptop in eco mode",
+    "Stock Market Close: Sensex settles flat, Nifty ends at 24,252; IT, FMCG, auto shares weigh",
+    "Apple Music will label AI songs, and the tags behind them are now mandatory",
+    "Windows 11 removes the discrete graphics card driver if the laptop has been running on the integrated graphic",
     "Apple Loop: iPhone 18 Pro Profit, Critical iOS Update, MacBook Ultra Spec Details",
     "Samsung Galaxy Z Flip8 unboxing - GSMArena.com news",
-    "Take-Two subpoenas Microsoft and Discord to identify GTA VI leaker",
     "Sowcar Janaki, the versatile face of Tamil cinema known for majestic roles and finesses",
     "Arjun Rampal marries longtime girlfriend Gabriella Demetriades in Goa",
-    "‘Irumudi’ movie review: Shiva Nirvana and Ravi Teja deliver an emotionally steeped tale"
+    "Irumudi Box Office: Ravi Teja To Finally Deliver A Successful Film After 6 Consecutive Failures?"
   ],
   "quiz": [
     {
-      "blanked": "NASA's Roman Space ______ set to explore hidden universe",
-      "answer": "Telescope",
+      "blanked": "Irumudi Box Office: Ravi Teja To Finally Deliver A ______ Film After 6 Consecutive Failures?",
+      "answer": "Successful",
       "options": [
-        "Telescope",
-        "Spec",
-        "Biggest",
-        "Teja"
+        "Land",
+        "Successful",
+        "Indians",
+        "Glacier"
       ]
     },
     {
-      "blanked": "New Smart Drug RK-251 ______ as Replacement for Chemotherapy",
-      "answer": "Developed",
+      "blanked": "Rahul ______ protest succeeds, Delhi police register FIR on pellet gun victim's complaint",
+      "answer": "Gandhi",
       "options": [
-        "GPU",
-        "Drug",
-        "Details",
-        "Developed"
+        "Gandhi",
+        "FMCG",
+        "Union",
+        "Suthar"
       ]
     },
     {
-      "blanked": "Antidepressant Use Linked To Longer Renal ______ Survival",
-      "answer": "Cancer",
+      "blanked": "More than 1,700 swine flu cases logged in ______ this year amid surge in seasonal influenza infections",
+      "answer": "Delhi",
       "options": [
-        "Deal",
-        "League",
-        "Cancer",
-        "Ice"
+        "Opening",
+        "Delhi",
+        "Hindustan",
+        "Trends"
       ]
     },
     {
-      "blanked": "Khalifa Box Office Day 1 (Early Trends): 127% ______ Than Prithviraj Sukumaran's Last Opening - 5th Biggest Mollywood Opener Of 2026!",
-      "answer": "Higher",
+      "blanked": "Bangladesh PM visit: In unusual move, Rashtrapati ______ recalls statement hour after issuing it",
+      "answer": "Bhavan",
       "options": [
-        "Higher",
-        "Sensex",
-        "High",
-        "Congo"
+        "Imran",
+        "Aid",
+        "Gaza",
+        "Bhavan"
       ]
     },
     {
-      "blanked": "Meghalaya-Assam Taxi Operators' Standoff Continues, Tourists ______",
-      "answer": "Stranded",
+      "blanked": "Turkey ______ Arrest Warrant For Israel PM Benjamin Netanyahu, Seeks Interpol Red Notice Over Gaza Aid Raid",
+      "answer": "Issues",
       "options": [
-        "Ultra",
-        "Replacement",
-        "Update",
-        "Stranded"
+        "Sugars",
+        "Rahul",
+        "FMCG",
+        "Issues"
       ]
     },
     {
       "blanked": "Neeraj Chopra Lausanne Diamond ______ 2026 Highlights: Pathirage wins, Neeraj finishes second",
       "answer": "League",
       "options": [
-        "Tamil",
-        "Box",
+        "Championships",
         "League",
-        "Stayed"
+        "Tehrans",
+        "Massive"
       ]
     },
     {
-      "blanked": "China’s Chang’e-7 mission to search for water at ______ south pole",
-      "answer": "Moons",
+      "blanked": "Treesa Jolly-Gayatri ______ end India’s 15-year wait, assure World Championships medal",
+      "answer": "Gopichand",
       "options": [
-        "Shiva",
+        "264",
+        "May",
+        "Spot",
+        "Gopichand"
+      ]
+    },
+    {
+      "blanked": "Why a Trump envoy’s ______ visit has led to US-Pakistan spat",
+      "answer": "Kashmir",
+      "options": [
         "Moons",
+        "Kashmir",
+        "Ultra",
+        "Trends"
+      ]
+    },
+    {
+      "blanked": "Stock Market Close: Sensex settles flat, ______ ends at 24,252; IT, FMCG, auto shares weigh",
+      "answer": "Nifty",
+      "options": [
+        "Seeks",
+        "Times",
+        "Nifty",
+        "Hatao"
+      ]
+    },
+    {
+      "blanked": "Samsung ______ Z Flip8 unboxing - GSMArena.com news",
+      "answer": "Galaxy",
+      "options": [
+        "Than",
         "Profit",
-        "Updates"
+        "Replacement",
+        "Galaxy"
       ]
     },
     {
-      "blanked": "Two vessels with 22 ______ on board hijacked by pirates near Yemen, Somalia | India News",
-      "answer": "Indians",
+      "blanked": "India Has Political Stability, World Sees It As Bright ______ Of Growth: PM Modi",
+      "answer": "Spot",
       "options": [
-        "Hockey",
-        "Gandhi",
-        "Indians",
-        "Demetriades"
-      ]
-    },
-    {
-      "blanked": "Bangladesh elects ruling party veteran ______ as president",
-      "answer": "Alamgir",
-      "options": [
-        "Microsoft",
-        "Alamgir",
-        "Hindustan",
-        "Smart"
-      ]
-    },
-    {
-      "blanked": "Manav Suthar not special yet, needs to prove himself in different conditions: SL great reminds it’s only been 2 ______ | Cricket",
-      "answer": "Tests",
-      "options": [
-        "Gopichand",
-        "Sugar",
-        "Janaki",
-        "Tests"
-      ]
-    },
-    {
-      "blanked": "Balrampur Chini, Shree Renuka Sugars, EID Parry: ______ stocks tumble up to 6%; here is why",
-      "answer": "Sugar",
-      "options": [
-        "Tamil",
-        "Russian",
-        "Update",
-        "Sugar"
-      ]
-    },
-    {
-      "blanked": "Apple ______ Expand India Manufacturing Beyond iPhones: Union Minister",
-      "answer": "May",
-      "options": [
+        "Spot",
+        "Biggest",
         "Cricket",
-        "Loop",
-        "Team-BHP",
-        "May"
+        "Issues"
+      ]
+    },
+    {
+      "blanked": "Khalifa Box Office Day 1 (Early Trends): 127% Higher Than Prithviraj Sukumaran's Last Opening - 5th Biggest ______ Opener Of 2026!",
+      "answer": "Mollywood",
+      "options": [
+        "Renal",
+        "Jolly-Gayatri",
+        "Close",
+        "Mollywood"
       ]
     }
   ]
