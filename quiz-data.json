@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-21T03:31:01.612Z",
+  "generatedAt": "2026-08-21T05:18:33.762Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "Bessent says US to impose 'toughest' ever sanctions on Iran, urges China to cooperate",
-    "Jailed Pak Ex-PM Imran Khan Taken To Hospital After Court Order",
+    "US says it will impose 'toughest sanctions in history' on Iran",
+    "Former Pakistan PM Imran Khan Back In Jail, Hours After He Was Shifted To Hospital",
+    "Why Congress will sing only the first two stanzas of Vande Mataram, and what the other four say",
     "Tanker off Yemen boarded by armed people, diverted towards Somalia, UKMTO says",
     "Rajya Sabha member’s son booked after Aston Martin kills Hyderabad woman crossing road",
-    "Tamil Nadu CM Vijay makes three requests to home minister Amit Shah – delimitation, NEET and… | India News",
-    "Amit Shah slams Congress’ two-stanza Vande Mataram decision, calls it ‘appeasement’ and defiance of law",
-    "Tharoor calls new Parliament building 'soulless conference centre', lacking in intimacy",
+    "Man Pretends To Be Transgender, Enters Woman's Home And Rapes Her In Mumbai",
     "Three months after BJP win in Bengal, eggs reach Jadavpur University as ABVP lays siege",
-    "Jharkhand High Court stays State order to cancel JPSC exams",
-    "'Tareeka badla hai, maqsad nahi': Shehzad Poonawalla predicts Rahul Gandhi's future | India News",
-    "BNP's Mirza Fakhrul elected as Bangladesh's new President",
-    "Russia unleashes ballistic, cruise, hypersonic missiles and drones on Ukraine; Kyiv main target",
-    "North Korea launches 10 ballistic missiles as US-South Korea drills near end",
-    "Oil flows nearly tripled before US-Iran MoU expired, analysis shows",
+    "Bengal, J&K, Ladakh and five other State Collectors empowered to grant citizenship under CAA",
+    "Arson, assault, vandalism rock Shillong as students' rally turns violent",
+    "Govt limits number of SIM cards you can have, new rules effective from August 24",
+    "Robert F Kennedy Jr's Son Is On Russia's Wanted List. Can Face 10 Years In Jail",
+    "Car salesman becomes Belgian prince after DNA test confirms royal paternity",
+    "At least 18 people killed in Ukraine as Russia carries out more attacks",
+    "Trump wants a new meeting with Kim Jong Un. North Korea says not so fast",
+    "CAS manipulation: SEBI's swift ban on JPMorgan unit seen as warning to traders",
     "India allows duty-free imports of 1 million metric tons of raw sugar",
-    "More brokers to launch CAS order queuing as Angel One takes early lead",
     "F&O trading bill: Retail traders pay Rs 25,000 crore transaction costs in FY26 despite big losses",
     "Stock Market Close: Sensex snaps four-day losing streak, jumps 628 pts; Nifty ends at 24,232",
     "Sennheiser’s new Momentum 5 earbuds feature easily replaceable batteries",
-    "Kindle Oasis Gets Its First Update in a Year: Hardened DRM",
-    "Galaxy S26 FE Will Reveal Which Phones Get Samsung’s Free Upgrade",
     "Apple iPhone 18 Pro Could Get Game-Changing 2nm Chip Upgrade",
-    "'Awarapan 2' box office collection Day 7: Emraan Hashmi starrer wraps up first week with solid Rs 113 cro",
+    "Galaxy S26 FE Will Reveal Which Phones Get Samsung’s Free Upgrade",
+    "Hacker targets ‘Grand Theft Auto VI’ in apparent leak",
+    "Govinda’s manager slams divorce drama after Sunita Ahuja withdraws case: ‘This saddens me’",
     "'The Odyssey' Becomes Highest-Grossing R-Rated Movie Ever",
     "'Reduce Art To Religious Practice': Kangana Ranaut Reacts To Sharmila Tagore's Vande Mataram Remark"
   ],
   "quiz": [
     {
-      "blanked": "More brokers to launch ______ order queuing as Angel One takes early lead",
-      "answer": "CAS",
+      "blanked": "F&O trading bill: Retail traders pay Rs ______ crore transaction costs in FY26 despite big losses",
+      "answer": "25000",
       "options": [
-        "Fakhrul",
-        "Iran",
-        "CAS",
-        "Amit"
+        "25000",
+        "Tract",
+        "Market",
+        "Khan"
       ]
     },
     {
-      "blanked": "Jharkhand High Court stays ______ order to cancel JPSC exams",
-      "answer": "State",
+      "blanked": "Robert F Kennedy Jr's ______ Is On Russia's Wanted List. Can Face 10 Years In Jail",
+      "answer": "Son",
       "options": [
-        "Retail",
-        "Indian",
-        "State",
-        "Suthar"
+        "Upgrade",
+        "Install",
+        "Son",
+        "Focus"
+      ]
+    },
+    {
+      "blanked": "Govt limits number of SIM cards you can have, new rules effective from ______ 24",
+      "answer": "August",
+      "options": [
+        "August",
+        "Russias",
+        "Former",
+        "SEBIs"
+      ]
+    },
+    {
+      "blanked": "At least 18 people killed in Ukraine as ______ carries out more attacks",
+      "answer": "Russia",
+      "options": [
+        "Jong",
+        "1947",
+        "Sharmila",
+        "Russia"
+      ]
+    },
+    {
+      "blanked": "Apple iPhone 18 Pro Could Get Game-Changing 2nm Chip ______",
+      "answer": "Upgrade",
+      "options": [
+        "Bengal",
+        "Tagores",
+        "Kangana",
+        "Upgrade"
+      ]
+    },
+    {
+      "blanked": "Role of the Reproductive Tract Microbiome in Infertility and ______ Reproductive Technologies: A Comprehensive Review",
+      "answer": "Assisted",
+      "options": [
+        "Ebola",
+        "Assisted",
+        "Mataram",
+        "ISS"
+      ]
+    },
+    {
+      "blanked": "Former Pakistan PM Imran Khan ______ In Jail, Hours After He Was Shifted To Hospital",
+      "answer": "Back",
+      "options": [
+        "Upgrade",
+        "R-Rated",
+        "Back",
+        "Retry"
+      ]
+    },
+    {
+      "blanked": "Hacker targets ‘Grand Theft ______ VI’ in apparent leak",
+      "answer": "Auto",
+      "options": [
+        "Deols",
+        "Cships",
+        "Auto",
+        "Pretends"
       ]
     },
     {
       "blanked": "Joe ______ scripts history, becomes first player to achieve this feat",
       "answer": "Root",
       "options": [
-        "Somalia",
         "Root",
-        "China",
-        "Close"
+        "Tagores",
+        "Free",
+        "1947"
       ]
     },
     {
-      "blanked": "'The Odyssey' Becomes Highest-Grossing R-Rated ______ Ever",
-      "answer": "Movie",
+      "blanked": "DRC: M23 tightens movement controls as ______ outbreak surpasses 5,000 cases",
+      "answer": "Ebola",
       "options": [
-        "Sunny",
-        "Movie",
-        "ABVP",
-        "Jadavpur"
-      ]
-    },
-    {
-      "blanked": "Kindle Oasis Gets Its First ______ in a Year: Hardened DRM",
-      "answer": "Update",
-      "options": [
-        "Nifty",
-        "Ali",
-        "Assisted",
-        "Update"
-      ]
-    },
-    {
-      "blanked": "Apple iPhone 18 Pro Could Get Game-Changing 2nm ______ Upgrade",
-      "answer": "Chip",
-      "options": [
-        "Game-Changing",
-        "Reproductive",
-        "Chip",
-        "US-South"
-      ]
-    },
-    {
-      "blanked": "'Awarapan 2' box office collection Day 7: ______ Hashmi starrer wraps up first week with solid Rs 113 cro",
-      "answer": "Emraan",
-      "options": [
-        "Emraan",
-        "Indian",
-        "BJP",
-        "Technologies"
-      ]
-    },
-    {
-      "blanked": "World ______ Day: Focus on prevention, early diagnosis and timely testing for mosquito-borne diseases",
-      "answer": "Mosquito",
-      "options": [
-        "Microbiome",
-        "24232",
-        "Mosquito",
-        "Korea"
-      ]
-    },
-    {
-      "blanked": "NSF grant supports UH researchers to investigate how mutation rates evolve across species - ______",
-      "answer": "News-Medical",
-      "options": [
-        "BJP",
-        "24232",
-        "Retail",
-        "News-Medical"
-      ]
-    },
-    {
-      "blanked": "RK-251: What we know about ______ new ‘smart’ cancer drug that ‘could replace chemotherapy’",
-      "answer": "Indias",
-      "options": [
-        "Sensex",
-        "Indias",
+        "Ebola",
         "Martin",
-        "Imran"
+        "Hospital",
+        "Collectors"
       ]
     },
     {
-      "blanked": "North ______ launches 10 ballistic missiles as US-South Korea drills near end",
-      "answer": "Korea",
+      "blanked": "Bengal, J&K, Ladakh and five other State ______ empowered to grant citizenship under CAA",
+      "answer": "Collectors",
       "options": [
-        "Retail",
-        "Korea",
-        "Batwara",
-        "News"
+        "Collectors",
+        "Former",
+        "Congress",
+        "Cships"
       ]
     },
     {
-      "blanked": "F&O trading bill: Retail traders pay Rs ______ crore transaction costs in FY26 despite big losses",
-      "answer": "25000",
+      "blanked": "Govinda’s manager slams divorce drama after Sunita ______ withdraws case: ‘This saddens me’",
+      "answer": "Ahuja",
       "options": [
-        "Microbiome",
-        "Oasis",
-        "Order",
-        "25000"
+        "Religious",
+        "Ahuja",
+        "University",
+        "Kennedy"
       ]
     }
   ]
