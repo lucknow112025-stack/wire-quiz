@@ -1,143 +1,93 @@
 {
-  "generatedAt": "2026-08-22T22:43:51.084Z",
+  "generatedAt": "2026-08-22T23:39:32.998Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "US imposes 50% tariffs on $20 billion worth of Canadian products; Canada says it will retaliate",
     "Panama-flagged cargo ship carrying 24 on board sinks off Odisha coast",
+    "US imposes 50% tariffs on Canada products as talks fail, Carney vows to match them ‘dollar for dollar’ | World News",
     "Gen Z: India's BJP mastered WhatsApp and X. Now it is trying to crack Instagram",
     "‘Declaration Of War On All Nations’: Iran’s Fiery Response To New US Sanctions, Warns Of ‘Colonialism’",
-    "Manan Kumar Mishra's Resignation Sought At BCI General Council Meeting",
-    "Inside BJP’s 10-point Vande Mataram resolution: ‘No vote bank' politics, cites Mahatma Gandhi’s ‘anti-imperialist cry’ | India News",
+    "Trump declares Strait of Hormuz 'American territory' amid Iran tensions",
+    "BCI chairman faces fresh pressure as co-chairman seeks resignation",
     "In Leaked Audio, Gangster Goldy Brar Claims He Killed Hardeep Nijjar In Canada",
     "Jadavpur MLA Sarbori Mukherjee changes tune on university violence, distances BJP from ABVP",
     "Boy dies after dispute over iPhone with parents; couple die trying to save him",
     "Two Killed as Illegal Building Collapses in Anjaiahnagar",
     "Ukraine says 'cynical' Russian strike on shopping centre killed 16",
+    "EAM downplays Pakistan-Turkey-Saudi defence pact: ‘What has it done amid live military situations in these countries?’ | India News",
     "Israel and Turkey edge towards a dangerous miscalculation over Syria",
-    "Canada gurdwara stabbing: Two injured in Edmonton, PM Carney calls attack 'appalling'",
     "'We are in a position of power': Iran's Pezeshkian seeks end to US war, claims victory",
     "US: What’s Pushing Long-Term Bond Yields Higher?",
+    "Sebi proposes fixed-income channel partners framework to expand retail access to bonds",
+    "Collections under RBI's dollar swap scheme exceed $72.8 billion",
     "Gold (XAU/USD) Price Forecast: Breakout Opens Path Toward $4,891",
-    "India gets $511.5 million in FDI under new policy for neighbouring countries",
-    "RBI forex swap facility attracts $72.85 billion inflows as of August 21",
     "Please don’t buy Google’s wildly overpriced Pixel 11 Clear Case",
     "How Apple’s iPhone 18 Pro Launch Date Crushes The Competition",
     "GTA 6 hit by sixth gameplay leak as CyberLeek threatens more footage",
-    "Call of Duty: Modern Warfare 4 Switch 2 60 fps performance impresses in first video",
+    "Infinix HOT 70 Pro 5G India Launch Set for September 4 With Dynamic Shine Design",
     "Yeh Rishta Kya Kehlata Hai actor Mohsin Khan gets engaged to Tamanna, fiancée flaunts huge diamond ring;",
     "Ranveer Singh thanks Ambani family for backing Dhurandhar when his films weren't working: ‘Nothing short of a blessing’ | Bollywood",
     "Toxic Advance Booking: Yash's Film Sells Over 2.6 Lakh Tickets, Nears Rs 20 Crore"
   ],
   "quiz": [
     {
-      "blanked": "Panama-flagged cargo ship carrying 24 on board sinks off ______ coast",
-      "answer": "Odisha",
+      "blanked": "China’s Chang’e-7 mission to search for water at ______ south pole",
+      "answer": "Moons",
       "options": [
-        "Odisha",
-        "Launch",
-        "Dhurandhar",
-        "Tickets"
+        "MLA",
+        "Moons",
+        "Brar",
+        "Liga"
       ]
     },
     {
-      "blanked": "Jolly-Gopichand win India's 1st women's doubles medal in 15 yrs at Badminton ______ C'ships | This is India's only medal at the 2026 edition | Inshorts",
-      "answer": "World",
+      "blanked": "Two ______ as Illegal Building Collapses in Anjaiahnagar",
+      "answer": "Killed",
       "options": [
-        "ISS",
-        "WhatsApp",
-        "Building",
-        "World"
-      ]
-    },
-    {
-      "blanked": "Kareena Kapoor’s sister-in-law ______ dismisses actor’s pregnancy rumours: ‘A bad angle’",
-      "answer": "Saba",
-      "options": [
-        "Saba",
-        "Response",
-        "Anjaiahnagar",
-        "Nijjar"
-      ]
-    },
-    {
-      "blanked": "Automated Speech ______ Distinguish Primary Progressive Aphasia",
-      "answer": "Profiles",
-      "options": [
-        "ABVP",
+        "Gangster",
+        "Strait",
         "All",
-        "Profiles",
-        "Duty"
-      ]
-    },
-    {
-      "blanked": "Ranveer Singh thanks ______ family for backing Dhurandhar when his films weren't working: ‘Nothing short of a blessing’ | Bollywood",
-      "answer": "Ambani",
-      "options": [
-        "Killed",
-        "Ambani",
-        "Price",
-        "Modern"
-      ]
-    },
-    {
-      "blanked": "India gets ______ million in FDI under new policy for neighbouring countries",
-      "answer": "511.5",
-      "options": [
-        "Mukherjee",
-        "Singh",
-        "Pezeshkian",
-        "511.5"
-      ]
-    },
-    {
-      "blanked": "Inside BJP’s 10-point Vande ______ resolution: ‘No vote bank' politics, cites Mahatma Gandhi’s ‘anti-imperialist cry’ | India News",
-      "answer": "Mataram",
-      "options": [
-        "Saba",
-        "Canadian",
-        "Gandhis",
-        "Mataram"
-      ]
-    },
-    {
-      "blanked": "Gen Z: India's BJP mastered WhatsApp and X. ______ it is trying to crack Instagram",
-      "answer": "Now",
-      "options": [
-        "Now",
-        "Diabetes",
-        "Audio",
-        "Kapoors"
-      ]
-    },
-    {
-      "blanked": "GTA 6 hit by sixth gameplay leak as ______ threatens more footage",
-      "answer": "CyberLeek",
-      "options": [
-        "CyberLeek",
-        "Nears",
-        "Ambani",
-        "General"
-      ]
-    },
-    {
-      "blanked": "Trump to award ______ Artemis II astronauts the Congressional Space Medal of Honor",
-      "answer": "NASAs",
-      "options": [
-        "WhatsApp",
-        "Odisha",
-        "NASAs",
-        "Gandhis"
+        "Killed"
       ]
     },
     {
       "blanked": "Hockey ______ Cup: India's semifinal hopes end after 1-3 loss to Netherlands",
       "answer": "World",
       "options": [
-        "Nations",
-        "Warns",
-        "WhatsApp",
+        "4891",
+        "ISS",
+        "Espanyol",
         "World"
+      ]
+    },
+    {
+      "blanked": "Ranveer Singh thanks Ambani family for backing Dhurandhar when his films weren't working: ______ short of a blessing’ | Bollywood",
+      "answer": "Nothing",
+      "options": [
+        "Nothing",
+        "Espanyol",
+        "Kuldeep",
+        "Goldy"
+      ]
+    },
+    {
+      "blanked": "Gold (XAU/USD) Price ______ Breakout Opens Path Toward $4,891",
+      "answer": "Forecast",
+      "options": [
+        "French",
+        "ISS",
+        "Forecast",
+        "Netherlands"
+      ]
+    },
+    {
+      "blanked": "Yeh Rishta Kya Kehlata ______ actor Mohsin Khan gets engaged to Tamanna, fiancée flaunts huge diamond ring;",
+      "answer": "Hai",
+      "options": [
+        "Hai",
+        "Colonialism",
+        "Instagram",
+        "Audio"
       ]
     },
     {
@@ -145,9 +95,59 @@
       "answer": "Turkey",
       "options": [
         "Turkey",
-        "Opens",
-        "Progressive",
-        "MLA"
+        "Path",
+        "Crore",
+        "Whats"
+      ]
+    },
+    {
+      "blanked": "India's health ministry lists symptoms to watch for H1N1 as infections rise in ______",
+      "answer": "Delhi",
+      "options": [
+        "Delhi",
+        "Sells",
+        "Nijjar",
+        "All"
+      ]
+    },
+    {
+      "blanked": "Type 2 ______ Accelerates Clinical Aortic Stenosis Progression",
+      "answer": "Diabetes",
+      "options": [
+        "WhatsApp",
+        "Anjaiahnagar",
+        "Diabetes",
+        "4891"
+      ]
+    },
+    {
+      "blanked": "Trump to honour ______ II crew for historic mission",
+      "answer": "Artemis",
+      "options": [
+        "Booking",
+        "What",
+        "Artemis",
+        "Syria"
+      ]
+    },
+    {
+      "blanked": "Jadavpur ______ Sarbori Mukherjee changes tune on university violence, distances BJP from ABVP",
+      "answer": "MLA",
+      "options": [
+        "MLA",
+        "Killed",
+        "Tamanna",
+        "Aphasia"
+      ]
+    },
+    {
+      "blanked": "CONFIRMED lineups: Espanyol vs Real Madrid, ______ La Liga",
+      "answer": "2026",
+      "options": [
+        "Congo",
+        "September",
+        "Higher",
+        "2026"
       ]
     }
   ]
