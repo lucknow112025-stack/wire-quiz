@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-22T16:54:12.218Z",
+  "generatedAt": "2026-08-22T17:43:52.190Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
+    "China-bound vessel with 24 crew members sinks 200 nautical miles off Odisha’s Paradip port | India News",
     "'Unfair': Canada suspends trade talks with US, PM Carney says will match tariffs 'dollar for dollar'",
     "'Killed In Front Of Me': Adobe Techie's Mother Shares Chilling Last Moments",
+    "Twist In Lucknow Double Murder-Suicide: Cops Probe Rs 1 Crore Alimony Demand",
     "Inside BJP’s 10-point Vande Mataram resolution: ‘No vote bank' politics, cites Mahatma Gandhi’s ‘anti-imperialist cry’ | India News",
-    "Gen Z: India's BJP mastered WhatsApp and X. Now it is trying to crack Instagram",
-    "After sweeping new powers for Munir, Pakistan deploys more troops in Rawalpindi amid backlash fears",
-    "Iran says new US sanctions violate sovereignty of other states",
-    "Student, 31, Jumps To Death From 6th Floor At IIT Delhi",
+    "BCI chairman faces fresh pressure as co-chairman seeks resignation",
+    "Boy dies after dispute over iPhone with parents; couple die trying to save him",
+    "Assam cab operators suspend blockade against Meghalaya vehicles",
     "Madhapur: Seven-Storey Building on 50 Yards Collapses, 3 Feared Trapped",
     "Jadavpur MLA Sarbori Mukherjee changes tune on university violence, distances BJP from ABVP",
-    "BCI chairman faces fresh pressure as co-chairman seeks resignation",
-    "Day After Release From Jail, Man Stabs 2 At Canada Gurudwara With Screwdriver",
+    "How 'Dark' Tankers In Strait Of Hormuz Are Keeping Oil Prices In Check",
+    "Canada gurdwara stabbing: Two injured in Edmonton, suspect held day after prison release",
     "2 Cops Among 7 Killed After Vehicle Rams Police Car In England",
-    "Pakistan’s PTI seeks contempt action over jailed Imran Khan’s hospital move",
-    "How the US and Middle East allies flipped the oil script on Iran",
+    "Iran says new US sanctions violate sovereignty of other states",
     "FCNR-B deposit inflows cross $65 billion ahead of August 31 deadline, says RBI",
     "SEBI proposing framework to scrap duplicate fines across exchanges for same violation",
-    "India, Mauritius sign long-term fuel supply pact; IOC to meet entire import requirement",
-    "The next export story: A $50 billion prize India can't afford to miss",
+    "The Sleeping Giant Gets Restless",
+    "India gets $511.5 million in FDI under new policy for neighbouring countries",
     "My favourite student discounts",
-    "AirPods with cameras leak, Apple Maps ads, & Siri AI",
+    "Apple's Camera AirPods Leaks Spark Hilarious Memes and Privacy Concerns | Vantage on Firstpost",
     "iPhone 18 Pro Max: Price in India, launch date, camera upgrade, new processor and more we know ahead of...",
-    "Grand Theft Auto 6 Leaks Result in Rockstar Games Parent Company’s Stock Tanking; Check the Details Here",
+    "GTA 6 leaks - a nightmare or a blip for the biggest video game of the year?",
     "Kareena Kapoor’s sister-in-law Saba dismisses actor’s pregnancy rumours: ‘A bad angle’",
-    "Sowcar Janaki, the versatile face of Tamil cinema known for majestic roles and finesses",
-    "'Sarabhai Vs Sarabhai' actor Rajesh Kumar was in Rs 2 crore debt before 'Saiyaara' as left acting for far"
+    "Yash's 'Toxic: A Fairy Tale for Grown-Ups' advance bookings open; film targets 12,000-plus screens worldwide",
+    "Sowcar Janaki, the versatile face of Tamil cinema known for majestic roles and finesses"
   ],
   "quiz": [
     {
-      "blanked": "FIH Women's ______ World Cup: India go down 0-2 to Netherlands",
-      "answer": "Hockey",
+      "blanked": "Canada gurdwara stabbing: Two injured in ______ suspect held day after prison release",
+      "answer": "Edmonton",
       "options": [
-        "Hockey",
-        "Carney",
-        "IOC",
-        "Vehicle"
+        "Grown-Ups",
+        "Building",
+        "Edmonton",
+        "Killed"
       ]
     },
     {
-      "blanked": "'Killed In Front Of Me': Adobe Techie's Mother ______ Chilling Last Moments",
-      "answer": "Shares",
+      "blanked": "'Killed In Front Of Me': ______ Techie's Mother Shares Chilling Last Moments",
+      "answer": "Adobe",
       "options": [
+        "Carney",
+        "Trapped",
+        "Concerns",
+        "Adobe"
+      ]
+    },
+    {
+      "blanked": "Madhapur: Seven-Storey Building on 50 ______ Collapses, 3 Feared Trapped",
+      "answer": "Yards",
+      "options": [
+        "Mataram",
+        "Killed",
+        "Yards",
+        "Sarabhai"
+      ]
+    },
+    {
+      "blanked": "India's health ministry lists symptoms to watch for H1N1 as infections rise in ______",
+      "answer": "Delhi",
+      "options": [
+        "Delhi",
         "Shares",
-        "WhatsApp",
-        "Clinical",
-        "Indian"
+        "Memes",
+        "Among"
       ]
     },
     {
-      "blanked": "Highest-Altitude Diabetes Awareness Campaign Organised by an ______",
-      "answer": "Individual",
+      "blanked": "Kareena ______ sister-in-law Saba dismisses actor’s pregnancy rumours: ‘A bad angle’",
+      "answer": "Kapoors",
       "options": [
-        "Kumar",
-        "Carney",
-        "Individual",
-        "Mataram"
+        "Kapoors",
+        "Awareness",
+        "Organised",
+        "Cops"
       ]
     },
     {
-      "blanked": "FCNR-B deposit inflows cross $65 billion ahead of ______ 31 deadline, says RBI",
-      "answer": "August",
+      "blanked": "Highest-Altitude Diabetes Awareness Campaign ______ by an Individual",
+      "answer": "Organised",
       "options": [
-        "Mataram",
-        "August",
-        "Price",
-        "Stenosis"
+        "Organised",
+        "Rajesh",
+        "Accelerates",
+        "Among"
       ]
     },
     {
-      "blanked": "Pakistan’s PTI seeks contempt action over jailed ______ Khan’s hospital move",
-      "answer": "Imran",
+      "blanked": "India gets $511.5 million in ______ under new policy for neighbouring countries",
+      "answer": "FDI",
       "options": [
-        "Sunny",
-        "Rawalpindi",
-        "WhatsApp",
-        "Imran"
+        "Progression",
+        "Sooryavanshi",
+        "FDI",
+        "Meghalaya"
       ]
     },
     {
-      "blanked": "China’s new moon mission could unlock secret of lunar ice: ______ that matters",
-      "answer": "Why",
+      "blanked": "Meet 11-year-old Atharv Sood, the ______ student credited with three preliminary asteroid detections; How",
+      "answer": "Indian",
       "options": [
-        "Carlos",
-        "Vande",
-        "Distinguish",
-        "Why"
+        "Sleeping",
+        "Camera",
+        "Indian",
+        "193"
       ]
     },
     {
-      "blanked": "AirPods with cameras leak, ______ Maps ads, & Siri AI",
-      "answer": "Apple",
+      "blanked": "In 2004, NASA’s Genesis sample capsule crashed in Utah at up to ______ miles per hour; scientists later recov",
+      "answer": "193",
       "options": [
-        "ABVP",
-        "Apple",
-        "Middle",
-        "Rawalpindi"
+        "Why",
+        "Yards",
+        "193",
+        "Organised"
       ]
     },
     {
-      "blanked": "India, Mauritius sign long-term fuel supply pact; ______ to meet entire import requirement",
-      "answer": "IOC",
+      "blanked": "Dravid: Need players like ______ to play all formats for Test cricket to grow",
+      "answer": "Sooryavanshi",
       "options": [
-        "Mataram",
-        "IOC",
-        "Leaks",
-        "Hockey"
+        "Privacy",
+        "Sooryavanshi",
+        "Feared",
+        "Hormuz"
       ]
     },
     {
-      "blanked": "Batwara 1947 Worldwide Box ______ Day 8: Despite Failure, Becomes Sunny Deol & Rajkumar Santoshi's Highest-Grossing Collab!",
-      "answer": "Office",
+      "blanked": "The Sleeping Giant ______ Restless",
+      "answer": "Gets",
       "options": [
-        "Office",
-        "Now",
-        "IOC",
-        "England"
+        "Among",
+        "Gets",
+        "Badminton",
+        "2004"
       ]
     },
     {
-      "blanked": "How the US and Middle ______ allies flipped the oil script on Iran",
-      "answer": "East",
+      "blanked": "Twist In ______ Double Murder-Suicide: Cops Probe Rs 1 Crore Alimony Demand",
+      "answer": "Lucknow",
       "options": [
-        "Floor",
-        "East",
-        "Primary",
-        "Clinical"
-      ]
-    },
-    {
-      "blanked": "After sweeping new powers for ______ Pakistan deploys more troops in Rawalpindi amid backlash fears",
-      "answer": "Munir",
-      "options": [
-        "Leaks",
-        "England",
-        "Munir",
-        "Individual"
-      ]
-    },
-    {
-      "blanked": "Grand Theft Auto 6 Leaks Result in Rockstar Games Parent Company’s Stock Tanking; ______ the Details Here",
-      "answer": "Check",
-      "options": [
-        "100000",
-        "Check",
-        "Theft",
-        "Rams"
+        "RBI",
+        "Lucknow",
+        "Cships",
+        "Shares"
       ]
     }
   ]
