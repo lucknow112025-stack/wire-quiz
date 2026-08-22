@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-22T09:02:40.463Z",
+  "generatedAt": "2026-08-22T09:57:06.247Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "'Unfair': Canada suspends trade talks with US, PM Carney says will match tariffs 'dollar for dollar'",
-    "Gen Z: India's BJP mastered WhatsApp and X. Now it is trying to crack Instagram",
-    "'Bar Deserves Better': BCI Co-Chairman Demands Manan Kumar Mishra's Resignation",
+    "US imposes 50 percent tariffs on $20bn in Canadian goods after talks fail",
+    "'No compromise': BJP passes resolution against Congress on Vande Mataram; vows natiowide protest",
+    "‘Declaration Of War On All Nations’: Iran’s Fiery Response To New US Sanctions, Warns Of ‘Colonialism’",
+    "Plea In Supreme Court Challenges Manan Kumar Mishra's Tenure As BCI Chairman, Seeks Audit Of BCI Finances ...",
+    "Supreme Court sets aside NGT order against Art of Living over Yamuna floodplain damage, orders refund of ₹5 crore fine",
     "Jantar Mantar protest highlights: Massive crowd, RAF at Jantar Mantar for 'Reservation Hatao' protest; several detained | Hindustan Times",
-    "Adobe Techie Had A Fight With Wife. His In-Laws Thrashed Him To Death",
-    "Trump declares Strait of Hormuz 'American territory' amid Iran tensions",
     "Boy dies after dispute over iPhone with parents; couple die trying to save him",
-    "'Biased, no credibility': India slams US religious freedom body over call for RSS sanctions",
+    "\"They Have Their Own Agenda\": India Slams US Body Seeking Sanctions On RSS",
     "Students, teachers, Calcuttans unite in protest against ABVP assault on JU campus",
-    "Cops recover headless body in pond. Find accused, missing head, and a chilling motive – 20 metres away",
-    "Canada gurdwara stabbing: Two injured in Edmonton, suspect held day after prison release",
-    "Editor of US newspaper Stars and Stripes reportedly fired under Trump",
-    "Imran Khan taken back to jail after hospital checks: Pakistan govt",
-    "Iran slams fresh US sanctions, warns of threat to sovereignty: 'Full-scale colonialism'",
-    "Why Indians Are Borrowing Against Gold Like Never Before — JPMorgan Explains",
+    "Jana Sena MP’s son served only a notice after crashing car, killing woman in Hyderabad",
+    "Pentagon fires US military newspaper leadership",
+    "Day After Release From Jail, Man Stabs 2 At Canada Gurudwara With Screwdriver",
+    "West Asia LIVE: Trump says Iran not ready to make the 'right deal'",
+    "'A delicate dance': JD Vance says economic pressure is the best way to achieve Washington's objectives in Iran",
     "India gets $511.5 million in FDI under new policy for neighbouring countries",
     "Balrampur Chini, Shree Renuka Sugars, EID Parry: Sugar stocks tumble up to 6%; here is why",
+    "Stock Market Close: Sensex settles flat, Nifty ends at 24,252; IT, FMCG, auto shares weigh",
     "FPIs flip to buyers in Auto after months of selling; Financials see strong return of foreign money",
+    "Apple Music will label songs created using AI from the end of 2026",
     "iPhone 18 Pro Max: Price in India, launch date, camera upgrade, new processor and more we know ahead of...",
     "Take-Two subpoenas Microsoft and Discord to identify GTA VI leaker",
     "Call of Duty: Modern Warfare 4 Switch 2 60 fps performance impresses in first video",
-    "Samsung Galaxy Z Flip8 unboxing - GSMArena.com news",
-    "Quote of the day by Chiranjeevi: ‘If we stay focused on our goals, work hard and persevere, success will inevitably…' | Hindustan Times",
-    "Sowcar Janaki, the versatile face of Tamil cinema known for majestic roles and finesses",
-    "Yash's Toxic Gets \"A\" Certificate After Two Minor Changes By Censor Board"
+    "Arjun Rampal And Gabriella Demetriades' 8-Year Love Story: From Partners To Spouses",
+    "Actor Sowcar Janaki dies at 94",
+    "'Batwara 1947' box office collection Day 8: Sunny Deol film sees 44.4% drop, misses Rs. 35 crore mark by"
   ],
   "quiz": [
     {
-      "blanked": "H1N1 cases rise, health minister ______ reviews influenza preparedness",
-      "answer": "Nadda",
+      "blanked": "Day After Release From Jail, Man ______ 2 At Canada Gurudwara With Screwdriver",
+      "answer": "Stabs",
       "options": [
-        "Nadda",
+        "Ali",
+        "Stabs",
+        "Iran",
+        "Diamond"
+      ]
+    },
+    {
+      "blanked": "China’s new moon mission could unlock secret of lunar ice: ______ that matters",
+      "answer": "Why",
+      "options": [
+        "Partners",
         "Why",
-        "Pakistan",
-        "Honor"
-      ]
-    },
-    {
-      "blanked": "Obesity Is a Chronic Disease, Not a Failure of Willpower: Indian ______",
-      "answer": "Experts",
-      "options": [
-        "In-Laws",
-        "Experts",
-        "Demetriades",
-        "RSS"
-      ]
-    },
-    {
-      "blanked": "India gets $511.5 million in ______ under new policy for neighbouring countries",
-      "answer": "FDI",
-      "options": [
-        "Mishras",
-        "FDI",
-        "Artemis",
-        "Price"
-      ]
-    },
-    {
-      "blanked": "Jantar ______ protest highlights: Massive crowd, RAF at Jantar Mantar for 'Reservation Hatao' protest; several detained | Hindustan Times",
-      "answer": "Mantar",
-      "options": [
         "Financials",
-        "Nadda",
-        "Mantar",
-        "Death"
+        "Calcuttans"
       ]
     },
     {
-      "blanked": "Gen Z: India's ______ mastered WhatsApp and X. Now it is trying to crack Instagram",
-      "answer": "BJP",
+      "blanked": "How ______ completed his five-wicket haul in 22 balls",
+      "answer": "Starc",
       "options": [
-        "BJP",
-        "Chini",
-        "Lausanne",
-        "Trump"
+        "Slams",
+        "Story",
+        "Starc",
+        "Supreme"
       ]
     },
     {
-      "blanked": "Data Shows Congo's Ebola ______ Is On Track To Surpass History's Largest",
-      "answer": "Outbreak",
+      "blanked": "Working On ______ Laptop All Day? Surgeon Explains What Hours Of Looking Down Can Do To Your Spine",
+      "answer": "Your",
       "options": [
-        "Outbreak",
-        "Explains",
-        "511.5",
-        "BCI"
+        "Price",
+        "Colonialism",
+        "Your",
+        "Parry"
       ]
     },
     {
-      "blanked": "'Biased, no credibility': ______ slams US religious freedom body over call for RSS sanctions",
+      "blanked": "US imposes 50 percent tariffs on $20bn in ______ goods after talks fail",
+      "answer": "Canadian",
+      "options": [
+        "Sena",
+        "Canadian",
+        "Historys",
+        "Audit"
+      ]
+    },
+    {
+      "blanked": "Jana Sena MP’s son served only a notice after crashing car, killing woman in ______",
+      "answer": "Hyderabad",
+      "options": [
+        "Hyderabad",
+        "Gopichand",
+        "Washingtons",
+        "Spine"
+      ]
+    },
+    {
+      "blanked": "Stock Market Close: Sensex settles flat, Nifty ends at ______ IT, FMCG, auto shares weigh",
+      "answer": "24252",
+      "options": [
+        "RAF",
+        "Sensex",
+        "24252",
+        "ISS"
+      ]
+    },
+    {
+      "blanked": "iPhone 18 Pro Max: Price in ______ launch date, camera upgrade, new processor and more we know ahead of...",
       "answer": "India",
       "options": [
-        "Surpass",
-        "Discord",
+        "Congress",
         "India",
-        "Instagram"
+        "FMCG",
+        "Yamuna"
       ]
     },
     {
-      "blanked": "Editor of US newspaper Stars and Stripes reportedly fired under ______",
-      "answer": "Trump",
+      "blanked": "‘Declaration Of War On All Nations’: Iran’s Fiery Response To New US Sanctions, ______ Of ‘Colonialism’",
+      "answer": "Warns",
       "options": [
-        "Co-Chairman",
-        "Adenot",
-        "Trump",
-        "Edmonton"
+        "Market",
+        "Warns",
+        "24252",
+        "All"
       ]
     },
     {
-      "blanked": "Trump declares ______ of Hormuz 'American territory' amid Iran tensions",
-      "answer": "Strait",
+      "blanked": "'Healed by time, fuelled by the wait': How Treesa Jolly, ______ Gopichand ended India's 15-year medal wa",
+      "answer": "Gayatri",
       "options": [
-        "Experts",
-        "Strait",
-        "Gold",
-        "Co-Chairman"
+        "Your",
+        "Test",
+        "Mataram",
+        "Gayatri"
       ]
     },
     {
-      "blanked": "Imran ______ taken back to jail after hospital checks: Pakistan govt",
-      "answer": "Khan",
+      "blanked": "\"They Have Their Own Agenda\": India Slams US Body ______ Sanctions On RSS",
+      "answer": "Seeking",
       "options": [
-        "Rahul",
-        "Price",
-        "Khan",
-        "Times"
-      ]
-    },
-    {
-      "blanked": "Canada gurdwara stabbing: Two injured in ______ suspect held day after prison release",
-      "answer": "Edmonton",
-      "options": [
-        "Indians",
-        "Edmonton",
-        "India",
-        "RAF"
-      ]
-    },
-    {
-      "blanked": "Adobe Techie Had A Fight With Wife. His In-Laws ______ Him To Death",
-      "answer": "Thrashed",
-      "options": [
-        "Explains",
-        "Techie",
-        "Thrashed",
+        "Seeking",
+        "Financials",
+        "Indias",
         "Shows"
+      ]
+    },
+    {
+      "blanked": "Plea In Supreme ______ Challenges Manan Kumar Mishra's Tenure As BCI Chairman, Seeks Audit Of BCI Finances ...",
+      "answer": "Court",
+      "options": [
+        "Nadda",
+        "511.5",
+        "Test",
+        "Court"
       ]
     }
   ]
