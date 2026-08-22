@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-22T07:45:41.273Z",
+  "generatedAt": "2026-08-22T09:02:40.463Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "US imposes 50% tariffs on $20bn worth of Canadian goods after talks fail",
+    "'Unfair': Canada suspends trade talks with US, PM Carney says will match tariffs 'dollar for dollar'",
+    "Gen Z: India's BJP mastered WhatsApp and X. Now it is trying to crack Instagram",
+    "'Bar Deserves Better': BCI Co-Chairman Demands Manan Kumar Mishra's Resignation",
+    "Jantar Mantar protest highlights: Massive crowd, RAF at Jantar Mantar for 'Reservation Hatao' protest; several detained | Hindustan Times",
     "Adobe Techie Had A Fight With Wife. His In-Laws Thrashed Him To Death",
     "Trump declares Strait of Hormuz 'American territory' amid Iran tensions",
-    "Jantar Mantar protest highlights: Massive crowd, RAF at Jantar Mantar for 'Reservation Hatao' protest; several detained | Hindustan Times",
-    "‘Declaration Of War On All Nations’: Iran’s Fiery Response To New US Sanctions, Warns Of ‘Colonialism’",
-    "Plea In Supreme Court Challenges Manan Kumar Mishra's Tenure As BCI Chairman, Seeks Audit Of BCI Finances ...",
     "Boy dies after dispute over iPhone with parents; couple die trying to save him",
-    "\"They Have Their Own Agenda\": India Slams US Body Seeking Sanctions On RSS",
-    "Jharkhand protesters attempt to burn effigies of CM Hemant Soren, Rahul Gandhi; scuffle with police in Ranchi",
-    "‘Rotten tomato’ beatings, wedding-night conditions: YouTuber Pragya Mishra makes shocking claims about Lucknow husband | India News",
-    "Pentagon fires US military newspaper leadership",
-    "Ukraine says 'cynical' Russian strike on shopping centre killed 16",
-    "Day After Release From Jail, Man Stabs 2 At Canada Gurudwara With Screwdriver",
-    "US judge strikes down Trump immigrant visa ban affecting 75 countries",
+    "'Biased, no credibility': India slams US religious freedom body over call for RSS sanctions",
+    "Students, teachers, Calcuttans unite in protest against ABVP assault on JU campus",
+    "Cops recover headless body in pond. Find accused, missing head, and a chilling motive – 20 metres away",
+    "Canada gurdwara stabbing: Two injured in Edmonton, suspect held day after prison release",
+    "Editor of US newspaper Stars and Stripes reportedly fired under Trump",
+    "Imran Khan taken back to jail after hospital checks: Pakistan govt",
+    "Iran slams fresh US sanctions, warns of threat to sovereignty: 'Full-scale colonialism'",
     "Why Indians Are Borrowing Against Gold Like Never Before — JPMorgan Explains",
-    "FIIs near historical lows: Jio BlackRock flags potential contrarian setup for Indian equities",
-    "India reports 29 FDI investments worth Rs 4,895.65 crore under revised land-border rules",
+    "India gets $511.5 million in FDI under new policy for neighbouring countries",
     "Balrampur Chini, Shree Renuka Sugars, EID Parry: Sugar stocks tumble up to 6%; here is why",
+    "FPIs flip to buyers in Auto after months of selling; Financials see strong return of foreign money",
     "iPhone 18 Pro Max: Price in India, launch date, camera upgrade, new processor and more we know ahead of...",
-    "GTA 6 leaks - a nightmare or a blip for the biggest video game of the year?",
+    "Take-Two subpoenas Microsoft and Discord to identify GTA VI leaker",
     "Call of Duty: Modern Warfare 4 Switch 2 60 fps performance impresses in first video",
     "Samsung Galaxy Z Flip8 unboxing - GSMArena.com news",
+    "Quote of the day by Chiranjeevi: ‘If we stay focused on our goals, work hard and persevere, success will inevitably…' | Hindustan Times",
     "Sowcar Janaki, the versatile face of Tamil cinema known for majestic roles and finesses",
-    "Who is Gabriella Demetriades? All about Arjun Rampal's wife, from South African model to fashion entrepreneur",
-    "Quote of the day by Chiranjeevi: ‘If we stay focused on our goals, work hard and persevere, success will inevitably…' | Hindustan Times"
+    "Yash's Toxic Gets \"A\" Certificate After Two Minor Changes By Censor Board"
   ],
   "quiz": [
     {
-      "blanked": "India reports 29 FDI investments worth Rs ______ crore under revised land-border rules",
-      "answer": "4895.65",
+      "blanked": "H1N1 cases rise, health minister ______ reviews influenza preparedness",
+      "answer": "Nadda",
       "options": [
-        "Ranchi",
-        "4895.65",
-        "50%",
-        "Rampals"
-      ]
-    },
-    {
-      "blanked": "Ukraine says 'cynical' ______ strike on shopping centre killed 16",
-      "answer": "Russian",
-      "options": [
-        "Against",
         "Nadda",
-        "Bangladesh",
-        "Russian"
-      ]
-    },
-    {
-      "blanked": "US imposes 50% tariffs on $20bn worth of ______ goods after talks fail",
-      "answer": "Canadian",
-      "options": [
-        "Canadian",
-        "Headingley",
-        "Gabriella",
-        "Fight"
-      ]
-    },
-    {
-      "blanked": "Two cousins died after breast cancer was detected too late: ______ an IISc gold medallist used AI to build a",
-      "answer": "How",
-      "options": [
-        "Mantar",
-        "Pakistan",
         "Why",
-        "How"
+        "Pakistan",
+        "Honor"
       ]
     },
     {
-      "blanked": "JP Nadda Reviews H1N1 ______ Situation and Preparedness in Country",
-      "answer": "Influenza",
+      "blanked": "Obesity Is a Chronic Disease, Not a Failure of Willpower: Indian ______",
+      "answer": "Experts",
       "options": [
-        "Jio",
-        "Rahul",
-        "Influenza",
-        "Duty"
+        "In-Laws",
+        "Experts",
+        "Demetriades",
+        "RSS"
       ]
     },
     {
-      "blanked": "Mitchell Starc unleashes carnage on Bangladesh, storms past Dale ______",
-      "answer": "Steyn",
+      "blanked": "India gets $511.5 million in ______ under new policy for neighbouring countries",
+      "answer": "FDI",
       "options": [
-        "Pro",
-        "Gabriella",
-        "Fight",
-        "Steyn"
+        "Mishras",
+        "FDI",
+        "Artemis",
+        "Price"
       ]
     },
     {
-      "blanked": "Trump to award NASA's Artemis II astronauts the Congressional Space ______ of Honor",
-      "answer": "Medal",
+      "blanked": "Jantar ______ protest highlights: Massive crowd, RAF at Jantar Mantar for 'Reservation Hatao' protest; several detained | Hindustan Times",
+      "answer": "Mantar",
       "options": [
-        "Indians",
-        "Medal",
-        "All",
-        "Switch"
+        "Financials",
+        "Nadda",
+        "Mantar",
+        "Death"
       ]
     },
     {
-      "blanked": "Hockey World Cup: Netherlands wear blue on blue turf, ______ play in saffron after 'visibility' claim",
+      "blanked": "Gen Z: India's ______ mastered WhatsApp and X. Now it is trying to crack Instagram",
+      "answer": "BJP",
+      "options": [
+        "BJP",
+        "Chini",
+        "Lausanne",
+        "Trump"
+      ]
+    },
+    {
+      "blanked": "Data Shows Congo's Ebola ______ Is On Track To Surpass History's Largest",
+      "answer": "Outbreak",
+      "options": [
+        "Outbreak",
+        "Explains",
+        "511.5",
+        "BCI"
+      ]
+    },
+    {
+      "blanked": "'Biased, no credibility': ______ slams US religious freedom body over call for RSS sanctions",
       "answer": "India",
       "options": [
+        "Surpass",
+        "Discord",
         "India",
-        "Had",
-        "Audit",
-        "Like"
+        "Instagram"
       ]
     },
     {
-      "blanked": "Data Shows Congo's Ebola Outbreak Is On Track To Surpass History's ______",
-      "answer": "Largest",
+      "blanked": "Editor of US newspaper Stars and Stripes reportedly fired under ______",
+      "answer": "Trump",
       "options": [
-        "Stabs",
-        "Largest",
-        "How",
-        "Indian"
+        "Co-Chairman",
+        "Adenot",
+        "Trump",
+        "Edmonton"
       ]
     },
     {
-      "blanked": "Balrampur Chini, Shree Renuka ______ EID Parry: Sugar stocks tumble up to 6%; here is why",
-      "answer": "Sugars",
+      "blanked": "Trump declares ______ of Hormuz 'American territory' amid Iran tensions",
+      "answer": "Strait",
       "options": [
-        "Cup",
-        "BCI",
-        "Sugars",
-        "Seeking"
+        "Experts",
+        "Strait",
+        "Gold",
+        "Co-Chairman"
       ]
     },
     {
-      "blanked": "Deepika ______ demanded 10% Spirit profit, leaked details: Sandeep Reddy Vanga’s brother",
-      "answer": "Padukone",
+      "blanked": "Imran ______ taken back to jail after hospital checks: Pakistan govt",
+      "answer": "Khan",
       "options": [
-        "All",
-        "Pragya",
-        "Shows",
-        "Padukone"
+        "Rahul",
+        "Price",
+        "Khan",
+        "Times"
       ]
     },
     {
-      "blanked": "China’s new moon mission could unlock secret of lunar ice: ______ that matters",
-      "answer": "Why",
+      "blanked": "Canada gurdwara stabbing: Two injured in ______ suspect held day after prison release",
+      "answer": "Edmonton",
       "options": [
-        "Galaxy",
-        "Why",
-        "Arjun",
-        "Own"
+        "Indians",
+        "Edmonton",
+        "India",
+        "RAF"
+      ]
+    },
+    {
+      "blanked": "Adobe Techie Had A Fight With Wife. His In-Laws ______ Him To Death",
+      "answer": "Thrashed",
+      "options": [
+        "Explains",
+        "Techie",
+        "Thrashed",
+        "Shows"
       ]
     }
   ]
