@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-22T14:00:47.726Z",
+  "generatedAt": "2026-08-22T14:55:53.713Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
     "Inside BJP’s 10-point Vande Mataram resolution: ‘No vote bank' politics, cites Mahatma Gandhi’s ‘anti-imperialist cry’ | India News",
-    "US imposes 50 percent tariffs on $20bn in Canadian goods after talks fail",
+    "DMK revamps party organisation; sets 70 as age limit for district secretaries, 45 for local units",
     "Adobe Techie Had A Fight With Wife. His In-Laws Thrashed Him To Death",
-    "Manan Kumar Mishra's Resignation Sought At BCI General Council Meeting",
-    "Anti-reservation protest draws large crowd at Delhi’s Jantar Mantar; several detained",
+    "US imposes 50 percent tariffs on $20bn in Canadian goods after talks fail",
     "Iran says new US sanctions violate sovereignty of other states",
-    "Boy dies after dispute over iPhone with parents; couple die trying to save him",
-    "Karnataka IAS officer goes missing, police trace his travel to Delhi",
+    "After sweeping new powers for Munir, Pakistan deploys more troops in Rawalpindi amid backlash fears",
     "2 Killed, Several Injured As Under-Construction Building Collapses In Hyderabad",
+    "Manan Kumar Mishra's Resignation Sought At BCI General Council Meeting",
     "Jadavpur MLA Sarbori Mukherjee changes tune on university violence, distances BJP from ABVP",
-    "Pentagon fires US military newspaper leadership",
+    "Boy dies after dispute over iPhone with parents; couple die trying to save him",
+    "How the US and Middle East allies flipped the oil script on Iran",
+    "Day After Release From Jail, Man Stabs 2 At Canada Gurudwara With Screwdriver",
     "Pakistan’s PTI seeks contempt action over jailed Imran Khan’s hospital move",
     "Russian strikes kill 6 people in Ukraine, day after shopping complex attack",
-    "Iran Seeks Agreement But \"Not Ready To Make Right Deal\": Trump",
     "FCNR-B deposit inflows cross $65 billion ahead of August 31 deadline, says RBI",
     "India, Mauritius sign long-term fuel supply pact; IOC to meet entire import requirement",
     "Zee Entertainment promoter allotted convertible warrants",
     "43 Lakh Cars Recalled In China Over Flush Door Handle Safety Concerns",
+    "Apple's Camera AirPods Leaks Spark Hilarious Memes and Privacy Concerns | Vantage on Firstpost",
     "iPhone 18 Pro Max: Price in India, launch date, camera upgrade, new processor and more we know ahead of...",
+    "GTA 6 hit by sixth gameplay leak as CyberLeek threatens more footage",
     "Call of Duty: Modern Warfare 4 Switch 2 60 fps performance impresses in first video",
-    "Chinese Hacker Uses DeepSeek AI to Automate Vulnerability Exploitation",
-    "Take-Two subpoenas Microsoft and Discord to identify GTA VI leaker",
-    "Saba Pataudi Reacts To Kareena Kapoor Khan's Pregnancy Buzz, Wishes Soha Ali Khan Had A Second Child Instead",
-    "Rajesh Kumar was in Rs 2 cr debt after quitting acting upon Sadhguru’s advice: ‘Not failure’",
+    "Kareena Kapoor’s sister-in-law Saba dismisses actor’s pregnancy rumours: ‘A bad angle’",
+    "Rajesh Kumar Left Acting On Sadhguru's Advice, Took Up Farming And Landed In Rs 2 Crore Debt",
     "Sowcar Janaki, the versatile face of Tamil cinema known for majestic roles and finesses"
   ],
   "quiz": [
     {
-      "blanked": "China’s new moon mission could unlock secret of lunar ice: ______ that matters",
-      "answer": "Why",
+      "blanked": "Russian strikes kill 6 people in ______ day after shopping complex attack",
+      "answer": "Ukraine",
       "options": [
-        "Gopichand",
-        "In-Laws",
-        "Khans",
-        "Why"
-      ]
-    },
-    {
-      "blanked": "Anti-reservation protest draws large crowd at Delhi’s ______ Mantar; several detained",
-      "answer": "Jantar",
-      "options": [
-        "Switch",
-        "Jantar",
-        "Meeting",
-        "Track"
-      ]
-    },
-    {
-      "blanked": "H1N1 alert: ______ ministry lists symptoms to look for as Delhi crosses 1,700 cases",
-      "answer": "Health",
-      "options": [
-        "Jolly-Gayatri",
+        "Paid",
         "Broke",
-        "How",
-        "Health"
+        "Accelerates",
+        "Ukraine"
+      ]
+    },
+    {
+      "blanked": "After sweeping new powers for ______ Pakistan deploys more troops in Rawalpindi amid backlash fears",
+      "answer": "Munir",
+      "options": [
+        "Injured",
+        "Accelerates",
+        "Munir",
+        "RBI"
+      ]
+    },
+    {
+      "blanked": "2 Killed, Several Injured As ______ Building Collapses In Hyderabad",
+      "answer": "Under-Construction",
+      "options": [
+        "World",
+        "Under-Construction",
+        "Rawalpindi",
+        "Progressive"
+      ]
+    },
+    {
+      "blanked": "Zee ______ promoter allotted convertible warrants",
+      "answer": "Entertainment",
+      "options": [
+        "Spark",
+        "Ukraine",
+        "Hilarious",
+        "Entertainment"
+      ]
+    },
+    {
+      "blanked": "Rajesh Kumar Left ______ On Sadhguru's Advice, Took Up Farming And Landed In Rs 2 Crore Debt",
+      "answer": "Acting",
+      "options": [
+        "LIVE",
+        "Sri",
+        "Acting",
+        "Several"
+      ]
+    },
+    {
+      "blanked": "Call of Duty: ______ Warfare 4 Switch 2 60 fps performance impresses in first video",
+      "answer": "Modern",
+      "options": [
+        "Modern",
+        "Paid",
+        "Awareness",
+        "Landed"
+      ]
+    },
+    {
+      "blanked": "iPhone 18 Pro Max: Price in ______ launch date, camera upgrade, new processor and more we know ahead of...",
+      "answer": "India",
+      "options": [
+        "Tamil",
+        "FIH",
+        "Fight",
+        "India"
+      ]
+    },
+    {
+      "blanked": "Automated Speech Profiles Distinguish ______ Progressive Aphasia",
+      "answer": "Primary",
+      "options": [
+        "Indian",
+        "Stenosis",
+        "Primary",
+        "Stabs"
       ]
     },
     {
       "blanked": "Sowcar Janaki, the versatile face of ______ cinema known for majestic roles and finesses",
       "answer": "Tamil",
       "options": [
-        "Sought",
-        "Largest",
-        "World",
-        "Tamil"
+        "Tamil",
+        "Screwdriver",
+        "Ladies",
+        "Organised"
       ]
     },
     {
-      "blanked": "Rajesh Kumar was in Rs 2 cr debt after quitting acting upon Sadhguru’s advice: ______ failure’",
-      "answer": "Not",
+      "blanked": "Kareena ______ sister-in-law Saba dismisses actor’s pregnancy rumours: ‘A bad angle’",
+      "answer": "Kapoors",
       "options": [
-        "Not",
-        "In-Laws",
-        "Council",
-        "Make"
+        "Kapoors",
+        "Khans",
+        "Mishras",
+        "Aortic"
       ]
     },
     {
-      "blanked": "India, Mauritius sign long-term fuel supply pact; ______ to meet entire import requirement",
-      "answer": "IOC",
+      "blanked": "BWF ______ 2026: Treesa-Gayatri in semifinals, assured of medal",
+      "answer": "Championships",
       "options": [
-        "IOC",
-        "BJPs",
-        "Lakh",
-        "Largest"
-      ]
-    },
-    {
-      "blanked": "Iran Seeks Agreement But \"Not ______ To Make Right Deal\": Trump",
-      "answer": "Ready",
-      "options": [
-        "Ready",
-        "Greenland",
-        "Soha",
-        "Off"
-      ]
-    },
-    {
-      "blanked": "Jadavpur MLA Sarbori Mukherjee changes tune on university violence, distances BJP from ______",
-      "answer": "ABVP",
-      "options": [
-        "Several",
-        "Pregnancy",
-        "ABVP",
-        "2026"
-      ]
-    },
-    {
-      "blanked": "Who is Gabriella Demetriades? All about Arjun ______ wife, from South African model to fashion entrepre",
-      "answer": "Rampals",
-      "options": [
-        "Standings",
-        "Building",
-        "Rampals",
-        "Flush"
-      ]
-    },
-    {
-      "blanked": "Adobe ______ Had A Fight With Wife. His In-Laws Thrashed Him To Death",
-      "answer": "Techie",
-      "options": [
-        "Techie",
-        "LIVE",
-        "Rampals",
-        "Pataudi"
-      ]
-    },
-    {
-      "blanked": "NASA is set to launch a telescope on August 30 that could detect around 100,000 new worlds — more than all previous planet-hunting observatories have found combined — using a camera that captures ______ times more sky than Hubble in a single shot.",
-      "answer": "100",
-      "options": [
-        "Ice",
-        "Safety",
-        "100",
+        "Singh",
+        "Pro",
+        "Firstpost",
         "Championships"
       ]
     },
     {
-      "blanked": "Meet 11-year-old Atharv Sood, the Indian student credited with three preliminary asteroid detections; ______",
-      "answer": "How",
+      "blanked": "Manan Kumar Mishra's Resignation Sought At ______ General Council Meeting",
+      "answer": "BCI",
       "options": [
-        "How",
-        "Track",
-        "African",
-        "Concerns"
+        "1700",
+        "Mishras",
+        "Jail",
+        "BCI"
       ]
     }
   ]
