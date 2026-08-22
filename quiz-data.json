@@ -1,143 +1,93 @@
 {
-  "generatedAt": "2026-08-22T03:08:01.510Z",
+  "generatedAt": "2026-08-22T04:57:09.146Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "Rashtrapati Bhavan withdraws email on Bangladesh PM visit",
-    "Tension in Jaipur as CJP team alleges attack by BJP workers during visit to Govt school",
-    "Rahul Gandhi protest in Delhi highlights: Rahul ends over-6-hour dharna after FIR registered on pellet victim’s complaint",
+    "US imposes 50% tariffs on $20bn worth of Canadian goods after talks fail",
+    "2 injured in gurdwara stabbing in Canada's Edmonton; PM Carney calls attack 'appalling' | World News",
+    "Jharkhand protesters attempt to burn effigies of CM Hemant Soren, Rahul Gandhi; scuffle with police in Ranchi",
+    "Biggest El Nino in ‘over a century’ to dial up global heat, India braces for double crop hit | World News",
+    "Now, protesters at Jantar Mantar seek overhaul of reservation system",
+    "Amid CJP ‘inspections’, Rajasthan government admits 611 schools have no buildings",
     "iPhone EMI Behind Teen, Parents' Deaths In Maharashtra Hill Horror",
-    "El Nino set to be most intense ‘for over a century’: UK forecasters",
-    "Jantar Mantar protest highlights: Massive crowd, RAF at Jantar Mantar for 'Reservation Hatao' protest; several detained | Hindustan Times",
     "PLP to PLI, reform express at full speed, says PM Modi",
-    "Champat Rai’s article on Nripendra Misra’s role in Ayodhya temple construction sparks controversy",
-    "Supreme Court Orders Premature Release Of 105-Year Old Life Convict In 1988 Murder Case",
-    "RSS Samanvay Baithak deliberates on demographic imbalance, fertility rate, youth population",
-    "Trump says Iran not ready to make the 'right deal'",
+    "At least 2 killed, nine injured in reactor blast at Telangana pharma unit",
+    "Rashtrapati Bhavan withdraws email on Bangladesh PM visit",
+    "Trump declares Strait of Hormuz 'American territory' amid Iran tensions",
     "‘Double-tap’ attack: 14 killed as Russian drones ravage Zelenskyy’s hometown",
-    "Canada gurdwara stabbing: Two injured in Edmonton, suspect held day after prison release",
-    "US-Canada trade deal would introduce a steel quota with a lower 25% tariff",
+    "Pentagon fires US military newspaper leadership",
+    "Pakistan ex-PM Imran Khan’s family accuses gov’t of defying hospital order",
+    "Balrampur Chini, Shree Renuka Sugars, EID Parry: Sugar stocks tumble up to 6%; here is why",
+    "India orders removal of Google Firebase accounts after spotting scam pattern",
     "Apple May Expand India Manufacturing Beyond iPhones: Union Minister",
     "India reports 29 FDI investments worth Rs 4,895.65 crore under revised land-border rules",
-    "Gold prices surge more than 5% for the week as dollar slides amid bond sell-off",
-    "India orders removal of Google Firebase accounts after spotting scam pattern",
     "Apple Music Apple Music follows Spotify, to start labelling AI-generated music",
     "Apple Loop: iPhone 18 Pro Profit, Critical iOS Update, MacBook Ultra Spec Details",
-    "Did GTA 6 leaks happen via Rockstar India? Social media abuzz with theories",
     "Activision reveals system requirements for Modern Warfare 4 Beta on PC",
+    "Did GTA 6 leaks happen via Rockstar India? Social media abuzz with theories",
     "Sowcar Janaki, the versatile face of Tamil cinema known for majestic roles and finesses",
-    "Bethlehem Kudumba Unit Box Office Day 1 Advance: Nivin Pauly's Film Scores 9th Biggest Pre-Sale Of 2026 In Kerala",
-    "Ektaa R Kapoor joins hands with Amar Butala for Sajid Khan’s horror-comedy Hero Ki Horrorine"
+    "Arjun Rampal marries Gabriella Demetriades: After 8 years of dating, actor weds fiancée in Goa",
+    "Deepika Padukone demanded 10% Spirit profit, leaked details: Sandeep Reddy Vanga’s brother"
   ],
   "quiz": [
     {
-      "blanked": "India reports 29 ______ investments worth Rs 4,895.65 crore under revised land-border rules",
-      "answer": "FDI",
+      "blanked": "Neeraj Chopra finishes second, ______ wins title in Lausanne Diamond League",
+      "answer": "Pathirage",
       "options": [
-        "FDI",
-        "Kerala",
-        "Massive",
-        "Google"
-      ]
-    },
-    {
-      "blanked": "H1N1 cases rise, health minister ______ reviews influenza preparedness",
-      "answer": "Nadda",
-      "options": [
-        "Nadda",
-        "GTA",
-        "Survival",
-        "Pro"
-      ]
-    },
-    {
-      "blanked": "Rahul Gandhi protest in ______ highlights: Rahul ends over-6-hour dharna after FIR registered on pellet victim’s complaint",
-      "answer": "Delhi",
-      "options": [
-        "Medal",
-        "Delhi",
-        "Ayodhya",
-        "Unit"
-      ]
-    },
-    {
-      "blanked": "Trump says ______ not ready to make the 'right deal'",
-      "answer": "Iran",
-      "options": [
-        "Warfare",
-        "Championship",
+        "Spec",
+        "Treesa-Gayatri",
         "Iran",
-        "4895.65"
+        "Pathirage"
       ]
     },
     {
-      "blanked": "US-Canada trade deal would introduce a steel quota with a lower ______ tariff",
-      "answer": "25%",
+      "blanked": "Sowcar Janaki, the versatile face of ______ cinema known for majestic roles and finesses",
+      "answer": "Tamil",
       "options": [
-        "25%",
-        "Loop",
-        "Details",
-        "Longer"
+        "Tamil",
+        "Canadas",
+        "Modi",
+        "Space"
       ]
     },
     {
-      "blanked": "Apple May Expand India Manufacturing ______ iPhones: Union Minister",
-      "answer": "Beyond",
+      "blanked": "2 injured in gurdwara stabbing in Canada's Edmonton; PM Carney calls attack 'appalling' | World ______",
+      "answer": "News",
       "options": [
-        "Zelenskyys",
-        "Massive",
-        "Beyond",
-        "FIR"
+        "News",
+        "Edmonton",
+        "Rampal",
+        "NASAs"
+      ]
+    },
+    {
+      "blanked": "India orders removal of Google ______ accounts after spotting scam pattern",
+      "answer": "Firebase",
+      "options": [
+        "Hormuz",
+        "Firebase",
+        "Beta",
+        "Nivin"
+      ]
+    },
+    {
+      "blanked": "Arjun Rampal marries Gabriella ______ After 8 years of dating, actor weds fiancée in Goa",
+      "answer": "Demetriades",
+      "options": [
+        "Mantar",
+        "Union",
+        "Congressional",
+        "Demetriades"
       ]
     },
     {
       "blanked": "‘Double-tap’ attack: 14 killed as ______ drones ravage Zelenskyy’s hometown",
       "answer": "Russian",
       "options": [
-        "Rockstar",
-        "League",
         "Russian",
-        "Firebase"
-      ]
-    },
-    {
-      "blanked": "Activision reveals system requirements for Modern Warfare 4 ______ on PC",
-      "answer": "Beta",
-      "options": [
-        "FIR",
-        "Beta",
-        "Renal",
-        "GTA"
-      ]
-    },
-    {
-      "blanked": "PLP to ______ reform express at full speed, says PM Modi",
-      "answer": "PLI",
-      "options": [
-        "PLI",
-        "Iran",
-        "Govt",
-        "Pre-Sale"
-      ]
-    },
-    {
-      "blanked": "Tension in Jaipur as ______ team alleges attack by BJP workers during visit to Govt school",
-      "answer": "CJP",
-      "options": [
-        "Cancer",
-        "Critical",
-        "Butala",
-        "CJP"
-      ]
-    },
-    {
-      "blanked": "Sowcar ______ the versatile face of Tamil cinema known for majestic roles and finesses",
-      "answer": "Janaki",
-      "options": [
-        "Ice",
-        "Iran",
-        "Janaki",
-        "FIR"
+        "Hemant",
+        "Parents",
+        "Union"
       ]
     },
     {
@@ -145,9 +95,59 @@
       "answer": "Congressional",
       "options": [
         "Congressional",
-        "Modern",
-        "Murder",
-        "Music"
+        "Space",
+        "Hill",
+        "Critical"
+      ]
+    },
+    {
+      "blanked": "Apple May Expand India Manufacturing Beyond iPhones: ______ Minister",
+      "answer": "Union",
+      "options": [
+        "Steyn",
+        "Shree",
+        "Union",
+        "Hemant"
+      ]
+    },
+    {
+      "blanked": "Apple Loop: iPhone 18 Pro Profit, Critical iOS Update, MacBook ______ Spec Details",
+      "answer": "Ultra",
+      "options": [
+        "Spotify",
+        "Beyond",
+        "Ultra",
+        "EID"
+      ]
+    },
+    {
+      "blanked": "Pakistan ex-PM Imran ______ family accuses gov’t of defying hospital order",
+      "answer": "Khans",
+      "options": [
+        "Khans",
+        "Ranchi",
+        "CJP",
+        "Diamond"
+      ]
+    },
+    {
+      "blanked": "Trump declares Strait of Hormuz ______ territory' amid Iran tensions",
+      "answer": "American",
+      "options": [
+        "American",
+        "Music",
+        "Bangladesh",
+        "Carney"
+      ]
+    },
+    {
+      "blanked": "China’s Chang’e-7 mission to search for water at ______ south pole",
+      "answer": "Moons",
+      "options": [
+        "Moons",
+        "Deaths",
+        "Apple",
+        "Details"
       ]
     }
   ]
