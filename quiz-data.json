@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-22T21:44:34.584Z",
+  "generatedAt": "2026-08-22T22:43:51.084Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "Canada to impose punitive tariff on US from September 8; to hit steel, dairy sectors",
-    "Singapore-Bound Cargo Ship With 24 Crew Members Sinks Off Odisha Coast",
+    "US imposes 50% tariffs on $20 billion worth of Canadian products; Canada says it will retaliate",
+    "Panama-flagged cargo ship carrying 24 on board sinks off Odisha coast",
     "Gen Z: India's BJP mastered WhatsApp and X. Now it is trying to crack Instagram",
     "‘Declaration Of War On All Nations’: Iran’s Fiery Response To New US Sanctions, Warns Of ‘Colonialism’",
+    "Manan Kumar Mishra's Resignation Sought At BCI General Council Meeting",
     "Inside BJP’s 10-point Vande Mataram resolution: ‘No vote bank' politics, cites Mahatma Gandhi’s ‘anti-imperialist cry’ | India News",
-    "BCI chairman faces fresh pressure as co-chairman seeks resignation",
     "In Leaked Audio, Gangster Goldy Brar Claims He Killed Hardeep Nijjar In Canada",
     "Jadavpur MLA Sarbori Mukherjee changes tune on university violence, distances BJP from ABVP",
-    "India to end boarding pass stamping at airports for international travellers from September 1",
-    "Teenager, parents die after falling from Maharashtra hill amid iPhone EMI dispute",
-    "EAM downplays Pakistan-Turkey-Saudi defence pact: ‘What has it done amid live military situations in these countries?’ | India News",
-    "‘Opened Pandora’s box’: Putin’s big warning after Ukraine hits Russian economic infrastructure",
-    "Day After Release From Jail, Man Stabs 2 At Canada Gurudwara With Screwdriver",
-    "Editor of US newspaper Stars and Stripes reportedly fired under Trump",
+    "Boy dies after dispute over iPhone with parents; couple die trying to save him",
+    "Two Killed as Illegal Building Collapses in Anjaiahnagar",
+    "Ukraine says 'cynical' Russian strike on shopping centre killed 16",
+    "Israel and Turkey edge towards a dangerous miscalculation over Syria",
+    "Canada gurdwara stabbing: Two injured in Edmonton, PM Carney calls attack 'appalling'",
+    "'We are in a position of power': Iran's Pezeshkian seeks end to US war, claims victory",
     "US: What’s Pushing Long-Term Bond Yields Higher?",
     "Gold (XAU/USD) Price Forecast: Breakout Opens Path Toward $4,891",
-    "Sebi proposes fixed-income channel partners framework to expand retail access to bonds",
     "India gets $511.5 million in FDI under new policy for neighbouring countries",
+    "RBI forex swap facility attracts $72.85 billion inflows as of August 21",
+    "Please don’t buy Google’s wildly overpriced Pixel 11 Clear Case",
     "How Apple’s iPhone 18 Pro Launch Date Crushes The Competition",
     "GTA 6 hit by sixth gameplay leak as CyberLeek threatens more footage",
     "Call of Duty: Modern Warfare 4 Switch 2 60 fps performance impresses in first video",
-    "Samsung Galaxy Z Flip8 unboxing - GSMArena.com news",
     "Yeh Rishta Kya Kehlata Hai actor Mohsin Khan gets engaged to Tamanna, fiancée flaunts huge diamond ring;",
     "Ranveer Singh thanks Ambani family for backing Dhurandhar when his films weren't working: ‘Nothing short of a blessing’ | Bollywood",
-    "Actor Sowcar Janaki dies at 94"
+    "Toxic Advance Booking: Yash's Film Sells Over 2.6 Lakh Tickets, Nears Rs 20 Crore"
   ],
   "quiz": [
     {
-      "blanked": "Teenager, parents die after falling from Maharashtra hill amid iPhone ______ dispute",
-      "answer": "EMI",
+      "blanked": "Panama-flagged cargo ship carrying 24 on board sinks off ______ coast",
+      "answer": "Odisha",
       "options": [
-        "Rishta",
-        "Roman",
-        "Canada",
-        "EMI"
+        "Odisha",
+        "Launch",
+        "Dhurandhar",
+        "Tickets"
       ]
     },
     {
-      "blanked": "‘Declaration Of War On All Nations’: Iran’s Fiery Response To New US ______ Warns Of ‘Colonialism’",
-      "answer": "Sanctions",
+      "blanked": "Jolly-Gopichand win India's 1st women's doubles medal in 15 yrs at Badminton ______ C'ships | This is India's only medal at the 2026 edition | Inshorts",
+      "answer": "World",
       "options": [
-        "Island",
-        "Sanctions",
-        "Sowcar",
+        "ISS",
+        "WhatsApp",
+        "Building",
         "World"
       ]
     },
     {
-      "blanked": "Sophie Adenot becomes first ______ woman to walk in space as unfinished ISS antenna job requires second s",
-      "answer": "French",
+      "blanked": "Kareena Kapoor’s sister-in-law ______ dismisses actor’s pregnancy rumours: ‘A bad angle’",
+      "answer": "Saba",
       "options": [
-        "Brar",
-        "French",
-        "World",
-        "Pushing"
+        "Saba",
+        "Response",
+        "Anjaiahnagar",
+        "Nijjar"
       ]
     },
     {
-      "blanked": "Gen Z: India's BJP mastered ______ and X. Now it is trying to crack Instagram",
-      "answer": "WhatsApp",
+      "blanked": "Automated Speech ______ Distinguish Primary Progressive Aphasia",
+      "answer": "Profiles",
       "options": [
-        "Galaxy",
-        "Nancy",
-        "Aphasia",
-        "WhatsApp"
+        "ABVP",
+        "All",
+        "Profiles",
+        "Duty"
       ]
     },
     {
-      "blanked": "Gold (XAU/USD) Price Forecast: Breakout Opens Path ______ $4,891",
-      "answer": "Toward",
+      "blanked": "Ranveer Singh thanks ______ family for backing Dhurandhar when his films weren't working: ‘Nothing short of a blessing’ | Bollywood",
+      "answer": "Ambani",
       "options": [
-        "French",
-        "Toward",
-        "Progressive",
-        "Tamanna"
-      ]
-    },
-    {
-      "blanked": "Automated ______ Profiles Distinguish Primary Progressive Aphasia",
-      "answer": "Speech",
-      "options": [
-        "Galaxy",
-        "Speech",
-        "Coast",
-        "Netherlands"
+        "Killed",
+        "Ambani",
+        "Price",
+        "Modern"
       ]
     },
     {
       "blanked": "India gets ______ million in FDI under new policy for neighbouring countries",
       "answer": "511.5",
       "options": [
-        "511.5",
-        "War",
-        "Progression",
-        "Roman"
-      ]
-    },
-    {
-      "blanked": "Toxic Advance ______ Yash's Film Sells Over 2.6 Lakh Tickets, Nears Rs 20 Crore",
-      "answer": "Booking",
-      "options": [
-        "Primary",
-        "Stabs",
-        "Booking",
-        "Rishta"
-      ]
-    },
-    {
-      "blanked": "India to end boarding pass stamping at airports for international travellers from ______ 1",
-      "answer": "September",
-      "options": [
-        "Dhurandhar",
-        "September",
-        "Response",
-        "Individual"
-      ]
-    },
-    {
-      "blanked": "Inside BJP’s 10-point Vande Mataram resolution: ‘No vote bank' politics, cites Mahatma Gandhi’s ‘anti-imperialist cry’ | India ______",
-      "answer": "News",
-      "options": [
-        "Switch",
-        "News",
-        "Toward",
-        "Campaign"
-      ]
-    },
-    {
-      "blanked": "Highest-Altitude Diabetes Awareness ______ Organised by an Individual",
-      "answer": "Campaign",
-      "options": [
-        "Campaign",
-        "Sells",
-        "Kuldeep",
-        "Sowcar"
-      ]
-    },
-    {
-      "blanked": "Ranveer ______ thanks Ambani family for backing Dhurandhar when his films weren't working: ‘Nothing short of a blessing’ | Bollywood",
-      "answer": "Singh",
-      "options": [
+        "Mukherjee",
         "Singh",
-        "Cup",
-        "Gangster",
-        "Grace"
+        "Pezeshkian",
+        "511.5"
+      ]
+    },
+    {
+      "blanked": "Inside BJP’s 10-point Vande ______ resolution: ‘No vote bank' politics, cites Mahatma Gandhi’s ‘anti-imperialist cry’ | India News",
+      "answer": "Mataram",
+      "options": [
+        "Saba",
+        "Canadian",
+        "Gandhis",
+        "Mataram"
+      ]
+    },
+    {
+      "blanked": "Gen Z: India's BJP mastered WhatsApp and X. ______ it is trying to crack Instagram",
+      "answer": "Now",
+      "options": [
+        "Now",
+        "Diabetes",
+        "Audio",
+        "Kapoors"
+      ]
+    },
+    {
+      "blanked": "GTA 6 hit by sixth gameplay leak as ______ threatens more footage",
+      "answer": "CyberLeek",
+      "options": [
+        "CyberLeek",
+        "Nears",
+        "Ambani",
+        "General"
+      ]
+    },
+    {
+      "blanked": "Trump to award ______ Artemis II astronauts the Congressional Space Medal of Honor",
+      "answer": "NASAs",
+      "options": [
+        "WhatsApp",
+        "Odisha",
+        "NASAs",
+        "Gandhis"
+      ]
+    },
+    {
+      "blanked": "Hockey ______ Cup: India's semifinal hopes end after 1-3 loss to Netherlands",
+      "answer": "World",
+      "options": [
+        "Nations",
+        "Warns",
+        "WhatsApp",
+        "World"
+      ]
+    },
+    {
+      "blanked": "Israel and ______ edge towards a dangerous miscalculation over Syria",
+      "answer": "Turkey",
+      "options": [
+        "Turkey",
+        "Opens",
+        "Progressive",
+        "MLA"
       ]
     }
   ]
