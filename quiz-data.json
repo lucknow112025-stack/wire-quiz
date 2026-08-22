@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-22T13:21:03.073Z",
+  "generatedAt": "2026-08-22T14:00:47.726Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "US imposes 50 percent tariffs on $20bn in Canadian goods after talks fail",
     "Inside BJP’s 10-point Vande Mataram resolution: ‘No vote bank' politics, cites Mahatma Gandhi’s ‘anti-imperialist cry’ | India News",
-    "Anti-reservation protest draws large crowd at Delhi’s Jantar Mantar; several detained",
+    "US imposes 50 percent tariffs on $20bn in Canadian goods after talks fail",
     "Adobe Techie Had A Fight With Wife. His In-Laws Thrashed Him To Death",
-    "Boy dies after dispute over iPhone with parents; couple die trying to save him",
+    "Manan Kumar Mishra's Resignation Sought At BCI General Council Meeting",
+    "Anti-reservation protest draws large crowd at Delhi’s Jantar Mantar; several detained",
     "Iran says new US sanctions violate sovereignty of other states",
+    "Boy dies after dispute over iPhone with parents; couple die trying to save him",
+    "Karnataka IAS officer goes missing, police trace his travel to Delhi",
     "2 Killed, Several Injured As Under-Construction Building Collapses In Hyderabad",
-    "Karnataka imposes one-year ban on analogue paneer; FDA cites public health concerns",
     "Jadavpur MLA Sarbori Mukherjee changes tune on university violence, distances BJP from ABVP",
-    "HM Amit Shah lauds West Bengal govt. for handing over 1,129 acres for India-Bangladesh border fencing",
     "Pentagon fires US military newspaper leadership",
     "Pakistan’s PTI seeks contempt action over jailed Imran Khan’s hospital move",
+    "Russian strikes kill 6 people in Ukraine, day after shopping complex attack",
     "Iran Seeks Agreement But \"Not Ready To Make Right Deal\": Trump",
-    "Lindsay Clancy’s Chilling Words After Killing Her Children",
     "FCNR-B deposit inflows cross $65 billion ahead of August 31 deadline, says RBI",
     "India, Mauritius sign long-term fuel supply pact; IOC to meet entire import requirement",
+    "Zee Entertainment promoter allotted convertible warrants",
     "43 Lakh Cars Recalled In China Over Flush Door Handle Safety Concerns",
-    "India gets $511.5 million in FDI under new policy for neighbouring countries",
     "iPhone 18 Pro Max: Price in India, launch date, camera upgrade, new processor and more we know ahead of...",
     "Call of Duty: Modern Warfare 4 Switch 2 60 fps performance impresses in first video",
-    "Take-Two subpoenas Microsoft and Discord to identify GTA VI leaker",
     "Chinese Hacker Uses DeepSeek AI to Automate Vulnerability Exploitation",
-    "Kareena Kapoor’s sister-in-law Saba dismisses actor’s pregnancy rumours: ‘A bad angle’",
+    "Take-Two subpoenas Microsoft and Discord to identify GTA VI leaker",
+    "Saba Pataudi Reacts To Kareena Kapoor Khan's Pregnancy Buzz, Wishes Soha Ali Khan Had A Second Child Instead",
     "Rajesh Kumar was in Rs 2 cr debt after quitting acting upon Sadhguru’s advice: ‘Not failure’",
-    "‘Sowcar’ Janaki, the versatile face of Tamil cinema known for majestic roles and finesses"
+    "Sowcar Janaki, the versatile face of Tamil cinema known for majestic roles and finesses"
   ],
   "quiz": [
     {
-      "blanked": "Call of Duty: Modern Warfare 4 ______ 2 60 fps performance impresses in first video",
-      "answer": "Switch",
+      "blanked": "China’s new moon mission could unlock secret of lunar ice: ______ that matters",
+      "answer": "Why",
+      "options": [
+        "Gopichand",
+        "In-Laws",
+        "Khans",
+        "Why"
+      ]
+    },
+    {
+      "blanked": "Anti-reservation protest draws large crowd at Delhi’s ______ Mantar; several detained",
+      "answer": "Jantar",
       "options": [
         "Switch",
-        "Flush",
-        "PTI",
-        "Spouses"
+        "Jantar",
+        "Meeting",
+        "Track"
       ]
     },
     {
-      "blanked": "Karnataka imposes one-year ban on analogue paneer; ______ cites public health concerns",
-      "answer": "FDA",
+      "blanked": "H1N1 alert: ______ ministry lists symptoms to look for as Delhi crosses 1,700 cases",
+      "answer": "Health",
       "options": [
-        "FDA",
-        "Progressive",
-        "Outbreak",
-        "Imran"
+        "Jolly-Gayatri",
+        "Broke",
+        "How",
+        "Health"
       ]
     },
     {
-      "blanked": "Chinese Hacker ______ DeepSeek AI to Automate Vulnerability Exploitation",
-      "answer": "Uses",
+      "blanked": "Sowcar Janaki, the versatile face of ______ cinema known for majestic roles and finesses",
+      "answer": "Tamil",
       "options": [
-        "Uses",
-        "Just",
-        "Standings",
-        "Pro"
-      ]
-    },
-    {
-      "blanked": "Kareena ______ sister-in-law Saba dismisses actor’s pregnancy rumours: ‘A bad angle’",
-      "answer": "Kapoors",
-      "options": [
-        "Just",
-        "Rampal",
-        "Duty",
-        "Kapoors"
+        "Sought",
+        "Largest",
+        "World",
+        "Tamil"
       ]
     },
     {
       "blanked": "Rajesh Kumar was in Rs 2 cr debt after quitting acting upon Sadhguru’s advice: ______ failure’",
       "answer": "Not",
       "options": [
-        "Concerns",
         "Not",
-        "Kapoors",
-        "Progressive"
+        "In-Laws",
+        "Council",
+        "Make"
       ]
     },
     {
-      "blanked": "'Rankings do not matter': Under fire ______ Gambhir says India 'not struggling' in Tests",
-      "answer": "Gautam",
+      "blanked": "India, Mauritius sign long-term fuel supply pact; ______ to meet entire import requirement",
+      "answer": "IOC",
       "options": [
-        "Gautam",
-        "Children",
-        "Partners",
-        "News"
+        "IOC",
+        "BJPs",
+        "Lakh",
+        "Largest"
       ]
     },
     {
-      "blanked": "H1N1 alert: Health ministry lists symptoms to look for as Delhi crosses ______ cases",
-      "answer": "1700",
+      "blanked": "Iran Seeks Agreement But \"Not ______ To Make Right Deal\": Trump",
+      "answer": "Ready",
       "options": [
-        "Just",
-        "Canadian",
-        "GTA",
-        "1700"
+        "Ready",
+        "Greenland",
+        "Soha",
+        "Off"
       ]
     },
     {
-      "blanked": "Data Shows ______ Ebola Outbreak Is On Track To Surpass History's Largest",
-      "answer": "Congos",
+      "blanked": "Jadavpur MLA Sarbori Mukherjee changes tune on university violence, distances BJP from ______",
+      "answer": "ABVP",
       "options": [
-        "Sadhgurus",
-        "Congos",
-        "Mukherjee",
-        "Price"
+        "Several",
+        "Pregnancy",
+        "ABVP",
+        "2026"
       ]
     },
     {
-      "blanked": "India vs Sri Lanka Preview: ______ aim for much of the same in change of scenery",
-      "answer": "India",
+      "blanked": "Who is Gabriella Demetriades? All about Arjun ______ wife, from South African model to fashion entrepre",
+      "answer": "Rampals",
       "options": [
-        "Manhattan-Sized",
-        "Surpass",
-        "Warfare",
-        "India"
+        "Standings",
+        "Building",
+        "Rampals",
+        "Flush"
       ]
     },
     {
-      "blanked": "iPhone 18 ______ Max: Price in India, launch date, camera upgrade, new processor and more we know ahead of...",
-      "answer": "Pro",
+      "blanked": "Adobe ______ Had A Fight With Wife. His In-Laws Thrashed Him To Death",
+      "answer": "Techie",
       "options": [
-        "Under-Construction",
-        "Surpass",
-        "Handle",
-        "Pro"
+        "Techie",
+        "LIVE",
+        "Rampals",
+        "Pataudi"
       ]
     },
     {
-      "blanked": "FIH Men’s Hockey World Cup 2026 Second Round — LIVE Standings, ______ Results",
-      "answer": "Schedule",
+      "blanked": "NASA is set to launch a telescope on August 30 that could detect around 100,000 new worlds — more than all previous planet-hunting observatories have found combined — using a camera that captures ______ times more sky than Hubble in a single shot.",
+      "answer": "100",
       "options": [
-        "Trump",
-        "Vande",
-        "Schedule",
-        "Had"
+        "Ice",
+        "Safety",
+        "100",
+        "Championships"
       ]
     },
     {
-      "blanked": "Take-Two subpoenas Microsoft and ______ to identify GTA VI leaker",
-      "answer": "Discord",
+      "blanked": "Meet 11-year-old Atharv Sood, the Indian student credited with three preliminary asteroid detections; ______",
+      "answer": "How",
       "options": [
-        "Hockey",
-        "Mantar",
-        "Discord",
-        "Duty"
+        "How",
+        "Track",
+        "African",
+        "Concerns"
       ]
     }
   ]
