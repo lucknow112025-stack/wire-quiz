@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-22T11:42:39.831Z",
+  "generatedAt": "2026-08-22T13:21:03.073Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
     "US imposes 50 percent tariffs on $20bn in Canadian goods after talks fail",
-    "'No compromise': BJP passes resolution against Congress on Vande Mataram; vows natiowide protest",
-    "Gen Z: India's BJP mastered WhatsApp and X. Now it is trying to crack Instagram",
-    "Jantar Mantar protest highlights: Massive crowd, RAF at Jantar Mantar for 'Reservation Hatao' protest; several detained | Hindustan Times",
-    "Plea In Supreme Court Challenges Manan Kumar Mishra's Tenure As BCI Chairman, Seeks Audit Of BCI Finances ...",
+    "Inside BJP’s 10-point Vande Mataram resolution: ‘No vote bank' politics, cites Mahatma Gandhi’s ‘anti-imperialist cry’ | India News",
+    "Anti-reservation protest draws large crowd at Delhi’s Jantar Mantar; several detained",
     "Adobe Techie Had A Fight With Wife. His In-Laws Thrashed Him To Death",
+    "Boy dies after dispute over iPhone with parents; couple die trying to save him",
+    "Iran says new US sanctions violate sovereignty of other states",
     "2 Killed, Several Injured As Under-Construction Building Collapses In Hyderabad",
-    "Rahul Gandhi protest in Delhi highlights: Rahul ends over-6-hour dharna after FIR registered on pellet victim’s complaint",
+    "Karnataka imposes one-year ban on analogue paneer; FDA cites public health concerns",
     "Jadavpur MLA Sarbori Mukherjee changes tune on university violence, distances BJP from ABVP",
-    "\"They Have Their Own Agenda\": India Slams US Body Seeking Sanctions On RSS",
+    "HM Amit Shah lauds West Bengal govt. for handing over 1,129 acres for India-Bangladesh border fencing",
     "Pentagon fires US military newspaper leadership",
-    "Iran slams fresh US sanctions, warns of threat to sovereignty: 'Full-scale colonialism'",
-    "West Asia LIVE: Trump says Iran not ready to make the 'right deal'",
-    "Lindsay Clancy trial update: Defense rests after psychiatrist testimony in case of mom who killed kids",
+    "Pakistan’s PTI seeks contempt action over jailed Imran Khan’s hospital move",
+    "Iran Seeks Agreement But \"Not Ready To Make Right Deal\": Trump",
+    "Lindsay Clancy’s Chilling Words After Killing Her Children",
+    "FCNR-B deposit inflows cross $65 billion ahead of August 31 deadline, says RBI",
+    "India, Mauritius sign long-term fuel supply pact; IOC to meet entire import requirement",
     "43 Lakh Cars Recalled In China Over Flush Door Handle Safety Concerns",
-    "Sugar output may dip 11% from initial estimate: Government",
-    "FPIs flip to buyers in Auto after months of selling; Financials see strong return of foreign money",
-    "Stock Market Highlights, Sensex Today: Sensex, Nifty Settle Flat Amid Mixed Global Cues",
-    "Apple Loop: iPhone 18 Pro Profit, Critical iOS Update, MacBook Ultra Spec Details",
-    "GTA 6 hit by sixth gameplay leak as CyberLeek threatens more footage",
+    "India gets $511.5 million in FDI under new policy for neighbouring countries",
+    "iPhone 18 Pro Max: Price in India, launch date, camera upgrade, new processor and more we know ahead of...",
     "Call of Duty: Modern Warfare 4 Switch 2 60 fps performance impresses in first video",
-    "Samsung Galaxy Z Flip8 unboxing - GSMArena.com news",
-    "Saba Pataudi Reacts To Kareena Kapoor Khan's Pregnancy Buzz, Wishes Soha Ali Khan Had A Second Child Instead",
-    "Actor Sowcar Janaki dies at 94",
-    "Who is Gabriella Demetriades? All about Arjun Rampal's wife, from South African model to fashion entrepre"
+    "Take-Two subpoenas Microsoft and Discord to identify GTA VI leaker",
+    "Chinese Hacker Uses DeepSeek AI to Automate Vulnerability Exploitation",
+    "Kareena Kapoor’s sister-in-law Saba dismisses actor’s pregnancy rumours: ‘A bad angle’",
+    "Rajesh Kumar was in Rs 2 cr debt after quitting acting upon Sadhguru’s advice: ‘Not failure’",
+    "‘Sowcar’ Janaki, the versatile face of Tamil cinema known for majestic roles and finesses"
   ],
   "quiz": [
     {
-      "blanked": "2 Killed, Several ______ As Under-Construction Building Collapses In Hyderabad",
-      "answer": "Injured",
+      "blanked": "Call of Duty: Modern Warfare 4 ______ 2 60 fps performance impresses in first video",
+      "answer": "Switch",
       "options": [
-        "Injured",
-        "Lausanne",
-        "Audit",
-        "Mataram"
+        "Switch",
+        "Flush",
+        "PTI",
+        "Spouses"
       ]
     },
     {
-      "blanked": "Why NASA is adding the Nancy ______ Roman telescope to its fleet",
-      "answer": "Grace",
+      "blanked": "Karnataka imposes one-year ban on analogue paneer; ______ cites public health concerns",
+      "answer": "FDA",
       "options": [
-        "Grace",
-        "All",
-        "Slams",
-        "Multiple"
+        "FDA",
+        "Progressive",
+        "Outbreak",
+        "Imran"
       ]
     },
     {
-      "blanked": "Meet 11-year-old ______ Sood, the Indian student credited with three preliminary asteroid detections; How",
-      "answer": "Atharv",
+      "blanked": "Chinese Hacker ______ DeepSeek AI to Automate Vulnerability Exploitation",
+      "answer": "Uses",
       "options": [
-        "Atharv",
-        "Own",
-        "Need",
-        "BCI"
+        "Uses",
+        "Just",
+        "Standings",
+        "Pro"
       ]
     },
     {
-      "blanked": "All Indian Cine Workers Association backs Satendra ______ as he files FIR against filmmaker couple over assault | Bollywood",
-      "answer": "Soni",
+      "blanked": "Kareena ______ sister-in-law Saba dismisses actor’s pregnancy rumours: ‘A bad angle’",
+      "answer": "Kapoors",
       "options": [
-        "Today",
-        "Body",
-        "Soni",
-        "Conditions"
-      ]
-    },
-    {
-      "blanked": "Jantar Mantar protest highlights: Massive crowd, ______ at Jantar Mantar for 'Reservation Hatao' protest; several detained | Hindustan Times",
-      "answer": "RAF",
-      "options": [
-        "Instagram",
-        "All",
-        "Rahul",
-        "RAF"
-      ]
-    },
-    {
-      "blanked": "Plea In Supreme Court Challenges ______ Kumar Mishra's Tenure As BCI Chairman, Seeks Audit Of BCI Finances ...",
-      "answer": "Manan",
-      "options": [
-        "Jantar",
-        "Multiple",
-        "Cine",
-        "Manan"
-      ]
-    },
-    {
-      "blanked": "Actor ______ Janaki dies at 94",
-      "answer": "Sowcar",
-      "options": [
+        "Just",
+        "Rampal",
         "Duty",
-        "Sowcar",
-        "Nifty",
-        "LIVE"
+        "Kapoors"
       ]
     },
     {
-      "blanked": "Trump to award NASA's ______ II astronauts the Congressional Space Medal of Honor",
-      "answer": "Artemis",
+      "blanked": "Rajesh Kumar was in Rs 2 cr debt after quitting acting upon Sadhguru’s advice: ______ failure’",
+      "answer": "Not",
       "options": [
-        "Arjun",
-        "Reacts",
-        "Artemis",
-        "Full-scale"
+        "Concerns",
+        "Not",
+        "Kapoors",
+        "Progressive"
       ]
     },
     {
-      "blanked": "Stock Market Highlights, Sensex ______ Sensex, Nifty Settle Flat Amid Mixed Global Cues",
-      "answer": "Today",
+      "blanked": "'Rankings do not matter': Under fire ______ Gambhir says India 'not struggling' in Tests",
+      "answer": "Gautam",
       "options": [
-        "Modern",
-        "Safety",
-        "Government",
-        "Today"
+        "Gautam",
+        "Children",
+        "Partners",
+        "News"
       ]
     },
     {
-      "blanked": "Women with Multiple Health Conditions Face ______ Miscarriage Risk",
-      "answer": "Higher",
+      "blanked": "H1N1 alert: Health ministry lists symptoms to look for as Delhi crosses ______ cases",
+      "answer": "1700",
       "options": [
-        "Door",
-        "Mataram",
-        "Congress",
-        "Higher"
+        "Just",
+        "Canadian",
+        "GTA",
+        "1700"
       ]
     },
     {
-      "blanked": "Saba Pataudi Reacts To ______ Kapoor Khan's Pregnancy Buzz, Wishes Soha Ali Khan Had A Second Child Instead",
-      "answer": "Kareena",
+      "blanked": "Data Shows ______ Ebola Outbreak Is On Track To Surpass History's Largest",
+      "answer": "Congos",
       "options": [
-        "MLA",
-        "ABVP",
-        "Agenda",
-        "Kareena"
+        "Sadhgurus",
+        "Congos",
+        "Mukherjee",
+        "Price"
       ]
     },
     {
-      "blanked": "FPIs flip to buyers in Auto after months of selling; ______ see strong return of foreign money",
-      "answer": "Financials",
+      "blanked": "India vs Sri Lanka Preview: ______ aim for much of the same in change of scenery",
+      "answer": "India",
       "options": [
-        "Spec",
-        "Primary",
-        "China",
-        "Financials"
+        "Manhattan-Sized",
+        "Surpass",
+        "Warfare",
+        "India"
+      ]
+    },
+    {
+      "blanked": "iPhone 18 ______ Max: Price in India, launch date, camera upgrade, new processor and more we know ahead of...",
+      "answer": "Pro",
+      "options": [
+        "Under-Construction",
+        "Surpass",
+        "Handle",
+        "Pro"
+      ]
+    },
+    {
+      "blanked": "FIH Men’s Hockey World Cup 2026 Second Round — LIVE Standings, ______ Results",
+      "answer": "Schedule",
+      "options": [
+        "Trump",
+        "Vande",
+        "Schedule",
+        "Had"
+      ]
+    },
+    {
+      "blanked": "Take-Two subpoenas Microsoft and ______ to identify GTA VI leaker",
+      "answer": "Discord",
+      "options": [
+        "Hockey",
+        "Mantar",
+        "Discord",
+        "Duty"
       ]
     }
   ]
