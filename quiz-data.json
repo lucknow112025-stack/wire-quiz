@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-22T19:52:11.670Z",
+  "generatedAt": "2026-08-22T20:52:00.518Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "\"We Got Attacked\": Canada's Carney Says US Launched 'Trade War'",
+    "'Unfair': Canada suspends trade talks with US, PM Carney says will match tariffs 'dollar for dollar'",
     "Singapore-Bound Cargo Ship With 24 Crew Members Sinks Off Odisha Coast",
     "Gen Z: India's BJP mastered WhatsApp and X. Now it is trying to crack Instagram",
     "BCI chairman faces fresh pressure as co-chairman seeks resignation",
     "Inside BJP’s 10-point Vande Mataram resolution: ‘No vote bank' politics, cites Mahatma Gandhi’s ‘anti-imperialist cry’ | India News",
     "‘Declaration Of War On All Nations’: Iran’s Fiery Response To New US Sanctions, Warns Of ‘Colonialism’",
-    "Boy dies after dispute over iPhone with parents; couple die trying to save him",
     "In Leaked Audio, Gangster Goldy Brar Claims He Killed Hardeep Nijjar In Canada",
-    "Student, 31, Jumps To Death From 6th Floor At IIT Delhi",
-    "India ends boarding pass stamping for international travellers from September 1",
-    "Canada gurdwara stabbing: Two injured in Edmonton, PM Carney calls attack 'appalling'",
+    "Jadavpur MLA Sarbori Mukherjee changes tune on university violence, distances BJP from ABVP",
+    "India to end boarding pass stamping at airports for international travellers from September 1",
+    "Teenager, parents die after falling from Maharashtra hill amid iPhone EMI dispute",
     "Pakistan’s PTI seeks contempt action over jailed Imran Khan’s hospital move",
+    "‘Opened Pandora’s box’: Putin’s big warning after Ukraine hits Russian economic infrastructure",
     "2 Cops Among 7 Killed After Vehicle Rams Police Car In England",
-    "EAM downplays Pakistan-Turkey-Saudi defence pact: ‘What has it done amid live military situations in these countries?’ | India News",
-    "RBI forex swap facility attracts $72.85 billion inflows as of August 21",
+    "2 injured in gurdwara stabbing in Canada's Edmonton; PM Carney calls attack 'appalling' | World News",
     "Sebi proposes fixed-income channel partners framework to expand retail access to bonds",
     "Gold (XAU/USD) Price Forecast: Breakout Opens Path Toward $4,891",
     "India gets $511.5 million in FDI under new policy for neighbouring countries",
-    "My favourite student discounts",
+    "RBI forex swap facility attracts $72.85 billion inflows as of August 21",
     "How Apple’s iPhone 18 Pro Launch Date Crushes The Competition",
-    "iPhone 18 Pro & More: Did Apple Accidentally Leak Over 10 Unannounced Devices In macOS 26.7 Code?",
     "GTA 6 hit by sixth gameplay leak as CyberLeek threatens more footage",
-    "Kareena Kapoor’s sister-in-law Saba dismisses actor’s pregnancy rumours: ‘A bad angle’",
+    "My favourite student discounts",
+    "Call of Duty: Modern Warfare 4 Switch 2 60 fps performance impresses in first video",
+    "Mohsin Khan announces engagement to partner Tamanna",
     "Ranveer Singh thanks Ambani family for backing Dhurandhar when his films weren't working: ‘Nothing short of a blessing’ | Bollywood",
-    "Mohsin Khan announces engagement to partner Tamanna"
+    "Kareena Kapoor’s sister-in-law Saba dismisses actor’s pregnancy rumours: ‘A bad angle’"
   ],
   "quiz": [
     {
-      "blanked": "‘Declaration Of War On All Nations’: Iran’s Fiery Response To New US ______ Warns Of ‘Colonialism’",
-      "answer": "Sanctions",
+      "blanked": "Gambhir stresses on picking 20 wickets amid ______ uncertainty",
+      "answer": "Kuldeep",
       "options": [
-        "Canadas",
-        "Sanctions",
-        "Aphasia",
-        "Claims"
-      ]
-    },
-    {
-      "blanked": "GTA 6 hit by sixth gameplay leak as ______ threatens more footage",
-      "answer": "CyberLeek",
-      "options": [
-        "72.85",
-        "Called",
         "CyberLeek",
-        "Death"
+        "Mataram",
+        "Kuldeep",
+        "Dhurandhar"
       ]
     },
     {
-      "blanked": "A Manhattan-Sized Ice Island Just Broke Off ______",
-      "answer": "Greenland",
+      "blanked": "Gold (XAU/USD) Price Forecast: Breakout Opens ______ Toward $4,891",
+      "answer": "Path",
       "options": [
-        "Date",
-        "Dhurandhar",
-        "Cargo",
-        "Greenland"
+        "Crushes",
+        "Path",
+        "Goldy",
+        "Khans"
       ]
     },
     {
-      "blanked": "Strange ______ Called Long-period Radio Transits Come From Cataclysmic Variables",
-      "answer": "Signals",
+      "blanked": "Call of ______ Modern Warfare 4 Switch 2 60 fps performance impresses in first video",
+      "answer": "Duty",
       "options": [
-        "Imran",
-        "Forecast",
-        "Signals",
-        "Variables"
+        "Duty",
+        "Sanctions",
+        "Now",
+        "Awareness"
       ]
     },
     {
-      "blanked": "Pakistan’s PTI seeks contempt action over jailed ______ Khan’s hospital move",
-      "answer": "Imran",
+      "blanked": "RBI forex swap facility attracts ______ billion inflows as of August 21",
+      "answer": "72.85",
       "options": [
-        "Floor",
-        "Individual",
-        "Imran",
-        "Fiery"
-      ]
-    },
-    {
-      "blanked": "Singapore-Bound Cargo ______ With 24 Crew Members Sinks Off Odisha Coast",
-      "answer": "Ship",
-      "options": [
-        "Cops",
-        "Gangster",
-        "WhatsApp",
-        "Ship"
-      ]
-    },
-    {
-      "blanked": "Ranveer ______ thanks Ambani family for backing Dhurandhar when his films weren't working: ‘Nothing short of a blessing’ | Bollywood",
-      "answer": "Singh",
-      "options": [
-        "Dhurandhar",
-        "Off",
-        "Radio",
-        "Singh"
-      ]
-    },
-    {
-      "blanked": "Mackay joins the list of 'helter-skelter' days in ______ cricket",
-      "answer": "Australian",
-      "options": [
-        "Tamanna",
-        "Australian",
-        "Opens",
-        "Path"
+        "Ukraine",
+        "Irans",
+        "72.85",
+        "Warfare"
       ]
     },
     {
       "blanked": "Kareena Kapoor’s sister-in-law ______ dismisses actor’s pregnancy rumours: ‘A bad angle’",
       "answer": "Saba",
       "options": [
-        "More",
-        "Island",
-        "Killed",
-        "Saba"
+        "Khan",
+        "Saba",
+        "Profiles",
+        "Janaki"
       ]
     },
     {
-      "blanked": "India gets ______ million in FDI under new policy for neighbouring countries",
-      "answer": "511.5",
+      "blanked": "Pakistan’s ______ seeks contempt action over jailed Imran Khan’s hospital move",
+      "answer": "PTI",
       "options": [
-        "Awareness",
-        "511.5",
-        "Toxic",
-        "Aphasia"
+        "Colonialism",
+        "ABVP",
+        "PTI",
+        "Car"
       ]
     },
     {
-      "blanked": "India's health ministry lists symptoms to watch for H1N1 as infections rise in ______",
-      "answer": "Delhi",
+      "blanked": "Sowcar Janaki, the versatile face of ______ cinema known for majestic roles and finesses",
+      "answer": "Tamil",
       "options": [
-        "Greenland",
-        "Off",
-        "Trade",
-        "Delhi"
+        "Tamil",
+        "Stenosis",
+        "India",
+        "Organised"
       ]
     },
     {
-      "blanked": "Mohsin ______ announces engagement to partner Tamanna",
-      "answer": "Khan",
+      "blanked": "2 Cops Among 7 Killed After Vehicle Rams ______ Car In England",
+      "answer": "Police",
       "options": [
-        "BJPs",
-        "Members",
-        "Edmonton",
-        "Khan"
+        "Kuldeep",
+        "Date",
+        "Police",
+        "511.5"
+      ]
+    },
+    {
+      "blanked": "‘Opened Pandora’s box’: Putin’s big warning after ______ hits Russian economic infrastructure",
+      "answer": "Ukraine",
+      "options": [
+        "Called",
+        "Instagram",
+        "Vande",
+        "Ukraine"
+      ]
+    },
+    {
+      "blanked": "Teenager, parents die after falling from ______ hill amid iPhone EMI dispute",
+      "answer": "Maharashtra",
+      "options": [
+        "Police",
+        "Odisha",
+        "Apples",
+        "Maharashtra"
+      ]
+    },
+    {
+      "blanked": "Type 2 Diabetes ______ Clinical Aortic Stenosis Progression",
+      "answer": "Accelerates",
+      "options": [
+        "Accelerates",
+        "Netherlands",
+        "Badminton",
+        "Called"
+      ]
+    },
+    {
+      "blanked": "Jadavpur ______ Sarbori Mukherjee changes tune on university violence, distances BJP from ABVP",
+      "answer": "MLA",
+      "options": [
+        "MLA",
+        "Badminton",
+        "Profiles",
+        "Russian"
       ]
     }
   ]
