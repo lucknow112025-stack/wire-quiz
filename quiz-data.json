@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-23T00:01:27.614Z",
+  "generatedAt": "2026-08-23T03:32:26.982Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "Panama-flagged cargo ship carrying 24 on board sinks off Odisha coast",
-    "US imposes 50% tariffs on Canada products as talks fail, Carney vows to match them ‘dollar for dollar’ | World News",
-    "Gen Z: India's BJP mastered WhatsApp and X. Now it is trying to crack Instagram",
-    "‘Declaration Of War On All Nations’: Iran’s Fiery Response To New US Sanctions, Warns Of ‘Colonialism’",
-    "BCI chairman faces fresh pressure as co-chairman seeks resignation",
-    "Anti-reservation protest draws large crowd at Delhi’s Jantar Mantar; several detained",
-    "In Leaked Audio, Gangster Goldy Brar Claims He Killed Hardeep Nijjar In Canada",
-    "Jadavpur MLA Sarbori Mukherjee changes tune on university violence, distances BJP from ABVP",
-    "Two Killed as Illegal Building Collapses in Anjaiahnagar",
-    "Boy dies after dispute over iPhone with parents; couple die trying to save him",
+    "Iran warns nearby nations against joining US ‘economic war’ efforts",
+    "Singapore-Bound Cargo Ship With 24 Crew Members Sinks Off Odisha Coast",
+    "FIR registered against Abhijeet Dipke for 'entering government school without permission, threatening teachers'",
+    "'Unfair': Canada suspends trade talks with US, PM Carney says will match tariffs 'dollar for dollar'",
+    "India’s monsoon weakens, IMD predicts below-normal rain for next two weeks | India News",
+    "Trump declares Strait of Hormuz 'American territory' amid Iran tensions",
+    "‘Vote-bank politics’: What BJP’s new Vande Mataram resolution says about Congress, 6 stanzas | India News",
+    "BJP forms Gen Z outreach team: Nitin Nabin, Smriti Irani key faces",
+    "'Real Learning Happens In Courtroom, No Matter How Much You Read In College' : Justice Sanjay Karol To...",
+    "Sikh protesters burn Rahul Gandhi effigy over Sajjan Kumar ‘role model’ remark",
+    "Gulf states hosting US bases ‘supported’ attack: Iran official",
+    "Natalie Harp 'seen running behind Trump's golf cart' in 'saddest' photo amid intimate letters; 'Feel bad for her' | Hindustan Times",
+    "At least 14 people missing after migrant boat headed for Italy capsizes",
     "Ukraine says 'cynical' Russian strike on shopping centre killed 16",
-    "EAM downplays Pakistan-Turkey-Saudi defence pact: ‘What has it done amid live military situations in these countries?’ | India News",
-    "'We are in a position of power': Iran's Pezeshkian seeks end to US war, claims victory",
-    "Israel and Turkey edge towards a dangerous miscalculation over Syria",
     "US: What’s Pushing Long-Term Bond Yields Higher?",
-    "Sebi proposes fixed-income channel partners framework to expand retail access to bonds",
     "Collections under RBI's dollar swap scheme exceed $72.8 billion",
-    "Gold (XAU/USD) Price Forecast: Breakout Opens Path Toward $4,891",
+    "Bitcoin nears $80,000 amid biggest weekly rally in three years",
+    "Trump stock disclosure shows more than 1,000 trades in June",
     "Please don’t buy Google’s wildly overpriced Pixel 11 Clear Case",
     "How Apple’s iPhone 18 Pro Launch Date Crushes The Competition",
-    "GTA 6 hit by sixth gameplay leak as CyberLeek threatens more footage",
-    "Infinix HOT 70 Pro 5G India Launch Set for September 4 With Dynamic Shine Design",
+    "Take-Two seeks Microsoft and Discord’s help to track down GTA 6 leaker who released clips ahead of Netfli",
+    "Modern Warfare 4 Beta 2-Weekend Test Expands Access",
     "Yeh Rishta Kya Kehlata Hai actor Mohsin Khan gets engaged to Tamanna, fiancée flaunts huge diamond ring;",
-    "Ranveer Singh thanks Ambani family for backing Dhurandhar when his films weren't working: ‘Nothing short of a blessing’ | Bollywood",
+    "Taapsee Pannu says she’s never met Kangana Ranaut, addresses their past feud: ‘A reflection of our upbringings’ | Bollywood",
     "Toxic Advance Booking: Yash's Film Sells Over 2.6 Lakh Tickets, Nears Rs 20 Crore"
   ],
   "quiz": [
     {
-      "blanked": "Trump to honour ______ II crew for historic mission",
-      "answer": "Artemis",
+      "blanked": "Gulf states hosting US bases ‘supported’ attack: ______ official",
+      "answer": "Iran",
       "options": [
-        "Apples",
-        "Cosmic",
-        "Artemis",
-        "Saba"
+        "Smriti",
+        "Iran",
+        "Harp",
+        "Members"
+      ]
+    },
+    {
+      "blanked": "India’s monsoon weakens, IMD predicts below-normal rain for next two weeks | India ______",
+      "answer": "News",
+      "options": [
+        "2.6",
+        "Clear",
+        "News",
+        "Abhijeet"
+      ]
+    },
+    {
+      "blanked": "Trump stock disclosure shows more than ______ trades in June",
+      "answer": "1000",
+      "options": [
+        "Happens",
+        "Adenot",
+        "Film",
+        "1000"
+      ]
+    },
+    {
+      "blanked": "Collections under RBI's dollar swap scheme exceed ______ billion",
+      "answer": "72.8",
+      "options": [
+        "72.8",
+        "Diabetes",
+        "Stenosis",
+        "Happens"
+      ]
+    },
+    {
+      "blanked": "Sikh protesters burn Rahul Gandhi effigy over Sajjan ______ ‘role model’ remark",
+      "answer": "Kumar",
+      "options": [
+        "Kumar",
+        "Crew",
+        "Microsoft",
+        "Test"
+      ]
+    },
+    {
+      "blanked": "Taapsee Pannu says she’s never met ______ Ranaut, addresses their past feud: ‘A reflection of our upbringings’ | Bollywood",
+      "answer": "Kangana",
+      "options": [
+        "Expands",
+        "Competition",
+        "Cargo",
+        "Kangana"
+      ]
+    },
+    {
+      "blanked": "White Dwarf-Red Dwarf ______ Power Cosmic Lasers",
+      "answer": "Binaries",
+      "options": [
+        "August",
+        "Binaries",
+        "Much",
+        "Kumar"
+      ]
+    },
+    {
+      "blanked": "Modern Warfare 4 Beta 2-Weekend Test Expands ______",
+      "answer": "Access",
+      "options": [
+        "Access",
+        "Silva",
+        "Carney",
+        "Bond"
       ]
     },
     {
       "blanked": "US: What’s Pushing ______ Bond Yields Higher?",
       "answer": "Long-Term",
       "options": [
-        "Set",
-        "Kehlata",
-        "Long-Term",
-        "Rishta"
-      ]
-    },
-    {
-      "blanked": "CONFIRMED lineups: Espanyol vs Real Madrid, 2026 La ______",
-      "answer": "Liga",
-      "options": [
-        "Profiles",
-        "Kehlata",
-        "Liga",
-        "Now"
-      ]
-    },
-    {
-      "blanked": "Gambhir stresses on picking 20 wickets amid ______ uncertainty",
-      "answer": "Kuldeep",
-      "options": [
-        "Kuldeep",
-        "Path",
-        "72.8",
-        "Higher"
-      ]
-    },
-    {
-      "blanked": "India's health ministry lists symptoms to watch for H1N1 as infections rise in ______",
-      "answer": "Delhi",
-      "options": [
-        "Delhi",
-        "Launch",
-        "Speech",
-        "Bollywood"
-      ]
-    },
-    {
-      "blanked": "Gold (XAU/USD) Price Forecast: ______ Opens Path Toward $4,891",
-      "answer": "Breakout",
-      "options": [
-        "Breakout",
-        "Sanctions",
-        "Long-Term",
-        "2.6"
-      ]
-    },
-    {
-      "blanked": "Jadavpur MLA ______ Mukherjee changes tune on university violence, distances BJP from ABVP",
-      "answer": "Sarbori",
-      "options": [
-        "Clear",
-        "Carney",
-        "Sarbori",
-        "Netherlands"
-      ]
-    },
-    {
-      "blanked": "Ukraine says 'cynical' ______ strike on shopping centre killed 16",
-      "answer": "Russian",
-      "options": [
+        "2.6",
         "Adenot",
-        "Turkey",
-        "Russian",
-        "Clinical"
+        "Long-Term",
+        "College"
       ]
     },
     {
-      "blanked": "In Leaked Audio, Gangster Goldy ______ Claims He Killed Hardeep Nijjar In Canada",
-      "answer": "Brar",
+      "blanked": "Mackay joins the list of 'helter-skelter' days in ______ cricket",
+      "answer": "Australian",
       "options": [
-        "Nijjar",
-        "Progressive",
-        "Brar",
-        "Khan"
+        "Diabetes",
+        "Bollywood",
+        "Australian",
+        "Pannu"
       ]
     },
     {
-      "blanked": "DR Congo capital wary of ______ nightmare",
-      "answer": "Ebola",
+      "blanked": "Natalie ______ 'seen running behind Trump's golf cart' in 'saddest' photo amid intimate letters; 'Feel bad for her' | Hindustan Times",
+      "answer": "Harp",
       "options": [
-        "Audio",
-        "Breakout",
-        "Ebola",
-        "Googles"
+        "Gautam",
+        "Rishta",
+        "Bollywood",
+        "Harp"
       ]
     },
     {
-      "blanked": "Synchronized Stars ______ Cosmic Radio Laser",
-      "answer": "Power",
+      "blanked": "'Real Learning Happens In Courtroom, No Matter ______ Much You Read In College' : Justice Sanjay Karol To...",
+      "answer": "How",
       "options": [
-        "Power",
-        "Killed",
-        "Clear",
-        "Competition"
-      ]
-    },
-    {
-      "blanked": "Hockey ______ Cup: India's semifinal hopes end after 1-3 loss to Netherlands",
-      "answer": "World",
-      "options": [
-        "Price",
-        "World",
-        "Primary",
-        "Aphasia"
+        "How",
+        "Courtroom",
+        "American",
+        "Pushing"
       ]
     }
   ]
