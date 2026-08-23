@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T23:39:32.998Z",
+  "generatedAt": "2026-08-23T00:01:27.614Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
@@ -7,16 +7,16 @@
     "US imposes 50% tariffs on Canada products as talks fail, Carney vows to match them ‘dollar for dollar’ | World News",
     "Gen Z: India's BJP mastered WhatsApp and X. Now it is trying to crack Instagram",
     "‘Declaration Of War On All Nations’: Iran’s Fiery Response To New US Sanctions, Warns Of ‘Colonialism’",
-    "Trump declares Strait of Hormuz 'American territory' amid Iran tensions",
     "BCI chairman faces fresh pressure as co-chairman seeks resignation",
+    "Anti-reservation protest draws large crowd at Delhi’s Jantar Mantar; several detained",
     "In Leaked Audio, Gangster Goldy Brar Claims He Killed Hardeep Nijjar In Canada",
     "Jadavpur MLA Sarbori Mukherjee changes tune on university violence, distances BJP from ABVP",
-    "Boy dies after dispute over iPhone with parents; couple die trying to save him",
     "Two Killed as Illegal Building Collapses in Anjaiahnagar",
+    "Boy dies after dispute over iPhone with parents; couple die trying to save him",
     "Ukraine says 'cynical' Russian strike on shopping centre killed 16",
     "EAM downplays Pakistan-Turkey-Saudi defence pact: ‘What has it done amid live military situations in these countries?’ | India News",
-    "Israel and Turkey edge towards a dangerous miscalculation over Syria",
     "'We are in a position of power': Iran's Pezeshkian seeks end to US war, claims victory",
+    "Israel and Turkey edge towards a dangerous miscalculation over Syria",
     "US: What’s Pushing Long-Term Bond Yields Higher?",
     "Sebi proposes fixed-income channel partners framework to expand retail access to bonds",
     "Collections under RBI's dollar swap scheme exceed $72.8 billion",
@@ -31,73 +31,43 @@
   ],
   "quiz": [
     {
-      "blanked": "China’s Chang’e-7 mission to search for water at ______ south pole",
-      "answer": "Moons",
+      "blanked": "Trump to honour ______ II crew for historic mission",
+      "answer": "Artemis",
       "options": [
-        "MLA",
-        "Moons",
-        "Brar",
-        "Liga"
+        "Apples",
+        "Cosmic",
+        "Artemis",
+        "Saba"
       ]
     },
     {
-      "blanked": "Two ______ as Illegal Building Collapses in Anjaiahnagar",
-      "answer": "Killed",
+      "blanked": "US: What’s Pushing ______ Bond Yields Higher?",
+      "answer": "Long-Term",
       "options": [
-        "Gangster",
-        "Strait",
-        "All",
-        "Killed"
+        "Set",
+        "Kehlata",
+        "Long-Term",
+        "Rishta"
       ]
     },
     {
-      "blanked": "Hockey ______ Cup: India's semifinal hopes end after 1-3 loss to Netherlands",
-      "answer": "World",
+      "blanked": "CONFIRMED lineups: Espanyol vs Real Madrid, 2026 La ______",
+      "answer": "Liga",
       "options": [
-        "4891",
-        "ISS",
-        "Espanyol",
-        "World"
+        "Profiles",
+        "Kehlata",
+        "Liga",
+        "Now"
       ]
     },
     {
-      "blanked": "Ranveer Singh thanks Ambani family for backing Dhurandhar when his films weren't working: ______ short of a blessing’ | Bollywood",
-      "answer": "Nothing",
+      "blanked": "Gambhir stresses on picking 20 wickets amid ______ uncertainty",
+      "answer": "Kuldeep",
       "options": [
-        "Nothing",
-        "Espanyol",
         "Kuldeep",
-        "Goldy"
-      ]
-    },
-    {
-      "blanked": "Gold (XAU/USD) Price ______ Breakout Opens Path Toward $4,891",
-      "answer": "Forecast",
-      "options": [
-        "French",
-        "ISS",
-        "Forecast",
-        "Netherlands"
-      ]
-    },
-    {
-      "blanked": "Yeh Rishta Kya Kehlata ______ actor Mohsin Khan gets engaged to Tamanna, fiancée flaunts huge diamond ring;",
-      "answer": "Hai",
-      "options": [
-        "Hai",
-        "Colonialism",
-        "Instagram",
-        "Audio"
-      ]
-    },
-    {
-      "blanked": "Israel and ______ edge towards a dangerous miscalculation over Syria",
-      "answer": "Turkey",
-      "options": [
-        "Turkey",
         "Path",
-        "Crore",
-        "Whats"
+        "72.8",
+        "Higher"
       ]
     },
     {
@@ -105,49 +75,79 @@
       "answer": "Delhi",
       "options": [
         "Delhi",
-        "Sells",
+        "Launch",
+        "Speech",
+        "Bollywood"
+      ]
+    },
+    {
+      "blanked": "Gold (XAU/USD) Price Forecast: ______ Opens Path Toward $4,891",
+      "answer": "Breakout",
+      "options": [
+        "Breakout",
+        "Sanctions",
+        "Long-Term",
+        "2.6"
+      ]
+    },
+    {
+      "blanked": "Jadavpur MLA ______ Mukherjee changes tune on university violence, distances BJP from ABVP",
+      "answer": "Sarbori",
+      "options": [
+        "Clear",
+        "Carney",
+        "Sarbori",
+        "Netherlands"
+      ]
+    },
+    {
+      "blanked": "Ukraine says 'cynical' ______ strike on shopping centre killed 16",
+      "answer": "Russian",
+      "options": [
+        "Adenot",
+        "Turkey",
+        "Russian",
+        "Clinical"
+      ]
+    },
+    {
+      "blanked": "In Leaked Audio, Gangster Goldy ______ Claims He Killed Hardeep Nijjar In Canada",
+      "answer": "Brar",
+      "options": [
         "Nijjar",
-        "All"
+        "Progressive",
+        "Brar",
+        "Khan"
       ]
     },
     {
-      "blanked": "Type 2 ______ Accelerates Clinical Aortic Stenosis Progression",
-      "answer": "Diabetes",
+      "blanked": "DR Congo capital wary of ______ nightmare",
+      "answer": "Ebola",
       "options": [
-        "WhatsApp",
-        "Anjaiahnagar",
-        "Diabetes",
-        "4891"
+        "Audio",
+        "Breakout",
+        "Ebola",
+        "Googles"
       ]
     },
     {
-      "blanked": "Trump to honour ______ II crew for historic mission",
-      "answer": "Artemis",
+      "blanked": "Synchronized Stars ______ Cosmic Radio Laser",
+      "answer": "Power",
       "options": [
-        "Booking",
-        "What",
-        "Artemis",
-        "Syria"
-      ]
-    },
-    {
-      "blanked": "Jadavpur ______ Sarbori Mukherjee changes tune on university violence, distances BJP from ABVP",
-      "answer": "MLA",
-      "options": [
-        "MLA",
+        "Power",
         "Killed",
-        "Tamanna",
-        "Aphasia"
+        "Clear",
+        "Competition"
       ]
     },
     {
-      "blanked": "CONFIRMED lineups: Espanyol vs Real Madrid, ______ La Liga",
-      "answer": "2026",
+      "blanked": "Hockey ______ Cup: India's semifinal hopes end after 1-3 loss to Netherlands",
+      "answer": "World",
       "options": [
-        "Congo",
-        "September",
-        "Higher",
-        "2026"
+        "Price",
+        "World",
+        "Primary",
+        "Aphasia"
       ]
     }
   ]
