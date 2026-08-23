@@ -1,63 +1,103 @@
 {
-  "generatedAt": "2026-08-23T03:32:26.982Z",
+  "generatedAt": "2026-08-23T05:06:13.343Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
+    "\"We Got Attacked\": Canada's Carney Says US Launched 'Trade War'",
     "Iran warns nearby nations against joining US ‘economic war’ efforts",
-    "Singapore-Bound Cargo Ship With 24 Crew Members Sinks Off Odisha Coast",
-    "FIR registered against Abhijeet Dipke for 'entering government school without permission, threatening teachers'",
-    "'Unfair': Canada suspends trade talks with US, PM Carney says will match tariffs 'dollar for dollar'",
-    "India’s monsoon weakens, IMD predicts below-normal rain for next two weeks | India News",
-    "Trump declares Strait of Hormuz 'American territory' amid Iran tensions",
+    "India launches rescue operation as bulk carrier sinks off east coast",
+    "31-year-old Adobe techie beaten to death by wife’s family in Delhi",
+    "'Your angry face is their content': Delhi Police told how not to respond to new-gen protesters | India News",
+    "Rashtrapati Bhavan withdraws email on Bangladesh PM visit",
     "‘Vote-bank politics’: What BJP’s new Vande Mataram resolution says about Congress, 6 stanzas | India News",
-    "BJP forms Gen Z outreach team: Nitin Nabin, Smriti Irani key faces",
-    "'Real Learning Happens In Courtroom, No Matter How Much You Read In College' : Justice Sanjay Karol To...",
-    "Sikh protesters burn Rahul Gandhi effigy over Sajjan Kumar ‘role model’ remark",
+    "Old Videos Of Mother-Son Who Died Amid An Argument Over iPhone EMI Surface",
+    "BJP chief Nitin Nabin holds first meeting with new team ahead of polls",
+    "Anyone living in West Bengal will have to sing 'Vande Mataram': Suvendu Adhikari",
+    "Top US Army Official To Step Down After Months Of Tension With Hegseth: Report",
+    "'We are in a position of power': Iran's Pezeshkian seeks end to US war, claims victory",
     "Gulf states hosting US bases ‘supported’ attack: Iran official",
-    "Natalie Harp 'seen running behind Trump's golf cart' in 'saddest' photo amid intimate letters; 'Feel bad for her' | Hindustan Times",
-    "At least 14 people missing after migrant boat headed for Italy capsizes",
-    "Ukraine says 'cynical' Russian strike on shopping centre killed 16",
-    "US: What’s Pushing Long-Term Bond Yields Higher?",
+    "Trump Shares Map Of Strait Of Hormuz As \"New US Territory\", Again",
+    "Beyond Reactors: 2 niche engineering stocks in India’s 100 GW nuclear race",
     "Collections under RBI's dollar swap scheme exceed $72.8 billion",
-    "Bitcoin nears $80,000 amid biggest weekly rally in three years",
+    "US: What’s Pushing Long-Term Bond Yields Higher?",
     "Trump stock disclosure shows more than 1,000 trades in June",
-    "Please don’t buy Google’s wildly overpriced Pixel 11 Clear Case",
     "How Apple’s iPhone 18 Pro Launch Date Crushes The Competition",
-    "Take-Two seeks Microsoft and Discord’s help to track down GTA 6 leaker who released clips ahead of Netfli",
-    "Modern Warfare 4 Beta 2-Weekend Test Expands Access",
+    "Microsoft to all the students wondering whether it still is worth learning how to code, the answer is: No",
+    "Infinix HOT 70 Pro 5G India Launch Set for September 4 With Dynamic Shine Design",
+    "GTA 6 hit by sixth gameplay leak as CyberLeek threatens more footage",
     "Yeh Rishta Kya Kehlata Hai actor Mohsin Khan gets engaged to Tamanna, fiancée flaunts huge diamond ring;",
-    "Taapsee Pannu says she’s never met Kangana Ranaut, addresses their past feud: ‘A reflection of our upbringings’ | Bollywood",
+    "Govinda’s manager denies Sunita Ahuja’s claim, says ‘no second marriage’ with Komal Rani",
     "Toxic Advance Booking: Yash's Film Sells Over 2.6 Lakh Tickets, Nears Rs 20 Crore"
   ],
   "quiz": [
     {
-      "blanked": "Gulf states hosting US bases ‘supported’ attack: ______ official",
-      "answer": "Iran",
+      "blanked": "White Dwarf-Red Dwarf ______ Power Cosmic Lasers",
+      "answer": "Binaries",
       "options": [
-        "Smriti",
-        "Iran",
-        "Harp",
-        "Members"
+        "Report",
+        "Mother-Son",
+        "Down",
+        "Binaries"
       ]
     },
     {
-      "blanked": "India’s monsoon weakens, IMD predicts below-normal rain for next two weeks | India ______",
-      "answer": "News",
+      "blanked": "India's health ministry lists symptoms to watch for H1N1 as infections rise in ______",
+      "answer": "Delhi",
       "options": [
-        "2.6",
-        "Clear",
+        "Delhi",
+        "Espanyol",
+        "Queen",
+        "Gambhirs"
+      ]
+    },
+    {
+      "blanked": "GTA 6 hit by sixth gameplay leak as ______ threatens more footage",
+      "answer": "CyberLeek",
+      "options": [
+        "ISS",
+        "Tension",
+        "CyberLeek",
+        "Crushes"
+      ]
+    },
+    {
+      "blanked": "Govinda’s manager denies Sunita Ahuja’s claim, says ‘no second marriage’ with ______ Rani",
+      "answer": "Komal",
+      "options": [
+        "Higher",
+        "Komal",
+        "Adhikari",
+        "EMI"
+      ]
+    },
+    {
+      "blanked": "How Apple’s iPhone 18 Pro Launch Date ______ The Competition",
+      "answer": "Crushes",
+      "options": [
+        "Design",
+        "Crushes",
+        "Bangladesh",
+        "West"
+      ]
+    },
+    {
+      "blanked": "Yeh Rishta Kya Kehlata Hai actor Mohsin ______ gets engaged to Tamanna, fiancée flaunts huge diamond ring;",
+      "answer": "Khan",
+      "options": [
+        "Khan",
+        "Shine",
         "News",
-        "Abhijeet"
+        "Videos"
       ]
     },
     {
-      "blanked": "Trump stock disclosure shows more than ______ trades in June",
-      "answer": "1000",
+      "blanked": "BJP chief ______ Nabin holds first meeting with new team ahead of polls",
+      "answer": "Nitin",
       "options": [
-        "Happens",
-        "Adenot",
-        "Film",
-        "1000"
+        "Dwarf-Red",
+        "Indias",
+        "Nitin",
+        "Power"
       ]
     },
     {
@@ -65,89 +105,49 @@
       "answer": "72.8",
       "options": [
         "72.8",
-        "Diabetes",
-        "Stenosis",
-        "Happens"
+        "Bhavan",
+        "Nabin",
+        "Long-Term"
       ]
     },
     {
-      "blanked": "Sikh protesters burn Rahul Gandhi effigy over Sajjan ______ ‘role model’ remark",
-      "answer": "Kumar",
+      "blanked": "Old Videos Of ______ Who Died Amid An Argument Over iPhone EMI Surface",
+      "answer": "Mother-Son",
       "options": [
-        "Kumar",
-        "Crew",
-        "Microsoft",
-        "Test"
+        "Film",
+        "What",
+        "Rani",
+        "Mother-Son"
       ]
     },
     {
-      "blanked": "Taapsee Pannu says she’s never met ______ Ranaut, addresses their past feud: ‘A reflection of our upbringings’ | Bollywood",
-      "answer": "Kangana",
+      "blanked": "Rashtrapati Bhavan withdraws email on ______ PM visit",
+      "answer": "Bangladesh",
       "options": [
-        "Expands",
-        "Competition",
-        "Cargo",
-        "Kangana"
-      ]
-    },
-    {
-      "blanked": "White Dwarf-Red Dwarf ______ Power Cosmic Lasers",
-      "answer": "Binaries",
-      "options": [
-        "August",
-        "Binaries",
-        "Much",
-        "Kumar"
-      ]
-    },
-    {
-      "blanked": "Modern Warfare 4 Beta 2-Weekend Test Expands ______",
-      "answer": "Access",
-      "options": [
-        "Access",
-        "Silva",
-        "Carney",
-        "Bond"
-      ]
-    },
-    {
-      "blanked": "US: What’s Pushing ______ Bond Yields Higher?",
-      "answer": "Long-Term",
-      "options": [
-        "2.6",
+        "Everyone",
+        "ISS",
         "Adenot",
-        "Long-Term",
-        "College"
+        "Bangladesh"
       ]
     },
     {
-      "blanked": "Mackay joins the list of 'helter-skelter' days in ______ cricket",
-      "answer": "Australian",
+      "blanked": "'We are in a position of power': Iran's ______ seeks end to US war, claims victory",
+      "answer": "Pezeshkian",
       "options": [
-        "Diabetes",
-        "Bollywood",
-        "Australian",
-        "Pannu"
+        "Pezeshkian",
+        "100",
+        "Quest",
+        "Set"
       ]
     },
     {
-      "blanked": "Natalie ______ 'seen running behind Trump's golf cart' in 'saddest' photo amid intimate letters; 'Feel bad for her' | Hindustan Times",
-      "answer": "Harp",
+      "blanked": "Can your daily hour-long workout really undo 8-10 hours of sitting? ______ explain",
+      "answer": "Cardiologists",
       "options": [
-        "Gautam",
-        "Rishta",
-        "Bollywood",
-        "Harp"
-      ]
-    },
-    {
-      "blanked": "'Real Learning Happens In Courtroom, No Matter ______ Much You Read In College' : Justice Sanjay Karol To...",
-      "answer": "How",
-      "options": [
-        "How",
-        "Courtroom",
-        "American",
-        "Pushing"
+        "Cardiologists",
+        "Dwarf-Red",
+        "1000",
+        "Who"
       ]
     }
   ]
