@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-23T13:21:48.713Z",
+  "generatedAt": "2026-08-23T14:03:00.365Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
     "\"We Got Attacked\": Canada's Carney Says US Launched 'Trade War'",
-    "Search resumes for 22 crew after cargo ship sinks off India",
-    "Big twist in Maharashtra hill tragedy: Teen attempted suicide from same spot in 2025",
+    "Ex-diplomat Navdeep Suri flags 'trouble establishing citizenship' during Punjab SIR",
+    "‘Three claps for marvellous set of Gen Z faces’: CJP's Saurav Das takes swipe at BJP's youth outreach initiative | India News",
     "'Empty promises': Cockroach Janta Party warns of another Jantar Mantar-like protest, accuses Centre of 'vishwasghat' | India News",
-    "BJP’s new UP faces: What they mean for Yogi Adityanath going into 2027",
-    "Pregnant Defence Ministry Officer Found Dead, Family Alleges Abuse By In-Laws",
-    "Gone Yesterday, Here Today: 'Missing' Karnataka IAS Officer Went Home",
+    "15 Months On, Pakistan Rebuilds Jaish-e-Mohammed HQ At Bahawalpur Destroyed By India In Op Sindoor | Exclus",
+    "Boy dies after dispute over iPhone with parents; couple die trying to save him",
+    "Search resumes for 22 crew after cargo ship sinks off India",
+    "Anti-reservation protests: Chirag Paswan says govt will engage if demands presented systematically",
     "‘Abnormal’ that Lok Sabha has not been prorogued 10 days after sine die, Congress says",
-    "Was Revanth supposed to meet Mamdani? His office says tentative, opposition seeks answers",
     "West Bengal gets Rs 3,500 crore defence push: Rajnath Singh lays foundation for 5 projects",
-    "'Will Be Like A Tsunami, Split Ukraine': Zelensky Rejects Wartime Elections",
     "Iran says Pakistan's army chief to visit Tehran on Monday",
-    "Trump shares image calling Hormuz 'new US territory'; Iran says strait 'closed'",
-    "Retired Hindu Teacher, Wife, Two Children Found Dead At Bangladesh Home",
+    "'Will Be Like A Tsunami, Split Ukraine': Zelensky Rejects Wartime Elections",
+    "Hindu family of four found dead in locked home in Bangladesh’s Rangpur; strangulation suspected",
+    "Pezeshkian admits ‘many problems’, says Iran is in ‘full-scale war’ as US sanctions loom",
     "Collections under RBI's dollar swap scheme exceed $72.8 billion",
+    "Trump stock disclosure shows more than 1,000 trades in June",
     "How will Sensex, Nifty behave on Monday? 4 factors to drive D-Street action this week",
-    "FPIs pump Rs 23,544 crore into Indian equities in August as earnings revive",
-    "Apple May Expand India Manufacturing Beyond iPhones: Union Minister",
+    "Kumar Mangalam Birla sees Grasim revenue reaching Rs 2 lakh crore in FY27 as growth platforms scale up",
     "How Apple’s iPhone 18 Pro Launch Date Crushes The Competition",
-    "Motorola continues to dampen the appeal of the Motorola Edge mid-ranger",
-    "A 113 GB GTA 6 build is circulating online, but it appears to be fake",
     "Infinix HOT 70 Pro 5G India Launch Set for September 4 With Dynamic Shine Design",
+    "Motorola continues to dampen the appeal of the Motorola Edge mid-ranger",
+    "GTA 6 hacker CyberLeek goes offline as Take-Two and Microsoft mount legal crackdown",
     "Govinda issues public notice against defamatory content amid his spat with Sunita Ahuja; threatens Rs 100",
     "Comedian Rajiv Thakur's Father Dies, Confirms Krushna Abhishek",
-    "Toxic Box Office Day 1 Advance Booking (3 Days To Go): Yash Starrer Sells 4.75 Lakh Tickets, Beats The RajaSaab!"
+    "Toxic North America Box Office Advance Sales: With 3 Days To Go, Yash Is All Set To Beat Kantara Chapter 1's Pre-Sales!"
   ],
   "quiz": [
+    {
+      "blanked": "How will ______ Nifty behave on Monday? 4 factors to drive D-Street action this week",
+      "answer": "Sensex",
+      "options": [
+        "Sensex",
+        "Colombo",
+        "Das",
+        "Apples"
+      ]
+    },
+    {
+      "blanked": "Pope calls for more efforts to stop Ebola in DR ______",
+      "answer": "Congo",
+      "options": [
+        "Take-Two",
+        "Congo",
+        "America",
+        "All"
+      ]
+    },
+    {
+      "blanked": "Physical ______ Essential For Healthy Life",
+      "answer": "Activity",
+      "options": [
+        "June",
+        "Punjab",
+        "Activity",
+        "Edmund"
+      ]
+    },
+    {
+      "blanked": "Comedian Rajiv Thakur's Father Dies, Confirms Krushna ______",
+      "answer": "Abhishek",
+      "options": [
+        "Bangladeshs",
+        "Lok",
+        "Congress",
+        "Abhishek"
+      ]
+    },
+    {
+      "blanked": "Hindu family of four found dead in locked home in ______ Rangpur; strangulation suspected",
+      "answer": "Bangladeshs",
+      "options": [
+        "Competition",
+        "Sensex",
+        "Bangladeshs",
+        "Janta"
+      ]
+    },
+    {
+      "blanked": "‘Three claps for marvellous set of Gen Z faces’: CJP's Saurav Das takes swipe at BJP's youth outreach initiative | ______ News",
+      "answer": "India",
+      "options": [
+        "Falcon",
+        "India",
+        "Split",
+        "Krushna"
+      ]
+    },
+    {
+      "blanked": "‘Abnormal’ that Lok Sabha has not been prorogued 10 days after sine die, ______ says",
+      "answer": "Congress",
+      "options": [
+        "Congress",
+        "Date",
+        "BJPs",
+        "Launched"
+      ]
+    },
+    {
+      "blanked": "In 2016, New Zealand targeted an estimated 200,000 mice on Antipodes ______ two years later they were de",
+      "answer": "Island",
+      "options": [
+        "Island",
+        "3500",
+        "Essential",
+        "Australia"
+      ]
+    },
+    {
+      "blanked": "Govinda issues public notice against defamatory content amid his spat with ______ Ahuja; threatens Rs 100",
+      "answer": "Sunita",
+      "options": [
+        "Sunita",
+        "Rebuilds",
+        "Father",
+        "Bipin"
+      ]
+    },
+    {
+      "blanked": "How Apple’s iPhone 18 Pro ______ Date Crushes The Competition",
+      "answer": "Launch",
+      "options": [
+        "Grand",
+        "Launch",
+        "Rajiv",
+        "Ahuja"
+      ]
+    },
+    {
+      "blanked": "Infinix HOT 70 Pro 5G India Launch Set for September 4 With ______ Shine Design",
+      "answer": "Dynamic",
+      "options": [
+        "Bengal",
+        "Dynamic",
+        "Launch",
+        "Shine"
+      ]
+    },
     {
       "blanked": "Motorola continues to dampen the appeal of the ______ Edge mid-ranger",
       "answer": "Motorola",
       "options": [
-        "Office",
-        "Bipin",
-        "Date",
-        "Motorola"
-      ]
-    },
-    {
-      "blanked": "‘Abnormal’ that ______ Sabha has not been prorogued 10 days after sine die, Congress says",
-      "answer": "Lok",
-      "options": [
-        "Edmund",
-        "Went",
-        "Ahuja",
-        "Lok"
-      ]
-    },
-    {
-      "blanked": "Collections under RBI's dollar swap scheme exceed ______ billion",
-      "answer": "72.8",
-      "options": [
-        "Teen",
-        "Mantar-like",
-        "72.8",
-        "Tickets"
-      ]
-    },
-    {
-      "blanked": "Was Revanth supposed to meet ______ His office says tentative, opposition seeks answers",
-      "answer": "Mamdani",
-      "options": [
-        "May",
-        "LIVE",
-        "Mamdani",
-        "India"
-      ]
-    },
-    {
-      "blanked": "Big twist in Maharashtra hill tragedy: ______ attempted suicide from same spot in 2025",
-      "answer": "Teen",
-      "options": [
-        "Launched",
-        "Trade",
-        "Teen",
-        "Ebola"
-      ]
-    },
-    {
-      "blanked": "In 2016, New ______ targeted an estimated 200,000 mice on Antipodes Island; two years later they were de",
-      "answer": "Zealand",
-      "options": [
-        "Zealand",
-        "Teen",
-        "Panic",
-        "Cases"
-      ]
-    },
-    {
-      "blanked": "Search resumes for 22 crew after cargo ship sinks off ______",
-      "answer": "India",
-      "options": [
-        "India",
-        "Singh",
-        "Life",
-        "News"
-      ]
-    },
-    {
-      "blanked": "Comedian Rajiv Thakur's Father Dies, ______ Krushna Abhishek",
-      "answer": "Confirms",
-      "options": [
-        "Hormuz",
-        "Today",
-        "Grand",
-        "Confirms"
-      ]
-    },
-    {
-      "blanked": "'Empty promises': Cockroach Janta Party warns of another Jantar ______ protest, accuses Centre of 'vishwasghat' | India News",
-      "answer": "Mantar-like",
-      "options": [
-        "Imaging",
-        "ICMR",
-        "Mantar-like",
-        "Yash"
-      ]
-    },
-    {
-      "blanked": "Padikkal hundred headlines India’s mixed day in ______",
-      "answer": "Colombo",
-      "options": [
-        "Colombo",
-        "Home",
-        "RajaSaab",
-        "Rejects"
-      ]
-    },
-    {
-      "blanked": "Terminal Ileitis on Imaging Rarely Indicates ______ Disease",
-      "answer": "Crohns",
-      "options": [
-        "Tsunami",
-        "Bengal",
-        "Crohns",
-        "Ministry"
-      ]
-    },
-    {
-      "blanked": "Infinix HOT 70 Pro 5G India Launch Set for ______ 4 With Dynamic Shine Design",
-      "answer": "September",
-      "options": [
-        "Congo",
-        "September",
-        "Starrer",
-        "Hormuz"
+        "Saurav",
+        "Motorola",
+        "EBFC",
+        "Post-Intelligencer"
       ]
     }
   ]
