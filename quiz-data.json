@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T21:43:27.107Z",
+  "generatedAt": "2026-08-23T22:01:27.279Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
@@ -7,11 +7,11 @@
     "Eyes on Xi visit, ‘early harvest’ as Doval heads to Beijing",
     "Iran says new sanctions threatened by 'desperate' US will fail",
     "28-year-old Punjab man, Gurdeep Singh, shot dead while delivering pizza in New York City | India News",
-    "Cargo vessel sinks in Bay of Bengal, sparking rescue operation",
-    "'Empty promises': Cockroach Janta Party warns of another Jantar Mantar-like protest, accuses Centre of 'vishwasghat' | India News",
+    "Hindu family of four found dead in locked home in Bangladesh’s Rangpur; strangulation suspected",
+    "Indian Coast Guard launches search and rescue operation after cargo vessel sinks in Bay of Bengal",
     "iPhone EMI Not Sole Trigger? Teen Attempted Suicide Last Year From Same Cliff",
-    "After Operation Sindoor visa hurdle, 150 Pakistani brides reach India",
     "2 MLAs Among 6 Injured As Car Rams SUV After CNG Cylinder Explodes In Delhi",
+    "After Operation Sindoor visa hurdle, 150 Pakistani brides reach India",
     "Police recover IED near Sector 43 bus stand in Chandigarh; 3 apprehended",
     "Iran discovers over 7.5 trillion cubic feet of gas reserves as US blockade squeezes energy sector",
     "Former cricket captains urge Pakistan to ensure ‘humane treatment, proper medical care’ for Imran Khan",
@@ -19,135 +19,135 @@
     "Iran ‘invited’ to join Pakistan-Turkey-Saudi Arabia's Mecca defence pact; report says proposal being ‘considered’ | World News",
     "Volkswagen's CEO warns company's situation 'more than critical'",
     "SBI may reach Rs 200 lakh crore total business by 2030: Chairman CS Setty",
-    "FSSAI bans SDP Industries ghee sales over adulteration concerns, suspends Marche Retail licence",
     "Rs 62,500 crore to Rs 39 lakh crore: The roadmap of India’s new mobile manufacturing scheme",
+    "FSSAI bans SDP Industries ghee sales over adulteration concerns, suspends Marche Retail licence",
     "The Asus Googlebook is reportedly going to cost ~$1,400, spelling the end for its affordable range",
     "iPhone 18 Pro Release Date Has Already Crushed The Competition",
     "Excited to Take Deep Zoom Photos With Your Foldable iPhone? Get Ready for Disappointment",
-    "9th GTA 6 leak teases Lucia gameplay after prior Cyberleek videos focus on Jason",
+    "Fake 113GB GTA VI build spreads online with 50KB virus hidden inside, analysis claims",
     "Irumudi Day 2 Worldwide Box Office Collections: Ravi Teja makes comeback with STRONG hold, smashes Rs 44.50 crore in two days globally",
     "‘Spider-Man: Brand New Day’ No. 1 $109M WW, ‘Insidious’ Franchise Rises To $800M WW – Global Box Office",
     "Shahid Kapoor's Deva Co-Star Rohullah Mehdi Arrested In Mumbai Drugs Case"
   ],
   "quiz": [
     {
-      "blanked": "Terminal Ileitis on ______ Rarely Indicates Crohn’s Disease",
-      "answer": "Imaging",
+      "blanked": "Indian ______ Guard launches search and rescue operation after cargo vessel sinks in Bay of Bengal",
+      "answer": "Coast",
       "options": [
-        "Imaging",
-        "STRONG",
-        "Singh",
-        "Pakistan-Turkey-Saudi"
+        "Coast",
+        "Your",
+        "Gurdeep",
+        "Brand"
       ]
     },
     {
-      "blanked": "In 2022, Johns ______ researchers found that bonobos and chimpanzees can remember former companions; one",
-      "answer": "Hopkins",
+      "blanked": "Shahid Kapoor's Deva Co-Star Rohullah Mehdi Arrested In ______ Drugs Case",
+      "answer": "Mumbai",
       "options": [
-        "Googlebook",
-        "Hopkins",
-        "Mehdi",
-        "Mumbai"
-      ]
-    },
-    {
-      "blanked": "SBI may reach Rs ______ lakh crore total business by 2030: Chairman CS Setty",
-      "answer": "200",
-      "options": [
-        "Party",
-        "Iran",
-        "Trump",
-        "200"
-      ]
-    },
-    {
-      "blanked": "Excited to Take Deep Zoom ______ With Your Foldable iPhone? Get Ready for Disappointment",
-      "answer": "Photos",
-      "options": [
-        "Durand",
-        "44.50",
+        "Crushed",
         "Photos",
-        "Box"
+        "Mumbai",
+        "Promise"
       ]
     },
     {
-      "blanked": "No new H1N1 strain in ______ existing vaccines sufficient, says ICMR",
-      "answer": "India",
+      "blanked": "'No one will be waiting at the airport': Inside France's historic double gold at the ______ Championships",
+      "answer": "World",
       "options": [
-        "Hits",
+        "Sindoor",
+        "Allergy",
+        "World",
+        "Hockey"
+      ]
+    },
+    {
+      "blanked": "SBI may reach Rs 200 lakh crore total business by 2030: Chairman CS ______",
+      "answer": "Setty",
+      "options": [
         "Screening",
-        "India",
-        "Rams"
+        "Frances",
+        "Allergy",
+        "Setty"
       ]
     },
     {
-      "blanked": "2 MLAs Among 6 Injured As Car ______ SUV After CNG Cylinder Explodes In Delhi",
-      "answer": "Rams",
+      "blanked": "2 MLAs Among 6 Injured As Car Rams SUV After CNG ______ Explodes In Delhi",
+      "answer": "Cylinder",
       "options": [
-        "Shows",
-        "Rams",
-        "Operation",
-        "Disease"
-      ]
-    },
-    {
-      "blanked": "iPhone EMI Not Sole ______ Teen Attempted Suicide Last Year From Same Cliff",
-      "answer": "Trigger",
-      "options": [
-        "Trigger",
-        "7.5",
+        "Worldwide",
+        "Explodes",
         "Googlebook",
-        "Mohun"
+        "Cylinder"
       ]
     },
     {
-      "blanked": "Optimizing Cancer Survivorship Care Through Routine ______ Screening",
-      "answer": "Mental",
+      "blanked": "Volkswagen's ______ warns company's situation 'more than critical'",
+      "answer": "CEO",
       "options": [
-        "Mental",
-        "Chairman",
-        "Back",
-        "SDP"
+        "EMI",
+        "Take",
+        "CEO",
+        "SUV"
       ]
     },
     {
-      "blanked": "‘Spider-Man: Brand New Day’ No. 1 $109M WW, ‘Insidious’ ______ Rises To $800M WW – Global Box Office",
-      "answer": "Franchise",
+      "blanked": "\"Want Benefits Of Being A State Without Being ______ Trump Hits Back At Canada",
+      "answer": "One",
       "options": [
-        "Franchise",
-        "Arrested",
-        "Durand",
-        "CEO"
-      ]
-    },
-    {
-      "blanked": "FSSAI bans SDP Industries ghee sales over adulteration concerns, suspends ______ Retail licence",
-      "answer": "Marche",
-      "options": [
-        "Marche",
-        "State",
-        "Routine",
-        "Collections"
-      ]
-    },
-    {
-      "blanked": "'No one will be waiting at the airport': ______ France's historic double gold at the World Championships",
-      "answer": "Inside",
-      "options": [
-        "Mental",
-        "Inside",
-        "Industries",
-        "Championships"
-      ]
-    },
-    {
-      "blanked": "iPhone 18 Pro Release Date Has ______ Crushed The Competition",
-      "answer": "Already",
-      "options": [
-        "Sole",
-        "Setty",
-        "Already",
+        "One",
+        "Peanut",
+        "200",
         "Operation"
+      ]
+    },
+    {
+      "blanked": "‘Spider-Man: ______ New Day’ No. 1 $109M WW, ‘Insidious’ Franchise Rises To $800M WW – Global Box Office",
+      "answer": "Brand",
+      "options": [
+        "Brand",
+        "One",
+        "Same",
+        "Not"
+      ]
+    },
+    {
+      "blanked": "Hindu family of four found dead in locked home in Bangladesh’s ______ strangulation suspected",
+      "answer": "Rangpur",
+      "options": [
+        "Through",
+        "Rangpur",
+        "Rarely",
+        "Marche"
+      ]
+    },
+    {
+      "blanked": "Iran discovers over ______ trillion cubic feet of gas reserves as US blockade squeezes energy sector",
+      "answer": "7.5",
+      "options": [
+        "Brand",
+        "7.5",
+        "Collections",
+        "Zoom"
+      ]
+    },
+    {
+      "blanked": "East Bengal vs Mohun Bagan, Durand ______ 2026 final: Kolkata Derby to decide title - where to watch live",
+      "answer": "Cup",
+      "options": [
+        "Imran",
+        "Trump",
+        "Cup",
+        "Ileitis"
+      ]
+    },
+    {
+      "blanked": "Eyes on Xi visit, ‘early harvest’ as ______ heads to Beijing",
+      "answer": "Doval",
+      "options": [
+        "Doval",
+        "City",
+        "Championships",
+        "Car"
       ]
     }
   ]
