@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-23T05:06:13.343Z",
+  "generatedAt": "2026-08-23T06:01:59.709Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
     "\"We Got Attacked\": Canada's Carney Says US Launched 'Trade War'",
     "Iran warns nearby nations against joining US ‘economic war’ efforts",
-    "India launches rescue operation as bulk carrier sinks off east coast",
-    "31-year-old Adobe techie beaten to death by wife’s family in Delhi",
-    "'Your angry face is their content': Delhi Police told how not to respond to new-gen protesters | India News",
-    "Rashtrapati Bhavan withdraws email on Bangladesh PM visit",
-    "‘Vote-bank politics’: What BJP’s new Vande Mataram resolution says about Congress, 6 stanzas | India News",
+    "Panama-flagged cargo ship carrying 24 on board sinks off Odisha coast",
+    "'Not expecting neighbours to do only what’s in my interest’: Jaishankar on Bangladesh amid Hasina row | India News",
+    "'Killed In Front Of Me': Adobe Techie's Mother Shares Chilling Last Moments",
+    "Endoscopic camera, ₹11,000 deal: How Chhattisgarh agriculture exam paper was leaked; professor, 5 students held | India News",
+    "Manan Kumar Mishra's Resignation Sought At BCI General Council Meeting",
     "Old Videos Of Mother-Son Who Died Amid An Argument Over iPhone EMI Surface",
-    "BJP chief Nitin Nabin holds first meeting with new team ahead of polls",
-    "Anyone living in West Bengal will have to sing 'Vande Mataram': Suvendu Adhikari",
+    "Reservation Hatao Andolan: Over 50 detained at Jantar Mantar; reservation should go to poor, not castes:",
+    "'Choose between us and TN Chief Secretary’: Left parties to CM Vijay",
+    "23 injured as 5.9-magnitude quake rattles eastern Japan, tremors felt in Tokyo",
+    "Trump shares image calling Hormuz 'new US territory'; Iran says strait 'closed'",
     "Top US Army Official To Step Down After Months Of Tension With Hegseth: Report",
-    "'We are in a position of power': Iran's Pezeshkian seeks end to US war, claims victory",
-    "Gulf states hosting US bases ‘supported’ attack: Iran official",
-    "Trump Shares Map Of Strait Of Hormuz As \"New US Territory\", Again",
+    "Iran President Pezeshkian’s Big Message To Trump: ‘Bring The War To An End’",
     "Beyond Reactors: 2 niche engineering stocks in India’s 100 GW nuclear race",
     "Collections under RBI's dollar swap scheme exceed $72.8 billion",
-    "US: What’s Pushing Long-Term Bond Yields Higher?",
     "Trump stock disclosure shows more than 1,000 trades in June",
+    "The next export story: A $50 billion prize India can't afford to miss",
+    "Think CD players died in the 2000s? These 9 wonderfully weird new models prove otherwise",
     "How Apple’s iPhone 18 Pro Launch Date Crushes The Competition",
+    "I’m now sure the Galaxy Z Fold 8 has already wiped the floor with the foldable iPhone",
     "Microsoft to all the students wondering whether it still is worth learning how to code, the answer is: No",
-    "Infinix HOT 70 Pro 5G India Launch Set for September 4 With Dynamic Shine Design",
-    "GTA 6 hit by sixth gameplay leak as CyberLeek threatens more footage",
-    "Yeh Rishta Kya Kehlata Hai actor Mohsin Khan gets engaged to Tamanna, fiancée flaunts huge diamond ring;",
-    "Govinda’s manager denies Sunita Ahuja’s claim, says ‘no second marriage’ with Komal Rani",
-    "Toxic Advance Booking: Yash's Film Sells Over 2.6 Lakh Tickets, Nears Rs 20 Crore"
+    "'Awarapan 2' box office collection Day 9: Emraan Hashmi and Disha Patani starrer surpasses Rs 180 crore m",
+    "'Yeh Rishta Kya Kehlata Hai' fame Mohsin Khan announces engagement with partner Tamanna",
+    "Govinda’s manager denies Sunita Ahuja’s claim, says ‘no second marriage’ with Komal Rani"
   ],
   "quiz": [
     {
-      "blanked": "White Dwarf-Red Dwarf ______ Power Cosmic Lasers",
-      "answer": "Binaries",
+      "blanked": "'Choose between us and TN Chief Secretary’: Left parties to CM ______",
+      "answer": "Vijay",
       "options": [
-        "Report",
-        "Mother-Son",
-        "Down",
-        "Binaries"
+        "President",
+        "Canadas",
+        "Resignation",
+        "Vijay"
       ]
     },
     {
       "blanked": "India's health ministry lists symptoms to watch for H1N1 as infections rise in ______",
       "answer": "Delhi",
       "options": [
+        "Hasina",
         "Delhi",
-        "Espanyol",
-        "Queen",
-        "Gambhirs"
-      ]
-    },
-    {
-      "blanked": "GTA 6 hit by sixth gameplay leak as ______ threatens more footage",
-      "answer": "CyberLeek",
-      "options": [
-        "ISS",
-        "Tension",
-        "CyberLeek",
-        "Crushes"
-      ]
-    },
-    {
-      "blanked": "Govinda’s manager denies Sunita Ahuja’s claim, says ‘no second marriage’ with ______ Rani",
-      "answer": "Komal",
-      "options": [
-        "Higher",
-        "Komal",
-        "Adhikari",
-        "EMI"
-      ]
-    },
-    {
-      "blanked": "How Apple’s iPhone 18 Pro Launch Date ______ The Competition",
-      "answer": "Crushes",
-      "options": [
-        "Design",
-        "Crushes",
-        "Bangladesh",
-        "West"
-      ]
-    },
-    {
-      "blanked": "Yeh Rishta Kya Kehlata Hai actor Mohsin ______ gets engaged to Tamanna, fiancée flaunts huge diamond ring;",
-      "answer": "Khan",
-      "options": [
-        "Khan",
-        "Shine",
         "News",
-        "Videos"
+        "Chhattisgarh"
       ]
     },
     {
-      "blanked": "BJP chief ______ Nabin holds first meeting with new team ahead of polls",
-      "answer": "Nitin",
+      "blanked": "De Silva wants ______ Lanka's fast bowlers to 'raise their game a little bit'",
+      "answer": "Sri",
       "options": [
-        "Dwarf-Red",
-        "Indias",
-        "Nitin",
-        "Power"
+        "Adenot",
+        "Sri",
+        "Got",
+        "Hormuz"
+      ]
+    },
+    {
+      "blanked": "Physical Activity ______ For Healthy Life",
+      "answer": "Essential",
+      "options": [
+        "India",
+        "Essential",
+        "72.8",
+        "Army"
+      ]
+    },
+    {
+      "blanked": "Govinda’s manager denies ______ Ahuja’s claim, says ‘no second marriage’ with Komal Rani",
+      "answer": "Sunita",
+      "options": [
+        "Power",
+        "BCI",
+        "Died",
+        "Sunita"
+      ]
+    },
+    {
+      "blanked": "Reservation Hatao Andolan: Over 50 detained at Jantar ______ reservation should go to poor, not castes:",
+      "answer": "Mantar",
+      "options": [
+        "RBIs",
+        "Silva",
+        "Mantar",
+        "Had"
       ]
     },
     {
       "blanked": "Collections under RBI's dollar swap scheme exceed ______ billion",
       "answer": "72.8",
       "options": [
-        "72.8",
-        "Bhavan",
-        "Nabin",
-        "Long-Term"
+        "Adobe",
+        "Binaries",
+        "Emraan",
+        "72.8"
       ]
     },
     {
-      "blanked": "Old Videos Of ______ Who Died Amid An Argument Over iPhone EMI Surface",
-      "answer": "Mother-Son",
+      "blanked": "How Apple’s iPhone 18 Pro Launch Date Crushes The ______",
+      "answer": "Competition",
       "options": [
-        "Film",
-        "What",
-        "Rani",
-        "Mother-Son"
+        "Pataudi",
+        "Competition",
+        "Mourinhos",
+        "Bring"
       ]
     },
     {
-      "blanked": "Rashtrapati Bhavan withdraws email on ______ PM visit",
-      "answer": "Bangladesh",
+      "blanked": "Iran President Pezeshkian’s Big Message To Trump: ‘Bring The War To An ______",
+      "answer": "End",
       "options": [
-        "Everyone",
-        "ISS",
-        "Adenot",
-        "Bangladesh"
+        "EMI",
+        "Big",
+        "End",
+        "Got"
       ]
     },
     {
-      "blanked": "'We are in a position of power': Iran's ______ seeks end to US war, claims victory",
-      "answer": "Pezeshkian",
+      "blanked": "Trump to honour ______ II crew for historic mission",
+      "answer": "Artemis",
       "options": [
-        "Pezeshkian",
-        "100",
-        "Quest",
-        "Set"
+        "Artemis",
+        "Pataudi",
+        "Army",
+        "Hai"
       ]
     },
     {
-      "blanked": "Can your daily hour-long workout really undo 8-10 hours of sitting? ______ explain",
-      "answer": "Cardiologists",
+      "blanked": "'Don't be desperate for wickets': Gautam Gambhir's message to Kuldeep ______",
+      "answer": "Yadav",
       "options": [
-        "Cardiologists",
-        "Dwarf-Red",
-        "1000",
-        "Who"
+        "Yadav",
+        "Kareena",
+        "Trade",
+        "Sought"
+      ]
+    },
+    {
+      "blanked": "Trump shares image calling ______ 'new US territory'; Iran says strait 'closed'",
+      "answer": "Hormuz",
+      "options": [
+        "Shares",
+        "Chilling",
+        "Essential",
+        "Hormuz"
       ]
     }
   ]
