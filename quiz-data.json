@@ -1,26 +1,26 @@
 {
-  "generatedAt": "2026-08-23T22:01:27.279Z",
+  "generatedAt": "2026-08-23T22:55:26.094Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "\"Want Benefits Of Being A State Without Being One\": Trump Hits Back At Canada",
-    "Eyes on Xi visit, ‘early harvest’ as Doval heads to Beijing",
     "Iran says new sanctions threatened by 'desperate' US will fail",
-    "28-year-old Punjab man, Gurdeep Singh, shot dead while delivering pizza in New York City | India News",
-    "Hindu family of four found dead in locked home in Bangladesh’s Rangpur; strangulation suspected",
-    "Indian Coast Guard launches search and rescue operation after cargo vessel sinks in Bay of Bengal",
+    "Eyes on Xi visit, ‘early harvest’ as Doval heads to Beijing",
+    "'Wants benefits of US state': Trump hits back at Canada with '51st state' jibe amid tariff row | World News",
+    "27-year-old Indian national shot dead by unidentified man in New York City",
+    "Iran Invited To Join ‘Islamic NATO’? Why Tehran’s Entry Into Mecca Pact Could Be A Geopolitical Shock",
+    "Retired Hindu Teacher, Wife, Two Children Found Dead At Bangladesh Home",
     "iPhone EMI Not Sole Trigger? Teen Attempted Suicide Last Year From Same Cliff",
     "2 MLAs Among 6 Injured As Car Rams SUV After CNG Cylinder Explodes In Delhi",
-    "After Operation Sindoor visa hurdle, 150 Pakistani brides reach India",
+    "150 Pakistani Sindhi brides cross visa hurdle, fly to India for weddings",
     "Police recover IED near Sector 43 bus stand in Chandigarh; 3 apprehended",
+    "Israel-Turkey War Fears Grow: Secret Talks Underway As Syria Becomes New Flashpoint In West Asia",
     "Iran discovers over 7.5 trillion cubic feet of gas reserves as US blockade squeezes energy sector",
     "Former cricket captains urge Pakistan to ensure ‘humane treatment, proper medical care’ for Imran Khan",
-    "Pezeshkian admits ‘many problems’, says Iran is in ‘full-scale war’ as US sanctions loom",
-    "Iran ‘invited’ to join Pakistan-Turkey-Saudi Arabia's Mecca defence pact; report says proposal being ‘considered’ | World News",
+    "Iran's President says U.S. memorandum is best path out of stalled war",
     "Volkswagen's CEO warns company's situation 'more than critical'",
-    "SBI may reach Rs 200 lakh crore total business by 2030: Chairman CS Setty",
     "Rs 62,500 crore to Rs 39 lakh crore: The roadmap of India’s new mobile manufacturing scheme",
-    "FSSAI bans SDP Industries ghee sales over adulteration concerns, suspends Marche Retail licence",
+    "SBI may reach Rs 200 lakh crore total business by 2030: Chairman CS Setty",
+    "India’s 100,000-bed shortage: Why these 2 hospital stocks could have years of growth",
     "The Asus Googlebook is reportedly going to cost ~$1,400, spelling the end for its affordable range",
     "iPhone 18 Pro Release Date Has Already Crushed The Competition",
     "Excited to Take Deep Zoom Photos With Your Foldable iPhone? Get Ready for Disappointment",
@@ -31,123 +31,123 @@
   ],
   "quiz": [
     {
-      "blanked": "Indian ______ Guard launches search and rescue operation after cargo vessel sinks in Bay of Bengal",
-      "answer": "Coast",
+      "blanked": "East ______ Vs Mohun Bagan, Durand Cup 2026 Final Match Highlights: EB beat MB 4-1, win Durand Cup",
+      "answer": "Bengal",
       "options": [
-        "Coast",
-        "Your",
-        "Gurdeep",
-        "Brand"
+        "Foldable",
+        "Rises",
+        "Bengal",
+        "Becomes"
       ]
     },
     {
-      "blanked": "Shahid Kapoor's Deva Co-Star Rohullah Mehdi Arrested In ______ Drugs Case",
-      "answer": "Mumbai",
+      "blanked": "'No one will be waiting at the airport': Inside ______ historic double gold at the World Championships",
+      "answer": "Frances",
       "options": [
-        "Crushed",
-        "Photos",
-        "Mumbai",
-        "Promise"
+        "Frances",
+        "Disappointment",
+        "Hockey",
+        "Join"
       ]
     },
     {
-      "blanked": "'No one will be waiting at the airport': Inside France's historic double gold at the ______ Championships",
-      "answer": "World",
+      "blanked": "Irumudi Day 2 Worldwide Box ______ Collections: Ravi Teja makes comeback with STRONG hold, smashes Rs 44.50 crore in two days globally",
+      "answer": "Office",
       "options": [
-        "Sindoor",
-        "Allergy",
-        "World",
-        "Hockey"
+        "Children",
+        "Why",
+        "Office",
+        "44.50"
+      ]
+    },
+    {
+      "blanked": "‘Spider-Man: Brand New Day’ No. 1 $109M WW, ______ Franchise Rises To $800M WW – Global Box Office",
+      "answer": "Insidious",
+      "options": [
+        "Day",
+        "Franchise",
+        "Insidious",
+        "Bangladesh"
+      ]
+    },
+    {
+      "blanked": "Israel-Turkey War Fears Grow: Secret Talks Underway As Syria ______ New Flashpoint In West Asia",
+      "answer": "Becomes",
+      "options": [
+        "Franchise",
+        "Teacher",
+        "Becomes",
+        "Setty"
+      ]
+    },
+    {
+      "blanked": "iPhone EMI Not Sole Trigger? Teen Attempted Suicide Last ______ From Same Cliff",
+      "answer": "Year",
+      "options": [
+        "Singh",
+        "Kapoors",
+        "Year",
+        "Date"
+      ]
+    },
+    {
+      "blanked": "150 Pakistani ______ brides cross visa hurdle, fly to India for weddings",
+      "answer": "Sindhi",
+      "options": [
+        "Invited",
+        "Delhi",
+        "Global",
+        "Sindhi"
+      ]
+    },
+    {
+      "blanked": "India vs Australia HIGHLIGHTS, Women’s Hockey World ______ — Wasteful India crashes out after 0-0 draw, to play for fifth place",
+      "answer": "Cup",
+      "options": [
+        "Sole",
+        "Geopolitical",
+        "Cup",
+        "1400"
+      ]
+    },
+    {
+      "blanked": "India’s 100,000-bed shortage: ______ these 2 hospital stocks could have years of growth",
+      "answer": "Why",
+      "options": [
+        "Why",
+        "200",
+        "100",
+        "Pro"
+      ]
+    },
+    {
+      "blanked": "Iran's ______ says U.S. memorandum is best path out of stalled war",
+      "answer": "President",
+      "options": [
+        "President",
+        "Hubbles",
+        "Khan",
+        "Routine"
+      ]
+    },
+    {
+      "blanked": "Rs ______ crore to Rs 39 lakh crore: The roadmap of India’s new mobile manufacturing scheme",
+      "answer": "62500",
+      "options": [
+        "100",
+        "62500",
+        "Trigger",
+        "Pakistani"
       ]
     },
     {
       "blanked": "SBI may reach Rs 200 lakh crore total business by 2030: Chairman CS ______",
       "answer": "Setty",
       "options": [
-        "Screening",
-        "Frances",
-        "Allergy",
+        "Bengal",
+        "MLAs",
+        "Rams",
         "Setty"
-      ]
-    },
-    {
-      "blanked": "2 MLAs Among 6 Injured As Car Rams SUV After CNG ______ Explodes In Delhi",
-      "answer": "Cylinder",
-      "options": [
-        "Worldwide",
-        "Explodes",
-        "Googlebook",
-        "Cylinder"
-      ]
-    },
-    {
-      "blanked": "Volkswagen's ______ warns company's situation 'more than critical'",
-      "answer": "CEO",
-      "options": [
-        "EMI",
-        "Take",
-        "CEO",
-        "SUV"
-      ]
-    },
-    {
-      "blanked": "\"Want Benefits Of Being A State Without Being ______ Trump Hits Back At Canada",
-      "answer": "One",
-      "options": [
-        "One",
-        "Peanut",
-        "200",
-        "Operation"
-      ]
-    },
-    {
-      "blanked": "‘Spider-Man: ______ New Day’ No. 1 $109M WW, ‘Insidious’ Franchise Rises To $800M WW – Global Box Office",
-      "answer": "Brand",
-      "options": [
-        "Brand",
-        "One",
-        "Same",
-        "Not"
-      ]
-    },
-    {
-      "blanked": "Hindu family of four found dead in locked home in Bangladesh’s ______ strangulation suspected",
-      "answer": "Rangpur",
-      "options": [
-        "Through",
-        "Rangpur",
-        "Rarely",
-        "Marche"
-      ]
-    },
-    {
-      "blanked": "Iran discovers over ______ trillion cubic feet of gas reserves as US blockade squeezes energy sector",
-      "answer": "7.5",
-      "options": [
-        "Brand",
-        "7.5",
-        "Collections",
-        "Zoom"
-      ]
-    },
-    {
-      "blanked": "East Bengal vs Mohun Bagan, Durand ______ 2026 final: Kolkata Derby to decide title - where to watch live",
-      "answer": "Cup",
-      "options": [
-        "Imran",
-        "Trump",
-        "Cup",
-        "Ileitis"
-      ]
-    },
-    {
-      "blanked": "Eyes on Xi visit, ‘early harvest’ as ______ heads to Beijing",
-      "answer": "Doval",
-      "options": [
-        "Doval",
-        "City",
-        "Championships",
-        "Car"
       ]
     }
   ]
