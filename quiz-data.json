@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-23T16:56:14.178Z",
+  "generatedAt": "2026-08-23T17:43:09.218Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "\"Want Benefits Of Being A State Without Being One\": Trump Hits Back At Canada",
+    "'Wants benefits of US state': Trump hits back at Canada with '51st state' jibe amid tariff row | World News",
     "Can Iran retaliate against countries that join US ‘economic war’?",
-    "Ex-diplomat Navdeep Suri flags 'trouble establishing citizenship' during Punjab SIR",
+    "Retired Hindu Teacher, Wife, Two Children Found Dead At Bangladesh Home",
     "'Empty promises': Cockroach Janta Party warns of another Jantar Mantar-like protest, accuses Centre of 'vishwasghat' | India News",
-    "Retired Hindu teacher, family found dead inside locked Bangladesh home",
-    "Eyes on Xi visit, ‘early harvest’ as Doval heads to Beijing",
+    "Record Rs 92 crore spent on Union Ministers' Delhi homes repair in 2025-26: RTI",
+    "Search resumes for 22 crew after cargo ship sinks off India",
     "Anti-reservation protest: Several detained as 300 gather at Delhi’s Connaught Place",
     "West Bengal gets Rs 3,500 crore defence push: Rajnath Singh lays foundation for 5 projects",
-    "‘Silent guardian’: Rahul Gandhi cast as ‘real-life batman’ in posters outside Congress HQ",
-    "Pakistan Rebuilds Jaish Headquarters Destroyed During Operation Sindoor",
+    "15 months on, Jaish rebuilds Bahawalpur base hit by India during Op Sindoor",
+    "iPhone EMI Not Sole Trigger? Teen Attempted Suicide Last Year From Same Cliff",
     "Former cricket captains urge Pakistan to ensure ‘humane treatment, proper medical care’ for Imran Khan",
-    "Iran discovers over 7.5 trillion cubic feet of gas reserves as US blockade squeezes energy sector",
-    "5.9-magnitude earthquake strikes Japan, injuring at least 37",
-    "Israeli air strike near Gaza refugee camp kills one person and injures two",
+    "Zelenskyy says wartime elections could ‘destroy’ Ukraine",
+    "Iran says Pakistan's army chief to visit Tehran on Monday",
+    "EAM downplays Pakistan-Turkey-Saudi defence pact: ‘What has it done amid live military situations in these countries?’ | India News",
     "FSSAI bans SDP Industries ghee sales over adulteration concerns, suspends Marche Retail licence",
-    "Kumar Mangalam Birla sees Grasim revenue reaching Rs 2 lakh crore in FY27 as growth platforms scale up",
     "Urban Company sues Kent RO over ‘unsafe’, ‘risky’ water purifier ads; company to pull down 'offending' con",
+    "Kumar Mangalam Birla sees Grasim revenue reaching Rs 2 lakh crore in FY27 as growth platforms scale up",
     "SBI may reach Rs 200 lakh crore total business by 2030: Chairman CS Setty",
-    "Hidden code suggests ChatGPT might soon let you lock away your most sensitive chats to keep them safe from prying eyes",
+    "The Asus Googlebook is reportedly going to cost ~$1,400, spelling the end for its affordable range",
     "Samsung Galaxy S27 Ultra will come in two sizes, according to CAD models",
     "How Apple’s iPhone 18 Pro Launch Date Crushes The Competition",
-    "From winning Formula E titles to Need for Speed: Porsche's 99X Electric goes virtual",
+    "Two weeks with the Samsung Galaxy Z Flip 8 almost made me forget about the Motorola Razr",
+    "Govinda issues public notice against defamatory content amid his spat with Sunita Ahuja; threatens Rs 100",
     "Shahid Kapoor's Deva co-star Rohullah Mehdi arrested in alleged social media drug network case; police se",
-    "Irumudi Box Office Collections: Ravi Teja starrer has a bumper opening, Gross Rs. 22.50 Cr on its first day worldwide",
-    "Govinda Issues Strong Warning Over Court Marriage And Divorce Rumours, Warns Of Rs 100 Crore Legal Action"
+    "Irumudi Box Office Collections: Ravi Teja starrer has a bumper opening, Gross Rs. 22.50 Cr on its first day worldwide"
   ],
   "quiz": [
     {
-      "blanked": "No new H1N1 strain in ______ existing vaccines sufficient, says ICMR",
+      "blanked": "Retired Hindu Teacher, Wife, ______ Children Found Dead At Bangladesh Home",
+      "answer": "Two",
+      "options": [
+        "Care",
+        "Teen",
+        "100",
+        "Two"
+      ]
+    },
+    {
+      "blanked": "iPhone EMI Not Sole Trigger? Teen Attempted Suicide Last ______ From Same Cliff",
+      "answer": "Year",
+      "options": [
+        "Year",
+        "EMI",
+        "Mantar-like",
+        "200"
+      ]
+    },
+    {
+      "blanked": "Search resumes for 22 crew after cargo ship sinks off ______",
       "answer": "India",
       "options": [
-        "Rahul",
-        "Bagan",
-        "India",
-        "Khan"
+        "Brigade",
+        "Mangalam",
+        "Promise",
+        "India"
       ]
     },
     {
-      "blanked": "Urban ______ sues Kent RO over ‘unsafe’, ‘risky’ water purifier ads; company to pull down 'offending' con",
-      "answer": "Company",
+      "blanked": "Irumudi Box Office ______ Ravi Teja starrer has a bumper opening, Gross Rs. 22.50 Cr on its first day worldwide",
+      "answer": "Collections",
       "options": [
-        "Company",
-        "Mehdi",
-        "Porsches",
-        "2022"
+        "Collections",
+        "Canada",
+        "Mental",
+        "Trump"
       ]
     },
     {
-      "blanked": "SpaceX launches 27 Starlink satellites on 100th ______ mission of 2026",
-      "answer": "Falcon",
+      "blanked": "The ______ Googlebook is reportedly going to cost ~$1,400, spelling the end for its affordable range",
+      "answer": "Asus",
       "options": [
-        "Crore",
-        "Gandhi",
-        "Falcon",
-        "Gaza"
+        "Party",
+        "Teja",
+        "Launch",
+        "Asus"
       ]
     },
     {
-      "blanked": "How ______ iPhone 18 Pro Launch Date Crushes The Competition",
-      "answer": "Apples",
+      "blanked": "Padikkal hundred headlines India’s mixed day in ______",
+      "answer": "Colombo",
       "options": [
-        "Thakurs",
-        "Date",
-        "Apples",
-        "Gross"
+        "Collections",
+        "Bengal",
+        "1971",
+        "Colombo"
       ]
     },
     {
-      "blanked": "FSSAI bans SDP Industries ghee sales over adulteration concerns, suspends ______ Retail licence",
-      "answer": "Marche",
+      "blanked": "15 months on, ______ rebuilds Bahawalpur base hit by India during Op Sindoor",
+      "answer": "Jaish",
       "options": [
-        "Mehdi",
+        "Year",
+        "Sindoor",
+        "Children",
+        "Jaish"
+      ]
+    },
+    {
+      "blanked": "Two weeks with the Samsung Galaxy Z Flip 8 almost made me forget about the ______ Razr",
+      "answer": "Motorola",
+      "options": [
+        "Motorola",
+        "1971",
+        "Cricket",
+        "2030"
+      ]
+    },
+    {
+      "blanked": "No new H1N1 strain in India, existing vaccines sufficient, says ______",
+      "answer": "ICMR",
+      "options": [
+        "Iran",
+        "Trump",
+        "ICMR",
+        "Trigger"
+      ]
+    },
+    {
+      "blanked": "AI Model ______ Promise for Predicting Peanut Allergy",
+      "answer": "Shows",
+      "options": [
+        "Meena",
+        "3500",
+        "Shows",
+        "Mehdi"
+      ]
+    },
+    {
+      "blanked": "West Bengal gets Rs ______ crore defence push: Rajnath Singh lays foundation for 5 projects",
+      "answer": "3500",
+      "options": [
+        "3500",
+        "Birla",
         "Marche",
-        "Disease",
-        "Setty"
+        "Care"
       ]
     },
     {
-      "blanked": "Shahid Kapoor's Deva co-star Rohullah ______ arrested in alleged social media drug network case; police se",
-      "answer": "Mehdi",
+      "blanked": "Samsung ______ S27 Ultra will come in two sizes, according to CAD models",
+      "answer": "Galaxy",
       "options": [
-        "MBSG",
-        "Court",
-        "Mehdi",
-        "Ultra"
-      ]
-    },
-    {
-      "blanked": "East Bengal vs Mohun Bagan LIVE score: EBFC 4-1 MBSG; Edmund scores first-half hat-trick; Latest updates from ______ Cup final",
-      "answer": "Durand",
-      "options": [
-        "Colombo",
-        "Birla",
-        "Durand",
-        "ChatGPT"
-      ]
-    },
-    {
-      "blanked": "From winning Formula E titles to ______ for Speed: Porsche's 99X Electric goes virtual",
-      "answer": "Need",
-      "options": [
-        "Mehdi",
-        "Setty",
-        "Khan",
-        "Need"
-      ]
-    },
-    {
-      "blanked": "Kumar Mangalam ______ sees Grasim revenue reaching Rs 2 lakh crore in FY27 as growth platforms scale up",
-      "answer": "Birla",
-      "options": [
-        "Birla",
-        "Ebola",
-        "Retail",
-        "Congress"
-      ]
-    },
-    {
-      "blanked": "'Empty promises': Cockroach Janta Party warns of another Jantar Mantar-like protest, accuses Centre of 'vishwasghat' | ______ News",
-      "answer": "India",
-      "options": [
-        "India",
-        "One",
-        "Congo",
-        "Cup"
-      ]
-    },
-    {
-      "blanked": "West Bengal gets Rs 3,500 crore defence push: ______ Singh lays foundation for 5 projects",
-      "answer": "Rajnath",
-      "options": [
-        "Operation",
-        "Singh",
-        "Rajnath",
-        "Punjab"
-      ]
-    },
-    {
-      "blanked": "Retired ______ teacher, family found dead inside locked Bangladesh home",
-      "answer": "Hindu",
-      "options": [
-        "Ileitis",
-        "Imran",
-        "Hindu",
-        "How"
+        "Meena",
+        "Galaxy",
+        "Allergy",
+        "Promise"
       ]
     }
   ]
