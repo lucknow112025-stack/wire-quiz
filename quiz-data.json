@@ -1,22 +1,22 @@
 {
-  "generatedAt": "2026-08-23T17:43:09.218Z",
+  "generatedAt": "2026-08-23T18:01:39.489Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
     "'Wants benefits of US state': Trump hits back at Canada with '51st state' jibe amid tariff row | World News",
-    "Can Iran retaliate against countries that join US ‘economic war’?",
-    "Retired Hindu Teacher, Wife, Two Children Found Dead At Bangladesh Home",
+    "Iran says new sanctions threatened by 'desperate' US will fail",
     "'Empty promises': Cockroach Janta Party warns of another Jantar Mantar-like protest, accuses Centre of 'vishwasghat' | India News",
-    "Record Rs 92 crore spent on Union Ministers' Delhi homes repair in 2025-26: RTI",
+    "Retired Hindu Teacher, Wife, Two Children Found Dead At Bangladesh Home",
     "Search resumes for 22 crew after cargo ship sinks off India",
+    "Eyes on Xi visit, ‘early harvest’ as Doval heads to Beijing",
+    "iPhone EMI Not Sole Trigger? Teen Attempted Suicide Last Year From Same Cliff",
     "Anti-reservation protest: Several detained as 300 gather at Delhi’s Connaught Place",
     "West Bengal gets Rs 3,500 crore defence push: Rajnath Singh lays foundation for 5 projects",
-    "15 months on, Jaish rebuilds Bahawalpur base hit by India during Op Sindoor",
-    "iPhone EMI Not Sole Trigger? Teen Attempted Suicide Last Year From Same Cliff",
+    "Orthopaedist assaulted by patient's son at private hospital in Thane",
     "Former cricket captains urge Pakistan to ensure ‘humane treatment, proper medical care’ for Imran Khan",
-    "Zelenskyy says wartime elections could ‘destroy’ Ukraine",
-    "Iran says Pakistan's army chief to visit Tehran on Monday",
-    "EAM downplays Pakistan-Turkey-Saudi defence pact: ‘What has it done amid live military situations in these countries?’ | India News",
+    "5.9-magnitude earthquake strikes Japan, injuring at least 37",
+    "Israel kills 3 Palestinians, including four-year-old child, in central Gaza",
+    "'Will Be Like A Tsunami, Split Ukraine': Zelensky Rejects Wartime Elections",
     "FSSAI bans SDP Industries ghee sales over adulteration concerns, suspends Marche Retail licence",
     "Urban Company sues Kent RO over ‘unsafe’, ‘risky’ water purifier ads; company to pull down 'offending' con",
     "Kumar Mangalam Birla sees Grasim revenue reaching Rs 2 lakh crore in FY27 as growth platforms scale up",
@@ -24,130 +24,130 @@
     "The Asus Googlebook is reportedly going to cost ~$1,400, spelling the end for its affordable range",
     "Samsung Galaxy S27 Ultra will come in two sizes, according to CAD models",
     "How Apple’s iPhone 18 Pro Launch Date Crushes The Competition",
-    "Two weeks with the Samsung Galaxy Z Flip 8 almost made me forget about the Motorola Razr",
+    "Fake 113GB GTA VI build spreads online with 50KB virus hidden inside, analysis claims",
     "Govinda issues public notice against defamatory content amid his spat with Sunita Ahuja; threatens Rs 100",
     "Shahid Kapoor's Deva co-star Rohullah Mehdi arrested in alleged social media drug network case; police se",
     "Irumudi Box Office Collections: Ravi Teja starrer has a bumper opening, Gross Rs. 22.50 Cr on its first day worldwide"
   ],
   "quiz": [
     {
-      "blanked": "Retired Hindu Teacher, Wife, ______ Children Found Dead At Bangladesh Home",
-      "answer": "Two",
+      "blanked": "Retired Hindu Teacher, Wife, Two Children Found Dead At Bangladesh ______",
+      "answer": "Home",
       "options": [
-        "Care",
-        "Teen",
-        "100",
-        "Two"
+        "Ukraine",
+        "Last",
+        "Tsunami",
+        "Home"
       ]
     },
     {
-      "blanked": "iPhone EMI Not Sole Trigger? Teen Attempted Suicide Last ______ From Same Cliff",
-      "answer": "Year",
+      "blanked": "Eyes on Xi visit, ‘early harvest’ as ______ heads to Beijing",
+      "answer": "Doval",
       "options": [
-        "Year",
-        "EMI",
-        "Mantar-like",
-        "200"
+        "Gaza",
+        "2030",
+        "Doval",
+        "Attempted"
       ]
     },
     {
-      "blanked": "Search resumes for 22 crew after cargo ship sinks off ______",
-      "answer": "India",
+      "blanked": "AI Model Shows Promise for Predicting Peanut ______",
+      "answer": "Allergy",
       "options": [
-        "Brigade",
-        "Mangalam",
-        "Promise",
-        "India"
+        "Allergy",
+        "Asitha",
+        "Hockey",
+        "Like"
+      ]
+    },
+    {
+      "blanked": "East Bengal vs ______ Bagan Highlights: Red and Gold Brigade wins record-equalling 17th Durand Cup title",
+      "answer": "Mohun",
+      "options": [
+        "Test",
+        "Industries",
+        "2022",
+        "Mohun"
+      ]
+    },
+    {
+      "blanked": "'Empty promises': ______ Janta Party warns of another Jantar Mantar-like protest, accuses Centre of 'vishwasghat' | India News",
+      "answer": "Cockroach",
+      "options": [
+        "Collections",
+        "Cockroach",
+        "Rohullah",
+        "Pakistan"
       ]
     },
     {
       "blanked": "Irumudi Box Office ______ Ravi Teja starrer has a bumper opening, Gross Rs. 22.50 Cr on its first day worldwide",
       "answer": "Collections",
       "options": [
-        "Collections",
         "Canada",
-        "Mental",
-        "Trump"
+        "Like",
+        "Bagan",
+        "Collections"
       ]
     },
     {
-      "blanked": "The ______ Googlebook is reportedly going to cost ~$1,400, spelling the end for its affordable range",
-      "answer": "Asus",
+      "blanked": "Fake 113GB ______ VI build spreads online with 50KB virus hidden inside, analysis claims",
+      "answer": "GTA",
       "options": [
-        "Party",
-        "Teja",
-        "Launch",
-        "Asus"
+        "GTA",
+        "Indias",
+        "Cockroach",
+        "Durand"
       ]
     },
     {
-      "blanked": "Padikkal hundred headlines India’s mixed day in ______",
-      "answer": "Colombo",
+      "blanked": "Actor Aasha Jaiswal Singh, Known For ______ Meena Kumari's Voice, Dies In Mumbai",
+      "answer": "Mimicking",
       "options": [
-        "Collections",
-        "Bengal",
-        "1971",
-        "Colombo"
+        "Peanut",
+        "Ravi",
+        "Suicide",
+        "Mimicking"
       ]
     },
     {
-      "blanked": "15 months on, ______ rebuilds Bahawalpur base hit by India during Op Sindoor",
-      "answer": "Jaish",
+      "blanked": "iPhone EMI Not Sole Trigger? Teen Attempted Suicide ______ Year From Same Cliff",
+      "answer": "Last",
       "options": [
-        "Year",
-        "Sindoor",
-        "Children",
-        "Jaish"
+        "Hockey",
+        "Date",
+        "Jantar",
+        "Last"
       ]
     },
     {
-      "blanked": "Two weeks with the Samsung Galaxy Z Flip 8 almost made me forget about the ______ Razr",
-      "answer": "Motorola",
+      "blanked": "'Will Be Like A Tsunami, Split ______ Zelensky Rejects Wartime Elections",
+      "answer": "Ukraine",
       "options": [
-        "Motorola",
-        "1971",
-        "Cricket",
-        "2030"
-      ]
-    },
-    {
-      "blanked": "No new H1N1 strain in India, existing vaccines sufficient, says ______",
-      "answer": "ICMR",
-      "options": [
-        "Iran",
-        "Trump",
-        "ICMR",
-        "Trigger"
-      ]
-    },
-    {
-      "blanked": "AI Model ______ Promise for Predicting Peanut Allergy",
-      "answer": "Shows",
-      "options": [
-        "Meena",
-        "3500",
-        "Shows",
-        "Mehdi"
-      ]
-    },
-    {
-      "blanked": "West Bengal gets Rs ______ crore defence push: Rajnath Singh lays foundation for 5 projects",
-      "answer": "3500",
-      "options": [
-        "3500",
-        "Birla",
+        "Ukraine",
         "Marche",
-        "Care"
+        "Khan",
+        "Delhis"
       ]
     },
     {
-      "blanked": "Samsung ______ S27 Ultra will come in two sizes, according to CAD models",
-      "answer": "Galaxy",
+      "blanked": "Orthopaedist assaulted by patient's son at private hospital in ______",
+      "answer": "Thane",
       "options": [
-        "Meena",
-        "Galaxy",
-        "Allergy",
-        "Promise"
+        "Imran",
+        "Ileitis",
+        "Canada",
+        "Thane"
+      ]
+    },
+    {
+      "blanked": "Apollo 15 astronauts collected tiny green glass beads from the Moon in ______ more than 35 years later sci",
+      "answer": "1971",
+      "options": [
+        "Pakistan",
+        "Mohun",
+        "Beijing",
+        "1971"
       ]
     }
   ]
