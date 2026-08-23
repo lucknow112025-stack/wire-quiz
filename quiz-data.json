@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-23T07:51:23.796Z",
+  "generatedAt": "2026-08-23T09:01:37.006Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
     "\"We Got Attacked\": Canada's Carney Says US Launched 'Trade War'",
-    "India launches rescue operation as bulk carrier sinks off east coast",
-    "Boy dies after dispute over iPhone with parents; couple die trying to save him",
+    "Search resumes for 22 crew after cargo ship sinks off India",
     "Daughter of NCP (SP) MLA Rohit Pawar's PA found dead in Baramati, probe on | India News",
+    "'Your angry face is their content': Delhi Police told how not to respond to new-gen protesters | India News",
+    "Rashtrapati Bhavan withdraws email on Bangladesh PM visit",
     "Chirag Paswan Seeks Dialogue With Anti-Reservation Protesters, Tells Them 'It Is Not Charity'",
-    "Endoscopic camera, ₹11,000 deal: How Chhattisgarh agriculture exam paper was leaked; professor, 5 students held | India News",
-    "Gone Yesterday, Here Today: 'Missing' Karnataka IAS Officer Went Home",
+    "From Thumba to tomorrow: Indian space programme is preparing for its biggest leap yet",
     "Village students shifted to vacant house after attack on CJP activists in Rajasthan",
+    "IN PHOTOS: National Space Day 2026 celebrations held at Institute of Science in Mumbai - Mid-Day",
     "2 Killed, 5 Injured As 22-Foot Ganesh Idol Falls On Them In Mumbai",
-    "Be loud, be proud, fight for your space, Rahul Gandhi tells Gen Z girls",
     "Iran security chief threatens neighbors against new U.S. economic measures",
-    "Amid tensions with Pete Hegseth, US Army secretary Dan Driscoll to step down by year-end: Report",
-    "Trump Shares Map Of Strait Of Hormuz As \"New US Territory\", Again",
     "23 injured as 5.9-magnitude quake rattles eastern Japan, tremors felt in Tokyo",
+    "Trump Shares Map Of Strait Of Hormuz As \"New US Territory\", Again",
+    "Amid tensions with Pete Hegseth, US Army secretary Dan Driscoll to step down by year-end: Report",
     "Trump stock disclosure shows more than 1,000 trades in June",
+    "How will Sensex, Nifty behave on Monday? 4 factors to drive D-Street action this week",
     "Collections under RBI's dollar swap scheme exceed $72.8 billion",
     "India gets $511.5 million in FDI under new policy for neighbouring countries",
-    "The next export story: A $50 billion prize India can't afford to miss",
-    "Phone 18 Pro Max price in India: Expectations, leaked upgrades and more we know before September launch",
-    "Microsoft to all the students wondering whether it still is worth learning how to code, the answer is: No",
+    "How Apple’s iPhone 18 Pro Launch Date Crushes The Competition",
+    "Latest 'GTA 6' leaks reveal strip club setting and new slow-motion camera",
     "Infinix HOT 70 Pro 5G India Launch Set for September 4 With Dynamic Shine Design",
     "I’m now sure the Galaxy Z Fold 8 has already wiped the floor with the foldable iPhone",
     "Govinda issues public notice against defamatory content amid his spat with Sunita Ahuja; threatens Rs 100",
-    "Awarapan 2 Day 8 Box Office Collections: Emraan Hashmi's film enters 2nd Weekend with good hold, crosses Rs 115 crore mark",
-    "Sound System Collapses At 'Toxic' Pre-Release Event In Hyderabad, 2 Injured"
+    "‘Found my person’: Mohsin Khan announces engagement to Tamanna, see photos",
+    "Awarapan 2 Day 8 Box Office Collections: Emraan Hashmi's film enters 2nd Weekend with good hold, crosses Rs 115 crore mark"
   ],
   "quiz": [
     {
-      "blanked": "Gone Yesterday, Here Today: 'Missing' Karnataka IAS Officer Went ______",
-      "answer": "Home",
+      "blanked": "Daughter of NCP (SP) MLA Rohit ______ PA found dead in Baramati, probe on | India News",
+      "answer": "Pawars",
       "options": [
-        "Hyderabad",
-        "Home",
-        "Anti-Reservation",
-        "Sri"
-      ]
-    },
-    {
-      "blanked": "Govinda issues public notice against defamatory content amid his spat with Sunita Ahuja; threatens Rs ______",
-      "answer": "100",
-      "options": [
-        "BAN",
-        "Trade",
-        "100",
-        "French"
-      ]
-    },
-    {
-      "blanked": "Physical Activity ______ For Healthy Life",
-      "answer": "Essential",
-      "options": [
-        "Dwarf",
-        "Shubman",
-        "2026",
-        "Essential"
-      ]
-    },
-    {
-      "blanked": "\"We Got Attacked\": Canada's Carney Says US ______ 'Trade War'",
-      "answer": "Launched",
-      "options": [
-        "Silva",
-        "Cosmic",
-        "Launched",
-        "Officer"
-      ]
-    },
-    {
-      "blanked": "India gets ______ million in FDI under new policy for neighbouring countries",
-      "answer": "511.5",
-      "options": [
-        "511.5",
-        "Silva",
         "Hegseth",
+        "Date",
+        "Pawars",
+        "Delhi"
+      ]
+    },
+    {
+      "blanked": "India's health ministry lists symptoms to watch for H1N1 as infections rise in ______",
+      "answer": "Delhi",
+      "options": [
+        "PHOTOS",
+        "News",
+        "Day",
+        "Delhi"
+      ]
+    },
+    {
+      "blanked": "From Thumba to tomorrow: ______ space programme is preparing for its biggest leap yet",
+      "answer": "Indian",
+      "options": [
+        "Collapses",
+        "Indian",
+        "Office",
         "Tokyo"
       ]
     },
     {
-      "blanked": "Trump Shares Map Of ______ Of Hormuz As \"New US Territory\", Again",
-      "answer": "Strait",
+      "blanked": "‘Found my person’: Mohsin ______ announces engagement to Tamanna, see photos",
+      "answer": "Khan",
       "options": [
-        "Strait",
+        "Sunita",
+        "Khan",
+        "What",
+        "National"
+      ]
+    },
+    {
+      "blanked": "Village students shifted to vacant house after attack on CJP activists in ______",
+      "answer": "Rajasthan",
+      "options": [
+        "Adenot",
+        "Rajasthan",
+        "Collections",
+        "Dialogue"
+      ]
+    },
+    {
+      "blanked": "2 Killed, 5 Injured As 22-Foot Ganesh ______ Falls On Them In Mumbai",
+      "answer": "Idol",
+      "options": [
+        "Shubman",
+        "Map",
         "Idol",
-        "HOT",
-        "Hyderabad"
-      ]
-    },
-    {
-      "blanked": "‘Found my person’: Mohsin Khan announces engagement to ______ see photos",
-      "answer": "Tamanna",
-      "options": [
-        "Tamanna",
-        "Anti-Reservation",
-        "CJP",
-        "Killed"
-      ]
-    },
-    {
-      "blanked": "Awarapan 2 Day 8 ______ Office Collections: Emraan Hashmi's film enters 2nd Weekend with good hold, crosses Rs 115 crore mark",
-      "answer": "Box",
-      "options": [
-        "Expectations",
-        "Chhattisgarh",
-        "India",
-        "Box"
-      ]
-    },
-    {
-      "blanked": "White Dwarf-Red Dwarf Binaries ______ Cosmic Lasers",
-      "answer": "Power",
-      "options": [
-        "Power",
-        "Pawars",
-        "Expectations",
-        "Japan"
+        "Event"
       ]
     },
     {
       "blanked": "Collections under RBI's dollar swap scheme exceed ______ billion",
       "answer": "72.8",
       "options": [
-        "Falls",
-        "Report",
+        "French",
         "72.8",
-        "Shine"
+        "ISS",
+        "Sunita"
       ]
     },
     {
-      "blanked": "Phone 18 Pro Max price in ______ Expectations, leaked upgrades and more we know before September launch",
+      "blanked": "23 injured as 5.9-magnitude quake rattles eastern ______ tremors felt in Tokyo",
+      "answer": "Japan",
+      "options": [
+        "Congo",
+        "PHOTOS",
+        "Japan",
+        "Hashmis"
+      ]
+    },
+    {
+      "blanked": "Rashtrapati Bhavan withdraws email on ______ PM visit",
+      "answer": "Bangladesh",
+      "options": [
+        "Bangladesh",
+        "Hyderabad",
+        "Apples",
+        "Got"
+      ]
+    },
+    {
+      "blanked": "Why ______ Yadav is not playing 2nd Test vs Sri Lanka: What Shubman Gill and BCCI said",
+      "answer": "Kuldeep",
+      "options": [
+        "Sunita",
+        "Toxic",
+        "Kuldeep",
+        "Ebola"
+      ]
+    },
+    {
+      "blanked": "Search resumes for 22 crew after cargo ship sinks off ______",
       "answer": "India",
       "options": [
+        "Strait",
+        "Pete",
         "India",
-        "72.8",
-        "HOT",
-        "Dwarf-Red"
+        "Shares"
       ]
     },
     {
-      "blanked": "Be loud, be proud, fight for your space, Rahul ______ tells Gen Z girls",
-      "answer": "Gandhi",
+      "blanked": "Trump stock disclosure shows more than ______ trades in June",
+      "answer": "1000",
       "options": [
-        "Day",
-        "100",
-        "Charity",
-        "Gandhi"
+        "Got",
+        "Pawars",
+        "Launch",
+        "1000"
       ]
     }
   ]
