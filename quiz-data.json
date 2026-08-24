@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-24T23:01:27.644Z",
+  "generatedAt": "2026-08-24T23:54:31.335Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "Iran’s rial currency hits new record low as U.S. prepares to announce more sanctions",
-    "US Plans Massive Hike In H-1B Visa Fee, Indians Brace For Big Impact",
+    "Trump administration moves to impose more than $100,000 fee for H-1B worker visas",
     "Trump threatens 50% tariffs on all cars and trucks from Canada amid trade fight",
+    "\"Clock Is Ticking\": US' New Sanctions On Iran, Warning For World Leaders",
     "China's Xi likely to visit India with big delegation for first time in seven years",
     "Govt wants to do to students what it did to Noida workers, CJP’s Abhijeet Dipke says",
     "‘You don't know what actually happened’: After Maharashtra cliff tragedy, aunt rejects iPhone claim",
     "CM Revanth calls Centre’s denial of U.S. clearance an ‘insult’ to Telangana, discrimination against it",
+    "Taphou Kuki Village Reports Attack by Armed Men; Village Authority Condemns House Burning",
     "SIR in Karnataka: Here’s how you can check your name in draft electoral roll",
-    "EVMs not connected to internet, Bluetooth or Wi-Fi: CEC Gyanesh Kumar",
     "Why is there a sudden increase in sugar prices? | Explained",
     "Iran reportedly invited to join Saudi Arabia, Pakistan and Turkey’s Mecca defence pact",
     "‘Iran tried to murder my son’: Netanyahu makes big claim against Tehran",
     "Give Imran Khan proper medical care, cricket legends urge Pakistani gov’t",
     "Who Is Margarita Reutt? Woman Accused Of Killing Russian Naval Officer",
     "Porsche Inks $1.5 Billion AI Deal With India’s Tata Consultancy",
-    "Stock Market Today: Nasdaq, S&P 500 Close Lower to Begin Week as Chip Stocks Sink; Bitcoin Nears $80,000",
+    "Markets News, Aug. 24, 2026: Nasdaq, S&P 500 Close Lower to Begin Week as Chip Stocks Sink; Bitcoin Nears $80,000",
     "Piyush Goyal says India negotiating FTAs with 8 to 9 more blocs, aims to cover 75% of global trade",
-    "Stock Market Highlights, Sensex Today: Sensex Drops 170 Points Lower Amid Mixed Global Cues",
-    "Garmin Fenix 9 Pro said to feature brand-new titanium unibody design and larger display",
-    "Forget the Garmin Fenix 9, Casio has a new surf adventure watch that sells for a fraction of the Garmin’s price",
+    "After exit, will former Tata Sons chief Chandrasekaran get a place in Modi Cabinet?",
+    "Garmin Fenix 9 (Pro) leaks in pictures, including AMOLED and solar MiP versions",
     "iPhone 18 series prices confirmed to go up due to rising memory chip cost - GSMArena.com news",
+    "Forget the Garmin Fenix 9, Casio has a new surf adventure watch that sells for a fraction of the Garmin’s price",
     "The iPhone Ultra has impressed early testers in every respect except for the cameras, says Mark Gurman",
-    "Awarapan 2 Box Office: Emraan Hashmi starrer surpasses Welcome To The Jungle, becomes 5th highest grosser of 2026",
-    "Who is Sriya Reddy playing Mahakali opposite Akshaye Khanna? Know about her cricketing family and ‘Salaar",
-    "19-year-old law student from Kerala is now India's Miss Universe 2026 winner"
+    "'Awarapan 2' box office collection Day 11 [LIVE]: Emraan Hashmi and Disha Patani film eyes Rs 140 crore I",
+    "Hanuman Ansh Box Office Collection Day 17: Unbelievable 595% Jump In 3rd Weekend Over Week 2",
+    "Meet Kaziah Liz Mejo, Kerala’s 19-year-old Miss Universe India 2026 winner"
   ],
   "quiz": [
+    {
+      "blanked": "Who Is Margarita Reutt? Woman Accused Of Killing Russian ______ Officer",
+      "answer": "Naval",
+      "options": [
+        "Issue",
+        "Harmanpreet",
+        "50%",
+        "Naval"
+      ]
+    },
+    {
+      "blanked": "Trump threatens 50% tariffs on all cars and trucks from ______ amid trade fight",
+      "answer": "Canada",
+      "options": [
+        "Canada",
+        "Reutt",
+        "FTAs",
+        "Karnataka"
+      ]
+    },
+    {
+      "blanked": "Jurel ton, early SL wickets rubber-stamp India's dominance in ______ Test",
+      "answer": "Colombo",
+      "options": [
+        "Iran",
+        "Colombo",
+        "Hashmi",
+        "Universe"
+      ]
+    },
     {
       "blanked": "The iPhone Ultra has impressed early testers in every respect except for the cameras, says ______ Gurman",
       "answer": "Mark",
       "options": [
-        "Since",
-        "Mark",
-        "Begin",
-        "Lower"
+        "Box",
+        "Close",
+        "Argentina",
+        "Mark"
       ]
     },
     {
-      "blanked": "Hanuman Ansh Box Office Collection Day 17: Unbelievable 595% Jump In 3rd ______ Over Week 2",
-      "answer": "Weekend",
+      "blanked": "‘Iran tried to murder my son’: ______ makes big claim against Tehran",
+      "answer": "Netanyahu",
       "options": [
-        "Weekend",
-        "IND",
-        "Collection",
-        "Fee"
+        "Big",
+        "Modi",
+        "Unacceptable",
+        "Netanyahu"
       ]
     },
     {
-      "blanked": "US Plans Massive Hike In H-1B ______ Fee, Indians Brace For Big Impact",
-      "answer": "Visa",
+      "blanked": "Carse removed from ______ squad as Cricket Regulator investigates",
+      "answer": "England",
       "options": [
-        "CJPs",
-        "Visa",
-        "Lower",
-        "Fenix"
-      ]
-    },
-    {
-      "blanked": "Awarapan 2 Box ______ Emraan Hashmi starrer surpasses Welcome To The Jungle, becomes 5th highest grosser of 2026",
-      "answer": "Office",
-      "options": [
-        "Ultra",
         "Colombo",
-        "Office",
-        "Consultancy"
+        "England",
+        "Noida",
+        "Week"
+      ]
+    },
+    {
+      "blanked": "Why is there a sudden increase in sugar prices? | ______",
+      "answer": "Explained",
+      "options": [
+        "Bitcoin",
+        "1.5",
+        "Shukracharya",
+        "Explained"
+      ]
+    },
+    {
+      "blanked": "Using thunderquakes to ______ earth – a new study shows urban seismology in action",
+      "answer": "X-ray",
+      "options": [
+        "Inks",
+        "Unacceptable",
+        "X-ray",
+        "Day"
       ]
     },
     {
       "blanked": "China's Xi likely to visit ______ with big delegation for first time in seven years",
       "answer": "India",
       "options": [
-        "India",
-        "Plans",
-        "Regulator",
-        "Week"
-      ]
-    },
-    {
-      "blanked": "China delays mission to find water on ______ until after this year",
-      "answer": "Moon",
-      "options": [
-        "Imran",
-        "Moon",
-        "Pakistan",
-        "Years"
-      ]
-    },
-    {
-      "blanked": "TNPL 2026 Eliminator Predictions: Lyca Kovai Kings vs ______ Tamizhans",
-      "answer": "Tiruppur",
-      "options": [
-        "Tiruppur",
-        "Sensex",
-        "Box",
-        "Wi-Fi"
-      ]
-    },
-    {
-      "blanked": "Garmin Fenix 9 ______ said to feature brand-new titanium unibody design and larger display",
-      "answer": "Pro",
-      "options": [
+        "Langer",
         "Pro",
-        "Billion",
-        "Developed",
-        "Arabia"
+        "India",
+        "Office"
       ]
     },
     {
-      "blanked": "Govt wants to do to students what it did to ______ workers, CJP’s Abhijeet Dipke says",
-      "answer": "Noida",
+      "blanked": "Taphou Kuki Village Reports Attack by Armed Men; ______ Authority Condemns House Burning",
+      "answer": "Village",
       "options": [
-        "Cup",
-        "England",
-        "Noida",
-        "Maharashtra"
+        "Indias",
+        "Village",
+        "Gurman",
+        "Office"
       ]
     },
     {
-      "blanked": "Who Is Margarita Reutt? Woman ______ Of Killing Russian Naval Officer",
-      "answer": "Accused",
+      "blanked": "Piyush ______ says India negotiating FTAs with 8 to 9 more blocs, aims to cover 75% of global trade",
+      "answer": "Goyal",
       "options": [
-        "Naval",
-        "Maharashtra",
-        "Accused",
-        "Day"
-      ]
-    },
-    {
-      "blanked": "Stock Market Today: Nasdaq, S&P 500 Close ______ to Begin Week as Chip Stocks Sink; Bitcoin Nears $80,000",
-      "answer": "Lower",
-      "options": [
-        "Lower",
+        "Mejo",
         "Office",
-        "Predictions",
-        "Sriya"
+        "Accused",
+        "Goyal"
       ]
     },
     {
-      "blanked": "Porsche ______ $1.5 Billion AI Deal With India’s Tata Consultancy",
-      "answer": "Inks",
+      "blanked": "Meet Kaziah Liz Mejo, Kerala’s 19-year-old ______ Universe India 2026 winner",
+      "answer": "Miss",
       "options": [
-        "Inks",
-        "Revanth",
-        "Colombo",
-        "Cup"
+        "Mejo",
+        "Miss",
+        "Sons",
+        "Warning"
       ]
     }
   ]
