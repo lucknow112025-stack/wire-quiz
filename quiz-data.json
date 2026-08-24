@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-24T21:01:03.410Z",
+  "generatedAt": "2026-08-24T22:01:17.395Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
     "Iran’s rial currency hits new record low as U.S. prepares to announce more sanctions",
     "US Plans Massive Hike In H-1B Visa Fee, Indians Brace For Big Impact",
+    "Trump threatens 50% tariffs on all cars and trucks from Canada amid trade fight",
     "China's Xi likely to visit India with big delegation for first time in seven years",
     "Govt wants to do to students what it did to Noida workers, CJP’s Abhijeet Dipke says",
-    "‘Disparage India’s traditions’: Yogi Adityanath tears into Rahul Gandhi’s Manusmriti remarks",
     "‘You don't know what actually happened’: After Maharashtra cliff tragedy, aunt rejects iPhone claim",
     "EVMs not connected to internet, Bluetooth or Wi-Fi: CEC Gyanesh Kumar",
     "CM Revanth calls Centre’s denial of U.S. clearance an ‘insult’ to Telangana, discrimination against it",
-    "SIR in Karnataka: Here’s how you can check your name in draft electoral roll",
-    "Punjab Assembly poll: BJP to contest all 117 seats, says BL Santosh at Patiala meet",
-    "\"Iran Tried To Murder One Of My Sons\": Benjamin Netanyahu's Explosive Claim",
+    "One Hour Of Rain Exposes Gurugram's Civic Infrastructure Again",
+    "Why is there a sudden increase in sugar prices? | Explained",
     "Iran reportedly invited to join Saudi Arabia, Pakistan and Turkey’s Mecca defence pact",
+    "‘Iran tried to murder my son’: Netanyahu makes big claim against Tehran",
     "Give Imran Khan proper medical care, cricket legends urge Pakistani gov’t",
-    "Houthi Official: Yemen Forces Target Saudi Oil Tanker 'Amzan' In Red Sea",
-    "India's TCS to buy Porsche's IT unit, bags 5-year deal worth $1.46 billion",
-    "SoftBank sells Rs 2,888 crore worth shares in Lenskart; Societe Generale, Goldman Sachs, Motilal Oswal...",
-    "Stock Market Today: Nasdaq, S&P 500 Slip as Chip Stocks Sink; Oil Falls Ahead of Bessent Press Conference on Iran Sanctions",
+    "Vance: Canada and China have been the worst countries for trade policy",
+    "Porsche Inks $1.5 Billion AI Deal With India’s Tata Consultancy",
+    "Stock Market Today: Nasdaq, S&P 500 Close Lower to Begin Week as Chip Stocks Sink; Bitcoin Nears $80,000",
     "Piyush Goyal says India negotiating FTAs with 8 to 9 more blocs, aims to cover 75% of global trade",
+    "Godrej Industries group signs pact to invest Rs 20,000 crore in Haryana",
     "Garmin Fenix 9 (Pro) leaks in pictures, including AMOLED and solar MiP versions",
-    "Casio launches new G-Shock watch in the US with heart rate tracking, solar charging & tide forecasts",
-    "Gurman: Early iPhone Ultra testers praise its design, hinge and usability - GSMArena.com news",
-    "iPhone 18 Pro Release Date Has Already Crushed The Competition",
-    "'Awarapan 2' box office collection day 10: Emraan Hashmi's film nears Rs 140 crore net in India after an",
-    "Asim Riaz dismisses Himanshi Khurana’s claim he pressured her to convert: ‘Never asked to change religion’",
-    "New OTT releases (August 24-August 30): 12 new movies & shows arriving on Netflix, JioHotstar & more"
+    "Forget the Garmin Fenix 9, Casio has a new surf adventure watch that sells for a fraction of the Garmin’s price",
+    "iPhone 18 series prices confirmed to go up due to rising memory chip cost - GSMArena.com news",
+    "The iPhone Ultra has impressed early testers in every respect except for the cameras, says Mark Gurman",
+    "'Awarapan 2' box office collection Day 11 [LIVE]: Emraan Hashmi and Disha Patani film eyes Rs 140 crore I",
+    "Kangana Ranaut slams Taapsee Pannu, Rakhi Sawant, Sonu Sood: ‘Mere saman 1% bhi life mein success nahi kama paye ho’ | Bollywood",
+    "Mahakali: Akshaye Khanna is unrecognisable in first theatrical release after Dhurandhar"
   ],
   "quiz": [
     {
-      "blanked": "SoftBank sells Rs 2,888 crore worth shares in Lenskart; Societe ______ Goldman Sachs, Motilal Oswal...",
-      "answer": "Generale",
+      "blanked": "Kangana Ranaut slams Taapsee Pannu, Rakhi Sawant, Sonu ______ ‘Mere saman 1% bhi life mein success nahi kama paye ho’ | Bollywood",
+      "answer": "Sood",
       "options": [
-        "Isnt",
-        "Generale",
-        "2026",
-        "2888"
+        "Day",
+        "Sood",
+        "Telangana",
+        "Mens"
       ]
     },
     {
-      "blanked": "H1N1 flu alert in Delhi: Should you wear masks? ______ the guidelines say",
-      "answer": "What",
+      "blanked": "India vs Argentina Highlights, Men's Hockey World Cup 2026: IND 3-5 ARG; ______ and Co. knocked out",
+      "answer": "Harmanpreet",
       "options": [
-        "Centres",
-        "What",
-        "Assembly",
-        "Gill"
-      ]
-    },
-    {
-      "blanked": "SIR in Karnataka: ______ how you can check your name in draft electoral roll",
-      "answer": "Heres",
-      "options": [
-        "Developed",
-        "India",
-        "Heres",
-        "Yogi"
-      ]
-    },
-    {
-      "blanked": "Iran reportedly invited to join Saudi Arabia, Pakistan and Turkey’s ______ defence pact",
-      "answer": "Mecca",
-      "options": [
-        "Cup",
-        "Mecca",
-        "Colombo",
-        "Plans"
-      ]
-    },
-    {
-      "blanked": "CM ______ calls Centre’s denial of U.S. clearance an ‘insult’ to Telangana, discrimination against it",
-      "answer": "Revanth",
-      "options": [
-        "Iran",
-        "ARG",
-        "Developed",
-        "Revanth"
-      ]
-    },
-    {
-      "blanked": "‘You don't know what actually happened’: After ______ cliff tragedy, aunt rejects iPhone claim",
-      "answer": "Maharashtra",
-      "options": [
-        "JioHotstar",
-        "World",
-        "Tanker",
-        "Maharashtra"
+        "20000",
+        "Fenix",
+        "Harmanpreet",
+        "Imran"
       ]
     },
     {
       "blanked": "China delays mission to find water on ______ until after this year",
       "answer": "Moon",
       "options": [
-        "Arabia",
-        "Massive",
-        "75%",
-        "Moon"
-      ]
-    },
-    {
-      "blanked": "India's TCS to buy Porsche's IT unit, bags 5-year deal worth ______ billion",
-      "answer": "1.46",
-      "options": [
-        "1.46",
-        "Telangana",
-        "Netanyahus",
-        "Adityanath"
-      ]
-    },
-    {
-      "blanked": "Punjab Assembly poll: BJP to contest all ______ seats, says BL Santosh at Patiala meet",
-      "answer": "117",
-      "options": [
-        "2888",
-        "Gyanesh",
+        "Astronomers",
         "Moon",
-        "117"
+        "Indias",
+        "Telangana"
       ]
     },
     {
-      "blanked": "Garmin ______ 9 (Pro) leaks in pictures, including AMOLED and solar MiP versions",
-      "answer": "Fenix",
+      "blanked": "Forget the Garmin Fenix 9, Casio has a new surf adventure watch that sells for a fraction of the ______ price",
+      "answer": "Garmins",
       "options": [
-        "Fenix",
+        "Big",
+        "Office",
+        "Garmins",
+        "1.5"
+      ]
+    },
+    {
+      "blanked": "No new H1N1 strain in ______ existing vaccines sufficient, says ICMR",
+      "answer": "India",
+      "options": [
+        "Day",
+        "Fee",
+        "India",
+        "Patani"
+      ]
+    },
+    {
+      "blanked": "Carse removed from England squad as Cricket ______ investigates",
+      "answer": "Regulator",
+      "options": [
         "Centres",
-        "Himanshi",
-        "Big"
+        "Weekend",
+        "Regulator",
+        "Years"
       ]
     },
     {
-      "blanked": "Govt wants to do to students what it did to Noida workers, CJP’s Abhijeet ______ says",
-      "answer": "Dipke",
+      "blanked": "Stock Market Today: Nasdaq, S&P 500 Close Lower to Begin Week as Chip Stocks Sink; ______ Nears $80,000",
+      "answer": "Bitcoin",
       "options": [
-        "Turkeys",
+        "595%",
+        "Bitcoin",
+        "Ansh",
+        "Gurman"
+      ]
+    },
+    {
+      "blanked": "The iPhone Ultra has impressed early testers in every respect except for the cameras, says ______ Gurman",
+      "answer": "Mark",
+      "options": [
+        "Hour",
+        "Colombo",
+        "Mark",
+        "FTAs"
+      ]
+    },
+    {
+      "blanked": "Give Imran ______ proper medical care, cricket legends urge Pakistani gov’t",
+      "answer": "Khan",
+      "options": [
+        "Khan",
+        "20000",
+        "Imran",
+        "Brace"
+      ]
+    },
+    {
+      "blanked": "Godrej Industries group signs pact to invest Rs ______ crore in Haryana",
+      "answer": "20000",
+      "options": [
+        "Khanna",
+        "20000",
+        "Pannu",
+        "Utd"
+      ]
+    },
+    {
+      "blanked": "Govt wants to do to students what it did to Noida workers, ______ Abhijeet Dipke says",
+      "answer": "CJPs",
+      "options": [
+        "CJPs",
+        "Pluto",
+        "IND",
+        "Years"
+      ]
+    },
+    {
+      "blanked": "Trump threatens ______ tariffs on all cars and trucks from Canada amid trade fight",
+      "answer": "50%",
+      "options": [
+        "50%",
         "Dipke",
-        "Maharashtra",
-        "Hashmis"
-      ]
-    },
-    {
-      "blanked": "iPhone 18 Pro Release Date ______ Already Crushed The Competition",
-      "answer": "Has",
-      "options": [
-        "Has",
-        "Impact",
-        "Drug",
-        "Lenskart"
+        "Planet",
+        "Test"
       ]
     }
   ]
