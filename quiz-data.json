@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T23:42:18.006Z",
+  "generatedAt": "2026-08-24T00:01:36.760Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
@@ -7,97 +7,107 @@
     "Iran ‘invited’ to join Pakistan-Turkey-Saudi Arabia's Mecca defence pact; report says proposal being ‘considered’ | World News",
     "Iran says new sanctions threatened by 'desperate' US will fail",
     "Eyes on Xi visit, ‘early harvest’ as Doval heads to Beijing",
-    "28-Year-Old Sikh Man Shot Dead While Delivering Pizza In New York, Punjabi Body Condemns Killing",
     "Revanth Reddy Thanks Kharge for Support Amid US Tour Row",
+    "'Empty promises': Cockroach Janta Party warns of another Jantar Mantar-like protest, accuses Centre of 'vishwasghat' | India News",
     "iPhone EMI Not Sole Trigger? Teen Attempted Suicide Last Year From Same Cliff",
     "2 MLAs Among 6 Injured As Car Rams SUV After CNG Cylinder Explodes In Delhi",
     "Operation Sindoor, Wagah-Attari shut: How 150 Pakistani-Sindhi brides reached India amid strained ties | India News",
     "Police recover IED near Sector 43 bus stand in Chandigarh; 3 apprehended",
-    "Iran discovers over 7.5 trillion cubic feet of gas reserves as US blockade squeezes energy sector",
-    "Former cricket captains urge Pakistan to ensure ‘humane treatment, proper medical care’ for Imran Khan",
+    "Iran Says Discovered Over 200 Billion Cubic Metres Of Natural Gas",
     "Iran's President says U.S. memorandum is best path out of stalled war",
+    "Former cricket captains urge Pakistan to ensure ‘humane treatment, proper medical care’ for Imran Khan",
     "5.9-magnitude earthquake strikes Japan, injuring at least 37",
     "SBI may reach Rs 200 lakh crore total business by 2030: Chairman CS Setty",
-    "Rs 62,500 crore to Rs 39 lakh crore: The roadmap of India’s new mobile manufacturing scheme",
     "India’s 100,000-bed shortage: Why these 2 hospital stocks could have years of growth",
-    "Anthropic May Go Public This Month, Aims To Top SpaceX's Record IPO Size",
-    "Apple’s first foldable iPhone may take a step back from using standard feature for authentication",
-    "Fake 113GB GTA VI build spreads online with 50KB virus hidden inside, analysis claims",
-    "Samsung Galaxy S27 Ultra will come in two sizes, according to CAD models",
-    "iPhone 18 series launch timeline: Here’s when Apple’s new flagship and first foldable device could be anno",
+    "Rs 62,500 crore to Rs 39 lakh crore: The roadmap of India’s new mobile manufacturing scheme",
+    "Gold, silver prices likely to extend gains next week as investors await US data",
+    "iPhone 18 Pro Release Date Has Already Crushed The Competition",
+    "Excited to Take Deep Zoom Photos With Your Foldable iPhone? Get Ready for Disappointment",
+    "Former Rockstar director calls 'GTA 6' leaks a 'nothing burger'",
+    "Two weeks with the Samsung Galaxy Z Flip 8 almost made me forget about the Motorola Razr",
     "‘Spider-Man: Brand New Day’ No. 1 $109M WW, ‘Insidious’ Franchise Rises To $800M WW – Global Box Office",
     "Irumudi Day 2 Worldwide Box Office Collections: Ravi Teja makes comeback with STRONG hold, smashes Rs 44.50 crore in two days globally",
     "Shahid Kapoor's Deva Co-Star Rohullah Mehdi Arrested In Mumbai Drugs Case"
   ],
   "quiz": [
     {
-      "blanked": "2 MLAs Among 6 Injured As ______ Rams SUV After CNG Cylinder Explodes In Delhi",
-      "answer": "Car",
+      "blanked": "2 MLAs Among 6 Injured As Car ______ SUV After CNG Cylinder Explodes In Delhi",
+      "answer": "Rams",
       "options": [
-        "Aims",
-        "Canada",
-        "GTA",
-        "Car"
+        "Rams",
+        "Khan",
+        "Sindoor",
+        "Mehdi"
       ]
     },
     {
-      "blanked": "28-Year-Old Sikh Man Shot Dead While ______ Pizza In New York, Punjabi Body Condemns Killing",
-      "answer": "Delivering",
+      "blanked": "‘Spider-Man: ______ New Day’ No. 1 $109M WW, ‘Insidious’ Franchise Rises To $800M WW – Global Box Office",
+      "answer": "Brand",
       "options": [
-        "Wagah-Attari",
-        "Model",
-        "Delivering",
-        "State"
-      ]
-    },
-    {
-      "blanked": "AI Model ______ Promise for Predicting Peanut Allergy",
-      "answer": "Shows",
-      "options": [
-        "Japan",
-        "Shows",
-        "President",
-        "Aims"
-      ]
-    },
-    {
-      "blanked": "Anthropic May Go Public This Month, Aims To Top SpaceX's ______ IPO Size",
-      "answer": "Record",
-      "options": [
-        "Deva",
         "Brand",
-        "Record",
-        "Care"
+        "Imran",
+        "Hopkins",
+        "Same"
       ]
     },
     {
-      "blanked": "Samsung ______ S27 Ultra will come in two sizes, according to CAD models",
-      "answer": "Galaxy",
+      "blanked": "Iran ‘invited’ to join Pakistan-Turkey-Saudi Arabia's ______ defence pact; report says proposal being ‘considered’ | World News",
+      "answer": "Mecca",
       "options": [
-        "News",
-        "Body",
-        "Mehdi",
-        "Galaxy"
+        "NASA",
+        "Mecca",
+        "Care",
+        "Photos"
       ]
     },
     {
-      "blanked": "Iran's ______ says U.S. memorandum is best path out of stalled war",
-      "answer": "President",
+      "blanked": "India vs Australia HIGHLIGHTS, Women’s Hockey World ______ — Wasteful India crashes out after 0-0 draw, to play for fifth place",
+      "answer": "Cup",
       "options": [
-        "President",
-        "Year",
-        "Championships",
-        "Galaxy"
+        "Cup",
+        "STRONG",
+        "Deva",
+        "Last"
       ]
     },
     {
-      "blanked": "Shahid Kapoor's Deva Co-Star Rohullah Mehdi Arrested In ______ Drugs Case",
+      "blanked": "Former Rockstar director calls ______ 6' leaks a 'nothing burger'",
+      "answer": "GTA",
+      "options": [
+        "Colombo",
+        "GTA",
+        "Bengal",
+        "Chairman"
+      ]
+    },
+    {
+      "blanked": "In 2022, Johns ______ researchers found that bonobos and chimpanzees can remember former companions; one",
+      "answer": "Hopkins",
+      "options": [
+        "Hopkins",
+        "150",
+        "Sector",
+        "NASA"
+      ]
+    },
+    {
+      "blanked": "Veteran film and TV actress Asha Singh passes away in ______",
       "answer": "Mumbai",
       "options": [
-        "Doval",
+        "200",
+        "Kharge",
         "Mumbai",
-        "Trump",
-        "Model"
+        "Setty"
+      ]
+    },
+    {
+      "blanked": "Irumudi Day 2 Worldwide Box Office Collections: ______ Teja makes comeback with STRONG hold, smashes Rs 44.50 crore in two days globally",
+      "answer": "Ravi",
+      "options": [
+        "Insidious",
+        "Benefits",
+        "Ravi",
+        "Sole"
       ]
     },
     {
@@ -105,49 +115,39 @@
       "answer": "Mental",
       "options": [
         "Mental",
-        "Frances",
-        "Durand",
-        "Not"
+        "Mantar-like",
+        "62500",
+        "Benefits"
       ]
     },
     {
-      "blanked": "Iran ‘invited’ to join Pakistan-Turkey-Saudi Arabia's ______ defence pact; report says proposal being ‘considered’ | World News",
-      "answer": "Mecca",
+      "blanked": "SBI may reach Rs 200 lakh crore total business by ______ Chairman CS Setty",
+      "answer": "2030",
       "options": [
-        "200",
-        "Year",
-        "Dead",
-        "Mecca"
+        "Care",
+        "2030",
+        "44.50",
+        "Foldable"
       ]
     },
     {
-      "blanked": "Rs ______ crore to Rs 39 lakh crore: The roadmap of India’s new mobile manufacturing scheme",
-      "answer": "62500",
+      "blanked": "iPhone EMI Not Sole Trigger? Teen Attempted Suicide Last Year From Same ______",
+      "answer": "Cliff",
       "options": [
-        "How",
-        "Global",
-        "News",
-        "62500"
+        "Cliff",
+        "Cockroach",
+        "Setty",
+        "Mumbai"
       ]
     },
     {
-      "blanked": "Irumudi Day 2 Worldwide Box Office Collections: Ravi ______ makes comeback with STRONG hold, smashes Rs 44.50 crore in two days globally",
-      "answer": "Teja",
+      "blanked": "Shahid Kapoor's ______ Co-Star Rohullah Mehdi Arrested In Mumbai Drugs Case",
+      "answer": "Deva",
       "options": [
-        "Teja",
-        "Chandigarh",
-        "Predicting",
-        "2022"
-      ]
-    },
-    {
-      "blanked": "SBI may reach Rs 200 lakh crore total business by 2030: ______ CS Setty",
-      "answer": "Chairman",
-      "options": [
-        "One",
-        "Man",
-        "Chairman",
-        "York"
+        "Deva",
+        "Pakistani-Sindhi",
+        "Roman",
+        "Mumbai"
       ]
     }
   ]
