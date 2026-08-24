@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-24T00:01:36.760Z",
+  "generatedAt": "2026-08-24T03:36:38.794Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "\"Want Benefits Of Being A State Without Being One\": Trump Hits Back At Canada",
-    "Iran ‘invited’ to join Pakistan-Turkey-Saudi Arabia's Mecca defence pact; report says proposal being ‘considered’ | World News",
     "Iran says new sanctions threatened by 'desperate' US will fail",
-    "Eyes on Xi visit, ‘early harvest’ as Doval heads to Beijing",
-    "Revanth Reddy Thanks Kharge for Support Amid US Tour Row",
-    "'Empty promises': Cockroach Janta Party warns of another Jantar Mantar-like protest, accuses Centre of 'vishwasghat' | India News",
+    "2 MLAs among several injured after car crashes into SUV in Delhi | India News",
+    "PM Modi says India can ‘very quickly’ make its place in global space sector: ‘We must create an aura that…’ | India News",
+    "Iran invited to join Mecca Pact amid tensions with Saudi Arabia, Houthis?",
+    "‘We Are Watching Your Every Move’: Fresh Threat Letter Targets Kashmiri Pandit Families | Exclusive",
+    "\"Want Benefits Of Being A State Without Being One\": Trump Hits Back At Canada",
+    "3 Newborns Die After Ventilator Blast Triggers Fire At Maharashtra Hospital",
+    "KPSC ‘scam’ case: ED raids IAS officer Gangwar's premises in Karnataka",
     "iPhone EMI Not Sole Trigger? Teen Attempted Suicide Last Year From Same Cliff",
-    "2 MLAs Among 6 Injured As Car Rams SUV After CNG Cylinder Explodes In Delhi",
-    "Operation Sindoor, Wagah-Attari shut: How 150 Pakistani-Sindhi brides reached India amid strained ties | India News",
-    "Police recover IED near Sector 43 bus stand in Chandigarh; 3 apprehended",
-    "Iran Says Discovered Over 200 Billion Cubic Metres Of Natural Gas",
+    "'Industry' Definition : No Clear Majority Emerges From Supreme Court Judgment, Only 4 Out Of 9 Judges...",
+    "30 Killed In Guinea Capital After Landfill Collapse",
     "Iran's President says U.S. memorandum is best path out of stalled war",
     "Former cricket captains urge Pakistan to ensure ‘humane treatment, proper medical care’ for Imran Khan",
-    "5.9-magnitude earthquake strikes Japan, injuring at least 37",
-    "SBI may reach Rs 200 lakh crore total business by 2030: Chairman CS Setty",
-    "India’s 100,000-bed shortage: Why these 2 hospital stocks could have years of growth",
-    "Rs 62,500 crore to Rs 39 lakh crore: The roadmap of India’s new mobile manufacturing scheme",
-    "Gold, silver prices likely to extend gains next week as investors await US data",
+    "US sanctions pressure Iran as Hormuz tensions persist; Iran president admits country facing 'many problems'",
+    "Onion prices surge; Centre to roll out Kanda Express from Monday",
+    "Vodafone Idea close to securing loan from SBI, but on a condition",
+    "First Tick: Top global cues to watch in today's trade",
+    "SEBI Nod For NSE IPO Awaits SBI-SBICAPS Split",
+    "Gurman: iPhone Ultra Wows Early Testers, Except for Its Camera",
     "iPhone 18 Pro Release Date Has Already Crushed The Competition",
-    "Excited to Take Deep Zoom Photos With Your Foldable iPhone? Get Ready for Disappointment",
-    "Former Rockstar director calls 'GTA 6' leaks a 'nothing burger'",
+    "9th GTA 6 leak teases Lucia gameplay after prior Cyberleek videos focus on Jason",
     "Two weeks with the Samsung Galaxy Z Flip 8 almost made me forget about the Motorola Razr",
-    "‘Spider-Man: Brand New Day’ No. 1 $109M WW, ‘Insidious’ Franchise Rises To $800M WW – Global Box Office",
     "Irumudi Day 2 Worldwide Box Office Collections: Ravi Teja makes comeback with STRONG hold, smashes Rs 44.50 crore in two days globally",
-    "Shahid Kapoor's Deva Co-Star Rohullah Mehdi Arrested In Mumbai Drugs Case"
+    "Actor Aasha Jaiswal Singh, Known For Mimicking Meena Kumari's Voice, Dies In Mumbai",
+    "Aditya Seal and Anushka Ranjan welcome twin baby girls; announce names Vira and Mahi, call daughters thei"
   ],
   "quiz": [
     {
-      "blanked": "2 MLAs Among 6 Injured As Car ______ SUV After CNG Cylinder Explodes In Delhi",
-      "answer": "Rams",
+      "blanked": "Onion prices surge; Centre to roll out ______ Express from Monday",
+      "answer": "Kanda",
       "options": [
-        "Rams",
-        "Khan",
-        "Sindoor",
-        "Mehdi"
+        "Kanda",
+        "Families",
+        "Already",
+        "Nod"
       ]
     },
     {
-      "blanked": "‘Spider-Man: ______ New Day’ No. 1 $109M WW, ‘Insidious’ Franchise Rises To $800M WW – Global Box Office",
-      "answer": "Brand",
+      "blanked": "KPSC ‘scam’ case: ED raids ______ officer Gangwar's premises in Karnataka",
+      "answer": "IAS",
       "options": [
-        "Brand",
-        "Imran",
-        "Hopkins",
-        "Same"
-      ]
-    },
-    {
-      "blanked": "Iran ‘invited’ to join Pakistan-Turkey-Saudi Arabia's ______ defence pact; report says proposal being ‘considered’ | World News",
-      "answer": "Mecca",
-      "options": [
-        "NASA",
-        "Mecca",
-        "Care",
-        "Photos"
-      ]
-    },
-    {
-      "blanked": "India vs Australia HIGHLIGHTS, Women’s Hockey World ______ — Wasteful India crashes out after 0-0 draw, to play for fifth place",
-      "answer": "Cup",
-      "options": [
-        "Cup",
-        "STRONG",
-        "Deva",
-        "Last"
-      ]
-    },
-    {
-      "blanked": "Former Rockstar director calls ______ 6' leaks a 'nothing burger'",
-      "answer": "GTA",
-      "options": [
-        "Colombo",
-        "GTA",
-        "Bengal",
-        "Chairman"
-      ]
-    },
-    {
-      "blanked": "In 2022, Johns ______ researchers found that bonobos and chimpanzees can remember former companions; one",
-      "answer": "Hopkins",
-      "options": [
-        "Hopkins",
-        "150",
-        "Sector",
-        "NASA"
-      ]
-    },
-    {
-      "blanked": "Veteran film and TV actress Asha Singh passes away in ______",
-      "answer": "Mumbai",
-      "options": [
-        "200",
-        "Kharge",
-        "Mumbai",
-        "Setty"
-      ]
-    },
-    {
-      "blanked": "Irumudi Day 2 Worldwide Box Office Collections: ______ Teja makes comeback with STRONG hold, smashes Rs 44.50 crore in two days globally",
-      "answer": "Ravi",
-      "options": [
-        "Insidious",
-        "Benefits",
-        "Ravi",
-        "Sole"
-      ]
-    },
-    {
-      "blanked": "Optimizing Cancer Survivorship Care Through Routine ______ Screening",
-      "answer": "Mental",
-      "options": [
-        "Mental",
-        "Mantar-like",
-        "62500",
-        "Benefits"
-      ]
-    },
-    {
-      "blanked": "SBI may reach Rs 200 lakh crore total business by ______ Chairman CS Setty",
-      "answer": "2030",
-      "options": [
-        "Care",
-        "2030",
-        "44.50",
-        "Foldable"
-      ]
-    },
-    {
-      "blanked": "iPhone EMI Not Sole Trigger? Teen Attempted Suicide Last Year From Same ______",
-      "answer": "Cliff",
-      "options": [
+        "Year",
+        "Wows",
         "Cliff",
-        "Cockroach",
-        "Setty",
-        "Mumbai"
+        "IAS"
       ]
     },
     {
-      "blanked": "Shahid Kapoor's ______ Co-Star Rohullah Mehdi Arrested In Mumbai Drugs Case",
-      "answer": "Deva",
+      "blanked": "iPhone 18 Pro Release Date Has Already ______ The Competition",
+      "answer": "Crushed",
       "options": [
-        "Deva",
-        "Pakistani-Sindhi",
-        "Roman",
-        "Mumbai"
+        "Crushed",
+        "Die",
+        "Saudi",
+        "Colombo"
+      ]
+    },
+    {
+      "blanked": "Iran invited to join Mecca Pact amid tensions with Saudi Arabia, ______",
+      "answer": "Houthis",
+      "options": [
+        "Guinea",
+        "Houthis",
+        "Sole",
+        "World"
+      ]
+    },
+    {
+      "blanked": "Aditya ______ and Anushka Ranjan welcome twin baby girls; announce names Vira and Mahi, call daughters thei",
+      "answer": "Seal",
+      "options": [
+        "Hubbles",
+        "Pandit",
+        "Seal",
+        "Arabia"
+      ]
+    },
+    {
+      "blanked": "Former cricket captains urge Pakistan to ensure ‘humane treatment, proper medical care’ for ______ Khan",
+      "answer": "Imran",
+      "options": [
+        "Imran",
+        "Split",
+        "Pro",
+        "Idea"
+      ]
+    },
+    {
+      "blanked": "Aries Horoscope Today: ______ 24, 2026",
+      "answer": "August",
+      "options": [
+        "August",
+        "Iran",
+        "STRONG",
+        "Killed"
+      ]
+    },
+    {
+      "blanked": "Capturing the Universe with 100 Times Hubble's ______ of View… NASA to Launch Roman Space Telescope on the 30th",
+      "answer": "Field",
+      "options": [
+        "India",
+        "Majority",
+        "Field",
+        "Fire"
+      ]
+    },
+    {
+      "blanked": "SEBI Nod For NSE ______ Awaits SBI-SBICAPS Split",
+      "answer": "IPO",
+      "options": [
+        "Samsung",
+        "Motorola",
+        "Iran",
+        "IPO"
+      ]
+    },
+    {
+      "blanked": "First ______ Top global cues to watch in today's trade",
+      "answer": "Tick",
+      "options": [
+        "Known",
+        "Colombo",
+        "Suicide",
+        "Tick"
+      ]
+    },
+    {
+      "blanked": "\"Want Benefits Of Being A State Without Being One\": Trump Hits Back At ______",
+      "answer": "Canada",
+      "options": [
+        "Pro",
+        "GTA",
+        "Mumbai",
+        "Canada"
+      ]
+    },
+    {
+      "blanked": "Optimizing Cancer Survivorship Care Through ______ Mental Screening",
+      "answer": "Routine",
+      "options": [
+        "Routine",
+        "Fresh",
+        "Judgment",
+        "Clear"
       ]
     }
   ]
