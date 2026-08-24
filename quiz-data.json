@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-24T16:06:28.647Z",
+  "generatedAt": "2026-08-24T17:51:20.170Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
+    "Trump threatens 50% tariffs on all cars and trucks from Canada amid trade fight",
     "Trump administration moves to impose more than $100,000 fee for H-1B worker visas",
     "Govt wants to do to students what it did to Noida workers, CJP’s Abhijeet Dipke says",
-    "\"Rumours\": Maharashtra Hill Tragedy Victims' Relative Over iPhone EMI Claims",
-    "TN govt drops Parandur airport plan, seeks alternative site",
-    "'Insult to Telangana': Revanth Reddy on Centre's denial for US visit | India News",
-    "Why is there a sudden increase in sugar prices? | Explained",
-    "WFH Advisory For Offices, Online Classes For Schools In Rain-Hit Gurugram",
-    "Houses burnt, CRPF jawan injured in gunfight in Manipur’s Senapati",
-    "Three newborn babies die in Maharashtra hospital NICU fire; CM Fadnavis orders high-level inquiry",
-    "Terror plot foiled in Chandigarh: 3 held with DIY bomb, firearm, 5 kg gelatin sticks in tiffin box near bus stand | India News",
-    "\"Canada Ripping Off US\": Trump Escalates Trade War With 50% Tariffs From 2027",
-    "Natural Gas and Oil Forecast: WTI, Brent Pull Back as Iran Sanctions Intensify",
+    "On India's 'No Press' Request, Sources Cite Trump's \"Unpredictable Behaviour\"",
+    "Gurugram offices, schools advised to 'work from home' amid heavy rain, waterlogging | India News",
+    "‘You don't know what actually happened’: After Maharashtra cliff tragedy, aunt rejects iPhone claim",
+    "EVMs not connected to internet, Bluetooth or Wi-Fi: CEC Gyanesh Kumar",
+    "Bangladesh, India discuss easing yarn imports through land ports",
+    "'Insult to 4cr people of Telangana': CM Revanth Reddy flays Centre over US visit block",
+    "BJP chief Nitin Nabin, Delhi CM Rekha Gupta get a taste of waterlogging at Talkatora Stadium",
     "Give Imran Khan proper medical care, cricket legends urge Pakistani gov’t",
-    "‘UK participating in Ukraine war’: What triggered Russia’s ‘outrageous threat’ to Britain",
-    "India to amend rules within 2 months to address semiconductor, auto component firms’ concerns: Piyush...",
+    "US threat of ‘economic D-Day’ for Iran tests Trump’s China detente",
+    "\"Iran Tried To Murder One Of My Sons\": Benjamin Netanyahu's Explosive Claim",
+    "Iran threatens 45 tankers with fines, confiscation in Hormuz escalation",
     "India's TCS to buy Porsche's IT unit, bags 5-year deal worth $1.46 billion",
-    "EXCLUSIVE: India plans first tokenised bond issue in September, sources say",
-    "Lalithaa Jewellery shares make strong market debut at 32% premium; should you buy, sell or hold?",
+    "After exit, will former Tata Sons chief Chandrasekaran get a place in Modi Cabinet?",
+    "One of America's biggest investor, 'Big Short' Michael Burry has dumped all his Alibaba stock and is buyi",
+    "Piyush Goyal says India negotiating FTAs with 8 to 9 more blocs, aims to cover 75% of global trade",
     "Major Garmin Launch Coming Tomorrow: Garmin Fenix 9 Expected",
     "Android Pulse app may already be on your phone, and now we know what it does",
-    "You can still nab an epic AU$1,000+ discount on the Samsung Galaxy Fold 8, 8 Ultra or Flip 8 with this coupon code — if you’re quick",
-    "Microsoft Windows 11 App Pushes Bing as Default Search in Chrome, Firefox and Brave",
-    "Kriti Sanon shares loved-up picture with rumoured boyfriend Kabir Bahia amid Raksha Bandhan ad controversy",
+    "Gurman: Early iPhone Ultra testers praise its design, hinge and usability - GSMArena.com news",
+    "iPhone 18 Pro, 18 Pro Max: Expected Specs, Features and Launch Date",
     "Rashmika Mandanna makes FIRST public appearance post hip injury; steps out with husband Vijay Deverakonda",
-    "Mahakali: Akshaye Khanna is unrecognisable in first theatrical release after Dhurandhar"
+    "Meet Kaziah Liz Mejo, Kerala’s 19-year-old Miss Universe India 2026 winner",
+    "Kriti Sanon shares loved-up picture with rumoured boyfriend Kabir Bahia amid Raksha Bandhan ad controversy"
   ],
   "quiz": [
     {
-      "blanked": "WFH Advisory For Offices, Online Classes For Schools In Rain-Hit ______",
-      "answer": "Gurugram",
+      "blanked": "Rashmika Mandanna makes FIRST public appearance post hip injury; steps out with husband ______ Deverakonda",
+      "answer": "Vijay",
       "options": [
-        "Gurugram",
-        "Online",
-        "Prime",
-        "Hockey"
+        "Nabin",
+        "Vijay",
+        "Cases",
+        "Expected"
       ]
     },
     {
-      "blanked": "Android ______ app may already be on your phone, and now we know what it does",
-      "answer": "Pulse",
+      "blanked": "Gurugram offices, schools advised to 'work from home' amid heavy rain, waterlogging | India ______",
+      "answer": "News",
       "options": [
-        "Pulse",
-        "Iran",
-        "Fenix",
-        "Sanctions"
+        "Porsches",
+        "India",
+        "Medal",
+        "News"
       ]
     },
     {
-      "blanked": "Julian Alvarez only has one way out of Atletico Madrid as ______ dream fades",
-      "answer": "Barcelona",
+      "blanked": "New Cancer ______ Option to Save Thousands from Major Surgery",
+      "answer": "Treatment",
       "options": [
-        "Garmin",
+        "Treatment",
+        "Mens",
         "Barcelona",
-        "Pulse",
-        "TCS"
+        "Mushtaq"
       ]
     },
     {
-      "blanked": "Major Garmin Launch Coming Tomorrow: ______ Fenix 9 Expected",
-      "answer": "Garmin",
+      "blanked": "Kriti Sanon shares loved-up picture with rumoured boyfriend Kabir ______ amid Raksha Bandhan ad controversy",
+      "answer": "Bahia",
       "options": [
-        "Pakistani",
-        "Ukraine",
-        "Strengthens",
-        "Garmin"
+        "Early",
+        "Test",
+        "Claim",
+        "Bahia"
       ]
     },
     {
-      "blanked": "Three newborn babies die in Maharashtra hospital NICU fire; CM ______ orders high-level inquiry",
-      "answer": "Fadnavis",
+      "blanked": "New Smart Drug RK-251 Developed as ______ for Chemotherapy",
+      "answer": "Replacement",
       "options": [
-        "Explained",
-        "Fadnavis",
-        "Alzheimers",
-        "Abhijeet"
-      ]
-    },
-    {
-      "blanked": "India vs Argentina ______ Men's Hockey World Cup 2026: IND 3-5 ARG; Harmanpreet and Co. knocked out",
-      "answer": "Highlights",
-      "options": [
-        "100000",
-        "2027",
-        "Highlights",
-        "Pulse"
-      ]
-    },
-    {
-      "blanked": "Trump administration moves to impose more than ______ fee for H-1B worker visas",
-      "answer": "100000",
-      "options": [
-        "100000",
+        "Sanon",
         "OTT",
-        "Pull",
-        "Deverakonda"
+        "Replacement",
+        "August"
+      ]
+    },
+    {
+      "blanked": "'Insult to 4cr people of Telangana': CM Revanth Reddy flays ______ over US visit block",
+      "answer": "Centre",
+      "options": [
+        "Centre",
+        "Hormuz",
+        "Sanon",
+        "India"
+      ]
+    },
+    {
+      "blanked": "Meet ______ Liz Mejo, Kerala’s 19-year-old Miss Universe India 2026 winner",
+      "answer": "Kaziah",
+      "options": [
+        "Kaziah",
+        "Behaviour",
+        "China",
+        "News"
+      ]
+    },
+    {
+      "blanked": "BJP chief Nitin Nabin, Delhi CM ______ Gupta get a taste of waterlogging at Talkatora Stadium",
+      "answer": "Rekha",
+      "options": [
+        "Save",
+        "Rekha",
+        "Bahia",
+        "Fenix"
       ]
     },
     {
       "blanked": "On this day in space! Aug. 24, 2006: ______ loses its planet status",
       "answer": "Pluto",
       "options": [
-        "1.46",
-        "Escalates",
-        "TCS",
-        "Pluto"
-      ]
-    },
-    {
-      "blanked": "Delhi Strengthens H1N1 Surveillance Amid ______ Influenza Cases",
-      "answer": "Rising",
-      "options": [
-        "Rising",
-        "September",
+        "Unpredictable",
         "Launch",
-        "Test"
+        "Pluto",
+        "Alibaba"
       ]
     },
     {
-      "blanked": "Give ______ Khan proper medical care, cricket legends urge Pakistani gov’t",
-      "answer": "Imran",
+      "blanked": "Major Garmin Launch ______ Tomorrow: Garmin Fenix 9 Expected",
+      "answer": "Coming",
       "options": [
-        "NICU",
-        "Escalates",
-        "Imran",
-        "Pull"
+        "One",
+        "Congressional",
+        "Revanth",
+        "Coming"
       ]
     },
     {
-      "blanked": "Why is there a sudden increase in sugar prices? | ______",
-      "answer": "Explained",
+      "blanked": "India's TCS to buy Porsche's IT unit, bags 5-year deal worth ______ billion",
+      "answer": "1.46",
       "options": [
-        "Explained",
-        "Abhijeet",
-        "Pushes",
-        "Khan"
+        "Murder",
+        "1.46",
+        "Space",
+        "Treatment"
       ]
     },
     {
-      "blanked": "Houses burnt, CRPF jawan injured in gunfight in ______ Senapati",
-      "answer": "Manipurs",
+      "blanked": "Jurel ton, early SL wickets rubber-stamp ______ dominance in Colombo Test",
+      "answer": "Indias",
       "options": [
-        "Manipurs",
-        "Classes",
-        "Vijay",
-        "September"
+        "Indias",
+        "Michael",
+        "CJPs",
+        "OTT"
       ]
     }
   ]
