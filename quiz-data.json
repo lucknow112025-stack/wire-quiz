@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-24T14:25:40.059Z",
+  "generatedAt": "2026-08-24T16:06:28.647Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
+    "Trump administration moves to impose more than $100,000 fee for H-1B worker visas",
     "Govt wants to do to students what it did to Noida workers, CJP’s Abhijeet Dipke says",
-    "'Insult to 4cr people of Telangana': CM Revanth Reddy flays Centre over US visit block",
     "\"Rumours\": Maharashtra Hill Tragedy Victims' Relative Over iPhone EMI Claims",
-    "Parandur airport project to be dropped by Tamil Nadu government, announces CM Vijay",
-    "Delhi on red alert as IMD warns of heavy rain, lightning; orange alert active for Noida, Gurgaon, Ghaziabad | Latest News Delhi",
-    "Trump agreed to India’s ‘no questions’ request at G7, then ‘forgot’ and held 45-min presser with PM Modi: US envoy",
-    "NSA Ajit Doval arrives in Beijing, set for border talks with China’s Wang Yi on August 25",
-    "One Hour Of Rain Exposes Gurugram's Civic Infrastructure Again",
-    "Vande Bharat Emerges Through Misty Western Ghats In Breathtaking Video: \"Like An Orange Snake\"",
+    "TN govt drops Parandur airport plan, seeks alternative site",
+    "'Insult to Telangana': Revanth Reddy on Centre's denial for US visit | India News",
+    "Why is there a sudden increase in sugar prices? | Explained",
+    "WFH Advisory For Offices, Online Classes For Schools In Rain-Hit Gurugram",
     "Houses burnt, CRPF jawan injured in gunfight in Manipur’s Senapati",
+    "Three newborn babies die in Maharashtra hospital NICU fire; CM Fadnavis orders high-level inquiry",
+    "Terror plot foiled in Chandigarh: 3 held with DIY bomb, firearm, 5 kg gelatin sticks in tiffin box near bus stand | India News",
+    "\"Canada Ripping Off US\": Trump Escalates Trade War With 50% Tariffs From 2027",
+    "Natural Gas and Oil Forecast: WTI, Brent Pull Back as Iran Sanctions Intensify",
     "Give Imran Khan proper medical care, cricket legends urge Pakistani gov’t",
-    "US threat of ‘economic D-Day’ for Iran tests Trump’s China detente",
-    "Iran invited to join Mecca pact by Saudi Arabia, Turkey, Pakistan: Report",
-    "‘Wants benefits of a State, without being one’: Trump hits back at Canada over retaliatory tariffs on U.S.",
+    "‘UK participating in Ukraine war’: What triggered Russia’s ‘outrageous threat’ to Britain",
+    "India to amend rules within 2 months to address semiconductor, auto component firms’ concerns: Piyush...",
     "India's TCS to buy Porsche's IT unit, bags 5-year deal worth $1.46 billion",
+    "EXCLUSIVE: India plans first tokenised bond issue in September, sources say",
     "Lalithaa Jewellery shares make strong market debut at 32% premium; should you buy, sell or hold?",
-    "Gold Rate In Hyderabad Surge: Check Latest 22 & 24-Carat Prices",
-    "Amazon, Flipkart hike seller fees ahead of festival season as e-com battle intensifies",
-    "Buy the Galaxy Z Flip 8 with a storage discount and other perks in the Netherlands",
+    "Major Garmin Launch Coming Tomorrow: Garmin Fenix 9 Expected",
     "Android Pulse app may already be on your phone, and now we know what it does",
-    "FCC Shoots Down Chinese Drone Maker's Claim That It Got Around the US Foreign Ban",
-    "Gurman: Early iPhone Ultra testers praise its design, hinge and usability - GSMArena.com news",
-    "Pony Verma shares rare picture with Prakash Raj on their 16th wedding anniversary: ‘My love, an infinity to go’ | Hindustan Times",
-    "Kriti Sanon's Raksha Bandhan commercial sparks mixed social media reactions as netizens question the outf",
-    "Asim Riaz dismisses Himanshi Khurana’s claim he pressured her to convert: ‘Never asked to change religion’"
+    "You can still nab an epic AU$1,000+ discount on the Samsung Galaxy Fold 8, 8 Ultra or Flip 8 with this coupon code — if you’re quick",
+    "Microsoft Windows 11 App Pushes Bing as Default Search in Chrome, Firefox and Brave",
+    "Kriti Sanon shares loved-up picture with rumoured boyfriend Kabir Bahia amid Raksha Bandhan ad controversy",
+    "Rashmika Mandanna makes FIRST public appearance post hip injury; steps out with husband Vijay Deverakonda",
+    "Mahakali: Akshaye Khanna is unrecognisable in first theatrical release after Dhurandhar"
   ],
   "quiz": [
     {
-      "blanked": "Kriti ______ Raksha Bandhan commercial sparks mixed social media reactions as netizens question the outf",
-      "answer": "Sanons",
+      "blanked": "WFH Advisory For Offices, Online Classes For Schools In Rain-Hit ______",
+      "answer": "Gurugram",
       "options": [
-        "Khan",
-        "Madrid",
-        "Emerges",
-        "Sanons"
+        "Gurugram",
+        "Online",
+        "Prime",
+        "Hockey"
       ]
     },
     {
-      "blanked": "It's been 20 years since ______ lost planet status. Will it ever get its title back?",
-      "answer": "Pluto",
+      "blanked": "Android ______ app may already be on your phone, and now we know what it does",
+      "answer": "Pulse",
       "options": [
-        "State",
-        "Verma",
-        "Pluto",
-        "News"
+        "Pulse",
+        "Iran",
+        "Fenix",
+        "Sanctions"
       ]
     },
     {
-      "blanked": "RK-251: ______ ‘smart’ cancer drug targets tumour cells, could offer alternative to chemotherapy",
-      "answer": "Indias",
+      "blanked": "Julian Alvarez only has one way out of Atletico Madrid as ______ dream fades",
+      "answer": "Barcelona",
       "options": [
-        "World",
-        "Screen",
-        "Khan",
-        "Indias"
+        "Garmin",
+        "Barcelona",
+        "Pulse",
+        "TCS"
       ]
     },
     {
-      "blanked": "Govt wants to do to students what it did to ______ workers, CJP’s Abhijeet Dipke says",
-      "answer": "Noida",
+      "blanked": "Major Garmin Launch Coming Tomorrow: ______ Fenix 9 Expected",
+      "answer": "Garmin",
       "options": [
-        "Arabia",
-        "Noida",
-        "Makers",
+        "Pakistani",
+        "Ukraine",
+        "Strengthens",
+        "Garmin"
+      ]
+    },
+    {
+      "blanked": "Three newborn babies die in Maharashtra hospital NICU fire; CM ______ orders high-level inquiry",
+      "answer": "Fadnavis",
+      "options": [
+        "Explained",
+        "Fadnavis",
+        "Alzheimers",
         "Abhijeet"
       ]
     },
     {
-      "blanked": "Amazon, ______ hike seller fees ahead of festival season as e-com battle intensifies",
-      "answer": "Flipkart",
+      "blanked": "India vs Argentina ______ Men's Hockey World Cup 2026: IND 3-5 ARG; Harmanpreet and Co. knocked out",
+      "answer": "Highlights",
       "options": [
-        "Flipkart",
-        "Manipurs",
-        "Times",
-        "Through"
+        "100000",
+        "2027",
+        "Highlights",
+        "Pulse"
       ]
     },
     {
-      "blanked": "Parandur airport project to be dropped by Tamil Nadu government, announces CM ______",
-      "answer": "Vijay",
+      "blanked": "Trump administration moves to impose more than ______ fee for H-1B worker visas",
+      "answer": "100000",
       "options": [
-        "Dipke",
-        "CHECK",
-        "Vijay",
-        "Snake"
+        "100000",
+        "OTT",
+        "Pull",
+        "Deverakonda"
       ]
     },
     {
-      "blanked": "US threat of ‘economic D-Day’ for Iran tests ______ China detente",
-      "answer": "Trumps",
+      "blanked": "On this day in space! Aug. 24, 2006: ______ loses its planet status",
+      "answer": "Pluto",
       "options": [
-        "Pakistani",
-        "Trumps",
-        "Around",
-        "Delhi"
-      ]
-    },
-    {
-      "blanked": "Give Imran ______ proper medical care, cricket legends urge Pakistani gov’t",
-      "answer": "Khan",
-      "options": [
-        "Shukracharya",
-        "Tragedy",
-        "Khan",
-        "Raj"
-      ]
-    },
-    {
-      "blanked": "Julian Alvarez only has one way out of ______ Madrid as Barcelona dream fades",
-      "answer": "Atletico",
-      "options": [
-        "Teaser",
+        "1.46",
+        "Escalates",
         "TCS",
-        "Atletico",
-        "Telangana"
+        "Pluto"
       ]
     },
     {
-      "blanked": "Gurman: ______ iPhone Ultra testers praise its design, hinge and usability - GSMArena.com news",
-      "answer": "Early",
+      "blanked": "Delhi Strengthens H1N1 Surveillance Amid ______ Influenza Cases",
+      "answer": "Rising",
       "options": [
-        "Bharat",
-        "Check",
-        "Hill",
-        "Early"
+        "Rising",
+        "September",
+        "Launch",
+        "Test"
       ]
     },
     {
-      "blanked": "Indian ______ Team’s slim chance of entering FIH Hockey World Cup 2026 semis depends on complex mathematics",
-      "answer": "Mens",
+      "blanked": "Give ______ Khan proper medical care, cricket legends urge Pakistani gov’t",
+      "answer": "Imran",
       "options": [
-        "Mens",
-        "Nadu",
-        "CRPF",
-        "Alzheimers"
+        "NICU",
+        "Escalates",
+        "Imran",
+        "Pull"
       ]
     },
     {
-      "blanked": "FACT CHECK: ______ raisins reduce constipation and improve digestion?",
-      "answer": "Can",
+      "blanked": "Why is there a sudden increase in sugar prices? | ______",
+      "answer": "Explained",
       "options": [
-        "Turkey",
-        "Ajit",
-        "Can",
-        "Khannas"
+        "Explained",
+        "Abhijeet",
+        "Pushes",
+        "Khan"
+      ]
+    },
+    {
+      "blanked": "Houses burnt, CRPF jawan injured in gunfight in ______ Senapati",
+      "answer": "Manipurs",
+      "options": [
+        "Manipurs",
+        "Classes",
+        "Vijay",
+        "September"
       ]
     }
   ]
