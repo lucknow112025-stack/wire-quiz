@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-25T05:16:59.496Z",
+  "generatedAt": "2026-08-25T08:00:14.036Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "How US sanctions on Iran ripple through global markets and consumers",
-    "Trump administration moves to impose more than $100,000 fee for H-1B worker visas",
-    "China's Xi likely to visit India with big delegation for first time in seven years",
-    "Trump intensifies attack on Canada amid tariff row, says 'won't treat them like a State' anymore | World News",
+    "Trump targets Iran’s trade lifelines — here are the countries most exposed",
+    "India-China talks: ‘Structural differences have not disappeared,’ says Chinese strategic affairs scholar",
+    "‘Hire and train Americans’: JD Vance defends proposed six-figure H-1B fee",
+    "‘8 deaths’: Rare protest at IIT Delhi after student’s suicide sparks anger",
     "Putin assures India of fuel, fertilisers amid disruptions over West Asia crisis | India News",
+    "'Not A US Subsidiary': Canada To Announce Retaliatory Tariffs Today",
+    "Govt wants to do to students what it did to Noida workers, CJP’s Abhijeet Dipke says",
+    "J&K CM Omar Abdullah asks police, security agencies to take poster threatening Kashmir Pandit employees s",
+    "TMC Secretary Abhishek Banerjee Moves Supreme Court Against 20 Rebel MPs, Seeks Expeditious Decison On...",
     "Flight diversions, waterlogging disrupt Delhi-NCR as heavy rain batters north India",
-    "Lessons From Jantar Mantar: Delhi Police's Ten Commandments On Protests",
-    "Marathi rule crackdown: Migrant auto, taxi drivers claim ‘harassment’, block Kandivali Link Road in protest",
-    "'Hijab Not Essential Part Of Islamic Faith': Allahabad High Court Dismisses Muslim Girl's Plea To Wear It ...",
-    "Rape convict Gurmeet Ram Rahim walks out of prison on 21-day furlough | India News",
-    "Iran invited to join Mecca pact by Saudi Arabia, Turkey, Pakistan: Report",
-    "‘UK participating in Ukraine war’: What triggered Russia’s ‘outrageous threat’ to Britain",
-    "Vance: Canada and China have been the worst countries for trade policy",
-    "US college applications from India fall 15%: Why students are looking beyond the American dream",
+    "Indian student applications to US colleges drop 15% amid tougher visa rules: Report",
+    "Israel’s Netanyahu claims Iran tried to kill one of his sons",
+    "China's New Missile Can Target Planes Flying Near US: Report",
+    "Iran releases rare footage of Mojtaba Khamenei amid questions over his health | Watch",
+    "Stock Market LIVE: Sensex drops 100 pts, Nifty around 24,150; Hindustan Copper shares fall 7%",
+    "Karnataka Suspends Amazon, Instamart, BigBasket's Licences Over 'Datura' Sales",
+    "India to sell up to 6% stake in Hindustan Copper via OFS",
     "Porsche inks $1.5 billion deal for AI deployment with India’s largest IT services firm Tata Consultancy",
-    "Stock Market Highlights, Sensex Today: Sensex Drops 170 Points Lower Amid Mixed Global Cues",
-    "Karnataka suspends food licences of Amazon, Swiggy Instamart, BigBasket over sale of toxic fruit datura",
-    "India’s new stock auction system faces first monthly expiry test",
     "iPhone 18 series prices confirmed to go up due to rising memory chip cost - GSMArena.com news",
-    "iPhone Ultra Foldable Wows Early Testers, But Telephoto Lens Compromise Looms: Check Price, Other Details",
-    "GTA 6 Cyberleek update: All leaks released Monday and over the weekend",
-    "Are You Fluent in Dating Lingo? Take Our Quiz.",
-    "'Awarapan 2' box office collection Day 11: Emraan Hashmi and Disha Patani film eyes Rs 140 crore India ne",
-    "'Ghar Ki Baat Ghar Mein Rehni Chahiye': Krushna Abhishek Reacts To Govinda-Sunita Ahuja's Public Spat",
-    "Kangana Ranaut blasts Ashutosh Rana, Taapsee Pannu, labels them 'bhookhe nange log'"
+    "Sony Xperia 10 VIII is official with microSD slot, few upgrades - GSMArena.com news",
+    "Foldable iPhone Ultra testers love the device except for these two things, report says",
+    "MediaTek’s rumored Dimensity 9600 Pro appears in benchmark leak",
+    "‘Awarapan 2’ box office collection day 11: Emraan Hashmi starrer passes second Monday test, misses Rs 140",
+    "\"Yoga Guru Baba Ramdev Has Crossed Every Boundary Of Decency\": Kangana Ranaut",
+    "Kashmera Shah backs Sunita Ahuja after she withdrew divorce petition and claimed Govinda planned to marry"
   ],
   "quiz": [
     {
-      "blanked": "In 2007, scientists used NASA satellite measurements to reveal 14 areas of moving water beneath West ______",
-      "answer": "Anta",
+      "blanked": "MediaTek’s rumored Dimensity ______ Pro appears in benchmark leak",
+      "answer": "9600",
       "options": [
-        "Jantar",
-        "Price",
-        "Anta",
-        "Comparison"
+        "Structural",
+        "Surveillance",
+        "9600",
+        "Day"
       ]
     },
     {
-      "blanked": "Caruana, ______ Set Up Generational Clash In Final",
-      "answer": "Praggnanandhaa",
+      "blanked": "J&K CM Omar Abdullah asks police, security agencies to take poster threatening Kashmir ______ employees s",
+      "answer": "Pandit",
       "options": [
-        "Migrant",
-        "Praggnanandhaa",
-        "Baat",
-        "Cues"
+        "Court",
+        "IND",
+        "Pandit",
+        "Banerjee"
       ]
     },
     {
-      "blanked": "Trump intensifies attack on ______ amid tariff row, says 'won't treat them like a State' anymore | World News",
-      "answer": "Canada",
+      "blanked": "Porsche inks $1.5 billion deal for AI deployment with India’s largest IT services firm ______ Consultancy",
+      "answer": "Tata",
       "options": [
-        "Canada",
-        "Pant",
-        "Kandivali",
-        "Public"
+        "Supreme",
+        "Tata",
+        "Set",
+        "Ramdev"
       ]
     },
     {
-      "blanked": "India's Swine Flu ______ Come In Waves",
-      "answer": "Cases",
+      "blanked": "Sony ______ 10 VIII is official with microSD slot, few upgrades - GSMArena.com news",
+      "answer": "Xperia",
       "options": [
-        "Cases",
-        "Mantar",
-        "Mein",
-        "Ultra"
+        "Americans",
+        "140",
+        "Licences",
+        "Xperia"
       ]
     },
     {
-      "blanked": "US college applications from India fall 15%: ______ students are looking beyond the American dream",
-      "answer": "Why",
+      "blanked": "Stock ______ LIVE: Sensex drops 100 pts, Nifty around 24,150; Hindustan Copper shares fall 7%",
+      "answer": "Market",
       "options": [
-        "Praggnanandhaa",
-        "Why",
-        "Wear",
-        "Abhishek"
+        "Deadly",
+        "Iran",
+        "Market",
+        "Khatter"
       ]
     },
     {
-      "blanked": "Flight diversions, waterlogging disrupt Delhi-NCR as heavy rain batters north ______",
-      "answer": "India",
+      "blanked": "TMC Secretary Abhishek Banerjee Moves Supreme Court Against 20 ______ MPs, Seeks Expeditious Decison On...",
+      "answer": "Rebel",
       "options": [
-        "Day",
-        "India",
-        "Migrant",
-        "Ex-India"
+        "Licences",
+        "Rebel",
+        "Hashmi",
+        "Delhi-NCR"
       ]
     },
     {
-      "blanked": "Bird flu detected in mammal for first time in ______",
-      "answer": "Australia",
+      "blanked": "‘Awarapan 2’ box office collection day 11: Emraan ______ starrer passes second Monday test, misses Rs 140",
+      "answer": "Hashmi",
       "options": [
-        "Take",
-        "Wear",
-        "Australia",
-        "Lower"
+        "Instamart",
+        "Consultancy",
+        "Hashmi",
+        "Emraan"
       ]
     },
     {
-      "blanked": "Vance: ______ and China have been the worst countries for trade policy",
-      "answer": "Canada",
+      "blanked": "Karnataka Suspends Amazon, Instamart, ______ Licences Over 'Datura' Sales",
+      "answer": "BigBaskets",
       "options": [
-        "170",
-        "Krushna",
-        "Canada",
-        "Dismisses"
+        "BigBaskets",
+        "Court",
+        "Chelsea",
+        "India"
       ]
     },
     {
-      "blanked": "How US sanctions on ______ ripple through global markets and consumers",
-      "answer": "Iran",
+      "blanked": "'Not A US Subsidiary': Canada To Announce Retaliatory Tariffs ______",
+      "answer": "Today",
       "options": [
-        "Public",
-        "Office",
-        "You",
-        "Iran"
+        "Licences",
+        "Influenza",
+        "Today",
+        "Kashmir"
       ]
     },
     {
-      "blanked": "Kangana Ranaut blasts ______ Rana, Taapsee Pannu, labels them 'bhookhe nange log'",
-      "answer": "Ashutosh",
+      "blanked": "Ishaan Khatter and ______ Bainz end their relationship amicably, the 'Homebound' actor only focused on w",
+      "answer": "Chandni",
       "options": [
-        "Ashutosh",
-        "Test",
-        "Than",
-        "Pannu"
+        "Licences",
+        "Chelsea",
+        "Chandni",
+        "Has"
       ]
     },
     {
-      "blanked": "'Awarapan 2' box office collection ______ 11: Emraan Hashmi and Disha Patani film eyes Rs 140 crore India ne",
-      "answer": "Day",
+      "blanked": "\"Yoga Guru Baba Ramdev Has ______ Every Boundary Of Decency\": Kangana Ranaut",
+      "answer": "Crossed",
       "options": [
-        "Day",
-        "Rehni",
+        "Moves",
+        "OFS",
+        "Asia",
+        "Crossed"
+      ]
+    },
+    {
+      "blanked": "Foldable iPhone ______ testers love the device except for these two things, report says",
+      "answer": "Ultra",
+      "options": [
         "Sensex",
-        "Faith"
-      ]
-    },
-    {
-      "blanked": "Marathi rule crackdown: ______ auto, taxi drivers claim ‘harassment’, block Kandivali Link Road in protest",
-      "answer": "Migrant",
-      "options": [
-        "Testers",
-        "Our",
-        "Test",
-        "Migrant"
+        "Premier",
+        "India",
+        "Ultra"
       ]
     }
   ]
