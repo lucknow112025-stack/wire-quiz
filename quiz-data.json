@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-25T20:58:10.973Z",
+  "generatedAt": "2026-08-25T21:56:43.241Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
     "Trump’s latest wave of Iran sanctions: Which 60 entities are targeted?",
     "India-China talks: ‘Structural differences have not disappeared,’ says Chinese strategic affairs scholar",
-    "Low On Fuel, Indian Drone Inadvertently Hit Pak's Kirana Hills Nuke Facility",
-    "‘We are under attack’: US military aircraft lands in Russia, sparks wild theories",
+    "US Military Aircraft Lands In Moscow, Kremlin Claims It Had No Idea",
+    "Did India hit Kirana Hills during Op Sindoor? Ex-CDS Anil Chauhan clears air",
     "‘8 deaths’: Rare protest at IIT Delhi after student’s suicide sparks anger",
     "Karnataka SIR draft rolls are out: What voters need to do next",
-    "India Defence companies to get DRDO tech data: What it means and how it will change the defence sector",
     "Indian authorities locate beacon, lifeboat of missing cargo ship, say no survivors found",
     "Weather Highlights: Heavy Rain In Delhi, Waterlogging, Traffic Jams In Many Areas",
+    "India Defence companies to get DRDO tech data: What it means and how it will change the defence sector",
     "Faridabad shocker: Woman helps ‘lover’ kill husband, bury body near home",
     "Canada To Impose Up To 50% Tariffs On 700 US Goods As Trade War Escalates",
     "Trump says Strait of Hormuz has been demined, warns Iran not to plant more",
-    "Harvard To Columbia: How Israeli Money Quietly Flowed Into US Universities",
-    "‘Where to kill Barron Trump?’ Iran state TV airs chilling video, Secret Service investigates $10...",
-    "Bournvita maker acts after notice as FSSAI steps up crackdown on misleading claims",
-    "Air India ‘seeks $1.5 billion’ from owners Tata Sons, Singapore Air as losses mount",
+    "Oman, Iran say will establish temporary lane through Strait of Hormuz, clear mines",
+    "Iran state TV targets Barron Trump with $10m bounty claim; Secret Service aware",
     "Anthropic To Woo Investors With $30-Trillion Market Opportunity Ahead Of Mega IPO",
     "SpaceX Announces $100 Billion 'Spaceport' In US' Louisiana",
-    "Major Garmin Launch Coming Tomorrow: Garmin Fenix 9 Expected",
-    "iPhone 18 Pro: Will Apple's Latest Device Carry A Rs 1.5 Lakh Price Tag In India?",
-    "Apple unveils Mac Studio with M5 Max and M5 Ultra chips for AI workloads",
-    "Nothing OS 5.0 unveiled with new customisation and personalisation",
-    "Dolly Parton, iconic American singer and songwriter who shaped country music, dies at 80",
+    "Live updates: Bitcoin rejected at $81,000 as 50-week moving average caps rally",
+    "India to exempt high-tech industries from BIS certification requirement, says Piyush Goyal",
+    "Where to buy the Garmin Fenix 9 and Fenix 9 Pro: New features, release date, and launch price",
+    "iPhone 18 series prices confirmed to go up due to rising memory chip cost - GSMArena.com news",
+    "Apple refreshes Mac mini, Mac Studio lineups with new chips",
+    "Nothing unveils Nothing OS 5.0 built on Android 17, but there's bad news for older phones",
     "Bengaluru Court Passes Injunction Restraining Anyone From Posting Defamatory Content Against 'Toxic'...",
+    "Dolly Parton, iconic American singer and songwriter who shaped country music, dies at 80",
     "Phool Aur Kaante Director Kuku Kohli Dies Of Heart Attack At 77"
   ],
   "quiz": [
     {
-      "blanked": "Mission accomplished for Sophie Adenot: ______ antenna installed",
-      "answer": "ISS",
+      "blanked": "US Military Aircraft Lands In Moscow, Kremlin Claims It ______ No Idea",
+      "answer": "Had",
       "options": [
-        "September",
-        "ISS",
-        "Dies",
-        "Restraining"
+        "Trade",
+        "Had",
+        "IPO",
+        "SIR"
       ]
     },
     {
-      "blanked": "Vegetarian Diet and 14-Hour ______ Improve Type 2 Diabetes Control",
-      "answer": "Fast",
+      "blanked": "Vegetarian Diet and 14-Hour Fast ______ Type 2 Diabetes Control",
+      "answer": "Improve",
       "options": [
-        "Paks",
-        "Escalates",
-        "Fast",
-        "Restraining"
-      ]
-    },
-    {
-      "blanked": "India Defence companies to get DRDO tech data: ______ it means and how it will change the defence sector",
-      "answer": "What",
-      "options": [
-        "Flowed",
-        "Bhatias",
-        "What",
-        "Coming"
-      ]
-    },
-    {
-      "blanked": "Strike force Prasidh ______ shows he can be consistent too",
-      "answer": "Krishna",
-      "options": [
-        "Unified",
-        "Krishna",
+        "Ronaldo",
         "Improve",
-        "Singapore"
+        "Kirana",
+        "Today"
       ]
     },
     {
-      "blanked": "‘We are under attack’: US military aircraft lands in ______ sparks wild theories",
-      "answer": "Russia",
+      "blanked": "India-China talks: ‘Structural differences have not disappeared,’ says ______ strategic affairs scholar",
+      "answer": "Chinese",
       "options": [
-        "Russia",
-        "Mega",
-        "Hills",
-        "Krishna"
+        "Chinese",
+        "Passes",
+        "Diet",
+        "India"
       ]
     },
     {
-      "blanked": "New discovery helps identify colorectal cancer patients at risk for metastasis - ______",
-      "answer": "News-Medical",
+      "blanked": "New smart technology can make diagnosis of ______ disease more accessible",
+      "answer": "Alzheimers",
       "options": [
-        "News-Medical",
-        "Malhotra",
-        "Minister",
-        "Launch"
+        "Many",
+        "Alzheimers",
+        "Impose",
+        "Lineup"
+      ]
+    },
+    {
+      "blanked": "Morkel doesn't rule out India enforcing follow-on as rain looms in ______",
+      "answer": "Colombo",
+      "options": [
+        "Hindustan",
+        "Colombo",
+        "Woman",
+        "Iran"
+      ]
+    },
+    {
+      "blanked": "Soft Robotic Cardiac Sleeves ______ Promise for Future of Heart Failure",
+      "answer": "Show",
+      "options": [
+        "Service",
+        "Diabetes",
+        "Ettifaq",
+        "Show"
+      ]
+    },
+    {
+      "blanked": "Bengaluru Court Passes Injunction Restraining Anyone From ______ Defamatory Content Against 'Toxic'...",
+      "answer": "Posting",
+      "options": [
+        "Posting",
+        "BIS",
+        "Android",
+        "Woman"
       ]
     },
     {
       "blanked": "‘8 deaths’: Rare protest at IIT ______ after student’s suicide sparks anger",
       "answer": "Delhi",
       "options": [
-        "Bhatias",
+        "Dies",
+        "Many",
         "Delhi",
-        "Louisiana",
-        "Teaser"
+        "Defamatory"
       ]
     },
     {
-      "blanked": "Trump says ______ of Hormuz has been demined, warns Iran not to plant more",
-      "answer": "Strait",
+      "blanked": "Sophie ______ makes her second spacewalk",
+      "answer": "Adenot",
       "options": [
-        "Strait",
-        "Delhi",
-        "Trump",
-        "Expected"
+        "Promise",
+        "Adenot",
+        "Which",
+        "Idea"
       ]
     },
     {
-      "blanked": "SpaceX Announces $100 Billion 'Spaceport' In US' ______",
-      "answer": "Louisiana",
+      "blanked": "Where to buy the Garmin Fenix 9 and ______ 9 Pro: New features, release date, and launch price",
+      "answer": "Fenix",
       "options": [
-        "Postponement",
-        "10...",
-        "Israeli",
-        "Louisiana"
+        "Lands",
+        "Fenix",
+        "Investors",
+        "Control"
       ]
     },
     {
-      "blanked": "Canada To Impose Up To 50% ______ On 700 US Goods As Trade War Escalates",
-      "answer": "Tariffs",
+      "blanked": "India Defence companies to get ______ tech data: What it means and how it will change the defence sector",
+      "answer": "DRDO",
       "options": [
-        "Nuke",
-        "Delhi",
-        "Strait",
-        "Tariffs"
+        "Against",
+        "DRDO",
+        "Khurana",
+        "Court"
       ]
     },
     {
-      "blanked": "Karnataka SIR draft rolls are out: ______ voters need to do next",
-      "answer": "What",
+      "blanked": "Faridabad shocker: ______ helps ‘lover’ kill husband, bury body near home",
+      "answer": "Woman",
       "options": [
-        "Kaante",
-        "Coming",
-        "What",
-        "Games"
-      ]
-    },
-    {
-      "blanked": "Harvard To Columbia: How ______ Money Quietly Flowed Into US Universities",
-      "answer": "Israeli",
-      "options": [
+        "Escalates",
+        "Restraining",
         "Woman",
-        "Israeli",
-        "Tata",
-        "Robotic"
+        "Adenot"
       ]
     }
   ]
