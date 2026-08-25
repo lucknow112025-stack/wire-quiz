@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-25T17:53:48.529Z",
+  "generatedAt": "2026-08-25T19:44:49.231Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "India-China talks: ‘Structural differences have not disappeared,’ says Chinese strategic affairs scholar",
-    "US Military Aircraft Lands In Moscow, Kremlin Claims It Had No Idea",
-    "Low On Fuel, Indian Drone Inadvertently Hit Pak's Kirana Hills Nuke Facility",
     "Trump’s latest wave of Iran sanctions: Which 60 entities are targeted?",
+    "India-China talks: ‘Structural differences have not disappeared,’ says Chinese strategic affairs scholar",
+    "Low On Fuel, Indian Drone Inadvertently Hit Pak's Kirana Hills Nuke Facility",
     "‘8 deaths’: Rare protest at IIT Delhi after student’s suicide sparks anger",
-    "Pakistan and Iran made 'significant progress' in talks on conflict, minister says",
     "Karnataka SIR draft rolls are out: What voters need to do next",
+    "'Can We Direct Fresh Elections?' Supreme Court On Trinamool Claim That Margin In Bengal Polls Was Less...",
+    "Weather Highlights: Heavy Rain In Delhi, Waterlogging, Traffic Jams In Many Areas",
+    "Indian authorities locate beacon, lifeboat of missing cargo ship, say no survivors found",
     "Panic, Cranes: Father Of Boy Trapped In Gurugram School Bus On Rescue Ops To NDTV",
-    "BPSC exam row, 'dogs bark' remark: What has triggered fresh student protests in Bihar",
-    "Minister Red Flags DK Shivakumar's Parking Fee Proposal For Bengaluru Residents",
-    "Oman, Iran say will establish temporary lane through Strait of Hormuz, clear mines",
-    "'Where to kill Barron Trump?' Iranian video targets US prez's son; Secret Service probes footage",
-    "Trump threatens 50% tariff on Canadian automobiles, car parts, steel starting January 1",
-    "'Lake America': Trump floats plan to rename Lake Ontario amid escalating US-Canada trade row",
+    "Woman, Lover Kill Husband, Bury Body Near Home In Faridabad; Cops Solve Case In 24 Hours",
+    "Canada To Impose Up To 50% Tariffs On 700 US Goods As Trade War Escalates",
+    "‘We are under attack’: US military aircraft lands in Russia, sparks wild theories",
+    "‘Where to kill Barron Trump?’ Iran state TV airs chilling video, Secret Service investigates $10...",
+    "World News Today Live Updates: Trump says all mines cleared from Strait of Hormuz, warns Iran not to place new mines",
     "India to exempt high-tech industries from BIS certification requirement, says Piyush Goyal",
     "Bournvita maker acts after notice as FSSAI steps up crackdown on misleading claims",
     "Bitcoin Rally Pauses After Jumping to Three-Month High",
-    "Air India Seeks $1.5 Billion From Tata, Singapore Air As Losses Mount: Report",
-    "Garmin Fenix 9 Pro launches with up to 291 days of battery life, solar, and new titanium case",
+    "Air India ‘seeks $1.5 billion’ from owners Tata Sons, Singapore Air as losses mount",
+    "Where to buy the Garmin Fenix 9 and Fenix 9 Pro: New features, release date, and launch price",
     "FiiO's retro-modern amp takes inspiration from the \"golden era of 1950s tube amplifiers\" - What Hi-Fi?",
-    "Microsoft’s leaked new OS is one you’ll hope stays buried, and it’s not Windows",
-    "Philips Hue may launch a cheaper TV Sync Box.",
-    "Toxic Movie Review and Release LIVE Updates: Yash-starrer crosses Rs 50 cr mark in advance booking",
-    "Phool Aur Kaante Director Kuku Kohli Dies Of Heart Attack At 77",
-    "Gandhari trailer: Blind mother Taapsee Pannu channels her inner goddess, goes on 'mahayudh' to save her daughter | Bollywood"
+    "Microsoft has been testing Copilot OS without a Start menu and support for Win32 applications",
+    "iPhone 18 series prices confirmed to go up due to rising memory chip cost - GSMArena.com news",
+    "Bengaluru Court Passes Injunction Restraining Anyone From Posting Defamatory Content Against 'Toxic'...",
+    "Dolly Parton, iconic American singer and songwriter who shaped country music, dies at 80",
+    "Phool Aur Kaante Director Kuku Kohli Dies Of Heart Attack At 77"
   ],
   "quiz": [
     {
-      "blanked": "Vegetarian Diet and 14-Hour Fast ______ Type 2 Diabetes Control",
-      "answer": "Improve",
+      "blanked": "Dolly Parton, iconic ______ singer and songwriter who shaped country music, dies at 80",
+      "answer": "American",
       "options": [
-        "US-Canada",
-        "Improve",
-        "Failure",
-        "Kirana"
+        "Start",
+        "Strategy",
+        "American",
+        "Attack"
+      ]
+    },
+    {
+      "blanked": "Phool ______ Kaante Director Kuku Kohli Dies Of Heart Attack At 77",
+      "answer": "Aur",
+      "options": [
+        "Aur",
+        "American",
+        "Highlights",
+        "Escalates"
       ]
     },
     {
       "blanked": "Bournvita maker acts after notice as ______ steps up crackdown on misleading claims",
       "answer": "FSSAI",
       "options": [
-        "Release",
-        "Rare",
-        "Iranian",
-        "FSSAI"
+        "FSSAI",
+        "Type",
+        "Structural",
+        "Which"
       ]
     },
     {
-      "blanked": "Al ______ vs. Al Nassr Lineup: Is Cristiano Ronaldo Playing Today?",
-      "answer": "Ettifaq",
+      "blanked": "Trump’s latest wave of ______ sanctions: Which 60 entities are targeted?",
+      "answer": "Iran",
       "options": [
-        "Bihar",
-        "Sleeves",
-        "Ettifaq",
-        "Conduct"
+        "Future",
+        "Iran",
+        "Escalates",
+        "Pauses"
       ]
     },
     {
-      "blanked": "Garmin ______ 9 Pro launches with up to 291 days of battery life, solar, and new titanium case",
-      "answer": "Fenix",
+      "blanked": "New discovery helps identify colorectal cancer patients at risk for metastasis - ______",
+      "answer": "News-Medical",
       "options": [
-        "Fenix",
-        "Seeks",
-        "Postponement",
-        "Strategy"
+        "What",
+        "News-Medical",
+        "Study",
+        "Barron"
       ]
     },
     {
-      "blanked": "Sophie ______ French astronaut makes her second spacewalk",
-      "answer": "Adenot",
+      "blanked": "World News Today Live ______ Trump says all mines cleared from Strait of Hormuz, warns Iran not to place new mines",
+      "answer": "Updates",
       "options": [
-        "Adenot",
-        "Ettifaq",
-        "IIT",
-        "Film"
+        "NDTV",
+        "Pauses",
+        "Updates",
+        "Study"
       ]
     },
     {
-      "blanked": "Asian Games tennis row deepens as AITA rebuts ______ omission allegation",
-      "answer": "SAIs",
+      "blanked": "Canada To Impose Up To 50% Tariffs On 700 US Goods As Trade War ______",
+      "answer": "Escalates",
       "options": [
-        "SAIs",
-        "Unified",
-        "Drone",
-        "Indian"
+        "American",
+        "Escalates",
+        "Kill",
+        "Passes"
+      ]
+    },
+    {
+      "blanked": "'Can We Direct Fresh Elections?' Supreme Court On Trinamool ______ That Margin In Bengal Polls Was Less...",
+      "answer": "Claim",
+      "options": [
+        "Lunar",
+        "Claim",
+        "Boy",
+        "Promise"
       ]
     },
     {
       "blanked": "Soft Robotic Cardiac Sleeves ______ Promise for Future of Heart Failure",
       "answer": "Show",
       "options": [
-        "Lake",
-        "Singapore",
+        "Elections",
+        "Live",
         "Show",
-        "Hue"
+        "Escalates"
       ]
     },
     {
-      "blanked": "Philips ______ may launch a cheaper TV Sync Box.",
-      "answer": "Hue",
+      "blanked": "Air India ‘seeks $1.5 billion’ from owners Tata ______ Singapore Air as losses mount",
+      "answer": "Sons",
       "options": [
-        "Influenza",
-        "Sidharth",
-        "Claims",
-        "Hue"
-      ]
-    },
-    {
-      "blanked": "Low On Fuel, Indian Drone Inadvertently Hit Pak's Kirana Hills Nuke ______",
-      "answer": "Facility",
-      "options": [
-        "Facility",
-        "Forest",
-        "Fuel",
-        "Unified"
-      ]
-    },
-    {
-      "blanked": "Chang'e-7 Postponement Signals ______ Push Toward a Unified Long-Term Lunar Strategy",
-      "answer": "Chinas",
-      "options": [
-        "Chinas",
+        "Many",
+        "Father",
         "SIR",
-        "Facility",
-        "Fast"
+        "Sons"
       ]
     },
     {
-      "blanked": "Morkel doesn't rule out ______ enforcing follow-on as rain looms in Colombo",
-      "answer": "India",
+      "blanked": "Chang'e-7 Postponement Signals China's Push ______ a Unified Long-Term Lunar Strategy",
+      "answer": "Toward",
       "options": [
-        "Kirana",
-        "Fuel",
-        "India",
-        "Tata"
+        "50%",
+        "Toward",
+        "Improve",
+        "Fuel"
       ]
     },
     {
-      "blanked": "India to exempt high-tech industries from ______ certification requirement, says Piyush Goyal",
-      "answer": "BIS",
+      "blanked": "Microsoft has been testing ______ OS without a Start menu and support for Win32 applications",
+      "answer": "Copilot",
       "options": [
-        "Nassr",
-        "BIS",
-        "Proposal",
-        "Ettifaq"
+        "Adenot",
+        "Tata",
+        "700",
+        "Copilot"
       ]
     }
   ]
