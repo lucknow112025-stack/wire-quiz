@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-25T19:44:49.231Z",
+  "generatedAt": "2026-08-25T20:58:10.973Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
     "Trump’s latest wave of Iran sanctions: Which 60 entities are targeted?",
     "India-China talks: ‘Structural differences have not disappeared,’ says Chinese strategic affairs scholar",
     "Low On Fuel, Indian Drone Inadvertently Hit Pak's Kirana Hills Nuke Facility",
+    "‘We are under attack’: US military aircraft lands in Russia, sparks wild theories",
     "‘8 deaths’: Rare protest at IIT Delhi after student’s suicide sparks anger",
     "Karnataka SIR draft rolls are out: What voters need to do next",
-    "'Can We Direct Fresh Elections?' Supreme Court On Trinamool Claim That Margin In Bengal Polls Was Less...",
-    "Weather Highlights: Heavy Rain In Delhi, Waterlogging, Traffic Jams In Many Areas",
+    "India Defence companies to get DRDO tech data: What it means and how it will change the defence sector",
     "Indian authorities locate beacon, lifeboat of missing cargo ship, say no survivors found",
-    "Panic, Cranes: Father Of Boy Trapped In Gurugram School Bus On Rescue Ops To NDTV",
-    "Woman, Lover Kill Husband, Bury Body Near Home In Faridabad; Cops Solve Case In 24 Hours",
+    "Weather Highlights: Heavy Rain In Delhi, Waterlogging, Traffic Jams In Many Areas",
+    "Faridabad shocker: Woman helps ‘lover’ kill husband, bury body near home",
     "Canada To Impose Up To 50% Tariffs On 700 US Goods As Trade War Escalates",
-    "‘We are under attack’: US military aircraft lands in Russia, sparks wild theories",
+    "Trump says Strait of Hormuz has been demined, warns Iran not to plant more",
+    "Harvard To Columbia: How Israeli Money Quietly Flowed Into US Universities",
     "‘Where to kill Barron Trump?’ Iran state TV airs chilling video, Secret Service investigates $10...",
-    "World News Today Live Updates: Trump says all mines cleared from Strait of Hormuz, warns Iran not to place new mines",
-    "India to exempt high-tech industries from BIS certification requirement, says Piyush Goyal",
     "Bournvita maker acts after notice as FSSAI steps up crackdown on misleading claims",
-    "Bitcoin Rally Pauses After Jumping to Three-Month High",
     "Air India ‘seeks $1.5 billion’ from owners Tata Sons, Singapore Air as losses mount",
-    "Where to buy the Garmin Fenix 9 and Fenix 9 Pro: New features, release date, and launch price",
-    "FiiO's retro-modern amp takes inspiration from the \"golden era of 1950s tube amplifiers\" - What Hi-Fi?",
-    "Microsoft has been testing Copilot OS without a Start menu and support for Win32 applications",
-    "iPhone 18 series prices confirmed to go up due to rising memory chip cost - GSMArena.com news",
-    "Bengaluru Court Passes Injunction Restraining Anyone From Posting Defamatory Content Against 'Toxic'...",
+    "Anthropic To Woo Investors With $30-Trillion Market Opportunity Ahead Of Mega IPO",
+    "SpaceX Announces $100 Billion 'Spaceport' In US' Louisiana",
+    "Major Garmin Launch Coming Tomorrow: Garmin Fenix 9 Expected",
+    "iPhone 18 Pro: Will Apple's Latest Device Carry A Rs 1.5 Lakh Price Tag In India?",
+    "Apple unveils Mac Studio with M5 Max and M5 Ultra chips for AI workloads",
+    "Nothing OS 5.0 unveiled with new customisation and personalisation",
     "Dolly Parton, iconic American singer and songwriter who shaped country music, dies at 80",
+    "Bengaluru Court Passes Injunction Restraining Anyone From Posting Defamatory Content Against 'Toxic'...",
     "Phool Aur Kaante Director Kuku Kohli Dies Of Heart Attack At 77"
   ],
   "quiz": [
     {
-      "blanked": "Dolly Parton, iconic ______ singer and songwriter who shaped country music, dies at 80",
-      "answer": "American",
+      "blanked": "Mission accomplished for Sophie Adenot: ______ antenna installed",
+      "answer": "ISS",
       "options": [
-        "Start",
-        "Strategy",
-        "American",
-        "Attack"
+        "September",
+        "ISS",
+        "Dies",
+        "Restraining"
       ]
     },
     {
-      "blanked": "Phool ______ Kaante Director Kuku Kohli Dies Of Heart Attack At 77",
-      "answer": "Aur",
+      "blanked": "Vegetarian Diet and 14-Hour ______ Improve Type 2 Diabetes Control",
+      "answer": "Fast",
       "options": [
-        "Aur",
-        "American",
-        "Highlights",
-        "Escalates"
-      ]
-    },
-    {
-      "blanked": "Bournvita maker acts after notice as ______ steps up crackdown on misleading claims",
-      "answer": "FSSAI",
-      "options": [
-        "FSSAI",
-        "Type",
-        "Structural",
-        "Which"
-      ]
-    },
-    {
-      "blanked": "Trump’s latest wave of ______ sanctions: Which 60 entities are targeted?",
-      "answer": "Iran",
-      "options": [
-        "Future",
-        "Iran",
+        "Paks",
         "Escalates",
-        "Pauses"
+        "Fast",
+        "Restraining"
+      ]
+    },
+    {
+      "blanked": "India Defence companies to get DRDO tech data: ______ it means and how it will change the defence sector",
+      "answer": "What",
+      "options": [
+        "Flowed",
+        "Bhatias",
+        "What",
+        "Coming"
+      ]
+    },
+    {
+      "blanked": "Strike force Prasidh ______ shows he can be consistent too",
+      "answer": "Krishna",
+      "options": [
+        "Unified",
+        "Krishna",
+        "Improve",
+        "Singapore"
+      ]
+    },
+    {
+      "blanked": "‘We are under attack’: US military aircraft lands in ______ sparks wild theories",
+      "answer": "Russia",
+      "options": [
+        "Russia",
+        "Mega",
+        "Hills",
+        "Krishna"
       ]
     },
     {
       "blanked": "New discovery helps identify colorectal cancer patients at risk for metastasis - ______",
       "answer": "News-Medical",
       "options": [
-        "What",
         "News-Medical",
-        "Study",
-        "Barron"
+        "Malhotra",
+        "Minister",
+        "Launch"
       ]
     },
     {
-      "blanked": "World News Today Live ______ Trump says all mines cleared from Strait of Hormuz, warns Iran not to place new mines",
-      "answer": "Updates",
+      "blanked": "‘8 deaths’: Rare protest at IIT ______ after student’s suicide sparks anger",
+      "answer": "Delhi",
       "options": [
-        "NDTV",
-        "Pauses",
-        "Updates",
-        "Study"
+        "Bhatias",
+        "Delhi",
+        "Louisiana",
+        "Teaser"
       ]
     },
     {
-      "blanked": "Canada To Impose Up To 50% Tariffs On 700 US Goods As Trade War ______",
-      "answer": "Escalates",
+      "blanked": "Trump says ______ of Hormuz has been demined, warns Iran not to plant more",
+      "answer": "Strait",
       "options": [
-        "American",
-        "Escalates",
-        "Kill",
-        "Passes"
+        "Strait",
+        "Delhi",
+        "Trump",
+        "Expected"
       ]
     },
     {
-      "blanked": "'Can We Direct Fresh Elections?' Supreme Court On Trinamool ______ That Margin In Bengal Polls Was Less...",
-      "answer": "Claim",
+      "blanked": "SpaceX Announces $100 Billion 'Spaceport' In US' ______",
+      "answer": "Louisiana",
       "options": [
-        "Lunar",
-        "Claim",
-        "Boy",
-        "Promise"
+        "Postponement",
+        "10...",
+        "Israeli",
+        "Louisiana"
       ]
     },
     {
-      "blanked": "Soft Robotic Cardiac Sleeves ______ Promise for Future of Heart Failure",
-      "answer": "Show",
+      "blanked": "Canada To Impose Up To 50% ______ On 700 US Goods As Trade War Escalates",
+      "answer": "Tariffs",
       "options": [
-        "Elections",
-        "Live",
-        "Show",
-        "Escalates"
+        "Nuke",
+        "Delhi",
+        "Strait",
+        "Tariffs"
       ]
     },
     {
-      "blanked": "Air India ‘seeks $1.5 billion’ from owners Tata ______ Singapore Air as losses mount",
-      "answer": "Sons",
+      "blanked": "Karnataka SIR draft rolls are out: ______ voters need to do next",
+      "answer": "What",
       "options": [
-        "Many",
-        "Father",
-        "SIR",
-        "Sons"
+        "Kaante",
+        "Coming",
+        "What",
+        "Games"
       ]
     },
     {
-      "blanked": "Chang'e-7 Postponement Signals China's Push ______ a Unified Long-Term Lunar Strategy",
-      "answer": "Toward",
+      "blanked": "Harvard To Columbia: How ______ Money Quietly Flowed Into US Universities",
+      "answer": "Israeli",
       "options": [
-        "50%",
-        "Toward",
-        "Improve",
-        "Fuel"
-      ]
-    },
-    {
-      "blanked": "Microsoft has been testing ______ OS without a Start menu and support for Win32 applications",
-      "answer": "Copilot",
-      "options": [
-        "Adenot",
+        "Woman",
+        "Israeli",
         "Tata",
-        "700",
-        "Copilot"
+        "Robotic"
       ]
     }
   ]
