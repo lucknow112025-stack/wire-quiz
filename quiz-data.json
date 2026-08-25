@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-25T03:15:23.015Z",
+  "generatedAt": "2026-08-25T05:16:59.496Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
     "How US sanctions on Iran ripple through global markets and consumers",
-    "Trump threatens 50% tariffs on all cars and trucks from Canada amid trade fight",
+    "Trump administration moves to impose more than $100,000 fee for H-1B worker visas",
     "China's Xi likely to visit India with big delegation for first time in seven years",
-    "CJP calls for September 5 march from India Gate, accuses Centre of reneging on promises",
-    "H-1B visa shock: Trump admin proposes hiking fee to over $100,000",
-    "Why is there a sudden increase in sugar prices? | Explained",
-    "Russian President Putin assures India of uninterrupted supply of energy, fertilisers amid West Asia crisis",
-    "‘Free water parks for kids’: Saurabh Bharadwaj takes dig at Rekha Gupta govt over Delhi waterlogging",
-    "Exclusive: Malayalam Actor Says TVK Offered Him Top Post In Kerala After He Quit BJP",
-    "SIR in Karnataka: Here’s how you can check your name in draft electoral roll",
-    "‘Iran tried to murder my son’: Netanyahu makes big claim against Tehran",
-    "Give Imran Khan proper medical care, cricket legends urge Pakistani gov’t",
-    "Houthi Official: Yemen Forces Target Saudi Oil Tanker 'Amzan' In Red Sea",
+    "Trump intensifies attack on Canada amid tariff row, says 'won't treat them like a State' anymore | World News",
+    "Putin assures India of fuel, fertilisers amid disruptions over West Asia crisis | India News",
+    "Flight diversions, waterlogging disrupt Delhi-NCR as heavy rain batters north India",
+    "Lessons From Jantar Mantar: Delhi Police's Ten Commandments On Protests",
+    "Marathi rule crackdown: Migrant auto, taxi drivers claim ‘harassment’, block Kandivali Link Road in protest",
+    "'Hijab Not Essential Part Of Islamic Faith': Allahabad High Court Dismisses Muslim Girl's Plea To Wear It ...",
+    "Rape convict Gurmeet Ram Rahim walks out of prison on 21-day furlough | India News",
+    "Iran invited to join Mecca pact by Saudi Arabia, Turkey, Pakistan: Report",
     "‘UK participating in Ukraine war’: What triggered Russia’s ‘outrageous threat’ to Britain",
-    "Porsche Inks $1.5 Billion AI Deal With India’s Tata Consultancy",
-    "After exit, will former Tata Sons chief Chandrasekaran get a place in Modi Cabinet?",
+    "Vance: Canada and China have been the worst countries for trade policy",
+    "US college applications from India fall 15%: Why students are looking beyond the American dream",
+    "Porsche inks $1.5 billion deal for AI deployment with India’s largest IT services firm Tata Consultancy",
     "Stock Market Highlights, Sensex Today: Sensex Drops 170 Points Lower Amid Mixed Global Cues",
-    "Trade Setup for August 25: Top 15 things to know before the opening bell ahead of monthly F&O expiry",
+    "Karnataka suspends food licences of Amazon, Swiggy Instamart, BigBasket over sale of toxic fruit datura",
+    "India’s new stock auction system faces first monthly expiry test",
     "iPhone 18 series prices confirmed to go up due to rising memory chip cost - GSMArena.com news",
-    "The iPhone Ultra has impressed early testers in every respect except for the cameras, says Mark Gurman",
+    "iPhone Ultra Foldable Wows Early Testers, But Telephoto Lens Compromise Looms: Check Price, Other Details",
     "GTA 6 Cyberleek update: All leaks released Monday and over the weekend",
-    "Lava Virat V1 Pro 5G launches with 120Hz screen, 6,000 mAh battery, low price - GSMArena.com news",
-    "Himanshi Khurana claims she has proof in Asim Riaz ‘conversion’ row, alleges violence during relationship",
-    "Kangana Ranaut blasts Ashutosh Rana, Taapsee Pannu, labels them 'bhookhe nange log'",
-    "Awarapan 2 Box Office: Emraan Hashmi starrer surpasses Welcome To The Jungle, becomes 5th highest grosser of 2026"
+    "Are You Fluent in Dating Lingo? Take Our Quiz.",
+    "'Awarapan 2' box office collection Day 11: Emraan Hashmi and Disha Patani film eyes Rs 140 crore India ne",
+    "'Ghar Ki Baat Ghar Mein Rehni Chahiye': Krushna Abhishek Reacts To Govinda-Sunita Ahuja's Public Spat",
+    "Kangana Ranaut blasts Ashutosh Rana, Taapsee Pannu, labels them 'bhookhe nange log'"
   ],
   "quiz": [
     {
-      "blanked": "Give Imran Khan proper medical care, cricket legends urge ______ gov’t",
-      "answer": "Pakistani",
+      "blanked": "In 2007, scientists used NASA satellite measurements to reveal 14 areas of moving water beneath West ______",
+      "answer": "Anta",
       "options": [
-        "Pakistani",
-        "Cup",
-        "Consultancy",
-        "Open"
+        "Jantar",
+        "Price",
+        "Anta",
+        "Comparison"
       ]
     },
     {
-      "blanked": "‘UK participating in Ukraine war’: What triggered Russia’s ‘outrageous threat’ to ______",
-      "answer": "Britain",
+      "blanked": "Caruana, ______ Set Up Generational Clash In Final",
+      "answer": "Praggnanandhaa",
       "options": [
-        "Britain",
-        "Sons",
-        "Asia",
-        "Welcome"
+        "Migrant",
+        "Praggnanandhaa",
+        "Baat",
+        "Cues"
       ]
     },
     {
-      "blanked": "The iPhone Ultra has impressed early testers in every respect except for the cameras, says ______ Gurman",
-      "answer": "Mark",
+      "blanked": "Trump intensifies attack on ______ amid tariff row, says 'won't treat them like a State' anymore | World News",
+      "answer": "Canada",
       "options": [
-        "Jungle",
-        "Ashutosh",
-        "Mejo",
-        "Mark"
+        "Canada",
+        "Pant",
+        "Kandivali",
+        "Public"
       ]
     },
     {
-      "blanked": "How US sanctions on ______ ripple through global markets and consumers",
-      "answer": "Iran",
+      "blanked": "India's Swine Flu ______ Come In Waves",
+      "answer": "Cases",
       "options": [
-        "Iran",
-        "Monday",
-        "Cues",
-        "Pannu"
+        "Cases",
+        "Mantar",
+        "Mein",
+        "Ultra"
       ]
     },
     {
-      "blanked": "After exit, will former Tata Sons chief Chandrasekaran get a place in ______ Cabinet?",
-      "answer": "Modi",
+      "blanked": "US college applications from India fall 15%: ______ students are looking beyond the American dream",
+      "answer": "Why",
       "options": [
-        "Yemen",
-        "Modi",
-        "Centre",
-        "Taapsee"
+        "Praggnanandhaa",
+        "Why",
+        "Wear",
+        "Abhishek"
       ]
     },
     {
-      "blanked": "Meet Kaziah Liz ______ Kerala’s 19-year-old Miss Universe India 2026 winner",
-      "answer": "Mejo",
-      "options": [
-        "Mejo",
-        "Welcome",
-        "Sensex",
-        "West"
-      ]
-    },
-    {
-      "blanked": "CJP calls for September 5 march from ______ Gate, accuses Centre of reneging on promises",
+      "blanked": "Flight diversions, waterlogging disrupt Delhi-NCR as heavy rain batters north ______",
       "answer": "India",
       "options": [
+        "Day",
         "India",
-        "Inks",
-        "Kaziah",
-        "Mark"
-      ]
-    },
-    {
-      "blanked": "Himanshi Khurana claims she has proof in ______ Riaz ‘conversion’ row, alleges violence during relationship",
-      "answer": "Asim",
-      "options": [
-        "Tanker",
-        "Cues",
-        "Drug",
-        "Asim"
+        "Migrant",
+        "Ex-India"
       ]
     },
     {
       "blanked": "Bird flu detected in mammal for first time in ______",
       "answer": "Australia",
       "options": [
-        "Drops",
-        "Cup",
+        "Take",
+        "Wear",
         "Australia",
-        "Astronomers"
+        "Lower"
       ]
     },
     {
-      "blanked": "Stock Market Highlights, Sensex Today: Sensex ______ 170 Points Lower Amid Mixed Global Cues",
-      "answer": "Drops",
+      "blanked": "Vance: ______ and China have been the worst countries for trade policy",
+      "answer": "Canada",
       "options": [
-        "Gate",
-        "Imran",
-        "Bharadwaj",
-        "Drops"
-      ]
-    },
-    {
-      "blanked": "Trade Setup for ______ 25: Top 15 things to know before the opening bell ahead of monthly F&O expiry",
-      "answer": "August",
-      "options": [
+        "170",
+        "Krushna",
         "Canada",
-        "Hockey",
-        "Modi",
-        "August"
+        "Dismisses"
       ]
     },
     {
-      "blanked": "SL vs IND 2nd Test, ______ 2: Jurel and Pant turn up the heat on rain-hit day",
+      "blanked": "How US sanctions on ______ ripple through global markets and consumers",
+      "answer": "Iran",
+      "options": [
+        "Public",
+        "Office",
+        "You",
+        "Iran"
+      ]
+    },
+    {
+      "blanked": "Kangana Ranaut blasts ______ Rana, Taapsee Pannu, labels them 'bhookhe nange log'",
+      "answer": "Ashutosh",
+      "options": [
+        "Ashutosh",
+        "Test",
+        "Than",
+        "Pannu"
+      ]
+    },
+    {
+      "blanked": "'Awarapan 2' box office collection ______ 11: Emraan Hashmi and Disha Patani film eyes Rs 140 crore India ne",
       "answer": "Day",
       "options": [
-        "Miss",
         "Day",
-        "Jurel",
-        "Chemotherapy"
+        "Rehni",
+        "Sensex",
+        "Faith"
+      ]
+    },
+    {
+      "blanked": "Marathi rule crackdown: ______ auto, taxi drivers claim ‘harassment’, block Kandivali Link Road in protest",
+      "answer": "Migrant",
+      "options": [
+        "Testers",
+        "Our",
+        "Test",
+        "Migrant"
       ]
     }
   ]
