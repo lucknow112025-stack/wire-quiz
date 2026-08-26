@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-26T11:49:57.997Z",
+  "generatedAt": "2026-08-26T14:25:53.184Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "At least eight killed in Nepal flash floods",
-    "Trump threatens Iran’s partners: How do secondary sanctions work?",
-    "Team Trump Pauses US Visa Interviews Worldwide. Here's Why",
-    "NYC mayor Zohran Mamdani opposes RSS chief Mohan Bhagwat's Madison Square Garden event",
+    "‘Major casualties’ feared after flash floods along Nepal-Tibet border",
+    "One US dollar now costs 2 million rials in Iran, and here’s what it can buy",
     "Justice Sandeep Mehta Urges CJI Surya Kant To Replace Rajasthan HC Acting CJ SP Sharma For 'Questionable...",
-    "Trump sends Saudi nuclear deal to Congress but says Riyadh must recognize Israel",
-    "Conman Sukesh Chandrasekhar convicted for impersonating Supreme Court judge to secure bail",
-    "Kiren Rijiju hits back at Pawan Khera's 'half-naked' jibe: 'Do you swim with full suit, coat?'",
-    "Rebel TMC MPs get notices from Lok Sabha Secretariat on disqualification pleas; Mahua Moitra alleges ‘cover up’",
-    "Karnataka Minister B Nagendra Offers To Resign Over Corruption Allegations",
+    "‘It didn’t leak from us’: Ex-CDS hints Pakistan may have leaked Operation Sindoor ceasefire details to US",
+    "From H-1B fee to OPT charge for job-after-college degree: The US visa moves Indians need to track | Hindustan Times",
+    "NYC mayor Zohran Mamdani opposes RSS chief Mohan Bhagwat's Madison Square Garden event",
+    "'Questions don't stop with batons': Rahul Gandhi attacks Bihar govt over BPSC protests",
+    "Delhi man stays at Udaipur 5-star hotel, leaves without paying Rs 5.74 lakh bill",
+    "\"Our Religion, We Decide\": Asaduddin Owaisi Slams Court Ruling On Hijab",
+    "Akhilesh Yadav Wife Dimple To Be CM? SP Chief’s Reply Fuels Speculation",
     "Russia planning to use nukes? Why CIA chief made 'emergency' visit to Moscow; report",
-    "Netanyahu rules out Iran deal, calls its leaders ‘savages’ as Trump steps up economic offensive",
-    "'Warned by FBI, Canadian police of credible plot': SFJ's Pannun claims fresh threat to life",
+    "U.S. pauses visa appointments worldwide amid Trump's immigration crackdown: report",
     "U.S. military says it struck vessel in the Caribbean, killing four",
-    "Stock Market Highlights, Sensex Today: Sensex Settles 183 Points Lower As IT, Auto, FMCG Stocks Drag",
-    "Bill Gates, alarmed by AI, has policy ideas he wants to discuss with China's Xi",
+    "Canada To Impose Up To 50% Tariffs On 700 US Goods As Trade War Escalates",
+    "Sugar prices: India’s sugar squeeze threatens its biggest season for sweets",
+    "Indian shares fall as IT, Reliance drag; losses deepen in closing auction",
+    "2026 MG Hector Tomahawk EV SUV Launched At Rs 19.49 Lakh! It Can Even Give Power To Your Home...",
     "Intern Pay Soars to $31,000 a Month at India High-Speed Traders",
-    "Indian shares gain as oil slides on Strait of Hormuz reopening hopes",
-    "Apple introduces new Mac mini and Mac Studio with M6 and M5 chips - GSMArena.com news",
-    "Poll shows plenty of Pixel 10 Pro owners are skipping the Pixel 11 Pro",
-    "Garmin’s Fenix 9 Pro Goes All In on Titanium and Off-Grid Connectivity",
-    "Minecraft 26.3 Snapshot 10 Adds Dappled Forest Panorama, Renames Explorer Maps, and More",
-    "Yash’s 'Toxic' beats Ranveer Singh’s 'Dhurandhar' opening-day haul as Day 1 collections cross Rs 50 crore",
-    "Trump Orders US Flags Lowered For \"True Loss\" Of Dolly Parton",
+    "Apple launches faster Mac mini, Mac Studio to tap AI boom",
+    "Google’s Pixel 11 Pro Pales in Comparison to Top Chinese Phones",
+    "Fitbit founders are back with a $250 wearable, but it's not for counting steps",
+    "Google Chrome 152 Released With 327 Security Fixes, Including 10 Critical Vulnerabilities",
+    "'Lifetime Trauma': Internet Reacts After Moviegoer Claims A Child Watched Yash's Toxic Despite 'A' Certificate",
+    "Remembering Dolly Parton, who gave away everything but her songs",
     "Kangana Ranaut's \"Bro, Wait\" Post To Rahul Gandhi's \"Smash Patriarchy\" Call"
   ],
   "quiz": [
     {
-      "blanked": "Trump sends Saudi nuclear deal to Congress but says ______ must recognize Israel",
-      "answer": "Riyadh",
+      "blanked": "Researchers Uncover Mechanism Behind the Spread of Aggressive ______ Cancer",
+      "answer": "Colorectal",
       "options": [
+        "Spread",
+        "Surya",
+        "Colorectal",
+        "Can"
+      ]
+    },
+    {
+      "blanked": "'Lifetime Trauma': Internet Reacts After Moviegoer Claims A Child Watched Yash's Toxic Despite 'A' ______",
+      "answer": "Certificate",
+      "options": [
+        "2014",
+        "Sri",
         "Dolly",
-        "Riyadh",
-        "Connectivity",
-        "Forest"
+        "Certificate"
       ]
     },
     {
-      "blanked": "The human brain usually decays first after death, so how have thousands survived for 12,000 years? ______",
-      "answer": "Scient",
+      "blanked": "CRT Beats Short-Course RT for Rectum ______",
+      "answer": "Preservation",
       "options": [
-        "Israel",
-        "Ranauts",
-        "Scient",
-        "Rijiju"
+        "Preservation",
+        "Pasindu",
+        "Yadav",
+        "Toxic"
       ]
     },
     {
-      "blanked": "Stock Market Highlights, Sensex Today: Sensex Settles ______ Points Lower As IT, Auto, FMCG Stocks Drag",
-      "answer": "183",
+      "blanked": "Delhi man stays at Udaipur 5-star hotel, leaves without paying Rs ______ lakh bill",
+      "answer": "5.74",
       "options": [
-        "Probe",
-        "Auto",
-        "183",
-        "Drag"
+        "5.74",
+        "Uncover",
+        "Acting",
+        "CJI"
       ]
     },
     {
-      "blanked": "IND vs SL LIVE Score, 2nd Test, Day 4: Manav Suthar puts India back in command in ______ Sri Lanka take slender lead",
-      "answer": "Colombo",
+      "blanked": "U.S. pauses visa appointments worldwide amid ______ immigration crackdown: report",
+      "answer": "Trumps",
       "options": [
-        "Off-Grid",
-        "Congress",
-        "Colombo",
-        "Nepal"
+        "Ex-CDS",
+        "Acting",
+        "Trumps",
+        "Ruling"
       ]
     },
     {
-      "blanked": "Justice ______ Mehta Urges CJI Surya Kant To Replace Rajasthan HC Acting CJ SP Sharma For 'Questionable...",
-      "answer": "Sandeep",
+      "blanked": "Akhilesh Yadav Wife Dimple To Be CM? SP ______ Reply Fuels Speculation",
+      "answer": "Chiefs",
       "options": [
-        "Trump",
-        "Irans",
-        "Israel",
-        "Sandeep"
+        "Post",
+        "Sunday",
+        "Chiefs",
+        "Pales"
       ]
     },
     {
-      "blanked": "NASA's Pandora Satellite Begins Search For Clouds, Water On ______ Worlds",
-      "answer": "Alien",
+      "blanked": "Justice Sandeep Mehta Urges CJI Surya Kant To Replace Rajasthan HC Acting CJ SP ______ For 'Questionable...",
+      "answer": "Sharma",
       "options": [
-        "Strait",
-        "Water",
-        "Alien",
-        "Pannun"
+        "Moscow",
+        "Including",
+        "2014",
+        "Sharma"
       ]
     },
     {
-      "blanked": "Karnataka Minister B ______ Offers To Resign Over Corruption Allegations",
-      "answer": "Nagendra",
+      "blanked": "NYC mayor Zohran ______ opposes RSS chief Mohan Bhagwat's Madison Square Garden event",
+      "answer": "Mamdani",
       "options": [
-        "Ranauts",
-        "Kaif",
-        "Mac",
-        "Nagendra"
+        "Mamdani",
+        "Top",
+        "Yashs",
+        "Surya"
       ]
     },
     {
-      "blanked": "'Warned by ______ Canadian police of credible plot': SFJ's Pannun claims fresh threat to life",
-      "answer": "FBI",
+      "blanked": "Google’s Pixel 11 ______ Pales in Comparison to Top Chinese Phones",
+      "answer": "Pro",
       "options": [
-        "FBI",
-        "31000",
-        "Drag",
-        "Pauses"
+        "Pro",
+        "Trauma",
+        "Trumps",
+        "High-Speed"
       ]
     },
     {
-      "blanked": "Netanyahu rules out Iran deal, calls its leaders ‘savages’ as ______ steps up economic offensive",
-      "answer": "Trump",
+      "blanked": "From H-1B fee to OPT charge for job-after-college degree: The US visa moves ______ need to track | Hindustan Times",
+      "answer": "Indians",
       "options": [
-        "Pay",
-        "Explorer",
-        "Trump",
-        "Pandora"
+        "Reliance",
+        "Test",
+        "Indians",
+        "CIA"
       ]
     },
     {
-      "blanked": "Vegetarian Diet and 14-Hour ______ Improve Type 2 Diabetes Control",
-      "answer": "Fast",
+      "blanked": "'Questions don't stop with batons': Rahul Gandhi attacks ______ govt over BPSC protests",
+      "answer": "Bihar",
       "options": [
-        "Fast",
-        "Worlds",
-        "Corruption",
-        "Orders"
+        "Critical",
+        "High-Speed",
+        "Bihar",
+        "Chrome"
       ]
     },
     {
-      "blanked": "Intern Pay Soars to ______ a Month at India High-Speed Traders",
-      "answer": "31000",
+      "blanked": "\"Our Religion, We ______ Asaduddin Owaisi Slams Court Ruling On Hijab",
+      "answer": "Decide",
       "options": [
-        "31000",
-        "Canadian",
-        "Yashasvi",
-        "Today"
-      ]
-    },
-    {
-      "blanked": "Russia planning to use nukes? Why ______ chief made 'emergency' visit to Moscow; report",
-      "answer": "CIA",
-      "options": [
-        "Rijiju",
-        "CIA",
-        "Renames",
-        "Australian"
+        "Month",
+        "Bhagwats",
+        "Decide",
+        "Indias"
       ]
     }
   ]
