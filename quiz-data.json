@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-26T05:18:23.442Z",
+  "generatedAt": "2026-08-26T08:03:14.694Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "Who are Iran’s top trading partners US would need to target to isolate it?",
-    "NYC Mayor Mamdani opposes RSS chief Bhagwat's Madison Square event",
-    "Trump administration issues pause on visa appointments for applicants worldwide",
-    "Weather Saved Pak's Skardu Base During Op Sindoor, But Bholari Took the IAF's Direct Hit",
-    "India, China look to advance border delimitation in Beijing talks",
-    "Canada hits back at Trump’s latest tariffs with up to 50% duties and $5.4 billion package for workers...",
+    "NYC mayor Zohran Mamdani opposes RSS chief Mohan Bhagwat's Madison Square Garden event",
+    "Team Trump Pauses US Visa Interviews Worldwide. Here's Why",
+    "From H-1B fee to OPT charge for job-after-college degree: The US visa moves Indians need to track | Hindustan Times",
+    "Justice Sandeep Mehta Urges CJI Surya Kant To Replace Rajasthan HC Acting CJ SP Sharma For 'Questionable...",
+    "‘We are under attack’: US military aircraft lands in Russia, sparks wild theories",
+    "Speaker Has Issued Notices To 20 Rebel MPs On Trinamool Congress Pleas For Their Disqualification,...",
+    "Loitering munition may have hit Kirana Hills during Operation Sindoor: former CDS Anil Chauhan",
+    "Vijay for PM? TVK leaders make 2029 pitch, Congress reacts | India News",
+    "Gurugram Bans School Buses On Flooded Roads, Citizens Ask Why Not Fix Them",
     "6 killed, several hurt as private bus crashes into moving truck in Hyderabad",
-    "Karnataka SIR draft rolls are out: What voters need to do next",
-    "No request yet for CJP's India Gate protest on Sept 5, will push for venue change: Police",
-    "‘Gurgaon not worth living in’: A man’s rain ordeal to bring daughter home",
-    "India Tech Firms Face Less Exposure To Trump’s $103,000 H-1B Fee",
-    "14 infants killed in fire at Pakistan’s Islamabad hospital, report says",
-    "Iran Blacklists Indian, Pakistani Ships Among 45 For Hormuz \"Violations\"",
-    "Trump says Hormuz mines cleared, warns Iran against planting new ones: ‘Immediate destruction’ | World News",
-    "Hindustan Copper OFS may not be a big draw for retail investors: Analysts",
+    "China warns US of retaliation if Trump's 'Economic D-Day' sanctions hit their Iran oil trade",
+    "Nepal flash flood washes away villages, damages roads, power projects",
+    "At least 14 newborn babies killed in Pakistan hospital nursery fire",
+    "Ramiz Raja provides update on Imran Khan after cricket community issues plea: 'It's been tough for the poor guy' | Cricket",
     "Indian shares up as oil eases; Nifty derivatives expiry spurs volatility",
-    "SpaceX Announces $100 Billion 'Spaceport' In US' Louisiana",
-    "UPI completes a decade, making India global leader in digital payments",
-    "Garmin Fenix 9 Pro launches with up to 291 days of battery life, solar, and new titanium case",
-    "Apple’s iPhone 18 Pro Event: Confirmed Facts vs. Rumor",
+    "Sensex falls 250 pts from day's high, Nifty near 24,300: 3 key reasons behind markets paring gains",
+    "Hindustan Zinc stock jumps 5% as DIPAM eases OFS fears; Jefferies raises target on zinc, silver boost",
+    "Dubai airport passenger traffic rebounding after 31% drop in H1 2026",
+    "Garmin fēnix 9 series introduces titanium cases, solar charging, and smarter stamina tracking",
+    "Minecraft 26.3 Snapshot 10 Adds Dappled Forest Panorama, Renames Explorer Maps, and More",
+    "The iPhone 18 Pro could rise in price to $1,199 due to a memory shortage",
     "Apple’s latest Mac Mini runs on a new M6 chip, and starts at $899",
-    "Apple preparing for iPhone price hike, report says this will happen for sure",
     "Country Music Legend Dolly Parton Dies At 80 After 'Brief Battle With Cancer'",
     "Bengaluru Court Passes Injunction Restraining Anyone From Posting Defamatory Content Against 'Toxic'...",
-    "Gandhari trailer: Blind mother Taapsee Pannu channels her inner goddess, goes on 'mahayudh' to save her daughter | Bollywood"
+    "'Bharat Mata Ki Jai': Kangana Ranaut hits back at Rahul Gandhi amid 'smash patriarchy' row"
   ],
   "quiz": [
     {
-      "blanked": "Indian shares up as oil eases; ______ derivatives expiry spurs volatility",
-      "answer": "Nifty",
+      "blanked": "NASA’s ______ Mission begins scanning 20 alien worlds for water, clouds and hidden atmospheric secrets",
+      "answer": "Pandora",
       "options": [
-        "Anyone",
-        "Passes",
-        "Nifty",
-        "Test"
+        "Pandora",
+        "Rajasthan",
+        "2029",
+        "Trailer"
       ]
     },
     {
-      "blanked": "Former ______ Test cricketer forced to retire at 27 sues school for head injury in 2014; here's why",
-      "answer": "Australian",
+      "blanked": "Loitering munition may have hit Kirana Hills during ______ Sindoor: former CDS Anil Chauhan",
+      "answer": "Operation",
       "options": [
-        "Australian",
-        "Promise",
-        "Pannu",
-        "Posting"
+        "Heres",
+        "Operation",
+        "Unnecessary",
+        "Sri"
       ]
     },
     {
-      "blanked": "Canada hits back at ______ latest tariffs with up to 50% duties and $5.4 billion package for workers...",
-      "answer": "Trumps",
+      "blanked": "'Bharat Mata Ki Jai': Kangana Ranaut hits back at ______ Gandhi amid 'smash patriarchy' row",
+      "answer": "Rahul",
       "options": [
-        "Brief",
-        "Trumps",
-        "SIR",
-        "Facts"
+        "Injunction",
+        "Jai",
+        "Test",
+        "Rahul"
       ]
     },
     {
-      "blanked": "Bengaluru Court Passes Injunction Restraining Anyone From Posting Defamatory ______ Against 'Toxic'...",
-      "answer": "Content",
+      "blanked": "Hindustan Zinc stock jumps 5% as DIPAM eases OFS fears; ______ raises target on zinc, silver boost",
+      "answer": "Jefferies",
       "options": [
-        "Against",
-        "OFS",
-        "Content",
-        "30%"
+        "Citizens",
+        "Jefferies",
+        "MPs",
+        "Congress"
       ]
     },
     {
-      "blanked": "Study identifies uniqueness of ______ Asian gut microbiome, critical for lifestyle disease treatment",
-      "answer": "South",
+      "blanked": "\"Unacceptable, Unnecessary\": India Legend ______ Slams Yashasvi Jaiswal For 'Headbutt' Incident",
+      "answer": "Brutally",
       "options": [
-        "Police",
-        "Pasindu",
         "Sooriyabandara",
-        "South"
-      ]
-    },
-    {
-      "blanked": "Sreejesh demands accountability, Viren Rasquinha warns against Asian Games cover-up after ______ World Cup flop | Hockey",
-      "answer": "Indias",
-      "options": [
-        "Analysts",
-        "Indias",
-        "Thing",
-        "2014"
-      ]
-    },
-    {
-      "blanked": "SpaceX Announces ______ Billion 'Spaceport' In US' Louisiana",
-      "answer": "100",
-      "options": [
-        "100",
-        "Indian",
-        "Incident",
-        "Games"
-      ]
-    },
-    {
-      "blanked": "\"Unacceptable, Unnecessary\": India ______ Brutally Slams Yashasvi Jaiswal For 'Headbutt' Incident",
-      "answer": "Legend",
-      "options": [
-        "Jaiswal",
-        "Age",
-        "Legend",
-        "Brief"
-      ]
-    },
-    {
-      "blanked": "Trump says Hormuz mines cleared, warns Iran against planting new ones: ‘Immediate destruction’ | World ______",
-      "answer": "News",
-      "options": [
-        "Face",
-        "Legend",
-        "News",
+        "Brutally",
+        "Mohan",
         "Content"
       ]
     },
     {
-      "blanked": "Apple’s iPhone 18 Pro ______ Confirmed Facts vs. Rumor",
-      "answer": "Event",
+      "blanked": "‘We are under attack’: US military aircraft lands in ______ sparks wild theories",
+      "answer": "Russia",
       "options": [
-        "Unnecessary",
-        "Event",
-        "Young",
-        "NASA"
+        "Rahul",
+        "Trailer",
+        "Russia",
+        "Young"
       ]
     },
     {
-      "blanked": "NYC Mayor Mamdani opposes RSS chief Bhagwat's Madison ______ event",
-      "answer": "Square",
+      "blanked": "Indian shares up as oil eases; ______ derivatives expiry spurs volatility",
+      "answer": "Nifty",
       "options": [
-        "Square",
-        "Parton",
-        "Bholari",
-        "Asian"
+        "Nifty",
+        "Dappled",
+        "24300",
+        "OFS"
       ]
     },
     {
-      "blanked": "Garmin ______ 9 Pro launches with up to 291 days of battery life, solar, and new titanium case",
-      "answer": "Fenix",
+      "blanked": "From H-1B fee to ______ charge for job-after-college degree: The US visa moves Indians need to track | Hindustan Times",
+      "answer": "OPT",
       "options": [
-        "Brief",
-        "Sri",
-        "Among",
-        "Fenix"
+        "Restraining",
+        "Jefferies",
+        "NASA",
+        "OPT"
+      ]
+    },
+    {
+      "blanked": "Apple’s latest Mac ______ runs on a new M6 chip, and starts at $899",
+      "answer": "Mini",
+      "options": [
+        "Yashasvi",
+        "Mac",
+        "Dappled",
+        "Mini"
+      ]
+    },
+    {
+      "blanked": "Ramiz ______ provides update on Imran Khan after cricket community issues plea: 'It's been tough for the poor guy' | Cricket",
+      "answer": "Raja",
+      "options": [
+        "Anil",
+        "OPT",
+        "26.3",
+        "Raja"
+      ]
+    },
+    {
+      "blanked": "NYC mayor Zohran Mamdani opposes RSS chief ______ Bhagwat's Madison Square Garden event",
+      "answer": "Mohan",
+      "options": [
+        "Nifty",
+        "Roads",
+        "Sooriyabandara",
+        "Mohan"
+      ]
+    },
+    {
+      "blanked": "Vijay for PM? TVK leaders make 2029 pitch, ______ reacts | India News",
+      "answer": "Congress",
+      "options": [
+        "Trump",
+        "Defamatory",
+        "Forest",
+        "Congress"
       ]
     }
   ]
