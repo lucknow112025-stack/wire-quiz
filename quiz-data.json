@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-26T10:08:14.159Z",
+  "generatedAt": "2026-08-26T11:49:57.997Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "8 Dead In Nepal Flash Floods That Started From Tibet, Villages Washed Away",
-    "Who are Iran’s top trading partners US would need to target to isolate it?",
-    "US halts visa appointments globally amid Donald Trump's immigration crackdown",
+    "At least eight killed in Nepal flash floods",
+    "Trump threatens Iran’s partners: How do secondary sanctions work?",
+    "Team Trump Pauses US Visa Interviews Worldwide. Here's Why",
     "NYC mayor Zohran Mamdani opposes RSS chief Mohan Bhagwat's Madison Square Garden event",
     "Justice Sandeep Mehta Urges CJI Surya Kant To Replace Rajasthan HC Acting CJ SP Sharma For 'Questionable...",
-    "Canada hits back at Trump’s latest tariffs with up to 50% duties and $5.4 billion package for workers...",
-    "Protest erupts at IIT Delhi after student’s suicide, CJP says ‘clear structural problem’",
+    "Trump sends Saudi nuclear deal to Congress but says Riyadh must recognize Israel",
+    "Conman Sukesh Chandrasekhar convicted for impersonating Supreme Court judge to secure bail",
+    "Kiren Rijiju hits back at Pawan Khera's 'half-naked' jibe: 'Do you swim with full suit, coat?'",
     "Rebel TMC MPs get notices from Lok Sabha Secretariat on disqualification pleas; Mahua Moitra alleges ‘cover up’",
-    "Delhi man stays at Udaipur 5-star hotel, leaves without paying Rs 5.74 lakh bill",
-    "Karnataka SIR draft rolls are out: What voters need to do next",
-    "Rubio: Tells allies US shifting from strikes to sanctions on Iran - Axios",
-    "At least 14 infants killed in fire at Pakistan hospital",
+    "Karnataka Minister B Nagendra Offers To Resign Over Corruption Allegations",
+    "Russia planning to use nukes? Why CIA chief made 'emergency' visit to Moscow; report",
     "Netanyahu rules out Iran deal, calls its leaders ‘savages’ as Trump steps up economic offensive",
-    "India Tech Firms Face Less Exposure To Trump’s $103,000 H-1B Fee",
-    "Indian shares up as oil eases; Nifty derivatives expiry spurs volatility",
-    "Sensex falls 400 pts from day's high, Nifty near 24,250: Key reasons behind markets turning red",
-    "India's Tilaknagar open to another large deal after Imperial Blue buyout, chairman says",
+    "'Warned by FBI, Canadian police of credible plot': SFJ's Pannun claims fresh threat to life",
+    "U.S. military says it struck vessel in the Caribbean, killing four",
+    "Stock Market Highlights, Sensex Today: Sensex Settles 183 Points Lower As IT, Auto, FMCG Stocks Drag",
+    "Bill Gates, alarmed by AI, has policy ideas he wants to discuss with China's Xi",
     "Intern Pay Soars to $31,000 a Month at India High-Speed Traders",
-    "Apple launches faster Mac mini, Mac Studio to tap AI boom",
+    "Indian shares gain as oil slides on Strait of Hormuz reopening hopes",
+    "Apple introduces new Mac mini and Mac Studio with M6 and M5 chips - GSMArena.com news",
+    "Poll shows plenty of Pixel 10 Pro owners are skipping the Pixel 11 Pro",
+    "Garmin’s Fenix 9 Pro Goes All In on Titanium and Off-Grid Connectivity",
     "Minecraft 26.3 Snapshot 10 Adds Dappled Forest Panorama, Renames Explorer Maps, and More",
-    "Samsung Smart Switch adds passwords and eSIM transfer",
-    "vivo V80 Lite 5G debuts with Dimensity 7360 chipset, 7,050 mAh battery - GSMArena.com news",
-    "‘Toxic: A Fairy Tale for Grown-Ups’ box office collection day 1 [Live]: Yash, Nayanthara, and Kiara Advan",
-    "Country Music Legend Dolly Parton Dies At 80 After 'Brief Battle With Cancer'",
-    "Kriti Sanon Rakhi ad: Giva jewellery drops Bollywood actor's Indian festival ad over outfit"
+    "Yash’s 'Toxic' beats Ranveer Singh’s 'Dhurandhar' opening-day haul as Day 1 collections cross Rs 50 crore",
+    "Trump Orders US Flags Lowered For \"True Loss\" Of Dolly Parton",
+    "Kangana Ranaut's \"Bro, Wait\" Post To Rahul Gandhi's \"Smash Patriarchy\" Call"
   ],
   "quiz": [
     {
-      "blanked": "Apple launches faster ______ mini, Mac Studio to tap AI boom",
-      "answer": "Mac",
+      "blanked": "Trump sends Saudi nuclear deal to Congress but says ______ must recognize Israel",
+      "answer": "Riyadh",
       "options": [
+        "Dolly",
+        "Riyadh",
+        "Connectivity",
+        "Forest"
+      ]
+    },
+    {
+      "blanked": "The human brain usually decays first after death, so how have thousands survived for 12,000 years? ______",
+      "answer": "Scient",
+      "options": [
+        "Israel",
+        "Ranauts",
+        "Scient",
+        "Rijiju"
+      ]
+    },
+    {
+      "blanked": "Stock Market Highlights, Sensex Today: Sensex Settles ______ Points Lower As IT, Auto, FMCG Stocks Drag",
+      "answer": "183",
+      "options": [
+        "Probe",
+        "Auto",
+        "183",
+        "Drag"
+      ]
+    },
+    {
+      "blanked": "IND vs SL LIVE Score, 2nd Test, Day 4: Manav Suthar puts India back in command in ______ Sri Lanka take slender lead",
+      "answer": "Colombo",
+      "options": [
+        "Off-Grid",
+        "Congress",
+        "Colombo",
+        "Nepal"
+      ]
+    },
+    {
+      "blanked": "Justice ______ Mehta Urges CJI Surya Kant To Replace Rajasthan HC Acting CJ SP Sharma For 'Questionable...",
+      "answer": "Sandeep",
+      "options": [
+        "Trump",
+        "Irans",
+        "Israel",
+        "Sandeep"
+      ]
+    },
+    {
+      "blanked": "NASA's Pandora Satellite Begins Search For Clouds, Water On ______ Worlds",
+      "answer": "Alien",
+      "options": [
+        "Strait",
+        "Water",
+        "Alien",
+        "Pannun"
+      ]
+    },
+    {
+      "blanked": "Karnataka Minister B ______ Offers To Resign Over Corruption Allegations",
+      "answer": "Nagendra",
+      "options": [
+        "Ranauts",
+        "Kaif",
         "Mac",
-        "BCCI",
-        "Beats",
-        "Nayanthara"
+        "Nagendra"
       ]
     },
     {
-      "blanked": "US halts visa appointments globally amid ______ Trump's immigration crackdown",
-      "answer": "Donald",
+      "blanked": "'Warned by ______ Canadian police of credible plot': SFJ's Pannun claims fresh threat to life",
+      "answer": "FBI",
       "options": [
-        "Donald",
-        "Dinusha",
-        "Fee",
-        "Mushtaq"
+        "FBI",
+        "31000",
+        "Drag",
+        "Pauses"
       ]
     },
     {
-      "blanked": "2nd Test: India struggle to finish off tail as Sonal Dinusha, Pasindu ______ lead Sri Lanka resis",
-      "answer": "Sooriyabandara",
+      "blanked": "Netanyahu rules out Iran deal, calls its leaders ‘savages’ as ______ steps up economic offensive",
+      "answer": "Trump",
       "options": [
-        "Sooriyabandara",
-        "Mushtaq",
-        "Away",
-        "Mahua"
-      ]
-    },
-    {
-      "blanked": "NASA, ______ astronauts complete spacewalk to install antenna",
-      "answer": "ESA",
-      "options": [
-        "Tale",
-        "ESA",
+        "Pay",
         "Explorer",
-        "Nifty"
+        "Trump",
+        "Pandora"
       ]
     },
     {
-      "blanked": "‘Toxic: A Fairy Tale for Grown-Ups’ box office collection day 1 [Live]: Yash, Nayanthara, and Kiara ______",
-      "answer": "Advan",
+      "blanked": "Vegetarian Diet and 14-Hour ______ Improve Type 2 Diabetes Control",
+      "answer": "Fast",
       "options": [
-        "Urges",
-        "Axios",
-        "Parton",
-        "Advan"
+        "Fast",
+        "Worlds",
+        "Corruption",
+        "Orders"
       ]
     },
     {
-      "blanked": "Minecraft ______ Snapshot 10 Adds Dappled Forest Panorama, Renames Explorer Maps, and More",
-      "answer": "26.3",
+      "blanked": "Intern Pay Soars to ______ a Month at India High-Speed Traders",
+      "answer": "31000",
       "options": [
-        "IIT",
-        "26.3",
-        "Dimensity",
-        "Exposure"
+        "31000",
+        "Canadian",
+        "Yashasvi",
+        "Today"
       ]
     },
     {
-      "blanked": "Justice Sandeep Mehta Urges CJI Surya ______ To Replace Rajasthan HC Acting CJ SP Sharma For 'Questionable...",
-      "answer": "Kant",
+      "blanked": "Russia planning to use nukes? Why ______ chief made 'emergency' visit to Moscow; report",
+      "answer": "CIA",
       "options": [
-        "Mushtaq",
-        "Kant",
-        "Sharma",
-        "Dimensity"
-      ]
-    },
-    {
-      "blanked": "Duleep Trophy: Abid Mushtaq stars in ______ Zone's victory",
-      "answer": "North",
-      "options": [
-        "Floods",
-        "North",
-        "Rajasthan",
-        "Dies"
-      ]
-    },
-    {
-      "blanked": "Rebel TMC ______ get notices from Lok Sabha Secretariat on disqualification pleas; Mahua Moitra alleges ‘cover up’",
-      "answer": "MPs",
-      "options": [
-        "Urges",
-        "MPs",
-        "Explorer",
-        "Worlds"
-      ]
-    },
-    {
-      "blanked": "India Tech Firms Face Less Exposure To ______ $103,000 H-1B Fee",
-      "answer": "Trumps",
-      "options": [
-        "Donald",
-        "Trumps",
-        "Lanka",
-        "Studio"
-      ]
-    },
-    {
-      "blanked": "Bollywood filmmaker ______ Kohli dies at 77",
-      "answer": "Kuku",
-      "options": [
-        "Dead",
-        "Pandora",
-        "Kuku",
-        "Yash"
-      ]
-    },
-    {
-      "blanked": "NASA's Pandora Satellite Begins Search For Clouds, Water On Alien ______",
-      "answer": "Worlds",
-      "options": [
-        "7360",
-        "Diabetes",
-        "Lite",
-        "Worlds"
+        "Rijiju",
+        "CIA",
+        "Renames",
+        "Australian"
       ]
     }
   ]
