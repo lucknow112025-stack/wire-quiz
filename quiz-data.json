@@ -1,24 +1,24 @@
 {
-  "generatedAt": "2026-08-29T19:33:27.859Z",
+  "generatedAt": "2026-08-29T19:48:20.388Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
     "Nepal flash floods LIVE: Rescuers claw through mud as death toll rises to 675",
     "PM Modi lands in Uzbekistan on two-nation visit, President Shavkat Mirziyoyev receives him | India News",
     "Rahul Gandhi asks PM Modi to order FIR under SC/ST Act over ‘purification’ after Kharge’s rally | India News",
+    "Xi's purge hits PLA General who ordered Galwan ops to 'teach India a lesson'",
     "Oneness or Hindu supremacy? RSS chief Bhagwat’s secretive New York hosts",
-    "China removes PLA general who oversaw Doklam and Galwan standoffs with India from key post",
     "‘Save me, doctors want to kill me’: Woman’s video before death during childbirth surfaces",
     "‘UP no longer Bimaru state’: CM Yogi says mafia crushed, encephalitis eradicated; Akhilesh flags gaps",
-    "India has highest glacial flood death toll in Hindu Kush Himalaya, UN-led study finds",
     "Flash floods in Nepal: No contact still with 320 Indians; 400 stranded",
+    "India has highest glacial flood death toll in Hindu Kush Himalaya, UN-led study finds",
     "Manufacture in India, build for world: FM Sitharaman",
     "Russian strike on Kyiv-area ammunition depot triggers blast, killing 37",
-    "Norway mourns King Harald as crowds gather at royal palace",
     "CIA Failed To Connect Key Intel Naming 9/11 Mastermind Before Attacks: Report",
+    "Norway mourns King Harald as crowds gather at royal palace",
     "Who is Milo Yiannopoulos, far-right British commentator, detained by ICE? Former Trump supporter faces de",
-    "HDFC Bank CEO Sashidhar Jagdishan to step down after term ends in October",
-    "Union Bank, LIC Housing Fin, Canara Bank challenge NCLT nod to Subhash Chandra resolution plan",
+    "HDFC Bank CEO Jagdishan to step down, decides not to seek reappointment",
+    "Sold house, personal assets, now living on rental income: Zee founder Subhash Chandra reveals his finances",
     "Nvidia’s AI advantage is moving beyond the GPU",
     "Temasek backs Singapore Airlines' Air India investment amid growing scrutiny",
     "Nvidia's DLSS 5 leaked early, and modders have already broken it out of its Blackwell cage",
@@ -31,123 +31,123 @@
   ],
   "quiz": [
     {
-      "blanked": "Liverpool strike deal to sign PSG’s ______ for up to $166m: Reports",
-      "answer": "Barcola",
+      "blanked": "Sold house, personal assets, now living on rental income: Zee founder ______ Chandra reveals his finances",
+      "answer": "Subhash",
       "options": [
-        "Grace",
-        "Has",
-        "Barcola",
-        "Yash"
-      ]
-    },
-    {
-      "blanked": "PM Modi lands in Uzbekistan on two-nation visit, President Shavkat Mirziyoyev receives him | India ______",
-      "answer": "News",
-      "options": [
-        "News",
-        "Internet",
-        "FIR",
-        "Singapore"
-      ]
-    },
-    {
-      "blanked": "GTA VI Has Over ______ Animations Compared To GTA V's 55,000 & Red Dead Redemption 2's 300,000",
-      "answer": "600000",
-      "options": [
-        "Samsung",
-        "Air",
-        "Redemption",
-        "600000"
-      ]
-    },
-    {
-      "blanked": "Nancy Grace Roman Telescope live updates: ______ and Falcon Heavy delivered to launch pad",
-      "answer": "Roman",
-      "options": [
+        "Subhash",
+        "Pancreatic",
         "SCST",
-        "Key",
-        "UN-led",
-        "Roman"
+        "Know"
       ]
     },
     {
-      "blanked": "Aditya-L1 catches ______ early warning signs before Solar flares",
-      "answer": "Suns",
+      "blanked": "PHOTOS: ______ appears orange due to partial lunar eclipse",
+      "answer": "Moon",
       "options": [
-        "King",
-        "Suns",
-        "Grace",
-        "Kriti"
+        "Akhilesh",
+        "Telomere",
+        "Moon",
+        "Sanon"
       ]
     },
     {
-      "blanked": "Placental Epigenetic Changes Link to Persistent Food ______",
-      "answer": "Allergy",
-      "options": [
-        "Allergy",
-        "Lock",
-        "320",
-        "GPU"
-      ]
-    },
-    {
-      "blanked": "‘UP no longer Bimaru state’: CM ______ says mafia crushed, encephalitis eradicated; Akhilesh flags gaps",
-      "answer": "Yogi",
-      "options": [
-        "LIVE",
-        "RSS",
-        "Row",
-        "Yogi"
-      ]
-    },
-    {
-      "blanked": "Temasek backs ______ Airlines' Air India investment amid growing scrutiny",
-      "answer": "Singapore",
+      "blanked": "GTA VI Has Over 600,000 Animations Compared To GTA V's 55,000 & Red Dead Redemption 2's ______",
+      "answer": "300000",
       "options": [
         "Sonal",
-        "Yash",
-        "Singapore",
-        "Persistent"
+        "Akhilesh",
+        "Former",
+        "300000"
+      ]
+    },
+    {
+      "blanked": "SL vs IND, ______ Sonal Dinusha and an effective blueprint that negated India's spin threat",
+      "answer": "2026",
+      "options": [
+        "Silent",
+        "2026",
+        "Argentina",
+        "Internet"
       ]
     },
     {
       "blanked": "‘Save me, doctors want to kill me’: ______ video before death during childbirth surfaces",
       "answer": "Womans",
       "options": [
-        "Airlines",
-        "Lock",
         "Womans",
-        "Intel"
+        "Awards",
+        "Yiannopoulos",
+        "Cancer"
       ]
     },
     {
-      "blanked": "Manufacture in India, build for world: FM ______",
-      "answer": "Sitharaman",
+      "blanked": "India's javelin champion Neeraj ______ ends season early after ligament tear",
+      "answer": "Chopra",
       "options": [
-        "York",
-        "Connect",
-        "Sitharaman",
-        "Chandra"
+        "Kangana",
+        "Key",
+        "Day",
+        "Chopra"
       ]
     },
     {
-      "blanked": "Amid rising swine flu cases, ______ govt asks hospitals to reserve isolation beds",
-      "answer": "Delhi",
+      "blanked": "Rahul Gandhi asks PM ______ to order FIR under SC/ST Act over ‘purification’ after Kharge’s rally | India News",
+      "answer": "Modi",
       "options": [
-        "Galaxy",
-        "IND",
-        "Barcola",
-        "Delhi"
+        "Upp",
+        "Modi",
+        "Roman",
+        "Value"
       ]
     },
     {
-      "blanked": "CIA Failed To Connect Key Intel Naming 9/11 ______ Before Attacks: Report",
-      "answer": "Mastermind",
+      "blanked": "Xi's purge hits PLA ______ who ordered Galwan ops to 'teach India a lesson'",
+      "answer": "General",
       "options": [
-        "Sashidhar",
-        "SCST",
-        "Neeraj",
-        "Mastermind"
+        "320",
+        "Display",
+        "General",
+        "Indias"
+      ]
+    },
+    {
+      "blanked": "HDFC Bank ______ Jagdishan to step down, decides not to seek reappointment",
+      "answer": "CEO",
+      "options": [
+        "GPU",
+        "Shows",
+        "Galwan",
+        "CEO"
+      ]
+    },
+    {
+      "blanked": "Nancy Grace Roman Telescope live updates: Roman and Falcon ______ delivered to launch pad",
+      "answer": "Heavy",
+      "options": [
+        "Shows",
+        "Singapore",
+        "Heavy",
+        "Airlines"
+      ]
+    },
+    {
+      "blanked": "Flash floods in Nepal: No contact still with ______ Indians; 400 stranded",
+      "answer": "320",
+      "options": [
+        "320",
+        "Shreya",
+        "Persistent",
+        "Atherosclerosis"
+      ]
+    },
+    {
+      "blanked": "PM Modi lands in Uzbekistan on two-nation visit, ______ Shavkat Mirziyoyev receives him | India News",
+      "answer": "President",
+      "options": [
+        "Redemption",
+        "Lock",
+        "Epigenetic",
+        "President"
       ]
     }
   ]
