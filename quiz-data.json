@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-29T00:48:16.017Z",
+  "generatedAt": "2026-08-29T01:03:15.181Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "China says collapse of glacier in Nepal likely behind flash flood",
+    "Fresh glacial lakes form at source of Nepal’s ice-rock avalanche",
     "Barron Trump Living Reclusive Life Amid Security Fears, Doesn't Go Out: Report",
-    "Teary-eyed Karnataka minister B Nagendra resigns from cabinet, as MLA amid financial irregularity row | India News",
     "Iran lashes out at US sanctions amid economic toll at home",
-    "X account blocked for several hours, rues organisation hosting Bhagwat's New York event",
+    "'RSS does not represent us': US-based Hindu group among 61 organisations protesting Mohan Bhagwat's NYC event | India News",
     "Penguin drops Sonia Gandhi’s memoir after she rejected ‘changes, deletions’",
+    "PM Modi heads to Uzbekistan, SCO; meet with Putin on the cards | India News",
     "Spider-Man, Motu-Patlu, And A Greek Drama: BJP Casts Insta Meme Net For Gen-Z Attention",
     "Hyderabad IT Corridor Turns Into A Goldmine",
     "3,400 SIR forms found at Navi Mumbai photocopy shop; 5 BLOs suspended as Sena (UBT)-BJP clash",
-    "India news: Modi, Putin to hold talks in SCO summit",
+    "Remains of 4 Nagas Killed in Attack Brought to Senapati District Hospital",
     "‘Biggest deal in history’: Trump says US to control 65 billion barrels of Venezuela oil",
     "US Judge Won't Immediately Block Trump's Limiting Birthright Citizenship Order",
     "Syria President Appoints Kurdish Leader Mazloum Abdi As His Adviser",
-    "US President Donald Trump says Russian counterpart Vladimir Putin will not attack NATO territory",
+    "With nod to India, Canadian FM talks 'diversification' amid US trade war: 'You'll know why I have such a...",
     "India's markets regulator approves Jio Platforms' $3.8 billion IPO",
-    "Gold tumbles as Warsh sparks rally on the US Dollar",
+    "Fed Chair Kevin Warsh warns inflation isn’t slowing, vows to hit Fed’s 2% target",
     "Fake Sales, Round-Tripping, 1,700% Stock Surge: SEBI Uncovers Debock's Pump-And-Dump Scheme",
     "Fat, Sugar, Salt Warnings In Red Boxes: Regulator's Latest Weapon Against Unhealthy Foods",
+    "'GTA 6' Release Details: Everything We Know About 'Grand Theft Auto VI'",
     "Sony's new Bravia 6 TVs take on entry-level OLEDs",
     "iPhone 18 Pro, Foldable iPhone Ultra and More: Apple Products Expected Next Month",
     "Garmin Fenix 9 vs Fenix 9 Pro: Display, Battery and Satellite Features",
-    "'GTA 6' Release Details: Everything We Know About 'Grand Theft Auto VI'",
     "Toxic Box Office Collections: Yash starrer slips on Thursday, Gross Rs. 153 Cr in India in 2 days",
     "Dolly Parton grew up with 11 siblings in a two-room Tennessee cabin without electricity or running water;",
     "‘Hi’ movie review: Kavin, Nayanthara anchor Vishnu Edavan’s old-school wholesome entertainer"
   ],
   "quiz": [
     {
-      "blanked": "Box Office: Hanuman Ansh emerge as a ______ Recording biggest day of run on 4th Friday at Rs. 5 Cr plus",
-      "answer": "HIT",
+      "blanked": "Spider-Man, Motu-Patlu, And A Greek Drama: BJP Casts Insta Meme Net For Gen-Z ______",
+      "answer": "Attention",
       "options": [
-        "HIT",
-        "Science",
-        "Weapon",
-        "Ghats"
+        "Attention",
+        "Aditya-Li",
+        "Nepals",
+        "Cup"
       ]
     },
     {
-      "blanked": "China says collapse of glacier in ______ likely behind flash flood",
-      "answer": "Nepal",
+      "blanked": "Fake Sales, Round-Tripping, 1,700% ______ Surge: SEBI Uncovers Debock's Pump-And-Dump Scheme",
+      "answer": "Stock",
       "options": [
-        "Sales",
-        "Trumps",
-        "Nepal",
-        "Bhagwats"
+        "PMDD",
+        "Stock",
+        "OLEDs",
+        "Battery"
       ]
     },
     {
-      "blanked": "Physical Activity Linked to Lower ______ Risk in Atrial Fibrillation",
-      "answer": "Stroke",
+      "blanked": "The agony of ______ — the condition that made me plot my own death",
+      "answer": "PMDD",
       "options": [
-        "Dollar",
-        "Fears",
-        "Every",
-        "Stroke"
+        "PMDD",
+        "Jio",
+        "Cup",
+        "Atrial"
       ]
     },
     {
-      "blanked": "Fat, Sugar, Salt Warnings In Red Boxes: Regulator's Latest Weapon Against Unhealthy ______",
-      "answer": "Foods",
+      "blanked": "Fat, Sugar, ______ Warnings In Red Boxes: Regulator's Latest Weapon Against Unhealthy Foods",
+      "answer": "Salt",
       "options": [
-        "Donald",
-        "Next",
-        "Foods",
-        "Stroke"
+        "Living",
+        "Reclusive",
+        "Red",
+        "Salt"
       ]
     },
     {
-      "blanked": "Photos: ______ part and make way for deep lunar eclipse",
-      "answer": "Clouds",
+      "blanked": "‘Hi’ movie review: Kavin, Nayanthara anchor Vishnu ______ old-school wholesome entertainer",
+      "answer": "Edavans",
       "options": [
-        "Warnings",
-        "Cricket",
-        "Clouds",
-        "Stock"
-      ]
-    },
-    {
-      "blanked": "Dolly ______ grew up with 11 siblings in a two-room Tennessee cabin without electricity or running water;",
-      "answer": "Parton",
-      "options": [
-        "Release",
-        "Net",
+        "Nepals",
+        "World",
         "Edavans",
-        "Parton"
+        "Gen-Z"
       ]
     },
     {
-      "blanked": "Robinson, Archer demolish Pakistan as ______ take strong grip",
-      "answer": "England",
+      "blanked": "‘Absolutely ridiculous’: SA allrounder Marizanne Kapp upset that trans cricketer Anaya ______ has been allowed to play | Cricket",
+      "answer": "Bangar",
       "options": [
-        "Debocks",
-        "Mumbai",
-        "TVs",
-        "England"
+        "Bangar",
+        "Sonia",
+        "Hospital",
+        "IPO"
       ]
     },
     {
-      "blanked": "Gold tumbles as ______ sparks rally on the US Dollar",
-      "answer": "Warsh",
+      "blanked": "Fed Chair Kevin Warsh warns inflation isn’t slowing, vows to hit ______ 2% target",
+      "answer": "Feds",
+      "options": [
+        "Weapon",
+        "Battery",
+        "SIR",
+        "Feds"
+      ]
+    },
+    {
+      "blanked": "Fresh glacial lakes form at source of ______ ice-rock avalanche",
+      "answer": "Nepals",
+      "options": [
+        "Sena",
+        "Belgium",
+        "Nepals",
+        "Tennessee"
+      ]
+    },
+    {
+      "blanked": "'RSS does not represent us': ______ Hindu group among 61 organisations protesting Mohan Bhagwat's NYC event | India News",
+      "answer": "US-based",
+      "options": [
+        "Chair",
+        "Fibrillation",
+        "US-based",
+        "3.8"
+      ]
+    },
+    {
+      "blanked": "‘Biggest deal in history’: Trump says US to control 65 billion barrels of ______ oil",
+      "answer": "Venezuela",
+      "options": [
+        "Lower",
+        "World",
+        "Edavans",
+        "Venezuela"
+      ]
+    },
+    {
+      "blanked": "Box Office: Hanuman Ansh emerge as a HIT, ______ biggest day of run on 4th Friday at Rs. 5 Cr plus",
+      "answer": "Recording",
       "options": [
         "Warsh",
-        "Cup",
-        "1700%",
-        "Dollar"
+        "Archer",
+        "Corridor",
+        "Recording"
       ]
     },
     {
-      "blanked": "3,400 SIR forms found at ______ Mumbai photocopy shop; 5 BLOs suspended as Sena (UBT)-BJP clash",
-      "answer": "Navi",
+      "blanked": "Western ______ frogs sort by size to coexist, study finds",
+      "answer": "Ghats",
       "options": [
-        "Casts",
-        "Belgium",
-        "Navi",
-        "Life"
-      ]
-    },
-    {
-      "blanked": "iPhone 18 Pro, Foldable iPhone Ultra and More: ______ Products Expected Next Month",
-      "answer": "Apple",
-      "options": [
-        "Hanuman",
-        "Know",
-        "Leader",
-        "Apple"
-      ]
-    },
-    {
-      "blanked": "Spirited ______ stun SA in tri-series opener",
-      "answer": "Namibia",
-      "options": [
-        "Namibia",
-        "Nagendra",
-        "Nepal",
-        "Gandhis"
-      ]
-    },
-    {
-      "blanked": "India's markets regulator approves Jio Platforms' ______ billion IPO",
-      "answer": "3.8",
-      "options": [
-        "Details",
-        "3.8",
-        "Karnataka",
-        "Debocks"
+        "Ghats",
+        "Collections",
+        "Doesnt",
+        "Everything"
       ]
     }
   ]
