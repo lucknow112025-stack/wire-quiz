@@ -1,73 +1,53 @@
 {
-  "generatedAt": "2026-08-29T19:48:20.388Z",
+  "generatedAt": "2026-08-29T20:03:26.499Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
     "Nepal flash floods LIVE: Rescuers claw through mud as death toll rises to 675",
     "PM Modi lands in Uzbekistan on two-nation visit, President Shavkat Mirziyoyev receives him | India News",
-    "Rahul Gandhi asks PM Modi to order FIR under SC/ST Act over ‘purification’ after Kharge’s rally | India News",
-    "Xi's purge hits PLA General who ordered Galwan ops to 'teach India a lesson'",
     "Oneness or Hindu supremacy? RSS chief Bhagwat’s secretive New York hosts",
+    "China removes PLA general who oversaw Doklam and Galwan standoffs with India from key post",
+    "Rahul Gandhi asks PM Modi to order FIR under SC/ST Act over ‘purification’ after Kharge’s rally | India News",
+    "Before The Nepal Flood, A Glacial Fall: Tracing The Trigger, And A 100-km Killer Run",
     "‘Save me, doctors want to kill me’: Woman’s video before death during childbirth surfaces",
-    "‘UP no longer Bimaru state’: CM Yogi says mafia crushed, encephalitis eradicated; Akhilesh flags gaps",
     "Flash floods in Nepal: No contact still with 320 Indians; 400 stranded",
-    "India has highest glacial flood death toll in Hindu Kush Himalaya, UN-led study finds",
     "Manufacture in India, build for world: FM Sitharaman",
+    "Weather tomorrow: IMD warns of very heavy rain in many states; extremely heavy rain likely in Odisha",
     "Russian strike on Kyiv-area ammunition depot triggers blast, killing 37",
+    "Norway's King Haakon honours 'dear father' Harald in first speech as sovereign",
     "CIA Failed To Connect Key Intel Naming 9/11 Mastermind Before Attacks: Report",
-    "Norway mourns King Harald as crowds gather at royal palace",
-    "Who is Milo Yiannopoulos, far-right British commentator, detained by ICE? Former Trump supporter faces de",
-    "HDFC Bank CEO Jagdishan to step down, decides not to seek reappointment",
+    "'Biggest deal in world history': Trump says US secured 65 billion barrels of Venezuelan oil | World News",
     "Sold house, personal assets, now living on rental income: Zee founder Subhash Chandra reveals his finances",
     "Nvidia’s AI advantage is moving beyond the GPU",
+    "Fed Chair Warsh’s actual guidance from Jackson Hole may be buried in the footnotes – LPL Financial’s Roach",
     "Temasek backs Singapore Airlines' Air India investment amid growing scrutiny",
     "Nvidia's DLSS 5 leaked early, and modders have already broken it out of its Blackwell cage",
-    "iPhone 18 Pro Vs iPhone 18 Pro Max: Display, Battery, Camera Differences To Know",
+    "Here's when the iPhone 18 Pro and iPhone 18 Pro Max are rumored to go on pre-order - GSMArena.com news",
     "GTA VI Has Over 600,000 Animations Compared To GTA V's 55,000 & Red Dead Redemption 2's 300,000",
     "Tech wrap week: From Samsung Galaxy S26 FE to AI-powered laptops, here’s what’s new",
     "'Toxic' box office collection Day 4 [LIVE]: Yash and Kiara Advani film races past Rs 182 crore domestic net milestone",
-    "Ram Kapoor says Shreya Kalra ‘needs to grow up’ as he addresses Lock Upp kiss row: ‘Not a single woman ever complained’ | Bollywood",
-    "Viral Video: Internet Compares Kriti Sanon And Kangana Ranaut's National Awards Looks After Rakhi Ad Row"
+    "Viral Video: Internet Compares Kriti Sanon And Kangana Ranaut's National Awards Looks After Rakhi Ad Row",
+    "Ram Kapoor says Shreya Kalra ‘needs to grow up’ as he addresses Lock Upp kiss row: ‘Not a single woman ever complained’ | Bollywood"
   ],
   "quiz": [
     {
-      "blanked": "Sold house, personal assets, now living on rental income: Zee founder ______ Chandra reveals his finances",
-      "answer": "Subhash",
+      "blanked": "SL vs IND, 2026: ______ Dinusha and an effective blueprint that negated India's spin threat",
+      "answer": "Sonal",
       "options": [
-        "Subhash",
-        "Pancreatic",
-        "SCST",
-        "Know"
-      ]
-    },
-    {
-      "blanked": "PHOTOS: ______ appears orange due to partial lunar eclipse",
-      "answer": "Moon",
-      "options": [
-        "Akhilesh",
-        "Telomere",
-        "Moon",
-        "Sanon"
-      ]
-    },
-    {
-      "blanked": "GTA VI Has Over 600,000 Animations Compared To GTA V's 55,000 & Red Dead Redemption 2's ______",
-      "answer": "300000",
-      "options": [
+        "Heavy",
         "Sonal",
-        "Akhilesh",
-        "Former",
-        "300000"
+        "Doklam",
+        "World"
       ]
     },
     {
-      "blanked": "SL vs IND, ______ Sonal Dinusha and an effective blueprint that negated India's spin threat",
-      "answer": "2026",
+      "blanked": "Imaging Reveals Widespread Silent Atherosclerosis Burden: ______ 2026",
+      "answer": "ESC",
       "options": [
-        "Silent",
-        "2026",
-        "Argentina",
-        "Internet"
+        "Kangana",
+        "ESC",
+        "Compared",
+        "182"
       ]
     },
     {
@@ -75,79 +55,99 @@
       "answer": "Womans",
       "options": [
         "Womans",
-        "Awards",
-        "Yiannopoulos",
-        "Cancer"
-      ]
-    },
-    {
-      "blanked": "India's javelin champion Neeraj ______ ends season early after ligament tear",
-      "answer": "Chopra",
-      "options": [
-        "Kangana",
-        "Key",
-        "Day",
-        "Chopra"
-      ]
-    },
-    {
-      "blanked": "Rahul Gandhi asks PM ______ to order FIR under SC/ST Act over ‘purification’ after Kharge’s rally | India News",
-      "answer": "Modi",
-      "options": [
-        "Upp",
-        "Modi",
-        "Roman",
-        "Value"
-      ]
-    },
-    {
-      "blanked": "Xi's purge hits PLA ______ who ordered Galwan ops to 'teach India a lesson'",
-      "answer": "General",
-      "options": [
-        "320",
-        "Display",
-        "General",
+        "Report",
+        "Sonal",
         "Indias"
       ]
     },
     {
-      "blanked": "HDFC Bank ______ Jagdishan to step down, decides not to seek reappointment",
-      "answer": "CEO",
+      "blanked": "Before The ______ Flood, A Glacial Fall: Tracing The Trigger, And A 100-km Killer Run",
+      "answer": "Nepal",
       "options": [
-        "GPU",
-        "Shows",
-        "Galwan",
-        "CEO"
+        "Nepal",
+        "Video",
+        "Kangana",
+        "Link"
       ]
     },
     {
-      "blanked": "Nancy Grace Roman Telescope live updates: Roman and Falcon ______ delivered to launch pad",
-      "answer": "Heavy",
+      "blanked": "Viral ______ Internet Compares Kriti Sanon And Kangana Ranaut's National Awards Looks After Rakhi Ad Row",
+      "answer": "Video",
       "options": [
-        "Shows",
-        "Singapore",
-        "Heavy",
-        "Airlines"
+        "Value",
+        "Video",
+        "Falcon",
+        "Kalra"
       ]
     },
     {
-      "blanked": "Flash floods in Nepal: No contact still with ______ Indians; 400 stranded",
-      "answer": "320",
+      "blanked": "Suryakumar on being dropped: ______ everything is going well, why the change?'",
+      "answer": "When",
       "options": [
-        "320",
-        "Shreya",
-        "Persistent",
-        "Atherosclerosis"
+        "When",
+        "55000",
+        "Delhi",
+        "675"
       ]
     },
     {
-      "blanked": "PM Modi lands in Uzbekistan on two-nation visit, ______ Shavkat Mirziyoyev receives him | India News",
-      "answer": "President",
+      "blanked": "Aditya-L1 catches Sun's early warning signs before ______ flares",
+      "answer": "Solar",
       "options": [
+        "Hindu",
+        "Solar",
+        "2026",
+        "Shavkat"
+      ]
+    },
+    {
+      "blanked": "Nancy ______ Roman Telescope live updates: Roman and Falcon Heavy delivered to launch pad",
+      "answer": "Grace",
+      "options": [
+        "Grace",
+        "Sonal",
+        "2026",
+        "PLA"
+      ]
+    },
+    {
+      "blanked": "PM Modi lands in ______ on two-nation visit, President Shavkat Mirziyoyev receives him | India News",
+      "answer": "Uzbekistan",
+      "options": [
+        "Venezuelan",
         "Redemption",
-        "Lock",
-        "Epigenetic",
-        "President"
+        "Uzbekistan",
+        "Value"
+      ]
+    },
+    {
+      "blanked": "Ram Kapoor says Shreya Kalra ‘needs to grow up’ as he addresses Lock Upp kiss row: ______ a single woman ever complained’ | Bollywood",
+      "answer": "Not",
+      "options": [
+        "Airlines",
+        "Roach",
+        "News",
+        "Not"
+      ]
+    },
+    {
+      "blanked": "Manufacture in ______ build for world: FM Sitharaman",
+      "answer": "India",
+      "options": [
+        "IMD",
+        "Suns",
+        "RSS",
+        "India"
+      ]
+    },
+    {
+      "blanked": "Leukocyte Telomere Length Shows Limited ______ in Pancreatic Cancer",
+      "answer": "Value",
+      "options": [
+        "Mastermind",
+        "RSS",
+        "Value",
+        "Atherosclerosis"
       ]
     }
   ]
