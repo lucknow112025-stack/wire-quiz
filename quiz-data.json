@@ -1,26 +1,26 @@
 {
-  "generatedAt": "2026-08-29T22:33:25.963Z",
+  "generatedAt": "2026-08-29T22:48:26.543Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "Nepal and China resume flood rescue as death toll surpasses 600",
+    "Nepal flash floods LIVE: Rescuers claw through mud as death toll rises to 675",
     "PM Modi lands in Uzbekistan on two-nation visit, President Shavkat Mirziyoyev receives him | India News",
     "Israeli settlers surround Palestinian home in occupied West Bank’s Qusra",
     "Mohan Bhagwat Poster Goes Up On Times Square Billboard Ahead Of RSS Chief’s MSG Address",
     "China removes PLA general who oversaw Doklam and Galwan standoffs with India from key post",
-    "Before The Nepal Flood, A Glacial Fall: Tracing The Trigger, And A 100-km Killer Surge",
-    "Rahul Gandhi seeks FIR over ‘purification’ ritual in Haldwani after Kharge’s address, calls it ‘untouchability’",
+    "Rahul Gandhi asks PM Modi to order FIR under SC/ST Act over ‘purification’ after Kharge’s rally | India News",
     "Flash floods in Nepal: No contact still with 320 Indians; 400 stranded",
+    "Before The Nepal Flood, A Glacial Fall: Tracing The Trigger, And A 100-km Killer Surge",
+    "Kolkata Police file FIR against Mamata Banerjee for violating Calcutta High Court order",
     "Trinamool Congress Moves Calcutta High Court Against Alleged Removal Of Billboard From Party Office",
-    "Manufacture in India, build for world: FM Sitharaman",
     "Norway's King Haakon honours 'dear father' Harald in first speech as sovereign",
-    "Iran’s leaders acknowledge economic toll of war, pledge diplomacy, defence",
-    "Canada To Impose Up To 50% Tariffs On 700 US Goods As Trade War Escalates",
     "Who is Milo Yiannopoulos, far-right British commentator, detained by ICE? Former Trump supporter faces de",
+    "Russian air attack on Ukraine's Kyiv kills at least 37, injures 42 | World News",
+    "Iran’s leaders acknowledge economic toll of war, pledge diplomacy, defence",
     "HDFC Bank CEO Jagdishan to step down, decides not to seek reappointment",
     "Sold house, personal assets, now living on rental income: Zee founder Subhash Chandra reveals his finances",
-    "Gold drops 3% as Fed's Warsh comments lift rate hike bets",
     "Nvidia’s AI advantage is moving beyond the GPU",
+    "Gold drops 3% as Fed's Warsh comments lift rate hike bets",
     "Nvidia's DLSS 5 leaked early, and modders have already broken it out of its Blackwell cage",
     "First look at Grand Theft Auto 6 gameplay released on Netflix ahead of November launch",
     "Here's when the iPhone 18 Pro and iPhone 18 Pro Max are rumored to go on pre-order - GSMArena.com news",
@@ -31,123 +31,123 @@
   ],
   "quiz": [
     {
-      "blanked": "King100: Teaser of Nagarjuna starrer unveiled on his birthday; film to clash with ______ Rukh Khan starrer King",
-      "answer": "Shah",
+      "blanked": "Imaging Reveals ______ Silent Atherosclerosis Burden: ESC 2026",
+      "answer": "Widespread",
       "options": [
-        "Blackwell",
-        "RSS",
-        "Shah",
-        "Phone"
+        "Subhash",
+        "Cowell",
+        "MSG",
+        "Widespread"
       ]
     },
     {
-      "blanked": "Before The Nepal Flood, A Glacial ______ Tracing The Trigger, And A 100-km Killer Surge",
-      "answer": "Fall",
-      "options": [
-        "Cancer",
-        "Harald",
-        "Fall",
-        "600"
-      ]
-    },
-    {
-      "blanked": "Nvidia's ______ 5 leaked early, and modders have already broken it out of its Blackwell cage",
-      "answer": "DLSS",
-      "options": [
-        "Sandro",
-        "DLSS",
-        "Got",
-        "Heavy"
-      ]
-    },
-    {
-      "blanked": "Nashville airport to be renamed after Dolly Parton, ______ governor announces days after singer's demise",
-      "answer": "Tennessees",
-      "options": [
-        "Tennessees",
-        "Burden",
-        "Kenan",
-        "Sitharaman"
-      ]
-    },
-    {
-      "blanked": "'SNL’ star Kenan Thompson to join ______ Got Talent’ after Simon Cowell takes a break for back surger",
-      "answer": "Americas",
-      "options": [
-        "Nothing",
-        "Grand",
-        "50%",
-        "Americas"
-      ]
-    },
-    {
-      "blanked": "HDFC Bank CEO ______ to step down, decides not to seek reappointment",
-      "answer": "Jagdishan",
-      "options": [
-        "Spurs",
-        "Jagdishan",
-        "Americas",
-        "Length"
-      ]
-    },
-    {
-      "blanked": "Trinamool Congress Moves Calcutta High Court Against Alleged Removal Of ______ From Party Office",
-      "answer": "Billboard",
+      "blanked": "First look at Grand Theft Auto 6 gameplay released on ______ ahead of November launch",
+      "answer": "Netflix",
       "options": [
         "Netflix",
-        "Yiannopoulos",
         "Billboard",
-        "Flood"
+        "Roman",
+        "Subhash"
+      ]
+    },
+    {
+      "blanked": "Placental Epigenetic ______ Link to Persistent Food Allergy",
+      "answer": "Changes",
+      "options": [
+        "Changes",
+        "Address",
+        "King",
+        "Office"
+      ]
+    },
+    {
+      "blanked": "Israeli settlers surround Palestinian home in occupied ______ Bank’s Qusra",
+      "answer": "West",
+      "options": [
+        "West",
+        "Telomere",
+        "Billboard",
+        "Telescope"
+      ]
+    },
+    {
+      "blanked": "China removes PLA general who oversaw Doklam and Galwan standoffs with ______ from key post",
+      "answer": "India",
+      "options": [
+        "Alleged",
+        "Cancer",
+        "India",
+        "Fall"
       ]
     },
     {
       "blanked": "Nvidia’s AI advantage is moving beyond the ______",
       "answer": "GPU",
       "options": [
+        "Phone",
         "GPU",
-        "Telescope",
-        "Party",
-        "Goods"
+        "182",
+        "Pancreatic"
       ]
     },
     {
-      "blanked": "Who is Milo Yiannopoulos, far-right British commentator, detained by ICE? Former ______ supporter faces de",
-      "answer": "Trump",
+      "blanked": "Kolkata Police file FIR against ______ Banerjee for violating Calcutta High Court order",
+      "answer": "Mamata",
       "options": [
-        "Persistent",
-        "Office",
-        "Trump",
-        "Warsh"
+        "Argentina",
+        "Glacial",
+        "Mamata",
+        "Jagdishan"
       ]
     },
     {
-      "blanked": "Rahul Gandhi seeks ______ over ‘purification’ ritual in Haldwani after Kharge’s address, calls it ‘untouchability’",
-      "answer": "FIR",
+      "blanked": "Russian air attack on Ukraine's Kyiv kills at least 37, injures 42 | World ______",
+      "answer": "News",
       "options": [
-        "Hockey",
-        "Kiara",
-        "FIR",
-        "China"
-      ]
-    },
-    {
-      "blanked": "Nancy Grace Roman Telescope live updates: Roman and Falcon ______ delivered to launch pad",
-      "answer": "Heavy",
-      "options": [
-        "Heavy",
+        "News",
         "Spurs",
-        "Falcon",
-        "News"
+        "Netflix",
+        "Subhash"
       ]
     },
     {
-      "blanked": "Norway's King Haakon honours 'dear father' ______ in first speech as sovereign",
-      "answer": "Harald",
+      "blanked": "'SNL’ star Kenan Thompson to join ‘America’s Got Talent’ after Simon ______ takes a break for back surger",
+      "answer": "Cowell",
       "options": [
-        "Address",
+        "Trigger",
+        "Cowell",
+        "Rescuers",
+        "LIVE"
+      ]
+    },
+    {
+      "blanked": "Here's when the iPhone 18 ______ and iPhone 18 Pro Max are rumored to go on pre-order - GSMArena.com news",
+      "answer": "Pro",
+      "options": [
+        "Rescuers",
+        "CEO",
+        "Teaser",
+        "Pro"
+      ]
+    },
+    {
+      "blanked": "10 jaw-dropping ______ space images that showcase the incredible beauty of the cosmos",
+      "answer": "ESA",
+      "options": [
+        "Atherosclerosis",
+        "Jagdishan",
+        "2026",
+        "ESA"
+      ]
+    },
+    {
+      "blanked": "Flash floods in Nepal: No contact still with ______ Indians; 400 stranded",
+      "answer": "320",
+      "options": [
+        "Trigger",
         "Modi",
-        "Hockey",
-        "Harald"
+        "Simon",
+        "320"
       ]
     }
   ]
