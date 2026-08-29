@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T23:03:25.456Z",
+  "generatedAt": "2026-08-29T23:18:21.645Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
@@ -12,142 +12,142 @@
     "Rahul Gandhi seeks FIR over ‘purification’ ritual in Haldwani after Kharge’s address, calls it ‘untouchability’",
     "Flash floods in Nepal: No contact still with 320 Indians; 400 stranded",
     "Trinamool Congress Moves Calcutta High Court Against Alleged Removal Of Billboard From Party Office",
-    "No word from Thane couple on first trip to Nepal, kin await clarity",
-    "Norway's King Haakon honours 'dear father' Harald in first speech as sovereign",
-    "Has Iceland warmed to the European Union?",
+    "Manufacture in India, build for world: FM Sitharaman",
+    "'Soldiers attempted mutiny': Niger's defence minister after gunfire, blasts heard in capital Niamey",
     "Iran’s leaders acknowledge economic toll of war, pledge diplomacy, defence",
+    "Norway's King Haakon honours 'dear father' Harald in first speech as sovereign",
     "Canada To Impose Up To 50% Tariffs On 700 US Goods As Trade War Escalates",
     "HDFC Bank CEO Jagdishan to step down, decides not to seek reappointment",
-    "Union Bank, LIC Housing Fin, Canara Bank challenge NCLT nod to Subhash Chandra resolution plan",
-    "Delhi CNG price hike: Rs 3.89/kg rise fuels fare hike demand, auto strike threat and political clash",
-    "FSSAI to introduce red warning labels on chips, sugary drinks and packaged foods",
+    "Sold house, personal assets, now living on rental income: Zee founder Subhash Chandra reveals his finances",
+    "Gold drops 3% as Fed's Warsh comments lift rate hike bets",
+    "CNG Prices Hiked By Rs 3.89 In Delhi-NCR: Check City-Wise Rates",
     "Nvidia's DLSS 5 leaked early, and modders have already broken it out of its Blackwell cage",
     "Here's when the iPhone 18 Pro and iPhone 18 Pro Max are rumored to go on pre-order - GSMArena.com news",
-    "GTA VI: 6 Cool Features You May Have Missed In Rockstar Games’ Highly-Anticipated Release",
+    "GTA VI Has Over 600,000 Animations Compared To GTA V's 55,000 & Red Dead Redemption 2's 300,000",
     "IPhone 17 Pro Max Price Slashed Worldwide Before IPhone 18 Launch",
-    "'Toxic' box office collection Day 4 [LIVE]: Yash and Kiara Advani film races past Rs 182 crore domestic net milestone",
+    "'Toxic' box office collection Day 4: Yash, Kiara Advani film adds Rs 24.50 crore as worldwide gross races",
     "King100: Teaser of Nagarjuna starrer unveiled on his birthday; film to clash with Shah Rukh Khan starrer King",
     "'SNL’ star Kenan Thompson to join ‘America’s Got Talent’ after Simon Cowell takes a break for back surger"
   ],
   "quiz": [
     {
-      "blanked": "PHOTOS: ______ appears orange due to partial lunar eclipse",
-      "answer": "Moon",
+      "blanked": "Nvidia's DLSS 5 leaked early, and modders have already broken it out of its ______ cage",
+      "answer": "Blackwell",
       "options": [
+        "2026",
+        "Glacial",
+        "Blackwell",
+        "Roman"
+      ]
+    },
+    {
+      "blanked": "Amid rising swine flu cases, ______ govt asks hospitals to reserve isolation beds",
+      "answer": "Delhi",
+      "options": [
+        "Bhagwat",
+        "Banks",
+        "Killer",
+        "Delhi"
+      ]
+    },
+    {
+      "blanked": "IPhone 17 Pro Max ______ Slashed Worldwide Before IPhone 18 Launch",
+      "answer": "Price",
+      "options": [
+        "Redemption",
+        "Price",
+        "Banks",
+        "Goods"
+      ]
+    },
+    {
+      "blanked": "'Toxic' box office collection ______ 4: Yash, Kiara Advani film adds Rs 24.50 crore as worldwide gross races",
+      "answer": "Day",
+      "options": [
+        "Day",
+        "Worldwide",
+        "China",
+        "Ahead"
+      ]
+    },
+    {
+      "blanked": "Nancy Grace Roman Telescope live updates: ______ and Falcon Heavy delivered to launch pad",
+      "answer": "Roman",
+      "options": [
+        "Limited",
+        "News",
+        "Suns",
+        "Roman"
+      ]
+    },
+    {
+      "blanked": "Flash floods in Nepal: No contact still with ______ Indians; 400 stranded",
+      "answer": "320",
+      "options": [
+        "Chiefs",
+        "320",
+        "Warsh",
+        "400"
+      ]
+    },
+    {
+      "blanked": "10 jaw-dropping ______ space images that showcase the incredible beauty of the cosmos",
+      "answer": "ESA",
+      "options": [
+        "2026",
+        "World",
         "ESA",
-        "Harald",
-        "Persistent",
-        "Moon"
+        "Tracing"
       ]
     },
     {
-      "blanked": "Nepal and China resume flood rescue as death toll surpasses ______",
-      "answer": "600",
+      "blanked": "Before The Nepal Flood, A ______ Fall: Tracing The Trigger, And A 100-km Killer Surge",
+      "answer": "Glacial",
       "options": [
-        "Kharges",
-        "600",
-        "Shah",
-        "LIVE"
-      ]
-    },
-    {
-      "blanked": "Newcastle get last laugh vs rotten Spurs as ______ Tonali flops vs former club - 5 talking points",
-      "answer": "Sandro",
-      "options": [
-        "Sandro",
-        "Gandhi",
-        "Modi",
-        "Iceland"
-      ]
-    },
-    {
-      "blanked": "PM ______ lands in Uzbekistan on two-nation visit, President Shavkat Mirziyoyev receives him | India News",
-      "answer": "Modi",
-      "options": [
-        "Haakon",
-        "Modi",
-        "Housing",
-        "Moves"
-      ]
-    },
-    {
-      "blanked": "No word from Thane couple on first trip to ______ kin await clarity",
-      "answer": "Nepal",
-      "options": [
-        "Nepal",
-        "Ahead",
-        "Kiara",
-        "2026"
-      ]
-    },
-    {
-      "blanked": "Before The Nepal Flood, A Glacial Fall: ______ The Trigger, And A 100-km Killer Surge",
-      "answer": "Tracing",
-      "options": [
+        "Glacial",
         "Tracing",
-        "Escalates",
-        "Galwan",
-        "Dolly"
+        "Uzbekistan",
+        "Billboard"
+      ]
+    },
+    {
+      "blanked": "India's javelin champion ______ Chopra ends season early after ligament tear",
+      "answer": "Neeraj",
+      "options": [
+        "Neeraj",
+        "Roman",
+        "China",
+        "Square"
+      ]
+    },
+    {
+      "blanked": "Rahul Gandhi seeks FIR over ‘purification’ ritual in ______ after Kharge’s address, calls it ‘untouchability’",
+      "answer": "Haldwani",
+      "options": [
+        "City-Wise",
+        "Goes",
+        "Haldwani",
+        "Yash"
       ]
     },
     {
       "blanked": "Suryakumar on being dropped: ______ everything is going well, why the change?'",
       "answer": "When",
       "options": [
-        "Pancreatic",
-        "You",
-        "When",
-        "182"
+        "Indians",
+        "Fall",
+        "Address",
+        "When"
       ]
     },
     {
-      "blanked": "Here's when the iPhone 18 ______ and iPhone 18 Pro Max are rumored to go on pre-order - GSMArena.com news",
-      "answer": "Pro",
-      "options": [
-        "Pro",
-        "Uzbekistan",
-        "Tonali",
-        "Roman"
-      ]
-    },
-    {
-      "blanked": "Trinamool Congress Moves Calcutta High Court Against Alleged Removal Of Billboard From ______ Office",
-      "answer": "Party",
-      "options": [
-        "Heavy",
-        "Party",
-        "Thane",
-        "May"
-      ]
-    },
-    {
-      "blanked": "'Toxic' box office collection Day 4 [LIVE]: Yash and ______ Advani film races past Rs 182 crore domestic net milestone",
-      "answer": "Kiara",
+      "blanked": "Here's when the iPhone 18 Pro and iPhone 18 Pro ______ are rumored to go on pre-order - GSMArena.com news",
+      "answer": "Max",
       "options": [
         "Kiara",
-        "Solar",
-        "Release",
-        "Ahead"
-      ]
-    },
-    {
-      "blanked": "Delhi ______ price hike: Rs 3.89/kg rise fuels fare hike demand, auto strike threat and political clash",
-      "answer": "CNG",
-      "options": [
-        "Alleged",
-        "CNG",
-        "Housing",
-        "Rukh"
-      ]
-    },
-    {
-      "blanked": "Mohan Bhagwat Poster Goes Up On Times Square Billboard Ahead Of RSS Chief’s MSG ______",
-      "answer": "Address",
-      "options": [
-        "Chopra",
-        "Congress",
-        "When",
-        "Address"
+        "Animations",
+        "Check",
+        "Max"
       ]
     }
   ]
