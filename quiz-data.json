@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-29T12:49:34.115Z",
+  "generatedAt": "2026-08-29T13:03:34.855Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
     "Nepal flash floods LIVE updates: Heavy rain forecast in flood-affected areas threaten to disrupt rescue ops.; death toll crosses 620",
     "FIR against Mamata Banerjee over violation of high court order on TMC students' wing rally in Kolkata | India News",
+    "Sharon Verma Hits Back At 'Kashmiri' Samay Raina After 'Bihari' Joke: 'I Left My State By Choice'",
     "3 Delhi BJP MPs Visit Sajjan Kumar's House. Then Party Chief's Big Action",
+    "Russian strike on Kyiv-area warehouse sparks detonation, killing 37",
     "PM Modi must order filing of FIR, we demand justice: Rahul Gandhi on Kharge’s rally venue ‘purification’ in Uttarakhand",
-    "42 years on, Sukumara Kurup mystery returns with Brunei ‘sighting’ — and a photo twist",
-    "Oneness or Hindu supremacy? RSS chief Bhagwat’s secretive New York hosts",
     "Looking to advance India’s vision for region free from terror, says PM Modi as he embarks on visit to Uzbekistan, Kyrgyzstan",
+    "BJP Turns Up Meme Heat On Congress, Deploys Satire In Social Media Battle",
     "Bar Council Not Earning Members' Respect Not A Good Sign For Legal Profession: Justice BV Nagarathna",
-    "Why the Nepal floods are a warning for the Himalayas, and India",
-    "Samay Raina addresses India’s Got Latent 2 criticism, responds to ‘filtered’ tag: ‘It’s just not the same anymore’ | Bollywood",
-    "Oil Deal To Bring $100 Billion Investment, Thousands Of Jobs To Venezuela: Rubio",
+    "Punjabi influencer dies almost two months after brutal assault by acquaintances",
     "Galwan, Doklam general axed by Xi: Zhao Zongqi removed from China's top advisory body",
-    "Russian air attack on Ukraine's Kyiv kills at least 27, injures 42 | World News",
     "CIA Failed To Connect Key Intel Naming 9/11 Mastermind Before Attacks: Report",
-    "Temasek backs Singapore Airlines' Air India investment amid growing scrutiny",
+    "A Bank Locker Floated Miles In Nepal's Floods, Then The Loot Began",
+    "Norway mourns King Harald as crowds gather at royal palace",
     "Subhash Chandra breaks silence on NCLT order, disputes ₹3,900 crore claim, says most group debt repaid",
+    "Temasek backs Singapore Airlines' Air India investment amid growing scrutiny",
     "Meta’s Sandhya Devanathan exits after decade, joins OpenAI as Southeast Asia, Australia VP",
-    "OpenAI says it's ending its deal with Cursor because Elon Musk's companies violate contracts",
+    "‘Flash Crash’ Hits Sensex Index During Unpopular Closing Auction",
     "Apple One and Apple TV subscription prices increase by up to 20 percent",
-    "iPhone 18 Pro, Foldable iPhone Ultra and More: Apple Products Expected Next Month",
     "QD-OLED goes to esports: Samsung starts mass production of 24.5\" ultra-fast displays",
+    "iPhone 18 Pro Max launch: Here are all the differences we currently know between the iPhone 18 Pro and...",
     "GTA VI Has Over 600,000 Animations Compared To GTA V's 55,000 & Red Dead Redemption 2's 300,000",
     "'Toxic' box office collection Day 4 [LIVE]: Yash and Kiara Advani film races towards Rs 175 crore domestic net milestone",
     "King100: Teaser of Nagarjuna starrer unveiled on his birthday; film to clash with Shah Rukh Khan starrer King",
-    "Orry warns Samay Raina on 'India's Got Latent 2':'Aukaat mein raho, tum andar jaayega toh tum bahar nahi"
+    "Dil Chahta Hai Turns 25: Aamir Khan, Saif Ali Khan And Farhan Akhtar Reunite In Mumbai. MIA - Akshaye Khanna"
   ],
   "quiz": [
     {
-      "blanked": "‘Diabetes and high BP are the same disease’? ______ explains the real link",
-      "answer": "Endocrinologist",
+      "blanked": "Russian strike on ______ warehouse sparks detonation, killing 37",
+      "answer": "Kyiv-area",
       "options": [
-        "Gained",
-        "Airlines",
-        "Not",
-        "Endocrinologist"
+        "Kyiv-area",
+        "Space",
+        "Unpopular",
+        "Nagarjuna"
       ]
     },
     {
-      "blanked": "Looking to advance India’s vision for region free from terror, says PM Modi as he embarks on visit to ______ Kyrgyzstan",
-      "answer": "Uzbekistan",
+      "blanked": "QD-OLED goes to esports: Samsung starts mass production of ______ ultra-fast displays",
+      "answer": "24.5",
       "options": [
-        "Singapore",
-        "Uzbekistan",
-        "Cursor",
-        "2026"
+        "Miles",
+        "Back",
+        "Asia",
+        "24.5"
       ]
     },
     {
-      "blanked": "Nepal flash floods LIVE updates: ______ rain forecast in flood-affected areas threaten to disrupt rescue ops.; death toll crosses 620",
-      "answer": "Heavy",
+      "blanked": "Orry warns Samay ______ on 'India's Got Latent 2':'Aukaat mein raho, tum andar jaayega toh tum bahar nahi",
+      "answer": "Raina",
       "options": [
-        "York",
-        "Intel",
-        "Heavy",
-        "Elon"
-      ]
-    },
-    {
-      "blanked": "Russian air attack on ______ Kyiv kills at least 27, injures 42 | World News",
-      "answer": "Ukraines",
-      "options": [
-        "Ukraines",
-        "Nagarjuna",
-        "Latent",
-        "Himalayas"
-      ]
-    },
-    {
-      "blanked": "Galwan, Doklam general axed by Xi: Zhao Zongqi removed from ______ top advisory body",
-      "answer": "Chinas",
-      "options": [
-        "Products",
-        "Chinas",
-        "Air",
-        "Red"
-      ]
-    },
-    {
-      "blanked": "'Toxic' box office collection Day 4 ______ Yash and Kiara Advani film races towards Rs 175 crore domestic net milestone",
-      "answer": "LIVE",
-      "options": [
-        "Open",
-        "LIVE",
-        "Bollywood",
-        "Pro"
+        "Diamond",
+        "Respect",
+        "Raina",
+        "Battle"
       ]
     },
     {
       "blanked": "King100: Teaser of Nagarjuna starrer unveiled on his birthday; film to clash with ______ Rukh Khan starrer King",
       "answer": "Shah",
       "options": [
-        "Latent",
+        "Locker",
         "Shah",
-        "Epigenetic",
-        "Visit"
+        "Link",
+        "Joke"
       ]
     },
     {
-      "blanked": "Meta’s Sandhya Devanathan exits after decade, joins OpenAI as ______ Asia, Australia VP",
-      "answer": "Southeast",
+      "blanked": "A Bank ______ Floated Miles In Nepal's Floods, Then The Loot Began",
+      "answer": "Locker",
       "options": [
-        "Guidelines",
-        "Profession",
-        "Kolkata",
-        "Southeast"
+        "Locker",
+        "Kyiv-area",
+        "King",
+        "Akhtar"
       ]
     },
     {
-      "blanked": "Apple One and ______ TV subscription prices increase by up to 20 percent",
-      "answer": "Apple",
+      "blanked": "Looking to advance India’s vision for region free from terror, says PM Modi as he embarks on visit to ______ Kyrgyzstan",
+      "answer": "Uzbekistan",
       "options": [
-        "Apple",
-        "Pregnancy",
-        "Compared",
-        "Kyiv"
+        "Uzbekistan",
+        "Raina",
+        "Samay",
+        "Attacks"
       ]
     },
     {
-      "blanked": "Temasek backs Singapore ______ Air India investment amid growing scrutiny",
-      "answer": "Airlines",
+      "blanked": "PHOTOS: ______ appears orange due to partial lunar eclipse",
+      "answer": "Moon",
       "options": [
-        "Airlines",
-        "Good",
-        "Next",
-        "Kurup"
+        "Attacks",
+        "Moon",
+        "Kyrgyzstan",
+        "Latent"
       ]
     },
     {
-      "blanked": "NASA’s Nancy ______ Roman Space Telescope Has a Hidden Technological Leap",
-      "answer": "Grace",
+      "blanked": "3 Delhi BJP MPs Visit Sajjan ______ House. Then Party Chief's Big Action",
+      "answer": "Kumars",
       "options": [
+        "Indias",
+        "Big",
+        "State",
+        "Kumars"
+      ]
+    },
+    {
+      "blanked": "Aditya-L1 catches ______ early warning signs before Solar flares",
+      "answer": "Suns",
+      "options": [
+        "Chopras",
+        "Action",
+        "State",
+        "Suns"
+      ]
+    },
+    {
+      "blanked": "PM Modi must order filing of FIR, we demand justice: Rahul ______ on Kharge’s rally venue ‘purification’ in Uttarakhand",
+      "answer": "Gandhi",
+      "options": [
+        "Kharges",
+        "Gandhi",
+        "Latent",
+        "Legal"
+      ]
+    },
+    {
+      "blanked": "Dil Chahta Hai Turns 25: Aamir Khan, Saif Ali ______ And Farhan Akhtar Reunite In Mumbai. MIA - Akshaye Khanna",
+      "answer": "Khan",
+      "options": [
+        "Sensex",
         "Suns",
-        "Grace",
-        "One",
-        "Link"
+        "Rahul",
+        "Khan"
       ]
     },
     {
-      "blanked": "Barcelona target Julian ______ speaks to Mikel Arteta but refuses to open door to Arsenal transfer",
-      "answer": "Alvarez",
+      "blanked": "Sharon Verma Hits Back At 'Kashmiri' Samay ______ After 'Bihari' Joke: 'I Left My State By Choice'",
+      "answer": "Raina",
       "options": [
-        "Alvarez",
-        "Solar",
-        "Kurup",
-        "Profession"
+        "Good",
+        "Raina",
+        "Ali",
+        "News"
       ]
     }
   ]
