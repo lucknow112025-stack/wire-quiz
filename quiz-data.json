@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T19:03:28.790Z",
+  "generatedAt": "2026-08-29T19:18:20.218Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
@@ -8,15 +8,15 @@
     "Xi's purge hits PLA General who ordered Galwan ops to 'teach India a lesson'",
     "Rahul Gandhi asks PM Modi to order FIR under SC/ST Act over ‘purification’ after Kharge’s rally | India News",
     "Oneness or Hindu supremacy? RSS chief Bhagwat’s secretive New York hosts",
-    "Before The Nepal Flood, A Glacial Fall: Tracing The Trigger, And A 100-km Killer Surge",
+    "‘Save me, doctors want to kill me’: Woman’s video before death during childbirth surfaces",
+    "India has highest glacial flood death toll in Hindu Kush Himalaya, UN-led study finds",
     "‘UP no longer Bimaru state’: CM Yogi says mafia crushed, encephalitis eradicated; Akhilesh flags gaps",
-    "‘They will kill me’: Woman, newborn die after delivery in MP's Rewa; video shows she was screaming for help | India News",
+    "28-Year-Old Man Electrocuted After Falling Into Collapsed Delhi Road",
     "Flash floods in Nepal: No contact still with 320 Indians; 400 stranded",
-    "Weather tomorrow: IMD warns of very heavy rain in many states; extremely heavy rain likely in Odisha",
     "Russian strike on Kyiv-area ammunition depot triggers blast, killing 37",
-    "CIA Failed To Connect Key Intel Naming 9/11 Mastermind Before Attacks: Report",
     "Norway mourns King Harald as crowds gather at royal palace",
-    "Risk of lake burst near China-Nepal disaster site wanes",
+    "CIA Failed To Connect Key Intel Naming 9/11 Mastermind Before Attacks: Report",
+    "Who is Milo Yiannopoulos, far-right British commentator, detained by ICE? Former Trump supporter faces de",
     "HDFC Bank CEO Jagdishan to step down, decides not to seek reappointment",
     "Sold house, personal assets, now living on rental income: Zee founder Subhash Chandra reveals his finances",
     "Nvidia’s AI advantage is moving beyond the GPU",
@@ -26,128 +26,128 @@
     "GTA VI Has Over 600,000 Animations Compared To GTA V's 55,000 & Red Dead Redemption 2's 300,000",
     "Tech wrap week: From Samsung Galaxy S26 FE to AI-powered laptops, here’s what’s new",
     "'Toxic' box office collection Day 4 [LIVE]: Yash and Kiara Advani film races past Rs 182 crore domestic net milestone",
-    "Viral Video: Internet Compares Kriti Sanon And Kangana Ranaut's National Awards Looks After Rakhi Ad Row",
-    "Kuku Kohli’s prayer meet: Aruna Irani breaks down, Vicky Kaushal, Katrina Kaif attend"
+    "'DC' OTT release date: When and where to watch the Lokesh Kanagaraj and Wamiqa Gabbi starrer action drama",
+    "King100: Teaser of Nagarjuna starrer unveiled on his birthday; film to clash with Shah Rukh Khan starrer King"
   ],
   "quiz": [
     {
-      "blanked": "Tech wrap week: From Samsung ______ S26 FE to AI-powered laptops, here’s what’s new",
-      "answer": "Galaxy",
+      "blanked": "King100: Teaser of Nagarjuna starrer unveiled on his birthday; film to clash with Shah ______ Khan starrer King",
+      "answer": "Rukh",
       "options": [
-        "Galaxy",
-        "Rewa",
-        "Video",
-        "Glacial"
+        "Day",
+        "Rukh",
+        "Bank",
+        "Man"
       ]
     },
     {
-      "blanked": "‘UP no longer ______ state’: CM Yogi says mafia crushed, encephalitis eradicated; Akhilesh flags gaps",
-      "answer": "Bimaru",
+      "blanked": "Captain India: ______ Kumar film starring Kartik Aaryan to go on floors in London on September 1",
+      "answer": "Bhushan",
       "options": [
-        "Widespread",
-        "York",
-        "OTT",
-        "Bimaru"
+        "2026",
+        "Display",
+        "Know",
+        "Bhushan"
       ]
     },
     {
-      "blanked": "Before The ______ Flood, A Glacial Fall: Tracing The Trigger, And A 100-km Killer Surge",
-      "answer": "Nepal",
+      "blanked": "CIA ______ To Connect Key Intel Naming 9/11 Mastermind Before Attacks: Report",
+      "answer": "Failed",
       "options": [
-        "Awards",
-        "Nepal",
-        "FIR",
-        "Rescuers"
+        "Mirziyoyev",
+        "Failed",
+        "Look",
+        "Report"
       ]
     },
     {
-      "blanked": "HDFC Bank ______ Jagdishan to step down, decides not to seek reappointment",
-      "answer": "CEO",
+      "blanked": "Nancy Grace ______ Telescope live updates: Roman and Falcon Heavy delivered to launch pad",
+      "answer": "Roman",
       "options": [
-        "Looks",
-        "Advani",
-        "CEO",
-        "Sonal"
+        "600000",
+        "Roman",
+        "Harry",
+        "When"
       ]
     },
     {
-      "blanked": "Placental Epigenetic ______ Link to Persistent Food Allergy",
-      "answer": "Changes",
+      "blanked": "Geoffrey Boycott disappointed: Harry Brook can match Sachin Tendulkar and Brian Lara but… | ______",
+      "answer": "Cricket",
       "options": [
-        "SCST",
-        "Telescope",
-        "Chandra",
-        "Changes"
+        "Dinusha",
+        "When",
+        "Cricket",
+        "LIVE"
+      ]
+    },
+    {
+      "blanked": "Aditya-L1 catches Sun's early warning signs before ______ flares",
+      "answer": "Solar",
+      "options": [
+        "Look",
+        "Solar",
+        "Wamiqa",
+        "Roman"
       ]
     },
     {
       "blanked": "Norway mourns King ______ as crowds gather at royal palace",
       "answer": "Harald",
       "options": [
-        "Atherosclerosis",
-        "DLSS",
-        "Harald",
-        "Makes"
+        "Boycott",
+        "675",
+        "Leak",
+        "Harald"
       ]
     },
     {
-      "blanked": "Flash floods in ______ No contact still with 320 Indians; 400 stranded",
-      "answer": "Nepal",
+      "blanked": "PHOTOS: ______ appears orange due to partial lunar eclipse",
+      "answer": "Moon",
+      "options": [
+        "Moon",
+        "Intel",
+        "Naming",
+        "Heavy"
+      ]
+    },
+    {
+      "blanked": "Russian strike on ______ ammunition depot triggers blast, killing 37",
+      "answer": "Kyiv-area",
+      "options": [
+        "AI-powered",
+        "Trump",
+        "Kyiv-area",
+        "PLA"
+      ]
+    },
+    {
+      "blanked": "HDFC ______ CEO Jagdishan to step down, decides not to seek reappointment",
+      "answer": "Bank",
+      "options": [
+        "Bank",
+        "Kharges",
+        "Intel",
+        "Former"
+      ]
+    },
+    {
+      "blanked": "'DC' ______ release date: When and where to watch the Lokesh Kanagaraj and Wamiqa Gabbi starrer action drama",
+      "answer": "OTT",
       "options": [
         "India",
-        "Leak",
-        "Ranauts",
-        "Nepal"
-      ]
-    },
-    {
-      "blanked": "Risk of lake burst near ______ disaster site wanes",
-      "answer": "China-Nepal",
-      "options": [
-        "Rewa",
-        "Modi",
-        "China-Nepal",
-        "Woman"
-      ]
-    },
-    {
-      "blanked": "‘They will kill me’: Woman, newborn die after delivery in MP's Rewa; video shows she was screaming for help | India ______",
-      "answer": "News",
-      "options": [
-        "News",
-        "Changes",
         "Naming",
-        "Advani"
+        "OTT",
+        "600000"
       ]
     },
     {
-      "blanked": "Amid rising swine flu cases, ______ govt asks hospitals to reserve isolation beds",
-      "answer": "Delhi",
+      "blanked": "Sold house, personal assets, now living on rental income: ______ founder Subhash Chandra reveals his finances",
+      "answer": "Zee",
       "options": [
-        "GTA",
-        "Games",
-        "Delhi",
-        "Value"
-      ]
-    },
-    {
-      "blanked": "Oneness or Hindu supremacy? RSS chief Bhagwat’s secretive New ______ hosts",
-      "answer": "York",
-      "options": [
-        "Hindu",
-        "Max",
-        "Leak",
-        "York"
-      ]
-    },
-    {
-      "blanked": "Imaging Reveals Widespread Silent Atherosclerosis Burden: ESC ______",
-      "answer": "2026",
-      "options": [
-        "Tendulkar",
-        "Cricket",
-        "2026",
-        "Know"
+        "Camera",
+        "Singapore",
+        "Zee",
+        "Kharges"
       ]
     }
   ]
