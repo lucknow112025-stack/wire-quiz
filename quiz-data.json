@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-29T13:03:34.855Z",
+  "generatedAt": "2026-08-29T13:18:27.380Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
     "Nepal flash floods LIVE updates: Heavy rain forecast in flood-affected areas threaten to disrupt rescue ops.; death toll crosses 620",
     "FIR against Mamata Banerjee over violation of high court order on TMC students' wing rally in Kolkata | India News",
-    "Sharon Verma Hits Back At 'Kashmiri' Samay Raina After 'Bihari' Joke: 'I Left My State By Choice'",
-    "3 Delhi BJP MPs Visit Sajjan Kumar's House. Then Party Chief's Big Action",
+    "Rahul Gandhi asks PM Modi to order FIR under SC/ST Act over ‘purification’ after Kharge’s rally | India News",
     "Russian strike on Kyiv-area warehouse sparks detonation, killing 37",
-    "PM Modi must order filing of FIR, we demand justice: Rahul Gandhi on Kharge’s rally venue ‘purification’ in Uttarakhand",
+    "42 years on, Sukumara Kurup mystery returns with Brunei ‘sighting’ — and a photo twist",
+    "Oneness or Hindu supremacy? RSS chief Bhagwat’s secretive New York hosts",
     "Looking to advance India’s vision for region free from terror, says PM Modi as he embarks on visit to Uzbekistan, Kyrgyzstan",
+    "Samay Raina addresses India’s Got Latent 2 criticism, responds to ‘filtered’ tag: ‘It’s just not the same anymore’ | Bollywood",
     "BJP Turns Up Meme Heat On Congress, Deploys Satire In Social Media Battle",
-    "Bar Council Not Earning Members' Respect Not A Good Sign For Legal Profession: Justice BV Nagarathna",
     "Punjabi influencer dies almost two months after brutal assault by acquaintances",
+    "Oil Deal To Bring $100 Billion Investment, Thousands Of Jobs To Venezuela: Rubio",
     "Galwan, Doklam general axed by Xi: Zhao Zongqi removed from China's top advisory body",
     "CIA Failed To Connect Key Intel Naming 9/11 Mastermind Before Attacks: Report",
     "A Bank Locker Floated Miles In Nepal's Floods, Then The Loot Began",
-    "Norway mourns King Harald as crowds gather at royal palace",
     "Subhash Chandra breaks silence on NCLT order, disputes ₹3,900 crore claim, says most group debt repaid",
     "Temasek backs Singapore Airlines' Air India investment amid growing scrutiny",
-    "Meta’s Sandhya Devanathan exits after decade, joins OpenAI as Southeast Asia, Australia VP",
-    "‘Flash Crash’ Hits Sensex Index During Unpopular Closing Auction",
-    "Apple One and Apple TV subscription prices increase by up to 20 percent",
-    "QD-OLED goes to esports: Samsung starts mass production of 24.5\" ultra-fast displays",
+    "CAS faces MSCI rebalancing test on Monday, says this analyst",
+    "HDFC chairman appraised RBI governor on MD & CEO appointment last week: Sources",
     "iPhone 18 Pro Max launch: Here are all the differences we currently know between the iPhone 18 Pro and...",
-    "GTA VI Has Over 600,000 Animations Compared To GTA V's 55,000 & Red Dead Redemption 2's 300,000",
+    "QD-OLED goes to esports: Samsung starts mass production of 24.5\" ultra-fast displays",
+    "Apple One and Apple TV subscription prices increase by up to 20 percent",
+    "GTA 6 Extended Look: Hidden details and secrets you might have missed",
     "'Toxic' box office collection Day 4 [LIVE]: Yash and Kiara Advani film races towards Rs 175 crore domestic net milestone",
     "King100: Teaser of Nagarjuna starrer unveiled on his birthday; film to clash with Shah Rukh Khan starrer King",
-    "Dil Chahta Hai Turns 25: Aamir Khan, Saif Ali Khan And Farhan Akhtar Reunite In Mumbai. MIA - Akshaye Khanna"
+    "'DC' OTT release date: When and where to watch the Lokesh Kanagaraj and Wamiqa Gabbi starrer action drama"
   ],
   "quiz": [
     {
-      "blanked": "Russian strike on ______ warehouse sparks detonation, killing 37",
-      "answer": "Kyiv-area",
+      "blanked": "GTA 6 Extended ______ Hidden details and secrets you might have missed",
+      "answer": "Look",
       "options": [
-        "Kyiv-area",
-        "Space",
-        "Unpopular",
-        "Nagarjuna"
+        "Khan",
+        "Bank",
+        "Look",
+        "NCLT"
       ]
     },
     {
-      "blanked": "QD-OLED goes to esports: Samsung starts mass production of ______ ultra-fast displays",
-      "answer": "24.5",
+      "blanked": "Rahul Gandhi asks PM Modi to order ______ under SC/ST Act over ‘purification’ after Kharge’s rally | India News",
+      "answer": "FIR",
       "options": [
-        "Miles",
-        "Back",
-        "Asia",
-        "24.5"
+        "Open",
+        "Deploys",
+        "Chandra",
+        "FIR"
       ]
     },
     {
-      "blanked": "Orry warns Samay ______ on 'India's Got Latent 2':'Aukaat mein raho, tum andar jaayega toh tum bahar nahi",
-      "answer": "Raina",
+      "blanked": "Amid rising swine flu cases, ______ govt asks hospitals to reserve isolation beds",
+      "answer": "Delhi",
       "options": [
-        "Diamond",
-        "Respect",
-        "Raina",
-        "Battle"
+        "Arsenal",
+        "Technological",
+        "Delhi",
+        "Alvarez"
       ]
     },
     {
-      "blanked": "King100: Teaser of Nagarjuna starrer unveiled on his birthday; film to clash with ______ Rukh Khan starrer King",
-      "answer": "Shah",
+      "blanked": "FIR against ______ Banerjee over violation of high court order on TMC students' wing rally in Kolkata | India News",
+      "answer": "Mamata",
       "options": [
-        "Locker",
-        "Shah",
-        "Link",
-        "Joke"
-      ]
-    },
-    {
-      "blanked": "A Bank ______ Floated Miles In Nepal's Floods, Then The Loot Began",
-      "answer": "Locker",
-      "options": [
-        "Locker",
-        "Kyiv-area",
-        "King",
-        "Akhtar"
-      ]
-    },
-    {
-      "blanked": "Looking to advance India’s vision for region free from terror, says PM Modi as he embarks on visit to ______ Kyrgyzstan",
-      "answer": "Uzbekistan",
-      "options": [
-        "Uzbekistan",
-        "Raina",
-        "Samay",
-        "Attacks"
+        "Mamata",
+        "Endocrinologist",
+        "Arsenal",
+        "Hidden"
       ]
     },
     {
       "blanked": "PHOTOS: ______ appears orange due to partial lunar eclipse",
       "answer": "Moon",
       "options": [
-        "Attacks",
-        "Moon",
-        "Kyrgyzstan",
-        "Latent"
+        "Raina",
+        "Rubio",
+        "Kolkata",
+        "Moon"
       ]
     },
     {
-      "blanked": "3 Delhi BJP MPs Visit Sajjan ______ House. Then Party Chief's Big Action",
-      "answer": "Kumars",
+      "blanked": "Apple One and ______ TV subscription prices increase by up to 20 percent",
+      "answer": "Apple",
       "options": [
-        "Indias",
-        "Big",
-        "State",
-        "Kumars"
+        "Yash",
+        "Connect",
+        "Apple",
+        "King"
+      ]
+    },
+    {
+      "blanked": "Samay Raina addresses India’s Got Latent 2 criticism, responds to ‘filtered’ tag: ‘It’s just not the same anymore’ | ______",
+      "answer": "Bollywood",
+      "options": [
+        "Bollywood",
+        "Kurup",
+        "Raina",
+        "Food"
       ]
     },
     {
       "blanked": "Aditya-L1 catches ______ early warning signs before Solar flares",
       "answer": "Suns",
       "options": [
-        "Chopras",
-        "Action",
-        "State",
+        "Bhagwats",
+        "Airlines",
+        "Final",
         "Suns"
       ]
     },
     {
-      "blanked": "PM Modi must order filing of FIR, we demand justice: Rahul ______ on Kharge’s rally venue ‘purification’ in Uttarakhand",
-      "answer": "Gandhi",
+      "blanked": "CAS faces ______ rebalancing test on Monday, says this analyst",
+      "answer": "MSCI",
       "options": [
-        "Kharges",
-        "Gandhi",
-        "Latent",
-        "Legal"
+        "Persistent",
+        "MSCI",
+        "Disease",
+        "Food"
       ]
     },
     {
-      "blanked": "Dil Chahta Hai Turns 25: Aamir Khan, Saif Ali ______ And Farhan Akhtar Reunite In Mumbai. MIA - Akshaye Khanna",
-      "answer": "Khan",
+      "blanked": "Neeraj ______ 2026 season over after ankle ligament tear, Diamond League Final and Asian Games ruled ou",
+      "answer": "Chopras",
       "options": [
-        "Sensex",
-        "Suns",
-        "Rahul",
-        "Khan"
+        "Chopras",
+        "Heat",
+        "Shah",
+        "Key"
       ]
     },
     {
-      "blanked": "Sharon Verma Hits Back At 'Kashmiri' Samay ______ After 'Bihari' Joke: 'I Left My State By Choice'",
-      "answer": "Raina",
+      "blanked": "Temasek backs Singapore Airlines' Air ______ investment amid growing scrutiny",
+      "answer": "India",
       "options": [
-        "Good",
-        "Raina",
-        "Ali",
-        "News"
+        "India",
+        "Teaser",
+        "Julian",
+        "Raina"
+      ]
+    },
+    {
+      "blanked": "Galwan, ______ general axed by Xi: Zhao Zongqi removed from China's top advisory body",
+      "answer": "Doklam",
+      "options": [
+        "RSS",
+        "Doklam",
+        "Singapore",
+        "Chinas"
       ]
     }
   ]
