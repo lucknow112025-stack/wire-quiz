@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-29T15:03:39.276Z",
+  "generatedAt": "2026-08-29T15:18:21.539Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "Nepal and China resume flood rescue as death toll surpasses 600",
-    "Looking to advance India’s vision for region free from terror, says PM Modi as he embarks on visit to Uzbekistan, Kyrgyzstan",
-    "PM Modi must order filing of FIR, we demand justice: Rahul Gandhi on Kharge’s rally venue ‘purification’ in Uttarakhand",
-    "3 Delhi BJP MPs Visit Sajjan Kumar's House. Then Party Chief's Big Action",
+    "Nepal flash floods LIVE updates: Heavy rain forecast in flood-affected areas threaten to disrupt rescue ops.; death toll crosses 620",
+    "PM Modi begins four-day Uzbekistan, Kyrgyzstan visit for SCO summit; what's on agenda",
     "China removes two top generals from its highest military command | World News",
     "FIR Against Mamata Banerjee For Violating Calcutta HC Order At TMC Event",
-    "Samay Raina addresses India’s Got Latent 2 criticism, responds to ‘filtered’ tag: ‘It’s just not the same anymore’ | Bollywood",
-    "BJP Turns Up Meme Heat On Congress, Deploys Satire In Social Media Battle",
+    "Rahul Gandhi seeks FIR over ‘purification’ ritual in Haldwani after Kharge’s address, calls it ‘untouchability’",
+    "Iran’s leaders acknowledge economic toll of war, pledge diplomacy, defence",
+    "\"You Think You Are A Lord?\" Bombay High Court Slams FDA Officer Over Suspension Of Eateries Of Mumbai...",
     "Chatroo Kishtwar minor’s death case: Health worker arrested, total accused reach six",
     "Flash floods in Nepal: No contact still with 320 Indians; 400 stranded",
+    "Manufacture in India, build for world: FM Sitharaman",
     "Russian strike on Kyiv-area warehouse sparks detonation, killing 37",
     "Norway mourns King Harald as crowds gather at royal palace",
+    "CIA Failed To Connect Key Intel Naming 9/11 Mastermind Before Attacks: Report",
     "Zimbabwe minibus carrying church members crashes, killing at least 27",
-    "Oil Deal To Bring $100 Billion Investment, Thousands Of Jobs To Venezuela: Rubio",
     "HDFC Bank CEO Sashidhar Jagdishan to retire on October 26, will not seek reappointment",
-    "Union Bank, LIC Housing Fin, Canara Bank challenge NCLT nod to Subhash Chandra resolution plan",
-    "GST Council’s 57th meeting on September 12; GST registration simplification for large businesses on...",
+    "LIC Housing Finance, Canara Bank, Union Bank to challenge NCLT approval of Subhash Chandra repayment plan",
     "Temasek backs Singapore Airlines' Air India investment amid growing scrutiny",
-    "GTA VI Has Over 600,000 Animations Compared To GTA V's 55,000 & Red Dead Redemption 2's 300,000",
-    "iPhone 18 Pro Max launch: Here are all the differences we currently know between the iPhone 18 Pro and...",
+    "GST Council’s 57th meeting on September 12; GST registration simplification for large businesses on...",
+    "Nvidia's DLSS 5 leaked early, and modders have already broken it out of its Blackwell cage",
     "QD-OLED goes to esports: Samsung starts mass production of 24.5\" ultra-fast displays",
-    "iPhone 17 Pro Max drops to ₹1.05 lakh ahead of iPhone 18 | Tap to know more | Inshorts",
+    "GTA VI Has Over 600,000 Animations Compared To GTA V's 55,000 & Red Dead Redemption 2's 300,000",
+    "iPhone 18 Pro, Foldable iPhone Ultra and More: Apple Products Expected Next Month",
     "'Toxic' box office collection Day 4 [LIVE]: Yash and Kiara Advani film races past Rs 175 crore domestic net milestone",
     "King100: Teaser of Nagarjuna starrer unveiled on his birthday; film to clash with Shah Rukh Khan starrer King",
     "'DC' OTT release date: When and where to watch the Lokesh Kanagaraj and Wamiqa Gabbi starrer action drama"
   ],
   "quiz": [
     {
-      "blanked": "Growth ______ Receptors Signal Schizophrenia Disease Stage",
-      "answer": "Factor",
+      "blanked": "GST Council’s 57th meeting on ______ 12; GST registration simplification for large businesses on...",
+      "answer": "September",
       "options": [
-        "Factor",
-        "Chamola",
-        "Billion",
-        "Food"
+        "Kishtwar",
+        "Think",
+        "September",
+        "Officer"
       ]
     },
     {
-      "blanked": "PHOTOS: ______ appears orange due to partial lunar eclipse",
-      "answer": "Moon",
+      "blanked": "Aditya-L1 catches ______ early warning signs before Solar flares",
+      "answer": "Suns",
       "options": [
-        "Moon",
-        "600000",
-        "Food",
-        "Party"
+        "Suns",
+        "October",
+        "Kyrgyzstan",
+        "Officer"
+      ]
+    },
+    {
+      "blanked": "FIR Against Mamata Banerjee For Violating Calcutta HC Order At ______ Event",
+      "answer": "TMC",
+      "options": [
+        "Gabbi",
+        "TMC",
+        "FDA",
+        "600000"
       ]
     },
     {
       "blanked": "Neeraj Chopra’s 2026 season over after ankle ligament tear, ______ League Final and Asian Games ruled ou",
       "answer": "Diamond",
       "options": [
-        "Length",
-        "Gabbi",
+        "Airlines",
         "Diamond",
-        "October"
+        "Slams",
+        "Bombay"
       ]
     },
     {
-      "blanked": "Chatroo ______ minor’s death case: Health worker arrested, total accused reach six",
-      "answer": "Kishtwar",
+      "blanked": "\"You Think You Are A Lord?\" Bombay ______ Court Slams FDA Officer Over Suspension Of Eateries Of Mumbai...",
+      "answer": "High",
       "options": [
+        "Haldwani",
         "Kishtwar",
-        "Against",
-        "Disease",
-        "Uzbekistan"
+        "High",
+        "Animations"
       ]
     },
     {
-      "blanked": "China removes two top generals from its highest military command | World ______",
-      "answer": "News",
+      "blanked": "Nepal flash floods LIVE updates: ______ rain forecast in flood-affected areas threaten to disrupt rescue ops.; death toll crosses 620",
+      "answer": "Heavy",
       "options": [
-        "Max",
-        "Compared",
-        "News",
-        "Hindustan"
+        "24.5",
+        "Rukh",
+        "Heavy",
+        "Food"
       ]
     },
     {
-      "blanked": "'DC' OTT release date: ______ and where to watch the Lokesh Kanagaraj and Wamiqa Gabbi starrer action drama",
-      "answer": "When",
+      "blanked": "QD-OLED goes to esports: Samsung starts mass production of ______ ultra-fast displays",
+      "answer": "24.5",
       "options": [
-        "When",
-        "LIC",
-        "October",
-        "Pro"
-      ]
-    },
-    {
-      "blanked": "Samay Raina addresses India’s Got Latent 2 criticism, responds to ‘filtered’ tag: ‘It’s just not the same anymore’ | ______",
-      "answer": "Bollywood",
-      "options": [
-        "Bollywood",
-        "Violating",
-        "Factor",
-        "Khanna"
-      ]
-    },
-    {
-      "blanked": "Nasa space telescope set to launch after surviving ______ budget cuts",
-      "answer": "Trump",
-      "options": [
-        "MPs",
-        "Diamond",
-        "Battle",
-        "Trump"
-      ]
-    },
-    {
-      "blanked": "'Toxic' box office collection Day 4 ______ Yash and Kiara Advani film races past Rs 175 crore domestic net milestone",
-      "answer": "LIVE",
-      "options": [
-        "Media",
-        "Pro",
-        "LIVE",
-        "Visit"
-      ]
-    },
-    {
-      "blanked": "iPhone 17 Pro Max drops to ₹1.05 lakh ahead of iPhone 18 | Tap to know more | ______",
-      "answer": "Inshorts",
-      "options": [
-        "China",
-        "Times",
-        "Inshorts",
-        "Heat"
-      ]
-    },
-    {
-      "blanked": "Norway mourns King ______ as crowds gather at royal palace",
-      "answer": "Harald",
-      "options": [
-        "Subhash",
-        "Food",
-        "Wamiqa",
-        "Harald"
-      ]
-    },
-    {
-      "blanked": "Looking to advance India’s vision for region free from terror, says PM Modi as he embarks on visit to ______ Kyrgyzstan",
-      "answer": "Uzbekistan",
-      "options": [
-        "Uzbekistan",
-        "India",
-        "Rubio",
+        "Singapore",
+        "CEO",
+        "You",
         "24.5"
+      ]
+    },
+    {
+      "blanked": "HDFC Bank ______ Sashidhar Jagdishan to retire on October 26, will not seek reappointment",
+      "answer": "CEO",
+      "options": [
+        "September",
+        "Calcutta",
+        "CEO",
+        "Kyrgyzstan"
+      ]
+    },
+    {
+      "blanked": "Rahul Gandhi seeks FIR over ‘purification’ ritual in ______ after Kharge’s address, calls it ‘untouchability’",
+      "answer": "Haldwani",
+      "options": [
+        "Kiara",
+        "Haldwani",
+        "Nepal",
+        "GTA"
+      ]
+    },
+    {
+      "blanked": "LIC Housing ______ Canara Bank, Union Bank to challenge NCLT approval of Subhash Chandra repayment plan",
+      "answer": "Finance",
+      "options": [
+        "175",
+        "Finance",
+        "Wamiqa",
+        "Day"
+      ]
+    },
+    {
+      "blanked": "GTA VI Has Over 600,000 Animations Compared To GTA V's 55,000 & ______ Dead Redemption 2's 300,000",
+      "answer": "Red",
+      "options": [
+        "Nepal",
+        "Red",
+        "Lord",
+        "News"
+      ]
+    },
+    {
+      "blanked": "Chatroo Kishtwar minor’s death case: ______ worker arrested, total accused reach six",
+      "answer": "Health",
+      "options": [
+        "Delhi",
+        "Canara",
+        "Gandhi",
+        "Health"
       ]
     }
   ]
