@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-08-29T00:33:17.373Z",
+  "generatedAt": "2026-08-29T00:48:16.017Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "Fresh glacial lakes form at source of Nepal’s ice-rock avalanche",
+    "China says collapse of glacier in Nepal likely behind flash flood",
     "Barron Trump Living Reclusive Life Amid Security Fears, Doesn't Go Out: Report",
-    "Iran lashes out at US sanctions amid economic toll at home",
     "Teary-eyed Karnataka minister B Nagendra resigns from cabinet, as MLA amid financial irregularity row | India News",
-    "Penguin drops Sonia Gandhi’s memoir after she rejected ‘changes, deletions’",
+    "Iran lashes out at US sanctions amid economic toll at home",
     "X account blocked for several hours, rues organisation hosting Bhagwat's New York event",
+    "Penguin drops Sonia Gandhi’s memoir after she rejected ‘changes, deletions’",
     "Spider-Man, Motu-Patlu, And A Greek Drama: BJP Casts Insta Meme Net For Gen-Z Attention",
     "Hyderabad IT Corridor Turns Into A Goldmine",
     "3,400 SIR forms found at Navi Mumbai photocopy shop; 5 BLOs suspended as Sena (UBT)-BJP clash",
@@ -16,11 +16,11 @@
     "‘Biggest deal in history’: Trump says US to control 65 billion barrels of Venezuela oil",
     "US Judge Won't Immediately Block Trump's Limiting Birthright Citizenship Order",
     "Syria President Appoints Kurdish Leader Mazloum Abdi As His Adviser",
-    "With nod to India, Canadian FM talks 'diversification' amid US trade war: 'You'll know why I have such a...",
+    "US President Donald Trump says Russian counterpart Vladimir Putin will not attack NATO territory",
     "India's markets regulator approves Jio Platforms' $3.8 billion IPO",
+    "Gold tumbles as Warsh sparks rally on the US Dollar",
     "Fake Sales, Round-Tripping, 1,700% Stock Surge: SEBI Uncovers Debock's Pump-And-Dump Scheme",
     "Fat, Sugar, Salt Warnings In Red Boxes: Regulator's Latest Weapon Against Unhealthy Foods",
-    "HDFC Bank may appeal NCLT nod to Chandra's 'personal guarantor' payout",
     "Sony's new Bravia 6 TVs take on entry-level OLEDs",
     "iPhone 18 Pro, Foldable iPhone Ultra and More: Apple Products Expected Next Month",
     "Garmin Fenix 9 vs Fenix 9 Pro: Display, Battery and Satellite Features",
@@ -31,123 +31,123 @@
   ],
   "quiz": [
     {
-      "blanked": "The agony of ______ — the condition that made me plot my own death",
-      "answer": "PMDD",
-      "options": [
-        "Lineups",
-        "Greek",
-        "PMDD",
-        "BJP"
-      ]
-    },
-    {
-      "blanked": "India vs Belgium Highlights, Men's Hockey World Cup ______ IND 3-4 BEL via penalties; Indian team bows out with loss",
-      "answer": "2026",
-      "options": [
-        "Weapon",
-        "Stock",
-        "Salt",
-        "2026"
-      ]
-    },
-    {
-      "blanked": "Spider-Man, Motu-Patlu, And A Greek Drama: ______ Casts Insta Meme Net For Gen-Z Attention",
-      "answer": "BJP",
-      "options": [
-        "Al-Taawoun",
-        "Next",
-        "BJP",
-        "Vishnu"
-      ]
-    },
-    {
-      "blanked": "Teary-eyed Karnataka minister B Nagendra resigns from cabinet, as MLA amid financial irregularity row | ______ News",
-      "answer": "India",
-      "options": [
-        "Battery",
-        "Highlights",
-        "India",
-        "Office"
-      ]
-    },
-    {
-      "blanked": "Fat, ______ Salt Warnings In Red Boxes: Regulator's Latest Weapon Against Unhealthy Foods",
-      "answer": "Sugar",
-      "options": [
-        "Know",
-        "Sugar",
-        "Greek",
-        "Theft"
-      ]
-    },
-    {
-      "blanked": "Garmin Fenix 9 vs Fenix 9 Pro: ______ Battery and Satellite Features",
-      "answer": "Display",
+      "blanked": "Box Office: Hanuman Ansh emerge as a ______ Recording biggest day of run on 4th Friday at Rs. 5 Cr plus",
+      "answer": "HIT",
       "options": [
         "HIT",
-        "Display",
-        "Motu-Patlu",
-        "Venezuela"
+        "Science",
+        "Weapon",
+        "Ghats"
       ]
     },
     {
-      "blanked": "India’s ______ ambitions: Findings by Aditya-Li valuable to Science",
-      "answer": "Solar",
+      "blanked": "China says collapse of glacier in ______ likely behind flash flood",
+      "answer": "Nepal",
       "options": [
-        "Canadian",
-        "Pump-And-Dump",
-        "Solar",
-        "Youll"
+        "Sales",
+        "Trumps",
+        "Nepal",
+        "Bhagwats"
       ]
     },
     {
-      "blanked": "Syria President Appoints Kurdish Leader Mazloum Abdi As His ______",
-      "answer": "Adviser",
+      "blanked": "Physical Activity Linked to Lower ______ Risk in Atrial Fibrillation",
+      "answer": "Stroke",
       "options": [
-        "Venezuela",
-        "Unhealthy",
-        "Adviser",
-        "IND"
+        "Dollar",
+        "Fears",
+        "Every",
+        "Stroke"
       ]
     },
     {
-      "blanked": "Barron Trump Living ______ Life Amid Security Fears, Doesn't Go Out: Report",
-      "answer": "Reclusive",
+      "blanked": "Fat, Sugar, Salt Warnings In Red Boxes: Regulator's Latest Weapon Against Unhealthy ______",
+      "answer": "Foods",
       "options": [
-        "Ultra",
-        "SEBI",
-        "Unhealthy",
-        "Reclusive"
+        "Donald",
+        "Next",
+        "Foods",
+        "Stroke"
       ]
     },
     {
-      "blanked": "What Every Indian ______ in Her 30s and 40s Needs to Know About Perimenopause",
-      "answer": "Woman",
+      "blanked": "Photos: ______ part and make way for deep lunar eclipse",
+      "answer": "Clouds",
       "options": [
-        "Woman",
-        "Boxes",
-        "Order",
-        "Jio"
+        "Warnings",
+        "Cricket",
+        "Clouds",
+        "Stock"
       ]
     },
     {
-      "blanked": "‘Hi’ movie review: Kavin, ______ anchor Vishnu Edavan’s old-school wholesome entertainer",
-      "answer": "Nayanthara",
+      "blanked": "Dolly ______ grew up with 11 siblings in a two-room Tennessee cabin without electricity or running water;",
+      "answer": "Parton",
       "options": [
-        "Nayanthara",
-        "Sena",
+        "Release",
+        "Net",
+        "Edavans",
+        "Parton"
+      ]
+    },
+    {
+      "blanked": "Robinson, Archer demolish Pakistan as ______ take strong grip",
+      "answer": "England",
+      "options": [
+        "Debocks",
         "Mumbai",
-        "Attention"
+        "TVs",
+        "England"
       ]
     },
     {
-      "blanked": "Penguin drops Sonia ______ memoir after she rejected ‘changes, deletions’",
-      "answer": "Gandhis",
+      "blanked": "Gold tumbles as ______ sparks rally on the US Dollar",
+      "answer": "Warsh",
       "options": [
-        "Gandhis",
-        "Everything",
-        "Adviser",
-        "Security"
+        "Warsh",
+        "Cup",
+        "1700%",
+        "Dollar"
+      ]
+    },
+    {
+      "blanked": "3,400 SIR forms found at ______ Mumbai photocopy shop; 5 BLOs suspended as Sena (UBT)-BJP clash",
+      "answer": "Navi",
+      "options": [
+        "Casts",
+        "Belgium",
+        "Navi",
+        "Life"
+      ]
+    },
+    {
+      "blanked": "iPhone 18 Pro, Foldable iPhone Ultra and More: ______ Products Expected Next Month",
+      "answer": "Apple",
+      "options": [
+        "Hanuman",
+        "Know",
+        "Leader",
+        "Apple"
+      ]
+    },
+    {
+      "blanked": "Spirited ______ stun SA in tri-series opener",
+      "answer": "Namibia",
+      "options": [
+        "Namibia",
+        "Nagendra",
+        "Nepal",
+        "Gandhis"
+      ]
+    },
+    {
+      "blanked": "India's markets regulator approves Jio Platforms' ______ billion IPO",
+      "answer": "3.8",
+      "options": [
+        "Details",
+        "3.8",
+        "Karnataka",
+        "Debocks"
       ]
     }
   ]
