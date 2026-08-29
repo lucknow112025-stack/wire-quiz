@@ -1,28 +1,28 @@
 {
-  "generatedAt": "2026-08-29T13:33:16.964Z",
+  "generatedAt": "2026-08-29T13:48:47.870Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "Nepal flash floods LIVE updates: Heavy rain forecast in flood-affected areas threaten to disrupt rescue ops.; death toll crosses 620",
-    "FIR against Mamata Banerjee over violation of high court order on TMC students' wing rally in Kolkata | India News",
-    "Sharon Verma Hits Back At 'Kashmiri' Samay Raina After 'Bihari' Joke: 'I Left My State By Choice'",
-    "PM Modi must order filing of FIR, we demand justice: Rahul Gandhi on Kharge’s rally venue ‘purification’ in Uttarakhand",
-    "42 years on, Sukumara Kurup mystery returns with Brunei ‘sighting’ — and a photo twist",
-    "PM Modi begins four-day Uzbekistan, Kyrgyzstan visit for SCO summit; what's on agenda",
-    "BJP Turns Up Meme Heat On Congress, Deploys Satire In Social Media Battle",
-    "Bar Council Not Earning Members' Respect Not A Good Sign For Legal Profession: Justice BV Nagarathna",
-    "3 Delhi BJP MPs Visit Sajjan Kumar's House. Then Party Chief's Big Action",
-    "Punjabi influencer dies almost two months after brutal assault by acquaintances",
-    "37 Killed As Russian Strikes Ukraine's Kyiv, 50 Residential Buildings Damaged",
-    "Galwan, Doklam general axed by Xi: Zhao Zongqi removed from China's top advisory body",
-    "CIA Failed To Connect Key Intel Naming 9/11 Mastermind Before Attacks: Report",
-    "'Biggest deal in world history': Trump says US secured 65 billion barrels of Venezuelan oil | World News",
     "HDFC Bank MD Sashidhar Jagdishan decides not to seek reappointment, to retire in October",
+    "Nepal flash floods LIVE updates: Heavy rain forecast in flood-affected areas threaten to disrupt rescue ops.; death toll crosses 620",
+    "3 Delhi BJP MPs Visit Sajjan Kumar's House. Then Party Chief's Big Action",
+    "FIR against Mamata Banerjee over violation of high court order on TMC students' wing rally in Kolkata | India News",
+    "Rahul Gandhi asks PM Modi to order FIR under SC/ST Act over ‘purification’ after Kharge’s rally | India News",
+    "Oneness or Hindu supremacy? RSS chief Bhagwat’s secretive New York hosts",
+    "Looking to advance India’s vision for region free from terror, says PM Modi as he embarks on visit to Uzbekistan, Kyrgyzstan",
+    "BJP Turns Up Meme Heat On Congress, Deploys Satire In Social Media Battle",
+    "Chatroo Kishtwar minor’s death case: Health worker arrested, total accused reach six",
+    "Flash floods in Nepal: No contact still with 320 Indians; 400 stranded",
+    "37 Killed As Russian Strikes Ukraine's Kyiv, 50 Residential Buildings Damaged",
+    "CIA Failed To Connect Key Intel Naming 9/11 Mastermind Before Attacks: Report",
+    "‘Biggest deal in history’: Trump says US to control 65 billion barrels of Venezuela oil",
+    "China removes two top generals from its highest military command | World News",
     "Subhash Chandra breaks silence on NCLT order, disputes ₹3,900 crore claim, says most group debt repaid",
     "Temasek backs Singapore Airlines' Air India investment amid growing scrutiny",
+    "Meta’s Sandhya Devanathan exits after decade, joins OpenAI as Southeast Asia, Australia VP",
     "\"Rs 1 Lakh Became Rs 44 Lakh In 5 Minutes\": Trader's Claim On Sensex's Wild Swing Sparks Buzz",
-    "QD-OLED goes to esports: Samsung starts mass production of 24.5\" ultra-fast displays",
     "Apple One and Apple TV subscription prices increase by up to 20 percent",
+    "QD-OLED goes to esports: Samsung starts mass production of 24.5\" ultra-fast displays",
     "iPhone 18 Pro Max launch: Here are all the differences we currently know between the iPhone 18 Pro and...",
     "GTA VI Has Over 600,000 Animations Compared To GTA V's 55,000 & Red Dead Redemption 2's 300,000",
     "'Toxic' box office collection Day 4 [LIVE]: Yash and Kiara Advani film races towards Rs 175 crore domestic net milestone",
@@ -31,123 +31,123 @@
   ],
   "quiz": [
     {
-      "blanked": "42 years on, Sukumara Kurup mystery returns with ______ ‘sighting’ — and a photo twist",
-      "answer": "Brunei",
+      "blanked": "Amid rising swine flu cases, ______ govt asks hospitals to reserve isolation beds",
+      "answer": "Delhi",
       "options": [
-        "Red",
-        "Has",
-        "Brunei",
-        "Arsenal"
+        "Redemption",
+        "Delhi",
+        "Nagarjuna",
+        "Media"
       ]
     },
     {
-      "blanked": "PM ______ must order filing of FIR, we demand justice: Rahul Gandhi on Kharge’s rally venue ‘purification’ in Uttarakhand",
-      "answer": "Modi",
+      "blanked": "Flash floods in Nepal: No contact still with 320 ______ 400 stranded",
+      "answer": "Indians",
       "options": [
-        "King",
-        "Deploys",
         "Modi",
-        "Sparks"
+        "Red",
+        "Bhagwats",
+        "Indians"
+      ]
+    },
+    {
+      "blanked": "3 Delhi BJP MPs Visit Sajjan Kumar's House. Then ______ Chief's Big Action",
+      "answer": "Party",
+      "options": [
+        "MPs",
+        "Sarfaraz",
+        "Party",
+        "India"
+      ]
+    },
+    {
+      "blanked": "Aditya-L1 catches Sun's early warning signs before ______ flares",
+      "answer": "Solar",
+      "options": [
+        "Solar",
+        "Banerjee",
+        "Wamiqa",
+        "Factor"
+      ]
+    },
+    {
+      "blanked": "China removes two top generals from its highest military command | ______ News",
+      "answer": "World",
+      "options": [
+        "Allergy",
+        "Suns",
+        "Delhi",
+        "World"
+      ]
+    },
+    {
+      "blanked": "'Toxic' box office collection Day 4 [LIVE]: Yash and Kiara Advani film races towards Rs ______ crore domestic net milestone",
+      "answer": "175",
+      "options": [
+        "Satire",
+        "MPs",
+        "175",
+        "Indians"
+      ]
+    },
+    {
+      "blanked": "Placental Epigenetic Changes Link to Persistent ______ Allergy",
+      "answer": "Food",
+      "options": [
+        "OTT",
+        "Heavy",
+        "Hindustan",
+        "Food"
+      ]
+    },
+    {
+      "blanked": "'DC' OTT release date: When and where to watch the Lokesh Kanagaraj and ______ Gabbi starrer action drama",
+      "answer": "Wamiqa",
+      "options": [
+        "Day",
+        "Kharges",
+        "Wamiqa",
+        "Dead"
+      ]
+    },
+    {
+      "blanked": "Temasek backs Singapore ______ Air India investment amid growing scrutiny",
+      "answer": "Airlines",
+      "options": [
+        "Chopras",
+        "Airlines",
+        "Media",
+        "Buildings"
       ]
     },
     {
       "blanked": "10 jaw-dropping ______ space images that showcase the incredible beauty of the cosmos",
       "answer": "ESA",
       "options": [
-        "Yash",
-        "Sign",
+        "Sensexs",
+        "Khan",
         "ESA",
-        "Naming"
+        "320"
       ]
     },
     {
-      "blanked": "King100: Teaser of Nagarjuna starrer unveiled on his birthday; film to clash with Shah ______ Khan starrer King",
-      "answer": "Rukh",
+      "blanked": "Akanksha ______ reveals Gaurav Khanna found her bisexuality ‘very hot’ before marriage: 'Will never cheat my husband' | Hindustan Times",
+      "answer": "Chamola",
       "options": [
-        "Swing",
-        "Rukh",
-        "Airlines",
-        "Day"
+        "Chamola",
+        "Mamata",
+        "Failed",
+        "Pakistans"
       ]
     },
     {
-      "blanked": "'DC' OTT release date: When and where to watch the Lokesh ______ and Wamiqa Gabbi starrer action drama",
-      "answer": "Kanagaraj",
+      "blanked": "Oneness or ______ supremacy? RSS chief Bhagwat’s secretive New York hosts",
+      "answer": "Hindu",
       "options": [
-        "Joke",
-        "Suns",
-        "Kanagaraj",
-        "Kyiv"
-      ]
-    },
-    {
-      "blanked": "37 Killed As ______ Strikes Ukraine's Kyiv, 50 Residential Buildings Damaged",
-      "answer": "Russian",
-      "options": [
-        "Russian",
-        "Sparks",
-        "Redemption",
-        "World"
-      ]
-    },
-    {
-      "blanked": "Bar Council Not Earning Members' Respect Not A Good Sign For Legal ______ Justice BV Nagarathna",
-      "answer": "Profession",
-      "options": [
-        "Legal",
-        "Profession",
-        "Julian",
-        "Attacks"
-      ]
-    },
-    {
-      "blanked": "FIR against Mamata Banerjee over violation of high court order on TMC students' wing rally in Kolkata | ______ News",
-      "answer": "India",
-      "options": [
-        "Sarfaraz",
+        "Trump",
+        "ESA",
         "Action",
-        "Singapore",
-        "India"
-      ]
-    },
-    {
-      "blanked": "CIA Failed To Connect Key Intel Naming 9/11 Mastermind Before Attacks: ______",
-      "answer": "Report",
-      "options": [
-        "Report",
-        "Not",
-        "Barcelona",
-        "Kumars"
-      ]
-    },
-    {
-      "blanked": "Sharon Verma ______ Back At 'Kashmiri' Samay Raina After 'Bihari' Joke: 'I Left My State By Choice'",
-      "answer": "Hits",
-      "options": [
-        "55000",
-        "Hits",
-        "Raina",
-        "24.5"
-      ]
-    },
-    {
-      "blanked": "Galwan, Doklam general axed by Xi: Zhao Zongqi removed from ______ top advisory body",
-      "answer": "Chinas",
-      "options": [
-        "Raina",
-        "Traders",
-        "Lokesh",
-        "Chinas"
-      ]
-    },
-    {
-      "blanked": "PM Modi begins four-day Uzbekistan, ______ visit for SCO summit; what's on agenda",
-      "answer": "Kyrgyzstan",
-      "options": [
-        "Kashmiri",
-        "BJP",
-        "Buzz",
-        "Kyrgyzstan"
+        "Hindu"
       ]
     }
   ]
