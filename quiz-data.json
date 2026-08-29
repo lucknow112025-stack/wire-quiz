@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-29T09:03:30.037Z",
+  "generatedAt": "2026-08-29T09:18:36.455Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "Nepal and China resume flood rescue as death toll surpasses 600",
+    "Nepal flash floods LIVE updates: Risk of lake 'burst' near border disaster site wanes, China says; death toll crosses 620",
     "Looking to advance India’s vision for region free from terror, says PM Modi as he embarks on visit to Uzbekistan, Kyrgyzstan",
     "'Suddhikaran another name for untouchability': Rahul Gandhi accuses BJP, RSS of discrimination against Kh",
-    "'Biggest deal in world history': Trump says US secured 65 billion barrels of Venezuelan oil | World News",
+    "Trump announces ‘biggest oil deal in world history’ with Venezuela",
     "Congress alleges Penguin India succumbed to ‘pressure’ to demand changes in Sonia memoir",
     "Oneness or Hindu supremacy? RSS chief Bhagwat’s secretive New York hosts",
     "AIMIM Expels MLC Mirza Rahmath Baig with Immediate Effect",
@@ -14,140 +14,140 @@
     "Chatroo Kishtwar minor’s death case: Health worker arrested, total accused reach six",
     "Pakistani drone detected in Jammu and Kashmir's Poonch, security forces put LoC sector on high alert",
     "War weighs on Iran's economy as US intensifies sanctions",
+    "In 1996, MapQuest put maps online before Google Maps; why 30 years later it is refusing to rename Lake On",
     "US revises statements suggesting Chinese hackers attacked agencies",
     "Xi's purge hits General who commanded PLA at Doklam, Galwan against India",
-    "Nepal Counted Flood Victims. Thieves Counted Lakhs From Safe Swept In Floods",
     "Mint Explainer | Banks recover 1% in personal guarantor cases; Subhash Chandra case said to involve associate companies",
     "OpenAI to cut off AI models for SpaceX-owned Cursor, escalating feud with Musk",
     "Jio Platforms gets Sebi nod for 37.7k cr IPO, set to be India's biggest",
-    "FDA cancels drug sale licences of Cipla Pharma & Life Sciences' Pune Carry and Forwarding unit",
+    "‘Flash Crash’ Hits Sensex Index During Unpopular Closing Auction",
     "iPhone 18 Pro, Foldable iPhone Ultra and More: Apple Products Expected Next Month",
     "'Grand Theft Auto 6' Extended in-game footage unveiled",
     "Xbox CEO Says Project Helix Includes a 'Family of Devices'",
     "Deals: the Galaxy S26 FE is on pre-order, but the S26+ is cheaper - several Pocos are cheaper too - GSMArena.com news",
     "Toxic Box Office Collection Day 3 Live Updates: Yash film earns Rs 221 cr despite drop, trails KGF 2 by Rs 120 cr",
     "Dolly Parton's funeral: Family gather for singer's burial at Nashville site; to be laid to rest beside hu",
-    "Samantha Ruth Prabhu Shares How Much Weight She Has Gained During Pregnancy"
+    "Hi Box Office Collection Day 1: Nayanthara's Romance Drama Opens 97% Lower Than Mana Shankara Vara Prasad Garu"
   ],
   "quiz": [
     {
-      "blanked": "FDA cancels drug sale licences of Cipla Pharma & Life Sciences' Pune ______ and Forwarding unit",
-      "answer": "Carry",
+      "blanked": "iPhone 18 Pro, ______ iPhone Ultra and More: Apple Products Expected Next Month",
+      "answer": "Foldable",
       "options": [
-        "Kishtwar",
-        "Carry",
-        "Roman",
-        "Safe"
+        "Month",
+        "Uzbekistan",
+        "Foldable",
+        "BJP"
       ]
     },
     {
-      "blanked": "Chatroo Kishtwar minor’s death case: ______ worker arrested, total accused reach six",
-      "answer": "Health",
+      "blanked": "War weighs on ______ economy as US intensifies sanctions",
+      "answer": "Irans",
       "options": [
-        "Suns",
-        "Health",
-        "Latent",
-        "Mirza"
+        "Irans",
+        "Pocos",
+        "World",
+        "Has"
+      ]
+    },
+    {
+      "blanked": "Western ______ frogs sort by size to coexist, study finds",
+      "answer": "Ghats",
+      "options": [
+        "Risk",
+        "Apple",
+        "Uzbekistan",
+        "Ghats"
+      ]
+    },
+    {
+      "blanked": "'Grand Theft Auto 6' ______ in-game footage unveiled",
+      "answer": "Extended",
+      "options": [
+        "Extended",
+        "Sensex",
+        "KGF",
+        "LIVE"
+      ]
+    },
+    {
+      "blanked": "In ______ MapQuest put maps online before Google Maps; why 30 years later it is refusing to rename Lake On",
+      "answer": "1996",
+      "options": [
+        "Pro",
+        "Risk",
+        "1996",
+        "Epigenetic"
+      ]
+    },
+    {
+      "blanked": "Toxic Box Office ______ Day 3 Live Updates: Yash film earns Rs 221 cr despite drop, trails KGF 2 by Rs 120 cr",
+      "answer": "Collection",
+      "options": [
+        "India",
+        "Collection",
+        "Lake",
+        "Sebi"
       ]
     },
     {
       "blanked": "US revises statements suggesting ______ hackers attacked agencies",
       "answer": "Chinese",
       "options": [
-        "Surgeons",
+        "Expected",
         "Chinese",
-        "Toh",
-        "Telescope"
-      ]
-    },
-    {
-      "blanked": "Jio Platforms gets ______ nod for 37.7k cr IPO, set to be India's biggest",
-      "answer": "Sebi",
-      "options": [
-        "More",
-        "Kyrgyzstan",
-        "Sebi",
-        "CEO"
+        "Roman",
+        "Auction"
       ]
     },
     {
       "blanked": "'Suddhikaran another name for untouchability': Rahul Gandhi accuses BJP, ______ of discrimination against Kh",
       "answer": "RSS",
       "options": [
+        "Cursor",
+        "Roman",
         "RSS",
-        "Galaxy",
-        "Foldable",
-        "Poonch"
+        "More"
       ]
     },
     {
-      "blanked": "Looking to advance India’s vision for region free from terror, says PM Modi as he embarks on visit to ______ Kyrgyzstan",
-      "answer": "Uzbekistan",
+      "blanked": "Placental Epigenetic Changes ______ to Persistent Food Allergy",
+      "answer": "Link",
       "options": [
-        "Prabhu",
-        "Family",
-        "Tumour",
-        "Uzbekistan"
+        "More",
+        "Link",
+        "221",
+        "Irans"
       ]
     },
     {
-      "blanked": "Congress Leader Blocks Kerala ______ Minister's Convoy, Argues With Him",
-      "answer": "Chief",
+      "blanked": "Oneness or Hindu supremacy? ______ chief Bhagwat’s secretive New York hosts",
+      "answer": "RSS",
       "options": [
-        "Argues",
-        "Chief",
-        "Prabhu",
-        "Trolls"
+        "Galwan",
+        "Irans",
+        "Office",
+        "RSS"
       ]
     },
     {
-      "blanked": "Xi's purge hits General who commanded PLA at Doklam, Galwan against ______",
-      "answer": "India",
+      "blanked": "Pakistani drone detected in Jammu and Kashmir's Poonch, security forces put ______ sector on high alert",
+      "answer": "LoC",
       "options": [
-        "Baig",
-        "PMDD",
-        "China",
-        "India"
+        "Mana",
+        "LoC",
+        "Pregnancy",
+        "Garu"
       ]
     },
     {
-      "blanked": "Samantha Ruth Prabhu Shares How Much Weight She Has ______ During Pregnancy",
-      "answer": "Gained",
+      "blanked": "OpenAI to cut off AI models for SpaceX-owned Cursor, escalating feud with ______",
+      "answer": "Musk",
       "options": [
-        "Live",
-        "MLC",
-        "Gained",
-        "IPO"
-      ]
-    },
-    {
-      "blanked": "Pakistani drone detected in Jammu and Kashmir's ______ security forces put LoC sector on high alert",
-      "answer": "Poonch",
-      "options": [
-        "Tumour",
-        "Chandra",
-        "Surgery",
-        "Poonch"
-      ]
-    },
-    {
-      "blanked": "Mint ______ | Banks recover 1% in personal guarantor cases; Subhash Chandra case said to involve associate companies",
-      "answer": "Explainer",
-      "options": [
-        "Falcon",
-        "Modi",
-        "Samay",
-        "Explainer"
-      ]
-    },
-    {
-      "blanked": "Deals: the ______ S26 FE is on pre-order, but the S26+ is cheaper - several Pocos are cheaper too - GSMArena.com news",
-      "answer": "Galaxy",
-      "options": [
-        "Shares",
-        "Galaxy",
-        "Banks",
-        "World"
+        "Musk",
+        "Indias",
+        "Bhagwats",
+        "Kishtwar"
       ]
     }
   ]
