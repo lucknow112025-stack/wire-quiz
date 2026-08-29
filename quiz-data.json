@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-29T21:48:19.249Z",
+  "generatedAt": "2026-08-29T22:03:45.721Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
     "Nepal and China resume flood rescue as death toll surpasses 600",
     "PM Modi lands in Uzbekistan on two-nation visit, President Shavkat Mirziyoyev receives him | India News",
-    "Rahul Gandhi asks PM Modi to order FIR under SC/ST Act over ‘purification’ after Kharge’s rally | India News",
     "Israeli settlers surround Palestinian home in occupied West Bank’s Qusra",
     "Mohan Bhagwat Poster Goes Up On Times Square Billboard Ahead Of RSS Chief’s MSG Address",
     "China removes PLA general who oversaw Doklam and Galwan standoffs with India from key post",
+    "Rahul Gandhi asks PM Modi to order FIR under SC/ST Act over ‘purification’ after Kharge’s rally | India News",
     "Flash floods in Nepal: No contact still with 320 Indians; 400 stranded",
     "Before The Nepal Flood, A Glacial Fall: Tracing The Trigger, And A 100-km Killer Surge",
     "Trinamool Congress Moves Calcutta High Court Against Alleged Removal Of Billboard From Party Office",
-    "Kolkata Police file FIR against Mamata Banerjee for violating Calcutta High Court order",
-    "'Soldiers attempted mutiny': Niger's defence minister after gunfire, blasts heard in capital Niamey",
+    "Manufacture in India, build for world: FM Sitharaman",
+    "Russian strike on Kyiv-area ammunition depot triggers blast, killing 37",
     "Norway's King Haakon honours 'dear father' Harald in first speech as sovereign",
-    "Far-Right British Provocateur Arrested By US Immigration Agents",
     "Iran’s leaders acknowledge economic toll of war, pledge diplomacy, defence",
-    "HDFC Bank CEO Jagdishan to step down, decides not to seek reappointment",
+    "Who is Milo Yiannopoulos, far-right British commentator, detained by ICE? Former Trump supporter faces de",
     "Sold house, personal assets, now living on rental income: Zee founder Subhash Chandra reveals his finances",
     "Nvidia’s AI advantage is moving beyond the GPU",
     "Gold drops 3% as Fed's Warsh comments lift rate hike bets",
+    "CNG Prices Hiked By Rs 3.89 In Delhi-NCR: Check City-Wise Rates",
     "Nvidia's DLSS 5 leaked early, and modders have already broken it out of its Blackwell cage",
     "First look at Grand Theft Auto 6 gameplay released on Netflix ahead of November launch",
     "Here's when the iPhone 18 Pro and iPhone 18 Pro Max are rumored to go on pre-order - GSMArena.com news",
-    "Tech wrap week: From Samsung Galaxy S26 FE to AI-powered laptops, here’s what’s new",
+    "Deals: the Galaxy S26 FE is coming, Galaxy S26 series on sale, Nothing Phone (3) also discounted - GSMArena.com news",
     "'Toxic' box office collection Day 4 [LIVE]: Yash and Kiara Advani film races past Rs 182 crore domestic net milestone",
-    "'SNL’ star Kenan Thompson to join ‘America’s Got Talent’ after Simon Cowell takes a break for back surger",
-    "King100: Teaser of Nagarjuna starrer unveiled on his birthday; film to clash with Shah Rukh Khan starrer King"
+    "King100: Teaser of Nagarjuna starrer unveiled on his birthday; film to clash with Shah Rukh Khan starrer King",
+    "'SNL’ star Kenan Thompson to join ‘America’s Got Talent’ after Simon Cowell takes a break for back surger"
   ],
   "quiz": [
     {
-      "blanked": "PHOTOS: ______ appears orange due to partial lunar eclipse",
-      "answer": "Moon",
+      "blanked": "'SNL’ star ______ Thompson to join ‘America’s Got Talent’ after Simon Cowell takes a break for back surger",
+      "answer": "Kenan",
       "options": [
-        "Americas",
-        "Moon",
-        "Banks",
-        "Allergy"
-      ]
-    },
-    {
-      "blanked": "'SNL’ star Kenan Thompson to join ‘America’s Got Talent’ after ______ Cowell takes a break for back surger",
-      "answer": "Simon",
-      "options": [
-        "Simon",
-        "Agents",
-        "Bhushan",
-        "November"
-      ]
-    },
-    {
-      "blanked": "Trinamool Congress Moves Calcutta High Court Against Alleged Removal Of ______ From Party Office",
-      "answer": "Billboard",
-      "options": [
-        "Party",
-        "Cup",
+        "Nepal",
         "Billboard",
-        "Goes"
+        "182",
+        "Kenan"
       ]
     },
     {
-      "blanked": "Israeli settlers surround Palestinian home in occupied West Bank’s ______",
-      "answer": "Qusra",
+      "blanked": "Nepal and China resume flood rescue as death toll surpasses ______",
+      "answer": "600",
       "options": [
-        "Qusra",
-        "Times",
-        "Tracing",
-        "Address"
+        "Auto",
+        "Mirziyoyev",
+        "600",
+        "Reveals"
       ]
     },
     {
-      "blanked": "Newcastle get last laugh vs rotten Spurs as ______ Tonali flops vs former club - 5 talking points",
-      "answer": "Sandro",
+      "blanked": "Deals: the Galaxy S26 FE is coming, Galaxy S26 series on sale, Nothing ______ (3) also discounted - GSMArena.com news",
+      "answer": "Phone",
+      "options": [
+        "Warsh",
+        "Phone",
+        "When",
+        "Chiefs"
+      ]
+    },
+    {
+      "blanked": "PM ______ lands in Uzbekistan on two-nation visit, President Shavkat Mirziyoyev receives him | India News",
+      "answer": "Modi",
       "options": [
         "Sandro",
+        "Heavy",
+        "Modi",
+        "High"
+      ]
+    },
+    {
+      "blanked": "Placental ______ Changes Link to Persistent Food Allergy",
+      "answer": "Epigenetic",
+      "options": [
         "Epigenetic",
-        "Party",
+        "Changes",
+        "Talent",
+        "400"
+      ]
+    },
+    {
+      "blanked": "Suryakumar on being dropped: ______ everything is going well, why the change?'",
+      "answer": "When",
+      "options": [
+        "Argentina",
+        "Suns",
+        "ESC",
+        "When"
+      ]
+    },
+    {
+      "blanked": "Before The ______ Flood, A Glacial Fall: Tracing The Trigger, And A 100-km Killer Surge",
+      "answer": "Nepal",
+      "options": [
+        "Nepal",
+        "Falcon",
+        "Max",
+        "Yash"
+      ]
+    },
+    {
+      "blanked": "Imaging ______ Widespread Silent Atherosclerosis Burden: ESC 2026",
+      "answer": "Reveals",
+      "options": [
+        "Ahead",
+        "320",
+        "Reveals",
         "Chandra"
       ]
     },
     {
-      "blanked": "Nvidia's DLSS 5 leaked early, and modders have already broken it out of its ______ cage",
-      "answer": "Blackwell",
+      "blanked": "Newcastle get last laugh vs rotten Spurs as Sandro ______ flops vs former club - 5 talking points",
+      "answer": "Tonali",
       "options": [
-        "Allergy",
-        "When",
-        "Blackwell",
-        "Tonali"
+        "Tonali",
+        "Day",
+        "Teaser",
+        "Party"
       ]
     },
     {
       "blanked": "China removes PLA general who oversaw Doklam and ______ standoffs with India from key post",
       "answer": "Galwan",
       "options": [
-        "Value",
-        "Congress",
-        "President",
-        "Galwan"
+        "Galwan",
+        "Limited",
+        "News",
+        "Billboard"
       ]
     },
     {
-      "blanked": "Flash floods in Nepal: No contact still with 320 Indians; ______ stranded",
-      "answer": "400",
+      "blanked": "Russian strike on ______ ammunition depot triggers blast, killing 37",
+      "answer": "Kyiv-area",
       "options": [
-        "Falcon",
-        "400",
-        "World",
-        "Address"
+        "Kyiv-area",
+        "Americas",
+        "Length",
+        "Harald"
       ]
     },
     {
-      "blanked": "India's javelin champion Neeraj ______ ends season early after ligament tear",
-      "answer": "Chopra",
+      "blanked": "Rahul Gandhi asks PM Modi to order FIR under SC/ST Act over ‘purification’ after ______ rally | India News",
+      "answer": "Kharges",
       "options": [
-        "400",
-        "Chopra",
-        "Palestinian",
-        "Banks"
-      ]
-    },
-    {
-      "blanked": "'Toxic' box office collection Day 4 [LIVE]: ______ and Kiara Advani film races past Rs 182 crore domestic net milestone",
-      "answer": "Yash",
-      "options": [
-        "Yash",
-        "Fall",
-        "Harald",
-        "Calcutta"
-      ]
-    },
-    {
-      "blanked": "HDFC ______ CEO Jagdishan to step down, decides not to seek reappointment",
-      "answer": "Bank",
-      "options": [
-        "Bank",
-        "Kenan",
-        "Party",
-        "Silent"
-      ]
-    },
-    {
-      "blanked": "Nvidia’s AI advantage is moving beyond the ______",
-      "answer": "GPU",
-      "options": [
-        "Kumar",
-        "GPU",
-        "Shah",
-        "Aaryan"
+        "Phone",
+        "Kharges",
+        "Cup",
+        "Simon"
       ]
     }
   ]
