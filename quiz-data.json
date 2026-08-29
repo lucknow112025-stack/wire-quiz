@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-29T09:33:32.192Z",
+  "generatedAt": "2026-08-29T09:48:19.354Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
     "Nepal flash floods LIVE updates: Risk of lake 'burst' near border disaster site wanes, China says; death toll crosses 620",
     "Looking to advance India’s vision for region free from terror, says PM Modi as he embarks on visit to Uzbekistan, Kyrgyzstan",
+    "Trump announces ‘biggest oil deal in world history’ with Venezuela",
     "'Suddhikaran another name for untouchability': Rahul Gandhi accuses BJP, RSS of discrimination against Kh",
     "Oneness or Hindu supremacy? RSS chief Bhagwat’s secretive New York hosts",
-    "Congress alleges Penguin India succumbed to ‘pressure’ to demand changes in Sonia memoir",
-    "'Biggest deal in world history': Trump says US secured 65 billion barrels of Venezuelan oil | World News",
+    "42 years on, Sukumara Kurup mystery returns with Brunei ‘sighting’ — and a photo twist",
     "AIMIM Expels MLC Mirza Rahmath Baig with Immediate Effect",
-    "Chatroo Kishtwar minor’s death case: Health worker arrested, total accused reach six",
-    "‘Escalation’, ‘threatening slogans’: IIT Delhi director warns protesting students",
-    "Social media influencer Manjeet Kaur dies after being 'abducted' from Chandigarh, 'tied to tree and set o",
+    "3 Delhi BJP MPs Visit Sajjan Kumar's House. Then Party Chief's Big Action",
+    "Food Body Officer Cornered, Forced To Eat Expired Biscuits Over Bribery Allegations In Maharashtra",
+    "Congress Leader Blocks Kerala Chief Minister's Convoy, Argues With Him",
     "War weighs on Iran's economy as US intensifies sanctions",
-    "US revises statements suggesting Chinese hackers attacked agencies",
+    "Canada hits back at Trump’s latest tariffs with up to 50% duties and $5.4 billion package for workers...",
     "Xi's purge hits General who commanded PLA at Doklam, Galwan against India",
-    "Canada May Change Street Named After Trump To 'Taco Avenue' Amid Lake Ontario Row",
+    "US revises statements suggesting Chinese hackers attacked agencies",
     "Mint Explainer | Banks recover 1% in personal guarantor cases; Subhash Chandra case said to involve associate companies",
     "Temasek backs Singapore Airlines' Air India investment amid growing scrutiny",
     "OpenAI to cut off AI models for SpaceX-owned Cursor, escalating feud with Musk",
-    "Jio Platforms gets Sebi nod for 37.7k cr IPO, set to be India's biggest",
+    "Gold prices shed about 3% on hawkish Warsh at Jackson Hole, set for weekly decline",
     "iPhone 18 Pro, Foldable iPhone Ultra and More: Apple Products Expected Next Month",
-    "'Grand Theft Auto 6' Extended in-game footage unveiled",
+    "‘GTA 6’ gameplay revealed: Rockstar unveils first official look at new features, map and gameplay",
     "Xbox CEO Says Project Helix Includes a 'Family of Devices'",
     "Deals: the Galaxy S26 FE is on pre-order, but the S26+ is cheaper - several Pocos are cheaper too - GSMArena.com news",
     "'Toxic: A Fairy Tale for Grown-ups' box office collection day 3: Yash-Nayanthara starrer sees 29.3 percen",
-    "Dolly Parton's funeral: Family gather for singer's burial at Nashville site; to be laid to rest beside hu",
-    "Hi Box Office Collection Day 1: Nayanthara's Romance Drama Opens 97% Lower Than Mana Shankara Vara Prasad Garu"
+    "Hi Box Office Collection Day 1: Nayanthara's Romance Drama Opens 97% Lower Than Mana Shankara Vara Prasad Garu",
+    "Samantha Ruth Prabhu Shares How Much Weight She Has Gained During Pregnancy"
   ],
   "quiz": [
     {
-      "blanked": "Social media influencer ______ Kaur dies after being 'abducted' from Chandigarh, 'tied to tree and set o",
-      "answer": "Manjeet",
+      "blanked": "3 Delhi BJP MPs Visit Sajjan Kumar's House. Then Party ______ Big Action",
+      "answer": "Chiefs",
       "options": [
-        "97%",
-        "Devices",
-        "Manjeet",
-        "Moon"
-      ]
-    },
-    {
-      "blanked": "Trump praises ______ astronaut Anil Menon, invites crew to Oval Office",
-      "answer": "Indian-origin",
-      "options": [
-        "Changes",
-        "India",
-        "Indian-origin",
-        "Shares"
-      ]
-    },
-    {
-      "blanked": "Xi's purge hits General who commanded PLA at ______ Galwan against India",
-      "answer": "Doklam",
-      "options": [
-        "Doklam",
+        "Chief",
         "Suryakumar",
-        "Falcon",
-        "Baig"
+        "Baig",
+        "Chiefs"
       ]
     },
     {
-      "blanked": "Nancy Grace Roman Telescope live updates: SpaceX readying ______ for launch aboard Falcon Heavy rocket",
-      "answer": "Roman",
+      "blanked": "‘GTA 6’ gameplay revealed: ______ unveils first official look at new features, map and gameplay",
+      "answer": "Rockstar",
       "options": [
-        "Air",
-        "During",
-        "Roman",
-        "Garu"
-      ]
-    },
-    {
-      "blanked": "Congress alleges ______ India succumbed to ‘pressure’ to demand changes in Sonia memoir",
-      "answer": "Penguin",
-      "options": [
-        "Moon",
-        "Grown-ups",
-        "Apple",
-        "Penguin"
-      ]
-    },
-    {
-      "blanked": "Placental Epigenetic Changes Link to Persistent Food ______",
-      "answer": "Allergy",
-      "options": [
-        "China",
-        "Atletico",
-        "Allergy",
-        "Nayantharas"
-      ]
-    },
-    {
-      "blanked": "Hi Box ______ Collection Day 1: Nayanthara's Romance Drama Opens 97% Lower Than Mana Shankara Vara Prasad Garu",
-      "answer": "Office",
-      "options": [
-        "Office",
-        "Drama",
+        "Telescope",
         "Ultra",
+        "Rockstar",
         "Rahul"
       ]
     },
     {
-      "blanked": "The agony of ______ — the condition that made me plot my own death",
-      "answer": "PMDD",
+      "blanked": "Temasek backs Singapore ______ Air India investment amid growing scrutiny",
+      "answer": "Airlines",
       "options": [
-        "Chandra",
-        "Partons",
-        "PMDD",
-        "LIVE"
-      ]
-    },
-    {
-      "blanked": "‘Escalation’, ‘threatening slogans’: ______ Delhi director warns protesting students",
-      "answer": "IIT",
-      "options": [
-        "IIT",
-        "Health",
-        "Chandra",
-        "Weight"
-      ]
-    },
-    {
-      "blanked": "What’s going on with Julian ______ after Atletico block transfer to Barcelona?",
-      "answer": "Alvarez",
-      "options": [
-        "Suns",
-        "Pregnancy",
-        "Ultra",
-        "Alvarez"
+        "SpaceX",
+        "Airlines",
+        "Sharmas",
+        "Allergy"
       ]
     },
     {
       "blanked": "Nepal flash floods LIVE updates: Risk of lake 'burst' near border disaster site wanes, China says; death toll crosses ______",
       "answer": "620",
       "options": [
+        "Visit",
         "620",
-        "Avenue",
-        "Explainer",
-        "IIT"
+        "Gandhi",
+        "Delhi"
+      ]
+    },
+    {
+      "blanked": "Xbox ______ Says Project Helix Includes a 'Family of Devices'",
+      "answer": "CEO",
+      "options": [
+        "Box",
+        "CEO",
+        "Solar",
+        "Party"
+      ]
+    },
+    {
+      "blanked": "Food Body Officer Cornered, ______ To Eat Expired Biscuits Over Bribery Allegations In Maharashtra",
+      "answer": "Forced",
+      "options": [
+        "Forced",
+        "Kyrgyzstan",
+        "Suns",
+        "Subhash"
+      ]
+    },
+    {
+      "blanked": "42 years on, Sukumara Kurup mystery returns with ______ ‘sighting’ — and a photo twist",
+      "answer": "Brunei",
+      "options": [
+        "MLC",
+        "Kyrgyzstan",
+        "Brunei",
+        "Irans"
+      ]
+    },
+    {
+      "blanked": "Photos: ______ part and make way for deep lunar eclipse",
+      "answer": "Clouds",
+      "options": [
+        "Barcelona",
+        "PMDD",
+        "During",
+        "Clouds"
+      ]
+    },
+    {
+      "blanked": "PCB considered pulling players out of Test against England after Sky aired interview with Imran ______ sons",
+      "answer": "Khans",
+      "options": [
+        "Vara",
+        "Khans",
+        "Then",
+        "Day"
+      ]
+    },
+    {
+      "blanked": "Xi's purge hits General who commanded PLA at Doklam, ______ against India",
+      "answer": "Galwan",
+      "options": [
+        "97%",
+        "Hindu",
+        "620",
+        "Galwan"
       ]
     },
     {
       "blanked": "Mint Explainer | Banks recover 1% in personal guarantor cases; Subhash ______ case said to involve associate companies",
       "answer": "Chandra",
       "options": [
+        "Uzbekistan",
         "Chandra",
-        "Tale",
-        "Trump",
-        "Gandhi"
+        "Air",
+        "Imran"
+      ]
+    },
+    {
+      "blanked": "Aditya-L1 catches Sun's early warning signs before ______ flares",
+      "answer": "Solar",
+      "options": [
+        "Solar",
+        "Gained",
+        "Expected",
+        "World"
       ]
     }
   ]
