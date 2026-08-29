@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-29T08:18:34.760Z",
+  "generatedAt": "2026-08-29T08:33:34.070Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
+    "'Suddhikaran another name for untouchability': Rahul Gandhi accuses BJP, RSS of discrimination against Kh",
     "Nepal flash floods LIVE updates: Death toll rises to 623; Over 2,400 missing in Nepal, China",
     "Looking to advance India’s vision for region free from terror, says PM Modi as he embarks on visit to Uzbekistan, Kyrgyzstan",
     "Trump announces ‘biggest oil deal in world history’ with Venezuela",
     "War weighs on Iran's economy as US intensifies sanctions",
-    "'RSS does not represent us': US-based Hindu group among 61 organisations protesting Mohan Bhagwat's NYC event | India News",
-    "India signs deal with US to buy Javelin anti-tank missile systems",
-    "'Suddhikaran another name for untouchability': Rahul Gandhi accuses BJP, RSS of discrimination against Kh",
+    "Oneness or Hindu supremacy? RSS chief Bhagwat’s secretive New York hosts",
+    "\"There's Pressure\": Congress vs BJP As Penguin India Drops Sonia Gandhi's Memoir",
+    "AIMIM Expels MLC Mirza Rahmath Baig with Immediate Effect",
     "Food Body Officer Cornered, Forced To Eat Expired Biscuits Over Bribery Allegations In Maharashtra",
-    "Penguin Random House India says it is not publisher of Sonia Gandhi’s memoir",
-    "‘Escalation’, ‘threatening slogans’: IIT Delhi director warns protesting students",
+    "Congress Leader Blocks Kerala Chief Minister's Convoy, Argues With Him",
     "Nepal Counted Flood Victims. Thieves Counted Lakhs From Safe Swept In Floods",
     "US revises statements suggesting Chinese hackers attacked agencies",
-    "Canada hits back at Trump’s latest tariffs with up to 50% duties and $5.4 billion package for workers...",
-    "'Name dates back 400 years': Canada's Carney rejects Trump's 'Lake Ontario' name change to 'Lake America'",
+    "\"We Got Attacked\": Canada's Carney Says US Launched 'Trade War'",
+    "Xi's purge hits General who commanded PLA at Doklam, Galwan against India",
     "Mint Explainer | Banks recover 1% in personal guarantor cases; Subhash Chandra case said to involve associate companies",
-    "OpenAI to end agreement with SpaceX's AI coding tool Cursor, deepening Musk-Altman clash",
+    "OpenAI to cut off AI models for SpaceX-owned Cursor, escalating feud with Musk",
+    "FDA cancels drug sale licences of Cipla Pharma & Life Sciences' Pune Carry and Forwarding unit",
     "Jio Platforms gets Sebi nod for 37.7k cr IPO, set to be India's biggest",
-    "Why India's Biggest Stocks Stopped Working: Three Top Investors, One Verdict",
     "'GTA 6' Release Details: Everything We Know About 'Grand Theft Auto VI'",
     "iPhone 18 Pro, Foldable iPhone Ultra and More: Apple Products Expected Next Month",
     "Xbox CEO Says Project Helix Includes a 'Family of Devices'",
-    "Apple iPhone 17 Pro price on Flipkart drops to Rs 90,900 with iPhone 15 exchange and bank discount",
+    "Google Releases Chrome 152 With Fixes For 327 Security Flaws, Including 10 Critical Bugs",
     "Toxic Box Office Collection Day 3 Live Updates: Yash film earns Rs 221 cr despite drop, trails KGF 2 by Rs 120 cr",
-    "Samantha Ruth Prabhu Shares How Much Weight She Has Gained During Pregnancy",
-    "Orry warns Samay Raina on 'India's Got Latent 2':'Aukaat mein raho, tum andar jaayega toh tum bahar nahi"
+    "Dolly Parton's funeral: Family gather for singer's burial at Nashville site; to be laid to rest beside hu",
+    "Samantha Ruth Prabhu Shares How Much Weight She Has Gained During Pregnancy"
   ],
   "quiz": [
-    {
-      "blanked": "'GTA 6' Release Details: Everything We Know About ______ Theft Auto VI'",
-      "answer": "Grand",
-      "options": [
-        "Barcelona",
-        "Grand",
-        "China",
-        "Expected"
-      ]
-    },
-    {
-      "blanked": "Hockey India rewards women’s team with Rs 50 lakh after historic fifth-place World ______ finish",
-      "answer": "Cup",
-      "options": [
-        "Moon",
-        "Indian-origin",
-        "Cup",
-        "400"
-      ]
-    },
-    {
-      "blanked": "Jio Platforms gets Sebi nod for 37.7k cr IPO, set to be ______ biggest",
-      "answer": "Indias",
-      "options": [
-        "Indias",
-        "Modi",
-        "Ontario",
-        "Swept"
-      ]
-    },
-    {
-      "blanked": "Nancy Grace Roman Telescope live updates: SpaceX readying ______ for launch aboard Falcon Heavy rocket",
-      "answer": "Roman",
-      "options": [
-        "India",
-        "Roman",
-        "Yash",
-        "Death"
-      ]
-    },
-    {
-      "blanked": "Apple iPhone 17 Pro price on ______ drops to Rs 90,900 with iPhone 15 exchange and bank discount",
-      "answer": "Flipkart",
-      "options": [
-        "England",
-        "Flipkart",
-        "Vishnu",
-        "Foldable"
-      ]
-    },
-    {
-      "blanked": "Trump praises Indian-origin astronaut Anil Menon, invites crew to ______ Office",
-      "answer": "Oval",
-      "options": [
-        "Biscuits",
-        "Oval",
-        "Latent",
-        "China"
-      ]
-    },
-    {
-      "blanked": "Food Body Officer Cornered, Forced To Eat Expired ______ Over Bribery Allegations In Maharashtra",
-      "answer": "Biscuits",
-      "options": [
-        "Biscuits",
-        "Eat",
-        "Chandra",
-        "Edavans"
-      ]
-    },
-    {
-      "blanked": "iPhone 18 Pro, Foldable iPhone Ultra and More: ______ Products Expected Next Month",
-      "answer": "Apple",
-      "options": [
-        "Apple",
-        "Nepal",
-        "Yadav",
-        "SpaceXs"
-      ]
-    },
-    {
-      "blanked": "Nepal flash floods LIVE updates: Death toll rises to 623; Over ______ missing in Nepal, China",
-      "answer": "2400",
-      "options": [
-        "Allegations",
-        "120",
-        "2400",
-        "Box"
-      ]
-    },
-    {
-      "blanked": "OpenAI to end agreement with SpaceX's AI coding tool ______ deepening Musk-Altman clash",
-      "answer": "Cursor",
-      "options": [
-        "Stroke",
-        "Cursor",
-        "One",
-        "Irans"
-      ]
-    },
     {
       "blanked": "The agony of ______ — the condition that made me plot my own death",
       "answer": "PMDD",
       "options": [
-        "Anil",
         "PMDD",
-        "Mohan",
-        "House"
+        "Forwarding",
+        "Immediate",
+        "York"
       ]
     },
     {
-      "blanked": "'Name dates back 400 years': Canada's ______ rejects Trump's 'Lake Ontario' name change to 'Lake America'",
-      "answer": "Carney",
+      "blanked": "\"There's Pressure\": Congress vs BJP As Penguin India Drops Sonia Gandhi's ______",
+      "answer": "Memoir",
       "options": [
-        "Shares",
-        "Allegations",
-        "Hindu",
-        "Carney"
+        "Live",
+        "Helix",
+        "Memoir",
+        "Alvarez"
+      ]
+    },
+    {
+      "blanked": "Congress Leader ______ Kerala Chief Minister's Convoy, Argues With Him",
+      "answer": "Blocks",
+      "options": [
+        "How",
+        "Blocks",
+        "Sonia",
+        "Cup"
+      ]
+    },
+    {
+      "blanked": "Looking to advance ______ vision for region free from terror, says PM Modi as he embarks on visit to Uzbekistan, Kyrgyzstan",
+      "answer": "Indias",
+      "options": [
+        "Imran",
+        "Indias",
+        "Irans",
+        "Updates"
+      ]
+    },
+    {
+      "blanked": "Google Releases Chrome 152 With Fixes For 327 Security Flaws, ______ 10 Critical Bugs",
+      "answer": "Including",
+      "options": [
+        "York",
+        "Kerala",
+        "Including",
+        "Explainer"
+      ]
+    },
+    {
+      "blanked": "OpenAI to cut off AI models for SpaceX-owned Cursor, escalating feud with ______",
+      "answer": "Musk",
+      "options": [
+        "Musk",
+        "Collection",
+        "China",
+        "Yash"
+      ]
+    },
+    {
+      "blanked": "Nancy Grace ______ Telescope live updates: SpaceX readying Roman for launch aboard Falcon Heavy rocket",
+      "answer": "Roman",
+      "options": [
+        "Roman",
+        "Convoy",
+        "Nashville",
+        "Julian"
+      ]
+    },
+    {
+      "blanked": "PCB considered pulling players out of Test against England after ______ aired interview with Imran Khan’s sons",
+      "answer": "Sky",
+      "options": [
+        "Sky",
+        "Bhagwats",
+        "Has",
+        "Updates"
+      ]
+    },
+    {
+      "blanked": "Trump hails ______ astronaut Anil Menon",
+      "answer": "Indian-origin",
+      "options": [
+        "Details",
+        "Aayega",
+        "Indian-origin",
+        "Chrome"
+      ]
+    },
+    {
+      "blanked": "Physical ______ Linked to Lower Stroke Risk in Atrial Fibrillation",
+      "answer": "Activity",
+      "options": [
+        "Activity",
+        "Latent",
+        "2400",
+        "Forwarding"
+      ]
+    },
+    {
+      "blanked": "Why ______ target Julian Alvarez does not want to sign for Arsenal",
+      "answer": "Barcelona",
+      "options": [
+        "Critical",
+        "Pharma",
+        "Barcelona",
+        "Anil"
+      ]
+    },
+    {
+      "blanked": "'GTA 6' Release Details: Everything We ______ About 'Grand Theft Auto VI'",
+      "answer": "Know",
+      "options": [
+        "Penguin",
+        "Expected",
+        "Know",
+        "Flood"
       ]
     }
   ]
