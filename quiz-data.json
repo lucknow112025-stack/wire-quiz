@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-29T02:03:24.883Z",
+  "generatedAt": "2026-08-29T02:18:20.493Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
     "Fresh glacial lakes form at source of Nepal’s ice-rock avalanche",
-    "Iran lashes out at US sanctions amid economic toll at home",
-    "'RSS does not represent us': US-based Hindu group among 61 organisations protesting Mohan Bhagwat's NYC event | India News",
-    "'Not Publishing Sonia Gandhi's Book, Were Keen To': Penguin On 'Belonging'",
-    "PM Modi heads to Uzbekistan, SCO; meet with Putin on the cards | India News",
-    "Chinese rescue team finds 'nothing but ruins' at flood-hit Himalayan border crossing",
-    "B Nagendra Redux: 2 Years, 2 Resignations, 2 Different Chief Ministers",
-    "Spider-Man, Motu-Patlu, And A Greek Drama: BJP Casts Insta Meme Net For Gen-Z Attention",
-    "Nepal Tragedy Triggers Political Spat Between Ruling TVK, DMK In Tamil Nadu Assembly",
-    "Remains of 4 Nagas Killed in Attack Brought to Senapati District Hospital",
     "Trump Announces \"Biggest Oil Deal In World History\" With Venezuela",
-    "Barron Trump Living Reclusive Life Amid Security Fears, Doesn't Go Out: Report",
+    "'RSS does not represent us': US-based Hindu group among 61 organisations protesting Mohan Bhagwat's NYC event | India News",
+    "Iran lashes out at US sanctions amid economic toll at home",
+    "Penguin drops Sonia Gandhi’s memoir after she rejected ‘changes, deletions’",
+    "PM Modi heads to Uzbekistan, SCO; meet with Putin on the cards | India News",
+    "Spider-Man, Motu-Patlu, And A Greek Drama: BJP Casts Insta Meme Net For Gen-Z Attention",
+    "Valmiki scam: Karnataka minister B Nagendra resigns; breaks down on camera",
+    "'No Compliance While Terror Continues': Sources Hit Back At Pakistan's Ishaq Dar On Indus Waters",
+    "Nepal Tragedy Triggers Political Spat Between Ruling TVK, DMK In Tamil Nadu Assembly",
     "Syria President Appoints Kurdish Leader Mazloum Abdi As His Adviser",
     "With nod to India, Canadian FM talks 'diversification' amid US trade war: 'You'll know why I have such a...",
+    "US President Donald Trump says Russian counterpart Vladimir Putin will not attack NATO territory",
+    "Norway's King Harald dies after more than three decades on throne; Prince Haakon takes over",
     "Jio Platforms gets Sebi nod for 37.7k cr IPO, set to be India's biggest",
-    "Fed Chair Kevin Warsh warns inflation isn’t slowing, vows to hit Fed’s 2% target",
+    "CNG To Get Costlier By Rs 3.89, Says IGL. Price In Delhi Nears Rs 87/kg",
     "Fake Sales, Round-Tripping, 1,700% Stock Surge: SEBI Uncovers Debock's Pump-And-Dump Scheme",
     "Mahindra XEV 9S BaaS Launch Price Rs 12.65 L - XEV 9e Rs 13.90 L",
-    "'GTA 6' Release Details: Everything We Know About 'Grand Theft Auto VI'",
+    "‘GTA 6’ gameplay revealed: Rockstar unveils first official look at new features, map and gameplay",
     "iPhone 18 Pro, Foldable iPhone Ultra and More: Apple Products Expected Next Month",
     "Sony's new Bravia 6 TVs take on entry-level OLEDs",
     "Garmin Fenix 9 vs Fenix 9 Pro: Display, Battery and Satellite Features",
     "'Toxic: A Fairy Tale for Grown-ups' box office collection day 3: Yash-Nayanthara starrer sees 29.3 percent decline; mints Rs 23.75 crore overseas",
     "Dolly Parton grew up with 11 siblings in a two-room Tennessee cabin without electricity or running water;",
-    "Madhu Chopra Reacts To Kriti Sanon's Rakhi Ad Row, Defends Priyanka Chopra's Bold Outfits"
+    "Horoscope Today: August 29, 2026"
   ],
   "quiz": [
     {
-      "blanked": "PCB considered pulling players out of Test against England after ______ aired interview with Imran Khan’s sons",
-      "answer": "Sky",
+      "blanked": "Western ______ frogs sort by size to coexist, study finds",
+      "answer": "Ghats",
       "options": [
-        "Sky",
-        "Risk",
-        "SEBI",
-        "Stroke"
+        "Display",
+        "Uzbekistan",
+        "Net",
+        "Ghats"
       ]
     },
     {
-      "blanked": "Fed ______ Kevin Warsh warns inflation isn’t slowing, vows to hit Fed’s 2% target",
-      "answer": "Chair",
+      "blanked": "Syria President Appoints Kurdish ______ Mazloum Abdi As His Adviser",
+      "answer": "Leader",
       "options": [
+        "Uzbekistan",
+        "Leader",
+        "Surge",
+        "Harmanpreets"
+      ]
+    },
+    {
+      "blanked": "With nod to India, Canadian FM talks 'diversification' amid US trade war: ______ know why I have such a...",
+      "answer": "Youll",
+      "options": [
+        "Solar",
+        "Canadian",
+        "Indian",
+        "Youll"
+      ]
+    },
+    {
+      "blanked": "US President Donald ______ says Russian counterpart Vladimir Putin will not attack NATO territory",
+      "answer": "Trump",
+      "options": [
+        "Trump",
+        "Gen-Z",
+        "While",
+        "Platforms"
+      ]
+    },
+    {
+      "blanked": "Dolly ______ grew up with 11 siblings in a two-room Tennessee cabin without electricity or running water;",
+      "answer": "Parton",
+      "options": [
+        "Display",
         "Parton",
-        "Chair",
+        "Russian",
+        "IPO"
+      ]
+    },
+    {
+      "blanked": "‘GTA 6’ gameplay revealed: ______ unveils first official look at new features, map and gameplay",
+      "answer": "Rockstar",
+      "options": [
+        "Terror",
+        "England",
+        "Rockstar",
+        "Spat"
+      ]
+    },
+    {
+      "blanked": "iPhone 18 Pro, Foldable iPhone Ultra and ______ Apple Products Expected Next Month",
+      "answer": "More",
+      "options": [
+        "More",
+        "Net",
+        "Pakistans",
+        "Nepals"
+      ]
+    },
+    {
+      "blanked": "‘Hi’ movie review: Kavin, Nayanthara anchor ______ Edavan’s old-school wholesome entertainer",
+      "answer": "Vishnu",
+      "options": [
+        "Bangar",
+        "XEV",
+        "Vishnu",
+        "Dar"
+      ]
+    },
+    {
+      "blanked": "Jio ______ gets Sebi nod for 37.7k cr IPO, set to be India's biggest",
+      "answer": "Platforms",
+      "options": [
+        "NATO",
+        "12.65",
+        "Pump-And-Dump",
+        "Platforms"
+      ]
+    },
+    {
+      "blanked": "Trump Announces \"Biggest Oil ______ In World History\" With Venezuela",
+      "answer": "Deal",
+      "options": [
+        "PMDD",
+        "Assembly",
+        "Political",
+        "Deal"
+      ]
+    },
+    {
+      "blanked": "India’s Solar ambitions: ______ by Aditya-Li valuable to Science",
+      "answer": "Findings",
+      "options": [
+        "Cricket",
+        "Expected",
+        "Findings",
+        "Nepals"
+      ]
+    },
+    {
+      "blanked": "Nepal Tragedy Triggers Political Spat Between Ruling TVK, ______ In Tamil Nadu Assembly",
+      "answer": "DMK",
+      "options": [
+        "Apple",
+        "Yash-Nayanthara",
         "DMK",
-        "Belgium"
-      ]
-    },
-    {
-      "blanked": "Nepal Tragedy Triggers Political Spat Between Ruling TVK, DMK In Tamil Nadu ______",
-      "answer": "Assembly",
-      "options": [
-        "Appoints",
-        "Hospital",
-        "Assembly",
-        "Expected"
-      ]
-    },
-    {
-      "blanked": "Hockey ______ Cup: Belgium break Indian hearts in shootout as Harmanpreet’s side finishes eighth",
-      "answer": "World",
-      "options": [
-        "Bravia",
-        "Greek",
-        "Resignations",
-        "World"
-      ]
-    },
-    {
-      "blanked": "'RSS does not represent us': US-based Hindu group among 61 organisations protesting Mohan Bhagwat's ______ event | India News",
-      "answer": "NYC",
-      "options": [
-        "Auto",
-        "Price",
-        "NYC",
-        "Activity"
-      ]
-    },
-    {
-      "blanked": "Jio Platforms gets ______ nod for 37.7k cr IPO, set to be India's biggest",
-      "answer": "Sebi",
-      "options": [
-        "Kevin",
-        "Uncovers",
-        "1700%",
-        "Sebi"
-      ]
-    },
-    {
-      "blanked": "Here's your ______ Connections hint today for Friday Aug 28",
-      "answer": "NYT",
-      "options": [
-        "Activity",
-        "NYT",
-        "Atrial",
-        "Launch"
-      ]
-    },
-    {
-      "blanked": "With nod to ______ Canadian FM talks 'diversification' amid US trade war: 'You'll know why I have such a...",
-      "answer": "India",
-      "options": [
-        "Tamil",
-        "Assembly",
-        "India",
-        "Sanons"
-      ]
-    },
-    {
-      "blanked": "'Not Publishing Sonia Gandhi's Book, Were Keen To': ______ On 'Belonging'",
-      "answer": "Penguin",
-      "options": [
-        "Assembly",
-        "Penguin",
-        "Youll",
-        "Tamil"
-      ]
-    },
-    {
-      "blanked": "Photos: ______ part and make way for deep lunar eclipse",
-      "answer": "Clouds",
-      "options": [
-        "Harmanpreets",
-        "Test",
-        "Pro",
-        "Clouds"
-      ]
-    },
-    {
-      "blanked": "Remains of 4 Nagas ______ in Attack Brought to Senapati District Hospital",
-      "answer": "Killed",
-      "options": [
-        "Deal",
-        "Killed",
-        "Modi",
-        "Khans"
-      ]
-    },
-    {
-      "blanked": "What Every Indian Woman in Her 30s and 40s Needs to Know About ______",
-      "answer": "Perimenopause",
-      "options": [
-        "Perimenopause",
-        "India",
-        "Defends",
-        "Month"
+        "12.65"
       ]
     }
   ]
