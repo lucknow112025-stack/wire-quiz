@@ -1,26 +1,26 @@
 {
-  "generatedAt": "2026-08-29T07:18:24.941Z",
+  "generatedAt": "2026-08-29T07:33:23.840Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
     "Nepal flash floods LIVE updates: Death toll rises to 623; Over 2,400 missing in Nepal, China",
     "Trump announces ‘biggest oil deal in world history’ with Venezuela",
-    "PM Modi heads to Uzbekistan, SCO; meet with Putin on the cards | India News",
-    "Penguin drops Sonia Gandhi’s memoir after she rejected ‘changes, deletions’",
     "War weighs on Iran's economy as US intensifies sanctions",
+    "PM Modi heads to Uzbekistan, SCO; meet with Putin on the cards | India News",
     "India signs deal with US to buy Javelin anti-tank missile systems",
+    "Penguin drops Sonia Gandhi’s memoir after she rejected ‘changes, deletions’",
     "Food Body Officer Cornered, Forced To Eat Expired Biscuits Over Bribery Allegations In Maharashtra",
-    "‘Abducted, tied to tree and set on fire’: Chandigarh influencer, 28, dies after weeks in hospital | Hindustan Times",
-    "‘Escalation’, ‘threatening slogans’: IIT Delhi director warns protesting students",
-    "Nepal flash flood: No trace of 66 Maharashtra pilgrims yet, families’ uncertainty grows",
-    "Boy, 8, Reunites With Mother After Surviving Nepal Floods By Climbing Trees",
+    "Social media influencer Manjeet Kaur dies after being 'abducted' from Chandigarh, 'tied to tree and set on fire'",
+    "No word from Thane couple on first trip to Nepal, kin await clarity",
+    "Delhi ‘spy couple’ sent SIM cards to Pakistan. ISI used them to enter Indian WhatsApp groups | India News",
     "US revises statements suggesting Chinese hackers attacked agencies",
+    "US-Israel war on Iran, six months down the line: In numbers",
     "'Name dates back 400 years': Canada's Carney rejects Trump's 'Lake Ontario' name change to 'Lake America'",
-    "Hero border cop missing, helped people escape as flood swept away Gyirong port",
+    "Men pull Nepal flood victim by hair, steal gold earrings, bystanders film act",
     "Mint Explainer | Banks recover 1% in personal guarantor cases; Subhash Chandra case said to involve associate companies",
     "OpenAI to end agreement with SpaceX's AI coding tool Cursor, deepening Musk-Altman clash",
+    "Markets News, Aug. 28, 2026: Indexes Close Higher for Week; Marvell Weighs on Tech Stocks; Bond Yields Rise After Warsh Speech",
     "Why India's Biggest Stocks Stopped Working: Three Top Investors, One Verdict",
-    "Gold prices shed about 3% on hawkish Warsh at Jackson Hole, set for weekly decline",
     "'GTA 6' Release Details: Everything We Know About 'Grand Theft Auto VI'",
     "iPhone 18 Pro, Foldable iPhone Ultra and More: Apple Products Expected Next Month",
     "Xbox CEO Says Project Helix Includes a 'Family of Devices'",
@@ -31,123 +31,123 @@
   ],
   "quiz": [
     {
-      "blanked": "Suryakumar Yadav breaks silence on shock India snub after T20 ______ Cup win: ‘Whatever call someone...’",
-      "answer": "World",
+      "blanked": "Penguin drops ______ Gandhi’s memoir after she rejected ‘changes, deletions’",
+      "answer": "Sonia",
       "options": [
-        "Uzbekistan",
-        "Fibrillation",
-        "Trees",
-        "World"
+        "Carney",
+        "Biscuits",
+        "Sonia",
+        "Years"
       ]
     },
     {
-      "blanked": "‘Hi’ movie review: Kavin, Nayanthara anchor ______ Edavan’s old-school wholesome entertainer",
-      "answer": "Vishnu",
+      "blanked": "Trump praises Indian-origin astronaut ______ Menon, invites crew to Oval Office",
+      "answer": "Anil",
       "options": [
+        "Anil",
         "Banks",
-        "Vishnu",
-        "Debuts",
-        "Trees"
-      ]
-    },
-    {
-      "blanked": "BCCI stance on ______ Bill creates confusion within Board",
-      "answer": "Sports",
-      "options": [
-        "2400",
-        "Sports",
-        "Office",
-        "Gained"
-      ]
-    },
-    {
-      "blanked": "India’s Solar ambitions: Findings by Aditya-Li valuable to ______",
-      "answer": "Science",
-      "options": [
-        "IIT",
-        "Science",
-        "Khans",
-        "Atrial"
-      ]
-    },
-    {
-      "blanked": "Hockey India rewards women’s team with Rs 50 lakh after historic fifth-place ______ Cup finish",
-      "answer": "World",
-      "options": [
-        "World",
-        "Investors",
-        "Stroke",
-        "Foldable"
-      ]
-    },
-    {
-      "blanked": "US revises statements suggesting ______ hackers attacked agencies",
-      "answer": "Chinese",
-      "options": [
-        "Chinese",
-        "Chandigarh",
-        "Latent",
-        "29.3"
-      ]
-    },
-    {
-      "blanked": "India signs deal with US to buy ______ anti-tank missile systems",
-      "answer": "Javelin",
-      "options": [
-        "Javelin",
-        "Shares",
-        "Times",
-        "Science"
-      ]
-    },
-    {
-      "blanked": "Nepal flash flood: No trace of 66 ______ pilgrims yet, families’ uncertainty grows",
-      "answer": "Maharashtra",
-      "options": [
-        "Maharashtra",
-        "Grown-ups",
-        "India",
-        "Telescope"
-      ]
-    },
-    {
-      "blanked": "‘Abducted, tied to tree and set on fire’: Chandigarh influencer, 28, dies after weeks in hospital | ______ Times",
-      "answer": "Hindustan",
-      "options": [
-        "Oval",
-        "Stocks",
-        "Hindustan",
-        "Science"
-      ]
-    },
-    {
-      "blanked": "'GTA 6' Release Details: Everything We ______ About 'Grand Theft Auto VI'",
-      "answer": "Know",
-      "options": [
-        "America",
-        "Falcon",
-        "Investors",
-        "Know"
-      ]
-    },
-    {
-      "blanked": "OpenAI to end agreement with SpaceX's AI coding tool ______ deepening Musk-Altman clash",
-      "answer": "Cursor",
-      "options": [
-        "Cursor",
-        "Know",
-        "Science",
-        "Banks"
+        "Canadas",
+        "Helix"
       ]
     },
     {
       "blanked": "Trump announces ‘biggest oil deal in world history’ with ______",
       "answer": "Venezuela",
       "options": [
+        "Sports",
+        "Venezuela",
+        "Maharashtra",
+        "Latent"
+      ]
+    },
+    {
+      "blanked": "Samantha Ruth Prabhu Shares How Much Weight ______ Has Gained During Pregnancy",
+      "answer": "She",
+      "options": [
+        "Indexes",
+        "Test",
+        "She",
+        "CEO"
+      ]
+    },
+    {
+      "blanked": "US revises statements suggesting ______ hackers attacked agencies",
+      "answer": "Chinese",
+      "options": [
+        "SpaceX",
+        "Know",
+        "PMDD",
+        "Chinese"
+      ]
+    },
+    {
+      "blanked": "Mint Explainer | Banks recover 1% in personal guarantor cases; ______ Chandra case said to involve associate companies",
+      "answer": "Subhash",
+      "options": [
+        "Falcon",
+        "Subhash",
+        "Expected",
+        "Expired"
+      ]
+    },
+    {
+      "blanked": "Why India's Biggest Stocks Stopped Working: Three Top Investors, ______ Verdict",
+      "answer": "One",
+      "options": [
+        "One",
+        "Office",
+        "Investors",
+        "Subhash"
+      ]
+    },
+    {
+      "blanked": "Delhi ‘spy couple’ sent SIM cards to Pakistan. ISI used them to enter ______ WhatsApp groups | India News",
+      "answer": "Indian",
+      "options": [
+        "Devices",
+        "Indian",
+        "Ruth",
+        "Anil"
+      ]
+    },
+    {
+      "blanked": "Orry warns Samay Raina on 'India's ______ Latent 2':'Aukaat mein raho, tum andar jaayega toh tum bahar nahi",
+      "answer": "Got",
+      "options": [
         "Pregnancy",
         "Ruth",
-        "Death",
-        "Venezuela"
+        "Cursor",
+        "Got"
+      ]
+    },
+    {
+      "blanked": "The agony of ______ — the condition that made me plot my own death",
+      "answer": "PMDD",
+      "options": [
+        "Nayanthara",
+        "PMDD",
+        "Khans",
+        "Foldable"
+      ]
+    },
+    {
+      "blanked": "‘Hi’ movie review: ______ Nayanthara anchor Vishnu Edavan’s old-school wholesome entertainer",
+      "answer": "Kavin",
+      "options": [
+        "Eat",
+        "Pregnancy",
+        "Kavin",
+        "29.3"
+      ]
+    },
+    {
+      "blanked": "iPhone 18 Pro, Foldable iPhone Ultra and More: Apple ______ Expected Next Month",
+      "answer": "Products",
+      "options": [
+        "Products",
+        "Pregnancy",
+        "She",
+        "Cup"
       ]
     }
   ]
