@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-29T14:48:25.759Z",
+  "generatedAt": "2026-08-29T15:03:39.276Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "Nepal flash floods LIVE updates: Heavy rain forecast in flood-affected areas threaten to disrupt rescue ops.; death toll crosses 620",
-    "PM Modi begins four-day Uzbekistan, Kyrgyzstan visit for SCO summit; what's on agenda",
+    "Nepal and China resume flood rescue as death toll surpasses 600",
+    "Looking to advance India’s vision for region free from terror, says PM Modi as he embarks on visit to Uzbekistan, Kyrgyzstan",
     "PM Modi must order filing of FIR, we demand justice: Rahul Gandhi on Kharge’s rally venue ‘purification’ in Uttarakhand",
     "3 Delhi BJP MPs Visit Sajjan Kumar's House. Then Party Chief's Big Action",
     "China removes two top generals from its highest military command | World News",
     "FIR Against Mamata Banerjee For Violating Calcutta HC Order At TMC Event",
     "Samay Raina addresses India’s Got Latent 2 criticism, responds to ‘filtered’ tag: ‘It’s just not the same anymore’ | Bollywood",
+    "BJP Turns Up Meme Heat On Congress, Deploys Satire In Social Media Battle",
+    "Chatroo Kishtwar minor’s death case: Health worker arrested, total accused reach six",
     "Flash floods in Nepal: No contact still with 320 Indians; 400 stranded",
-    "\"You Think You Are A Lord?\" Bombay High Court Slams FDA Officer Over Suspension Of Eateries Of Mumbai...",
-    "Not a good sign when bar council does not earn respect of its members: Supreme Court Justice BV Nagarathna",
-    "37 Killed As Russian Strikes Ukraine's Kyiv, 50 Residential Buildings Damaged",
-    "'Biggest deal in world history': Trump says US secured 65 billion barrels of Venezuelan oil | World News",
-    "CIA Failed To Connect Key Intel Naming 9/11 Mastermind Before Attacks: Report",
-    "Iran’s leaders acknowledge economic toll of war, pledge diplomacy, defence",
+    "Russian strike on Kyiv-area warehouse sparks detonation, killing 37",
+    "Norway mourns King Harald as crowds gather at royal palace",
+    "Zimbabwe minibus carrying church members crashes, killing at least 27",
+    "Oil Deal To Bring $100 Billion Investment, Thousands Of Jobs To Venezuela: Rubio",
     "HDFC Bank CEO Sashidhar Jagdishan to retire on October 26, will not seek reappointment",
     "Union Bank, LIC Housing Fin, Canara Bank challenge NCLT nod to Subhash Chandra resolution plan",
-    "FSSAI bans sale of hing powder by Everest, Laljee Godhoo over sub-standard quality",
+    "GST Council’s 57th meeting on September 12; GST registration simplification for large businesses on...",
     "Temasek backs Singapore Airlines' Air India investment amid growing scrutiny",
-    "Apple TV monthly and annual subscription prices increase in the US - true-tech.net",
-    "QD-OLED goes to esports: Samsung starts mass production of 24.5\" ultra-fast displays",
     "GTA VI Has Over 600,000 Animations Compared To GTA V's 55,000 & Red Dead Redemption 2's 300,000",
     "iPhone 18 Pro Max launch: Here are all the differences we currently know between the iPhone 18 Pro and...",
+    "QD-OLED goes to esports: Samsung starts mass production of 24.5\" ultra-fast displays",
+    "iPhone 17 Pro Max drops to ₹1.05 lakh ahead of iPhone 18 | Tap to know more | Inshorts",
     "'Toxic' box office collection Day 4 [LIVE]: Yash and Kiara Advani film races past Rs 175 crore domestic net milestone",
-    "'DC' OTT release date: When and where to watch the Lokesh Kanagaraj and Wamiqa Gabbi starrer action drama",
-    "King100: Teaser of Nagarjuna starrer unveiled on his birthday; film to clash with Shah Rukh Khan starrer King"
+    "King100: Teaser of Nagarjuna starrer unveiled on his birthday; film to clash with Shah Rukh Khan starrer King",
+    "'DC' OTT release date: When and where to watch the Lokesh Kanagaraj and Wamiqa Gabbi starrer action drama"
   ],
   "quiz": [
     {
-      "blanked": "Leukocyte Telomere Length Shows Limited Value in ______ Cancer",
-      "answer": "Pancreatic",
+      "blanked": "Growth ______ Receptors Signal Schizophrenia Disease Stage",
+      "answer": "Factor",
       "options": [
-        "Pancreatic",
-        "MIA",
-        "Ali",
-        "Against"
+        "Factor",
+        "Chamola",
+        "Billion",
+        "Food"
       ]
     },
     {
-      "blanked": "Placental Epigenetic ______ Link to Persistent Food Allergy",
-      "answer": "Changes",
+      "blanked": "PHOTOS: ______ appears orange due to partial lunar eclipse",
+      "answer": "Moon",
       "options": [
-        "Asian",
-        "Changes",
-        "Pro",
-        "Event"
+        "Moon",
+        "600000",
+        "Food",
+        "Party"
       ]
     },
     {
-      "blanked": "'DC' OTT release date: When and where to watch the Lokesh ______ and Wamiqa Gabbi starrer action drama",
-      "answer": "Kanagaraj",
+      "blanked": "Neeraj Chopra’s 2026 season over after ankle ligament tear, ______ League Final and Asian Games ruled ou",
+      "answer": "Diamond",
       "options": [
-        "Raina",
-        "Hai",
-        "Kanagaraj",
-        "Officer"
+        "Length",
+        "Gabbi",
+        "Diamond",
+        "October"
       ]
     },
     {
-      "blanked": "Flash floods in Nepal: No contact still with ______ Indians; 400 stranded",
-      "answer": "320",
+      "blanked": "Chatroo ______ minor’s death case: Health worker arrested, total accused reach six",
+      "answer": "Kishtwar",
       "options": [
-        "Disease",
-        "320",
-        "You",
-        "Naming"
-      ]
-    },
-    {
-      "blanked": "FIR ______ Mamata Banerjee For Violating Calcutta HC Order At TMC Event",
-      "answer": "Against",
-      "options": [
+        "Kishtwar",
         "Against",
-        "Saif",
-        "Rukh",
-        "Rahul"
+        "Disease",
+        "Uzbekistan"
       ]
     },
     {
-      "blanked": "King100: Teaser of Nagarjuna starrer unveiled on his birthday; film to clash with Shah ______ Khan starrer King",
-      "answer": "Rukh",
+      "blanked": "China removes two top generals from its highest military command | World ______",
+      "answer": "News",
       "options": [
-        "Rukh",
-        "Moon",
-        "Red",
-        "Signal"
+        "Max",
+        "Compared",
+        "News",
+        "Hindustan"
       ]
     },
     {
-      "blanked": "Union Bank, LIC Housing Fin, Canara Bank challenge NCLT nod to Subhash ______ resolution plan",
-      "answer": "Chandra",
+      "blanked": "'DC' OTT release date: ______ and where to watch the Lokesh Kanagaraj and Wamiqa Gabbi starrer action drama",
+      "answer": "When",
       "options": [
-        "Cancer",
-        "Chandra",
-        "Epigenetic",
-        "Everest"
+        "When",
+        "LIC",
+        "October",
+        "Pro"
       ]
     },
     {
-      "blanked": "Not a good sign when bar council does not earn respect of its members: Supreme Court Justice BV ______",
-      "answer": "Nagarathna",
+      "blanked": "Samay Raina addresses India’s Got Latent 2 criticism, responds to ‘filtered’ tag: ‘It’s just not the same anymore’ | ______",
+      "answer": "Bollywood",
       "options": [
-        "Banerjee",
-        "League",
-        "Nagarathna",
-        "ESA"
+        "Bollywood",
+        "Violating",
+        "Factor",
+        "Khanna"
       ]
     },
     {
-      "blanked": "Dil Chahta Hai Turns 25: ______ Khan, Saif Ali Khan And Farhan Akhtar Reunite In Mumbai. MIA - Akshaye Khanna",
-      "answer": "Aamir",
+      "blanked": "Nasa space telescope set to launch after surviving ______ budget cuts",
+      "answer": "Trump",
       "options": [
-        "Laljee",
-        "Russian",
-        "Aamir",
-        "Court"
+        "MPs",
+        "Diamond",
+        "Battle",
+        "Trump"
       ]
     },
     {
-      "blanked": "FSSAI bans sale of hing powder by ______ Laljee Godhoo over sub-standard quality",
-      "answer": "Everest",
+      "blanked": "'Toxic' box office collection Day 4 ______ Yash and Kiara Advani film races past Rs 175 crore domestic net milestone",
+      "answer": "LIVE",
       "options": [
-        "Indians",
-        "Everest",
-        "Telomere",
-        "LIC"
+        "Media",
+        "Pro",
+        "LIVE",
+        "Visit"
       ]
     },
     {
-      "blanked": "Nepal flash floods LIVE updates: ______ rain forecast in flood-affected areas threaten to disrupt rescue ops.; death toll crosses 620",
-      "answer": "Heavy",
+      "blanked": "iPhone 17 Pro Max drops to ₹1.05 lakh ahead of iPhone 18 | Tap to know more | ______",
+      "answer": "Inshorts",
       "options": [
-        "OTT",
-        "Moon",
-        "Failed",
-        "Heavy"
+        "China",
+        "Times",
+        "Inshorts",
+        "Heat"
       ]
     },
     {
-      "blanked": "Amid rising swine flu cases, ______ govt asks hospitals to reserve isolation beds",
-      "answer": "Delhi",
+      "blanked": "Norway mourns King ______ as crowds gather at royal palace",
+      "answer": "Harald",
       "options": [
-        "Delhi",
-        "You",
-        "Samsung",
-        "Mastermind"
+        "Subhash",
+        "Food",
+        "Wamiqa",
+        "Harald"
+      ]
+    },
+    {
+      "blanked": "Looking to advance India’s vision for region free from terror, says PM Modi as he embarks on visit to ______ Kyrgyzstan",
+      "answer": "Uzbekistan",
+      "options": [
+        "Uzbekistan",
+        "India",
+        "Rubio",
+        "24.5"
       ]
     }
   ]
