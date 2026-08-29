@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T04:33:31.224Z",
+  "generatedAt": "2026-08-29T04:48:19.460Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
@@ -9,145 +9,145 @@
     "PM Modi heads to Uzbekistan, SCO; meet with Putin on the cards | India News",
     "Chinese Rescuers Find 'Nothing But Ruins' At Nepal-Tibet Checkpoint Wiped Out By Flash Flood",
     "Penguin drops Sonia Gandhi’s memoir after she rejected ‘changes, deletions’",
+    "SIMs, WhatsApp, Dubai route: How Delhi couple aided Pakistan-linked espionage",
     "B Nagendra Redux: 2 Years, 2 Resignations, 2 Different Chief Ministers",
     "Flash floods in Nepal: No contact still with 320 Indians; 400 stranded",
     "Konda And Revanth Set Egos Aside For Party Unity!",
-    "'No Compliance While Terror Continues': Sources Hit Back At Pakistan's Ishaq Dar On Indus Waters",
-    "Donald Trump Sent CIA Chief To Moscow Secretly. Even Top US Officials Had No Idea",
     "Nepal flash floods LIVE updates: Over 4,400 rescued as Nepal mobilises massive flood relief op., says PM Balen Shah",
     "US revises statements suggesting Chinese hackers attacked agencies",
     "Syria President Appoints Kurdish Leader Mazloum Abdi As His Adviser",
+    "Canada hits back at Trump’s latest tariffs with up to 50% duties and $5.4 billion package for workers...",
+    "US stocks open mixed as Kevin Warsh provides fresh cues for inflation, interest rate and growth",
+    "OpenAI to end partnership with SpaceX's Cursor",
     "Mint Explainer | Banks recover 1% in personal guarantor cases; Subhash Chandra case said to involve associate companies",
-    "CNG To Get Costlier By Rs 3.89, Says IGL. Price In Delhi Nears Rs 87/kg",
-    "Mahindra XEV 9S BaaS Launch Price Rs 12.65 L - XEV 9e Rs 13.90 L",
-    "After Supreme Court Rap, FSSAI Proposes Pictorial Front-of-Pack Warning Labels For Packaged Foods High In ...",
+    "CNG Gets Costlier By Rs 3.89. New Price In Delhi Nears Rs 87 Per Kg",
     "Google Pixel Watch 5 Review: Long Live The King",
     "'GTA 6' Release Details: Everything We Know About 'Grand Theft Auto VI'",
     "iPhone 18 Pro, Foldable iPhone Ultra and More: Apple Products Expected Next Month",
-    "Microsoft announces Xbox disc-to-digital programme, to start next week for select users",
+    "Xbox CEO Says Project Helix Includes a 'Family of Devices'",
     "'Toxic: A Fairy Tale for Grown-ups' box office collection day 3: Yash-Nayanthara starrer sees 29.3 percen",
-    "Dolly Parton's funeral: Family gather for singer's burial at Nashville site; to be laid to rest beside hu",
-    "Mom-to-be Samantha Ruth Prabhu spills how her journey to motherhood made gain 11 kilos during AMA session"
+    "Mom-to-be Samantha Ruth Prabhu spills how her journey to motherhood made gain 11 kilos during AMA session",
+    "Akshay Kumar, Preity Zinta And More Bollywood Stars Celebrate Raksha Bandhan"
   ],
   "quiz": [
     {
-      "blanked": "Mahindra XEV 9S BaaS Launch Price Rs 12.65 L - ______ 9e Rs 13.90 L",
-      "answer": "XEV",
+      "blanked": "Physical Activity ______ to Lower Stroke Risk in Atrial Fibrillation",
+      "answer": "Linked",
       "options": [
-        "Banks",
-        "Party",
-        "XEV",
-        "Review"
+        "Linked",
+        "Family",
+        "SCO",
+        "Putin"
+      ]
+    },
+    {
+      "blanked": "Syria President Appoints Kurdish Leader Mazloum ______ As His Adviser",
+      "answer": "Abdi",
+      "options": [
+        "Resignations",
+        "Isha",
+        "Abdi",
+        "Fairy"
+      ]
+    },
+    {
+      "blanked": "‘Absolutely ridiculous’: SA allrounder Marizanne Kapp upset that trans cricketer Anaya ______ has been allowed to play | Cricket",
+      "answer": "Bangar",
+      "options": [
+        "Pixel",
+        "Indians",
+        "Bangar",
+        "Atrial"
       ]
     },
     {
       "blanked": "The agony of ______ — the condition that made me plot my own death",
       "answer": "PMDD",
       "options": [
-        "Terror",
-        "Chandra",
-        "Board",
-        "PMDD"
+        "Dubai",
+        "Bangar",
+        "PMDD",
+        "Nagendra"
       ]
     },
     {
-      "blanked": "'Toxic: A Fairy Tale for ______ box office collection day 3: Yash-Nayanthara starrer sees 29.3 percen",
-      "answer": "Grown-ups",
+      "blanked": "'Toxic: A Fairy ______ for Grown-ups' box office collection day 3: Yash-Nayanthara starrer sees 29.3 percen",
+      "answer": "Tale",
       "options": [
-        "Grown-ups",
-        "Foldable",
-        "Top",
-        "Had"
+        "Stroke",
+        "Lower",
+        "Khans",
+        "Tale"
       ]
     },
     {
-      "blanked": "Akshay Kumar, ______ Zinta And More Bollywood Stars Celebrate Raksha Bandhan",
-      "answer": "Preity",
+      "blanked": "Chinese Rescuers Find 'Nothing But Ruins' At Nepal-Tibet Checkpoint ______ Out By Flash Flood",
+      "answer": "Wiped",
       "options": [
-        "29.3",
-        "Nepal-Tibet",
-        "Preity",
-        "Zinta"
+        "CEO",
+        "Sonia",
+        "Wiped",
+        "Activity"
       ]
     },
     {
-      "blanked": "BCCI stance on ______ Bill creates confusion within Board",
-      "answer": "Sports",
+      "blanked": "Konda And ______ Set Egos Aside For Party Unity!",
+      "answer": "Revanth",
       "options": [
-        "Years",
-        "Costlier",
-        "Sports",
-        "Egos"
-      ]
-    },
-    {
-      "blanked": "Mint Explainer | ______ recover 1% in personal guarantor cases; Subhash Chandra case said to involve associate companies",
-      "answer": "Banks",
-      "options": [
-        "Pakistans",
-        "Banks",
-        "Bandhan",
-        "Nashville"
-      ]
-    },
-    {
-      "blanked": "Dolly Parton's funeral: ______ gather for singer's burial at Nashville site; to be laid to rest beside hu",
-      "answer": "Family",
-      "options": [
-        "Set",
         "Details",
-        "Clouds",
-        "Family"
+        "Grand",
+        "Revanth",
+        "Price"
       ]
     },
     {
-      "blanked": "B Nagendra ______ 2 Years, 2 Resignations, 2 Different Chief Ministers",
-      "answer": "Redux",
+      "blanked": "Flash floods in Nepal: No contact still with 320 Indians; ______ stranded",
+      "answer": "400",
       "options": [
-        "FSSAI",
-        "Redux",
-        "Foods",
-        "Abdi"
+        "400",
+        "Includes",
+        "More",
+        "Aside"
       ]
     },
     {
-      "blanked": "Physical Activity Linked to Lower Stroke ______ in Atrial Fibrillation",
-      "answer": "Risk",
+      "blanked": "SIMs, WhatsApp, Dubai route: ______ Delhi couple aided Pakistan-linked espionage",
+      "answer": "How",
       "options": [
-        "Modi",
-        "Know",
-        "About",
-        "Risk"
+        "Details",
+        "Fibrillation",
+        "Grand",
+        "How"
       ]
     },
     {
-      "blanked": "Google Pixel Watch 5 Review: Long Live The ______",
-      "answer": "King",
+      "blanked": "Pat Cummins supports captains' calls for Imran ______ medical care",
+      "answer": "Khans",
       "options": [
-        "Activity",
-        "AMA",
-        "King",
-        "Test"
+        "Yash-Nayanthara",
+        "320",
+        "Khans",
+        "Price"
       ]
     },
     {
-      "blanked": "PCB considered pulling players out of Test against England after ______ aired interview with Imran Khan’s sons",
-      "answer": "Sky",
+      "blanked": "US stocks open mixed as ______ Warsh provides fresh cues for inflation, interest rate and growth",
+      "answer": "Kevin",
       "options": [
-        "Cummins",
-        "Nepal-Tibet",
-        "About",
-        "Sky"
+        "Kevin",
+        "WhatsApp",
+        "Preity",
+        "Science"
       ]
     },
     {
-      "blanked": "Chinese Rescuers Find 'Nothing But Ruins' At Nepal-Tibet Checkpoint Wiped Out By ______ Flood",
-      "answer": "Flash",
+      "blanked": "Western ______ frogs sort by size to coexist, study finds",
+      "answer": "Ghats",
       "options": [
-        "Fairy",
-        "Flash",
-        "Floods",
-        "Chief"
+        "Project",
+        "Samantha",
+        "Tale",
+        "Ghats"
       ]
     }
   ]
