@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-29T16:48:28.714Z",
+  "generatedAt": "2026-08-29T17:03:45.225Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
     "Nepal flash floods LIVE: Rescuers claw through mud as death toll rises to 675",
     "PM Modi’s SCO visit is loaded with expectations on BRICS Summit and UNSC election",
-    "FIR against Mamata Banerjee over violation of high court order on TMC students' wing rally in Kolkata | India News",
     "Rahul Gandhi asks PM Modi to order FIR under SC/ST Act over ‘purification’ after Kharge’s rally | India News",
+    "FIR Against Mamata Banerjee For Violating Calcutta HC Order At TMC Event",
     "\"You Think You Are A Lord?\" Bombay High Court Slams FDA Officer Over Suspension Of Eateries Of Mumbai...",
-    "Iran’s leaders acknowledge economic toll of war, pledge diplomacy, defence",
-    "Before The Nepal Flood, A Glacial Fall: Tracing The Trigger, And A 100-km Killer Run",
-    "'Manuwadis fighting against rise of Dalits': Karnataka minister Nagendra resigns amid Valmiki scam row",
+    "‘Save me, doctors want to kill me’: Woman’s video before death during childbirth surfaces",
     "Flash floods in Nepal: No contact still with 320 Indians; 400 stranded",
+    "India has highest glacial flood death toll in Hindu Kush Himalaya, UN-led study finds",
     "Weather tomorrow: IMD warns of very heavy rain in many states; extremely heavy rain likely in Odisha",
-    "Russian strike on Kyiv-area ammunition depot triggers blast, killing 37",
+    "Manufacture in India, build for world: FM Sitharaman",
+    "37 Killed As Russian Strikes Ukraine's Kyiv, 50 Residential Buildings Damaged",
     "Zimbabwe minibus carrying church members crashes, killing at least 27",
     "Norway mourns King Harald as crowds gather at royal palace",
     "CIA Failed To Connect Key Intel Naming 9/11 Mastermind Before Attacks: Report",
     "HDFC Bank CEO Jagdishan to step down, decides not to seek reappointment",
     "Sold house, personal assets, now living on rental income: Zee founder Subhash Chandra reveals his finances",
     "\"Sub-Standard\": Everest, Laljee Godhoo Banned From Selling Hing Powder",
-    "India's Hero MotoCorp to increase stake in Ather with $184 million share purchase",
-    "Nvidia's DLSS 5 leaked early, and modders have already broken it out of its Blackwell cage",
+    "Ashish Dhawan buys 1.11% stake in Religare; Hero MotoCorp picks up Rs 1,758 crore Ather shares",
+    "First Leak of Nvidia’s DLSS 5 Apparently Makes Games Look and Run Worse",
     "iPhone 18 Pro launch event almost here: From India price to specs, everything leaked so far",
     "GTA VI Has Over 600,000 Animations Compared To GTA V's 55,000 & Red Dead Redemption 2's 300,000",
     "QD-OLED goes to esports: Samsung starts mass production of 24.5\" ultra-fast displays",
-    "‘Toxic’ exclusive: Director Suri lauds Yash’s performance: A brave attempt from superstar",
-    "'Always Been Physical': Ram Kapoor On Shreya Kalra's Lock Upp 2 Kissing Row",
-    "'DC' OTT release date: When and where to watch the Lokesh Kanagaraj and Wamiqa Gabbi starrer action drama"
+    "'Toxic' box office collection Day 4 [LIVE]: Yash and Kiara Advani film races past Rs 178 crore domestic n",
+    "'DC' OTT release date: When and where to watch the Lokesh Kanagaraj and Wamiqa Gabbi starrer action drama",
+    "'Always Been Physical': Ram Kapoor On Shreya Kalra's Lock Upp 2 Kissing Row"
   ],
   "quiz": [
     {
-      "blanked": "\"You Think You Are A Lord?\" Bombay High Court Slams ______ Officer Over Suspension Of Eateries Of Mumbai...",
-      "answer": "FDA",
+      "blanked": "'Always Been Physical': ______ Kapoor On Shreya Kalra's Lock Upp 2 Kissing Row",
+      "answer": "Ram",
       "options": [
-        "Disease",
-        "Teaser",
-        "FDA",
-        "TMC"
+        "Shreya",
+        "Moon",
+        "Russian",
+        "Ram"
       ]
     },
     {
-      "blanked": "Leukocyte Telomere Length Shows Limited Value in Pancreatic ______",
-      "answer": "Cancer",
+      "blanked": "\"You Think You Are A Lord?\" Bombay High ______ Slams FDA Officer Over Suspension Of Eateries Of Mumbai...",
+      "answer": "Court",
       "options": [
-        "You",
-        "Lock",
-        "FDA",
-        "Cancer"
+        "Act",
+        "Court",
+        "Order",
+        "Row"
       ]
     },
     {
-      "blanked": "Nepal flash floods LIVE: ______ claw through mud as death toll rises to 675",
-      "answer": "Rescuers",
+      "blanked": "Weather tomorrow: ______ warns of very heavy rain in many states; extremely heavy rain likely in Odisha",
+      "answer": "IMD",
       "options": [
-        "Banned",
-        "Rescuers",
-        "IMD",
-        "Games"
+        "ESC",
+        "Dead",
+        "Delhi",
+        "IMD"
       ]
     },
     {
-      "blanked": "CKD Screening Recommended in ______ Disease: ESC 2026",
-      "answer": "Heart",
+      "blanked": "PHOTOS: ______ appears orange due to partial lunar eclipse",
+      "answer": "Moon",
       "options": [
-        "Heart",
-        "League",
+        "Moon",
         "Jagdishan",
-        "CEO"
+        "Nagarjuna",
+        "Kush"
       ]
     },
     {
-      "blanked": "PM Modi’s SCO visit is loaded with expectations on ______ Summit and UNSC election",
-      "answer": "BRICS",
+      "blanked": "Norway mourns ______ Harald as crowds gather at royal palace",
+      "answer": "King",
       "options": [
-        "League",
-        "BRICS",
-        "Killer",
-        "Modis"
+        "178",
+        "911",
+        "King",
+        "Godhoo"
       ]
     },
     {
-      "blanked": "Flash floods in ______ No contact still with 320 Indians; 400 stranded",
-      "answer": "Nepal",
+      "blanked": "King100: Teaser of Nagarjuna starrer unveiled on his birthday; film to clash with Shah Rukh ______ starrer King",
+      "answer": "Khan",
       "options": [
-        "Lock",
-        "Nepal",
-        "Final",
-        "Red"
+        "Officer",
+        "Residential",
+        "Himalaya",
+        "Khan"
       ]
     },
     {
-      "blanked": "Nasa space telescope set to launch after surviving ______ budget cuts",
-      "answer": "Trump",
+      "blanked": "'Toxic' box office collection ______ 4 [LIVE]: Yash and Kiara Advani film races past Rs 178 crore domestic n",
+      "answer": "Day",
       "options": [
-        "400",
-        "MotoCorp",
-        "Valmiki",
-        "Trump"
+        "Day",
+        "Run",
+        "Attacks",
+        "Epigenetic"
       ]
     },
     {
-      "blanked": "GTA VI Has Over 600,000 Animations Compared To GTA V's 55,000 & ______ Dead Redemption 2's 300,000",
-      "answer": "Red",
+      "blanked": "FIR Against Mamata Banerjee For Violating Calcutta HC Order At TMC ______",
+      "answer": "Event",
       "options": [
-        "Kharges",
-        "Trump",
-        "Pancreatic",
-        "Red"
+        "Hero",
+        "Event",
+        "675",
+        "Has"
       ]
     },
     {
-      "blanked": "Aditya-L1 catches ______ early warning signs before Solar flares",
-      "answer": "Suns",
+      "blanked": "\"Sub-Standard\": Everest, Laljee Godhoo Banned From ______ Hing Powder",
+      "answer": "Selling",
       "options": [
-        "Suns",
-        "SCO",
-        "Disease",
-        "King"
+        "Selling",
+        "Buildings",
+        "GTA",
+        "Disease"
       ]
     },
     {
-      "blanked": "Norway mourns King ______ as crowds gather at royal palace",
-      "answer": "Harald",
+      "blanked": "GTA VI Has Over 600,000 Animations Compared To GTA V's 55,000 & Red Dead Redemption 2's ______",
+      "answer": "300000",
       "options": [
-        "Heart",
-        "Key",
-        "Harald",
-        "Games"
+        "Sarfaraz",
+        "Nancy",
+        "Persistent",
+        "300000"
       ]
     },
     {
-      "blanked": "Rahul ______ asks PM Modi to order FIR under SC/ST Act over ‘purification’ after Kharge’s rally | India News",
-      "answer": "Gandhi",
+      "blanked": "India has highest glacial flood death toll in Hindu Kush Himalaya, ______ study finds",
+      "answer": "UN-led",
       "options": [
-        "Killer",
-        "Gandhi",
-        "Kharges",
-        "Upp"
+        "Telomere",
+        "Changes",
+        "Hero",
+        "UN-led"
       ]
     },
     {
-      "blanked": "US Open ______ All to know about the schedule, top seeds and favourites",
-      "answer": "2026",
+      "blanked": "37 Killed As Russian Strikes Ukraine's Kyiv, 50 ______ Buildings Damaged",
+      "answer": "Residential",
       "options": [
-        "Lord",
-        "2026",
-        "ESA",
-        "24.5"
+        "Rukh",
+        "Nancy",
+        "Residential",
+        "Ather"
       ]
     }
   ]
