@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-29T10:33:37.767Z",
+  "generatedAt": "2026-08-29T10:48:15.596Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
     "Nepal flash floods LIVE updates: Risk of lake 'burst' near border disaster site wanes, China says; death toll crosses 620",
     "PM Modi begins four-day Uzbekistan, Kyrgyzstan visit for SCO summit; what's on agenda",
-    "PM Modi must order filing of FIR, we demand justice: Rahul Gandhi on Kharge’s rally venue ‘purification’ in Uttarakhand",
     "Case filed against Mamata Banerjee over violation of Calcutta high court order",
+    "‘Memoir or fiction?’: BJP targets Sonia Gandhi’s book as Congress alleges govt pressure",
+    "PM Modi must order filing of FIR, we demand justice: Rahul Gandhi on Kharge’s rally venue ‘purification’ in Uttarakhand",
     "Oneness or Hindu supremacy? RSS chief Bhagwat’s secretive New York hosts",
-    "'Biggest deal in world history': Trump says US secured 65 billion barrels of Venezuelan oil | World News",
-    "Expulsion of AIMIM MLC Mirza Rahmath Baig sparks questions over controversial video",
+    "Bar Council Not Earning Members' Respect Not A Good Sign For Legal Profession: Justice BV Nagarathna",
     "3 Delhi BJP MPs Visit Sajjan Kumar's House. Then Party Chief's Big Action",
+    "Expulsion of AIMIM MLC Mirza Rahmath Baig sparks questions over controversial video",
     "Chatroo Kishtwar minor’s death case: Health worker arrested, total accused reach six",
-    "Nepal flash flood: No trace of 66 Maharashtra pilgrims yet, families’ uncertainty grows",
-    "War weighs on Iran's economy as US intensifies sanctions",
+    "Oil Deal To Bring $100 Billion Investment, Thousands Of Jobs To Venezuela: Rubio",
+    "Nepal Counted Flood Victims. Thieves Counted Lakhs From Safe Swept In Floods",
     "27 Killed As Russian Strikes Ukraine's Kyiv, 50 Residential Buildings Damaged",
-    "Who is King Haakon VIII? Norway's new king who once wanted to escape royal life",
-    "\"We Got Attacked\": Canada's Carney Says US Launched 'Trade War'",
+    "Norway mourns King Harald as crowds gather at royal palace",
     "Mint Explainer | Banks recover 1% in personal guarantor cases; Subhash Chandra case said to involve associate companies",
-    "Infosys Public Services CEO Lax Gopisetty Missing After Nepal Floods",
     "OpenAI to cut off AI models for SpaceX-owned Cursor, escalating feud with Musk",
-    "Registrar of Companies grants three months to Tata Sons for AGM",
+    "Infosys Public Services CEO Lax Gopisetty Missing After Nepal Floods",
+    "‘Flash Crash’ Hits Sensex Index During Unpopular Closing Auction",
     "iPhone 18 Pro, Foldable iPhone Ultra and More: Apple Products Expected Next Month",
-    "The GTA 6 trailer crashed Netflix and Twitch, but sent the publisher's share price soaring",
+    "GTA 6 Extended Look: Hidden details and secrets you might have missed",
     "Xbox CEO Says Project Helix Includes a 'Family of Devices'",
     "Deals: the Galaxy S26 FE is on pre-order, but the S26+ is cheaper - several Pocos are cheaper too - GSMArena.com news",
     "'Toxic: A Fairy Tale for Grown-ups' box office collection day 3: Yash-Nayanthara starrer sees 29.3 percen",
-    "Samay Raina starts Bihari-Kashmiri roast war on Latent. Comedian Sharon fires back",
-    "Hi Box Office Collection Day 1: Nayanthara's Romance Drama Opens 97% Lower Than Mana Shankara Vara Prasad Garu"
+    "Hi Box Office Collection Day 1: Nayanthara's Romance Drama Opens 97% Lower Than Mana Shankara Vara Prasad Garu",
+    "Dolly Parton's funeral: Family gather for singer's burial at Nashville site; to be laid to rest beside hu"
   ],
   "quiz": [
     {
-      "blanked": "Nepal flash flood: No trace of 66 ______ pilgrims yet, families’ uncertainty grows",
-      "answer": "Maharashtra",
+      "blanked": "3 Delhi BJP MPs Visit Sajjan Kumar's House. ______ Party Chief's Big Action",
+      "answer": "Then",
       "options": [
-        "Imran",
-        "Maharashtra",
-        "Has",
-        "Sharon"
+        "Then",
+        "SpaceX-owned",
+        "Ultra",
+        "Respect"
       ]
     },
     {
-      "blanked": "Mint Explainer | ______ recover 1% in personal guarantor cases; Subhash Chandra case said to involve associate companies",
-      "answer": "Banks",
+      "blanked": "PM Modi must order filing of FIR, we demand justice: Rahul Gandhi on ______ rally venue ‘purification’ in Uttarakhand",
+      "answer": "Kharges",
       "options": [
-        "World-First",
-        "Expected",
-        "Banks",
-        "Foldable"
+        "Gandhis",
+        "Nancy",
+        "Kharges",
+        "Mirza"
       ]
     },
     {
-      "blanked": "Registrar of Companies grants three months to Tata Sons for ______",
-      "answer": "AGM",
+      "blanked": "OpenAI to cut off AI models for SpaceX-owned Cursor, escalating feud with ______",
+      "answer": "Musk",
       "options": [
-        "AGM",
-        "Uttarakhand",
-        "Residential",
+        "Modi",
+        "Clouds",
+        "Council",
+        "Musk"
+      ]
+    },
+    {
+      "blanked": "London Surgeons Use AI in World-First ______ Brain Tumour Surgery",
+      "answer": "Live-Assisted",
+      "options": [
+        "Live-Assisted",
+        "620",
+        "Swept",
+        "Devices"
+      ]
+    },
+    {
+      "blanked": "iPhone 18 Pro, Foldable iPhone Ultra and More: Apple Products Expected ______ Month",
+      "answer": "Next",
+      "options": [
+        "SCO",
+        "Next",
+        "Rahul",
+        "Kyrgyzstan"
+      ]
+    },
+    {
+      "blanked": "Bar Council Not Earning Members' Respect Not A Good Sign For Legal ______ Justice BV Nagarathna",
+      "answer": "Profession",
+      "options": [
+        "Gopisetty",
+        "Profession",
+        "Extended",
         "Then"
       ]
     },
     {
-      "blanked": "Oneness or Hindu supremacy? ______ chief Bhagwat’s secretive New York hosts",
-      "answer": "RSS",
+      "blanked": "Nepal Counted Flood Victims. ______ Counted Lakhs From Safe Swept In Floods",
+      "answer": "Thieves",
+      "options": [
+        "Helix",
+        "Devices",
+        "Suns",
+        "Thieves"
+      ]
+    },
+    {
+      "blanked": "Placental Epigenetic Changes ______ to Persistent Food Allergy",
+      "answer": "Link",
+      "options": [
+        "Rahmath",
+        "Thieves",
+        "Link",
+        "Russian"
+      ]
+    },
+    {
+      "blanked": "Hi Box ______ Collection Day 1: Nayanthara's Romance Drama Opens 97% Lower Than Mana Shankara Vara Prasad Garu",
+      "answer": "Office",
+      "options": [
+        "Shankara",
+        "Office",
+        "Buildings",
+        "Members"
+      ]
+    },
+    {
+      "blanked": "Deals: the ______ S26 FE is on pre-order, but the S26+ is cheaper - several Pocos are cheaper too - GSMArena.com news",
+      "answer": "Galaxy",
+      "options": [
+        "Galaxy",
+        "Respect",
+        "Not",
+        "Prabhu"
+      ]
+    },
+    {
+      "blanked": "Mint ______ | Banks recover 1% in personal guarantor cases; Subhash Chandra case said to involve associate companies",
+      "answer": "Explainer",
       "options": [
         "Allergy",
-        "CEO",
-        "SCO",
-        "RSS"
+        "Explainer",
+        "MPs",
+        "Damaged"
       ]
     },
     {
-      "blanked": "PM Modi must order filing of FIR, we demand justice: Rahul ______ on Kharge’s rally venue ‘purification’ in Uttarakhand",
-      "answer": "Gandhi",
+      "blanked": "Samantha Ruth Prabhu Shares ______ Much Weight She Has Gained During Pregnancy",
+      "answer": "How",
       "options": [
-        "Irans",
-        "Services",
-        "Gandhi",
-        "MLC"
-      ]
-    },
-    {
-      "blanked": "'Biggest deal in world history': Trump says US secured 65 billion barrels of Venezuelan oil | World ______",
-      "answer": "News",
-      "options": [
-        "News",
-        "VIII",
-        "SCO",
-        "Lower"
-      ]
-    },
-    {
-      "blanked": "London Surgeons Use AI in World-First Live-Assisted Brain Tumour ______",
-      "answer": "Surgery",
-      "options": [
-        "Services",
-        "620",
-        "Pocos",
-        "Surgery"
-      ]
-    },
-    {
-      "blanked": "PM Modi begins four-day Uzbekistan, Kyrgyzstan visit for ______ summit; what's on agenda",
-      "answer": "SCO",
-      "options": [
-        "More",
-        "Persistent",
-        "SCO",
-        "Lax"
-      ]
-    },
-    {
-      "blanked": "27 Killed As Russian Strikes Ukraine's ______ 50 Residential Buildings Damaged",
-      "answer": "Kyiv",
-      "options": [
-        "Atletico",
-        "Kyiv",
-        "LIVE",
-        "Link"
-      ]
-    },
-    {
-      "blanked": "Who was ______ Grace Roman? NASA's next big space telescope is named after the 'Mother of Hubble'",
-      "answer": "Nancy",
-      "options": [
-        "RSS",
-        "Nancy",
-        "Shares",
-        "29.3"
-      ]
-    },
-    {
-      "blanked": "Western ______ frogs sort by size to coexist, study finds",
-      "answer": "Ghats",
-      "options": [
-        "Ghats",
-        "Ruth",
-        "Drama",
-        "AGM"
-      ]
-    },
-    {
-      "blanked": "Photos: ______ part and make way for deep lunar eclipse",
-      "answer": "Clouds",
-      "options": [
-        "Month",
-        "Action",
-        "Clouds",
-        "Surgeons"
+        "Tumour",
+        "Live-Assisted",
+        "How",
+        "Office"
       ]
     }
   ]
