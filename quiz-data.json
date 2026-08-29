@@ -1,21 +1,21 @@
 {
-  "generatedAt": "2026-08-29T12:04:18.450Z",
+  "generatedAt": "2026-08-29T12:18:28.683Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
     "Nepal flash floods LIVE updates: Heavy rain forecast in flood-affected areas threaten to disrupt rescue ops.; death toll crosses 620",
     "PM Modi must order filing of FIR, we demand justice: Rahul Gandhi on Kharge’s rally venue ‘purification’ in Uttarakhand",
+    "3 Delhi BJP MPs Visit Sajjan Kumar's House. Then Party Chief's Big Action",
     "'RSS does not represent us': US-based Hindu group among 61 organisations protesting Mohan Bhagwat's NYC event | India News",
     "42 years on, Sukumara Kurup mystery returns with Brunei ‘sighting’ — and a photo twist",
     "PM Modi begins four-day Uzbekistan, Kyrgyzstan visit for SCO summit; what's on agenda",
-    "War weighs on Iran's economy as US intensifies sanctions",
     "Case filed against Mamata Banerjee over violation of Calcutta high court order",
+    "Samay Raina addresses India’s Got Latent 2 criticism, responds to ‘filtered’ tag: ‘It’s just not the same anymore’ | Bollywood",
+    "Bar Council Not Earning Members' Respect Not A Good Sign For Legal Profession: Justice BV Nagarathna",
     "BJP Turns Up Meme Heat On Congress, Deploys Satire In Social Media Battle",
-    "Expulsion of AIMIM MLC Mirza Rahmath Baig sparks questions over controversial video",
-    "Chatroo Kishtwar minor’s death case: Health worker arrested, total accused reach six",
     "Oil Deal To Bring $100 Billion Investment, Thousands Of Jobs To Venezuela: Rubio",
-    "Galwan, Doklam general axed by Xi: Zhao Zongqi removed from China's top advisory body",
-    "27 Killed As Russian Strikes Ukraine's Kyiv, 50 Residential Buildings Damaged",
+    "27 killed, 50 homes damaged in Russian attack near Ukraine's Kyiv",
+    "China purges top generals in corruption crackdown: What is the India border link? | World News",
     "CIA Failed To Connect Key Intel Naming 9/11 Mastermind Before Attacks: Report",
     "Subhash Chandra breaks silence on NCLT order, disputes ₹3,900 crore claim, says most group debt repaid",
     "Temasek backs Singapore Airlines' Air India investment amid growing scrutiny",
@@ -25,129 +25,129 @@
     "iPhone 18 Pro, Foldable iPhone Ultra and More: Apple Products Expected Next Month",
     "Deals: the Galaxy S26 FE is on pre-order, but the S26+ is cheaper - several Pocos are cheaper too - GSMArena.com news",
     "Xbox CEO Says Project Helix Includes a 'Family of Devices'",
-    "‘Toxic’ exclusive: Director Suri lauds Yash’s performance: A brave attempt from superstar",
+    "'Toxic' box office collection Day 4 [LIVE]: Yash and Kiara Advani film races towards Rs 175 crore domestic net milestone",
     "King100: Teaser of Nagarjuna starrer unveiled on his birthday; film to clash with Shah Rukh Khan starrer King",
     "Dil Chahta Hai Turns 25: Aamir Khan, Saif Ali Khan And Farhan Akhtar Reunite In Mumbai. MIA - Akshaye Khanna"
   ],
   "quiz": [
     {
-      "blanked": "'RSS does not represent us': US-based Hindu group among 61 organisations protesting Mohan Bhagwat's NYC event | ______ News",
+      "blanked": "Subhash Chandra breaks silence on ______ order, disputes ₹3,900 crore claim, says most group debt repaid",
+      "answer": "NCLT",
+      "options": [
+        "Chandra",
+        "Elon",
+        "Justice",
+        "NCLT"
+      ]
+    },
+    {
+      "blanked": "China purges top generals in corruption crackdown: What is the ______ border link? | World News",
       "answer": "India",
       "options": [
+        "Chopras",
+        "King",
         "India",
-        "Gained",
-        "Hai",
-        "Musks"
+        "NCLT"
+      ]
+    },
+    {
+      "blanked": "Samay Raina addresses India’s Got Latent 2 criticism, responds to ‘filtered’ tag: ‘It’s just not the same anymore’ | ______",
+      "answer": "Bollywood",
+      "options": [
+        "Bollywood",
+        "Apple",
+        "620",
+        "Party"
+      ]
+    },
+    {
+      "blanked": "BJP Turns Up ______ Heat On Congress, Deploys Satire In Social Media Battle",
+      "answer": "Meme",
+      "options": [
+        "OpenAI",
+        "ESC",
+        "Meme",
+        "Guidelines"
       ]
     },
     {
       "blanked": "Case filed against Mamata ______ over violation of Calcutta high court order",
       "answer": "Banerjee",
       "options": [
-        "Musks",
-        "Banerjee",
-        "Congress",
-        "Pocos"
+        "Modi",
+        "MIA",
+        "During",
+        "Banerjee"
       ]
     },
     {
-      "blanked": "Galwan, Doklam general axed by Xi: Zhao ______ removed from China's top advisory body",
-      "answer": "Zongqi",
+      "blanked": "iPhone 18 Pro, Foldable iPhone Ultra and More: Apple ______ Expected Next Month",
+      "answer": "Products",
       "options": [
-        "Delhi",
-        "Zongqi",
-        "Venezuela",
-        "Aamir"
-      ]
-    },
-    {
-      "blanked": "NASA’s Nancy Grace Roman Space Telescope Has a Hidden Technological ______",
-      "answer": "Leap",
-      "options": [
-        "Leap",
-        "Director",
-        "Imran",
-        "911"
+        "Products",
+        "Hindu",
+        "Foldable",
+        "She"
       ]
     },
     {
       "blanked": "Placental Epigenetic Changes ______ to Persistent Food Allergy",
       "answer": "Link",
       "options": [
-        "Report",
+        "Products",
+        "Rubio",
         "Link",
-        "Hai",
-        "Reds"
+        "3900"
       ]
     },
     {
-      "blanked": "Oil Deal To Bring $100 Billion Investment, ______ Of Jobs To Venezuela: Rubio",
-      "answer": "Thousands",
+      "blanked": "US Open 2026: ______ to know about the schedule, top seeds and favourites",
+      "answer": "All",
       "options": [
-        "Attacks",
-        "Thousands",
-        "Hidden",
-        "Billion"
+        "All",
+        "Visit",
+        "Technological",
+        "Calcutta"
       ]
     },
     {
-      "blanked": "Samantha Ruth Prabhu Shares ______ Much Weight She Has Gained During Pregnancy",
-      "answer": "How",
+      "blanked": "Nepal flash floods LIVE updates: ______ rain forecast in flood-affected areas threaten to disrupt rescue ops.; death toll crosses 620",
+      "answer": "Heavy",
       "options": [
-        "Link",
-        "3900",
-        "Zhao",
-        "How"
+        "Latent",
+        "Heavy",
+        "Gandhi",
+        "175"
       ]
     },
     {
-      "blanked": "27 Killed As Russian Strikes Ukraine's Kyiv, 50 Residential Buildings ______",
-      "answer": "Damaged",
+      "blanked": "Western ______ frogs sort by size to coexist, study finds",
+      "answer": "Ghats",
       "options": [
-        "FIR",
-        "Battle",
-        "Attacks",
-        "Damaged"
+        "Meme",
+        "King",
+        "Ghats",
+        "Latent"
       ]
     },
     {
-      "blanked": "Xbox CEO Says Project ______ Includes a 'Family of Devices'",
-      "answer": "Helix",
+      "blanked": "GTA 6 Extended Look: ______ details and secrets you might have missed",
+      "answer": "Hidden",
       "options": [
-        "Killed",
-        "Zongqi",
-        "Helix",
-        "Residential"
+        "Project",
+        "All",
+        "Key",
+        "Hidden"
       ]
     },
     {
-      "blanked": "Growth Factor Receptors Signal Schizophrenia ______ Stage",
-      "answer": "Disease",
+      "blanked": "Aditya-L1 catches ______ early warning signs before Solar flares",
+      "answer": "Suns",
       "options": [
-        "Uttarakhand",
-        "Disease",
-        "Test",
-        "ESC"
-      ]
-    },
-    {
-      "blanked": "GTA 6 ______ Look: Hidden details and secrets you might have missed",
-      "answer": "Extended",
-      "options": [
-        "Heat",
-        "Residential",
-        "Extended",
-        "Month"
-      ]
-    },
-    {
-      "blanked": "Deals: the ______ S26 FE is on pre-order, but the S26+ is cheaper - several Pocos are cheaper too - GSMArena.com news",
-      "answer": "Galaxy",
-      "options": [
-        "Rukh",
-        "Doklam",
-        "Galaxy",
-        "Receptors"
+        "Project",
+        "Suns",
+        "Ghats",
+        "Moon"
       ]
     }
   ]
