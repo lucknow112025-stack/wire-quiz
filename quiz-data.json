@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-29T12:18:28.683Z",
+  "generatedAt": "2026-08-29T12:33:25.109Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
     "Nepal flash floods LIVE updates: Heavy rain forecast in flood-affected areas threaten to disrupt rescue ops.; death toll crosses 620",
-    "PM Modi must order filing of FIR, we demand justice: Rahul Gandhi on Kharge’s rally venue ‘purification’ in Uttarakhand",
+    "FIR against Mamata Banerjee over violation of high court order on TMC students' wing rally in Kolkata | India News",
     "3 Delhi BJP MPs Visit Sajjan Kumar's House. Then Party Chief's Big Action",
+    "Rahul Gandhi asks PM Modi to order FIR under SC/ST Act over ‘purification’ after Kharge’s rally | India News",
+    "Sharon Verma Hits Back At 'Kashmiri' Samay Raina After 'Bihari' Joke: 'I Left My State By Choice'",
     "'RSS does not represent us': US-based Hindu group among 61 organisations protesting Mohan Bhagwat's NYC event | India News",
-    "42 years on, Sukumara Kurup mystery returns with Brunei ‘sighting’ — and a photo twist",
-    "PM Modi begins four-day Uzbekistan, Kyrgyzstan visit for SCO summit; what's on agenda",
-    "Case filed against Mamata Banerjee over violation of Calcutta high court order",
-    "Samay Raina addresses India’s Got Latent 2 criticism, responds to ‘filtered’ tag: ‘It’s just not the same anymore’ | Bollywood",
+    "Looking to advance India’s vision for region free from terror, says PM Modi as he embarks on visit to Uzbekistan, Kyrgyzstan",
     "Bar Council Not Earning Members' Respect Not A Good Sign For Legal Profession: Justice BV Nagarathna",
-    "BJP Turns Up Meme Heat On Congress, Deploys Satire In Social Media Battle",
-    "Oil Deal To Bring $100 Billion Investment, Thousands Of Jobs To Venezuela: Rubio",
-    "27 killed, 50 homes damaged in Russian attack near Ukraine's Kyiv",
-    "China purges top generals in corruption crackdown: What is the India border link? | World News",
+    "Chatroo Kishtwar minor’s death case: Health worker arrested, total accused reach six",
+    "No word from Thane couple on first trip to Nepal, kin await clarity",
+    "37 Killed As Russian Strikes Ukraine's Kyiv, 50 Residential Buildings Damaged",
+    "Galwan, Doklam general axed by Xi: Zhao Zongqi removed from China's top advisory body",
     "CIA Failed To Connect Key Intel Naming 9/11 Mastermind Before Attacks: Report",
-    "Subhash Chandra breaks silence on NCLT order, disputes ₹3,900 crore claim, says most group debt repaid",
+    "War weighs on Iran's economy as US intensifies sanctions",
+    "Zee's Subhash Chandra claims he has Rs 6.5 crore left, lives on rental income amid NCLT's 99.97% loan hair",
     "Temasek backs Singapore Airlines' Air India investment amid growing scrutiny",
-    "OpenAI says it's ending its deal with Cursor because Elon Musk's companies violate contracts",
     "Meta’s Sandhya Devanathan exits after decade, joins OpenAI as Southeast Asia, Australia VP",
-    "GTA 6 Extended Look: Hidden details and secrets you might have missed",
+    "CAS faces MSCI rebalancing test on Monday, says this analyst",
+    "QD-OLED goes to esports: Samsung starts mass production of 24.5\" ultra-fast displays",
+    "'Grand Theft Auto 6' Extended in-game footage unveiled",
     "iPhone 18 Pro, Foldable iPhone Ultra and More: Apple Products Expected Next Month",
     "Deals: the Galaxy S26 FE is on pre-order, but the S26+ is cheaper - several Pocos are cheaper too - GSMArena.com news",
-    "Xbox CEO Says Project Helix Includes a 'Family of Devices'",
     "'Toxic' box office collection Day 4 [LIVE]: Yash and Kiara Advani film races towards Rs 175 crore domestic net milestone",
     "King100: Teaser of Nagarjuna starrer unveiled on his birthday; film to clash with Shah Rukh Khan starrer King",
-    "Dil Chahta Hai Turns 25: Aamir Khan, Saif Ali Khan And Farhan Akhtar Reunite In Mumbai. MIA - Akshaye Khanna"
+    "Samantha Ruth Prabhu Shares How Much Weight She Has Gained During Pregnancy"
   ],
   "quiz": [
     {
-      "blanked": "Subhash Chandra breaks silence on ______ order, disputes ₹3,900 crore claim, says most group debt repaid",
-      "answer": "NCLT",
+      "blanked": "'Not spending enough time in the middle' - ______ laments Pakistan’s batting woes",
+      "answer": "Sarfaraz",
       "options": [
-        "Chandra",
-        "Elon",
-        "Justice",
-        "NCLT"
-      ]
-    },
-    {
-      "blanked": "China purges top generals in corruption crackdown: What is the ______ border link? | World News",
-      "answer": "India",
-      "options": [
-        "Chopras",
-        "King",
-        "India",
-        "NCLT"
-      ]
-    },
-    {
-      "blanked": "Samay Raina addresses India’s Got Latent 2 criticism, responds to ‘filtered’ tag: ‘It’s just not the same anymore’ | ______",
-      "answer": "Bollywood",
-      "options": [
-        "Bollywood",
-        "Apple",
-        "620",
-        "Party"
-      ]
-    },
-    {
-      "blanked": "BJP Turns Up ______ Heat On Congress, Deploys Satire In Social Media Battle",
-      "answer": "Meme",
-      "options": [
-        "OpenAI",
-        "ESC",
-        "Meme",
-        "Guidelines"
-      ]
-    },
-    {
-      "blanked": "Case filed against Mamata ______ over violation of Calcutta high court order",
-      "answer": "Banerjee",
-      "options": [
-        "Modi",
-        "MIA",
-        "During",
-        "Banerjee"
-      ]
-    },
-    {
-      "blanked": "iPhone 18 Pro, Foldable iPhone Ultra and More: Apple ______ Expected Next Month",
-      "answer": "Products",
-      "options": [
-        "Products",
-        "Hindu",
-        "Foldable",
-        "She"
-      ]
-    },
-    {
-      "blanked": "Placental Epigenetic Changes ______ to Persistent Food Allergy",
-      "answer": "Link",
-      "options": [
-        "Products",
-        "Rubio",
-        "Link",
-        "3900"
-      ]
-    },
-    {
-      "blanked": "US Open 2026: ______ to know about the schedule, top seeds and favourites",
-      "answer": "All",
-      "options": [
-        "All",
+        "Uzbekistan",
         "Visit",
-        "Technological",
-        "Calcutta"
+        "Sarfaraz",
+        "Chiefs"
       ]
     },
     {
-      "blanked": "Nepal flash floods LIVE updates: ______ rain forecast in flood-affected areas threaten to disrupt rescue ops.; death toll crosses 620",
-      "answer": "Heavy",
+      "blanked": "37 Killed As Russian Strikes Ukraine's Kyiv, 50 Residential ______ Damaged",
+      "answer": "Buildings",
       "options": [
-        "Latent",
-        "Heavy",
-        "Gandhi",
-        "175"
+        "Mamata",
+        "Buildings",
+        "Connect",
+        "Killed"
       ]
     },
     {
-      "blanked": "Western ______ frogs sort by size to coexist, study finds",
-      "answer": "Ghats",
+      "blanked": "CAS faces MSCI rebalancing test on ______ says this analyst",
+      "answer": "Monday",
       "options": [
-        "Meme",
-        "King",
-        "Ghats",
-        "Latent"
+        "Banerjee",
+        "Respect",
+        "Diamond",
+        "Monday"
       ]
     },
     {
-      "blanked": "GTA 6 Extended Look: ______ details and secrets you might have missed",
-      "answer": "Hidden",
+      "blanked": "Chatroo ______ minor’s death case: Health worker arrested, total accused reach six",
+      "answer": "Kishtwar",
       "options": [
-        "Project",
-        "All",
-        "Key",
-        "Hidden"
+        "Kyrgyzstan",
+        "Sajjan",
+        "Sandhya",
+        "Kishtwar"
       ]
     },
     {
-      "blanked": "Aditya-L1 catches ______ early warning signs before Solar flares",
-      "answer": "Suns",
+      "blanked": "'Grand Theft ______ 6' Extended in-game footage unveiled",
+      "answer": "Auto",
       "options": [
-        "Project",
-        "Suns",
-        "Ghats",
-        "Moon"
+        "Auto",
+        "Pregnancy",
+        "Roman",
+        "Next"
+      ]
+    },
+    {
+      "blanked": "10 jaw-dropping ______ space images that showcase the incredible beauty of the cosmos",
+      "answer": "ESA",
+      "options": [
+        "ESA",
+        "Shares",
+        "Earning",
+        "News"
+      ]
+    },
+    {
+      "blanked": "‘Diabetes and high BP are the same disease’? ______ explains the real link",
+      "answer": "Endocrinologist",
+      "options": [
+        "League",
+        "Endocrinologist",
+        "Edavans",
+        "Kishtwar"
+      ]
+    },
+    {
+      "blanked": "PHOTOS: ______ appears orange due to partial lunar eclipse",
+      "answer": "Moon",
+      "options": [
+        "More",
+        "Russian",
+        "Moon",
+        "NYC"
+      ]
+    },
+    {
+      "blanked": "King100: ______ of Nagarjuna starrer unveiled on his birthday; film to clash with Shah Rukh Khan starrer King",
+      "answer": "Teaser",
+      "options": [
+        "Galaxy",
+        "Much",
+        "Yash",
+        "Teaser"
+      ]
+    },
+    {
+      "blanked": "Rahul Gandhi asks PM ______ to order FIR under SC/ST Act over ‘purification’ after Kharge’s rally | India News",
+      "answer": "Modi",
+      "options": [
+        "TMC",
+        "Leap",
+        "Modi",
+        "Extended"
+      ]
+    },
+    {
+      "blanked": "Galwan, Doklam general axed by Xi: Zhao ______ removed from China's top advisory body",
+      "answer": "Zongqi",
+      "options": [
+        "Uzbekistan",
+        "Indias",
+        "Zongqi",
+        "Joke"
+      ]
+    },
+    {
+      "blanked": "FIR against ______ Banerjee over violation of high court order on TMC students' wing rally in Kolkata | India News",
+      "answer": "Mamata",
+      "options": [
+        "Members",
+        "620",
+        "Respect",
+        "Mamata"
       ]
     }
   ]
