@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-29T02:48:22.857Z",
+  "generatedAt": "2026-08-29T03:03:34.071Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
     "Fresh glacial lakes form at source of Nepal’s ice-rock avalanche",
     "Trump Announces \"Biggest Oil Deal In World History\" With Venezuela",
-    "'RSS does not represent us': US-based Hindu group among 61 organisations protesting Mohan Bhagwat's NYC event | India News",
     "Iran lashes out at US sanctions amid economic toll at home",
+    "'RSS does not represent us': US-based Hindu group among 61 organisations protesting Mohan Bhagwat's NYC event | India News",
     "Penguin drops Sonia Gandhi’s memoir after she rejected ‘changes, deletions’",
     "PM Modi heads to Uzbekistan, SCO; meet with Putin on the cards | India News",
-    "B Nagendra Redux: 2 Years, 2 Resignations, 2 Different Chief Ministers",
-    "Spider-Man, Motu-Patlu, And A Greek Drama: BJP Casts Insta Meme Net For Gen-Z Attention",
     "'No Compliance While Terror Continues': Sources Hit Back At Pakistan's Ishaq Dar On Indus Waters",
-    "Nepal Tragedy Triggers Political Spat Between Ruling TVK, DMK In Tamil Nadu Assembly",
-    "Nepal Flood Live: PM Balendra Shah inspects worst-affected areas in Nuwakot, vows speedy relief",
+    "Spider-Man, Motu-Patlu, And A Greek Drama: BJP Casts Insta Meme Net For Gen-Z Attention",
+    "3,400 SIR forms found at Navi Mumbai photocopy shop; 5 BLOs suspended as Sena (UBT)-BJP clash",
+    "Remains of 4 Nagas Killed in Attack Brought to Senapati District Hospital",
+    "Nepal flash floods LIVE updates: Over 4,400 rescued as Nepal mobilises massive flood relief op., says PM Balen Shah",
     "Syria President Appoints Kurdish Leader Mazloum Abdi As His Adviser",
     "Donald Trump Sent CIA Chief To Moscow Secretly. Even Top US Officials Had No Idea",
     "With nod to India, Canadian FM talks 'diversification' amid US trade war: 'You'll know why I have such a...",
+    "India's markets regulator approves Jio Platforms' $3.8 billion IPO",
     "Gold prices shed about 3% on hawkish Warsh at Jackson Hole, set for weekly decline",
-    "Jio Platforms gets Sebi nod for 37.7k cr IPO, set to be India's biggest",
     "Infosys Public Services CEO Lax Gopisetty Missing After Nepal Floods",
     "CNG To Get Costlier By Rs 3.89, Says IGL. Price In Delhi Nears Rs 87/kg",
-    "‘GTA 6’ gameplay revealed: Rockstar unveils first official look at new features, map and gameplay",
+    "Grand Theft Auto VI trailer feels like a movie and reveals new gameplay mechanics",
     "iPhone 18 Pro, Foldable iPhone Ultra and More: Apple Products Expected Next Month",
-    "Xbox’s new disc-to-digital initiative doesn’t mention migration for older Xbox 360 or original Xbox games",
-    "Samsung Galaxy S26 FE launches with One UI 9 and expanded Galaxy AI features",
+    "Galaxy S26 FE Debuts With Flagship AI Features, 7 Years Of Updates, And 45W Charging",
+    "Xbox CEO Asha Sharma once again stresses Xbox's need for affordability",
     "'Toxic: A Fairy Tale for Grown-ups' box office collection day 3: Yash-Nayanthara starrer sees 29.3 percent decline; mints Rs 23.75 crore overseas",
     "Akshay Kumar, Preity Zinta And More Bollywood Stars Celebrate Raksha Bandhan",
     "Dolly Parton grew up with 11 siblings in a two-room Tennessee cabin without electricity or running water;"
   ],
   "quiz": [
     {
-      "blanked": "Penguin drops Sonia ______ memoir after she rejected ‘changes, deletions’",
-      "answer": "Gandhis",
+      "blanked": "iPhone 18 Pro, Foldable iPhone Ultra and More: ______ Products Expected Next Month",
+      "answer": "Apple",
       "options": [
-        "CEO",
+        "CIA",
+        "Apple",
+        "Ghats",
+        "Greek"
+      ]
+    },
+    {
+      "blanked": "Nepal flash floods LIVE updates: Over 4,400 rescued as Nepal mobilises massive flood relief op., says PM Balen ______",
+      "answer": "Shah",
+      "options": [
+        "LIVE",
+        "Tennessee",
+        "IPO",
+        "Shah"
+      ]
+    },
+    {
+      "blanked": "Xbox CEO Asha Sharma once again stresses ______ need for affordability",
+      "answer": "Xboxs",
+      "options": [
+        "Mumbai",
+        "Khans",
+        "Xboxs",
+        "History"
+      ]
+    },
+    {
+      "blanked": "Gold prices shed about 3% on hawkish Warsh at ______ Hole, set for weekly decline",
+      "answer": "Jackson",
+      "options": [
+        "Jackson",
+        "England",
+        "Greek",
+        "Pakistans"
+      ]
+    },
+    {
+      "blanked": "Grand ______ Auto VI trailer feels like a movie and reveals new gameplay mechanics",
+      "answer": "Theft",
+      "options": [
+        "News",
+        "Youll",
+        "Perimenopause",
+        "Theft"
+      ]
+    },
+    {
+      "blanked": "Hockey World Cup: Belgium break Indian hearts in shootout as ______ side finishes eighth",
+      "answer": "Harmanpreets",
+      "options": [
+        "Shah",
+        "Killed",
         "Gandhis",
-        "Sent",
-        "Hit"
-      ]
-    },
-    {
-      "blanked": "WWE SmackDown Results – 8/28/26 (CM Punk, ______ Owens)",
-      "answer": "Kevin",
-      "options": [
-        "Announces",
-        "Moscow",
-        "Kevin",
-        "SCO"
-      ]
-    },
-    {
-      "blanked": "Physical ______ Linked to Lower Stroke Risk in Atrial Fibrillation",
-      "answer": "Activity",
-      "options": [
-        "Indian",
-        "Ultra",
-        "Activity",
-        "Canadian"
-      ]
-    },
-    {
-      "blanked": "What Every Indian Woman in Her 30s and 40s Needs to ______ About Perimenopause",
-      "answer": "Know",
-      "options": [
-        "Next",
-        "Kumar",
-        "Redux",
-        "Know"
-      ]
-    },
-    {
-      "blanked": "Samsung Galaxy S26 FE launches with One UI 9 and expanded ______ AI features",
-      "answer": "Galaxy",
-      "options": [
-        "Bhagwats",
-        "Galaxy",
-        "Results",
-        "Pakistan"
-      ]
-    },
-    {
-      "blanked": "'Toxic: A Fairy Tale for Grown-ups' box office collection day 3: ______ starrer sees 29.3 percent decline; mints Rs 23.75 crore overseas",
-      "answer": "Yash-Nayanthara",
-      "options": [
-        "Needs",
-        "Xbox",
-        "Dar",
-        "Yash-Nayanthara"
-      ]
-    },
-    {
-      "blanked": "The agony of ______ — the condition that made me plot my own death",
-      "answer": "PMDD",
-      "options": [
-        "Floods",
-        "PMDD",
-        "Nuwakot",
-        "Announces"
-      ]
-    },
-    {
-      "blanked": "PCB considered pulling players out of Test against England after ______ aired interview with Imran Khan’s sons",
-      "answer": "Sky",
-      "options": [
-        "Sky",
-        "Month",
-        "Needs",
-        "Had"
+        "Harmanpreets"
       ]
     },
     {
       "blanked": "Dolly ______ grew up with 11 siblings in a two-room Tennessee cabin without electricity or running water;",
       "answer": "Parton",
       "options": [
-        "Parton",
+        "Terror",
+        "Nepals",
+        "Balen",
+        "Parton"
+      ]
+    },
+    {
+      "blanked": "Infosys Public Services CEO Lax Gopisetty Missing After ______ Floods",
+      "answer": "Nepal",
+      "options": [
+        "Nepal",
+        "Oil",
+        "Biggest",
+        "Woman"
+      ]
+    },
+    {
+      "blanked": "PM Modi heads to Uzbekistan, SCO; meet with Putin on the cards | India ______",
+      "answer": "News",
+      "options": [
+        "News",
+        "Modi",
+        "Flagship",
+        "Risk"
+      ]
+    },
+    {
+      "blanked": "Donald ______ Sent CIA Chief To Moscow Secretly. Even Top US Officials Had No Idea",
+      "answer": "Trump",
+      "options": [
+        "Stars",
+        "Trump",
+        "Auto",
+        "Brought"
+      ]
+    },
+    {
+      "blanked": "Spider-Man, ______ And A Greek Drama: BJP Casts Insta Meme Net For Gen-Z Attention",
+      "answer": "Motu-Patlu",
+      "options": [
+        "Auto",
+        "Sonia",
+        "Youll",
+        "Motu-Patlu"
+      ]
+    },
+    {
+      "blanked": "Penguin drops ______ Gandhi’s memoir after she rejected ‘changes, deletions’",
+      "answer": "Sonia",
+      "options": [
+        "Sonia",
+        "Apple",
         "Ultra",
-        "Between",
-        "29.3"
-      ]
-    },
-    {
-      "blanked": "Akshay ______ Preity Zinta And More Bollywood Stars Celebrate Raksha Bandhan",
-      "answer": "Kumar",
-      "options": [
-        "Kumar",
-        "Belgium",
-        "Solar",
-        "Tale"
-      ]
-    },
-    {
-      "blanked": "Donald Trump Sent CIA Chief To Moscow Secretly. Even Top US Officials ______ No Idea",
-      "answer": "Had",
-      "options": [
-        "Woman",
-        "One",
-        "Had",
-        "Warsh"
-      ]
-    },
-    {
-      "blanked": "PM Modi heads to Uzbekistan, SCO; meet with Putin on the cards | ______ News",
-      "answer": "India",
-      "options": [
-        "Indus",
-        "Top",
-        "India",
-        "Imran"
+        "Today"
       ]
     }
   ]
