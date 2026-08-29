@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-29T03:18:29.139Z",
+  "generatedAt": "2026-08-29T03:33:24.837Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
     "Fresh glacial lakes form at source of Nepal’s ice-rock avalanche",
     "Trump Announces \"Biggest Oil Deal In World History\" With Venezuela",
-    "Iran lashes out at US sanctions amid economic toll at home",
     "'RSS does not represent us': US-based Hindu group among 61 organisations protesting Mohan Bhagwat's NYC event | India News",
-    "Penguin drops Sonia Gandhi’s memoir after she rejected ‘changes, deletions’",
     "PM Modi heads to Uzbekistan, SCO; meet with Putin on the cards | India News",
+    "Penguin drops Sonia Gandhi’s memoir after she rejected ‘changes, deletions’",
+    "Magnitude 5 earthquake hits Tibet, hundreds of miles north of Himalayan flood",
     "B Nagendra Redux: 2 Years, 2 Resignations, 2 Different Chief Ministers",
+    "Thane court calls CBI arrest of IRS officer, two others in Rs 1.5 crore bribery case 'not legal'",
     "Revanth caught in ‘old guard’ vs ‘ex-TDP, BRS’ as rift in Telangana Congress seeps down to grassroots",
     "'No Compliance While Terror Continues': Sources Hit Back At Pakistan's Ishaq Dar On Indus Waters",
-    "Sukumara Kurup in Brunei? Cyber expert shares crucial information",
     "Nepal flash floods LIVE updates: Over 4,400 rescued as Nepal mobilises massive flood relief op., says PM Balen Shah",
-    "Donald Trump Sent CIA Chief To Moscow Secretly. Even Top US Officials Had No Idea",
-    "With nod to India, Canadian FM talks 'diversification' amid US trade war: 'You'll know why I have such a...",
-    "Chinese Rescuers Finds 'Nothing But Ruins' At Nepal-Tibet Checkpoint Wiped Out By Flash Flood",
+    "US revises statements suggesting Chinese hackers attacked agencies",
+    "Syria President Appoints Kurdish Leader Mazloum Abdi As His Adviser",
+    "US sanctions 4 India-based companies, 3 individuals over Iran oil trade",
     "India's markets regulator approves Jio Platforms' $3.8 billion IPO",
     "Infosys Public Services CEO Lax Gopisetty Missing After Nepal Floods",
-    "Mint Explainer | Banks recover 1% in personal guarantor cases; Subhash Chandra case said to involve associate companies",
+    "Fake Sales, Round-Tripping, 1,700% Stock Surge: SEBI Uncovers Debock's Pump-And-Dump Scheme",
     "Mahindra XEV 9S BaaS Launch Price Rs 12.65 L - XEV 9e Rs 13.90 L",
-    "Grand Theft Auto VI trailer feels like a movie and reveals new gameplay mechanics",
+    "'GTA 6' Release Details: Everything We Know About 'Grand Theft Auto VI'",
     "iPhone 18 Pro, Foldable iPhone Ultra and More: Apple Products Expected Next Month",
     "Galaxy S26 FE Debuts With Flagship AI Features, 7 Years Of Updates, And 45W Charging",
-    "Xbox CEO Asha Sharma once again stresses Xbox's need for affordability",
+    "Xbox CEO Asha Sharma says affordability must be priority for next-gen consoles as hardware prices rise",
     "'Toxic: A Fairy Tale for Grown-ups' box office collection day 3: Yash-Nayanthara starrer sees 29.3 percent decline; mints Rs 23.75 crore overseas",
     "Akshay Kumar, Preity Zinta And More Bollywood Stars Celebrate Raksha Bandhan",
     "Dolly Parton grew up with 11 siblings in a two-room Tennessee cabin without electricity or running water;"
   ],
   "quiz": [
     {
-      "blanked": "Mint Explainer | ______ recover 1% in personal guarantor cases; Subhash Chandra case said to involve associate companies",
-      "answer": "Banks",
+      "blanked": "Trump Announces \"Biggest Oil Deal In World History\" With ______",
+      "answer": "Venezuela",
       "options": [
-        "Banks",
-        "Sharma",
-        "Nepal-Tibet",
-        "Month"
+        "Activity",
+        "Details",
+        "Venezuela",
+        "82826"
       ]
     },
     {
-      "blanked": "iPhone 18 ______ Foldable iPhone Ultra and More: Apple Products Expected Next Month",
-      "answer": "Pro",
+      "blanked": "Physical Activity Linked to Lower ______ Risk in Atrial Fibrillation",
+      "answer": "Stroke",
       "options": [
-        "23.75",
-        "Kapp",
-        "Pro",
-        "Flood"
+        "Activity",
+        "Congress",
+        "Results",
+        "Stroke"
       ]
     },
     {
-      "blanked": "Revanth caught in ‘old guard’ vs ‘ex-TDP, ______ as rift in Telangana Congress seeps down to grassroots",
-      "answer": "BRS",
+      "blanked": "'No Compliance While Terror Continues': Sources ______ Back At Pakistan's Ishaq Dar On Indus Waters",
+      "answer": "Hit",
       "options": [
-        "Foldable",
         "Yash-Nayanthara",
-        "Gandhis",
-        "BRS"
+        "Shah",
+        "Hit",
+        "Lower"
       ]
     },
     {
-      "blanked": "Donald Trump Sent CIA ______ To Moscow Secretly. Even Top US Officials Had No Idea",
-      "answer": "Chief",
+      "blanked": "Photos: ______ part and make way for deep lunar eclipse",
+      "answer": "Clouds",
       "options": [
-        "Uzbekistan",
-        "Terror",
-        "Ultra",
-        "Chief"
+        "Raksha",
+        "Price",
+        "Clouds",
+        "Theft"
       ]
     },
     {
-      "blanked": "Xbox ______ Asha Sharma once again stresses Xbox's need for affordability",
-      "answer": "CEO",
+      "blanked": "India's markets regulator approves Jio ______ $3.8 billion IPO",
+      "answer": "Platforms",
       "options": [
-        "Ministers",
-        "Missing",
-        "Jio",
-        "CEO"
-      ]
-    },
-    {
-      "blanked": "Western ______ frogs sort by size to coexist, study finds",
-      "answer": "Ghats",
-      "options": [
-        "Know",
-        "Ghats",
-        "Missing",
-        "Ministers"
-      ]
-    },
-    {
-      "blanked": "B ______ Redux: 2 Years, 2 Resignations, 2 Different Chief Ministers",
-      "answer": "Nagendra",
-      "options": [
-        "Grand",
-        "Flash",
-        "Nagendra",
-        "Sources"
-      ]
-    },
-    {
-      "blanked": "PCB considered pulling players out of Test against ______ after Sky aired interview with Imran Khan’s sons",
-      "answer": "England",
-      "options": [
-        "Ishaq",
+        "Platforms",
+        "Hindu",
         "Bhagwats",
-        "Finds",
-        "England"
+        "Nepal"
       ]
     },
     {
-      "blanked": "Grand ______ Auto VI trailer feels like a movie and reveals new gameplay mechanics",
-      "answer": "Theft",
+      "blanked": "India’s Solar ambitions: ______ by Aditya-Li valuable to Science",
+      "answer": "Findings",
       "options": [
-        "Theft",
-        "Chess",
-        "Cup",
-        "Compliance"
+        "Findings",
+        "Scheme",
+        "Aditya-Li",
+        "Nepal"
       ]
     },
     {
-      "blanked": "Infosys Public Services CEO Lax Gopisetty Missing After Nepal ______",
-      "answer": "Floods",
+      "blanked": "US sanctions 4 India-based companies, 3 individuals over ______ oil trade",
+      "answer": "Iran",
       "options": [
-        "Kurup",
-        "Putin",
-        "Floods",
-        "Canadian"
+        "Tour",
+        "Iran",
+        "Raksha",
+        "Atrial"
       ]
     },
     {
-      "blanked": "Nepal flash floods LIVE updates: Over 4,400 rescued as Nepal mobilises massive flood relief op., says PM ______ Shah",
-      "answer": "Balen",
+      "blanked": "B Nagendra Redux: 2 Years, 2 ______ 2 Different Chief Ministers",
+      "answer": "Resignations",
       "options": [
-        "IPO",
-        "Balen",
-        "August",
-        "12.65"
+        "Bhagwats",
+        "Products",
+        "Resignations",
+        "Stroke"
       ]
     },
     {
-      "blanked": "'No Compliance While Terror Continues': Sources Hit Back At ______ Ishaq Dar On Indus Waters",
-      "answer": "Pakistans",
+      "blanked": "The agony of ______ — the condition that made me plot my own death",
+      "answer": "PMDD",
       "options": [
-        "Pakistans",
-        "Bangar",
-        "Idea",
-        "BRS"
+        "Platforms",
+        "Debocks",
+        "PMDD",
+        "Features"
+      ]
+    },
+    {
+      "blanked": "Syria President ______ Kurdish Leader Mazloum Abdi As His Adviser",
+      "answer": "Appoints",
+      "options": [
+        "Bhagwats",
+        "PMDD",
+        "Tibet",
+        "Appoints"
+      ]
+    },
+    {
+      "blanked": "Mahindra XEV 9S BaaS ______ Price Rs 12.65 L - XEV 9e Rs 13.90 L",
+      "answer": "Launch",
+      "options": [
+        "Zinta",
+        "History",
+        "1.5",
+        "Launch"
+      ]
+    },
+    {
+      "blanked": "Praggnanandhaa comes from behind, wins Grand Chess ______ 2026",
+      "answer": "Tour",
+      "options": [
+        "Charging",
+        "1.5",
+        "Tour",
+        "Ishaq"
       ]
     }
   ]
