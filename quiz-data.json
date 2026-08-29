@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T22:03:45.721Z",
+  "generatedAt": "2026-08-29T22:18:22.541Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
@@ -13,14 +13,14 @@
     "Before The Nepal Flood, A Glacial Fall: Tracing The Trigger, And A 100-km Killer Surge",
     "Trinamool Congress Moves Calcutta High Court Against Alleged Removal Of Billboard From Party Office",
     "Manufacture in India, build for world: FM Sitharaman",
-    "Russian strike on Kyiv-area ammunition depot triggers blast, killing 37",
     "Norway's King Haakon honours 'dear father' Harald in first speech as sovereign",
     "Iran’s leaders acknowledge economic toll of war, pledge diplomacy, defence",
     "Who is Milo Yiannopoulos, far-right British commentator, detained by ICE? Former Trump supporter faces de",
-    "Sold house, personal assets, now living on rental income: Zee founder Subhash Chandra reveals his finances",
+    "Canada To Impose Up To 50% Tariffs On 700 US Goods As Trade War Escalates",
+    "HDFC Bank CEO Jagdishan to step down, decides not to seek reappointment",
+    "Union Bank, LIC Housing Fin, Canara Bank challenge NCLT nod to Subhash Chandra resolution plan",
     "Nvidia’s AI advantage is moving beyond the GPU",
-    "Gold drops 3% as Fed's Warsh comments lift rate hike bets",
-    "CNG Prices Hiked By Rs 3.89 In Delhi-NCR: Check City-Wise Rates",
+    "Delhi CNG price hike: Rs 3.89/kg rise fuels fare hike demand, auto strike threat and political clash",
     "Nvidia's DLSS 5 leaked early, and modders have already broken it out of its Blackwell cage",
     "First look at Grand Theft Auto 6 gameplay released on Netflix ahead of November launch",
     "Here's when the iPhone 18 Pro and iPhone 18 Pro Max are rumored to go on pre-order - GSMArena.com news",
@@ -31,123 +31,123 @@
   ],
   "quiz": [
     {
-      "blanked": "'SNL’ star ______ Thompson to join ‘America’s Got Talent’ after Simon Cowell takes a break for back surger",
-      "answer": "Kenan",
+      "blanked": "Delhi ______ price hike: Rs 3.89/kg rise fuels fare hike demand, auto strike threat and political clash",
+      "answer": "CNG",
       "options": [
-        "Nepal",
-        "Billboard",
-        "182",
-        "Kenan"
-      ]
-    },
-    {
-      "blanked": "Nepal and China resume flood rescue as death toll surpasses ______",
-      "answer": "600",
-      "options": [
+        "Falcon",
+        "War",
         "Auto",
-        "Mirziyoyev",
-        "600",
-        "Reveals"
+        "CNG"
       ]
     },
     {
-      "blanked": "Deals: the Galaxy S26 FE is coming, Galaxy S26 series on sale, Nothing ______ (3) also discounted - GSMArena.com news",
-      "answer": "Phone",
+      "blanked": "Amid rising swine flu cases, ______ govt asks hospitals to reserve isolation beds",
+      "answer": "Delhi",
       "options": [
-        "Warsh",
-        "Phone",
-        "When",
-        "Chiefs"
+        "Moves",
+        "Advani",
+        "Delhi",
+        "Rukh"
       ]
     },
     {
-      "blanked": "PM ______ lands in Uzbekistan on two-nation visit, President Shavkat Mirziyoyev receives him | India News",
+      "blanked": "First look at Grand ______ Auto 6 gameplay released on Netflix ahead of November launch",
+      "answer": "Theft",
+      "options": [
+        "Theft",
+        "Moon",
+        "Moves",
+        "Doklam"
+      ]
+    },
+    {
+      "blanked": "Leukocyte Telomere ______ Shows Limited Value in Pancreatic Cancer",
+      "answer": "Length",
+      "options": [
+        "War",
+        "Bhagwat",
+        "Link",
+        "Length"
+      ]
+    },
+    {
+      "blanked": "Union Bank, LIC Housing Fin, Canara Bank challenge ______ nod to Subhash Chandra resolution plan",
+      "answer": "NCLT",
+      "options": [
+        "Congress",
+        "Housing",
+        "Khan",
+        "NCLT"
+      ]
+    },
+    {
+      "blanked": "Israeli settlers surround ______ home in occupied West Bank’s Qusra",
+      "answer": "Palestinian",
+      "options": [
+        "ESA",
+        "Shows",
+        "Palestinian",
+        "Nothing"
+      ]
+    },
+    {
+      "blanked": "Nvidia’s AI advantage is moving beyond the ______",
+      "answer": "GPU",
+      "options": [
+        "320",
+        "Netherlands",
+        "GPU",
+        "Bhagwat"
+      ]
+    },
+    {
+      "blanked": "Rahul Gandhi asks PM ______ to order FIR under SC/ST Act over ‘purification’ after Kharge’s rally | India News",
       "answer": "Modi",
       "options": [
-        "Sandro",
-        "Heavy",
         "Modi",
-        "High"
-      ]
-    },
-    {
-      "blanked": "Placental ______ Changes Link to Persistent Food Allergy",
-      "answer": "Epigenetic",
-      "options": [
-        "Epigenetic",
-        "Changes",
-        "Talent",
-        "400"
-      ]
-    },
-    {
-      "blanked": "Suryakumar on being dropped: ______ everything is going well, why the change?'",
-      "answer": "When",
-      "options": [
-        "Argentina",
-        "Suns",
-        "ESC",
-        "When"
-      ]
-    },
-    {
-      "blanked": "Before The ______ Flood, A Glacial Fall: Tracing The Trigger, And A 100-km Killer Surge",
-      "answer": "Nepal",
-      "options": [
-        "Nepal",
-        "Falcon",
-        "Max",
-        "Yash"
-      ]
-    },
-    {
-      "blanked": "Imaging ______ Widespread Silent Atherosclerosis Burden: ESC 2026",
-      "answer": "Reveals",
-      "options": [
-        "Ahead",
-        "320",
-        "Reveals",
-        "Chandra"
-      ]
-    },
-    {
-      "blanked": "Newcastle get last laugh vs rotten Spurs as Sandro ______ flops vs former club - 5 talking points",
-      "answer": "Tonali",
-      "options": [
-        "Tonali",
-        "Day",
-        "Teaser",
-        "Party"
-      ]
-    },
-    {
-      "blanked": "China removes PLA general who oversaw Doklam and ______ standoffs with India from key post",
-      "answer": "Galwan",
-      "options": [
         "Galwan",
-        "Limited",
-        "News",
-        "Billboard"
+        "Trump",
+        "Uzbekistan"
       ]
     },
     {
-      "blanked": "Russian strike on ______ ammunition depot triggers blast, killing 37",
-      "answer": "Kyiv-area",
+      "blanked": "'SNL’ star Kenan Thompson to join ‘America’s Got Talent’ after Simon ______ takes a break for back surger",
+      "answer": "Cowell",
       "options": [
-        "Kyiv-area",
-        "Americas",
-        "Length",
-        "Harald"
+        "DLSS",
+        "Sandro",
+        "Cowell",
+        "CNG"
       ]
     },
     {
-      "blanked": "Rahul Gandhi asks PM Modi to order FIR under SC/ST Act over ‘purification’ after ______ rally | India News",
-      "answer": "Kharges",
+      "blanked": "Trinamool Congress Moves Calcutta High Court Against ______ Removal Of Billboard From Party Office",
+      "answer": "Alleged",
       "options": [
-        "Phone",
-        "Kharges",
-        "Cup",
-        "Simon"
+        "Burden",
+        "Former",
+        "Sitharaman",
+        "Alleged"
+      ]
+    },
+    {
+      "blanked": "Who is Milo Yiannopoulos, far-right British commentator, detained by ICE? Former ______ supporter faces de",
+      "answer": "Trump",
+      "options": [
+        "Trump",
+        "Neeraj",
+        "Solar",
+        "700"
+      ]
+    },
+    {
+      "blanked": "Nepal and ______ resume flood rescue as death toll surpasses 600",
+      "answer": "China",
+      "options": [
+        "China",
+        "Burden",
+        "700",
+        "Delhi"
       ]
     }
   ]
