@@ -1,26 +1,26 @@
 {
-  "generatedAt": "2026-08-29T07:48:27.472Z",
+  "generatedAt": "2026-08-29T08:03:37.331Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
     "Nepal flash floods LIVE updates: Death toll rises to 623; Over 2,400 missing in Nepal, China",
     "Looking to advance India’s vision for region free from terror, says PM Modi as he embarks on visit to Uzbekistan, Kyrgyzstan",
     "Trump announces ‘biggest oil deal in world history’ with Venezuela",
-    "Oneness or Hindu supremacy? RSS chief Bhagwat’s secretive New York hosts",
     "War weighs on Iran's economy as US intensifies sanctions",
+    "'RSS does not represent us': US-based Hindu group among 61 organisations protesting Mohan Bhagwat's NYC event | India News",
     "Penguin drops Sonia Gandhi’s memoir after she rejected ‘changes, deletions’",
     "Chatroo Kishtwar minor’s death case: Health worker arrested, total accused reach six",
-    "Union minister Jual Oram alleges plot to oust him from Cabinet, warns of 'ability to cut off their hands' | India News",
+    "Nepal flash flood: No trace of 66 Maharashtra pilgrims yet, families’ uncertainty grows",
+    "Social media influencer Manjeet Kaur dies after being 'abducted' from Chandigarh, 'tied to tree and set o",
     "Food Body Officer Cornered, Forced To Eat Expired Biscuits Over Bribery Allegations In Maharashtra",
-    "Pakistani drone detected in Jammu and Kashmir's Poonch, security forces put LoC sector on high alert",
+    "Xi's purge hits General who commanded PLA at Doklam, Galwan against India",
     "Nepal Counted Flood Victims. Thieves Counted Lakhs From Safe Swept In Floods",
+    "Canada hits back at Trump’s latest tariffs with up to 50% duties and $5.4 billion package for workers...",
     "US revises statements suggesting Chinese hackers attacked agencies",
-    "'Name dates back 400 years': Canada's Carney rejects Trump's 'Lake Ontario' name change to 'Lake America'",
-    "US-Israel war on Iran, six months down the line: In numbers",
     "Mint Explainer | Banks recover 1% in personal guarantor cases; Subhash Chandra case said to involve associate companies",
     "OpenAI to end agreement with SpaceX's AI coding tool Cursor, deepening Musk-Altman clash",
-    "Why India's Biggest Stocks Stopped Working: Three Top Investors, One Verdict",
     "US stocks open mixed as Kevin Warsh provides fresh cues for inflation, interest rate and growth",
+    "Why India's Biggest Stocks Stopped Working: Three Top Investors, One Verdict",
     "'GTA 6' Release Details: Everything We Know About 'Grand Theft Auto VI'",
     "iPhone 18 Pro, Foldable iPhone Ultra and More: Apple Products Expected Next Month",
     "Xbox CEO Says Project Helix Includes a 'Family of Devices'",
@@ -31,123 +31,123 @@
   ],
   "quiz": [
     {
+      "blanked": "Social media influencer ______ Kaur dies after being 'abducted' from Chandigarh, 'tied to tree and set o",
+      "answer": "Manjeet",
+      "options": [
+        "Manjeet",
+        "Stocks",
+        "Banks",
+        "Grace"
+      ]
+    },
+    {
+      "blanked": "Trump praises Indian-origin astronaut ______ Menon, invites crew to Oval Office",
+      "answer": "Anil",
+      "options": [
+        "Anil",
+        "Expected",
+        "Telescope",
+        "Charging"
+      ]
+    },
+    {
+      "blanked": "Hockey India rewards women’s team with Rs 50 lakh after historic fifth-place ______ Cup finish",
+      "answer": "World",
+      "options": [
+        "Office",
+        "SpaceXs",
+        "World",
+        "Shares"
+      ]
+    },
+    {
+      "blanked": "Galaxy S26 FE Debuts With Flagship AI Features, 7 ______ Of Updates, And 45W Charging",
+      "answer": "Years",
+      "options": [
+        "623",
+        "Khans",
+        "US-based",
+        "Years"
+      ]
+    },
+    {
       "blanked": "War weighs on ______ economy as US intensifies sanctions",
       "answer": "Irans",
       "options": [
-        "Kavin",
-        "Samay",
-        "Menon",
-        "Irans"
+        "Everything",
+        "Falcon",
+        "Irans",
+        "Updates"
       ]
     },
     {
-      "blanked": "Orry warns Samay Raina on 'India's ______ Latent 2':'Aukaat mein raho, tum andar jaayega toh tum bahar nahi",
-      "answer": "Got",
+      "blanked": "US revises statements suggesting ______ hackers attacked agencies",
+      "answer": "Chinese",
       "options": [
-        "Roman",
-        "Eat",
-        "Forced",
-        "Got"
+        "Falcon",
+        "Chinese",
+        "Science",
+        "Nepal"
       ]
     },
     {
-      "blanked": "'Toxic: A Fairy Tale for Grown-ups' box office collection day 3: Yash-Nayanthara starrer sees ______ percen",
-      "answer": "29.3",
+      "blanked": "OpenAI to end agreement with SpaceX's AI coding tool Cursor, deepening ______ clash",
+      "answer": "Musk-Altman",
       "options": [
-        "Test",
-        "Canadas",
-        "Kavin",
-        "29.3"
+        "PMDD",
+        "Floods",
+        "Musk-Altman",
+        "Lower"
       ]
     },
     {
-      "blanked": "Oneness or Hindu supremacy? RSS chief ______ secretive New York hosts",
-      "answer": "Bhagwats",
+      "blanked": "Looking to advance India’s vision for region free from terror, says PM Modi as he embarks on visit to Uzbekistan, ______",
+      "answer": "Kyrgyzstan",
       "options": [
-        "Yadav",
-        "Kashmirs",
-        "Vishnu",
-        "Bhagwats"
-      ]
-    },
-    {
-      "blanked": "Photos: ______ part and make way for deep lunar eclipse",
-      "answer": "Clouds",
-      "options": [
-        "Flood",
-        "Clouds",
-        "News",
-        "Ultra"
-      ]
-    },
-    {
-      "blanked": "Trump announces ‘biggest oil deal in world history’ with ______",
-      "answer": "Venezuela",
-      "options": [
-        "Linked",
-        "More",
-        "Body",
-        "Venezuela"
-      ]
-    },
-    {
-      "blanked": "Union minister ______ Oram alleges plot to oust him from Cabinet, warns of 'ability to cut off their hands' | India News",
-      "answer": "Jual",
-      "options": [
-        "Jual",
         "Stocks",
-        "Kashmirs",
-        "Family"
+        "Nayanthara",
+        "Kyrgyzstan",
+        "Office"
       ]
     },
     {
-      "blanked": "iPhone 18 Pro, Foldable iPhone Ultra and More: Apple Products Expected ______ Month",
-      "answer": "Next",
+      "blanked": "Why India's Biggest Stocks ______ Working: Three Top Investors, One Verdict",
+      "answer": "Stopped",
       "options": [
-        "Ultra",
-        "Eat",
-        "Foldable",
-        "Next"
+        "More",
+        "Stopped",
+        "Arsenal",
+        "Death"
       ]
     },
     {
-      "blanked": "PCB considered pulling players out of Test against ______ after Sky aired interview with Imran Khan’s sons",
-      "answer": "England",
+      "blanked": "Samantha Ruth Prabhu Shares How ______ Weight She Has Gained During Pregnancy",
+      "answer": "Much",
       "options": [
-        "Yash-Nayanthara",
-        "England",
-        "Health",
-        "India"
+        "Trumps",
+        "Three",
+        "Much",
+        "Fairy"
       ]
     },
     {
-      "blanked": "Nepal Counted ______ Victims. Thieves Counted Lakhs From Safe Swept In Floods",
-      "answer": "Flood",
+      "blanked": "India’s Solar ambitions: Findings by Aditya-Li valuable to ______",
+      "answer": "Science",
       "options": [
-        "Expected",
-        "Flood",
-        "Features",
-        "Clouds"
+        "Apple",
+        "Kavin",
+        "Science",
+        "China"
       ]
     },
     {
-      "blanked": "H1N1 cases climb in ______ as seasonal flu activity rises nationwide, docs urge caution",
-      "answer": "Jammu",
+      "blanked": "'GTA 6' Release Details: Everything We Know ______ 'Grand Theft Auto VI'",
+      "answer": "About",
       "options": [
-        "Has",
-        "Telescope",
-        "Jammu",
-        "Activity"
-      ]
-    },
-    {
-      "blanked": "Samantha Ruth Prabhu Shares How Much Weight She Has Gained During ______",
-      "answer": "Pregnancy",
-      "options": [
-        "Oram",
-        "Pregnancy",
-        "Carney",
-        "SpaceX"
+        "About",
+        "Debuts",
+        "Chandra",
+        "Stocks"
       ]
     }
   ]
