@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T11:18:29.031Z",
+  "generatedAt": "2026-08-29T11:33:34.336Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
@@ -9,15 +9,15 @@
     "'RSS does not represent us': US-based Hindu group among 61 organisations protesting Mohan Bhagwat's NYC event | India News",
     "42 years on, Sukumara Kurup mystery returns with Brunei ‘sighting’ — and a photo twist",
     "'Not Publishing Sonia Gandhi's Book, Were Keen To': Penguin On 'Belonging'",
-    "Expulsion of AIMIM MLC Mirza Rahmath Baig sparks questions over controversial video",
     "Case filed against Mamata Banerjee over violation of Calcutta high court order",
-    "Bar Council Not Earning Members' Respect Not A Good Sign For Legal Profession: Justice BV Nagarathna",
     "3 Delhi BJP MPs Visit Sajjan Kumar's House. Then Party Chief's Big Action",
+    "Chatroo Kishtwar minor’s death case: Health worker arrested, total accused reach six",
+    "No word from Thane couple on first trip to Nepal, kin await clarity",
     "Oil Deal To Bring $100 Billion Investment, Thousands Of Jobs To Venezuela: Rubio",
     "Galwan, Doklam general axed by Xi: Zhao Zongqi removed from China's top advisory body",
-    "Nepal Counted Flood Victims. Thieves Counted Lakhs From Safe Swept In Floods",
-    "27 Killed As Russian Strikes Ukraine's Kyiv, 50 Residential Buildings Damaged",
-    "Mint Explainer | Banks recover 1% in personal guarantor cases; Subhash Chandra case said to involve associate companies",
+    "CIA Failed To Connect Key Intel Naming 9/11 Mastermind Before Attacks: Report",
+    "Russian strike on Kyiv-area warehouse causes detonation, killing 27",
+    "Subhash Chandra breaks silence on NCLT order, disputes ₹3,900 crore claim, says most group debt repaid",
     "Meta’s Sandhya Devanathan exits after decade, joins OpenAI as Southeast Asia, Australia VP",
     "Infosys Public Services CEO Lax Gopisetty Missing After Nepal Floods",
     "‘Flash Crash’ Hits Sensex Index During Unpopular Closing Auction",
@@ -25,129 +25,129 @@
     "'Grand Theft Auto 6' Extended in-game footage unveiled",
     "Deals: the Galaxy S26 FE is on pre-order, but the S26+ is cheaper - several Pocos are cheaper too - GSMArena.com news",
     "Xbox CEO Says Project Helix Includes a 'Family of Devices'",
-    "'Toxic: A Fairy Tale for Grown-ups' box office collection day 3: Yash-Nayanthara starrer sees 29.3 percen",
-    "Hi Box Office Collection Day 1: Nayanthara's Romance Drama Opens 97% Lower Than Mana Shankara Vara Prasad Garu",
-    "Samantha Ruth Prabhu Shares How Much Weight She Has Gained During Pregnancy"
+    "'Toxic' box office collection Day 4 [LIVE]: Yash and Kiara Advani film races towards Rs 175 crore domesti",
+    "Dil Chahta Hai Turns 25: Aamir Khan, Saif Ali Khan And Farhan Akhtar Reunite In Mumbai. MIA - Akshaye Khanna",
+    "Mom-to-be Samantha Ruth Prabhu spills how her journey to motherhood made gain 11 kilos during AMA session"
   ],
   "quiz": [
-    {
-      "blanked": "Mint ______ | Banks recover 1% in personal guarantor cases; Subhash Chandra case said to involve associate companies",
-      "answer": "Explainer",
-      "options": [
-        "Explainer",
-        "Risk",
-        "Baig",
-        "Hindu"
-      ]
-    },
     {
       "blanked": "Photos: ______ part and make way for deep lunar eclipse",
       "answer": "Clouds",
       "options": [
-        "Killed",
-        "Than",
+        "Thousands",
         "Clouds",
-        "Calcutta"
+        "Farhan",
+        "Leap"
       ]
     },
     {
-      "blanked": "NASA’s Nancy ______ Roman Space Telescope Has a Hidden Technological Leap",
-      "answer": "Grace",
+      "blanked": "Subhash ______ breaks silence on NCLT order, disputes ₹3,900 crore claim, says most group debt repaid",
+      "answer": "Chandra",
       "options": [
-        "Grace",
-        "Damaged",
+        "Partons",
+        "LIVE",
+        "Chandra",
+        "BJP"
+      ]
+    },
+    {
+      "blanked": "Xbox ______ Says Project Helix Includes a 'Family of Devices'",
+      "answer": "CEO",
+      "options": [
+        "Gandhis",
+        "Mamata",
+        "CEO",
+        "Attacks"
+      ]
+    },
+    {
+      "blanked": "3 Delhi ______ MPs Visit Sajjan Kumar's House. Then Party Chief's Big Action",
+      "answer": "BJP",
+      "options": [
+        "Stage",
+        "Imran",
+        "BJP",
+        "MIA"
+      ]
+    },
+    {
+      "blanked": "Nepal flash floods LIVE updates: Risk of lake 'burst' near border disaster site wanes, China says; death toll crosses ______",
+      "answer": "620",
+      "options": [
+        "Saif",
+        "NCLT",
+        "Rubio",
+        "620"
+      ]
+    },
+    {
+      "blanked": "Aditya-L1 catches ______ early warning signs before Solar flares",
+      "answer": "Suns",
+      "options": [
+        "Suns",
+        "Food",
         "Allergy",
-        "Counted"
+        "Next"
       ]
     },
     {
-      "blanked": "42 years on, ______ Kurup mystery returns with Brunei ‘sighting’ — and a photo twist",
-      "answer": "Sukumara",
+      "blanked": "'Not Publishing Sonia ______ Book, Were Keen To': Penguin On 'Belonging'",
+      "answer": "Gandhis",
       "options": [
-        "Atletico",
-        "Sukumara",
-        "Expected",
-        "SCO"
+        "Leap",
+        "Technological",
+        "Aamir",
+        "Gandhis"
+      ]
+    },
+    {
+      "blanked": "NASA’s Nancy Grace Roman Space Telescope Has a Hidden Technological ______",
+      "answer": "Leap",
+      "options": [
+        "Sonia",
+        "More",
+        "Leap",
+        "Kishtwar"
+      ]
+    },
+    {
+      "blanked": "Meta’s Sandhya Devanathan exits after decade, joins OpenAI as Southeast Asia, ______ VP",
+      "answer": "Australia",
+      "options": [
+        "During",
+        "Big",
+        "Australia",
+        "Devanathan"
+      ]
+    },
+    {
+      "blanked": "PM Modi begins four-day ______ Kyrgyzstan visit for SCO summit; what's on agenda",
+      "answer": "Uzbekistan",
+      "options": [
+        "Test",
+        "Ruth",
+        "Sajjan",
+        "Uzbekistan"
+      ]
+    },
+    {
+      "blanked": "‘Flash Crash’ ______ Sensex Index During Unpopular Closing Auction",
+      "answer": "Hits",
+      "options": [
+        "Hits",
+        "Connect",
+        "Visit",
+        "Partons"
       ]
     },
     {
       "blanked": "Deals: the Galaxy S26 FE is on pre-order, but the S26+ is cheaper - several ______ are cheaper too - GSMArena.com news",
       "answer": "Pocos",
       "options": [
-        "Strains",
-        "Council",
-        "England",
-        "Pocos"
-      ]
-    },
-    {
-      "blanked": "Case filed against Mamata Banerjee over violation of ______ high court order",
-      "answer": "Calcutta",
-      "options": [
-        "Link",
-        "Calcutta",
-        "Roman",
-        "Sajjan"
-      ]
-    },
-    {
-      "blanked": "'Grand Theft ______ 6' Extended in-game footage unveiled",
-      "answer": "Auto",
-      "options": [
-        "620",
-        "Index",
-        "Auto",
-        "Khans"
-      ]
-    },
-    {
-      "blanked": "Expulsion of AIMIM MLC Mirza ______ Baig sparks questions over controversial video",
-      "answer": "Rahmath",
-      "options": [
-        "Rahmath",
-        "Reds",
-        "Bradley",
-        "Hidden"
-      ]
-    },
-    {
-      "blanked": "PCB considered pulling players out of Test against ______ after Sky aired interview with Imran Khan’s sons",
-      "answer": "England",
-      "options": [
-        "China",
-        "England",
-        "US-based",
-        "Ukraines"
-      ]
-    },
-    {
-      "blanked": "As Climate And Strains Change, H1N1 Demands Stronger Global ______",
-      "answer": "Action",
-      "options": [
-        "PMDD",
-        "Action",
-        "FIR",
-        "Asia"
-      ]
-    },
-    {
-      "blanked": "27 Killed As Russian Strikes ______ Kyiv, 50 Residential Buildings Damaged",
-      "answer": "Ukraines",
-      "options": [
-        "Ukraines",
-        "SCO",
-        "Buildings",
-        "Office"
-      ]
-    },
-    {
-      "blanked": "Hi Box Office Collection Day 1: ______ Romance Drama Opens 97% Lower Than Mana Shankara Vara Prasad Garu",
-      "answer": "Nayantharas",
-      "options": [
-        "Hits",
-        "Nayantharas",
-        "MPs",
-        "Banerjee"
+        "Pocos",
+        "Mohan",
+        "Apple",
+        "Turns"
       ]
     }
   ]
