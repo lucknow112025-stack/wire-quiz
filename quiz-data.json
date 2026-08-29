@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T03:03:34.071Z",
+  "generatedAt": "2026-08-29T03:18:29.139Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
@@ -9,18 +9,18 @@
     "'RSS does not represent us': US-based Hindu group among 61 organisations protesting Mohan Bhagwat's NYC event | India News",
     "Penguin drops Sonia Gandhi’s memoir after she rejected ‘changes, deletions’",
     "PM Modi heads to Uzbekistan, SCO; meet with Putin on the cards | India News",
+    "B Nagendra Redux: 2 Years, 2 Resignations, 2 Different Chief Ministers",
+    "Revanth caught in ‘old guard’ vs ‘ex-TDP, BRS’ as rift in Telangana Congress seeps down to grassroots",
     "'No Compliance While Terror Continues': Sources Hit Back At Pakistan's Ishaq Dar On Indus Waters",
-    "Spider-Man, Motu-Patlu, And A Greek Drama: BJP Casts Insta Meme Net For Gen-Z Attention",
-    "3,400 SIR forms found at Navi Mumbai photocopy shop; 5 BLOs suspended as Sena (UBT)-BJP clash",
-    "Remains of 4 Nagas Killed in Attack Brought to Senapati District Hospital",
+    "Sukumara Kurup in Brunei? Cyber expert shares crucial information",
     "Nepal flash floods LIVE updates: Over 4,400 rescued as Nepal mobilises massive flood relief op., says PM Balen Shah",
-    "Syria President Appoints Kurdish Leader Mazloum Abdi As His Adviser",
     "Donald Trump Sent CIA Chief To Moscow Secretly. Even Top US Officials Had No Idea",
     "With nod to India, Canadian FM talks 'diversification' amid US trade war: 'You'll know why I have such a...",
+    "Chinese Rescuers Finds 'Nothing But Ruins' At Nepal-Tibet Checkpoint Wiped Out By Flash Flood",
     "India's markets regulator approves Jio Platforms' $3.8 billion IPO",
-    "Gold prices shed about 3% on hawkish Warsh at Jackson Hole, set for weekly decline",
     "Infosys Public Services CEO Lax Gopisetty Missing After Nepal Floods",
-    "CNG To Get Costlier By Rs 3.89, Says IGL. Price In Delhi Nears Rs 87/kg",
+    "Mint Explainer | Banks recover 1% in personal guarantor cases; Subhash Chandra case said to involve associate companies",
+    "Mahindra XEV 9S BaaS Launch Price Rs 12.65 L - XEV 9e Rs 13.90 L",
     "Grand Theft Auto VI trailer feels like a movie and reveals new gameplay mechanics",
     "iPhone 18 Pro, Foldable iPhone Ultra and More: Apple Products Expected Next Month",
     "Galaxy S26 FE Debuts With Flagship AI Features, 7 Years Of Updates, And 45W Charging",
@@ -31,123 +31,123 @@
   ],
   "quiz": [
     {
-      "blanked": "iPhone 18 Pro, Foldable iPhone Ultra and More: ______ Products Expected Next Month",
-      "answer": "Apple",
+      "blanked": "Mint Explainer | ______ recover 1% in personal guarantor cases; Subhash Chandra case said to involve associate companies",
+      "answer": "Banks",
       "options": [
-        "CIA",
-        "Apple",
+        "Banks",
+        "Sharma",
+        "Nepal-Tibet",
+        "Month"
+      ]
+    },
+    {
+      "blanked": "iPhone 18 ______ Foldable iPhone Ultra and More: Apple Products Expected Next Month",
+      "answer": "Pro",
+      "options": [
+        "23.75",
+        "Kapp",
+        "Pro",
+        "Flood"
+      ]
+    },
+    {
+      "blanked": "Revanth caught in ‘old guard’ vs ‘ex-TDP, ______ as rift in Telangana Congress seeps down to grassroots",
+      "answer": "BRS",
+      "options": [
+        "Foldable",
+        "Yash-Nayanthara",
+        "Gandhis",
+        "BRS"
+      ]
+    },
+    {
+      "blanked": "Donald Trump Sent CIA ______ To Moscow Secretly. Even Top US Officials Had No Idea",
+      "answer": "Chief",
+      "options": [
+        "Uzbekistan",
+        "Terror",
+        "Ultra",
+        "Chief"
+      ]
+    },
+    {
+      "blanked": "Xbox ______ Asha Sharma once again stresses Xbox's need for affordability",
+      "answer": "CEO",
+      "options": [
+        "Ministers",
+        "Missing",
+        "Jio",
+        "CEO"
+      ]
+    },
+    {
+      "blanked": "Western ______ frogs sort by size to coexist, study finds",
+      "answer": "Ghats",
+      "options": [
+        "Know",
         "Ghats",
-        "Greek"
+        "Missing",
+        "Ministers"
       ]
     },
     {
-      "blanked": "Nepal flash floods LIVE updates: Over 4,400 rescued as Nepal mobilises massive flood relief op., says PM Balen ______",
-      "answer": "Shah",
+      "blanked": "B ______ Redux: 2 Years, 2 Resignations, 2 Different Chief Ministers",
+      "answer": "Nagendra",
       "options": [
-        "LIVE",
-        "Tennessee",
-        "IPO",
-        "Shah"
+        "Grand",
+        "Flash",
+        "Nagendra",
+        "Sources"
       ]
     },
     {
-      "blanked": "Xbox CEO Asha Sharma once again stresses ______ need for affordability",
-      "answer": "Xboxs",
+      "blanked": "PCB considered pulling players out of Test against ______ after Sky aired interview with Imran Khan’s sons",
+      "answer": "England",
       "options": [
-        "Mumbai",
-        "Khans",
-        "Xboxs",
-        "History"
-      ]
-    },
-    {
-      "blanked": "Gold prices shed about 3% on hawkish Warsh at ______ Hole, set for weekly decline",
-      "answer": "Jackson",
-      "options": [
-        "Jackson",
-        "England",
-        "Greek",
-        "Pakistans"
+        "Ishaq",
+        "Bhagwats",
+        "Finds",
+        "England"
       ]
     },
     {
       "blanked": "Grand ______ Auto VI trailer feels like a movie and reveals new gameplay mechanics",
       "answer": "Theft",
       "options": [
-        "News",
-        "Youll",
-        "Perimenopause",
-        "Theft"
+        "Theft",
+        "Chess",
+        "Cup",
+        "Compliance"
       ]
     },
     {
-      "blanked": "Hockey World Cup: Belgium break Indian hearts in shootout as ______ side finishes eighth",
-      "answer": "Harmanpreets",
+      "blanked": "Infosys Public Services CEO Lax Gopisetty Missing After Nepal ______",
+      "answer": "Floods",
       "options": [
-        "Shah",
-        "Killed",
-        "Gandhis",
-        "Harmanpreets"
+        "Kurup",
+        "Putin",
+        "Floods",
+        "Canadian"
       ]
     },
     {
-      "blanked": "Dolly ______ grew up with 11 siblings in a two-room Tennessee cabin without electricity or running water;",
-      "answer": "Parton",
+      "blanked": "Nepal flash floods LIVE updates: Over 4,400 rescued as Nepal mobilises massive flood relief op., says PM ______ Shah",
+      "answer": "Balen",
       "options": [
-        "Terror",
-        "Nepals",
+        "IPO",
         "Balen",
-        "Parton"
+        "August",
+        "12.65"
       ]
     },
     {
-      "blanked": "Infosys Public Services CEO Lax Gopisetty Missing After ______ Floods",
-      "answer": "Nepal",
+      "blanked": "'No Compliance While Terror Continues': Sources Hit Back At ______ Ishaq Dar On Indus Waters",
+      "answer": "Pakistans",
       "options": [
-        "Nepal",
-        "Oil",
-        "Biggest",
-        "Woman"
-      ]
-    },
-    {
-      "blanked": "PM Modi heads to Uzbekistan, SCO; meet with Putin on the cards | India ______",
-      "answer": "News",
-      "options": [
-        "News",
-        "Modi",
-        "Flagship",
-        "Risk"
-      ]
-    },
-    {
-      "blanked": "Donald ______ Sent CIA Chief To Moscow Secretly. Even Top US Officials Had No Idea",
-      "answer": "Trump",
-      "options": [
-        "Stars",
-        "Trump",
-        "Auto",
-        "Brought"
-      ]
-    },
-    {
-      "blanked": "Spider-Man, ______ And A Greek Drama: BJP Casts Insta Meme Net For Gen-Z Attention",
-      "answer": "Motu-Patlu",
-      "options": [
-        "Auto",
-        "Sonia",
-        "Youll",
-        "Motu-Patlu"
-      ]
-    },
-    {
-      "blanked": "Penguin drops ______ Gandhi’s memoir after she rejected ‘changes, deletions’",
-      "answer": "Sonia",
-      "options": [
-        "Sonia",
-        "Apple",
-        "Ultra",
-        "Today"
+        "Pakistans",
+        "Bangar",
+        "Idea",
+        "BRS"
       ]
     }
   ]
