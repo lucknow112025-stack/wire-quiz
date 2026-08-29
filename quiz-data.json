@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T18:48:27.482Z",
+  "generatedAt": "2026-08-29T19:03:28.790Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
@@ -10,14 +10,14 @@
     "Oneness or Hindu supremacy? RSS chief Bhagwat’s secretive New York hosts",
     "Before The Nepal Flood, A Glacial Fall: Tracing The Trigger, And A 100-km Killer Surge",
     "‘UP no longer Bimaru state’: CM Yogi says mafia crushed, encephalitis eradicated; Akhilesh flags gaps",
-    "‘Save me, doctors want to kill me’: Woman’s video before death during childbirth surfaces",
+    "‘They will kill me’: Woman, newborn die after delivery in MP's Rewa; video shows she was screaming for help | India News",
     "Flash floods in Nepal: No contact still with 320 Indians; 400 stranded",
     "Weather tomorrow: IMD warns of very heavy rain in many states; extremely heavy rain likely in Odisha",
     "Russian strike on Kyiv-area ammunition depot triggers blast, killing 37",
-    "Risk of lake burst near China-Nepal disaster site wanes",
     "CIA Failed To Connect Key Intel Naming 9/11 Mastermind Before Attacks: Report",
-    "'Biggest deal in world history': Trump says US secured 65 billion barrels of Venezuelan oil | World News",
-    "India's HDFC Bank CEO Jagdishan to step down in October",
+    "Norway mourns King Harald as crowds gather at royal palace",
+    "Risk of lake burst near China-Nepal disaster site wanes",
+    "HDFC Bank CEO Jagdishan to step down, decides not to seek reappointment",
     "Sold house, personal assets, now living on rental income: Zee founder Subhash Chandra reveals his finances",
     "Nvidia’s AI advantage is moving beyond the GPU",
     "Temasek backs Singapore Airlines' Air India investment amid growing scrutiny",
@@ -25,129 +25,129 @@
     "iPhone 18 Pro Vs iPhone 18 Pro Max: Display, Battery, Camera Differences To Know",
     "GTA VI Has Over 600,000 Animations Compared To GTA V's 55,000 & Red Dead Redemption 2's 300,000",
     "Tech wrap week: From Samsung Galaxy S26 FE to AI-powered laptops, here’s what’s new",
-    "'Toxic' box office collection Day 4 [LIVE]: Yash and Kiara Advani film races past Rs 178 crore domestic net milestone",
-    "'DC' OTT release date: When and where to watch the Lokesh Kanagaraj and Wamiqa Gabbi starrer action drama",
-    "King100: Teaser of Nagarjuna starrer unveiled on his birthday; film to clash with Shah Rukh Khan starrer King"
+    "'Toxic' box office collection Day 4 [LIVE]: Yash and Kiara Advani film races past Rs 182 crore domestic net milestone",
+    "Viral Video: Internet Compares Kriti Sanon And Kangana Ranaut's National Awards Looks After Rakhi Ad Row",
+    "Kuku Kohli’s prayer meet: Aruna Irani breaks down, Vicky Kaushal, Katrina Kaif attend"
   ],
   "quiz": [
     {
-      "blanked": "Sold house, personal assets, now living on rental income: Zee founder ______ Chandra reveals his finances",
-      "answer": "Subhash",
+      "blanked": "Tech wrap week: From Samsung ______ S26 FE to AI-powered laptops, here’s what’s new",
+      "answer": "Galaxy",
       "options": [
-        "Solar",
-        "Air",
-        "Bhagwats",
-        "Subhash"
+        "Galaxy",
+        "Rewa",
+        "Video",
+        "Glacial"
+      ]
+    },
+    {
+      "blanked": "‘UP no longer ______ state’: CM Yogi says mafia crushed, encephalitis eradicated; Akhilesh flags gaps",
+      "answer": "Bimaru",
+      "options": [
+        "Widespread",
+        "York",
+        "OTT",
+        "Bimaru"
+      ]
+    },
+    {
+      "blanked": "Before The ______ Flood, A Glacial Fall: Tracing The Trigger, And A 100-km Killer Surge",
+      "answer": "Nepal",
+      "options": [
+        "Awards",
+        "Nepal",
+        "FIR",
+        "Rescuers"
+      ]
+    },
+    {
+      "blanked": "HDFC Bank ______ Jagdishan to step down, decides not to seek reappointment",
+      "answer": "CEO",
+      "options": [
+        "Looks",
+        "Advani",
+        "CEO",
+        "Sonal"
+      ]
+    },
+    {
+      "blanked": "Placental Epigenetic ______ Link to Persistent Food Allergy",
+      "answer": "Changes",
+      "options": [
+        "SCST",
+        "Telescope",
+        "Chandra",
+        "Changes"
+      ]
+    },
+    {
+      "blanked": "Norway mourns King ______ as crowds gather at royal palace",
+      "answer": "Harald",
+      "options": [
+        "Atherosclerosis",
+        "DLSS",
+        "Harald",
+        "Makes"
+      ]
+    },
+    {
+      "blanked": "Flash floods in ______ No contact still with 320 Indians; 400 stranded",
+      "answer": "Nepal",
+      "options": [
+        "India",
+        "Leak",
+        "Ranauts",
+        "Nepal"
       ]
     },
     {
       "blanked": "Risk of lake burst near ______ disaster site wanes",
       "answer": "China-Nepal",
       "options": [
-        "Glacial",
-        "55000",
+        "Rewa",
+        "Modi",
         "China-Nepal",
-        "Mastermind"
+        "Woman"
       ]
     },
     {
-      "blanked": "Flash floods in Nepal: No contact still with 320 ______ 400 stranded",
-      "answer": "Indians",
+      "blanked": "‘They will kill me’: Woman, newborn die after delivery in MP's Rewa; video shows she was screaming for help | India ______",
+      "answer": "News",
       "options": [
-        "Indians",
-        "Food",
-        "York",
-        "AI-powered"
-      ]
-    },
-    {
-      "blanked": "Oneness or ______ supremacy? RSS chief Bhagwat’s secretive New York hosts",
-      "answer": "Hindu",
-      "options": [
-        "Falcon",
-        "Hindu",
-        "AI-powered",
-        "Odisha"
+        "News",
+        "Changes",
+        "Naming",
+        "Advani"
       ]
     },
     {
       "blanked": "Amid rising swine flu cases, ______ govt asks hospitals to reserve isolation beds",
       "answer": "Delhi",
       "options": [
-        "Intel",
-        "Act",
-        "Apparently",
-        "Delhi"
-      ]
-    },
-    {
-      "blanked": "PM ______ lands in Uzbekistan on two-nation visit, President Shavkat Mirziyoyev receives him | India News",
-      "answer": "Modi",
-      "options": [
-        "Akhilesh",
-        "Dead",
-        "Pancreatic",
-        "Modi"
-      ]
-    },
-    {
-      "blanked": "'Biggest deal in world history': Trump says US secured 65 billion barrels of Venezuelan oil | ______ News",
-      "answer": "World",
-      "options": [
-        "Display",
-        "World",
+        "GTA",
         "Games",
-        "Nepal"
+        "Delhi",
+        "Value"
       ]
     },
     {
-      "blanked": "Russian strike on ______ ammunition depot triggers blast, killing 37",
-      "answer": "Kyiv-area",
+      "blanked": "Oneness or Hindu supremacy? RSS chief Bhagwat’s secretive New ______ hosts",
+      "answer": "York",
       "options": [
-        "News",
-        "Bhagwats",
-        "Kyiv-area",
-        "Kharges"
+        "Hindu",
+        "Max",
+        "Leak",
+        "York"
       ]
     },
     {
-      "blanked": "Rahul Gandhi asks PM Modi to order ______ under SC/ST Act over ‘purification’ after Kharge’s rally | India News",
-      "answer": "FIR",
+      "blanked": "Imaging Reveals Widespread Silent Atherosclerosis Burden: ESC ______",
+      "answer": "2026",
       "options": [
-        "FIR",
-        "Compared",
-        "Yogi",
-        "Falcon"
-      ]
-    },
-    {
-      "blanked": "GTA VI Has Over 600,000 Animations ______ To GTA V's 55,000 & Red Dead Redemption 2's 300,000",
-      "answer": "Compared",
-      "options": [
-        "China-Nepal",
-        "Compared",
-        "Rukh",
-        "Cricket"
-      ]
-    },
-    {
-      "blanked": "Placental Epigenetic Changes ______ to Persistent Food Allergy",
-      "answer": "Link",
-      "options": [
-        "Tracing",
-        "Link",
-        "IND",
-        "Glacial"
-      ]
-    },
-    {
-      "blanked": "Nepal flash floods LIVE: Rescuers claw through mud as death toll rises to ______",
-      "answer": "675",
-      "options": [
-        "York",
-        "Kharges",
-        "Telescope",
-        "675"
+        "Tendulkar",
+        "Cricket",
+        "2026",
+        "Know"
       ]
     }
   ]
