@@ -1,22 +1,22 @@
 {
-  "generatedAt": "2026-08-29T06:33:21.930Z",
+  "generatedAt": "2026-08-29T06:48:24.375Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
     "Nepal flash floods LIVE updates: Death toll rises to 623; Over 2,400 missing in Nepal, China",
     "Trump announces ‘biggest oil deal in world history’ with Venezuela",
-    "War weighs on Iran's economy as US intensifies sanctions",
-    "‘Everything, everyone is gone’: Mapping the glacier collapse that has killed hundreds, devastated Nepal and Tibet | Hindustan Times",
+    "India signs deal with US to buy Javelin anti-tank missile systems",
     "PM Modi heads to Uzbekistan, SCO; meet with Putin on the cards | India News",
-    "India To Buy US-Made Javelin Anti-Tank Weapon System In Big Defence Boost",
+    "War weighs on Iran's economy as US intensifies sanctions",
+    "Penguin drops Sonia Gandhi’s memoir after she rejected ‘changes, deletions’",
     "Delhi Couple Arrested Over ISI Links. They Sent SIM Cards To Pakistan Via Dubai",
-    "Congress alleges Penguin India succumbed to ‘pressure’ to demand changes in Sonia memoir",
-    "Pakistani drone detected in Jammu and Kashmir's Poonch, security forces put LoC sector on high alert",
-    "No word from Thane couple on first trip to Nepal, kin await clarity",
-    "US revises statements suggesting Chinese hackers attacked agencies",
+    "‘Escalation’, ‘threatening slogans’: IIT Delhi director warns protesting students",
+    "Anxiety grows as prominent Mumbai doctor-mountaineer and group of 61 go missing after Nepal floods | India News",
+    "Flash floods in Nepal: No contact still with 320 Indians; 400 stranded",
+    "H-1B loses 60-day grace period as White House office appoves plan: Indian-American entrepreneur says big",
     "US-Israel war on Iran, six months down the line: In numbers",
-    "'Name dates back 400 years': Canada's Carney rejects Trump's 'Lake Ontario' name change to 'Lake America'",
-    "Trump Sent CIA Chief To Moscow Secretly. Even Top US Officials Had No Idea",
+    "US revises statements suggesting Chinese hackers attacked agencies",
+    "Can Trump rename Lake Ontario as Lake America?",
     "Mint Explainer | Banks recover 1% in personal guarantor cases; Subhash Chandra case said to involve associate companies",
     "Gold prices shed about 3% on hawkish Warsh at Jackson Hole, set for weekly decline",
     "OpenAI to end agreement with SpaceX's AI coding tool Cursor, deepening Musk-Altman clash",
@@ -25,129 +25,129 @@
     "iPhone 18 Pro, Foldable iPhone Ultra and More: Apple Products Expected Next Month",
     "Xbox CEO Says Project Helix Includes a 'Family of Devices'",
     "Galaxy S26 FE Debuts With Flagship AI Features, 7 Years Of Updates, And 45W Charging",
-    "'Toxic: A Fairy Tale for Grown-ups' box office collection day 3: Yash-Nayanthara starrer sees 29.3 percen",
+    "Kichcha Sudeep hails Yash's 'conviction' and DEFENDS 'Toxic - A Fairytale for Grown Ups': 'It takes guts",
     "Orry warns Samay Raina on 'India's Got Latent 2':'Aukaat mein raho, tum andar jaayega toh tum bahar nahi",
     "Mom-to-be Samantha Ruth Prabhu spills how her journey to motherhood made gain 11 kilos during AMA session"
   ],
   "quiz": [
     {
-      "blanked": "No word from ______ couple on first trip to Nepal, kin await clarity",
-      "answer": "Thane",
+      "blanked": "'GTA 6' Release Details: Everything We Know About 'Grand Theft ______ VI'",
+      "answer": "Auto",
       "options": [
-        "Foldable",
-        "Thane",
-        "Heavy",
-        "Project"
+        "Roman",
+        "Auto",
+        "Nepal",
+        "Know"
       ]
     },
     {
-      "blanked": "Galaxy S26 FE ______ With Flagship AI Features, 7 Years Of Updates, And 45W Charging",
-      "answer": "Debuts",
+      "blanked": "Physical Activity Linked to Lower Stroke ______ in Atrial Fibrillation",
+      "answer": "Risk",
       "options": [
-        "Samay",
-        "623",
-        "Debuts",
-        "Verdict"
-      ]
-    },
-    {
-      "blanked": "'GTA 6' Release Details: Everything We ______ About 'Grand Theft Auto VI'",
-      "answer": "Know",
-      "options": [
-        "Project",
-        "Whatever",
-        "Know",
-        "Test"
-      ]
-    },
-    {
-      "blanked": "Hockey India rewards women’s team with Rs 50 lakh after historic fifth-place World ______ finish",
-      "answer": "Cup",
-      "options": [
-        "One",
-        "Cup",
-        "Musk-Altman",
-        "Family"
-      ]
-    },
-    {
-      "blanked": "Mom-to-be Samantha ______ Prabhu spills how her journey to motherhood made gain 11 kilos during AMA session",
-      "answer": "Ruth",
-      "options": [
-        "Warsh",
-        "Features",
-        "Sent",
-        "Ruth"
-      ]
-    },
-    {
-      "blanked": "Trump praises ______ astronaut Anil Menon, invites crew to Oval Office",
-      "answer": "Indian-origin",
-      "options": [
+        "Latent",
+        "Arrested",
         "Helix",
-        "Indian-origin",
-        "Pakistan",
+        "Risk"
+      ]
+    },
+    {
+      "blanked": "Mom-to-be ______ Ruth Prabhu spills how her journey to motherhood made gain 11 kilos during AMA session",
+      "answer": "Samantha",
+      "options": [
+        "Samantha",
+        "Stopped",
+        "Chandra",
+        "400"
+      ]
+    },
+    {
+      "blanked": "The agony of ______ — the condition that made me plot my own death",
+      "answer": "PMDD",
+      "options": [
+        "Bill",
+        "Dubai",
+        "PMDD",
+        "Fibrillation"
+      ]
+    },
+    {
+      "blanked": "PCB considered pulling players out of Test against England after ______ aired interview with Imran Khan’s sons",
+      "answer": "Sky",
+      "options": [
+        "Sky",
+        "Grace",
+        "SCO",
         "Samay"
+      ]
+    },
+    {
+      "blanked": "Delhi ______ Arrested Over ISI Links. They Sent SIM Cards To Pakistan Via Dubai",
+      "answer": "Couple",
+      "options": [
+        "Couple",
+        "Fibrillation",
+        "Science",
+        "Grace"
       ]
     },
     {
       "blanked": "Trump announces ‘biggest oil deal in world history’ with ______",
       "answer": "Venezuela",
       "options": [
+        "Prabhu",
         "Venezuela",
-        "Weapon",
-        "Chief",
-        "Aditya-Li"
+        "Expected",
+        "More"
       ]
     },
     {
-      "blanked": "PCB considered pulling players out of Test against England after Sky aired interview with ______ Khan’s sons",
-      "answer": "Imran",
+      "blanked": "Penguin drops Sonia ______ memoir after she rejected ‘changes, deletions’",
+      "answer": "Gandhis",
       "options": [
-        "India",
-        "Imran",
-        "Ruth",
-        "Pakistan"
-      ]
-    },
-    {
-      "blanked": "Xbox CEO Says Project Helix ______ a 'Family of Devices'",
-      "answer": "Includes",
-      "options": [
-        "Know",
-        "ISI",
-        "Products",
-        "Includes"
-      ]
-    },
-    {
-      "blanked": "Why India's Biggest Stocks ______ Working: Three Top Investors, One Verdict",
-      "answer": "Stopped",
-      "options": [
-        "623",
+        "Lower",
+        "Stocks",
         "Stopped",
-        "Uzbekistan",
-        "Venezuela"
+        "Gandhis"
       ]
     },
     {
-      "blanked": "Gold prices shed about 3% on hawkish Warsh at Jackson ______ set for weekly decline",
-      "answer": "Hole",
+      "blanked": "Nancy Grace Roman Telescope live updates: ______ readying Roman for launch aboard Falcon Heavy rocket",
+      "answer": "SpaceX",
       "options": [
-        "Canadas",
-        "Jammu",
-        "Know",
-        "Hole"
+        "Sports",
+        "400",
+        "SpaceX",
+        "White"
       ]
     },
     {
-      "blanked": "Nancy Grace Roman Telescope live updates: SpaceX readying ______ for launch aboard Falcon Heavy rocket",
-      "answer": "Roman",
+      "blanked": "War weighs on ______ economy as US intensifies sanctions",
+      "answer": "Irans",
       "options": [
-        "Clouds",
-        "Putin",
-        "Roman",
-        "One"
+        "Sudeep",
+        "AMA",
+        "Got",
+        "Irans"
+      ]
+    },
+    {
+      "blanked": "Hockey India rewards women’s team with Rs 50 lakh after historic fifth-place World ______ finish",
+      "answer": "Cup",
+      "options": [
+        "SpaceX",
+        "Arrested",
+        "Ups",
+        "Cup"
+      ]
+    },
+    {
+      "blanked": "‘Hi’ movie review: Kavin, Nayanthara anchor Vishnu ______ old-school wholesome entertainer",
+      "answer": "Edavans",
+      "options": [
+        "Top",
+        "News",
+        "Stopped",
+        "Edavans"
       ]
     }
   ]
