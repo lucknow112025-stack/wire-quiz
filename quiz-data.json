@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-29T11:03:29.546Z",
+  "generatedAt": "2026-08-29T11:18:29.031Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "Nepal flash floods LIVE updates: Heavy rain forecast in flood-affected areas threaten to disrupt rescue ops.; death toll crosses 620",
-    "Case filed against Mamata Banerjee over violation of Calcutta high court order",
-    "Looking to advance India’s vision for region free from terror, says PM Modi as he embarks on visit to Uzbekistan, Kyrgyzstan",
-    "‘Memoir or fiction?’: BJP targets Sonia Gandhi’s book as Congress alleges govt pressure | India News",
+    "Nepal flash floods LIVE updates: Risk of lake 'burst' near border disaster site wanes, China says; death toll crosses 620",
+    "PM Modi begins four-day Uzbekistan, Kyrgyzstan visit for SCO summit; what's on agenda",
     "PM Modi must order filing of FIR, we demand justice: Rahul Gandhi on Kharge’s rally venue ‘purification’ in Uttarakhand",
-    "Oneness or Hindu supremacy? RSS chief Bhagwat’s secretive New York hosts",
+    "'RSS does not represent us': US-based Hindu group among 61 organisations protesting Mohan Bhagwat's NYC event | India News",
+    "42 years on, Sukumara Kurup mystery returns with Brunei ‘sighting’ — and a photo twist",
+    "'Not Publishing Sonia Gandhi's Book, Were Keen To': Penguin On 'Belonging'",
     "Expulsion of AIMIM MLC Mirza Rahmath Baig sparks questions over controversial video",
+    "Case filed against Mamata Banerjee over violation of Calcutta high court order",
     "Bar Council Not Earning Members' Respect Not A Good Sign For Legal Profession: Justice BV Nagarathna",
     "3 Delhi BJP MPs Visit Sajjan Kumar's House. Then Party Chief's Big Action",
-    "Chatroo Kishtwar minor’s death case: Health worker arrested, total accused reach six",
     "Oil Deal To Bring $100 Billion Investment, Thousands Of Jobs To Venezuela: Rubio",
-    "War weighs on Iran's economy as US intensifies sanctions",
-    "A Bank Locker Floated Miles In Nepal's Floods, Then The Loot Began",
-    "27 killed, 50 homes damaged in Russian attack near Ukraine's Kyiv",
+    "Galwan, Doklam general axed by Xi: Zhao Zongqi removed from China's top advisory body",
+    "Nepal Counted Flood Victims. Thieves Counted Lakhs From Safe Swept In Floods",
+    "27 Killed As Russian Strikes Ukraine's Kyiv, 50 Residential Buildings Damaged",
     "Mint Explainer | Banks recover 1% in personal guarantor cases; Subhash Chandra case said to involve associate companies",
-    "OpenAI says it's ending its deal with Cursor because Elon Musk's companies violate contracts",
+    "Meta’s Sandhya Devanathan exits after decade, joins OpenAI as Southeast Asia, Australia VP",
     "Infosys Public Services CEO Lax Gopisetty Missing After Nepal Floods",
     "‘Flash Crash’ Hits Sensex Index During Unpopular Closing Auction",
     "iPhone 18 Pro, Foldable iPhone Ultra and More: Apple Products Expected Next Month",
     "'Grand Theft Auto 6' Extended in-game footage unveiled",
-    "Xbox CEO Says Project Helix Includes a 'Family of Devices'",
     "Deals: the Galaxy S26 FE is on pre-order, but the S26+ is cheaper - several Pocos are cheaper too - GSMArena.com news",
-    "'Toxic' box office collection Day 4 [LIVE]: Yash and Kiara Advani film races towards Rs 175 crore domesti",
-    "Samay Raina in soup again over remarks on people from Bihar, Kashmiri Pandits: 'They get publicity for fr",
-    "Hi Box Office Collection Day 1: Nayanthara's Romance Drama Opens 97% Lower Than Mana Shankara Vara Prasad Garu"
+    "Xbox CEO Says Project Helix Includes a 'Family of Devices'",
+    "'Toxic: A Fairy Tale for Grown-ups' box office collection day 3: Yash-Nayanthara starrer sees 29.3 percen",
+    "Hi Box Office Collection Day 1: Nayanthara's Romance Drama Opens 97% Lower Than Mana Shankara Vara Prasad Garu",
+    "Samantha Ruth Prabhu Shares How Much Weight She Has Gained During Pregnancy"
   ],
   "quiz": [
     {
-      "blanked": "London Surgeons Use AI in World-First Live-Assisted Brain ______ Surgery",
-      "answer": "Tumour",
+      "blanked": "Mint ______ | Banks recover 1% in personal guarantor cases; Subhash Chandra case said to involve associate companies",
+      "answer": "Explainer",
       "options": [
-        "Weight",
-        "Profession",
-        "Tumour",
-        "York"
+        "Explainer",
+        "Risk",
+        "Baig",
+        "Hindu"
       ]
     },
     {
-      "blanked": "Samay Raina in soup again over remarks on people from Bihar, Kashmiri Pandits: ______ get publicity for fr",
-      "answer": "They",
+      "blanked": "Photos: ______ part and make way for deep lunar eclipse",
+      "answer": "Clouds",
       "options": [
-        "They",
-        "Expected",
-        "Yadav",
-        "Imran"
-      ]
-    },
-    {
-      "blanked": "Placental Epigenetic Changes Link to Persistent Food ______",
-      "answer": "Allergy",
-      "options": [
-        "Allergy",
-        "Health",
-        "Persistent",
-        "Has"
-      ]
-    },
-    {
-      "blanked": "Xbox CEO Says Project Helix Includes a ______ of Devices'",
-      "answer": "Family",
-      "options": [
-        "Roman",
-        "Locker",
-        "Family",
-        "Earning"
-      ]
-    },
-    {
-      "blanked": "Bar Council Not Earning Members' Respect Not A ______ Sign For Legal Profession: Justice BV Nagarathna",
-      "answer": "Good",
-      "options": [
-        "Month",
-        "Suryakumar",
-        "Theft",
-        "Good"
-      ]
-    },
-    {
-      "blanked": "The agony of ______ — the condition that made me plot my own death",
-      "answer": "PMDD",
-      "options": [
-        "Action",
-        "Ukraines",
-        "Kumars",
-        "PMDD"
-      ]
-    },
-    {
-      "blanked": "Nepal flash floods LIVE updates: ______ rain forecast in flood-affected areas threaten to disrupt rescue ops.; death toll crosses 620",
-      "answer": "Heavy",
-      "options": [
-        "Hits",
-        "World-First",
-        "Heavy",
-        "Kyiv"
-      ]
-    },
-    {
-      "blanked": "iPhone 18 Pro, Foldable iPhone ______ and More: Apple Products Expected Next Month",
-      "answer": "Ultra",
-      "options": [
-        "Cursor",
-        "Ultra",
-        "Has",
-        "Julian"
-      ]
-    },
-    {
-      "blanked": "What’s going on with ______ Alvarez after Atletico block transfer to Barcelona?",
-      "answer": "Julian",
-      "options": [
-        "Kyrgyzstan",
-        "Julian",
+        "Killed",
         "Than",
+        "Clouds",
+        "Calcutta"
+      ]
+    },
+    {
+      "blanked": "NASA’s Nancy ______ Roman Space Telescope Has a Hidden Technological Leap",
+      "answer": "Grace",
+      "options": [
+        "Grace",
+        "Damaged",
+        "Allergy",
+        "Counted"
+      ]
+    },
+    {
+      "blanked": "42 years on, ______ Kurup mystery returns with Brunei ‘sighting’ — and a photo twist",
+      "answer": "Sukumara",
+      "options": [
+        "Atletico",
+        "Sukumara",
+        "Expected",
+        "SCO"
+      ]
+    },
+    {
+      "blanked": "Deals: the Galaxy S26 FE is on pre-order, but the S26+ is cheaper - several ______ are cheaper too - GSMArena.com news",
+      "answer": "Pocos",
+      "options": [
+        "Strains",
+        "Council",
+        "England",
+        "Pocos"
+      ]
+    },
+    {
+      "blanked": "Case filed against Mamata Banerjee over violation of ______ high court order",
+      "answer": "Calcutta",
+      "options": [
+        "Link",
+        "Calcutta",
+        "Roman",
+        "Sajjan"
+      ]
+    },
+    {
+      "blanked": "'Grand Theft ______ 6' Extended in-game footage unveiled",
+      "answer": "Auto",
+      "options": [
+        "620",
+        "Index",
+        "Auto",
+        "Khans"
+      ]
+    },
+    {
+      "blanked": "Expulsion of AIMIM MLC Mirza ______ Baig sparks questions over controversial video",
+      "answer": "Rahmath",
+      "options": [
+        "Rahmath",
+        "Reds",
+        "Bradley",
+        "Hidden"
+      ]
+    },
+    {
+      "blanked": "PCB considered pulling players out of Test against ______ after Sky aired interview with Imran Khan’s sons",
+      "answer": "England",
+      "options": [
+        "China",
+        "England",
+        "US-based",
         "Ukraines"
       ]
     },
     {
-      "blanked": "Chatroo Kishtwar minor’s death case: ______ worker arrested, total accused reach six",
-      "answer": "Health",
+      "blanked": "As Climate And Strains Change, H1N1 Demands Stronger Global ______",
+      "answer": "Action",
       "options": [
-        "Health",
-        "Public",
-        "Julian",
-        "Galaxy"
+        "PMDD",
+        "Action",
+        "FIR",
+        "Asia"
       ]
     },
     {
-      "blanked": "Hi Box Office Collection Day 1: Nayanthara's Romance Drama Opens 97% Lower Than Mana Shankara Vara Prasad ______",
-      "answer": "Garu",
+      "blanked": "27 Killed As Russian Strikes ______ Kyiv, 50 Residential Buildings Damaged",
+      "answer": "Ukraines",
       "options": [
-        "Garu",
-        "Office",
-        "Deal",
-        "Rahmath"
+        "Ukraines",
+        "SCO",
+        "Buildings",
+        "Office"
       ]
     },
     {
-      "blanked": "‘Memoir or fiction?’: BJP targets ______ Gandhi’s book as Congress alleges govt pressure | India News",
-      "answer": "Sonia",
+      "blanked": "Hi Box Office Collection Day 1: ______ Romance Drama Opens 97% Lower Than Mana Shankara Vara Prasad Garu",
+      "answer": "Nayantharas",
       "options": [
-        "Sonia",
-        "Subhash",
-        "Project",
-        "Allergy"
+        "Hits",
+        "Nayantharas",
+        "MPs",
+        "Banerjee"
       ]
     }
   ]
