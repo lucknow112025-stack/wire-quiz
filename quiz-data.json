@@ -1,29 +1,29 @@
 {
-  "generatedAt": "2026-08-29T05:33:34.830Z",
+  "generatedAt": "2026-08-29T05:48:19.094Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "Nepal flash floods LIVE updates: Over 4,400 rescued as Nepal mobilises massive flood relief op., says PM Balen Shah",
+    "Nepal flash floods LIVE updates: Death toll rises to 623; Over 2,400 missing in Nepal, China",
     "Trump announces ‘biggest oil deal in world history’ with Venezuela",
+    "India signs deal with US to buy Javelin anti-tank missile systems",
     "PM Modi heads to Uzbekistan, SCO; meet with Putin on the cards | India News",
     "Iran lashes out at US sanctions amid economic toll at home",
     "'Manuwadis fighting against rise of Dalits': Karnataka minister Nagendra resigns amid Valmiki scam row",
-    "The world’s deadliest glacier disasters",
+    "Pakistani drone detected in Jammu and Kashmir's Poonch, security forces put LoC sector on high alert",
     "Delhi Couple Arrested Over ISI Links. They Sent SIM Cards To Pakistan Via Dubai",
     "‘Conspiracy to oust me from Cabinet’: Union minister accuses BJP colleagues of smear campaign",
     "Flash floods in Nepal: No contact still with 320 Indians; 400 stranded",
-    "Revanth caught in ‘old guard’ vs ‘ex-TDP, BRS’ as rift in Telangana Congress seeps down to grassroots",
     "US revises statements suggesting Chinese hackers attacked agencies",
     "US-Israel war on Iran, six months down the line: In numbers",
     "\"We Got Attacked\": Canada's Carney Says US Launched 'Trade War'",
     "Trump Sent CIA Chief To Moscow Secretly. Even Top US Officials Had No Idea",
     "Gold prices shed about 3% on hawkish Warsh at Jackson Hole, set for weekly decline",
     "OpenAI to end agreement with SpaceX's AI coding tool Cursor, deepening Musk-Altman clash",
-    "India's forex reserves hit all-time high of $729.33 billion after $12.42 billion jump",
+    "Cipla Pune Unit's Drug Sale Licence Cancelled Over 'Irregularities'",
     "Why India's Biggest Stocks Stopped Working: Three Top Investors, One Verdict",
-    "'GTA 6' Release Details: Everything We Know About 'Grand Theft Auto VI'",
+    "Rockstar Approached Netflix for Exclusive GTA 6 Extended Look, Not the Other Way Around",
+    "iPhone 18 Pro, iPhone Ultra and more: Everything to expect at Apple event on September 9",
     "Google Pixel Watch 5 Review: Long Live The King",
-    "iPhone 18 Pro, Foldable iPhone Ultra and More: Apple Products Expected Next Month",
     "Xbox CEO Asha Sharma says affordability must be priority for next-gen consoles as hardware prices rise",
     "'Toxic: A Fairy Tale for Grown-ups' box office collection day 3: Yash-Nayanthara starrer sees 29.3 percen",
     "Mom-to-be Samantha Ruth Prabhu spills how her journey to motherhood made gain 11 kilos during AMA session",
@@ -31,123 +31,123 @@
   ],
   "quiz": [
     {
-      "blanked": "Trump announces ‘biggest oil deal in world history’ with ______",
-      "answer": "Venezuela",
+      "blanked": "Mom-to-be Samantha ______ Prabhu spills how her journey to motherhood made gain 11 kilos during AMA session",
+      "answer": "Ruth",
       "options": [
-        "Venezuela",
-        "Next",
-        "Everything",
-        "Foldable"
+        "Ruth",
+        "Look",
+        "War",
+        "Valmiki"
       ]
     },
     {
-      "blanked": "Trump Sent CIA ______ To Moscow Secretly. Even Top US Officials Had No Idea",
-      "answer": "Chief",
+      "blanked": "India signs deal with US to buy ______ anti-tank missile systems",
+      "answer": "Javelin",
       "options": [
-        "Stocks",
-        "Cursor",
-        "Chief",
-        "Via"
+        "LoC",
+        "Anil",
+        "Javelin",
+        "Risk"
+      ]
+    },
+    {
+      "blanked": "US-Israel war on ______ six months down the line: In numbers",
+      "answer": "Iran",
+      "options": [
+        "Warsh",
+        "Karnataka",
+        "Iran",
+        "Apple"
+      ]
+    },
+    {
+      "blanked": "Suryakumar ______ breaks silence on shock India snub after T20 World Cup win: ‘Whatever call someone...’",
+      "answer": "Yadav",
+      "options": [
+        "Ultra",
+        "Yadav",
+        "SIM",
+        "Officials"
+      ]
+    },
+    {
+      "blanked": "'Manuwadis fighting against rise of ______ Karnataka minister Nagendra resigns amid Valmiki scam row",
+      "answer": "Dalits",
+      "options": [
+        "Pro",
+        "Tale",
+        "Dalits",
+        "Licence"
       ]
     },
     {
       "blanked": "Why India's Biggest Stocks Stopped Working: Three Top ______ One Verdict",
       "answer": "Investors",
       "options": [
+        "Working",
         "Investors",
-        "Linked",
-        "Biggest",
-        "Operation"
+        "Death",
+        "Tale"
       ]
     },
     {
-      "blanked": "India’s Solar ambitions: Findings by ______ valuable to Science",
-      "answer": "Aditya-Li",
+      "blanked": "Flash floods in Nepal: No contact still with ______ Indians; 400 stranded",
+      "answer": "320",
       "options": [
-        "Watch",
-        "Grown-ups",
-        "AMA",
-        "Aditya-Li"
+        "Cancelled",
+        "Had",
+        "Kashmirs",
+        "320"
       ]
     },
     {
-      "blanked": "OpenAI to end agreement with SpaceX's AI coding tool Cursor, deepening ______ clash",
-      "answer": "Musk-Altman",
+      "blanked": "\"We Got ______ Canada's Carney Says US Launched 'Trade War'",
+      "answer": "Attacked",
       "options": [
-        "Musk-Altman",
-        "CEO",
-        "Foldable",
-        "Hole"
+        "Attacked",
+        "Calls",
+        "Pro",
+        "Asha"
       ]
     },
     {
-      "blanked": "iPhone 18 Pro, Foldable iPhone Ultra and More: Apple Products ______ Next Month",
-      "answer": "Expected",
+      "blanked": "PM Modi heads to Uzbekistan, SCO; meet with ______ on the cards | India News",
+      "answer": "Putin",
       "options": [
-        "Expected",
-        "SpaceXs",
-        "SIM",
-        "Him"
+        "Working",
+        "Putin",
+        "Yash-Nayanthara",
+        "War"
       ]
     },
     {
-      "blanked": "Hockey World Cup: Belgium break ______ hearts in shootout as Harmanpreet’s side finishes eighth",
-      "answer": "Indian",
-      "options": [
-        "Products",
-        "Indian",
-        "Dubai",
-        "12.42"
-      ]
-    },
-    {
-      "blanked": "Nepal flash floods LIVE updates: Over 4,400 rescued as Nepal mobilises massive flood relief op., says PM ______ Shah",
-      "answer": "Balen",
-      "options": [
-        "Balen",
-        "Carney",
-        "Alka",
-        "Verdict"
-      ]
-    },
-    {
-      "blanked": "\"We Got Attacked\": Canada's Carney Says US Launched ______ War'",
-      "answer": "Trade",
+      "blanked": "US revises statements suggesting ______ hackers attacked agencies",
+      "answer": "Chinese",
       "options": [
         "Chinese",
-        "Stroke",
-        "Idea",
-        "Trade"
+        "Ahujas",
+        "India",
+        "Moscow"
       ]
     },
     {
-      "blanked": "‘Conspiracy to oust me from ______ Union minister accuses BJP colleagues of smear campaign",
-      "answer": "Cabinet",
+      "blanked": "Delhi Couple Arrested Over ISI Links. They ______ SIM Cards To Pakistan Via Dubai",
+      "answer": "Sent",
       "options": [
-        "Indias",
-        "Cabinet",
-        "Moscow",
-        "Three"
+        "Alka",
+        "SCO",
+        "Sent",
+        "Sharma"
       ]
     },
     {
-      "blanked": "Xbox CEO Asha ______ says affordability must be priority for next-gen consoles as hardware prices rise",
-      "answer": "Sharma",
+      "blanked": "Google Pixel Watch 5 Review: Long Live The ______",
+      "answer": "King",
       "options": [
-        "Sharma",
-        "Atrial",
-        "Top",
-        "Oval"
-      ]
-    },
-    {
-      "blanked": "Google Pixel Watch 5 ______ Long Live The King",
-      "answer": "Review",
-      "options": [
-        "Review",
-        "Dalits",
-        "Jackson",
-        "Oval"
+        "Venezuela",
+        "Units",
+        "King",
+        "Uzbekistan"
       ]
     }
   ]
