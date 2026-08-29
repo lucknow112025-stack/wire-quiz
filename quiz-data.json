@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-29T13:48:47.870Z",
+  "generatedAt": "2026-08-29T14:03:30.177Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "HDFC Bank MD Sashidhar Jagdishan decides not to seek reappointment, to retire in October",
     "Nepal flash floods LIVE updates: Heavy rain forecast in flood-affected areas threaten to disrupt rescue ops.; death toll crosses 620",
-    "3 Delhi BJP MPs Visit Sajjan Kumar's House. Then Party Chief's Big Action",
     "FIR against Mamata Banerjee over violation of high court order on TMC students' wing rally in Kolkata | India News",
     "Rahul Gandhi asks PM Modi to order FIR under SC/ST Act over ‘purification’ after Kharge’s rally | India News",
+    "PM Modi heads to Uzbekistan, SCO; meet with Putin on the cards | India News",
     "Oneness or Hindu supremacy? RSS chief Bhagwat’s secretive New York hosts",
-    "Looking to advance India’s vision for region free from terror, says PM Modi as he embarks on visit to Uzbekistan, Kyrgyzstan",
-    "BJP Turns Up Meme Heat On Congress, Deploys Satire In Social Media Battle",
+    "War weighs on Iran's economy as US intensifies sanctions",
     "Chatroo Kishtwar minor’s death case: Health worker arrested, total accused reach six",
+    "Bar Council Not Earning Members' Respect Not A Good Sign For Legal Profession: Justice BV Nagarathna",
     "Flash floods in Nepal: No contact still with 320 Indians; 400 stranded",
+    "Nagendra resigned to avoid embarrassment to Congress: DK Shivakumar",
     "37 Killed As Russian Strikes Ukraine's Kyiv, 50 Residential Buildings Damaged",
     "CIA Failed To Connect Key Intel Naming 9/11 Mastermind Before Attacks: Report",
     "‘Biggest deal in history’: Trump says US to control 65 billion barrels of Venezuela oil",
     "China removes two top generals from its highest military command | World News",
-    "Subhash Chandra breaks silence on NCLT order, disputes ₹3,900 crore claim, says most group debt repaid",
+    "HDFC Bank MD Sashidhar Jagdishan decides not to seek reappointment, to retire in October",
+    "Union Bank, LIC Housing Fin, Canara Bank challenge NCLT nod to Subhash Chandra resolution plan",
     "Temasek backs Singapore Airlines' Air India investment amid growing scrutiny",
-    "Meta’s Sandhya Devanathan exits after decade, joins OpenAI as Southeast Asia, Australia VP",
     "\"Rs 1 Lakh Became Rs 44 Lakh In 5 Minutes\": Trader's Claim On Sensex's Wild Swing Sparks Buzz",
-    "Apple One and Apple TV subscription prices increase by up to 20 percent",
+    "Apple TV follows Apple Music with a price hike of its own",
     "QD-OLED goes to esports: Samsung starts mass production of 24.5\" ultra-fast displays",
     "iPhone 18 Pro Max launch: Here are all the differences we currently know between the iPhone 18 Pro and...",
     "GTA VI Has Over 600,000 Animations Compared To GTA V's 55,000 & Red Dead Redemption 2's 300,000",
-    "'Toxic' box office collection Day 4 [LIVE]: Yash and Kiara Advani film races towards Rs 175 crore domestic net milestone",
+    "‘Toxic’ exclusive: Director Suri lauds Yash’s performance: A brave attempt from superstar",
     "King100: Teaser of Nagarjuna starrer unveiled on his birthday; film to clash with Shah Rukh Khan starrer King",
     "'DC' OTT release date: When and where to watch the Lokesh Kanagaraj and Wamiqa Gabbi starrer action drama"
   ],
   "quiz": [
     {
-      "blanked": "Amid rising swine flu cases, ______ govt asks hospitals to reserve isolation beds",
-      "answer": "Delhi",
+      "blanked": "Nasa space telescope set to launch after surviving ______ budget cuts",
+      "answer": "Trump",
       "options": [
-        "Redemption",
-        "Delhi",
-        "Nagarjuna",
-        "Media"
+        "Apple",
+        "400",
+        "24.5",
+        "Trump"
       ]
     },
     {
-      "blanked": "Flash floods in Nepal: No contact still with 320 ______ 400 stranded",
-      "answer": "Indians",
+      "blanked": "Temasek backs ______ Airlines' Air India investment amid growing scrutiny",
+      "answer": "Singapore",
       "options": [
-        "Modi",
-        "Red",
-        "Bhagwats",
-        "Indians"
+        "Suri",
+        "Mastermind",
+        "Singapore",
+        "320"
       ]
     },
     {
-      "blanked": "3 Delhi BJP MPs Visit Sajjan Kumar's House. Then ______ Chief's Big Action",
-      "answer": "Party",
+      "blanked": "Growth Factor Receptors ______ Schizophrenia Disease Stage",
+      "answer": "Signal",
       "options": [
-        "MPs",
-        "Sarfaraz",
-        "Party",
-        "India"
+        "Epigenetic",
+        "Signal",
+        "Uzbekistan",
+        "Asian"
+      ]
+    },
+    {
+      "blanked": "GTA VI Has Over 600,000 Animations Compared To GTA V's 55,000 & Red ______ Redemption 2's 300,000",
+      "answer": "Dead",
+      "options": [
+        "Air",
+        "Dead",
+        "55000",
+        "Solar"
+      ]
+    },
+    {
+      "blanked": "Rahul ______ asks PM Modi to order FIR under SC/ST Act over ‘purification’ after Kharge’s rally | India News",
+      "answer": "Gandhi",
+      "options": [
+        "Khan",
+        "Gandhi",
+        "LIVE",
+        "Swing"
+      ]
+    },
+    {
+      "blanked": "Nepal flash floods LIVE updates: Heavy rain forecast in flood-affected areas threaten to disrupt rescue ops.; death toll crosses ______",
+      "answer": "620",
+      "options": [
+        "Congress",
+        "Kolkata",
+        "620",
+        "Changes"
       ]
     },
     {
       "blanked": "Aditya-L1 catches Sun's early warning signs before ______ flares",
       "answer": "Solar",
       "options": [
+        "GTA",
+        "Nagarathna",
         "Solar",
-        "Banerjee",
-        "Wamiqa",
-        "Factor"
-      ]
-    },
-    {
-      "blanked": "China removes two top generals from its highest military command | ______ News",
-      "answer": "World",
-      "options": [
-        "Allergy",
-        "Suns",
-        "Delhi",
-        "World"
-      ]
-    },
-    {
-      "blanked": "'Toxic' box office collection Day 4 [LIVE]: Yash and Kiara Advani film races towards Rs ______ crore domestic net milestone",
-      "answer": "175",
-      "options": [
-        "Satire",
-        "MPs",
-        "175",
-        "Indians"
-      ]
-    },
-    {
-      "blanked": "Placental Epigenetic Changes Link to Persistent ______ Allergy",
-      "answer": "Food",
-      "options": [
-        "OTT",
-        "Heavy",
-        "Hindustan",
-        "Food"
-      ]
-    },
-    {
-      "blanked": "'DC' OTT release date: When and where to watch the Lokesh Kanagaraj and ______ Gabbi starrer action drama",
-      "answer": "Wamiqa",
-      "options": [
-        "Day",
-        "Kharges",
-        "Wamiqa",
-        "Dead"
-      ]
-    },
-    {
-      "blanked": "Temasek backs Singapore ______ Air India investment amid growing scrutiny",
-      "answer": "Airlines",
-      "options": [
-        "Chopras",
-        "Airlines",
-        "Media",
-        "Buildings"
+        "Nepal"
       ]
     },
     {
       "blanked": "10 jaw-dropping ______ space images that showcase the incredible beauty of the cosmos",
       "answer": "ESA",
       "options": [
-        "Sensexs",
-        "Khan",
         "ESA",
-        "320"
+        "Suns",
+        "400",
+        "Animations"
       ]
     },
     {
-      "blanked": "Akanksha ______ reveals Gaurav Khanna found her bisexuality ‘very hot’ before marriage: 'Will never cheat my husband' | Hindustan Times",
-      "answer": "Chamola",
+      "blanked": "'Not spending enough time in the middle' - Sarfaraz laments ______ batting woes",
+      "answer": "Pakistans",
       "options": [
-        "Chamola",
-        "Mamata",
-        "Failed",
+        "Became",
+        "ESA",
+        "Act",
         "Pakistans"
       ]
     },
     {
-      "blanked": "Oneness or ______ supremacy? RSS chief Bhagwat’s secretive New York hosts",
-      "answer": "Hindu",
+      "blanked": "Union Bank, LIC Housing Fin, Canara Bank challenge NCLT nod to Subhash ______ resolution plan",
+      "answer": "Chandra",
       "options": [
-        "Trump",
-        "ESA",
-        "Action",
-        "Hindu"
+        "Pro",
+        "55000",
+        "Asian",
+        "Chandra"
+      ]
+    },
+    {
+      "blanked": "China removes two top generals from its highest military command | ______ News",
+      "answer": "World",
+      "options": [
+        "Times",
+        "World",
+        "Redemption",
+        "Swing"
+      ]
+    },
+    {
+      "blanked": "FIR against Mamata Banerjee over violation of high court order on TMC students' wing rally in Kolkata | India ______",
+      "answer": "News",
+      "options": [
+        "Yashs",
+        "News",
+        "Link",
+        "600000"
       ]
     }
   ]
