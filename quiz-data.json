@@ -1,27 +1,27 @@
 {
-  "generatedAt": "2026-08-29T14:33:25.569Z",
+  "generatedAt": "2026-08-29T14:48:25.759Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "HDFC Bank MD Sashidhar Jagdishan decides not to seek reappointment, to retire in October",
     "Nepal flash floods LIVE updates: Heavy rain forecast in flood-affected areas threaten to disrupt rescue ops.; death toll crosses 620",
     "PM Modi begins four-day Uzbekistan, Kyrgyzstan visit for SCO summit; what's on agenda",
+    "PM Modi must order filing of FIR, we demand justice: Rahul Gandhi on Kharge’s rally venue ‘purification’ in Uttarakhand",
     "3 Delhi BJP MPs Visit Sajjan Kumar's House. Then Party Chief's Big Action",
     "China removes two top generals from its highest military command | World News",
     "FIR Against Mamata Banerjee For Violating Calcutta HC Order At TMC Event",
-    "PM Modi must order filing of FIR, we demand justice: Rahul Gandhi on Kharge’s rally venue ‘purification’ in Uttarakhand",
-    "BJP Turns Up Meme Heat On Congress, Deploys Satire In Social Media Battle",
-    "Samay Raina in soup again over remarks on people from Bihar, Kashmiri Pandits: 'They get publicity for fr",
+    "Samay Raina addresses India’s Got Latent 2 criticism, responds to ‘filtered’ tag: ‘It’s just not the same anymore’ | Bollywood",
+    "Flash floods in Nepal: No contact still with 320 Indians; 400 stranded",
     "\"You Think You Are A Lord?\" Bombay High Court Slams FDA Officer Over Suspension Of Eateries Of Mumbai...",
+    "Not a good sign when bar council does not earn respect of its members: Supreme Court Justice BV Nagarathna",
     "37 Killed As Russian Strikes Ukraine's Kyiv, 50 Residential Buildings Damaged",
+    "'Biggest deal in world history': Trump says US secured 65 billion barrels of Venezuelan oil | World News",
     "CIA Failed To Connect Key Intel Naming 9/11 Mastermind Before Attacks: Report",
-    "‘Biggest deal in history’: Trump says US to control 65 billion barrels of Venezuela oil",
-    "War weighs on Iran's economy as US intensifies sanctions",
+    "Iran’s leaders acknowledge economic toll of war, pledge diplomacy, defence",
+    "HDFC Bank CEO Sashidhar Jagdishan to retire on October 26, will not seek reappointment",
     "Union Bank, LIC Housing Fin, Canara Bank challenge NCLT nod to Subhash Chandra resolution plan",
-    "Temasek backs Singapore Airlines' Air India investment amid growing scrutiny",
     "FSSAI bans sale of hing powder by Everest, Laljee Godhoo over sub-standard quality",
-    "\"Rs 1 Lakh Became Rs 44 Lakh In 5 Minutes\": Trader's Claim On Sensex's Wild Swing Sparks Buzz",
-    "Apple TV follows Apple Music with a price hike of its own",
+    "Temasek backs Singapore Airlines' Air India investment amid growing scrutiny",
+    "Apple TV monthly and annual subscription prices increase in the US - true-tech.net",
     "QD-OLED goes to esports: Samsung starts mass production of 24.5\" ultra-fast displays",
     "GTA VI Has Over 600,000 Animations Compared To GTA V's 55,000 & Red Dead Redemption 2's 300,000",
     "iPhone 18 Pro Max launch: Here are all the differences we currently know between the iPhone 18 Pro and...",
@@ -31,123 +31,123 @@
   ],
   "quiz": [
     {
-      "blanked": "CIA Failed To Connect Key Intel Naming 9/11 Mastermind Before Attacks: ______",
-      "answer": "Report",
+      "blanked": "Leukocyte Telomere Length Shows Limited Value in ______ Cancer",
+      "answer": "Pancreatic",
       "options": [
-        "Bombay",
-        "Intel",
-        "Report",
-        "Chahta"
+        "Pancreatic",
+        "MIA",
+        "Ali",
+        "Against"
       ]
     },
     {
-      "blanked": "FSSAI bans sale of hing powder by Everest, Laljee ______ over sub-standard quality",
-      "answer": "Godhoo",
+      "blanked": "Placental Epigenetic ______ Link to Persistent Food Allergy",
+      "answer": "Changes",
       "options": [
-        "Suns",
-        "Godhoo",
-        "India",
-        "Dinusha"
-      ]
-    },
-    {
-      "blanked": "Apple TV follows ______ Music with a price hike of its own",
-      "answer": "Apple",
-      "options": [
-        "Jagdishan",
-        "Sparks",
-        "Apple",
-        "Canara"
-      ]
-    },
-    {
-      "blanked": "‘Biggest deal in history’: Trump says US to control 65 billion barrels of ______ oil",
-      "answer": "Venezuela",
-      "options": [
-        "Minutes",
-        "Max",
-        "Venezuela",
-        "LIVE"
-      ]
-    },
-    {
-      "blanked": "BJP ______ Up Meme Heat On Congress, Deploys Satire In Social Media Battle",
-      "answer": "Turns",
-      "options": [
-        "Calcutta",
-        "Sajjan",
-        "Party",
-        "Turns"
-      ]
-    },
-    {
-      "blanked": "Growth Factor Receptors Signal Schizophrenia ______ Stage",
-      "answer": "Disease",
-      "options": [
-        "Order",
-        "Disease",
-        "Sonal",
-        "BJP"
-      ]
-    },
-    {
-      "blanked": "iPhone 18 Pro ______ launch: Here are all the differences we currently know between the iPhone 18 Pro and...",
-      "answer": "Max",
-      "options": [
-        "Headlines",
-        "Max",
+        "Asian",
+        "Changes",
         "Pro",
-        "Damaged"
+        "Event"
       ]
     },
     {
-      "blanked": "PHOTOS: ______ appears orange due to partial lunar eclipse",
-      "answer": "Moon",
+      "blanked": "'DC' OTT release date: When and where to watch the Lokesh ______ and Wamiqa Gabbi starrer action drama",
+      "answer": "Kanagaraj",
       "options": [
-        "Know",
-        "Kiara",
-        "Kashmiri",
-        "Moon"
+        "Raina",
+        "Hai",
+        "Kanagaraj",
+        "Officer"
       ]
     },
     {
-      "blanked": "37 Killed As Russian Strikes Ukraine's ______ 50 Residential Buildings Damaged",
-      "answer": "Kyiv",
+      "blanked": "Flash floods in Nepal: No contact still with ______ Indians; 400 stranded",
+      "answer": "320",
       "options": [
-        "Traders",
-        "Singapore",
-        "IND",
-        "Kyiv"
+        "Disease",
+        "320",
+        "You",
+        "Naming"
       ]
     },
     {
-      "blanked": "ESC Congress ______ Day 1 Recap—5 Headlines to Know",
-      "answer": "2026",
+      "blanked": "FIR ______ Mamata Banerjee For Violating Calcutta HC Order At TMC Event",
+      "answer": "Against",
       "options": [
-        "Calcutta",
-        "Animations",
+        "Against",
+        "Saif",
+        "Rukh",
+        "Rahul"
+      ]
+    },
+    {
+      "blanked": "King100: Teaser of Nagarjuna starrer unveiled on his birthday; film to clash with Shah ______ Khan starrer King",
+      "answer": "Rukh",
+      "options": [
+        "Rukh",
+        "Moon",
+        "Red",
+        "Signal"
+      ]
+    },
+    {
+      "blanked": "Union Bank, LIC Housing Fin, Canara Bank challenge NCLT nod to Subhash ______ resolution plan",
+      "answer": "Chandra",
+      "options": [
+        "Cancer",
+        "Chandra",
+        "Epigenetic",
+        "Everest"
+      ]
+    },
+    {
+      "blanked": "Not a good sign when bar council does not earn respect of its members: Supreme Court Justice BV ______",
+      "answer": "Nagarathna",
+      "options": [
+        "Banerjee",
+        "League",
+        "Nagarathna",
+        "ESA"
+      ]
+    },
+    {
+      "blanked": "Dil Chahta Hai Turns 25: ______ Khan, Saif Ali Khan And Farhan Akhtar Reunite In Mumbai. MIA - Akshaye Khanna",
+      "answer": "Aamir",
+      "options": [
+        "Laljee",
+        "Russian",
         "Aamir",
-        "2026"
+        "Court"
       ]
     },
     {
-      "blanked": "PM Modi must order filing of FIR, we demand justice: Rahul Gandhi on ______ rally venue ‘purification’ in Uttarakhand",
-      "answer": "Kharges",
+      "blanked": "FSSAI bans sale of hing powder by ______ Laljee Godhoo over sub-standard quality",
+      "answer": "Everest",
       "options": [
-        "Traders",
-        "Satire",
-        "Kharges",
-        "Minutes"
+        "Indians",
+        "Everest",
+        "Telomere",
+        "LIC"
       ]
     },
     {
-      "blanked": "Temasek backs ______ Airlines' Air India investment amid growing scrutiny",
-      "answer": "Singapore",
+      "blanked": "Nepal flash floods LIVE updates: ______ rain forecast in flood-affected areas threaten to disrupt rescue ops.; death toll crosses 620",
+      "answer": "Heavy",
       "options": [
-        "Order",
-        "Singapore",
-        "NCLT",
-        "SCO"
+        "OTT",
+        "Moon",
+        "Failed",
+        "Heavy"
+      ]
+    },
+    {
+      "blanked": "Amid rising swine flu cases, ______ govt asks hospitals to reserve isolation beds",
+      "answer": "Delhi",
+      "options": [
+        "Delhi",
+        "You",
+        "Samsung",
+        "Mastermind"
       ]
     }
   ]
