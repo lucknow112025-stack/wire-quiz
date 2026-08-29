@@ -1,22 +1,22 @@
 {
-  "generatedAt": "2026-08-29T18:03:32.361Z",
+  "generatedAt": "2026-08-29T18:18:27.964Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
     "Nepal flash floods LIVE: Rescuers claw through mud as death toll rises to 675",
     "PM Modi lands in Uzbekistan on two-nation visit, President Shavkat Mirziyoyev receives him | India News",
+    "Xi's purge hits PLA General who ordered Galwan ops to 'teach India a lesson'",
     "Oneness or Hindu supremacy? RSS chief Bhagwat’s secretive New York hosts",
     "Rahul Gandhi asks PM Modi to order FIR under SC/ST Act over ‘purification’ after Kharge’s rally | India News",
     "Smart phones, Wi-Fi routers, cash seized from cell of Aftab Ansari, mastermind of 2002 American Centre-attack: Official | India News",
     "Before The Nepal Flood, A Glacial Fall: Tracing The Trigger, And A 100-km Killer Run",
     "‘UP no longer Bimaru state’: CM Yogi says mafia crushed, encephalitis eradicated; Akhilesh flags gaps",
-    "\"These People Will Kill Me\": Woman, Child Die After Delivery, Video Surfaces",
     "Samay Raina addresses India’s Got Latent 2 criticism, responds to ‘filtered’ tag: ‘It’s just not the same anymore’ | Bollywood",
     "Flash floods in Nepal: No contact still with 320 Indians; 400 stranded",
     "Risk of lake burst near China-Nepal disaster site wanes",
     "Russian strike on Kyiv-area ammunition depot triggers blast, killing 37",
-    "Norway mourns King Harald as crowds gather at royal palace",
     "CIA Failed To Connect Key Intel Naming 9/11 Mastermind Before Attacks: Report",
+    "Zimbabwe minibus carrying church members crashes, killing at least 27",
     "India's HDFC Bank CEO Jagdishan to step down in October",
     "Sold house, personal assets, now living on rental income: Zee founder Subhash Chandra reveals his finances",
     "Nvidia’s AI advantage is moving beyond the GPU",
@@ -25,49 +25,89 @@
     "iPhone 18 Pro Vs iPhone 18 Pro Max: Display, Battery, Camera Differences To Know",
     "GTA VI Has Over 600,000 Animations Compared To GTA V's 55,000 & Red Dead Redemption 2's 300,000",
     "Tech wrap week: From Samsung Galaxy S26 FE to AI-powered laptops, here’s what’s new",
-    "‘Toxic’ exclusive: Director Suri lauds Yash’s performance: A brave attempt from superstar",
+    "'Toxic' box office collection Day 4 [LIVE]: Yash and Kiara Advani film races past Rs 178 crore domestic net milestone",
     "Ram Kapoor says Shreya Kalra ‘needs to grow up’ as he addresses Lock Upp kiss row: ‘Not a single woman ever complained’ | Bollywood",
     "'DC' OTT release date: When and where to watch the Lokesh Kanagaraj and Wamiqa Gabbi starrer action drama"
   ],
   "quiz": [
     {
-      "blanked": "Leukocyte Telomere Length Shows Limited Value in Pancreatic ______",
-      "answer": "Cancer",
+      "blanked": "Temasek backs Singapore Airlines' Air ______ investment amid growing scrutiny",
+      "answer": "India",
       "options": [
-        "Cancer",
-        "DLSS",
-        "Video",
-        "Display"
+        "India",
+        "Attacks",
+        "Boycott",
+        "Link"
       ]
     },
     {
-      "blanked": "GTA VI Has Over 600,000 ______ Compared To GTA V's 55,000 & Red Dead Redemption 2's 300,000",
-      "answer": "Animations",
+      "blanked": "Before The ______ Flood, A Glacial Fall: Tracing The Trigger, And A 100-km Killer Run",
+      "answer": "Nepal",
       "options": [
-        "Hindu",
-        "Official",
-        "320",
-        "Animations"
+        "Nepal",
+        "Link",
+        "Uzbekistan",
+        "Flood"
       ]
     },
     {
-      "blanked": "Amid rising swine flu cases, ______ govt asks hospitals to reserve isolation beds",
-      "answer": "Delhi",
+      "blanked": "India's javelin champion Neeraj ______ ends season early after ligament tear",
+      "answer": "Chopra",
       "options": [
-        "Air",
-        "Kill",
-        "Delhi",
-        "Suns"
+        "Chopra",
+        "Brook",
+        "Galaxy",
+        "Boycott"
       ]
     },
     {
-      "blanked": "Oneness or Hindu supremacy? ______ chief Bhagwat’s secretive New York hosts",
-      "answer": "RSS",
+      "blanked": "10 jaw-dropping ______ space images that showcase the incredible beauty of the cosmos",
+      "answer": "ESA",
       "options": [
-        "Max",
-        "Know",
-        "RSS",
-        "Cancer"
+        "Value",
+        "Shah",
+        "Upp",
+        "ESA"
+      ]
+    },
+    {
+      "blanked": "GTA VI Has Over 600,000 Animations Compared To ______ V's 55,000 & Red Dead Redemption 2's 300,000",
+      "answer": "GTA",
+      "options": [
+        "Key",
+        "GTA",
+        "King",
+        "Yogi"
+      ]
+    },
+    {
+      "blanked": "Nepal flash floods LIVE: Rescuers claw through mud as death toll rises to ______",
+      "answer": "675",
+      "options": [
+        "675",
+        "178",
+        "Shows",
+        "Chandra"
+      ]
+    },
+    {
+      "blanked": "Geoffrey Boycott disappointed: ______ Brook can match Sachin Tendulkar and Brian Lara but… | Cricket",
+      "answer": "Harry",
+      "options": [
+        "Indias",
+        "Changes",
+        "Harry",
+        "Advani"
+      ]
+    },
+    {
+      "blanked": "Ram Kapoor says Shreya Kalra ‘needs to grow up’ as he addresses Lock Upp kiss row: ______ a single woman ever complained’ | Bollywood",
+      "answer": "Not",
+      "options": [
+        "Nvidias",
+        "Value",
+        "Not",
+        "Pancreatic"
       ]
     },
     {
@@ -75,79 +115,39 @@
       "answer": "China-Nepal",
       "options": [
         "China-Nepal",
-        "Bollywood",
-        "Got",
-        "300000"
-      ]
-    },
-    {
-      "blanked": "Smart phones, Wi-Fi routers, cash seized from cell of Aftab Ansari, mastermind of 2002 American Centre-attack: Official | India ______",
-      "answer": "News",
-      "options": [
-        "News",
-        "Uzbekistan",
-        "Solar",
-        "Air"
-      ]
-    },
-    {
-      "blanked": "Flash floods in Nepal: No contact still with 320 ______ 400 stranded",
-      "answer": "Indians",
-      "options": [
-        "Yogi",
-        "Act",
-        "Video",
-        "Indians"
-      ]
-    },
-    {
-      "blanked": "Ram Kapoor says Shreya ______ ‘needs to grow up’ as he addresses Lock Upp kiss row: ‘Not a single woman ever complained’ | Bollywood",
-      "answer": "Kalra",
-      "options": [
-        "Kalra",
-        "Nepal",
-        "Kanagaraj",
-        "Bhagwats"
-      ]
-    },
-    {
-      "blanked": "Samay Raina addresses India’s ______ Latent 2 criticism, responds to ‘filtered’ tag: ‘It’s just not the same anymore’ | Bollywood",
-      "answer": "Got",
-      "options": [
-        "Kapoor",
-        "Hindu",
-        "Got",
-        "Kanagaraj"
-      ]
-    },
-    {
-      "blanked": "Nepal flash floods LIVE: Rescuers claw through mud as death toll rises to ______",
-      "answer": "675",
-      "options": [
-        "Got",
-        "2002",
-        "Redemption",
-        "675"
-      ]
-    },
-    {
-      "blanked": "‘UP no longer ______ state’: CM Yogi says mafia crushed, encephalitis eradicated; Akhilesh flags gaps",
-      "answer": "Bimaru",
-      "options": [
-        "Hubble",
-        "Differences",
-        "Woman",
-        "Bimaru"
-      ]
-    },
-    {
-      "blanked": "PHOTOS: ______ appears orange due to partial lunar eclipse",
-      "answer": "Moon",
-      "options": [
-        "Differences",
-        "Indians",
         "Moon",
-        "Limited"
+        "Value",
+        "Cancer"
+      ]
+    },
+    {
+      "blanked": "Placental Epigenetic Changes Link to Persistent Food ______",
+      "answer": "Allergy",
+      "options": [
+        "Allergy",
+        "Worse",
+        "Failed",
+        "Display"
+      ]
+    },
+    {
+      "blanked": "Aditya-L1 catches ______ early warning signs before Solar flares",
+      "answer": "Suns",
+      "options": [
+        "GTA",
+        "Bollywood",
+        "55000",
+        "Suns"
+      ]
+    },
+    {
+      "blanked": "Nvidia’s AI advantage is moving beyond the ______",
+      "answer": "GPU",
+      "options": [
+        "Zee",
+        "Airlines",
+        "GPU",
+        "When"
       ]
     }
   ]
