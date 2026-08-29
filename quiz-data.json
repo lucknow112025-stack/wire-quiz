@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-29T23:33:24.566Z",
+  "generatedAt": "2026-08-29T23:48:22.424Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "Nepal flash floods LIVE: Rescuers claw through mud as death toll rises to 675",
+    "Nepal and China resume flood rescue as death toll surpasses 600",
     "PM Modi lands in Uzbekistan on two-nation visit, President Shavkat Mirziyoyev receives him | India News",
     "Israeli settlers surround Palestinian home in occupied West Bank’s Qusra",
     "Mohan Bhagwat Poster Goes Up On Times Square Billboard Ahead Of RSS Chief’s MSG Address",
     "China removes PLA general who oversaw Doklam and Galwan standoffs with India from key post",
     "Before The Nepal Flood, A Glacial Fall: Tracing The Trigger, And A 100-km Killer Surge",
     "Rahul Gandhi seeks FIR over ‘purification’ ritual in Haldwani after Kharge’s address, calls it ‘untouchability’",
-    "Flash floods in Nepal: No contact still with 320 Indians; 400 stranded",
     "Trinamool Congress Moves Calcutta High Court Against Alleged Removal Of Billboard From Party Office",
     "Manufacture in India, build for world: FM Sitharaman",
+    "No word from Thane couple on first trip to Nepal, kin await clarity",
     "'Soldiers attempted mutiny': Niger's defence minister after gunfire, blasts heard in capital Niamey",
-    "Norway's King Haakon honours 'dear father' Harald in first speech as sovereign",
     "Iran’s leaders acknowledge economic toll of war, pledge diplomacy, defence",
     "Canada To Impose Up To 50% Tariffs On 700 US Goods As Trade War Escalates",
+    "Far-Right British Provocateur Arrested By US Immigration Agents",
     "HDFC Bank CEO Jagdishan to step down, decides not to seek reappointment",
     "Sold house, personal assets, now living on rental income: Zee founder Subhash Chandra reveals his finances",
     "Gold drops 3% as Fed's Warsh comments lift rate hike bets",
-    "CNG Prices Hiked By Rs 3.89 In Delhi-NCR: Check City-Wise Rates",
+    "After Supreme Court Rap, FSSAI Proposes Pictorial Front-of-Pack Warning Labels For Packaged Foods High In ...",
     "Nvidia's DLSS 5 leaked early, and modders have already broken it out of its Blackwell cage",
+    "First look at Grand Theft Auto 6 gameplay released on Netflix ahead of November launch",
     "Here's when the iPhone 18 Pro and iPhone 18 Pro Max are rumored to go on pre-order - GSMArena.com news",
-    "GTA VI Has Over 600,000 Animations Compared To GTA V's 55,000 & Red Dead Redemption 2's 300,000",
-    "iPhone 17 Pro Max drops to ₹1.05 lakh ahead of iPhone 18 | Tap to know more | Inshorts",
+    "IPhone 17 Pro Max Price Slashed Worldwide Before IPhone 18 Launch",
     "'Toxic' box office collection Day 4 [LIVE]: Yash and Kiara Advani film races past Rs 182 crore domestic net milestone",
     "King100: Teaser of Nagarjuna starrer unveiled on his birthday; film to clash with Shah Rukh Khan starrer King",
     "'SNL’ star Kenan Thompson to join ‘America’s Got Talent’ after Simon Cowell takes a break for back surger"
   ],
   "quiz": [
     {
-      "blanked": "Sold house, personal assets, now living on rental income: Zee founder Subhash ______ reveals his finances",
-      "answer": "Chandra",
+      "blanked": "'SNL’ star Kenan Thompson to join ‘America’s Got Talent’ after Simon ______ takes a break for back surger",
+      "answer": "Cowell",
       "options": [
-        "Chandra",
-        "Alleged",
+        "Got",
+        "RSS",
+        "President",
+        "Cowell"
+      ]
+    },
+    {
+      "blanked": "PM ______ lands in Uzbekistan on two-nation visit, President Shavkat Mirziyoyev receives him | India News",
+      "answer": "Modi",
+      "options": [
+        "West",
+        "Jagdishan",
+        "Calcutta",
+        "Modi"
+      ]
+    },
+    {
+      "blanked": "Leukocyte Telomere Length Shows Limited Value in ______ Cancer",
+      "answer": "Pancreatic",
+      "options": [
+        "RSS",
+        "Kharges",
+        "Pancreatic",
+        "Chiefs"
+      ]
+    },
+    {
+      "blanked": "Women’s Hockey ______ Cup: Argentina stun Netherlands in shootout thriller to win third title",
+      "answer": "World",
+      "options": [
+        "Supreme",
+        "Proposes",
+        "World",
+        "Worldwide"
+      ]
+    },
+    {
+      "blanked": "Before The Nepal Flood, A Glacial Fall: Tracing The Trigger, And A 100-km ______ Surge",
+      "answer": "Killer",
+      "options": [
+        "Uzbekistan",
+        "King",
         "Killer",
-        "Bank"
+        "Fall"
+      ]
+    },
+    {
+      "blanked": "Nepal and ______ resume flood rescue as death toll surpasses 600",
+      "answer": "China",
+      "options": [
+        "China",
+        "Atherosclerosis",
+        "DLSS",
+        "Banks"
+      ]
+    },
+    {
+      "blanked": "No word from ______ couple on first trip to Nepal, kin await clarity",
+      "answer": "Thane",
+      "options": [
+        "50%",
+        "Thane",
+        "700",
+        "Yash"
+      ]
+    },
+    {
+      "blanked": "Nashville airport to be renamed after Dolly ______ Tennessee's governor announces days after singer's demise",
+      "answer": "Parton",
+      "options": [
+        "Parton",
+        "Solar",
+        "Labels",
+        "Congress"
       ]
     },
     {
       "blanked": "10 jaw-dropping ______ space images that showcase the incredible beauty of the cosmos",
       "answer": "ESA",
       "options": [
-        "Pro",
         "ESA",
-        "Chiefs",
-        "Talent"
+        "Launch",
+        "Shows",
+        "Gandhi"
       ]
     },
     {
-      "blanked": "'SNL’ star Kenan Thompson to join ‘America’s Got Talent’ after Simon ______ takes a break for back surger",
-      "answer": "Cowell",
-      "options": [
-        "320",
-        "Calcutta",
-        "Cowell",
-        "Qusra"
-      ]
-    },
-    {
-      "blanked": "Nvidia's DLSS 5 leaked early, and modders have already broken it out of its ______ cage",
-      "answer": "Blackwell",
-      "options": [
-        "High",
-        "Tennessees",
-        "Banks",
-        "Blackwell"
-      ]
-    },
-    {
-      "blanked": "PM Modi lands in Uzbekistan on two-nation visit, President Shavkat Mirziyoyev receives him | ______ News",
-      "answer": "India",
-      "options": [
-        "Tracing",
-        "Goods",
-        "India",
-        "Widespread"
-      ]
-    },
-    {
-      "blanked": "Norway's King ______ honours 'dear father' Harald in first speech as sovereign",
-      "answer": "Haakon",
-      "options": [
-        "300000",
-        "Got",
-        "King",
-        "Haakon"
-      ]
-    },
-    {
-      "blanked": "Imaging Reveals Widespread Silent Atherosclerosis ______ ESC 2026",
-      "answer": "Burden",
-      "options": [
-        "Widespread",
-        "Compared",
-        "Red",
-        "Burden"
-      ]
-    },
-    {
-      "blanked": "CNG ______ Hiked By Rs 3.89 In Delhi-NCR: Check City-Wise Rates",
-      "answer": "Prices",
-      "options": [
-        "2026",
-        "Inshorts",
-        "Prices",
-        "Widespread"
-      ]
-    },
-    {
-      "blanked": "India's javelin champion ______ Chopra ends season early after ligament tear",
-      "answer": "Neeraj",
-      "options": [
-        "Zee",
-        "President",
-        "Burden",
-        "Neeraj"
-      ]
-    },
-    {
-      "blanked": "GTA VI Has Over 600,000 ______ Compared To GTA V's 55,000 & Red Dead Redemption 2's 300,000",
-      "answer": "Animations",
+      "blanked": "Trinamool Congress Moves Calcutta High Court ______ Alleged Removal Of Billboard From Party Office",
+      "answer": "Against",
       "options": [
         "Against",
-        "Animations",
+        "Office",
+        "600",
+        "Max"
+      ]
+    },
+    {
+      "blanked": "Imaging Reveals Widespread ______ Atherosclerosis Burden: ESC 2026",
+      "answer": "Silent",
+      "options": [
+        "Slashed",
+        "Thompson",
+        "Silent",
+        "British"
+      ]
+    },
+    {
+      "blanked": "HPV VACCINATION CAMPAIGN TO BE ______ IN ZUNHEBOTO DISTRICT",
+      "answer": "CONDUCTED",
+      "options": [
         "Billboard",
-        "Got"
-      ]
-    },
-    {
-      "blanked": "Leukocyte Telomere ______ Shows Limited Value in Pancreatic Cancer",
-      "answer": "Length",
-      "options": [
-        "Has",
-        "Length",
-        "Galwan",
-        "Link"
-      ]
-    },
-    {
-      "blanked": "Rahul ______ seeks FIR over ‘purification’ ritual in Haldwani after Kharge’s address, calls it ‘untouchability’",
-      "answer": "Gandhi",
-      "options": [
-        "Gandhi",
-        "675",
-        "Subhash",
-        "Haakon"
+        "Modi",
+        "CONDUCTED",
+        "Argentina"
       ]
     }
   ]
