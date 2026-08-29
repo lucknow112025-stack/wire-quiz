@@ -1,22 +1,22 @@
 {
-  "generatedAt": "2026-08-29T07:03:31.795Z",
+  "generatedAt": "2026-08-29T07:18:24.941Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
     "Nepal flash floods LIVE updates: Death toll rises to 623; Over 2,400 missing in Nepal, China",
     "Trump announces ‘biggest oil deal in world history’ with Venezuela",
     "PM Modi heads to Uzbekistan, SCO; meet with Putin on the cards | India News",
-    "India signs deal with US to buy Javelin anti-tank missile systems",
     "Penguin drops Sonia Gandhi’s memoir after she rejected ‘changes, deletions’",
     "War weighs on Iran's economy as US intensifies sanctions",
+    "India signs deal with US to buy Javelin anti-tank missile systems",
+    "Food Body Officer Cornered, Forced To Eat Expired Biscuits Over Bribery Allegations In Maharashtra",
     "‘Abducted, tied to tree and set on fire’: Chandigarh influencer, 28, dies after weeks in hospital | Hindustan Times",
-    "Delhi Couple Arrested Over ISI Links. They Sent SIM Cards To Pakistan Via Dubai",
     "‘Escalation’, ‘threatening slogans’: IIT Delhi director warns protesting students",
     "Nepal flash flood: No trace of 66 Maharashtra pilgrims yet, families’ uncertainty grows",
+    "Boy, 8, Reunites With Mother After Surviving Nepal Floods By Climbing Trees",
     "US revises statements suggesting Chinese hackers attacked agencies",
     "'Name dates back 400 years': Canada's Carney rejects Trump's 'Lake Ontario' name change to 'Lake America'",
     "Hero border cop missing, helped people escape as flood swept away Gyirong port",
-    "Trump Sent CIA Chief To Moscow Secretly. Even Top US Officials Had No Idea",
     "Mint Explainer | Banks recover 1% in personal guarantor cases; Subhash Chandra case said to involve associate companies",
     "OpenAI to end agreement with SpaceX's AI coding tool Cursor, deepening Musk-Altman clash",
     "Why India's Biggest Stocks Stopped Working: Three Top Investors, One Verdict",
@@ -25,129 +25,129 @@
     "iPhone 18 Pro, Foldable iPhone Ultra and More: Apple Products Expected Next Month",
     "Xbox CEO Says Project Helix Includes a 'Family of Devices'",
     "Galaxy S26 FE Debuts With Flagship AI Features, 7 Years Of Updates, And 45W Charging",
-    "Kichcha Sudeep hails Yash's 'conviction' and DEFENDS 'Toxic - A Fairytale for Grown Ups': 'It takes guts",
-    "Orry warns Samay Raina on 'India's Got Latent 2':'Aukaat mein raho, tum andar jaayega toh tum bahar nahi",
-    "Samantha Ruth Prabhu Shares How Much Weight She Has Gained During Pregnancy"
+    "'Toxic: A Fairy Tale for Grown-ups' box office collection day 3: Yash-Nayanthara starrer sees 29.3 percen",
+    "Samantha Ruth Prabhu Shares How Much Weight She Has Gained During Pregnancy",
+    "Orry warns Samay Raina on 'India's Got Latent 2':'Aukaat mein raho, tum andar jaayega toh tum bahar nahi"
   ],
   "quiz": [
     {
-      "blanked": "Orry warns Samay Raina on ______ Got Latent 2':'Aukaat mein raho, tum andar jaayega toh tum bahar nahi",
-      "answer": "Indias",
+      "blanked": "Suryakumar Yadav breaks silence on shock India snub after T20 ______ Cup win: ‘Whatever call someone...’",
+      "answer": "World",
       "options": [
-        "Release",
-        "Pro",
-        "Got",
-        "Indias"
+        "Uzbekistan",
+        "Fibrillation",
+        "Trees",
+        "World"
       ]
     },
     {
-      "blanked": "Kichcha Sudeep hails Yash's 'conviction' and ______ 'Toxic - A Fairytale for Grown Ups': 'It takes guts",
-      "answer": "DEFENDS",
+      "blanked": "‘Hi’ movie review: Kavin, Nayanthara anchor ______ Edavan’s old-school wholesome entertainer",
+      "answer": "Vishnu",
       "options": [
-        "Lake",
-        "Everything",
-        "DEFENDS",
+        "Banks",
+        "Vishnu",
+        "Debuts",
+        "Trees"
+      ]
+    },
+    {
+      "blanked": "BCCI stance on ______ Bill creates confusion within Board",
+      "answer": "Sports",
+      "options": [
+        "2400",
+        "Sports",
+        "Office",
+        "Gained"
+      ]
+    },
+    {
+      "blanked": "India’s Solar ambitions: Findings by Aditya-Li valuable to ______",
+      "answer": "Science",
+      "options": [
+        "IIT",
+        "Science",
+        "Khans",
         "Atrial"
       ]
     },
     {
-      "blanked": "'Name dates back ______ years': Canada's Carney rejects Trump's 'Lake Ontario' name change to 'Lake America'",
-      "answer": "400",
+      "blanked": "Hockey India rewards women’s team with Rs 50 lakh after historic fifth-place ______ Cup finish",
+      "answer": "World",
       "options": [
-        "400",
-        "Toxic",
-        "Month",
-        "Khans"
+        "World",
+        "Investors",
+        "Stroke",
+        "Foldable"
       ]
     },
     {
-      "blanked": "Gold prices shed about 3% on hawkish Warsh at Jackson ______ set for weekly decline",
-      "answer": "Hole",
+      "blanked": "US revises statements suggesting ______ hackers attacked agencies",
+      "answer": "Chinese",
       "options": [
-        "Flagship",
-        "Hole",
-        "Biggest",
-        "SpaceXs"
-      ]
-    },
-    {
-      "blanked": "Trump Sent CIA Chief To Moscow Secretly. Even Top US Officials ______ No Idea",
-      "answer": "Had",
-      "options": [
-        "Products",
-        "Modi",
-        "Had",
-        "Toxic"
-      ]
-    },
-    {
-      "blanked": "Why India's Biggest Stocks Stopped Working: Three ______ Investors, One Verdict",
-      "answer": "Top",
-      "options": [
-        "Indias",
-        "Apple",
-        "Stopped",
-        "Top"
-      ]
-    },
-    {
-      "blanked": "Trump announces ‘biggest oil deal in world history’ with ______",
-      "answer": "Venezuela",
-      "options": [
-        "Three",
-        "Venezuela",
-        "Kavin",
-        "Ontario"
+        "Chinese",
+        "Chandigarh",
+        "Latent",
+        "29.3"
       ]
     },
     {
       "blanked": "India signs deal with US to buy ______ anti-tank missile systems",
       "answer": "Javelin",
       "options": [
-        "Bill",
-        "Years",
-        "Heavy",
-        "Javelin"
+        "Javelin",
+        "Shares",
+        "Times",
+        "Science"
       ]
     },
     {
-      "blanked": "PM Modi heads to Uzbekistan, SCO; meet with Putin on the cards | India ______",
-      "answer": "News",
+      "blanked": "Nepal flash flood: No trace of 66 ______ pilgrims yet, families’ uncertainty grows",
+      "answer": "Maharashtra",
       "options": [
-        "Heavy",
-        "News",
-        "Kavin",
-        "Stocks"
+        "Maharashtra",
+        "Grown-ups",
+        "India",
+        "Telescope"
       ]
     },
     {
-      "blanked": "Physical Activity ______ to Lower Stroke Risk in Atrial Fibrillation",
-      "answer": "Linked",
+      "blanked": "‘Abducted, tied to tree and set on fire’: Chandigarh influencer, 28, dies after weeks in hospital | ______ Times",
+      "answer": "Hindustan",
       "options": [
-        "Linked",
-        "Everything",
-        "SCO",
-        "Roman"
+        "Oval",
+        "Stocks",
+        "Hindustan",
+        "Science"
       ]
     },
     {
-      "blanked": "PCB considered pulling players out of Test against England after Sky aired interview with Imran ______ sons",
-      "answer": "Khans",
+      "blanked": "'GTA 6' Release Details: Everything We ______ About 'Grand Theft Auto VI'",
+      "answer": "Know",
       "options": [
-        "Family",
-        "Clouds",
-        "Khans",
-        "Findings"
+        "America",
+        "Falcon",
+        "Investors",
+        "Know"
       ]
     },
     {
-      "blanked": "Galaxy S26 FE Debuts With Flagship AI Features, 7 ______ Of Updates, And 45W Charging",
-      "answer": "Years",
+      "blanked": "OpenAI to end agreement with SpaceX's AI coding tool ______ deepening Musk-Altman clash",
+      "answer": "Cursor",
       "options": [
-        "Lower",
-        "Years",
-        "CEO",
-        "PMDD"
+        "Cursor",
+        "Know",
+        "Science",
+        "Banks"
+      ]
+    },
+    {
+      "blanked": "Trump announces ‘biggest oil deal in world history’ with ______",
+      "answer": "Venezuela",
+      "options": [
+        "Pregnancy",
+        "Ruth",
+        "Death",
+        "Venezuela"
       ]
     }
   ]
