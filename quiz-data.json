@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-29T05:03:39.754Z",
+  "generatedAt": "2026-08-29T05:18:24.372Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "3 Days On, 77 Isha Foundation Pilgrims Still Missing After Nepal Floods",
-    "'Biggest deal in world history': Trump says US secured 65 billion barrels of Venezuelan oil | World News",
-    "PM Modi heads to Uzbekistan, SCO; meet with Putin on the cards | India News",
-    "The world’s deadliest glacier disasters",
-    "Iran lashes out at US sanctions amid economic toll at home",
-    "Penguin drops Sonia Gandhi’s memoir after she rejected ‘changes, deletions’",
-    "SIMs, WhatsApp, Dubai route: How Delhi couple aided Pakistan-linked espionage",
-    "B Nagendra Redux: 2 Years, 2 Resignations, 2 Different Chief Ministers",
-    "Flash floods in Nepal: No contact still with 320 Indians; 400 stranded",
-    "Konda And Revanth Set Egos Aside For Party Unity!",
     "Nepal flash floods LIVE updates: Over 4,400 rescued as Nepal mobilises massive flood relief op., says PM Balen Shah",
+    "Trump announces ‘biggest oil deal in world history’ with Venezuela",
+    "PM Modi heads to Uzbekistan, SCO; meet with Putin on the cards | India News",
+    "Iran lashes out at US sanctions amid economic toll at home",
+    "The world’s deadliest glacier disasters",
+    "X account blocked for several hours, rues organisation hosting Bhagwat's New York event",
+    "SIMs, WhatsApp, Dubai route: How Delhi couple aided Pakistan-linked espionage",
+    "‘Conspiracy to oust me from Cabinet’: Union minister accuses BJP colleagues of smear campaign",
+    "Flash floods in Nepal: No contact still with 320 Indians; 400 stranded",
+    "B Nagendra Redux: 2 Years, 2 Resignations, 2 Different Chief Ministers",
     "US-Israel war on Iran, six months down the line: In numbers",
     "US revises statements suggesting Chinese hackers attacked agencies",
+    "Syria President Appoints Kurdish Leader Mazloum Abdi As His Adviser",
     "With nod to India, Canadian FM talks 'diversification' amid US trade war: 'You'll know why I have such a...",
     "Gold prices shed about 3% on hawkish Warsh at Jackson Hole, set for weekly decline",
-    "OpenAI to end partnership with SpaceX's Cursor",
-    "Subhash Chandra To Take Up Job In Switzerland After Rs 22,006-Crore Debt Cut",
-    "CNG price hike: Compressed natural gas gets costlier; check city-wise rates",
-    "Google Pixel Watch 5 Review: Long Live The King",
+    "OpenAI to end agreement with SpaceX's AI coding tool Cursor, deepening Musk-Altman clash",
+    "Mint Explainer | Banks recover 1% in personal guarantor cases; Subhash Chandra case said to involve associate companies",
+    "CNG Gets Costlier By Rs 3.89. New Price In Delhi Nears Rs 87 Per Kg",
     "'GTA 6' Release Details: Everything We Know About 'Grand Theft Auto VI'",
+    "Google Pixel Watch 5 Review: Long Live The King",
     "iPhone 18 Pro, Foldable iPhone Ultra and More: Apple Products Expected Next Month",
-    "Galaxy S26 FE Debuts With Flagship AI Features, 7 Years Of Updates, And 45W Charging",
+    "Microsoft announces Xbox disc-to-digital programme, to start next week for select users",
     "'Toxic: A Fairy Tale for Grown-ups' box office collection day 3: Yash-Nayanthara starrer sees 29.3 percen",
-    "Mom-to-be Samantha Ruth Prabhu spills how her journey to motherhood made gain 11 kilos during AMA session",
-    "'I've Got My Best Review From Her': Siddharth Says Ajay Ahuja's Wife Alka Calls Him Every Day After Watching Operation Safed Sagar"
+    "Inside the Ali Khan-Kemmu Raksha Bandhan celebrations: Sara, Inaaya tie rakhis to brothers Ibrahim, Taimur and Jeh | Bollywood",
+    "Mom-to-be Samantha Ruth Prabhu spills how her journey to motherhood made gain 11 kilos during AMA session"
   ],
   "quiz": [
     {
-      "blanked": "OpenAI to end partnership with ______ Cursor",
-      "answer": "SpaceXs",
+      "blanked": "'I've Got My Best Review From Her': Siddharth Says Ajay Ahuja's Wife Alka Calls Him Every Day After ______ Operation Safed Sagar",
+      "answer": "Watching",
       "options": [
-        "Nagendra",
-        "SpaceXs",
-        "Resignations",
-        "Everything"
-      ]
-    },
-    {
-      "blanked": "Nepal flash floods LIVE updates: Over 4,400 rescued as ______ mobilises massive flood relief op., says PM Balen Shah",
-      "answer": "Nepal",
-      "options": [
-        "Risk",
-        "Foundation",
-        "Findings",
-        "Nepal"
-      ]
-    },
-    {
-      "blanked": "US revises statements suggesting ______ hackers attacked agencies",
-      "answer": "Chinese",
-      "options": [
-        "India",
-        "Stroke",
-        "Chinese",
-        "Pro"
-      ]
-    },
-    {
-      "blanked": "'Biggest deal in world history': ______ says US secured 65 billion barrels of Venezuelan oil | World News",
-      "answer": "Trump",
-      "options": [
-        "Ultra",
-        "Nagendra",
-        "Trump",
-        "Iran"
-      ]
-    },
-    {
-      "blanked": "Photos: ______ part and make way for deep lunar eclipse",
-      "answer": "Clouds",
-      "options": [
-        "Clouds",
+        "Prabhu",
+        "SCO",
         "Operation",
-        "Canadian",
-        "Ali"
+        "Watching"
       ]
     },
     {
-      "blanked": "The agony of ______ — the condition that made me plot my own death",
-      "answer": "PMDD",
+      "blanked": "Mom-to-be Samantha ______ Prabhu spills how her journey to motherhood made gain 11 kilos during AMA session",
+      "answer": "Ruth",
       "options": [
-        "PMDD",
-        "Solar",
-        "Cup",
-        "Warsh"
+        "Ruth",
+        "Alka",
+        "Explainer",
+        "Chinese"
       ]
     },
     {
-      "blanked": "3 ______ On, 77 Isha Foundation Pilgrims Still Missing After Nepal Floods",
-      "answer": "Days",
+      "blanked": "Suryakumar Yadav breaks silence on getting dropped after winning T20 World ______ ‘I thought how is it even possible?’ | Cricket",
+      "answer": "Cup",
       "options": [
-        "Canadian",
-        "Days",
-        "Taimur",
-        "Sara"
+        "Stroke",
+        "Leader",
+        "President",
+        "Cup"
       ]
     },
     {
-      "blanked": "India’s Solar ambitions: Findings by Aditya-Li valuable to ______",
-      "answer": "Science",
+      "blanked": "PCB considered pulling players out of Test against England after Sky aired interview with Imran ______ sons",
+      "answer": "Khans",
       "options": [
-        "Debt",
-        "Chess",
-        "Science",
-        "Board"
+        "About",
+        "Khans",
+        "Sky",
+        "Inaaya"
+      ]
+    },
+    {
+      "blanked": "X account blocked for several hours, rues organisation hosting Bhagwat's New ______ event",
+      "answer": "York",
+      "options": [
+        "AMA",
+        "York",
+        "Siddharth",
+        "Live"
+      ]
+    },
+    {
+      "blanked": "Hockey World Cup: Belgium break ______ hearts in shootout as Harmanpreet’s side finishes eighth",
+      "answer": "Indian",
+      "options": [
+        "Indian",
+        "Chief",
+        "400",
+        "Taimur"
+      ]
+    },
+    {
+      "blanked": "Trump praises ______ astronaut Anil Menon, invites crew to Oval Office",
+      "answer": "Indian-origin",
+      "options": [
+        "Ministers",
+        "Years",
+        "Shah",
+        "Indian-origin"
+      ]
+    },
+    {
+      "blanked": "'Toxic: A Fairy Tale for ______ box office collection day 3: Yash-Nayanthara starrer sees 29.3 percen",
+      "answer": "Grown-ups",
+      "options": [
+        "Chandra",
+        "Findings",
+        "Indian-origin",
+        "Grown-ups"
+      ]
+    },
+    {
+      "blanked": "Nepal flash floods LIVE updates: Over 4,400 rescued as Nepal mobilises massive flood relief op., says PM Balen ______",
+      "answer": "Shah",
+      "options": [
+        "Explainer",
+        "Kurdish",
+        "SpaceXs",
+        "Shah"
       ]
     },
     {
       "blanked": "Gold prices shed about 3% on hawkish ______ at Jackson Hole, set for weekly decline",
       "answer": "Warsh",
       "options": [
-        "Tale",
-        "Atrial",
-        "Compressed",
-        "Warsh"
+        "Warsh",
+        "Pixel",
+        "Bandhan",
+        "Indian-origin"
       ]
     },
     {
-      "blanked": "'GTA 6' Release ______ Everything We Know About 'Grand Theft Auto VI'",
-      "answer": "Details",
+      "blanked": "Inside the Ali Khan-Kemmu Raksha Bandhan celebrations: ______ Inaaya tie rakhis to brothers Ibrahim, Taimur and Jeh | Bollywood",
+      "answer": "Sara",
       "options": [
-        "Details",
-        "SCO",
-        "Venezuelan",
-        "2026"
+        "Menon",
+        "Cabinet",
+        "Fairy",
+        "Sara"
       ]
     },
     {
-      "blanked": "Physical ______ Linked to Lower Stroke Risk in Atrial Fibrillation",
-      "answer": "Activity",
+      "blanked": "OpenAI to end agreement with ______ AI coding tool Cursor, deepening Musk-Altman clash",
+      "answer": "SpaceXs",
       "options": [
-        "Activity",
-        "How",
-        "Tour",
-        "Review"
-      ]
-    },
-    {
-      "blanked": "Subhash Chandra To Take Up Job In Switzerland After Rs 22,006-Crore ______ Cut",
-      "answer": "Debt",
-      "options": [
-        "Details",
-        "Gandhis",
-        "Debt",
-        "Chandra"
+        "Youll",
+        "SpaceXs",
+        "Jeh",
+        "Nears"
       ]
     }
   ]
