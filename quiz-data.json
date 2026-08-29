@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-29T21:03:24.684Z",
+  "generatedAt": "2026-08-29T21:18:21.318Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
     "Nepal and China resume flood rescue as death toll surpasses 600",
     "PM Modi lands in Uzbekistan on two-nation visit, President Shavkat Mirziyoyev receives him | India News",
     "Israeli settlers surround Palestinian home in occupied West Bank’s Qusra",
-    "Oneness or Hindu supremacy? RSS chief Bhagwat’s secretive New York hosts",
+    "Mohan Bhagwat Poster Goes Up On Times Square Billboard Ahead Of RSS Chief’s MSG Address",
     "Rahul Gandhi asks PM Modi to order FIR under SC/ST Act over ‘purification’ after Kharge’s rally | India News",
     "China removes PLA general who oversaw Doklam and Galwan standoffs with India from key post",
     "Before The Nepal Flood, A Glacial Fall: Tracing The Trigger, And A 100-km Killer Surge",
     "Flash floods in Nepal: No contact still with 320 Indians; 400 stranded",
-    "‘UP no longer Bimaru state’: CM Yogi says mafia crushed, encephalitis eradicated; Akhilesh flags gaps",
+    "Samay Raina in soup again over remarks on people from Bihar, Kashmiri Pandits: 'They get publicity for fr",
     "Manufacture in India, build for world: FM Sitharaman",
-    "'Soldiers attempted mutiny': Niger's defence minister after gunfire, blasts heard in capital Niamey",
     "Russian strike on Kyiv-area ammunition depot triggers blast, killing 37",
+    "'Soldiers attempted mutiny': Niger's defence minister after gunfire, blasts heard in capital Niamey",
     "Norway's King Haakon honours 'dear father' Harald in first speech as sovereign",
-    "CIA Failed To Connect Key Intel Naming 9/11 Mastermind Before Attacks: Report",
-    "Sold house, personal assets, now living on rental income: Zee founder Subhash Chandra reveals his finances",
-    "Nvidia’s AI advantage is moving beyond the GPU",
-    "Gold News: Gold Price Breaks 200-Day MA as Warsh Revives September Hike Bets",
-    "CNG Prices Hiked By Rs 3.89 In Delhi-NCR: Check City-Wise Rates",
+    "Far-Right British Provocateur Arrested By US Immigration Agents",
+    "HDFC Bank CEO Jagdishan opts out of reappointment, to step down after term ends in October",
+    "Union Bank, LIC Housing Fin, Canara Bank challenge NCLT nod to Subhash Chandra resolution plan",
+    "Delhi CNG price hike: Rs 3.89/kg rise fuels fare hike demand, auto strike threat and political clash",
+    "FSSAI to introduce red warning labels on chips, sugary drinks and packaged foods",
     "Nvidia's DLSS 5 leaked early, and modders have already broken it out of its Blackwell cage",
+    "GTA VI: 6 Cool Features You May Have Missed In Rockstar Games’ Highly-Anticipated Release",
     "Here's when the iPhone 18 Pro and iPhone 18 Pro Max are rumored to go on pre-order - GSMArena.com news",
-    "GTA VI Has Over 600,000 Animations Compared To GTA V's 55,000 & Red Dead Redemption 2's 300,000",
     "Tech wrap week: From Samsung Galaxy S26 FE to AI-powered laptops, here’s what’s new",
     "'Toxic' box office collection Day 4 [LIVE]: Yash and Kiara Advani film races past Rs 182 crore domestic net milestone",
     "King100: Teaser of Nagarjuna starrer unveiled on his birthday; film to clash with Shah Rukh Khan starrer King",
-    "Ram Kapoor says Shreya Kalra ‘needs to grow up’ as he addresses Lock Upp kiss row: ‘Not a single woman ever complained’ | Bollywood"
+    "Nashville airport to be renamed after Dolly Parton, Tennessee's governor announces days after singer's demise"
   ],
   "quiz": [
     {
-      "blanked": "India's javelin champion ______ Chopra ends season early after ligament tear",
-      "answer": "Neeraj",
+      "blanked": "Nepal and ______ resume flood rescue as death toll surpasses 600",
+      "answer": "China",
       "options": [
-        "Dolly",
-        "Sitharaman",
-        "Neeraj",
-        "Shreya"
+        "China",
+        "Address",
+        "Gandhi",
+        "Fin"
       ]
     },
     {
-      "blanked": "Before The Nepal Flood, A Glacial Fall: Tracing The Trigger, And A 100-km ______ Surge",
-      "answer": "Killer",
+      "blanked": "China removes PLA general who oversaw Doklam and Galwan standoffs with ______ from key post",
+      "answer": "India",
       "options": [
-        "Atherosclerosis",
-        "Fall",
-        "Niamey",
-        "Killer"
+        "Chopra",
+        "Shavkat",
+        "India",
+        "Not"
       ]
     },
     {
-      "blanked": "Nvidia’s AI advantage is moving beyond the ______",
-      "answer": "GPU",
+      "blanked": "King100: Teaser of ______ starrer unveiled on his birthday; film to clash with Shah Rukh Khan starrer King",
+      "answer": "Nagarjuna",
       "options": [
-        "911",
-        "300000",
-        "GPU",
-        "Modi"
+        "Immigration",
+        "320",
+        "Nagarjuna",
+        "Telomere"
       ]
     },
     {
-      "blanked": "Amid rising swine flu cases, ______ govt asks hospitals to reserve isolation beds",
-      "answer": "Delhi",
+      "blanked": "Russian strike on ______ ammunition depot triggers blast, killing 37",
+      "answer": "Kyiv-area",
       "options": [
-        "GTA",
-        "Delhi",
-        "Bollywood",
-        "Compared"
-      ]
-    },
-    {
-      "blanked": "Norway's King Haakon honours 'dear father' ______ in first speech as sovereign",
-      "answer": "Harald",
-      "options": [
-        "Advani",
-        "Harald",
-        "Sitharaman",
-        "Argentina"
-      ]
-    },
-    {
-      "blanked": "PM Modi lands in Uzbekistan on two-nation visit, ______ Shavkat Mirziyoyev receives him | India News",
-      "answer": "President",
-      "options": [
-        "News",
-        "President",
-        "600000",
-        "Heavy"
-      ]
-    },
-    {
-      "blanked": "Imaging Reveals Widespread Silent Atherosclerosis ______ ESC 2026",
-      "answer": "Burden",
-      "options": [
-        "Qusra",
-        "Palestinian",
-        "Act",
-        "Burden"
-      ]
-    },
-    {
-      "blanked": "King100: Teaser of Nagarjuna starrer unveiled on his birthday; film to clash with Shah ______ Khan starrer King",
-      "answer": "Rukh",
-      "options": [
-        "Rukh",
-        "Has",
-        "Naming",
-        "Breaks"
+        "FIR",
+        "Kyiv-area",
+        "Solar",
+        "Kharges"
       ]
     },
     {
       "blanked": "Manufacture in ______ build for world: FM Sitharaman",
       "answer": "India",
       "options": [
-        "Roman",
         "India",
-        "Food",
-        "Spurs"
+        "Square",
+        "Kashmiri",
+        "News"
+      ]
+    },
+    {
+      "blanked": "Tech wrap week: From Samsung ______ S26 FE to AI-powered laptops, here’s what’s new",
+      "answer": "Galaxy",
+      "options": [
+        "World",
+        "Galaxy",
+        "Blackwell",
+        "Food"
+      ]
+    },
+    {
+      "blanked": "Leukocyte Telomere Length Shows ______ Value in Pancreatic Cancer",
+      "answer": "Limited",
+      "options": [
+        "Games",
+        "2026",
+        "Limited",
+        "Upp"
       ]
     },
     {
       "blanked": "'Soldiers attempted mutiny': Niger's defence minister after gunfire, blasts heard in capital ______",
       "answer": "Niamey",
       "options": [
-        "RSS",
-        "Changes",
-        "Niamey",
-        "Check"
+        "ESC",
+        "AI-powered",
+        "You",
+        "Niamey"
+      ]
+    },
+    {
+      "blanked": "Flash floods in Nepal: No contact still with 320 Indians; ______ stranded",
+      "answer": "400",
+      "options": [
+        "British",
+        "Games",
+        "Not",
+        "400"
+      ]
+    },
+    {
+      "blanked": "Far-Right British Provocateur Arrested By US ______ Agents",
+      "answer": "Immigration",
+      "options": [
+        "Hockey",
+        "IND",
+        "Immigration",
+        "Kyiv-area"
+      ]
+    },
+    {
+      "blanked": "Nancy Grace Roman ______ live updates: Roman and Falcon Heavy delivered to launch pad",
+      "answer": "Telescope",
+      "options": [
+        "Sonal",
+        "Telescope",
+        "India",
+        "Fin"
       ]
     },
     {
       "blanked": "Aditya-L1 catches ______ early warning signs before Solar flares",
       "answer": "Suns",
       "options": [
-        "Grace",
         "Suns",
-        "Failed",
-        "Upp"
-      ]
-    },
-    {
-      "blanked": "Leukocyte Telomere Length ______ Limited Value in Pancreatic Cancer",
-      "answer": "Shows",
-      "options": [
-        "Shows",
-        "Tennessees",
-        "Rates",
-        "Netherlands"
+        "Pro",
+        "Day",
+        "China"
       ]
     }
   ]
