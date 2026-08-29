@@ -1,24 +1,24 @@
 {
-  "generatedAt": "2026-08-29T06:04:12.321Z",
+  "generatedAt": "2026-08-29T06:18:43.105Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
     "Nepal flash floods LIVE updates: Death toll rises to 623; Over 2,400 missing in Nepal, China",
     "Trump announces ‘biggest oil deal in world history’ with Venezuela",
-    "War weighs on Iran's economy as US intensifies sanctions",
-    "India To Buy US-Made Javelin Anti-Tank Weapon System In Big Defence Boost",
+    "‘Everything, everyone is gone’: Mapping the glacier collapse that has killed hundreds, devastated Nepal and Tibet | Hindustan Times",
+    "'Not Publishing Sonia Gandhi's Book, Were Keen To': Penguin On 'Belonging'",
+    "India signs deal with US to buy Javelin anti-tank missile systems",
     "PM Modi heads to Uzbekistan, SCO; meet with Putin on the cards | India News",
-    "Penguin drops Sonia Gandhi’s memoir after she rejected ‘changes, deletions’",
-    "30 years in the Himalayas: Veteran mountaineer missing after Nepal flash floods",
+    "No word from Thane couple on first trip to Nepal, kin await clarity",
     "Delhi Couple Arrested Over ISI Links. They Sent SIM Cards To Pakistan Via Dubai",
     "Pakistani drone detected in Jammu and Kashmir's Poonch, security forces put LoC sector on high alert",
     "‘Conspiracy to oust me from Cabinet’: Union minister accuses BJP colleagues of smear campaign",
     "US revises statements suggesting Chinese hackers attacked agencies",
     "US-Israel war on Iran, six months down the line: In numbers",
+    "War weighs on Iran's economy as US intensifies sanctions",
     "\"We Got Attacked\": Canada's Carney Says US Launched 'Trade War'",
-    "Trump Sent CIA Chief To Moscow Secretly. Even Top US Officials Had No Idea",
-    "Gold prices shed about 3% on hawkish Warsh at Jackson Hole, set for weekly decline",
     "Mint Explainer | Banks recover 1% in personal guarantor cases; Subhash Chandra case said to involve associate companies",
+    "Gold prices shed about 3% on hawkish Warsh at Jackson Hole, set for weekly decline",
     "OpenAI to end agreement with SpaceX's AI coding tool Cursor, deepening Musk-Altman clash",
     "Why India's Biggest Stocks Stopped Working: Three Top Investors, One Verdict",
     "'GTA 6' Release Details: Everything We Know About 'Grand Theft Auto VI'",
@@ -31,123 +31,123 @@
   ],
   "quiz": [
     {
-      "blanked": "iPhone 18 Pro, Foldable iPhone Ultra and More: Apple Products ______ Next Month",
-      "answer": "Expected",
+      "blanked": "War weighs on ______ economy as US intensifies sanctions",
+      "answer": "Irans",
       "options": [
-        "Month",
-        "Chief",
-        "Expected",
+        "Release",
+        "Whatever",
+        "Irans",
         "Biggest"
       ]
     },
     {
-      "blanked": "Mint Explainer | ______ recover 1% in personal guarantor cases; Subhash Chandra case said to involve associate companies",
-      "answer": "Banks",
+      "blanked": "Nepal flash floods ______ updates: Death toll rises to 623; Over 2,400 missing in Nepal, China",
+      "answer": "LIVE",
       "options": [
-        "Via",
-        "Risk",
-        "Banks",
-        "Khans"
+        "Subhash",
+        "Heavy",
+        "LIVE",
+        "Telescope"
       ]
     },
     {
-      "blanked": "India’s Solar ambitions: ______ by Aditya-Li valuable to Science",
-      "answer": "Findings",
-      "options": [
-        "Devices",
-        "Sonia",
-        "Cursor",
-        "Findings"
-      ]
-    },
-    {
-      "blanked": "Delhi Couple Arrested Over ______ Links. They Sent SIM Cards To Pakistan Via Dubai",
-      "answer": "ISI",
-      "options": [
-        "Banks",
-        "Officials",
-        "Yash-Nayanthara",
-        "ISI"
-      ]
-    },
-    {
-      "blanked": "OpenAI to end agreement with SpaceX's AI coding tool Cursor, deepening ______ clash",
-      "answer": "Musk-Altman",
-      "options": [
-        "Musk-Altman",
-        "Himalayas",
-        "Verdict",
-        "War"
-      ]
-    },
-    {
-      "blanked": "Indian men’s team looks to finish FIH ______ World Cup 2026 on a winning note in 7th-8th place match against Belgium",
-      "answer": "Hockey",
-      "options": [
-        "Hockey",
-        "Warsh",
-        "Products",
-        "Ultra"
-      ]
-    },
-    {
-      "blanked": "'GTA 6' Release Details: Everything We Know About 'Grand ______ Auto VI'",
-      "answer": "Theft",
-      "options": [
-        "Javelin",
-        "Theft",
-        "Poonch",
-        "Debuts"
-      ]
-    },
-    {
-      "blanked": "Penguin drops Sonia ______ memoir after she rejected ‘changes, deletions’",
-      "answer": "Gandhis",
-      "options": [
-        "Hockey",
-        "Gandhis",
-        "Javelin",
-        "Modi"
-      ]
-    },
-    {
-      "blanked": "BCCI stance on ______ Bill creates confusion within Board",
-      "answer": "Sports",
-      "options": [
-        "Top",
-        "Sports",
-        "Know",
-        "Canadas"
-      ]
-    },
-    {
-      "blanked": "'Toxic: A Fairy Tale for Grown-ups' box office collection day 3: Yash-Nayanthara starrer sees ______ percen",
-      "answer": "29.3",
-      "options": [
-        "Grand",
-        "Findings",
-        "More",
-        "29.3"
-      ]
-    },
-    {
-      "blanked": "Xbox CEO Says Project Helix ______ a 'Family of Devices'",
-      "answer": "Includes",
-      "options": [
-        "Updates",
-        "Includes",
-        "Boost",
-        "Attacked"
-      ]
-    },
-    {
-      "blanked": "Suryakumar Yadav breaks silence on shock India snub after T20 ______ Cup win: ‘Whatever call someone...’",
-      "answer": "World",
+      "blanked": "'Toxic: A Fairy Tale for ______ box office collection day 3: Yash-Nayanthara starrer sees 29.3 percen",
+      "answer": "Grown-ups",
       "options": [
         "Fairy",
-        "Even",
-        "World",
-        "Everything"
+        "Hole",
+        "Findings",
+        "Grown-ups"
+      ]
+    },
+    {
+      "blanked": "Photos: ______ part and make way for deep lunar eclipse",
+      "answer": "Clouds",
+      "options": [
+        "2400",
+        "Pro",
+        "Menon",
+        "Clouds"
+      ]
+    },
+    {
+      "blanked": "Mom-to-be Samantha Ruth ______ spills how her journey to motherhood made gain 11 kilos during AMA session",
+      "answer": "Prabhu",
+      "options": [
+        "PMDD",
+        "ISI",
+        "Ruth",
+        "Prabhu"
+      ]
+    },
+    {
+      "blanked": "US-Israel war on ______ six months down the line: In numbers",
+      "answer": "Iran",
+      "options": [
+        "Putin",
+        "Iran",
+        "ISI",
+        "Falcon"
+      ]
+    },
+    {
+      "blanked": "No word from Thane couple on first trip to ______ kin await clarity",
+      "answer": "Nepal",
+      "options": [
+        "ISI",
+        "Explainer",
+        "Nepal",
+        "Solar"
+      ]
+    },
+    {
+      "blanked": "Delhi Couple Arrested Over ISI Links. ______ Sent SIM Cards To Pakistan Via Dubai",
+      "answer": "They",
+      "options": [
+        "Stroke",
+        "They",
+        "Kavin",
+        "Samay"
+      ]
+    },
+    {
+      "blanked": "US revises statements suggesting ______ hackers attacked agencies",
+      "answer": "Chinese",
+      "options": [
+        "Biggest",
+        "Chinese",
+        "Ruth",
+        "Menon"
+      ]
+    },
+    {
+      "blanked": "‘Conspiracy to oust me from Cabinet’: ______ minister accuses BJP colleagues of smear campaign",
+      "answer": "Union",
+      "options": [
+        "Union",
+        "Mapping",
+        "Sent",
+        "Explainer"
+      ]
+    },
+    {
+      "blanked": "iPhone 18 Pro, Foldable iPhone Ultra and More: Apple ______ Expected Next Month",
+      "answer": "Products",
+      "options": [
+        "Products",
+        "SIM",
+        "Irans",
+        "Sent"
+      ]
+    },
+    {
+      "blanked": "Suryakumar ______ breaks silence on shock India snub after T20 World Cup win: ‘Whatever call someone...’",
+      "answer": "Yadav",
+      "options": [
+        "Three",
+        "Flagship",
+        "Couple",
+        "Yadav"
       ]
     }
   ]
