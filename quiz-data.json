@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-29T20:33:18.551Z",
+  "generatedAt": "2026-08-29T20:48:28.974Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "Nepal flash floods LIVE: Rescuers claw through mud as death toll rises to 675",
+    "Nepal and China resume flood rescue as death toll surpasses 600",
     "PM Modi lands in Uzbekistan on two-nation visit, President Shavkat Mirziyoyev receives him | India News",
-    "Rahul Gandhi asks PM Modi to order FIR under SC/ST Act over ‘purification’ after Kharge’s rally | India News",
     "Oneness or Hindu supremacy? RSS chief Bhagwat’s secretive New York hosts",
     "China removes PLA general who oversaw Doklam and Galwan standoffs with India from key post",
+    "Rahul Gandhi asks PM Modi to order FIR under SC/ST Act over ‘purification’ after Kharge’s rally | India News",
     "Before The Nepal Flood, A Glacial Fall: Tracing The Trigger, And A 100-km Killer Surge",
+    "Samay Raina's New 'Latent' Row Involves Banter On Kashmiri Roots",
+    "Flash floods in Nepal: No contact still with 320 Indians; 400 stranded",
     "‘UP no longer Bimaru state’: CM Yogi says mafia crushed, encephalitis eradicated; Akhilesh flags gaps",
-    "FIR against Mamata Banerjee for ‘violation’ of Calcutta High Court order on Trinamool student wing foundation day event",
-    "Manufacture in India, build for world: FM Sitharaman",
-    "Weather tomorrow: IMD warns of very heavy rain in many states; extremely heavy rain likely in Odisha",
+    "'Manuwadis fighting against rise of Dalits': Karnataka minister Nagendra resigns amid Valmiki scam row",
+    "'Soldiers attempted mutiny': Niger's defence minister after gunfire, blasts heard in capital Niamey",
     "Russian strike on Kyiv-area ammunition depot triggers blast, killing 37",
     "Norway's King Haakon honours 'dear father' Harald in first speech as sovereign",
     "CIA Failed To Connect Key Intel Naming 9/11 Mastermind Before Attacks: Report",
-    "Who is Milo Yiannopoulos, far-right British commentator, detained by ICE? Former Trump supporter faces de",
     "Sold house, personal assets, now living on rental income: Zee founder Subhash Chandra reveals his finances",
     "Nvidia’s AI advantage is moving beyond the GPU",
-    "Fed Chair Warsh’s actual guidance from Jackson Hole may be buried in the footnotes – LPL Financial’s Roach",
+    "Gold News: Gold Price Breaks 200-Day MA as Warsh Revives September Hike Bets",
     "After Supreme Court Rap, FSSAI Proposes Pictorial Front-of-Pack Warning Labels For Packaged Foods High In ...",
     "Nvidia's DLSS 5 leaked early, and modders have already broken it out of its Blackwell cage",
     "Here's when the iPhone 18 Pro and iPhone 18 Pro Max are rumored to go on pre-order - GSMArena.com news",
     "GTA VI Has Over 600,000 Animations Compared To GTA V's 55,000 & Red Dead Redemption 2's 300,000",
     "Tech wrap week: From Samsung Galaxy S26 FE to AI-powered laptops, here’s what’s new",
     "'Toxic' box office collection Day 4 [LIVE]: Yash and Kiara Advani film races past Rs 182 crore domestic net milestone",
-    "Ram Kapoor says Shreya Kalra ‘needs to grow up’ as he addresses Lock Upp kiss row: ‘Not a single woman ever complained’ | Bollywood",
-    "King100: Teaser of Nagarjuna starrer unveiled on his birthday; film to clash with Shah Rukh Khan starrer King"
+    "King100: Teaser of Nagarjuna starrer unveiled on his birthday; film to clash with Shah Rukh Khan starrer King",
+    "Ram Kapoor says Shreya Kalra ‘needs to grow up’ as he addresses Lock Upp kiss row: ‘Not a single woman ever complained’ | Bollywood"
   ],
   "quiz": [
     {
-      "blanked": "Placental Epigenetic Changes Link to Persistent ______ Allergy",
-      "answer": "Food",
+      "blanked": "Tech wrap week: From ______ Galaxy S26 FE to AI-powered laptops, here’s what’s new",
+      "answer": "Samsung",
       "options": [
-        "Modi",
-        "Food",
-        "Trigger",
+        "Rukh",
+        "Shah",
+        "Kapoor",
+        "Samsung"
+      ]
+    },
+    {
+      "blanked": "After Supreme Court ______ FSSAI Proposes Pictorial Front-of-Pack Warning Labels For Packaged Foods High In ...",
+      "answer": "Rap",
+      "options": [
+        "Value",
+        "55000",
+        "Bimaru",
+        "Rap"
+      ]
+    },
+    {
+      "blanked": "Oneness or ______ supremacy? RSS chief Bhagwat’s secretive New York hosts",
+      "answer": "Hindu",
+      "options": [
+        "Subhash",
+        "Hindu",
+        "Epigenetic",
+        "Blackwell"
+      ]
+    },
+    {
+      "blanked": "Imaging Reveals Widespread Silent Atherosclerosis Burden: ESC ______",
+      "answer": "2026",
+      "options": [
+        "Roman",
+        "Telescope",
+        "2026",
+        "Changes"
+      ]
+    },
+    {
+      "blanked": "Rahul Gandhi asks PM Modi to order FIR under SC/ST Act over ‘purification’ after Kharge’s rally | India ______",
+      "answer": "News",
+      "options": [
+        "Akhilesh",
+        "Sandro",
+        "News",
+        "Haakon"
+      ]
+    },
+    {
+      "blanked": "Aditya-L1 catches Sun's early warning signs before ______ flares",
+      "answer": "Solar",
+      "options": [
+        "Gandhi",
+        "Solar",
+        "320",
+        "Pro"
+      ]
+    },
+    {
+      "blanked": "Sold house, personal assets, now living on rental income: ______ founder Subhash Chandra reveals his finances",
+      "answer": "Zee",
+      "options": [
+        "Zee",
+        "Spurs",
+        "Indians",
+        "Pro"
+      ]
+    },
+    {
+      "blanked": "'Toxic' box office collection Day 4 [LIVE]: Yash and Kiara Advani film races past Rs ______ crore domestic net milestone",
+      "answer": "182",
+      "options": [
+        "Labels",
+        "York",
+        "Nepal",
+        "182"
+      ]
+    },
+    {
+      "blanked": "Newcastle get last laugh vs rotten ______ as Sandro Tonali flops vs former club - 5 talking points",
+      "answer": "Spurs",
+      "options": [
+        "Hockey",
+        "Yash",
+        "Spurs",
+        "Price"
+      ]
+    },
+    {
+      "blanked": "Ram Kapoor says Shreya ______ ‘needs to grow up’ as he addresses Lock Upp kiss row: ‘Not a single woman ever complained’ | Bollywood",
+      "answer": "Kalra",
+      "options": [
+        "LIVE",
+        "Zee",
+        "Kalra",
         "Lokesh"
       ]
     },
     {
-      "blanked": "'Toxic' box office collection Day 4 [LIVE]: ______ and Kiara Advani film races past Rs 182 crore domestic net milestone",
-      "answer": "Yash",
+      "blanked": "Placental ______ Changes Link to Persistent Food Allergy",
+      "answer": "Epigenetic",
       "options": [
-        "Key",
-        "News",
+        "Spurs",
+        "Epigenetic",
         "Compared",
-        "Yash"
+        "China"
       ]
     },
     {
-      "blanked": "India's javelin champion Neeraj ______ ends season early after ligament tear",
-      "answer": "Chopra",
+      "blanked": "Here's when the iPhone 18 Pro and iPhone 18 Pro ______ are rumored to go on pre-order - GSMArena.com news",
+      "answer": "Max",
       "options": [
-        "Chopra",
-        "Flood",
-        "Trump",
-        "Lock"
-      ]
-    },
-    {
-      "blanked": "Suryakumar on being dropped: ______ everything is going well, why the change?'",
-      "answer": "When",
-      "options": [
-        "When",
-        "Cup",
-        "Rescuers",
-        "Widespread"
-      ]
-    },
-    {
-      "blanked": "GTA VI Has Over 600,000 ______ Compared To GTA V's 55,000 & Red Dead Redemption 2's 300,000",
-      "answer": "Animations",
-      "options": [
-        "Animations",
-        "Harald",
-        "Advani",
-        "York"
-      ]
-    },
-    {
-      "blanked": "PM Modi lands in Uzbekistan on two-nation visit, President Shavkat ______ receives him | India News",
-      "answer": "Mirziyoyev",
-      "options": [
-        "Mirziyoyev",
-        "Galwan",
-        "Khan",
-        "675"
-      ]
-    },
-    {
-      "blanked": "Nancy Grace Roman Telescope live updates: ______ and Falcon Heavy delivered to launch pad",
-      "answer": "Roman",
-      "options": [
-        "Solar",
-        "Kyiv-area",
-        "Key",
-        "Roman"
-      ]
-    },
-    {
-      "blanked": "FIR against Mamata Banerjee for ‘violation’ of ______ High Court order on Trinamool student wing foundation day event",
-      "answer": "Calcutta",
-      "options": [
-        "Lock",
-        "Calcutta",
-        "Teaser",
-        "Report"
-      ]
-    },
-    {
-      "blanked": "Sold house, personal assets, now living on rental income: Zee founder Subhash ______ reveals his finances",
-      "answer": "Chandra",
-      "options": [
-        "Court",
-        "FSSAI",
-        "Proposes",
-        "Chandra"
-      ]
-    },
-    {
-      "blanked": "Fed Chair Warsh’s actual guidance from Jackson Hole may be buried in the footnotes – LPL Financial’s ______",
-      "answer": "Roach",
-      "options": [
-        "Yiannopoulos",
-        "Act",
-        "Roach",
-        "Hole"
-      ]
-    },
-    {
-      "blanked": "Before The Nepal Flood, A Glacial Fall: Tracing The Trigger, And A 100-km Killer ______",
-      "answer": "Surge",
-      "options": [
-        "Food",
-        "Glacial",
-        "Surge",
-        "Upp"
-      ]
-    },
-    {
-      "blanked": "Weather tomorrow: ______ warns of very heavy rain in many states; extremely heavy rain likely in Odisha",
-      "answer": "IMD",
-      "options": [
-        "Compared",
-        "Tracing",
-        "Atherosclerosis",
-        "IMD"
+        "Max",
+        "Supreme",
+        "Link",
+        "President"
       ]
     }
   ]
