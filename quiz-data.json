@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T15:18:21.539Z",
+  "generatedAt": "2026-08-29T15:33:14.916Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
@@ -8,19 +8,19 @@
     "China removes two top generals from its highest military command | World News",
     "FIR Against Mamata Banerjee For Violating Calcutta HC Order At TMC Event",
     "Rahul Gandhi seeks FIR over ‘purification’ ritual in Haldwani after Kharge’s address, calls it ‘untouchability’",
-    "Iran’s leaders acknowledge economic toll of war, pledge diplomacy, defence",
+    "Oneness or Hindu supremacy? RSS chief Bhagwat’s secretive New York hosts",
     "\"You Think You Are A Lord?\" Bombay High Court Slams FDA Officer Over Suspension Of Eateries Of Mumbai...",
     "Chatroo Kishtwar minor’s death case: Health worker arrested, total accused reach six",
+    "3 Delhi BJP MPs Visit Sajjan Kumar's House. Then Party Chief's Big Action",
     "Flash floods in Nepal: No contact still with 320 Indians; 400 stranded",
-    "Manufacture in India, build for world: FM Sitharaman",
-    "Russian strike on Kyiv-area warehouse sparks detonation, killing 37",
-    "Norway mourns King Harald as crowds gather at royal palace",
+    "Russian strike on Kyiv-area ammunition depot triggers blast, killing 37",
     "CIA Failed To Connect Key Intel Naming 9/11 Mastermind Before Attacks: Report",
+    "Norway mourns King Harald as crowds gather at royal palace",
     "Zimbabwe minibus carrying church members crashes, killing at least 27",
-    "HDFC Bank CEO Sashidhar Jagdishan to retire on October 26, will not seek reappointment",
-    "LIC Housing Finance, Canara Bank, Union Bank to challenge NCLT approval of Subhash Chandra repayment plan",
+    "HDFC Bank CEO Jagdishan to step down, decides not to seek reappointment",
+    "Sold house, personal assets, now living on rental income: Zee founder Subhash Chandra reveals his finances",
+    "FSSAI bans sale of hing powder by Everest, Laljee Godhoo over sub-standard quality",
     "Temasek backs Singapore Airlines' Air India investment amid growing scrutiny",
-    "GST Council’s 57th meeting on September 12; GST registration simplification for large businesses on...",
     "Nvidia's DLSS 5 leaked early, and modders have already broken it out of its Blackwell cage",
     "QD-OLED goes to esports: Samsung starts mass production of 24.5\" ultra-fast displays",
     "GTA VI Has Over 600,000 Animations Compared To GTA V's 55,000 & Red Dead Redemption 2's 300,000",
@@ -31,123 +31,123 @@
   ],
   "quiz": [
     {
-      "blanked": "GST Council’s 57th meeting on ______ 12; GST registration simplification for large businesses on...",
-      "answer": "September",
+      "blanked": "Nepal flash floods ______ updates: Heavy rain forecast in flood-affected areas threaten to disrupt rescue ops.; death toll crosses 620",
+      "answer": "LIVE",
       "options": [
-        "Kishtwar",
-        "Think",
-        "September",
-        "Officer"
+        "Then",
+        "LIVE",
+        "Jagdishan",
+        "Subhash"
+      ]
+    },
+    {
+      "blanked": "Captain India: Bhushan Kumar film starring ______ Aaryan to go on floors in London on September 1",
+      "answer": "Kartik",
+      "options": [
+        "Singapore",
+        "Kartik",
+        "Animations",
+        "All"
+      ]
+    },
+    {
+      "blanked": "Placental Epigenetic Changes ______ to Persistent Food Allergy",
+      "answer": "Link",
+      "options": [
+        "Sajjan",
+        "Then",
+        "Lokesh",
+        "Link"
+      ]
+    },
+    {
+      "blanked": "SL vs ______ 2026: Sonal Dinusha and an effective blueprint that negated India's spin threat",
+      "answer": "IND",
+      "options": [
+        "Event",
+        "Visit",
+        "Kyiv-area",
+        "IND"
+      ]
+    },
+    {
+      "blanked": "Amid rising swine flu cases, ______ govt asks hospitals to reserve isolation beds",
+      "answer": "Delhi",
+      "options": [
+        "Delhi",
+        "Modi",
+        "175",
+        "Sonal"
+      ]
+    },
+    {
+      "blanked": "'DC' OTT release date: When and where to watch the Lokesh ______ and Wamiqa Gabbi starrer action drama",
+      "answer": "Kanagaraj",
+      "options": [
+        "600000",
+        "Kanagaraj",
+        "320",
+        "400"
+      ]
+    },
+    {
+      "blanked": "Temasek backs Singapore Airlines' ______ India investment amid growing scrutiny",
+      "answer": "Air",
+      "options": [
+        "IND",
+        "ESA",
+        "Air",
+        "Samsung"
       ]
     },
     {
       "blanked": "Aditya-L1 catches ______ early warning signs before Solar flares",
       "answer": "Suns",
       "options": [
+        "DLSS",
+        "Kyiv-area",
         "Suns",
-        "October",
-        "Kyrgyzstan",
-        "Officer"
+        "Lord"
       ]
     },
     {
-      "blanked": "FIR Against Mamata Banerjee For Violating Calcutta HC Order At ______ Event",
-      "answer": "TMC",
+      "blanked": "FSSAI bans sale of hing powder by Everest, Laljee ______ over sub-standard quality",
+      "answer": "Godhoo",
       "options": [
-        "Gabbi",
-        "TMC",
-        "FDA",
-        "600000"
+        "Bank",
+        "Final",
+        "Godhoo",
+        "You"
       ]
     },
     {
-      "blanked": "Neeraj Chopra’s 2026 season over after ankle ligament tear, ______ League Final and Asian Games ruled ou",
-      "answer": "Diamond",
+      "blanked": "US ______ 2026: All to know about the schedule, top seeds and favourites",
+      "answer": "Open",
       "options": [
-        "Airlines",
-        "Diamond",
-        "Slams",
-        "Bombay"
+        "Bhushan",
+        "Open",
+        "Everest",
+        "Indians"
       ]
     },
     {
-      "blanked": "\"You Think You Are A Lord?\" Bombay ______ Court Slams FDA Officer Over Suspension Of Eateries Of Mumbai...",
-      "answer": "High",
-      "options": [
-        "Haldwani",
-        "Kishtwar",
-        "High",
-        "Animations"
-      ]
-    },
-    {
-      "blanked": "Nepal flash floods LIVE updates: ______ rain forecast in flood-affected areas threaten to disrupt rescue ops.; death toll crosses 620",
-      "answer": "Heavy",
-      "options": [
-        "24.5",
-        "Rukh",
-        "Heavy",
-        "Food"
-      ]
-    },
-    {
-      "blanked": "QD-OLED goes to esports: Samsung starts mass production of ______ ultra-fast displays",
-      "answer": "24.5",
-      "options": [
-        "Singapore",
-        "CEO",
-        "You",
-        "24.5"
-      ]
-    },
-    {
-      "blanked": "HDFC Bank ______ Sashidhar Jagdishan to retire on October 26, will not seek reappointment",
-      "answer": "CEO",
-      "options": [
-        "September",
-        "Calcutta",
-        "CEO",
-        "Kyrgyzstan"
-      ]
-    },
-    {
-      "blanked": "Rahul Gandhi seeks FIR over ‘purification’ ritual in ______ after Kharge’s address, calls it ‘untouchability’",
-      "answer": "Haldwani",
-      "options": [
-        "Kiara",
-        "Haldwani",
-        "Nepal",
-        "GTA"
-      ]
-    },
-    {
-      "blanked": "LIC Housing ______ Canara Bank, Union Bank to challenge NCLT approval of Subhash Chandra repayment plan",
-      "answer": "Finance",
-      "options": [
-        "175",
-        "Finance",
-        "Wamiqa",
-        "Day"
-      ]
-    },
-    {
-      "blanked": "GTA VI Has Over 600,000 Animations Compared To GTA V's 55,000 & ______ Dead Redemption 2's 300,000",
-      "answer": "Red",
-      "options": [
-        "Nepal",
-        "Red",
-        "Lord",
-        "News"
-      ]
-    },
-    {
-      "blanked": "Chatroo Kishtwar minor’s death case: ______ worker arrested, total accused reach six",
-      "answer": "Health",
+      "blanked": "\"You Think You Are A Lord?\" Bombay High Court Slams FDA Officer Over ______ Of Eateries Of Mumbai...",
+      "answer": "Suspension",
       "options": [
         "Delhi",
-        "Canara",
-        "Gandhi",
-        "Health"
+        "Godhoo",
+        "Think",
+        "Suspension"
+      ]
+    },
+    {
+      "blanked": "Nasa space telescope set to launch after surviving ______ budget cuts",
+      "answer": "Trump",
+      "options": [
+        "Dead",
+        "Chiefs",
+        "Redemption",
+        "Trump"
       ]
     }
   ]
