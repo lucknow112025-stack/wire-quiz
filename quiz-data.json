@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T21:18:21.318Z",
+  "generatedAt": "2026-08-29T21:33:25.995Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
@@ -9,145 +9,145 @@
     "Mohan Bhagwat Poster Goes Up On Times Square Billboard Ahead Of RSS Chief’s MSG Address",
     "Rahul Gandhi asks PM Modi to order FIR under SC/ST Act over ‘purification’ after Kharge’s rally | India News",
     "China removes PLA general who oversaw Doklam and Galwan standoffs with India from key post",
-    "Before The Nepal Flood, A Glacial Fall: Tracing The Trigger, And A 100-km Killer Surge",
     "Flash floods in Nepal: No contact still with 320 Indians; 400 stranded",
-    "Samay Raina in soup again over remarks on people from Bihar, Kashmiri Pandits: 'They get publicity for fr",
+    "Before The Nepal Flood, A Glacial Fall: Tracing The Trigger, And A 100-km Killer Surge",
+    "Trinamool Congress Moves Calcutta High Court Against Alleged Removal Of Billboard From Party Office",
     "Manufacture in India, build for world: FM Sitharaman",
-    "Russian strike on Kyiv-area ammunition depot triggers blast, killing 37",
     "'Soldiers attempted mutiny': Niger's defence minister after gunfire, blasts heard in capital Niamey",
     "Norway's King Haakon honours 'dear father' Harald in first speech as sovereign",
     "Far-Right British Provocateur Arrested By US Immigration Agents",
-    "HDFC Bank CEO Jagdishan opts out of reappointment, to step down after term ends in October",
-    "Union Bank, LIC Housing Fin, Canara Bank challenge NCLT nod to Subhash Chandra resolution plan",
-    "Delhi CNG price hike: Rs 3.89/kg rise fuels fare hike demand, auto strike threat and political clash",
-    "FSSAI to introduce red warning labels on chips, sugary drinks and packaged foods",
+    "Iran’s leaders acknowledge economic toll of war, pledge diplomacy, defence",
+    "Sold house, personal assets, now living on rental income: Zee founder Subhash Chandra reveals his finances",
+    "Nvidia’s AI advantage is moving beyond the GPU",
+    "Gold drops 3% as Fed's Warsh comments lift rate hike bets",
+    "CNG Prices Hiked By Rs 3.89 In Delhi-NCR: Check City-Wise Rates",
     "Nvidia's DLSS 5 leaked early, and modders have already broken it out of its Blackwell cage",
-    "GTA VI: 6 Cool Features You May Have Missed In Rockstar Games’ Highly-Anticipated Release",
     "Here's when the iPhone 18 Pro and iPhone 18 Pro Max are rumored to go on pre-order - GSMArena.com news",
+    "GTA VI Has Over 600,000 Animations Compared To GTA V's 55,000 & Red Dead Redemption 2's 300,000",
     "Tech wrap week: From Samsung Galaxy S26 FE to AI-powered laptops, here’s what’s new",
     "'Toxic' box office collection Day 4 [LIVE]: Yash and Kiara Advani film races past Rs 182 crore domestic net milestone",
-    "King100: Teaser of Nagarjuna starrer unveiled on his birthday; film to clash with Shah Rukh Khan starrer King",
-    "Nashville airport to be renamed after Dolly Parton, Tennessee's governor announces days after singer's demise"
+    "'SNL’ star Kenan Thompson to join ‘America’s Got Talent’ after Simon Cowell takes a break for back surger",
+    "King100: Teaser of Nagarjuna starrer unveiled on his birthday; film to clash with Shah Rukh Khan starrer King"
   ],
   "quiz": [
     {
-      "blanked": "Nepal and ______ resume flood rescue as death toll surpasses 600",
-      "answer": "China",
+      "blanked": "Nvidia’s AI advantage is moving beyond the ______",
+      "answer": "GPU",
       "options": [
-        "China",
-        "Address",
-        "Gandhi",
-        "Fin"
+        "GPU",
+        "Subhash",
+        "Zee",
+        "Telescope"
+      ]
+    },
+    {
+      "blanked": "Israeli settlers surround Palestinian home in occupied ______ Bank’s Qusra",
+      "answer": "West",
+      "options": [
+        "Uzbekistan",
+        "Chandra",
+        "West",
+        "Shavkat"
+      ]
+    },
+    {
+      "blanked": "CNG Prices Hiked By Rs 3.89 In Delhi-NCR: Check City-Wise ______",
+      "answer": "Rates",
+      "options": [
+        "Rates",
+        "Sitharaman",
+        "Allergy",
+        "Palestinian"
+      ]
+    },
+    {
+      "blanked": "Newcastle get last laugh vs rotten ______ as Sandro Tonali flops vs former club - 5 talking points",
+      "answer": "Spurs",
+      "options": [
+        "300000",
+        "Spurs",
+        "SCST",
+        "Cowell"
       ]
     },
     {
       "blanked": "China removes PLA general who oversaw Doklam and Galwan standoffs with ______ from key post",
       "answer": "India",
       "options": [
-        "Chopra",
-        "Shavkat",
+        "Teaser",
         "India",
-        "Not"
+        "News",
+        "600"
       ]
     },
     {
-      "blanked": "King100: Teaser of ______ starrer unveiled on his birthday; film to clash with Shah Rukh Khan starrer King",
-      "answer": "Nagarjuna",
+      "blanked": "'SNL’ star Kenan Thompson to join ‘America’s Got ______ after Simon Cowell takes a break for back surger",
+      "answer": "Talent",
       "options": [
-        "Immigration",
-        "320",
-        "Nagarjuna",
-        "Telomere"
+        "Calcutta",
+        "Shows",
+        "Talent",
+        "Moves"
       ]
     },
     {
-      "blanked": "Russian strike on ______ ammunition depot triggers blast, killing 37",
-      "answer": "Kyiv-area",
+      "blanked": "Placental Epigenetic Changes Link to Persistent ______ Allergy",
+      "answer": "Food",
       "options": [
-        "FIR",
-        "Kyiv-area",
-        "Solar",
-        "Kharges"
-      ]
-    },
-    {
-      "blanked": "Manufacture in ______ build for world: FM Sitharaman",
-      "answer": "India",
-      "options": [
-        "India",
-        "Square",
-        "Kashmiri",
-        "News"
-      ]
-    },
-    {
-      "blanked": "Tech wrap week: From Samsung ______ S26 FE to AI-powered laptops, here’s what’s new",
-      "answer": "Galaxy",
-      "options": [
-        "World",
-        "Galaxy",
-        "Blackwell",
+        "Atherosclerosis",
+        "Talent",
+        "Teaser",
         "Food"
       ]
     },
     {
-      "blanked": "Leukocyte Telomere Length Shows ______ Value in Pancreatic Cancer",
-      "answer": "Limited",
+      "blanked": "Imaging ______ Widespread Silent Atherosclerosis Burden: ESC 2026",
+      "answer": "Reveals",
       "options": [
-        "Games",
-        "2026",
-        "Limited",
-        "Upp"
+        "Square",
+        "Changes",
+        "Office",
+        "Reveals"
       ]
     },
     {
-      "blanked": "'Soldiers attempted mutiny': Niger's defence minister after gunfire, blasts heard in capital ______",
-      "answer": "Niamey",
+      "blanked": "Gold drops 3% as Fed's ______ comments lift rate hike bets",
+      "answer": "Warsh",
       "options": [
-        "ESC",
-        "AI-powered",
-        "You",
-        "Niamey"
+        "Has",
+        "MSG",
+        "Mirziyoyev",
+        "Warsh"
       ]
     },
     {
-      "blanked": "Flash floods in Nepal: No contact still with 320 Indians; ______ stranded",
-      "answer": "400",
+      "blanked": "Rahul ______ asks PM Modi to order FIR under SC/ST Act over ‘purification’ after Kharge’s rally | India News",
+      "answer": "Gandhi",
       "options": [
-        "British",
-        "Games",
-        "Not",
-        "400"
+        "Gandhi",
+        "Kenan",
+        "Niamey",
+        "DLSS"
       ]
     },
     {
-      "blanked": "Far-Right British Provocateur Arrested By US ______ Agents",
-      "answer": "Immigration",
+      "blanked": "Here's when the iPhone 18 Pro and iPhone 18 Pro ______ are rumored to go on pre-order - GSMArena.com news",
+      "answer": "Max",
       "options": [
-        "Hockey",
-        "IND",
-        "Immigration",
-        "Kyiv-area"
+        "Has",
+        "55000",
+        "Moves",
+        "Max"
       ]
     },
     {
-      "blanked": "Nancy Grace Roman ______ live updates: Roman and Falcon Heavy delivered to launch pad",
-      "answer": "Telescope",
+      "blanked": "PM Modi lands in Uzbekistan on two-nation visit, President Shavkat Mirziyoyev receives him | ______ News",
+      "answer": "India",
       "options": [
-        "Sonal",
-        "Telescope",
         "India",
-        "Fin"
-      ]
-    },
-    {
-      "blanked": "Aditya-L1 catches ______ early warning signs before Solar flares",
-      "answer": "Suns",
-      "options": [
-        "Suns",
-        "Pro",
-        "Day",
-        "China"
+        "Trigger",
+        "Warsh",
+        "Poster"
       ]
     }
   ]
