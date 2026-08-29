@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-29T17:33:31.589Z",
+  "generatedAt": "2026-08-29T17:48:21.528Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "Nepal flash floods LIVE: Rescuers claw through mud as death toll rises to 675",
+    "Nepal and China resume flood rescue as death toll surpasses 600",
     "PM Modi’s SCO visit is loaded with expectations on BRICS Summit and UNSC election",
+    "RSS chief’s visit to US denounced as ‘goodwill tour’ for Hindu nationalism",
     "Rahul Gandhi asks PM Modi to order FIR under SC/ST Act over ‘purification’ after Kharge’s rally | India News",
-    "FIR against Mamata Banerjee over violation of high court order on TMC students' wing rally in Kolkata | India News",
-    "Oneness or Hindu supremacy? RSS chief Bhagwat’s secretive New York hosts",
+    "FIR Against Mamata Banerjee For Violating Calcutta HC Order At TMC Event",
     "‘Save me, doctors want to kill me’: Woman’s video before death during childbirth surfaces",
     "‘UP no longer Bimaru state’: CM Yogi says mafia crushed, encephalitis eradicated; Akhilesh flags gaps",
-    "\"You Think You Are A Lord?\" Bombay High Court Slams FDA Officer Over Suspension Of Eateries Of Mumbai...",
     "India has highest glacial flood death toll in Hindu Kush Himalaya, UN-led study finds",
     "Flash floods in Nepal: No contact still with 320 Indians; 400 stranded",
-    "Russian strike on Kyiv-area ammunition depot triggers blast, killing 37",
+    "Samay Raina addresses India’s Got Latent 2 criticism, responds to ‘filtered’ tag: ‘It’s just not the same anymore’ | Bollywood",
     "Norway mourns King Harald as crowds gather at royal palace",
+    "37 Killed As Russian Strikes Ukraine's Kyiv, 50 Residential Buildings Damaged",
     "CIA Failed To Connect Key Intel Naming 9/11 Mastermind Before Attacks: Report",
     "'Biggest deal in world history': Trump says US secured 65 billion barrels of Venezuelan oil | World News",
-    "HDFC Bank CEO Sashidhar Jagdishan to step down after term ends in October",
-    "Union Bank, LIC Housing Fin, Canara Bank challenge NCLT nod to Subhash Chandra resolution plan",
+    "HDFC Bank CEO Jagdishan to step down, decides not to seek reappointment",
+    "Sold house, personal assets, now living on rental income: Zee founder Subhash Chandra reveals his finances",
     "Temasek backs Singapore Airlines' Air India investment amid growing scrutiny",
-    "GST Council’s 57th meeting on September 12; GST registration simplification for large businesses on...",
+    "Ashish Dhawan buys 1.11% stake in Religare; Hero MotoCorp picks up Rs 1,758 crore Ather shares",
     "First Leak of Nvidia’s DLSS 5 Apparently Makes Games Look and Run Worse",
-    "GTA VI: 6 Cool Features You May Have Missed In Rockstar Games’ Highly-Anticipated Release",
-    "iPhone 18 Pro Max launch: Here are all the differences we currently know between the iPhone 18 Pro and...",
+    "iPhone 18 Pro: Pre-Orders and Release Date Could Follow an Unusual September Schedule",
+    "GTA VI Has Over 600,000 Animations Compared To GTA V's 55,000 & Red Dead Redemption 2's 300,000",
     "Tech wrap week: From Samsung Galaxy S26 FE to AI-powered laptops, here’s what’s new",
     "‘Toxic’ exclusive: Director Suri lauds Yash’s performance: A brave attempt from superstar",
-    "Kuku Kohli prayer meet: Aruna Irani arrives with family as Rajpal Yadav, Madhoo, Poonam Dhillon and other",
-    "Ram Kapoor says Shreya Kalra ‘needs to grow up’ as he addresses Lock Upp kiss row: ‘Not a single woman ever complained’ | Bollywood"
+    "Ram Kapoor says Shreya Kalra ‘needs to grow up’ as he addresses Lock Upp kiss row: ‘Not a single woman ever complained’ | Bollywood",
+    "'DC' OTT release date: When and where to watch the Lokesh Kanagaraj and Wamiqa Gabbi starrer action drama"
   ],
   "quiz": [
     {
-      "blanked": "‘UP no longer Bimaru state’: CM Yogi says mafia crushed, encephalitis eradicated; ______ flags gaps",
-      "answer": "Akhilesh",
+      "blanked": "New study detects silent atherosclerosis in healthy young adults - ______",
+      "answer": "News-Medical",
       "options": [
-        "Akhilesh",
-        "Himalaya",
-        "Failed",
-        "Gandhi"
+        "Summit",
+        "Schedule",
+        "When",
+        "News-Medical"
       ]
     },
     {
-      "blanked": "Who was ______ Grace Roman? NASA's next big space telescope is named after the 'Mother of Hubble'",
-      "answer": "Nancy",
+      "blanked": "37 Killed As Russian ______ Ukraine's Kyiv, 50 Residential Buildings Damaged",
+      "answer": "Strikes",
       "options": [
-        "DLSS",
-        "Telomere",
-        "Nancy",
-        "Indias"
-      ]
-    },
-    {
-      "blanked": "First Leak of Nvidia’s DLSS 5 Apparently Makes ______ Look and Run Worse",
-      "answer": "Games",
-      "options": [
-        "Hubble",
-        "Connect",
-        "Kalra",
-        "Games"
-      ]
-    },
-    {
-      "blanked": "FIR against ______ Banerjee over violation of high court order on TMC students' wing rally in Kolkata | India News",
-      "answer": "Mamata",
-      "options": [
-        "Grace",
-        "Bombay",
+        "Strikes",
+        "UN-led",
         "Solar",
-        "Mamata"
+        "Epigenetic"
+      ]
+    },
+    {
+      "blanked": "India has highest glacial flood death toll in ______ Kush Himalaya, UN-led study finds",
+      "answer": "Hindu",
+      "options": [
+        "Attacks",
+        "Hindu",
+        "Kyiv",
+        "Womans"
+      ]
+    },
+    {
+      "blanked": "Who was Nancy Grace Roman? ______ next big space telescope is named after the 'Mother of Hubble'",
+      "answer": "NASAs",
+      "options": [
+        "2026",
+        "NASAs",
+        "Event",
+        "Airlines"
+      ]
+    },
+    {
+      "blanked": "'Biggest deal in world history': Trump says US secured 65 billion barrels of ______ oil | World News",
+      "answer": "Venezuelan",
+      "options": [
+        "King",
+        "Shreya",
+        "News-Medical",
+        "Venezuelan"
+      ]
+    },
+    {
+      "blanked": "CIA Failed To Connect Key Intel Naming 9/11 Mastermind Before Attacks: ______",
+      "answer": "Report",
+      "options": [
+        "Epigenetic",
+        "Games",
+        "Report",
+        "Mother"
+      ]
+    },
+    {
+      "blanked": "HDFC Bank ______ Jagdishan to step down, decides not to seek reappointment",
+      "answer": "CEO",
+      "options": [
+        "CEO",
+        "September",
+        "Womans",
+        "Hero"
+      ]
+    },
+    {
+      "blanked": "iPhone 18 Pro: Pre-Orders and Release Date Could ______ an Unusual September Schedule",
+      "answer": "Follow",
+      "options": [
+        "Dinusha",
+        "Got",
+        "Follow",
+        "Naming"
+      ]
+    },
+    {
+      "blanked": "10 jaw-dropping ______ space images that showcase the incredible beauty of the cosmos",
+      "answer": "ESA",
+      "options": [
+        "Nagarjuna",
+        "Galaxy",
+        "Violating",
+        "ESA"
       ]
     },
     {
       "blanked": "Aditya-L1 catches ______ early warning signs before Solar flares",
       "answer": "Suns",
       "options": [
-        "Apparently",
-        "Aruna",
-        "Suns",
-        "Bollywood"
-      ]
-    },
-    {
-      "blanked": "Nepal flash floods LIVE: ______ claw through mud as death toll rises to 675",
-      "answer": "Rescuers",
-      "options": [
-        "Aruna",
-        "Link",
-        "Banerjee",
-        "Rescuers"
-      ]
-    },
-    {
-      "blanked": "Rahul Gandhi asks PM Modi to order FIR under SC/ST Act over ‘purification’ after Kharge’s rally | India ______",
-      "answer": "News",
-      "options": [
-        "Kanagaraj",
-        "2026",
-        "LIVE",
-        "News"
-      ]
-    },
-    {
-      "blanked": "India's javelin champion Neeraj ______ ends season early after ligament tear",
-      "answer": "Chopra",
-      "options": [
-        "Court",
-        "Kanagaraj",
-        "NASAs",
-        "Chopra"
-      ]
-    },
-    {
-      "blanked": "\"You Think You Are A Lord?\" Bombay High Court Slams ______ Officer Over Suspension Of Eateries Of Mumbai...",
-      "answer": "FDA",
-      "options": [
+        "Solar",
         "Moon",
-        "FDA",
-        "UNSC",
-        "Trump"
+        "Suns",
+        "News-Medical"
       ]
     },
     {
-      "blanked": "HDFC ______ CEO Sashidhar Jagdishan to step down after term ends in October",
-      "answer": "Bank",
+      "blanked": "Rahul Gandhi asks PM Modi to order FIR under SC/ST Act over ‘purification’ after Kharge’s rally | ______ News",
+      "answer": "India",
       "options": [
-        "Director",
-        "When",
-        "Limited",
-        "Bank"
+        "World",
+        "Leak",
+        "Summit",
+        "India"
       ]
     },
     {
-      "blanked": "Flash floods in Nepal: No contact still with 320 Indians; ______ stranded",
-      "answer": "400",
+      "blanked": "Placental Epigenetic Changes Link to Persistent Food ______",
+      "answer": "Allergy",
       "options": [
-        "400",
-        "Value",
-        "Act",
-        "Fin"
-      ]
-    },
-    {
-      "blanked": "CIA Failed To Connect Key Intel Naming 9/11 ______ Before Attacks: Report",
-      "answer": "Mastermind",
-      "options": [
-        "Mastermind",
-        "Limited",
-        "Here",
-        "Kyiv-area"
+        "Venezuelan",
+        "Allergy",
+        "Ather",
+        "Lock"
       ]
     }
   ]
