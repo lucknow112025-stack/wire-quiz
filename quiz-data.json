@@ -1,21 +1,21 @@
 {
-  "generatedAt": "2026-08-29T16:18:19.515Z",
+  "generatedAt": "2026-08-29T16:33:33.228Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "Nepal flash floods: Three bodies recovered from Gandak river in U.P.'s Kushinagar",
+    "Nepal flash floods LIVE: Rescuers claw through mud as death toll rises to 675",
+    "Looking to advance India’s vision for region free from terror, says PM Modi as he embarks on visit to Uzbekistan, Kyrgyzstan",
     "FIR against Mamata Banerjee over violation of high court order on TMC students' wing rally in Kolkata | India News",
+    "Rahul Gandhi asks PM Modi to order FIR under SC/ST Act over ‘purification’ after Kharge’s rally | India News",
     "\"You Think You Are A Lord?\" Bombay High Court Slams FDA Officer Over Suspension Of Eateries Of Mumbai...",
     "Iran’s leaders acknowledge economic toll of war, pledge diplomacy, defence",
-    "Fed Chair Warsh’s actual guidance from Jackson Hole may be buried in the footnotes – LPL Financial’s Roach",
-    "PM Modi heads to Uzbekistan, SCO; meet with Putin on the cards | India News",
-    "'Suddhikaran another name for untouchability': Rahul Gandhi accuses BJP, RSS of discrimination against Kh",
     "Before The Nepal Flood, A Glacial Fall: Tracing The Trigger, And A 100-km Killer Run",
-    "‘Ruling party calling for mass genocide?’ CJP slams BJP over ‘Dimagi Naxals’ meme featuring KGF scene | India News",
-    "Chatroo Kishtwar minor’s death case: Health worker arrested, total accused reach six",
-    "37 Killed As Russian Strikes Ukraine's Kyiv, 50 Residential Buildings Damaged",
-    "Norway mourns King Harald as crowds gather at royal palace",
+    "Samay Raina addresses India’s Got Latent 2 criticism, responds to ‘filtered’ tag: ‘It’s just not the same anymore’ | Bollywood",
+    "Flash floods in Nepal: No contact still with 320 Indians; 400 stranded",
+    "Weather tomorrow: IMD warns of very heavy rain in many states; extremely heavy rain likely in Odisha",
+    "Russian strike on Kyiv-area ammunition depot triggers blast, killing 37",
     "CIA Failed To Connect Key Intel Naming 9/11 Mastermind Before Attacks: Report",
+    "Norway mourns King Harald as crowds gather at royal palace",
     "'Biggest deal in world history': Trump says US secured 65 billion barrels of Venezuelan oil | World News",
     "HDFC Bank CEO Jagdishan to step down, decides not to seek reappointment",
     "Sold house, personal assets, now living on rental income: Zee founder Subhash Chandra reveals his finances",
@@ -23,131 +23,131 @@
     "Meta's $18 billion settlement to close US lawsuit: What changes for the company, teens, rivals and the world | Hindustan Times",
     "First Leak of Nvidia’s DLSS 5 Apparently Makes Games Look and Run Worse",
     "GTA VI Has Over 600,000 Animations Compared To GTA V's 55,000 & Red Dead Redemption 2's 300,000",
-    "QD-OLED goes to esports: Samsung starts mass production of 24.5\" ultra-fast displays",
     "iPhone 18 Pro Max launch: Here are all the differences we currently know between the iPhone 18 Pro and...",
-    "‘Toxic’ exclusive: Director Suri lauds Yash’s performance: A brave attempt from superstar",
+    "QD-OLED goes to esports: Samsung starts mass production of 24.5\" ultra-fast displays",
+    "Toxic Box Office Collection Day 3 Live Updates: Yash film witnesses a crash, earns Rs 212 cr in India; eyes Rs 30 cr day 4",
     "'DC' OTT release date: When and where to watch the Lokesh Kanagaraj and Wamiqa Gabbi starrer action drama",
-    "King100: Teaser of Nagarjuna starrer unveiled on his birthday; film to clash with Shah Rukh Khan starrer King"
+    "Kuku Kohli prayer meet: Aruna Irani arrives with family as Rajpal Yadav, Madhoo, Poonam Dhillon and other"
   ],
   "quiz": [
     {
-      "blanked": "Chatroo ______ minor’s death case: Health worker arrested, total accused reach six",
-      "answer": "Kishtwar",
+      "blanked": "King100: ______ of Nagarjuna starrer unveiled on his birthday; film to clash with Shah Rukh Khan starrer King",
+      "answer": "Teaser",
       "options": [
-        "Kishtwar",
-        "KGF",
-        "Rahul",
-        "300000"
+        "Asian",
+        "Lokesh",
+        "Teaser",
+        "Kanagaraj"
       ]
     },
     {
-      "blanked": "India's Hero MotoCorp to increase stake in Ather with ______ million share purchase",
-      "answer": "184",
+      "blanked": "CIA Failed To Connect Key Intel ______ 9/11 Mastermind Before Attacks: Report",
+      "answer": "Naming",
       "options": [
-        "Changes",
-        "184",
-        "Roach",
-        "Neeraj"
+        "Suspension",
+        "Naming",
+        "Subhash",
+        "Irani"
       ]
     },
     {
-      "blanked": "HDFC ______ CEO Jagdishan to step down, decides not to seek reappointment",
-      "answer": "Bank",
+      "blanked": "Meta's $18 billion settlement to close US lawsuit: ______ changes for the company, teens, rivals and the world | Hindustan Times",
+      "answer": "What",
       "options": [
-        "London",
-        "Bank",
-        "ESC",
-        "World"
-      ]
-    },
-    {
-      "blanked": "2026 ESC Guidelines for ______ Failure Redefine Disease and Treatment Subtypes",
-      "answer": "Heart",
-      "options": [
-        "Key",
-        "Kolkata",
-        "Three",
-        "Heart"
-      ]
-    },
-    {
-      "blanked": "Amid rising swine flu cases, ______ govt asks hospitals to reserve isolation beds",
-      "answer": "Delhi",
-      "options": [
-        "Hindustan",
-        "Makes",
-        "Delhi",
-        "Look"
-      ]
-    },
-    {
-      "blanked": "‘Ruling party calling for mass genocide?’ CJP slams BJP over ‘Dimagi Naxals’ meme featuring KGF scene | India ______",
-      "answer": "News",
-      "options": [
-        "Pakistans",
-        "Treatment",
-        "News",
-        "Pro"
+        "Asian",
+        "Slams",
+        "What",
+        "Rukh"
       ]
     },
     {
       "blanked": "Placental Epigenetic ______ Link to Persistent Food Allergy",
       "answer": "Changes",
       "options": [
-        "Redefine",
-        "Moon",
-        "Rahul",
-        "Changes"
+        "300000",
+        "OTT",
+        "Changes",
+        "Pro"
       ]
     },
     {
-      "blanked": "King100: Teaser of ______ starrer unveiled on his birthday; film to clash with Shah Rukh Khan starrer King",
-      "answer": "Nagarjuna",
+      "blanked": "Looking to advance India’s vision for region free from terror, says PM Modi as he embarks on visit to ______ Kyrgyzstan",
+      "answer": "Uzbekistan",
       "options": [
-        "Report",
-        "Damaged",
-        "Hero",
-        "Nagarjuna"
+        "2026",
+        "You",
+        "Killer",
+        "Uzbekistan"
       ]
     },
     {
-      "blanked": "CKD Screening Recommended in Heart Disease: ______ 2026",
-      "answer": "ESC",
+      "blanked": "'Biggest deal in world history': Trump says US secured 65 billion barrels of Venezuelan oil | ______ News",
+      "answer": "World",
       "options": [
-        "Food",
-        "Guidelines",
-        "Mamata",
-        "ESC"
+        "24.5",
+        "Makes",
+        "World",
+        "Act"
       ]
     },
     {
-      "blanked": "GTA VI Has Over 600,000 ______ Compared To GTA V's 55,000 & Red Dead Redemption 2's 300,000",
-      "answer": "Animations",
+      "blanked": "Rahul Gandhi asks PM Modi to order FIR under SC/ST Act over ‘purification’ after Kharge’s rally | ______ News",
+      "answer": "India",
       "options": [
-        "Rukh",
-        "Report",
-        "Animations",
-        "Gandhi"
+        "India",
+        "FDA",
+        "Delhi",
+        "Treatment"
       ]
     },
     {
-      "blanked": "'Biggest deal in world history': ______ says US secured 65 billion barrels of Venezuelan oil | World News",
+      "blanked": "Flash floods in ______ No contact still with 320 Indians; 400 stranded",
+      "answer": "Nepal",
+      "options": [
+        "Suspension",
+        "Subhash",
+        "Nepal",
+        "Pakistans"
+      ]
+    },
+    {
+      "blanked": "iPhone 18 ______ Max launch: Here are all the differences we currently know between the iPhone 18 Pro and...",
+      "answer": "Pro",
+      "options": [
+        "Pro",
+        "Nepal",
+        "Bollywood",
+        "Kyrgyzstan"
+      ]
+    },
+    {
+      "blanked": "Nasa space telescope set to launch after surviving ______ budget cuts",
       "answer": "Trump",
       "options": [
         "Trump",
-        "Trigger",
-        "Banerjee",
-        "Changes"
+        "Uzbekistan",
+        "Hindustan",
+        "320"
       ]
     },
     {
-      "blanked": "First Leak of Nvidia’s DLSS 5 Apparently ______ Games Look and Run Worse",
-      "answer": "Makes",
+      "blanked": "QD-OLED goes to esports: ______ starts mass production of 24.5\" ultra-fast displays",
+      "answer": "Samsung",
       "options": [
-        "News",
-        "Hero",
-        "Chair",
-        "Makes"
+        "World",
+        "Samsung",
+        "Recommended",
+        "Slams"
+      ]
+    },
+    {
+      "blanked": "Samay Raina addresses India’s Got Latent 2 criticism, responds to ‘filtered’ tag: ‘It’s just not the same anymore’ | ______",
+      "answer": "Bollywood",
+      "options": [
+        "Bollywood",
+        "Games",
+        "Kyrgyzstan",
+        "Leak"
       ]
     }
   ]
