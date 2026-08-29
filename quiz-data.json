@@ -1,22 +1,22 @@
 {
-  "generatedAt": "2026-08-29T18:18:27.964Z",
+  "generatedAt": "2026-08-29T18:33:29.116Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
     "Nepal flash floods LIVE: Rescuers claw through mud as death toll rises to 675",
     "PM Modi lands in Uzbekistan on two-nation visit, President Shavkat Mirziyoyev receives him | India News",
-    "Xi's purge hits PLA General who ordered Galwan ops to 'teach India a lesson'",
-    "Oneness or Hindu supremacy? RSS chief Bhagwat’s secretive New York hosts",
     "Rahul Gandhi asks PM Modi to order FIR under SC/ST Act over ‘purification’ after Kharge’s rally | India News",
+    "Xi's purge hits PLA General who ordered Galwan ops to 'teach India a lesson'",
     "Smart phones, Wi-Fi routers, cash seized from cell of Aftab Ansari, mastermind of 2002 American Centre-attack: Official | India News",
-    "Before The Nepal Flood, A Glacial Fall: Tracing The Trigger, And A 100-km Killer Run",
+    "Oneness or Hindu supremacy? RSS chief Bhagwat’s secretive New York hosts",
     "‘UP no longer Bimaru state’: CM Yogi says mafia crushed, encephalitis eradicated; Akhilesh flags gaps",
-    "Samay Raina addresses India’s Got Latent 2 criticism, responds to ‘filtered’ tag: ‘It’s just not the same anymore’ | Bollywood",
+    "‘They will kill me’: Woman, newborn die after delivery in MP's Rewa; video shows she was screaming for help | India News",
     "Flash floods in Nepal: No contact still with 320 Indians; 400 stranded",
+    "India has highest glacial flood death toll in Hindu Kush Himalaya, UN-led study finds",
     "Risk of lake burst near China-Nepal disaster site wanes",
     "Russian strike on Kyiv-area ammunition depot triggers blast, killing 37",
     "CIA Failed To Connect Key Intel Naming 9/11 Mastermind Before Attacks: Report",
-    "Zimbabwe minibus carrying church members crashes, killing at least 27",
+    "Norway mourns King Harald as crowds gather at royal palace",
     "India's HDFC Bank CEO Jagdishan to step down in October",
     "Sold house, personal assets, now living on rental income: Zee founder Subhash Chandra reveals his finances",
     "Nvidia’s AI advantage is moving beyond the GPU",
@@ -31,123 +31,123 @@
   ],
   "quiz": [
     {
-      "blanked": "Temasek backs Singapore Airlines' Air ______ investment amid growing scrutiny",
-      "answer": "India",
+      "blanked": "India's HDFC Bank CEO Jagdishan to step down in ______",
+      "answer": "October",
       "options": [
-        "India",
-        "Attacks",
-        "Boycott",
-        "Link"
+        "Yadav",
+        "October",
+        "Run",
+        "Rukh"
       ]
     },
     {
-      "blanked": "Before The ______ Flood, A Glacial Fall: Tracing The Trigger, And A 100-km Killer Run",
-      "answer": "Nepal",
+      "blanked": "Nepal flash floods LIVE: ______ claw through mud as death toll rises to 675",
+      "answer": "Rescuers",
       "options": [
-        "Nepal",
-        "Link",
-        "Uzbekistan",
-        "Flood"
+        "Rescuers",
+        "News-Medical",
+        "Aftab",
+        "RSS"
       ]
     },
     {
-      "blanked": "India's javelin champion Neeraj ______ ends season early after ligament tear",
-      "answer": "Chopra",
+      "blanked": "India has highest glacial flood death toll in ______ Kush Himalaya, UN-led study finds",
+      "answer": "Hindu",
       "options": [
-        "Chopra",
-        "Brook",
+        "Rescuers",
+        "Hindu",
+        "Camera",
+        "Not"
+      ]
+    },
+    {
+      "blanked": "REACT study maps widespread silent atherosclerosis across adult lifespan - ______",
+      "answer": "News-Medical",
+      "options": [
+        "Indians",
+        "Kalra",
+        "News-Medical",
+        "911"
+      ]
+    },
+    {
+      "blanked": "Xi's purge hits PLA General who ordered ______ ops to 'teach India a lesson'",
+      "answer": "Galwan",
+      "options": [
+        "Galwan",
+        "Chandra",
+        "PLA",
+        "Differences"
+      ]
+    },
+    {
+      "blanked": "Placental ______ Changes Link to Persistent Food Allergy",
+      "answer": "Epigenetic",
+      "options": [
+        "Heavy",
+        "Chandra",
+        "Solar",
+        "Epigenetic"
+      ]
+    },
+    {
+      "blanked": "Temasek backs ______ Airlines' Air India investment amid growing scrutiny",
+      "answer": "Singapore",
+      "options": [
+        "Singapore",
+        "Bhagwats",
+        "GTA",
+        "Makes"
+      ]
+    },
+    {
+      "blanked": "Tech wrap week: From Samsung ______ S26 FE to AI-powered laptops, here’s what’s new",
+      "answer": "Galaxy",
+      "options": [
+        "Akhilesh",
         "Galaxy",
-        "Boycott"
+        "Kanagaraj",
+        "RSS"
       ]
     },
     {
-      "blanked": "10 jaw-dropping ______ space images that showcase the incredible beauty of the cosmos",
-      "answer": "ESA",
+      "blanked": "Norway mourns King ______ as crowds gather at royal palace",
+      "answer": "Harald",
       "options": [
-        "Value",
-        "Shah",
-        "Upp",
-        "ESA"
+        "Subhash",
+        "President",
+        "Harald",
+        "600000"
       ]
     },
     {
-      "blanked": "GTA VI Has Over 600,000 Animations Compared To ______ V's 55,000 & Red Dead Redemption 2's 300,000",
-      "answer": "GTA",
+      "blanked": "PHOTOS: ______ appears orange due to partial lunar eclipse",
+      "answer": "Moon",
       "options": [
-        "Key",
-        "GTA",
-        "King",
-        "Yogi"
-      ]
-    },
-    {
-      "blanked": "Nepal flash floods LIVE: Rescuers claw through mud as death toll rises to ______",
-      "answer": "675",
-      "options": [
-        "675",
-        "178",
-        "Shows",
-        "Chandra"
-      ]
-    },
-    {
-      "blanked": "Geoffrey Boycott disappointed: ______ Brook can match Sachin Tendulkar and Brian Lara but… | Cricket",
-      "answer": "Harry",
-      "options": [
-        "Indias",
-        "Changes",
-        "Harry",
-        "Advani"
-      ]
-    },
-    {
-      "blanked": "Ram Kapoor says Shreya Kalra ‘needs to grow up’ as he addresses Lock Upp kiss row: ______ a single woman ever complained’ | Bollywood",
-      "answer": "Not",
-      "options": [
-        "Nvidias",
-        "Value",
-        "Not",
-        "Pancreatic"
-      ]
-    },
-    {
-      "blanked": "Risk of lake burst near ______ disaster site wanes",
-      "answer": "China-Nepal",
-      "options": [
-        "China-Nepal",
+        "York",
+        "Delhi",
         "Moon",
-        "Value",
-        "Cancer"
+        "GPU"
       ]
     },
     {
-      "blanked": "Placental Epigenetic Changes Link to Persistent Food ______",
-      "answer": "Allergy",
+      "blanked": "Russian strike on ______ ammunition depot triggers blast, killing 37",
+      "answer": "Kyiv-area",
       "options": [
-        "Allergy",
-        "Worse",
-        "Failed",
-        "Display"
+        "Makes",
+        "Kyiv-area",
+        "UN-led",
+        "Kanagaraj"
       ]
     },
     {
-      "blanked": "Aditya-L1 catches ______ early warning signs before Solar flares",
-      "answer": "Suns",
+      "blanked": "Sold house, personal assets, now living on rental income: Zee founder ______ Chandra reveals his finances",
+      "answer": "Subhash",
       "options": [
-        "GTA",
-        "Bollywood",
-        "55000",
-        "Suns"
-      ]
-    },
-    {
-      "blanked": "Nvidia’s AI advantage is moving beyond the ______",
-      "answer": "GPU",
-      "options": [
-        "Zee",
-        "Airlines",
-        "GPU",
-        "When"
+        "Subhash",
+        "Kanagaraj",
+        "Galwan",
+        "UN-led"
       ]
     }
   ]
