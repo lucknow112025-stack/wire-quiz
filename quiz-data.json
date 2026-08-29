@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-29T12:33:25.109Z",
+  "generatedAt": "2026-08-29T12:49:34.115Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
     "Nepal flash floods LIVE updates: Heavy rain forecast in flood-affected areas threaten to disrupt rescue ops.; death toll crosses 620",
     "FIR against Mamata Banerjee over violation of high court order on TMC students' wing rally in Kolkata | India News",
     "3 Delhi BJP MPs Visit Sajjan Kumar's House. Then Party Chief's Big Action",
-    "Rahul Gandhi asks PM Modi to order FIR under SC/ST Act over ‘purification’ after Kharge’s rally | India News",
-    "Sharon Verma Hits Back At 'Kashmiri' Samay Raina After 'Bihari' Joke: 'I Left My State By Choice'",
-    "'RSS does not represent us': US-based Hindu group among 61 organisations protesting Mohan Bhagwat's NYC event | India News",
+    "PM Modi must order filing of FIR, we demand justice: Rahul Gandhi on Kharge’s rally venue ‘purification’ in Uttarakhand",
+    "42 years on, Sukumara Kurup mystery returns with Brunei ‘sighting’ — and a photo twist",
+    "Oneness or Hindu supremacy? RSS chief Bhagwat’s secretive New York hosts",
     "Looking to advance India’s vision for region free from terror, says PM Modi as he embarks on visit to Uzbekistan, Kyrgyzstan",
     "Bar Council Not Earning Members' Respect Not A Good Sign For Legal Profession: Justice BV Nagarathna",
-    "Chatroo Kishtwar minor’s death case: Health worker arrested, total accused reach six",
-    "No word from Thane couple on first trip to Nepal, kin await clarity",
-    "37 Killed As Russian Strikes Ukraine's Kyiv, 50 Residential Buildings Damaged",
+    "Why the Nepal floods are a warning for the Himalayas, and India",
+    "Samay Raina addresses India’s Got Latent 2 criticism, responds to ‘filtered’ tag: ‘It’s just not the same anymore’ | Bollywood",
+    "Oil Deal To Bring $100 Billion Investment, Thousands Of Jobs To Venezuela: Rubio",
     "Galwan, Doklam general axed by Xi: Zhao Zongqi removed from China's top advisory body",
+    "Russian air attack on Ukraine's Kyiv kills at least 27, injures 42 | World News",
     "CIA Failed To Connect Key Intel Naming 9/11 Mastermind Before Attacks: Report",
-    "War weighs on Iran's economy as US intensifies sanctions",
-    "Zee's Subhash Chandra claims he has Rs 6.5 crore left, lives on rental income amid NCLT's 99.97% loan hair",
     "Temasek backs Singapore Airlines' Air India investment amid growing scrutiny",
+    "Subhash Chandra breaks silence on NCLT order, disputes ₹3,900 crore claim, says most group debt repaid",
     "Meta’s Sandhya Devanathan exits after decade, joins OpenAI as Southeast Asia, Australia VP",
-    "CAS faces MSCI rebalancing test on Monday, says this analyst",
-    "QD-OLED goes to esports: Samsung starts mass production of 24.5\" ultra-fast displays",
-    "'Grand Theft Auto 6' Extended in-game footage unveiled",
+    "OpenAI says it's ending its deal with Cursor because Elon Musk's companies violate contracts",
+    "Apple One and Apple TV subscription prices increase by up to 20 percent",
     "iPhone 18 Pro, Foldable iPhone Ultra and More: Apple Products Expected Next Month",
-    "Deals: the Galaxy S26 FE is on pre-order, but the S26+ is cheaper - several Pocos are cheaper too - GSMArena.com news",
+    "QD-OLED goes to esports: Samsung starts mass production of 24.5\" ultra-fast displays",
+    "GTA VI Has Over 600,000 Animations Compared To GTA V's 55,000 & Red Dead Redemption 2's 300,000",
     "'Toxic' box office collection Day 4 [LIVE]: Yash and Kiara Advani film races towards Rs 175 crore domestic net milestone",
     "King100: Teaser of Nagarjuna starrer unveiled on his birthday; film to clash with Shah Rukh Khan starrer King",
-    "Samantha Ruth Prabhu Shares How Much Weight She Has Gained During Pregnancy"
+    "Orry warns Samay Raina on 'India's Got Latent 2':'Aukaat mein raho, tum andar jaayega toh tum bahar nahi"
   ],
   "quiz": [
-    {
-      "blanked": "'Not spending enough time in the middle' - ______ laments Pakistan’s batting woes",
-      "answer": "Sarfaraz",
-      "options": [
-        "Uzbekistan",
-        "Visit",
-        "Sarfaraz",
-        "Chiefs"
-      ]
-    },
-    {
-      "blanked": "37 Killed As Russian Strikes Ukraine's Kyiv, 50 Residential ______ Damaged",
-      "answer": "Buildings",
-      "options": [
-        "Mamata",
-        "Buildings",
-        "Connect",
-        "Killed"
-      ]
-    },
-    {
-      "blanked": "CAS faces MSCI rebalancing test on ______ says this analyst",
-      "answer": "Monday",
-      "options": [
-        "Banerjee",
-        "Respect",
-        "Diamond",
-        "Monday"
-      ]
-    },
-    {
-      "blanked": "Chatroo ______ minor’s death case: Health worker arrested, total accused reach six",
-      "answer": "Kishtwar",
-      "options": [
-        "Kyrgyzstan",
-        "Sajjan",
-        "Sandhya",
-        "Kishtwar"
-      ]
-    },
-    {
-      "blanked": "'Grand Theft ______ 6' Extended in-game footage unveiled",
-      "answer": "Auto",
-      "options": [
-        "Auto",
-        "Pregnancy",
-        "Roman",
-        "Next"
-      ]
-    },
-    {
-      "blanked": "10 jaw-dropping ______ space images that showcase the incredible beauty of the cosmos",
-      "answer": "ESA",
-      "options": [
-        "ESA",
-        "Shares",
-        "Earning",
-        "News"
-      ]
-    },
     {
       "blanked": "‘Diabetes and high BP are the same disease’? ______ explains the real link",
       "answer": "Endocrinologist",
       "options": [
-        "League",
-        "Endocrinologist",
-        "Edavans",
-        "Kishtwar"
+        "Gained",
+        "Airlines",
+        "Not",
+        "Endocrinologist"
       ]
     },
     {
-      "blanked": "PHOTOS: ______ appears orange due to partial lunar eclipse",
-      "answer": "Moon",
+      "blanked": "Looking to advance India’s vision for region free from terror, says PM Modi as he embarks on visit to ______ Kyrgyzstan",
+      "answer": "Uzbekistan",
       "options": [
-        "More",
-        "Russian",
-        "Moon",
-        "NYC"
-      ]
-    },
-    {
-      "blanked": "King100: ______ of Nagarjuna starrer unveiled on his birthday; film to clash with Shah Rukh Khan starrer King",
-      "answer": "Teaser",
-      "options": [
-        "Galaxy",
-        "Much",
-        "Yash",
-        "Teaser"
-      ]
-    },
-    {
-      "blanked": "Rahul Gandhi asks PM ______ to order FIR under SC/ST Act over ‘purification’ after Kharge’s rally | India News",
-      "answer": "Modi",
-      "options": [
-        "TMC",
-        "Leap",
-        "Modi",
-        "Extended"
-      ]
-    },
-    {
-      "blanked": "Galwan, Doklam general axed by Xi: Zhao ______ removed from China's top advisory body",
-      "answer": "Zongqi",
-      "options": [
+        "Singapore",
         "Uzbekistan",
-        "Indias",
-        "Zongqi",
-        "Joke"
+        "Cursor",
+        "2026"
       ]
     },
     {
-      "blanked": "FIR against ______ Banerjee over violation of high court order on TMC students' wing rally in Kolkata | India News",
-      "answer": "Mamata",
+      "blanked": "Nepal flash floods LIVE updates: ______ rain forecast in flood-affected areas threaten to disrupt rescue ops.; death toll crosses 620",
+      "answer": "Heavy",
       "options": [
-        "Members",
-        "620",
-        "Respect",
-        "Mamata"
+        "York",
+        "Intel",
+        "Heavy",
+        "Elon"
+      ]
+    },
+    {
+      "blanked": "Russian air attack on ______ Kyiv kills at least 27, injures 42 | World News",
+      "answer": "Ukraines",
+      "options": [
+        "Ukraines",
+        "Nagarjuna",
+        "Latent",
+        "Himalayas"
+      ]
+    },
+    {
+      "blanked": "Galwan, Doklam general axed by Xi: Zhao Zongqi removed from ______ top advisory body",
+      "answer": "Chinas",
+      "options": [
+        "Products",
+        "Chinas",
+        "Air",
+        "Red"
+      ]
+    },
+    {
+      "blanked": "'Toxic' box office collection Day 4 ______ Yash and Kiara Advani film races towards Rs 175 crore domestic net milestone",
+      "answer": "LIVE",
+      "options": [
+        "Open",
+        "LIVE",
+        "Bollywood",
+        "Pro"
+      ]
+    },
+    {
+      "blanked": "King100: Teaser of Nagarjuna starrer unveiled on his birthday; film to clash with ______ Rukh Khan starrer King",
+      "answer": "Shah",
+      "options": [
+        "Latent",
+        "Shah",
+        "Epigenetic",
+        "Visit"
+      ]
+    },
+    {
+      "blanked": "Meta’s Sandhya Devanathan exits after decade, joins OpenAI as ______ Asia, Australia VP",
+      "answer": "Southeast",
+      "options": [
+        "Guidelines",
+        "Profession",
+        "Kolkata",
+        "Southeast"
+      ]
+    },
+    {
+      "blanked": "Apple One and ______ TV subscription prices increase by up to 20 percent",
+      "answer": "Apple",
+      "options": [
+        "Apple",
+        "Pregnancy",
+        "Compared",
+        "Kyiv"
+      ]
+    },
+    {
+      "blanked": "Temasek backs Singapore ______ Air India investment amid growing scrutiny",
+      "answer": "Airlines",
+      "options": [
+        "Airlines",
+        "Good",
+        "Next",
+        "Kurup"
+      ]
+    },
+    {
+      "blanked": "NASA’s Nancy ______ Roman Space Telescope Has a Hidden Technological Leap",
+      "answer": "Grace",
+      "options": [
+        "Suns",
+        "Grace",
+        "One",
+        "Link"
+      ]
+    },
+    {
+      "blanked": "Barcelona target Julian ______ speaks to Mikel Arteta but refuses to open door to Arsenal transfer",
+      "answer": "Alvarez",
+      "options": [
+        "Alvarez",
+        "Solar",
+        "Kurup",
+        "Profession"
       ]
     }
   ]
