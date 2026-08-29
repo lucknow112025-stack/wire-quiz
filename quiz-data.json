@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-29T22:48:26.543Z",
+  "generatedAt": "2026-08-29T23:03:25.456Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "Nepal flash floods LIVE: Rescuers claw through mud as death toll rises to 675",
+    "Nepal and China resume flood rescue as death toll surpasses 600",
     "PM Modi lands in Uzbekistan on two-nation visit, President Shavkat Mirziyoyev receives him | India News",
     "Israeli settlers surround Palestinian home in occupied West Bank’s Qusra",
     "Mohan Bhagwat Poster Goes Up On Times Square Billboard Ahead Of RSS Chief’s MSG Address",
     "China removes PLA general who oversaw Doklam and Galwan standoffs with India from key post",
-    "Rahul Gandhi asks PM Modi to order FIR under SC/ST Act over ‘purification’ after Kharge’s rally | India News",
-    "Flash floods in Nepal: No contact still with 320 Indians; 400 stranded",
     "Before The Nepal Flood, A Glacial Fall: Tracing The Trigger, And A 100-km Killer Surge",
-    "Kolkata Police file FIR against Mamata Banerjee for violating Calcutta High Court order",
+    "Rahul Gandhi seeks FIR over ‘purification’ ritual in Haldwani after Kharge’s address, calls it ‘untouchability’",
+    "Flash floods in Nepal: No contact still with 320 Indians; 400 stranded",
     "Trinamool Congress Moves Calcutta High Court Against Alleged Removal Of Billboard From Party Office",
+    "No word from Thane couple on first trip to Nepal, kin await clarity",
     "Norway's King Haakon honours 'dear father' Harald in first speech as sovereign",
-    "Who is Milo Yiannopoulos, far-right British commentator, detained by ICE? Former Trump supporter faces de",
-    "Russian air attack on Ukraine's Kyiv kills at least 37, injures 42 | World News",
+    "Has Iceland warmed to the European Union?",
     "Iran’s leaders acknowledge economic toll of war, pledge diplomacy, defence",
+    "Canada To Impose Up To 50% Tariffs On 700 US Goods As Trade War Escalates",
     "HDFC Bank CEO Jagdishan to step down, decides not to seek reappointment",
-    "Sold house, personal assets, now living on rental income: Zee founder Subhash Chandra reveals his finances",
-    "Nvidia’s AI advantage is moving beyond the GPU",
-    "Gold drops 3% as Fed's Warsh comments lift rate hike bets",
+    "Union Bank, LIC Housing Fin, Canara Bank challenge NCLT nod to Subhash Chandra resolution plan",
+    "Delhi CNG price hike: Rs 3.89/kg rise fuels fare hike demand, auto strike threat and political clash",
+    "FSSAI to introduce red warning labels on chips, sugary drinks and packaged foods",
     "Nvidia's DLSS 5 leaked early, and modders have already broken it out of its Blackwell cage",
-    "First look at Grand Theft Auto 6 gameplay released on Netflix ahead of November launch",
     "Here's when the iPhone 18 Pro and iPhone 18 Pro Max are rumored to go on pre-order - GSMArena.com news",
-    "Deals: the Galaxy S26 FE is coming, Galaxy S26 series on sale, Nothing Phone (3) also discounted - GSMArena.com news",
+    "GTA VI: 6 Cool Features You May Have Missed In Rockstar Games’ Highly-Anticipated Release",
+    "IPhone 17 Pro Max Price Slashed Worldwide Before IPhone 18 Launch",
     "'Toxic' box office collection Day 4 [LIVE]: Yash and Kiara Advani film races past Rs 182 crore domestic net milestone",
     "King100: Teaser of Nagarjuna starrer unveiled on his birthday; film to clash with Shah Rukh Khan starrer King",
     "'SNL’ star Kenan Thompson to join ‘America’s Got Talent’ after Simon Cowell takes a break for back surger"
   ],
   "quiz": [
     {
-      "blanked": "Imaging Reveals ______ Silent Atherosclerosis Burden: ESC 2026",
-      "answer": "Widespread",
+      "blanked": "PHOTOS: ______ appears orange due to partial lunar eclipse",
+      "answer": "Moon",
       "options": [
-        "Subhash",
-        "Cowell",
-        "MSG",
-        "Widespread"
+        "ESA",
+        "Harald",
+        "Persistent",
+        "Moon"
       ]
     },
     {
-      "blanked": "First look at Grand Theft Auto 6 gameplay released on ______ ahead of November launch",
-      "answer": "Netflix",
+      "blanked": "Nepal and China resume flood rescue as death toll surpasses ______",
+      "answer": "600",
       "options": [
-        "Netflix",
-        "Billboard",
-        "Roman",
-        "Subhash"
-      ]
-    },
-    {
-      "blanked": "Placental Epigenetic ______ Link to Persistent Food Allergy",
-      "answer": "Changes",
-      "options": [
-        "Changes",
-        "Address",
-        "King",
-        "Office"
-      ]
-    },
-    {
-      "blanked": "Israeli settlers surround Palestinian home in occupied ______ Bank’s Qusra",
-      "answer": "West",
-      "options": [
-        "West",
-        "Telomere",
-        "Billboard",
-        "Telescope"
-      ]
-    },
-    {
-      "blanked": "China removes PLA general who oversaw Doklam and Galwan standoffs with ______ from key post",
-      "answer": "India",
-      "options": [
-        "Alleged",
-        "Cancer",
-        "India",
-        "Fall"
-      ]
-    },
-    {
-      "blanked": "Nvidia’s AI advantage is moving beyond the ______",
-      "answer": "GPU",
-      "options": [
-        "Phone",
-        "GPU",
-        "182",
-        "Pancreatic"
-      ]
-    },
-    {
-      "blanked": "Kolkata Police file FIR against ______ Banerjee for violating Calcutta High Court order",
-      "answer": "Mamata",
-      "options": [
-        "Argentina",
-        "Glacial",
-        "Mamata",
-        "Jagdishan"
-      ]
-    },
-    {
-      "blanked": "Russian air attack on Ukraine's Kyiv kills at least 37, injures 42 | World ______",
-      "answer": "News",
-      "options": [
-        "News",
-        "Spurs",
-        "Netflix",
-        "Subhash"
-      ]
-    },
-    {
-      "blanked": "'SNL’ star Kenan Thompson to join ‘America’s Got Talent’ after Simon ______ takes a break for back surger",
-      "answer": "Cowell",
-      "options": [
-        "Trigger",
-        "Cowell",
-        "Rescuers",
+        "Kharges",
+        "600",
+        "Shah",
         "LIVE"
+      ]
+    },
+    {
+      "blanked": "Newcastle get last laugh vs rotten Spurs as ______ Tonali flops vs former club - 5 talking points",
+      "answer": "Sandro",
+      "options": [
+        "Sandro",
+        "Gandhi",
+        "Modi",
+        "Iceland"
+      ]
+    },
+    {
+      "blanked": "PM ______ lands in Uzbekistan on two-nation visit, President Shavkat Mirziyoyev receives him | India News",
+      "answer": "Modi",
+      "options": [
+        "Haakon",
+        "Modi",
+        "Housing",
+        "Moves"
+      ]
+    },
+    {
+      "blanked": "No word from Thane couple on first trip to ______ kin await clarity",
+      "answer": "Nepal",
+      "options": [
+        "Nepal",
+        "Ahead",
+        "Kiara",
+        "2026"
+      ]
+    },
+    {
+      "blanked": "Before The Nepal Flood, A Glacial Fall: ______ The Trigger, And A 100-km Killer Surge",
+      "answer": "Tracing",
+      "options": [
+        "Tracing",
+        "Escalates",
+        "Galwan",
+        "Dolly"
+      ]
+    },
+    {
+      "blanked": "Suryakumar on being dropped: ______ everything is going well, why the change?'",
+      "answer": "When",
+      "options": [
+        "Pancreatic",
+        "You",
+        "When",
+        "182"
       ]
     },
     {
       "blanked": "Here's when the iPhone 18 ______ and iPhone 18 Pro Max are rumored to go on pre-order - GSMArena.com news",
       "answer": "Pro",
       "options": [
-        "Rescuers",
-        "CEO",
-        "Teaser",
-        "Pro"
+        "Pro",
+        "Uzbekistan",
+        "Tonali",
+        "Roman"
       ]
     },
     {
-      "blanked": "10 jaw-dropping ______ space images that showcase the incredible beauty of the cosmos",
-      "answer": "ESA",
+      "blanked": "Trinamool Congress Moves Calcutta High Court Against Alleged Removal Of Billboard From ______ Office",
+      "answer": "Party",
       "options": [
-        "Atherosclerosis",
-        "Jagdishan",
-        "2026",
-        "ESA"
+        "Heavy",
+        "Party",
+        "Thane",
+        "May"
       ]
     },
     {
-      "blanked": "Flash floods in Nepal: No contact still with ______ Indians; 400 stranded",
-      "answer": "320",
+      "blanked": "'Toxic' box office collection Day 4 [LIVE]: Yash and ______ Advani film races past Rs 182 crore domestic net milestone",
+      "answer": "Kiara",
       "options": [
-        "Trigger",
-        "Modi",
-        "Simon",
-        "320"
+        "Kiara",
+        "Solar",
+        "Release",
+        "Ahead"
+      ]
+    },
+    {
+      "blanked": "Delhi ______ price hike: Rs 3.89/kg rise fuels fare hike demand, auto strike threat and political clash",
+      "answer": "CNG",
+      "options": [
+        "Alleged",
+        "CNG",
+        "Housing",
+        "Rukh"
+      ]
+    },
+    {
+      "blanked": "Mohan Bhagwat Poster Goes Up On Times Square Billboard Ahead Of RSS Chief’s MSG ______",
+      "answer": "Address",
+      "options": [
+        "Chopra",
+        "Congress",
+        "When",
+        "Address"
       ]
     }
   ]
