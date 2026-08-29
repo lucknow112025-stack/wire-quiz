@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T17:03:45.225Z",
+  "generatedAt": "2026-08-29T17:18:18.125Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
@@ -7,147 +7,147 @@
     "PM Modi’s SCO visit is loaded with expectations on BRICS Summit and UNSC election",
     "Rahul Gandhi asks PM Modi to order FIR under SC/ST Act over ‘purification’ after Kharge’s rally | India News",
     "FIR Against Mamata Banerjee For Violating Calcutta HC Order At TMC Event",
-    "\"You Think You Are A Lord?\" Bombay High Court Slams FDA Officer Over Suspension Of Eateries Of Mumbai...",
+    "Oneness or Hindu supremacy? RSS chief Bhagwat’s secretive New York hosts",
     "‘Save me, doctors want to kill me’: Woman’s video before death during childbirth surfaces",
+    "Samay Raina addresses India’s Got Latent 2 criticism, responds to ‘filtered’ tag: ‘It’s just not the same anymore’ | Bollywood",
     "Flash floods in Nepal: No contact still with 320 Indians; 400 stranded",
     "India has highest glacial flood death toll in Hindu Kush Himalaya, UN-led study finds",
     "Weather tomorrow: IMD warns of very heavy rain in many states; extremely heavy rain likely in Odisha",
-    "Manufacture in India, build for world: FM Sitharaman",
-    "37 Killed As Russian Strikes Ukraine's Kyiv, 50 Residential Buildings Damaged",
-    "Zimbabwe minibus carrying church members crashes, killing at least 27",
+    "Russian strike on Kyiv-area ammunition depot triggers blast, killing 37",
     "Norway mourns King Harald as crowds gather at royal palace",
     "CIA Failed To Connect Key Intel Naming 9/11 Mastermind Before Attacks: Report",
+    "Zimbabwe minibus carrying church members crashes, killing at least 27",
     "HDFC Bank CEO Jagdishan to step down, decides not to seek reappointment",
     "Sold house, personal assets, now living on rental income: Zee founder Subhash Chandra reveals his finances",
-    "\"Sub-Standard\": Everest, Laljee Godhoo Banned From Selling Hing Powder",
+    "Temasek backs Singapore Airlines' Air India investment amid growing scrutiny",
     "Ashish Dhawan buys 1.11% stake in Religare; Hero MotoCorp picks up Rs 1,758 crore Ather shares",
-    "First Leak of Nvidia’s DLSS 5 Apparently Makes Games Look and Run Worse",
-    "iPhone 18 Pro launch event almost here: From India price to specs, everything leaked so far",
+    "Leaked DLSS 5 DLL From NBA 2K27 Beta Lets Modders Test Nvidia's Neural Rendering Early, Halving Frame Rates",
     "GTA VI Has Over 600,000 Animations Compared To GTA V's 55,000 & Red Dead Redemption 2's 300,000",
+    "iPhone 18 Pro launch event almost here: From India price to specs, everything leaked so far",
     "QD-OLED goes to esports: Samsung starts mass production of 24.5\" ultra-fast displays",
-    "'Toxic' box office collection Day 4 [LIVE]: Yash and Kiara Advani film races past Rs 178 crore domestic n",
-    "'DC' OTT release date: When and where to watch the Lokesh Kanagaraj and Wamiqa Gabbi starrer action drama",
-    "'Always Been Physical': Ram Kapoor On Shreya Kalra's Lock Upp 2 Kissing Row"
+    "‘Toxic’ exclusive: Director Suri lauds Yash’s performance: A brave attempt from superstar",
+    "Kuku Kohli prayer meet: Aruna Irani arrives with family as Rajpal Yadav, Madhoo, Poonam Dhillon and other",
+    "Ram Kapoor says Shreya Kalra ‘needs to grow up’ as he addresses Lock Upp kiss row: ‘Not a single woman ever complained’ | Bollywood"
   ],
   "quiz": [
     {
-      "blanked": "'Always Been Physical': ______ Kapoor On Shreya Kalra's Lock Upp 2 Kissing Row",
-      "answer": "Ram",
+      "blanked": "Samay ______ addresses India’s Got Latent 2 criticism, responds to ‘filtered’ tag: ‘It’s just not the same anymore’ | Bollywood",
+      "answer": "Raina",
       "options": [
-        "Shreya",
-        "Moon",
-        "Russian",
-        "Ram"
+        "Gabbi",
+        "Food",
+        "Raina",
+        "Zee"
       ]
     },
     {
-      "blanked": "\"You Think You Are A Lord?\" Bombay High ______ Slams FDA Officer Over Suspension Of Eateries Of Mumbai...",
-      "answer": "Court",
+      "blanked": "PM Modi’s SCO visit is loaded with expectations on BRICS Summit and ______ election",
+      "answer": "UNSC",
       "options": [
+        "Heart",
+        "300000",
+        "UNSC",
+        "Link"
+      ]
+    },
+    {
+      "blanked": "Russian strike on ______ ammunition depot triggers blast, killing 37",
+      "answer": "Kyiv-area",
+      "options": [
+        "FIR",
+        "Irani",
+        "Kyiv-area",
+        "Nvidias"
+      ]
+    },
+    {
+      "blanked": "Oneness or Hindu supremacy? ______ chief Bhagwat’s secretive New York hosts",
+      "answer": "RSS",
+      "options": [
+        "RSS",
         "Act",
-        "Court",
+        "Disease",
+        "Chopra"
+      ]
+    },
+    {
+      "blanked": "HDFC Bank ______ Jagdishan to step down, decides not to seek reappointment",
+      "answer": "CEO",
+      "options": [
+        "CEO",
+        "Event",
+        "BRICS",
+        "Wamiqa"
+      ]
+    },
+    {
+      "blanked": "'Not spending enough time in the middle' - ______ laments Pakistan’s batting woes",
+      "answer": "Sarfaraz",
+      "options": [
+        "DLSS",
+        "UNSC",
+        "Epigenetic",
+        "Sarfaraz"
+      ]
+    },
+    {
+      "blanked": "Leaked DLSS 5 DLL From NBA 2K27 Beta ______ Modders Test Nvidia's Neural Rendering Early, Halving Frame Rates",
+      "answer": "Lets",
+      "options": [
+        "Indians",
+        "LIVE",
+        "Lets",
+        "Cricket"
+      ]
+    },
+    {
+      "blanked": "'DC' ______ release date: When and where to watch the Lokesh Kanagaraj and Wamiqa Gabbi starrer action drama",
+      "answer": "OTT",
+      "options": [
+        "OTT",
         "Order",
-        "Row"
+        "SCO",
+        "GTA"
+      ]
+    },
+    {
+      "blanked": "Norway mourns King ______ as crowds gather at royal palace",
+      "answer": "Harald",
+      "options": [
+        "OTT",
+        "Harald",
+        "Gabbi",
+        "Airlines"
+      ]
+    },
+    {
+      "blanked": "‘Toxic’ exclusive: Director Suri lauds ______ performance: A brave attempt from superstar",
+      "answer": "Yashs",
+      "options": [
+        "Himalaya",
+        "Yashs",
+        "MotoCorp",
+        "Solar"
       ]
     },
     {
       "blanked": "Weather tomorrow: ______ warns of very heavy rain in many states; extremely heavy rain likely in Odisha",
       "answer": "IMD",
       "options": [
-        "ESC",
-        "Dead",
-        "Delhi",
-        "IMD"
+        "Chopra",
+        "IMD",
+        "Halving",
+        "Himalaya"
       ]
     },
     {
-      "blanked": "PHOTOS: ______ appears orange due to partial lunar eclipse",
-      "answer": "Moon",
+      "blanked": "QD-OLED goes to esports: Samsung starts mass production of ______ ultra-fast displays",
+      "answer": "24.5",
       "options": [
-        "Moon",
-        "Jagdishan",
-        "Nagarjuna",
-        "Kush"
-      ]
-    },
-    {
-      "blanked": "Norway mourns ______ Harald as crowds gather at royal palace",
-      "answer": "King",
-      "options": [
-        "178",
-        "911",
-        "King",
-        "Godhoo"
-      ]
-    },
-    {
-      "blanked": "King100: Teaser of Nagarjuna starrer unveiled on his birthday; film to clash with Shah Rukh ______ starrer King",
-      "answer": "Khan",
-      "options": [
-        "Officer",
-        "Residential",
-        "Himalaya",
-        "Khan"
-      ]
-    },
-    {
-      "blanked": "'Toxic' box office collection ______ 4 [LIVE]: Yash and Kiara Advani film races past Rs 178 crore domestic n",
-      "answer": "Day",
-      "options": [
-        "Day",
-        "Run",
-        "Attacks",
-        "Epigenetic"
-      ]
-    },
-    {
-      "blanked": "FIR Against Mamata Banerjee For Violating Calcutta HC Order At TMC ______",
-      "answer": "Event",
-      "options": [
-        "Hero",
-        "Event",
-        "675",
-        "Has"
-      ]
-    },
-    {
-      "blanked": "\"Sub-Standard\": Everest, Laljee Godhoo Banned From ______ Hing Powder",
-      "answer": "Selling",
-      "options": [
-        "Selling",
-        "Buildings",
-        "GTA",
-        "Disease"
-      ]
-    },
-    {
-      "blanked": "GTA VI Has Over 600,000 Animations Compared To GTA V's 55,000 & Red Dead Redemption 2's ______",
-      "answer": "300000",
-      "options": [
-        "Sarfaraz",
-        "Nancy",
-        "Persistent",
-        "300000"
-      ]
-    },
-    {
-      "blanked": "India has highest glacial flood death toll in Hindu Kush Himalaya, ______ study finds",
-      "answer": "UN-led",
-      "options": [
-        "Telomere",
-        "Changes",
-        "Hero",
-        "UN-led"
-      ]
-    },
-    {
-      "blanked": "37 Killed As Russian Strikes Ukraine's Kyiv, 50 ______ Buildings Damaged",
-      "answer": "Residential",
-      "options": [
-        "Rukh",
-        "Nancy",
-        "Residential",
-        "Ather"
+        "Cancer",
+        "Order",
+        "MotoCorp",
+        "24.5"
       ]
     }
   ]
