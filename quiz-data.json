@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-30T05:18:26.093Z",
+  "generatedAt": "2026-08-30T05:33:23.006Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
     "Nepal flash floods LIVE: Death toll rises to 675; India sends tunnel rescue team to Nepal",
     "If Hindus think Muslims have no place, they cease to be Hindu: Mohan Bhagwat in New York",
     "PM Modi lands in Uzbekistan on two-nation visit, SCO summit; President Shavkat Mirziyoyev receives him | India News",
-    "Trump's 'Lake America' name change sparks 'Donald Ducks' memes on social media | Hindustan Times",
     "Before The Nepal Flood, A Glacial Fall: Tracing The Trigger, And A 100-km Killer Surge",
+    "Trump's 'Lake America' name change sparks 'Donald Ducks' memes on social media | Hindustan Times",
     "Samay Raina in soup again over remarks on people from Bihar, Kashmiri Pandits: 'They get publicity for fr",
+    "‘Frustrated’ elderly father kills schizophrenic son along with friend in Delhi, both held",
     "AAP Leader Murdered In Punjab. Attackers Chased His Bike, Opened Fire",
     "\"You Think You Are A Lord?\" Bombay High Court Slams FDA Officer Over Suspension Of Eateries Of Mumbai...",
     "Flash floods in Nepal: No contact still with 320 Indians; 400 stranded",
-    "Kumaraswamy demands resignation of Priyank Kharge for alleged lapses in RDPR appointments",
     "37 Killed As Russian Strikes Ukraine's Kyiv, 50 Residential Buildings Damaged",
     "Trump hails ‘biggest oil deal’ with Venezuela, US to gain control over 65 billion barrels",
     "Has Iceland warmed to the European Union?",
     "Video: Buried under debris for 3 days, 6-year-old survives Nepal flood devastation",
-    "HDFC CEO Sashidhar Jagdishan Not Seeking Extension, To Retire On October 26",
-    "Union Bank, LIC Housing Fin, Canara Bank challenge NCLT nod to Subhash Chandra resolution plan",
+    "India's HDFC Bank CEO Jagdishan to step down in October",
     "Zee’s Subhash Chandra accuses Mukesh Ambani of spreading misinformation, RIL denies allegations",
-    "Delhi CNG price hike: Rs 3.89/kg rise fuels fare hike demand, auto strike threat and political clash",
+    "CNG Prices Hiked By Rs 3.89 In Delhi-NCR: Check City-Wise Rates",
+    "After Supreme Court Rap, FSSAI Proposes Pictorial Front-of-Pack Warning Labels For Packaged Foods High In ...",
     "Here's when the iPhone 18 Pro and iPhone 18 Pro Max are rumored to go on pre-order - GSMArena.com news",
-    "GTA VI: 6 Cool Features You May Have Missed In Rockstar Games’ Highly-Anticipated Release",
+    "GTA VI Has Over 600,000 Animations Compared To GTA V's 55,000 & Red Dead Redemption 2's 300,000",
     "Tech wrap week: From Samsung Galaxy S26 FE to AI-powered laptops, here’s what’s new",
     "iPhone 17 Pro Max Price Slashed Worldwide Before iPhone 18 Launch",
     "'Toxic' box office collections day 4: Yash, Nayanthara, Kiara Advani starrer records 9.9% drop; worldwide",
     "Irumudi Box Office Collections: Ravi Teja starrer has an OUTSTANDING 2nd Friday, Beats Pushpa 2, Kalki and Baahubali in APTS",
-    "'Hanuman Ansh' box office collection: From Rs 10 lakh on day 1 to Rs 27 crore in 23 days, word of mouth t"
+    "Dolly Parton's funeral: Family gather for singer's burial at Nashville site; to be laid to rest beside hu"
   ],
   "quiz": [
     {
-      "blanked": "Amid rising swine flu cases, ______ govt asks hospitals to reserve isolation beds",
+      "blanked": "CNG Prices Hiked By Rs 3.89 In Delhi-NCR: Check City-Wise ______",
+      "answer": "Rates",
+      "options": [
+        "Tracing",
+        "Rates",
+        "Max",
+        "Silent"
+      ]
+    },
+    {
+      "blanked": "Dolly Parton's funeral: ______ gather for singer's burial at Nashville site; to be laid to rest beside hu",
+      "answer": "Family",
+      "options": [
+        "Iyer",
+        "Family",
+        "York",
+        "Shows"
+      ]
+    },
+    {
+      "blanked": "‘Frustrated’ elderly father kills schizophrenic son along with friend in ______ both held",
       "answer": "Delhi",
       "options": [
-        "Limited",
-        "Bihar",
-        "Reveals",
-        "Delhi"
+        "Chased",
+        "Delhi",
+        "Cancer",
+        "Bihar"
       ]
     },
     {
-      "blanked": "How & Where to Watch Inter Miami vs. CF Montreal? Start Time, ______ Streaming and TV Channels",
-      "answer": "Live",
+      "blanked": "After Supreme Court Rap, FSSAI Proposes Pictorial Front-of-Pack ______ Labels For Packaged Foods High In ...",
+      "answer": "Warning",
       "options": [
-        "Canara",
-        "Slashed",
-        "Live",
-        "Roman"
+        "Red",
+        "Office",
+        "Warning",
+        "Buildings"
       ]
     },
     {
-      "blanked": "AAP Leader Murdered In Punjab. Attackers Chased His Bike, Opened ______",
-      "answer": "Fire",
+      "blanked": "Irumudi Box Office Collections: Ravi Teja starrer has an OUTSTANDING 2nd Friday, Beats Pushpa 2, Kalki and Baahubali in ______",
+      "answer": "APTS",
       "options": [
-        "Fire",
-        "Suns",
-        "Retire",
-        "Leader"
+        "Start",
+        "CEO",
+        "APTS",
+        "Office"
       ]
     },
     {
-      "blanked": "Roger Federer's wife leaves tennis great laughing, crying with ______ of Fame speech",
-      "answer": "Hall",
+      "blanked": "Tilak Varma in India’s ______ World Cup plans as selectors seek Shreyas Iyer backup",
+      "answer": "ODI",
       "options": [
-        "Yadav",
-        "Partons",
-        "Hall",
-        "Varma"
+        "ODI",
+        "Think",
+        "Buried",
+        "Federers"
+      ]
+    },
+    {
+      "blanked": "Tech wrap week: From ______ Galaxy S26 FE to AI-powered laptops, here’s what’s new",
+      "answer": "Samsung",
+      "options": [
+        "Samsung",
+        "Cancer",
+        "Shows",
+        "Yash"
       ]
     },
     {
       "blanked": "How space traffic management can save our satellites (Reader ______",
       "answer": "Forum",
       "options": [
-        "Surge",
-        "India",
-        "Rockstar",
-        "Forum"
-      ]
-    },
-    {
-      "blanked": "Kumaraswamy demands resignation of Priyank ______ for alleged lapses in RDPR appointments",
-      "answer": "Kharge",
-      "options": [
-        "Canara",
-        "Roman",
-        "Kharge",
-        "Mukesh"
-      ]
-    },
-    {
-      "blanked": "\"You Think You Are A Lord?\" Bombay High Court Slams FDA Officer Over Suspension Of ______ Of Mumbai...",
-      "answer": "Eateries",
-      "options": [
-        "Reader",
-        "Eateries",
-        "Modi",
-        "Length"
-      ]
-    },
-    {
-      "blanked": "Samay ______ in soup again over remarks on people from Bihar, Kashmiri Pandits: 'They get publicity for fr",
-      "answer": "Raina",
-      "options": [
-        "Friday",
-        "Raina",
-        "Nepal",
-        "Indians"
-      ]
-    },
-    {
-      "blanked": "'Toxic' box office collections day 4: Yash, Nayanthara, ______ Advani starrer records 9.9% drop; worldwide",
-      "answer": "Kiara",
-      "options": [
-        "Hindus",
-        "Residential",
-        "Shreyas",
-        "Kiara"
-      ]
-    },
-    {
-      "blanked": "HDFC CEO Sashidhar Jagdishan Not Seeking Extension, To Retire On ______ 26",
-      "answer": "October",
-      "options": [
-        "SCO",
-        "Price",
-        "400",
-        "October"
+        "Forum",
+        "Subhash",
+        "Rap",
+        "You"
       ]
     },
     {
       "blanked": "PM Modi lands in Uzbekistan on two-nation visit, SCO summit; President Shavkat Mirziyoyev receives him | India ______",
       "answer": "News",
       "options": [
-        "Flood",
+        "Suns",
         "News",
-        "Varma",
-        "Pandits"
+        "Where",
+        "Has"
       ]
     },
     {
-      "blanked": "'Hanuman ______ box office collection: From Rs 10 lakh on day 1 to Rs 27 crore in 23 days, word of mouth t",
-      "answer": "Ansh",
+      "blanked": "Samay Raina in soup again over remarks on people from Bihar, Kashmiri Pandits: ______ get publicity for fr",
+      "answer": "They",
       "options": [
-        "Highly-Anticipated",
-        "Ansh",
-        "Telomere",
-        "Where"
+        "They",
+        "Live",
+        "Bihar",
+        "Burden"
+      ]
+    },
+    {
+      "blanked": "\"You Think ______ Are A Lord?\" Bombay High Court Slams FDA Officer Over Suspension Of Eateries Of Mumbai...",
+      "answer": "You",
+      "options": [
+        "Chased",
+        "You",
+        "300000",
+        "Friday"
+      ]
+    },
+    {
+      "blanked": "Trump's 'Lake America' name change sparks 'Donald Ducks' memes on social media | ______ Times",
+      "answer": "Hindustan",
+      "options": [
+        "Mohan",
+        "Sanju",
+        "AI-powered",
+        "Hindustan"
       ]
     }
   ]
