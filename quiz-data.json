@@ -1,143 +1,73 @@
 {
-  "generatedAt": "2026-08-30T17:03:31.010Z",
+  "generatedAt": "2026-08-30T17:18:19.780Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "Submerged In Debris: NDTV Ground Report From Nepal's Worst Flood-Hit District",
-    "PM Modi conferred with Uzbekistan's prestigious ‘Oliy Darajali Do'stlik’ Order",
+    "Nepal flash floods LIVE: Death toll reaches 781; rescuers drill through debris towards trapped tunnel workers",
+    "\"Overwhelmed By The Warmth\": PM Modi Receives Grand Welcome In Uzbekistan",
     "Himachal identifies 67 vulnerable glacial lakes, early warning systems planned for 4",
-    "UP man rapes girlfriend, kills her after taking sexual stimulant drug at hotel on his birthday",
     "Iran’s Khamenei calls for Gulf unity as Hormuz tensions persist",
     "Russia bids Rs 50,000 crore for 5 more S-400 squadrons to boost India’s air defence",
-    "India becomes key petrol supplier to Russia amid attacks on refineries, fuel shortages",
-    "Bengaluru Techie Dead, Friend Hurt As Both Fall From 7th Floor After Dispute",
-    "Salary deductions for Odisha government employees defaulting on alimony",
     "Mann Ki Baat: PM Modi praises Mumbai man for creating specialised website to know India's history",
+    "India becomes key petrol supplier to Russia amid attacks on refineries, fuel shortages",
+    "New J&K Terror Tactic: Pornography Apps, Tor Network Used For Secret Messaging",
+    "Bengaluru Techie Dead, Friend Hurt As Both Fall From 7th Floor After Dispute",
+    "‘They should listen to Mohan Bhagwat’: CJP's Abhijeet Dipke says BJP in power because of RSS | India News",
     "7 dead, 172 rescued after ferry carrying 270 capsizes off North Cyprus, ‘completely’ sinks | World News",
     "Trump wants 'Lake America'. Canada puts up a 24-foot sign saying otherwise",
+    "One dead, 5 injured in shooting at Switzerland rave party; hunt on for gunman",
     "\"Where To Kill Barron\": Iran Puts Rs 95 Crore Bounty On Trump's Son",
-    "Trump hails ‘biggest oil deal’ with Venezuela, US to gain control over 65 billion barrels",
     "India's HDFC Bank weighing deputy MD Bharucha, outsider for CEO, sources say",
     "Subhash Chandra insolvency: Why are creditors set to recover only ₹6.5 crore against ₹22,006 crore claims?",
-    "Apple Watch To Vision Pro: Tim Cook's Five Greatest Product Hits That Redefined Apple",
+    "Ex-MP Kirit Somaiya seeks probe into Sensex’s wild swings on Aug 27, calls for explanation from policy...",
     "Bira 91 faces insolvency push as HNGIL seeks Rs 11.8 crore",
     "iPhone 18 launch: Release date, expected price in India",
-    "GTA VI: 6 Cool Features You May Have Missed In Rockstar Games’ Highly-Anticipated Release",
-    "‘Antivirus Is Turned Off’: Microsoft confirms windows update is triggering false alerts",
+    "GTA 6 Extended Look Reveals Jason, Lucia And Leonida Gameplay",
     "Deals: iPhone 17 lineup discounted, Galaxy S26 and Xiaomi 17 on sale - GSMArena.com news",
+    "Windows 11 is warning people that Defender Antivirus has been turned off, but don't worry, says Microsoft",
     "Toxic Box Office Collections: Yash starrer continues to slip, tops Rs. 200 Cr in India on 4th day",
-    "Sonam Wangchuk's witty response to Aamir Khan denying his '3 Idiots' character was based on him: 'Kyunki",
-    "Captain India: Bhushan Kumar film starring Kartik Aaryan to go on floors in London on September 1"
+    "Academy shares Deepika Padukone and Ranbir Kapoor's 'Yeh Jawaani Hai Deewani' scene; Naina-Bunny NOSTALGI",
+    "'Maybe He Had Short-Term Memory Loss': Sonam Wangchuk's Cheeky Reply To Aamir Khan's We Never Met' Claim"
   ],
   "quiz": [
     {
-      "blanked": "A ______ physicist proposed a way to create quantum images 20 years ago; after two decades waiting for e",
-      "answer": "Chicago",
+      "blanked": "‘They should listen to Mohan ______ CJP's Abhijeet Dipke says BJP in power because of RSS | India News",
+      "answer": "Bhagwat",
       "options": [
-        "Chicago",
-        "Highly-Anticipated",
-        "Floor",
-        "Son"
+        "Health",
+        "6.5",
+        "Bhagwat",
+        "200"
       ]
     },
     {
-      "blanked": "Salary deductions for ______ government employees defaulting on alimony",
-      "answer": "Odisha",
+      "blanked": "\"Where To Kill Barron\": ______ Puts Rs 95 Crore Bounty On Trump's Son",
+      "answer": "Iran",
       "options": [
-        "Odisha",
-        "Release",
-        "Turned",
-        "Divyenndu"
+        "172",
+        "Iran",
+        "Box",
+        "Infarction"
       ]
     },
     {
-      "blanked": "Duleep Trophy: North ______ fold for 195 on opening day",
-      "answer": "Zone",
+      "blanked": "'Maybe He ______ Short-Term Memory Loss': Sonam Wangchuk's Cheeky Reply To Aamir Khan's We Never Met' Claim",
+      "answer": "Had",
       "options": [
-        "Zone",
-        "Ageing",
-        "Uzbekistans",
-        "Watch"
+        "Baat",
+        "Had",
+        "Trophy",
+        "Foundation"
       ]
     },
     {
-      "blanked": "Russia bids Rs ______ crore for 5 more S-400 squadrons to boost India’s air defence",
-      "answer": "50000",
+      "blanked": "Iran’s Khamenei calls for ______ unity as Hormuz tensions persist",
+      "answer": "Gulf",
       "options": [
-        "Microsoft",
-        "Ageing",
-        "50000",
-        "Five"
-      ]
-    },
-    {
-      "blanked": "iPhone 18 launch: Release date, expected price in ______",
-      "answer": "India",
-      "options": [
-        "195",
-        "Puts",
-        "Indias",
-        "India"
-      ]
-    },
-    {
-      "blanked": "\"Where To Kill Barron\": Iran Puts Rs 95 ______ Bounty On Trump's Son",
-      "answer": "Crore",
-      "options": [
-        "Khamenei",
-        "Phase",
-        "Uzbekistans",
-        "Crore"
-      ]
-    },
-    {
-      "blanked": "Auqib ______ to play three County Championship games for Surrey",
-      "answer": "Nabi",
-      "options": [
-        "22006",
-        "Nabi",
-        "Begins",
-        "Cyprus"
-      ]
-    },
-    {
-      "blanked": "‘Mirzapur: The Movie’ character guide: Ali Fazal’s ______ faces Pankaj Tripathi’s Kaleen Bhaiya; Divyenndu",
-      "answer": "Guddu",
-      "options": [
-        "Guddu",
-        "97%",
-        "Friend",
-        "Greatest"
-      ]
-    },
-    {
-      "blanked": "Trump wants 'Lake America'. ______ puts up a 24-foot sign saying otherwise",
-      "answer": "Canada",
-      "options": [
-        "Tripathis",
-        "Evolving",
-        "Canada",
-        "Iran"
-      ]
-    },
-    {
-      "blanked": "PM Modi conferred with Uzbekistan's prestigious ______ Darajali Do'stlik’ Order",
-      "answer": "Oliy",
-      "options": [
-        "Aamir",
-        "Phase",
-        "Oliy",
-        "Indias"
-      ]
-    },
-    {
-      "blanked": "Roman Telescope Begins Quest to Reveal Evolving ______",
-      "answer": "Universe",
-      "options": [
-        "2026",
-        "Today",
-        "Universe",
-        "Khamenei"
+        "Clocks",
+        "Grand",
+        "Gulf",
+        "Bharucha"
       ]
     },
     {
@@ -145,9 +75,79 @@
       "answer": "India",
       "options": [
         "India",
-        "Fall",
-        "Barron",
-        "Tim"
+        "Antivirus",
+        "Release",
+        "Today"
+      ]
+    },
+    {
+      "blanked": "Epigenetic Clocks Reveal ______ Colon Ageing",
+      "answer": "Disease-Driven",
+      "options": [
+        "Disease-Driven",
+        "Hormuz",
+        "Zone",
+        "Concern"
+      ]
+    },
+    {
+      "blanked": "Moon ______ Today, August 29, 2026: Waning Gibbous at 97% After the Sturgeon Moon Eclipse",
+      "answer": "Phase",
+      "options": [
+        "Kill",
+        "Phase",
+        "Allergy",
+        "Bounty"
+      ]
+    },
+    {
+      "blanked": "Bira 91 faces insolvency push as HNGIL seeks Rs ______ crore",
+      "answer": "11.8",
+      "options": [
+        "Trumps",
+        "Leonida",
+        "Kapoors",
+        "11.8"
+      ]
+    },
+    {
+      "blanked": "Subhash Chandra insolvency: Why are creditors set to recover only ______ crore against ₹22,006 crore claims?",
+      "answer": "6.5",
+      "options": [
+        "97%",
+        "Yash",
+        "Why",
+        "6.5"
+      ]
+    },
+    {
+      "blanked": "iPhone 18 launch: ______ date, expected price in India",
+      "answer": "Release",
+      "options": [
+        "Somaiya",
+        "Reveal",
+        "Release",
+        "Allergy"
+      ]
+    },
+    {
+      "blanked": "Toxic Box Office Collections: Yash starrer continues to slip, tops Rs. 200 Cr in ______ on 4th day",
+      "answer": "India",
+      "options": [
+        "Jason",
+        "Santoshi",
+        "Bank",
+        "India"
+      ]
+    },
+    {
+      "blanked": "India's HDFC Bank weighing deputy MD Bharucha, outsider for ______ sources say",
+      "answer": "CEO",
+      "options": [
+        "Bank",
+        "HNGIL",
+        "CEO",
+        "Puts"
       ]
     }
   ]
