@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-30T16:33:23.430Z",
+  "generatedAt": "2026-08-30T16:48:25.606Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "Nepal flash floods LIVE: Death toll reaches 781; rescuers drill through debris towards trapped tunnel workers",
-    "India, Uzbekistan seal long-term uranium supply deal during PM Modi visit",
-    "Before The Nepal Flood, A Glacial Fall: Tracing The Trigger, And A 100-km Killer Surge",
+    "Over 700 Dead, More Than 3,000 Missing: What We Know Of Nepal Flood Aftermath",
+    "PM Modi conferred with Uzbekistan's prestigious ‘Oliy Darajali Do'stlik’ Order",
+    "Himachal identifies 67 vulnerable glacial lakes, early warning systems planned for 4",
+    "UP man rapes girlfriend, kills her after taking sexual stimulant drug at hotel on his birthday",
     "Iran’s Khamenei calls for Gulf unity as Hormuz tensions persist",
-    "Turkey, Saudi Arabia, Pakistan to hold first defence pact meeting, source says",
-    "Mann Ki Baat: PM Modi praises Mumbai man for creating specialised website to know India's history",
+    "How a Nepali teacher's quick thinking saved 1,643 children from monster floods",
     "India becomes key petrol supplier to Russia amid attacks on refineries, fuel shortages",
-    "New J&K Terror Tactic: Pornography Apps, Tor Network Used For Secret Messaging",
+    "Bengaluru Techie Dead, Friend Hurt As Both Fall From 7th Floor After Dispute",
     "Salary deductions for Odisha government employees defaulting on alimony",
     "Students Cannot Be Punished For Asking Questions; Intolerance Is At Odds With Constitution: Justice Ujjal ...",
     "7 dead, 172 rescued after ferry carrying 270 capsizes off North Cyprus, ‘completely’ sinks | World News",
-    "Trump wants 'Lake America'. Canada puts up a 24-foot sign saying otherwise",
     "US-Venezuela energy pact: What we know about Trump’s ‘biggest oil deal in world history’",
+    "Canada Leader Answers Trump's \"Lake America\" With Giant \"Lake Ontario\" Sign",
     "One dead, 5 injured in shooting at Switzerland rave party; hunt on for gunman",
     "India's HDFC Bank weighing deputy MD Bharucha, outsider for CEO, sources say",
     "Subhash Chandra insolvency: Why are creditors set to recover only ₹6.5 crore against ₹22,006 crore claims?",
-    "Ex-MP Kirit Somaiya seeks probe into Sensex’s wild swings on Aug 27, calls for explanation from policy...",
     "Apple Watch To Vision Pro: Tim Cook's Five Greatest Product Hits That Redefined Apple",
+    "Bira 91 faces insolvency push as HNGIL seeks Rs 11.8 crore",
     "iPhone 18 launch: Release date, expected price in India",
     "GTA 6 Extended Look Reveals Jason, Lucia And Leonida Gameplay",
-    "2026’s Best Phone For Battery Life Is A Surprise",
-    "You might soon be able to control Nanoleaf lights via the Philips Hue app according to this latest leak",
+    "Deals: iPhone 17 lineup discounted, Galaxy S26 and Xiaomi 17 on sale - GSMArena.com news",
+    "Windows 11 is warning people that Defender Antivirus has been turned off, but don't worry, says Microsoft",
     "Toxic Box Office Collections: Yash starrer continues to slip, tops Rs. 200 Cr in India on 4th day",
-    "Sonam Wangchuk's witty response to Aamir Khan denying his '3 Idiots' character was based on him: 'Kyunki",
-    "Captain India: Bhushan Kumar film starring Kartik Aaryan to go on floors in London on September 1"
+    "Academy shares Deepika Padukone and Ranbir Kapoor's 'Yeh Jawaani Hai Deewani' scene; Naina-Bunny NOSTALGI",
+    "'Maybe He Had Short-Term Memory Loss': Sonam Wangchuk's Cheeky Reply To Aamir Khan's We Never Met' Claim"
   ],
   "quiz": [
     {
-      "blanked": "Official: Chelsea sign ______ Martínez from Aston Villa",
-      "answer": "Emiliano",
+      "blanked": "How a ______ teacher's quick thinking saved 1,643 children from monster floods",
+      "answer": "Nepali",
       "options": [
-        "Khan",
-        "Evolving",
-        "Baat",
-        "Emiliano"
+        "Nepali",
+        "America",
+        "Floor",
+        "Clocks"
+      ]
+    },
+    {
+      "blanked": "Windows 11 is warning people that Defender Antivirus has been turned off, but don't worry, says ______",
+      "answer": "Microsoft",
+      "options": [
+        "More",
+        "Microsoft",
+        "Lake",
+        "Product"
+      ]
+    },
+    {
+      "blanked": "Natural living is the Foundation of Good Health: Dr Manthena Satyanarayana ______ renowned Naturopathy expert",
+      "answer": "Raju",
+      "options": [
+        "Apple",
+        "North",
+        "Bhushan",
+        "Raju"
       ]
     },
     {
       "blanked": "New study captures ______ early warning signs before solar flares",
       "answer": "Suns",
       "options": [
-        "Quest",
+        "Never",
+        "Know",
         "Suns",
-        "2026",
-        "Khamenei"
+        "6.5"
       ]
     },
     {
-      "blanked": "Moon Phase Today, August 29, 2026: Waning ______ at 97% After the Sturgeon Moon Eclipse",
-      "answer": "Gibbous",
+      "blanked": "Iran’s Khamenei calls for ______ unity as Hormuz tensions persist",
+      "answer": "Gulf",
       "options": [
-        "781",
-        "Gibbous",
-        "Life",
-        "CEO"
-      ]
-    },
-    {
-      "blanked": "Formaldehyde ______ Allergy Remains a Global Concern",
-      "answer": "Contact",
-      "options": [
-        "Health",
-        "Cooks",
-        "Martnez",
-        "Contact"
-      ]
-    },
-    {
-      "blanked": "Natural ______ Key To Holistic Health: Dr Manthena",
-      "answer": "Lifestyle",
-      "options": [
-        "Lake",
-        "Khamenei",
-        "Asking",
-        "Lifestyle"
-      ]
-    },
-    {
-      "blanked": "India, ______ seal long-term uranium supply deal during PM Modi visit",
-      "answer": "Uzbekistan",
-      "options": [
-        "Product",
-        "Secret",
-        "Uzbekistan",
-        "Jason"
-      ]
-    },
-    {
-      "blanked": "GTA 6 Extended Look Reveals ______ Lucia And Leonida Gameplay",
-      "answer": "Jason",
-      "options": [
-        "Jason",
-        "Five",
-        "Used",
-        "Nanoleaf"
-      ]
-    },
-    {
-      "blanked": "Emotional Roger Federer ______ Into Tennis Hall Of Fame",
-      "answer": "Inducted",
-      "options": [
-        "Punished",
-        "Sturgeon",
-        "Inducted",
+        "Gulf",
+        "Good",
+        "1643",
         "Trophy"
       ]
     },
     {
-      "blanked": "Trump wants 'Lake America'. ______ puts up a 24-foot sign saying otherwise",
-      "answer": "Canada",
+      "blanked": "Salary deductions for ______ government employees defaulting on alimony",
+      "answer": "Odisha",
       "options": [
-        "Emiliano",
-        "Phone",
-        "Intolerance",
-        "Canada"
+        "Never",
+        "Federer",
+        "Khamenei",
+        "Odisha"
       ]
     },
     {
-      "blanked": "Turkey, Saudi ______ Pakistan to hold first defence pact meeting, source says",
-      "answer": "Arabia",
+      "blanked": "Bira 91 faces insolvency push as HNGIL seeks Rs ______ crore",
+      "answer": "11.8",
       "options": [
-        "Bhaiya",
-        "Chelsea",
-        "Bhushan",
-        "Arabia"
-      ]
-    },
-    {
-      "blanked": "2026’s Best Phone For Battery Life Is A ______",
-      "answer": "Surprise",
-      "options": [
-        "Surprise",
-        "Pro",
-        "Russia",
-        "Movie"
+        "Dispute",
+        "Uzbekistans",
+        "11.8",
+        "Cheeky"
       ]
     },
     {
       "blanked": "India becomes key petrol supplier to ______ amid attacks on refineries, fuel shortages",
       "answer": "Russia",
       "options": [
-        "Kirit",
-        "Manthena",
-        "Pornography",
-        "Russia"
+        "Fall",
+        "22006",
+        "Russia",
+        "Nepali"
+      ]
+    },
+    {
+      "blanked": "Epigenetic Clocks Reveal Disease-Driven Colon ______",
+      "answer": "Ageing",
+      "options": [
+        "Ageing",
+        "Chandra",
+        "Ranbir",
+        "Bhushan"
+      ]
+    },
+    {
+      "blanked": "A ______ physicist proposed a way to create quantum images 20 years ago; after two decades waiting for e",
+      "answer": "Chicago",
+      "options": [
+        "Chicago",
+        "NOSTALGI",
+        "97%",
+        "CEO"
+      ]
+    },
+    {
+      "blanked": "Students Cannot Be Punished For Asking Questions; Intolerance Is At Odds With ______ Justice Ujjal ...",
+      "answer": "Constitution",
+      "options": [
+        "Constitution",
+        "Antivirus",
+        "Waning",
+        "Clocks"
+      ]
+    },
+    {
+      "blanked": "Bengaluru ______ Dead, Friend Hurt As Both Fall From 7th Floor After Dispute",
+      "answer": "Techie",
+      "options": [
+        "Techie",
+        "Yeh",
+        "Ontario",
+        "Remains"
       ]
     }
   ]
