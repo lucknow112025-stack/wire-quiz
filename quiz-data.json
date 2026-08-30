@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-30T17:48:16.526Z",
+  "generatedAt": "2026-08-30T18:03:30.169Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
     "PM Modi conferred with Uzbekistan's prestigious ‘Oliy Darajali Do'stlik’ Order",
     "Himachal identifies 67 vulnerable glacial lakes, early warning systems planned for 4",
-    "Iran’s Khamenei calls for Gulf unity as Hormuz tensions persist",
     "H-4 EAD: What the latest US move means for Indian spouses of H-1Bs and why there is no need to panic yet",
-    "Over 700 Dead, More Than 3,000 Missing: What We Know Of Nepal Flood Aftermath",
-    "Russia submits proposal in response to Indian tender for 5 more S-400 'Sudarshan' units",
+    "Rescuers battle floods and debris as Himalayan disaster death toll nears 800",
+    "Iran’s Khamenei calls for Gulf unity as Hormuz tensions persist",
+    "UP man rapes girlfriend, kills her after taking sexual stimulant drug at hotel on his birthday",
     "India becomes key petrol supplier to Russia amid attacks on refineries, fuel shortages",
-    "‘She Was Talking On Phone’: Eyewitness Recounts Moment Gym Trainer Ran Car Over 8-Year-Old Boy In Mumbai",
-    "New J&K terror tactic: Handlers turn to porn sites, encrypted apps to contact recruits",
-    "Salary deductions for Odisha government employees defaulting on alimony",
-    "Nepal floods LIVE: Toll rises to 800; over 3,000 still missing in Nepal and Tibet | Hindustan Times",
+    "‘Excessive speed’: 8-year-old boy killed as woman driver on phone runs him over in Mumbai; arrested",
+    "'BJP thinks it is bigger than RSS, it should listen to Mohan Bhagwat': CJP leader Abhijeet Dipke",
+    "New J&K Terror Tactic: Pornography Apps, Tor Network Used For Secret Messaging",
     "7 dead, 172 rescued after ferry carrying 270 capsizes off North Cyprus, ‘completely’ sinks | World News",
+    "Nepal floods LIVE: 800 killed in Nepal floods; 32 injured as bus crashes in Nawalparasi | Hindustan Times",
+    "Iceland Set to Reject EU Entry Talks in Tight Referendum",
     "US-Venezuela energy pact: What we know about Trump’s ‘biggest oil deal in world history’",
-    "'We're alive': Kyiv-area survivor recalls Russian strike that killed 38",
     "India's HDFC Bank weighing deputy MD Bharucha, outsider for CEO, sources say",
+    "India’s GDP growth likely to stay strong at 7-7.2% in FY27 despite global risks: Report",
     "Subhash Chandra insolvency: Why are creditors set to recover only ₹6.5 crore against ₹22,006 crore claims?",
-    "Ex-MP Kirit Somaiya seeks probe into Sensex’s wild swings on Aug 27, calls for explanation from policy...",
-    "Bira 91 faces insolvency push as HNGIL seeks Rs 11.8 crore",
+    "Apple Watch To Vision Pro: Tim Cook's Five Greatest Product Hits That Redefined Apple",
     "iPhone 18 launch: Release date, expected price in India",
     "GTA 6 Extended Look Reveals Jason, Lucia And Leonida Gameplay",
-    "Deals: iPhone 17 lineup discounted, Galaxy S26 and Xiaomi 17 on sale - GSMArena.com news",
-    "Windows 11 is warning people that Defender Antivirus has been turned off, but don't worry, says Microsoft",
+    "Weekly poll results: the Honor Robot Phone draws in a crowd with its camera capabilities",
+    "iPhone 17 Pro Max Price Slashed Worldwide Before iPhone 18 Launch",
     "Toxic Box Office Collections: Yash starrer continues to slip, tops Rs. 200 Cr in India on 4th day",
-    "Academy shares Deepika Padukone and Ranbir Kapoor's 'Yeh Jawaani Hai Deewani' scene; Naina-Bunny NOSTALGI",
-    "'Short-term memory loss hua hoga': Sonam Wangchuk mocks Aamir Khan's ‘we never met before 3 Idiots' claim | Bollywood"
+    "Sonam Wangchuk's witty response to Aamir Khan denying his '3 Idiots' character was based on him: 'Kyunki",
+    "‘Mirzapur: The Movie’ gets CBFC certificate; Ali Fazal-Pankaj Tripathi starrer clocks 3 hours 17 minutes"
   ],
   "quiz": [
     {
-      "blanked": "PM Modi conferred with Uzbekistan's prestigious ______ Darajali Do'stlik’ Order",
-      "answer": "Oliy",
+      "blanked": "Toxic Box ______ Collections: Yash starrer continues to slip, tops Rs. 200 Cr in India on 4th day",
+      "answer": "Office",
       "options": [
-        "Oliy",
-        "Colon",
-        "Trumps",
-        "Gibbous"
+        "World",
+        "GDP",
+        "Office",
+        "Box"
       ]
     },
     {
-      "blanked": "'We're alive': Kyiv-area survivor recalls ______ strike that killed 38",
-      "answer": "Russian",
+      "blanked": "Nepal floods LIVE: 800 killed in Nepal floods; 32 injured as bus crashes in Nawalparasi | ______ Times",
+      "answer": "Hindustan",
       "options": [
-        "Contact",
-        "Idiots",
-        "Kirit",
-        "Russian"
+        "Khan",
+        "195",
+        "Hindustan",
+        "Box"
       ]
     },
     {
-      "blanked": "Emotional Roger Federer ______ Into Tennis Hall Of Fame",
-      "answer": "Inducted",
+      "blanked": "Moon ______ Today, August 29, 2026: Waning Gibbous at 97% After the Sturgeon Moon Eclipse",
+      "answer": "Phase",
       "options": [
+        "Phase",
+        "Box",
+        "Apple",
+        "Secret"
+      ]
+    },
+    {
+      "blanked": "Subhash Chandra insolvency: Why are creditors set to recover only ______ crore against ₹22,006 crore claims?",
+      "answer": "6.5",
+      "options": [
+        "Cooks",
+        "Apple",
+        "6.5",
+        "Bhagwat"
+      ]
+    },
+    {
+      "blanked": "Duleep Trophy: North Zone fold for ______ on opening day",
+      "answer": "195",
+      "options": [
+        "195",
+        "HDFC",
         "EAD",
-        "Release",
-        "Phone",
-        "Inducted"
+        "Phone"
       ]
     },
     {
-      "blanked": "‘She Was Talking On Phone’: Eyewitness Recounts ______ Gym Trainer Ran Car Over 8-Year-Old Boy In Mumbai",
-      "answer": "Moment",
+      "blanked": "iPhone 17 ______ Max Price Slashed Worldwide Before iPhone 18 Launch",
+      "answer": "Pro",
       "options": [
-        "Zone",
-        "Odisha",
-        "Moment",
-        "ESC"
+        "Pro",
+        "Hits",
+        "Phone",
+        "Trumps"
+      ]
+    },
+    {
+      "blanked": "India becomes key petrol supplier to ______ amid attacks on refineries, fuel shortages",
+      "answer": "Russia",
+      "options": [
+        "Bank",
+        "Russia",
+        "Colon",
+        "Tripathi"
+      ]
+    },
+    {
+      "blanked": "US-Venezuela energy pact: ______ we know about Trump’s ‘biggest oil deal in world history’",
+      "answer": "What",
+      "options": [
+        "Womens",
+        "Hormuz",
+        "What",
+        "Roman"
       ]
     },
     {
       "blanked": "iPhone 18 launch: Release date, expected price in ______",
       "answer": "India",
       "options": [
-        "Infarction",
-        "Tibet",
         "India",
+        "Tim",
+        "Global",
+        "Product"
+      ]
+    },
+    {
+      "blanked": "'BJP thinks it is bigger than RSS, it should listen to ______ Bhagwat': CJP leader Abhijeet Dipke",
+      "answer": "Mohan",
+      "options": [
+        "Robot",
+        "Disease-Driven",
+        "North",
+        "Mohan"
+      ]
+    },
+    {
+      "blanked": "A ______ physicist proposed a way to create quantum images 20 years ago; after two decades waiting for e",
+      "answer": "Chicago",
+      "options": [
+        "Reject",
+        "North",
+        "Chicago",
+        "Himalayan"
+      ]
+    },
+    {
+      "blanked": "NASA launches $4.3bn Roman ______ to uncover universe’s hidden secrets",
+      "answer": "Telescope",
+      "options": [
+        "Telescope",
+        "Hits",
+        "Price",
         "Simplifies"
-      ]
-    },
-    {
-      "blanked": "Subhash Chandra insolvency: ______ are creditors set to recover only ₹6.5 crore against ₹22,006 crore claims?",
-      "answer": "Why",
-      "options": [
-        "Modi",
-        "EAD",
-        "CBFC",
-        "Why"
-      ]
-    },
-    {
-      "blanked": "Auqib Nabi to play three County Championship games for ______",
-      "answer": "Surrey",
-      "options": [
-        "Order",
-        "Surrey",
-        "Yeh",
-        "Sudarshan"
-      ]
-    },
-    {
-      "blanked": "GTA 6 Extended Look Reveals Jason, Lucia And Leonida ______",
-      "answer": "Gameplay",
-      "options": [
-        "172",
-        "Moment",
-        "Gameplay",
-        "Telescope"
-      ]
-    },
-    {
-      "blanked": "Deals: iPhone 17 lineup discounted, ______ S26 and Xiaomi 17 on sale - GSMArena.com news",
-      "answer": "Galaxy",
-      "options": [
-        "NASA",
-        "Surrey",
-        "Galaxy",
-        "County"
-      ]
-    },
-    {
-      "blanked": "Salary deductions for ______ government employees defaulting on alimony",
-      "answer": "Odisha",
-      "options": [
-        "News",
-        "Hormuz",
-        "Eyewitness",
-        "Odisha"
-      ]
-    },
-    {
-      "blanked": "Iran’s ______ calls for Gulf unity as Hormuz tensions persist",
-      "answer": "Khamenei",
-      "options": [
-        "Odisha",
-        "Khamenei",
-        "Phase",
-        "Than"
-      ]
-    },
-    {
-      "blanked": "'Short-term memory loss hua hoga': Sonam Wangchuk mocks Aamir Khan's ‘we never met before 3 Idiots' claim | ______",
-      "answer": "Bollywood",
-      "options": [
-        "Bollywood",
-        "Surrey",
-        "Naina-Bunny",
-        "Boy"
       ]
     }
   ]
