@@ -1,26 +1,26 @@
 {
-  "generatedAt": "2026-08-30T08:33:25.202Z",
+  "generatedAt": "2026-08-30T08:48:23.442Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
     "Nepal flash floods LIVE: Nepal flood death toll rises to 734, disaster authority says",
     "If Hindus think Muslims have no place, they cease to be Hindu: Mohan Bhagwat in New York",
     "Venezuela says it retains ‘sovereignty’ following US oil deal",
-    "Assaulted, Tied To Tree, Burned: Punjab Influencer Dies After 2-Month Battle",
-    "\"You Think You Are A Lord?\" Bombay High Court Slams FDA Officer Over Suspension Of Eateries Of Mumbai...",
+    "\"Do You Feel You Are A Lord?\" High Court Pulls Up Tukaram Mundhe's Food Safety Body",
+    "Iran's president says US peace MoU serves Iran, region and world",
     "PM Modi lands in Uzbekistan on two-nation visit; President Shavkat Mirziyoyev receives him | India News",
     "Greater Noida rape-murder main accused shot dead in police encounter while recreating crime scene | Hindustan Times",
-    "UP shocker: Man throws acid on ex-fiancee, her sister after marriage called off",
     "BJP brainstorming on Gen Z outreach concludes cohort is not ‘homogenous’",
-    "Saree became lifeline for 21 Tamil Nadu pilgrims in Nepal flood escape",
+    "Ministers Chirag Paswan, Jitan Manjhi Clash Over Quota, Demand Resignations",
+    "Nitin Nabin pulls up 3 BJP MPs over Sajjan Kumar condolence visit",
     "1 Dead, 5 Injured In Shooting Near Rave Attended By 3,500 In Switzerland",
+    "No surrender, no dissent: How six months of war hardened Iran’s leadership",
     "How a Nepali teacher's quick thinking saved 1,643 children from monster floods",
-    "Trump Renames Lake Ontario As 'Lake America', Canada's Mark Carney Responds",
-    "Canada To Impose Up To 50% Tariffs On 700 US Goods As Trade War Escalates",
+    "Vote count under way in Iceland’s knife-edge EU referendum",
     "HDFC Bank CEO Jagdishan to step down, decides not to seek reappointment",
     "Sony and Warner Music Sue Anthropic, Alleging Theft of Intellectual Property",
-    "Day traders are abandoning Korean chip leveraged ETFs in droves",
-    "5 Small Cap Stocks With High Reserves and Low Debt-to-Equity Ratios to Look Out For",
+    "‘Flash Crash’ Hits Sensex Index During Unpopular Closing Auction",
+    "After Supreme Court Rap, FSSAI Proposes Pictorial Front-of-Pack Warning Labels For Packaged Foods High In ...",
     "GTA 6 Extended Look Reveals Jason, Lucia And Leonida Gameplay",
     "Here's when the iPhone 18 Pro and iPhone 18 Pro Max are rumored to go on pre-order - GSMArena.com news",
     "Deals: the Galaxy S26 FE is coming, Galaxy S26 series on sale, Nothing Phone (3) also discounted - GSMArena.com news",
@@ -31,123 +31,123 @@
   ],
   "quiz": [
     {
-      "blanked": "Trump Renames Lake Ontario As 'Lake America', Canada's Mark Carney ______",
-      "answer": "Responds",
+      "blanked": "GTA 6 Extended Look Reveals Jason, ______ And Leonida Gameplay",
+      "answer": "Lucia",
       "options": [
-        "Forum",
-        "Responds",
-        "Hindus",
-        "Nothing"
+        "Lucia",
+        "Paswan",
+        "Front-of-Pack",
+        "Jitan"
       ]
     },
     {
-      "blanked": "Imaging Reveals Widespread ______ Atherosclerosis Burden: ESC 2026",
-      "answer": "Silent",
+      "blanked": "No surrender, no dissent: How six months of war hardened ______ leadership",
+      "answer": "Irans",
       "options": [
-        "Burden",
-        "ETFs",
-        "Silent",
-        "Alleging"
+        "Extended",
+        "Irans",
+        "Length",
+        "Scient"
+      ]
+    },
+    {
+      "blanked": "Nepal flash floods LIVE: ______ flood death toll rises to 734, disaster authority says",
+      "answer": "Nepal",
+      "options": [
+        "Nepal",
+        "Collections",
+        "Shreyas",
+        "Irans"
+      ]
+    },
+    {
+      "blanked": "‘Aise bhi log hote hain life mein’: Suryakumar reveals ______ Samson’s incredible response after being dro",
+      "answer": "Sanju",
+      "options": [
+        "Streaming",
+        "Chirag",
+        "FSSAI",
+        "Sanju"
+      ]
+    },
+    {
+      "blanked": "Imaging Reveals ______ Silent Atherosclerosis Burden: ESC 2026",
+      "answer": "Widespread",
+      "options": [
+        "Widespread",
+        "Noida",
+        "Miami",
+        "Inter"
       ]
     },
     {
       "blanked": "Roger ______ wife Mirka leaves tennis great laughing, crying with Hall of Fame speech",
       "answer": "Federers",
       "options": [
-        "Battle",
-        "Tariffs",
         "Federers",
-        "Falcon"
+        "High",
+        "Pulls",
+        "Iyer"
+      ]
+    },
+    {
+      "blanked": "How & Where to ______ Inter Miami vs. CF Montreal? Start Time, Live Streaming and TV Channels",
+      "answer": "Watch",
+      "options": [
+        "Watch",
+        "Demand",
+        "MoU",
+        "Uzbekistan"
+      ]
+    },
+    {
+      "blanked": "After Supreme Court Rap, FSSAI Proposes Pictorial Front-of-Pack Warning ______ For Packaged Foods High In ...",
+      "answer": "Labels",
+      "options": [
+        "Pictorial",
+        "Channels",
+        "Labels",
+        "MPs"
+      ]
+    },
+    {
+      "blanked": "Iran's president says US peace ______ serves Iran, region and world",
+      "answer": "MoU",
+      "options": [
+        "Telescope",
+        "Time",
+        "Roman",
+        "MoU"
+      ]
+    },
+    {
+      "blanked": "1 Dead, 5 Injured In Shooting ______ Rave Attended By 3,500 In Switzerland",
+      "answer": "Near",
+      "options": [
+        "Kudumba",
+        "Kerala",
+        "Near",
+        "Bhagwat"
       ]
     },
     {
       "blanked": "Amid rising swine flu cases, ______ govt asks hospitals to reserve isolation beds",
       "answer": "Delhi",
       "options": [
-        "Cancer",
-        "Officer",
-        "You",
+        "Bhagwat",
+        "Body",
+        "Nepali",
         "Delhi"
       ]
     },
     {
-      "blanked": "Partial Lunar Eclipse Visible Across the ______ Africa and Europe | Vantage",
-      "answer": "Americas",
+      "blanked": "Greater Noida rape-murder main accused shot dead in police encounter while recreating crime scene | ______ Times",
+      "answer": "Hindustan",
       "options": [
-        "Lord",
-        "President",
-        "Times",
-        "Americas"
-      ]
-    },
-    {
-      "blanked": "WWE ______ of Famer involved in a car accident",
-      "answer": "Hall",
-      "options": [
-        "Music",
-        "Small",
-        "Hall",
-        "Fame"
-      ]
-    },
-    {
-      "blanked": "How space traffic management can save our satellites ______ Forum)",
-      "answer": "Reader",
-      "options": [
-        "Falcon",
-        "Reader",
-        "Limited",
-        "Fame"
-      ]
-    },
-    {
-      "blanked": "PM ______ lands in Uzbekistan on two-nation visit; President Shavkat Mirziyoyev receives him | India News",
-      "answer": "Modi",
-      "options": [
-        "Modi",
-        "HPV",
-        "Phone",
-        "Telescope"
-      ]
-    },
-    {
-      "blanked": "Sonam Wangchuk's witty response to ______ Khan denying his '3 Idiots' character was based on him: 'Kyunki",
-      "answer": "Aamir",
-      "options": [
-        "Slams",
-        "9.9%",
-        "Aamir",
-        "Miami"
-      ]
-    },
-    {
-      "blanked": "UP shocker: ______ throws acid on ex-fiancee, her sister after marriage called off",
-      "answer": "Man",
-      "options": [
-        "FDA",
-        "Man",
-        "Nadu",
-        "Visible"
-      ]
-    },
-    {
-      "blanked": "Nancy Grace Roman Telescope live updates: Roman and Falcon ______ delivered to launch pad",
-      "answer": "Heavy",
-      "options": [
-        "Stocks",
-        "Officer",
-        "2026",
-        "Heavy"
-      ]
-    },
-    {
-      "blanked": "Tom Cruise announces ‘Days of Thunder’ sequel with ______ Hathaway in new video",
-      "answer": "Anne",
-      "options": [
-        "Dead",
-        "Anne",
-        "Where",
-        "Visible"
+        "BJP",
+        "Hindustan",
+        "Kerala",
+        "Jason"
       ]
     }
   ]
