@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-08-30T20:18:36.508Z",
+  "generatedAt": "2026-08-30T20:33:29.811Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
     "PM Modi conferred with Uzbekistan's prestigious ‘Oliy Darajali Do'stlik’ Order",
-    "Photos: Nepal issues alerts as region’s flash flood death toll nears 800",
     "Himachal identifies 67 vulnerable glacial lakes, early warning systems planned for 4",
+    "Nepal-China flood disaster: What’s the latest toll, how many are missing?",
     "Iran's Khamenei urges Gulf rulers in written message to confront 'real enemy'",
     "Russia submits proposal in response to Indian tender for 5 more S-400 'Sudarshan' units",
-    "Mann Ki Baat: PM Modi praises Mumbai man for creating specialised website to know India's history",
-    "‘Excessive speed’: 8-year-old boy killed as woman driver on phone runs him over in Mumbai; arrested",
+    "8-year-old boy dies after Mumbai woman, on a phone call, runs speeding SUV over him in Bandra | India News",
     "No Food Discussion, No Fatwas: VHP On Reports Of Satvik Food On Durga Puja",
     "Saved by a tea break, strengthened by a rakhi: 5 Chhattisgarh friends endure Nepal's flood fury",
     "Hundreds attend condolence meet of 1984 riots convict Sajjan Kumar in Delhi",
+    "If Hindus think Muslims have no place, they cease to be Hindu: Mohan Bhagwat in New York",
     "Russia strike on Kyiv ammunition depot kills 38 in year's deadliest attack as Zelenskyy blames officials",
     "At least seven dead after ferry carrying nearly 270 passengers, crew capsizes off northern Cyprus",
     "Iceland Set to Reject EU Entry Talks in Tight Referendum",
@@ -31,123 +31,123 @@
   ],
   "quiz": [
     {
-      "blanked": "Mann Ki ______ PM Modi praises Mumbai man for creating specialised website to know India's history",
-      "answer": "Baat",
+      "blanked": "Moon Phase Today, August 29, 2026: Waning Gibbous at 97% After the Sturgeon ______ Eclipse",
+      "answer": "Moon",
       "options": [
-        "200",
-        "Sajjan",
-        "CEO",
-        "Baat"
+        "Remains",
+        "Moon",
+        "Kyiv",
+        "Set"
       ]
     },
     {
-      "blanked": "At least seven dead after ferry carrying nearly ______ passengers, crew capsizes off northern Cyprus",
-      "answer": "270",
+      "blanked": "Epigenetic ______ Reveal Disease-Driven Colon Ageing",
+      "answer": "Clocks",
       "options": [
-        "Zone",
-        "Tight",
-        "Bank",
-        "270"
+        "Dostlik",
+        "Allergy",
+        "Chicago",
+        "Clocks"
       ]
     },
     {
-      "blanked": "Toxic Box ______ Collections: Yash starrer continues to slip, tops Rs. 200 Cr in India on 4th day",
-      "answer": "Office",
+      "blanked": "8-year-old boy dies after Mumbai woman, on a phone call, runs speeding SUV over him in Bandra | ______ News",
+      "answer": "India",
       "options": [
-        "580",
-        "Office",
-        "Concern",
-        "270"
-      ]
-    },
-    {
-      "blanked": "Spider-Man: Brand New Day India Box ______ Tom Holland starrer holds well on 5th Saturday, nears Rs 580 crore mark",
-      "answer": "Office",
-      "options": [
-        "Office",
-        "Today",
-        "Bharucha",
-        "Slashed"
-      ]
-    },
-    {
-      "blanked": "Man Utd vs ______ player ratings, Fernandes gets first 10/10 but 9/10 star made everything happen",
-      "answer": "Ipswich",
-      "options": [
-        "Nepal",
-        "Launch",
-        "Ipswich",
-        "Reject"
-      ]
-    },
-    {
-      "blanked": "Iran's Khamenei urges ______ rulers in written message to confront 'real enemy'",
-      "answer": "Gulf",
-      "options": [
-        "Down",
         "Jason",
-        "Gulf",
-        "Day"
-      ]
-    },
-    {
-      "blanked": "iPhone 17 Pro Max Price ______ Worldwide Before iPhone 18 Launch",
-      "answer": "Slashed",
-      "options": [
-        "Chandra",
-        "Simplifies",
-        "Slashed",
-        "Contact"
-      ]
-    },
-    {
-      "blanked": "Duleep Trophy: North Zone fold for ______ on opening day",
-      "answer": "195",
-      "options": [
+        "Mumbai",
         "India",
-        "Myocardial",
-        "Yash",
-        "195"
+        "Clocks"
       ]
     },
     {
-      "blanked": "Russia submits proposal in response to Indian tender for 5 more S-400 ______ units",
-      "answer": "Sudarshan",
+      "blanked": "GTA 6 Extended Look ______ Jason, Lucia And Leonida Gameplay",
+      "answer": "Reveals",
       "options": [
-        "Telescope",
-        "Phone",
-        "Sudarshan",
-        "Definition"
+        "Reveals",
+        "Cook",
+        "Worldwide",
+        "Brand"
       ]
     },
     {
-      "blanked": "Subhash Chandra insolvency: Why are creditors set to recover only ₹6.5 crore against ______ crore claims?",
-      "answer": "22006",
+      "blanked": "Spider-Man: Brand New Day India Box Office: Tom Holland starrer holds well on 5th ______ nears Rs 580 crore mark",
+      "answer": "Saturday",
       "options": [
-        "Indias",
-        "Took",
-        "22006",
+        "Whats",
+        "Bharucha",
+        "Saturday",
+        "Honor"
+      ]
+    },
+    {
+      "blanked": "Russia submits proposal in response to ______ tender for 5 more S-400 'Sudarshan' units",
+      "answer": "Indian",
+      "options": [
+        "Whats",
+        "Indian",
+        "Lucia",
         "1984"
       ]
     },
     {
-      "blanked": "Moon Phase ______ August 29, 2026: Waning Gibbous at 97% After the Sturgeon Moon Eclipse",
-      "answer": "Today",
+      "blanked": "Subhash ______ insolvency: Why are creditors set to recover only ₹6.5 crore against ₹22,006 crore claims?",
+      "answer": "Chandra",
       "options": [
-        "Discussion",
-        "Cup",
-        "Colon",
-        "Today"
+        "Chandra",
+        "Look",
+        "Indian",
+        "Price"
       ]
     },
     {
-      "blanked": "Tim Cook Steps Down: How He Took Apple From $350 Billion To $4 ______",
-      "answer": "Trillion",
+      "blanked": "Bira 91 faces insolvency push as HNGIL seeks Rs ______ crore",
+      "answer": "11.8",
       "options": [
-        "580",
-        "Bollywood",
+        "Entry",
+        "Sudarshan",
+        "11.8",
+        "Phone"
+      ]
+    },
+    {
+      "blanked": "iPhone 18 launch: ______ date, expected price in India",
+      "answer": "Release",
+      "options": [
+        "Mumbai",
+        "Worldwide",
+        "Release",
+        "Memory"
+      ]
+    },
+    {
+      "blanked": "A ______ physicist proposed a way to create quantum images 20 years ago; after two decades waiting for e",
+      "answer": "Chicago",
+      "options": [
+        "Max",
+        "Chicago",
         "Honor",
-        "Trillion"
+        "Tom"
+      ]
+    },
+    {
+      "blanked": "New Myocardial Infarction Definition ______ Diagnosis: ESC 2026",
+      "answer": "Simplifies",
+      "options": [
+        "Definition",
+        "Simplifies",
+        "Leonida",
+        "Claim"
+      ]
+    },
+    {
+      "blanked": "Iceland ______ to Reject EU Entry Talks in Tight Referendum",
+      "answer": "Set",
+      "options": [
+        "910",
+        "Set",
+        "Suns",
+        "Look"
       ]
     }
   ]
