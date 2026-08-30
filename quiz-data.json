@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-30T09:18:20.267Z",
+  "generatedAt": "2026-08-30T09:33:33.960Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "Nepal flash floods LIVE: Nepal warns of rising water levels in Bhotekoshi River as combined death toll surges to 750",
-    "\"Any Hindu Who Thinks...\": RSS Chief Mohan Bhagwat On 'What About Muslims' Question In US",
+    "Nepal flash floods LIVE: Nepal flood death toll rises to 734, disaster authority says",
     "Venezuela says it retains ‘sovereignty’ following US oil deal",
-    "\"You Think You Are A Lord?\" Bombay High Court Slams FDA Officer Over Suspension Of Eateries Of Mumbai...",
-    "PM Modi lands in Uzbekistan on two-nation visit; President Shavkat Mirziyoyev receives him | India News",
+    "Punjabi influencer Manjeet Kaur, who died after being 'tied to a tree, burnt alive', was 7 weeks pregnant",
+    "Iran's Khamenei urges Gulf rulers in written message to confront 'real enemy'",
     "Iran's president says US peace MoU serves Iran, region and world",
-    "‘The post may end but dream does not’: IAS officer Divya Mittal resigns after 13-year journey",
-    "UP shocker: Man throws acid on ex-fiancee, her sister after marriage called off",
+    "PM Modi lands in Uzbekistan on two-nation visit; President Shavkat Mirziyoyev receives him | India News",
+    "If Hindus think Muslims have no place, they cease to be Hindu: Mohan Bhagwat in New York",
     "Mumbai woman dies after consuming poisoned drink, boyfriend held",
     "BJP brainstorming on Gen Z outreach concludes cohort is not ‘homogenous’",
-    "‘Identify your real enemy’: Mojtaba Khamenei urges Gulf rulers to unite, defend each other",
+    "NEET-PG 2026 exam at Jaipur centre rescheduled to September 5 over power outage",
     "1 Dead, 5 Injured In Shooting Near Rave Attended By 3,500 In Switzerland",
-    "Iranian president admits sanctions impacting economy",
-    "‘People Are Hungry’: 6 Months Into US-Israel-Iran War, Iranians Are Losing Hope As Economy Crumbles",
+    "No surrender, no dissent: How six months of war hardened Iran’s leadership",
+    "'I still struggle': Landlady recalls Saudi man who brought 9/11 hijackers to her office",
+    "Canada To Impose Up To 50% Tariffs On 700 US Goods As Trade War Escalates",
     "HDFC Bank CEO Jagdishan to step down, decides not to seek reappointment",
     "Ex-MP Kirit Somaiya seeks probe into Sensex’s wild swings on Aug 27, calls for explanation from policy...",
-    "Day traders are abandoning Korean chip leveraged ETFs in droves",
     "Sony and Warner Music Sue Anthropic, Alleging Theft of Intellectual Property",
+    "Day traders are abandoning Korean chip leveraged ETFs in droves",
     "GTA 6 Extended Look Reveals Jason, Lucia And Leonida Gameplay",
     "Here's when the iPhone 18 Pro and iPhone 18 Pro Max are rumored to go on pre-order - GSMArena.com news",
     "Deals: the Galaxy S26 FE is coming, Galaxy S26 series on sale, Nothing Phone (3) also discounted - GSMArena.com news",
     "Buy a new Galaxy Watch with enhanced trade-in savings, return it if you don't like it",
-    "'Toxic' box office collections day 4: Yash, Nayanthara, Kiara Advani starrer records 9.9% drop; worldwide",
-    "Arshad Warsi on nepotism debate in Bollywood: 'Kangana Ranaut came out with this idea, and then it got bi",
-    "Tom Cruise announces ‘Days of Thunder’ sequel with Anne Hathaway in new video"
+    "Toxic Box Office Collections: Yash starrer continues to slip, tops Rs. 200 Cr in India on 4th day",
+    "Tom Cruise announces ‘Days of Thunder’ sequel with Anne Hathaway in new video",
+    "WWE Hall of Famer involved in a car accident"
   ],
   "quiz": [
     {
-      "blanked": "BJP brainstorming on ______ Z outreach concludes cohort is not ‘homogenous’",
-      "answer": "Gen",
+      "blanked": "Toxic Box ______ Collections: Yash starrer continues to slip, tops Rs. 200 Cr in India on 4th day",
+      "answer": "Office",
       "options": [
-        "Gen",
-        "Grace",
-        "Intellectual",
-        "Kirit"
+        "Watch",
+        "Office",
+        "Atherosclerosis",
+        "Box"
       ]
     },
     {
-      "blanked": "The human brain usually decays first after death, so how have thousands survived for ______ years? Scient",
-      "answer": "12000",
+      "blanked": "GTA 6 Extended ______ Reveals Jason, Lucia And Leonida Gameplay",
+      "answer": "Look",
       "options": [
-        "HPV",
-        "Bhotekoshi",
-        "12000",
-        "Miami"
+        "Look",
+        "News",
+        "Kaur",
+        "Cancer"
       ]
     },
     {
-      "blanked": "Day traders are abandoning ______ chip leveraged ETFs in droves",
-      "answer": "Korean",
+      "blanked": "How space traffic management can save our satellites (Reader ______",
+      "answer": "Forum",
       "options": [
-        "Mirka",
-        "Reveals",
-        "Mojtaba",
-        "Korean"
+        "Cruise",
+        "Phone",
+        "Forum",
+        "Manjeet"
+      ]
+    },
+    {
+      "blanked": "'I still struggle': ______ recalls Saudi man who brought 9/11 hijackers to her office",
+      "answer": "Landlady",
+      "options": [
+        "Famer",
+        "Landlady",
+        "Galaxy",
+        "Look"
       ]
     },
     {
       "blanked": "Dispelling myths, misconceptions surrounding ______ vaccination for young women",
       "answer": "HPV",
       "options": [
-        "Bank",
-        "Pancreatic",
-        "CEO",
-        "HPV"
+        "HPV",
+        "World",
+        "Hathaway",
+        "Thunder"
       ]
     },
     {
-      "blanked": "\"Any Hindu Who Thinks...\": ______ Chief Mohan Bhagwat On 'What About Muslims' Question In US",
-      "answer": "RSS",
+      "blanked": "1 Dead, 5 ______ In Shooting Near Rave Attended By 3,500 In Switzerland",
+      "answer": "Injured",
       "options": [
-        "Iran",
-        "What",
-        "RSS",
-        "Cup"
-      ]
-    },
-    {
-      "blanked": "Nancy Grace Roman ______ live updates: Roman and Falcon Heavy delivered to launch pad",
-      "answer": "Telescope",
-      "options": [
-        "Telescope",
-        "President",
-        "Nepal",
-        "Suryakumar"
-      ]
-    },
-    {
-      "blanked": "Here's when the iPhone 18 Pro and iPhone 18 Pro ______ are rumored to go on pre-order - GSMArena.com news",
-      "answer": "Max",
-      "options": [
-        "Max",
-        "Jagdishan",
-        "Indias",
-        "Samsons"
-      ]
-    },
-    {
-      "blanked": "UP shocker: ______ throws acid on ex-fiancee, her sister after marriage called off",
-      "answer": "Man",
-      "options": [
+        "Pro",
+        "Injured",
         "Inter",
-        "Advani",
-        "Man",
-        "Varma"
+        "Shavkat"
       ]
     },
     {
-      "blanked": "‘The post may end but dream does not’: IAS officer ______ Mittal resigns after 13-year journey",
-      "answer": "Divya",
+      "blanked": "Tom Cruise announces ______ of Thunder’ sequel with Anne Hathaway in new video",
+      "answer": "Days",
       "options": [
-        "Fame",
-        "Iran",
-        "Divya",
-        "About"
+        "How",
+        "Suryakumar",
+        "Days",
+        "Shooting"
       ]
     },
     {
-      "blanked": "Arshad Warsi on nepotism debate in Bollywood: 'Kangana ______ came out with this idea, and then it got bi",
-      "answer": "Ranaut",
+      "blanked": "Tilak Varma in India’s ______ World Cup plans as selectors seek Shreyas Iyer backup",
+      "answer": "ODI",
       "options": [
-        "Ranaut",
-        "Property",
-        "Warner",
-        "World"
+        "Muslims",
+        "Music",
+        "ESC",
+        "ODI"
       ]
     },
     {
-      "blanked": "Ex-MP Kirit Somaiya seeks probe into Sensex’s wild swings on ______ 27, calls for explanation from policy...",
-      "answer": "Aug",
+      "blanked": "‘Aise bhi log hote hain life mein’: Suryakumar reveals Sanju ______ incredible response after being dro",
+      "answer": "Samsons",
       "options": [
-        "High",
+        "Khan",
+        "Aamir",
+        "Samsons",
+        "Limited"
+      ]
+    },
+    {
+      "blanked": "Day traders are abandoning ______ chip leveraged ETFs in droves",
+      "answer": "Korean",
+      "options": [
+        "Kaur",
+        "Korean",
+        "MoU",
+        "ETFs"
+      ]
+    },
+    {
+      "blanked": "BJP brainstorming on ______ Z outreach concludes cohort is not ‘homogenous’",
+      "answer": "Gen",
+      "options": [
+        "Uzbekistan",
+        "Anthropic",
+        "Gen",
+        "Rave"
+      ]
+    },
+    {
+      "blanked": "Buy a new Galaxy ______ with enhanced trade-in savings, return it if you don't like it",
+      "answer": "Watch",
+      "options": [
+        "Rave",
+        "Watch",
         "Inter",
-        "Aug",
-        "Bank"
-      ]
-    },
-    {
-      "blanked": "How & Where to Watch Inter Miami vs. CF ______ Start Time, Live Streaming and TV Channels",
-      "answer": "Montreal",
-      "options": [
-        "Annadurai",
-        "Anne",
-        "Divya",
-        "Montreal"
+        "Cruise"
       ]
     }
   ]
