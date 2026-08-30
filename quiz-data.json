@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T01:18:23.831Z",
+  "generatedAt": "2026-08-30T01:33:43.674Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
@@ -12,7 +12,7 @@
     "\"Matter Of Concern\": Chirag Paswan On M Kharge Rally \"Purification\" Row, Takes Dig At Rahul Gandhi",
     "Telangana SIR: Voters must be informed hearing date 2 days ahead",
     "Flash floods in Nepal: No contact still with 320 Indians; 400 stranded",
-    "Manufacture in India, build for world: FM Sitharaman",
+    "Man, aide beat his schizophrenic son with rock, strangle him; put body in container",
     "Iran’s leaders acknowledge economic toll of war, pledge diplomacy, defence",
     "Canada To Impose Up To 50% Tariffs On 700 US Goods As Trade War Escalates",
     "Who is Milo Yiannopoulos, far-right British commentator, detained by ICE? Former Trump supporter faces de",
@@ -27,127 +27,127 @@
     "Tech wrap week: From Samsung Galaxy S26 FE to AI-powered laptops, here’s what’s new",
     "'Toxic' box office collections day 4: Yash starrer records 9.9% drop; worldwide gross reaches Rs 254.75 crores",
     "Nashville airport to be renamed after Dolly Parton, Tennessee's governor announces days after singer's demise",
-    "'SNL’ star Kenan Thompson to join ‘America’s Got Talent’ after Simon Cowell takes a break for back surger"
+    "Irumudi Box Office Collections: Ravi Teja starrer has an OUTSTANDING 2nd Friday, Beats Pushpa 2, Kalki and Baahubali in APTS"
   ],
   "quiz": [
+    {
+      "blanked": "Suryakumar Yadav regrets failing to crack ______ cricket: 'I take the blame myself, didn't put in enough effort' | Cricket",
+      "answer": "ODI",
+      "options": [
+        "ODI",
+        "Blackwell",
+        "OUTSTANDING",
+        "Tennessees"
+      ]
+    },
     {
       "blanked": "Here's when the iPhone 18 ______ and iPhone 18 Pro Max are rumored to go on pre-order - GSMArena.com news",
       "answer": "Pro",
       "options": [
-        "133",
-        "Hindu",
-        "Traffic",
-        "Pro"
+        "Kharge",
+        "Pro",
+        "Solar",
+        "Kalki"
       ]
     },
     {
-      "blanked": "\"Matter Of Concern\": Chirag Paswan On M Kharge Rally \"Purification\" Row, Takes Dig At Rahul ______",
-      "answer": "Gandhi",
+      "blanked": "Nvidia's DLSS 5 leaked early, and modders have already broken it out of its ______ cage",
+      "answer": "Blackwell",
       "options": [
+        "Blackwell",
+        "Pancreatic",
+        "Cancer",
+        "Fall"
+      ]
+    },
+    {
+      "blanked": "Dolly ______ funeral: Family gather for singer's burial at Nashville site; to be laid to rest beside hu",
+      "answer": "Partons",
+      "options": [
+        "Partons",
+        "Surge",
+        "November",
+        "Mirziyoyev"
+      ]
+    },
+    {
+      "blanked": "Before The Nepal Flood, A Glacial Fall: Tracing The ______ And A 100-km Killer Surge",
+      "answer": "Trigger",
+      "options": [
+        "Trigger",
         "Approval",
-        "700",
-        "DISTRICT",
-        "Gandhi"
-      ]
-    },
-    {
-      "blanked": "'Biggest deal in world history': ______ says US secured 65 billion barrels of Venezuelan oil | World News",
-      "answer": "Trump",
-      "options": [
-        "Warsh",
-        "Aid",
-        "Monday",
-        "Trump"
-      ]
-    },
-    {
-      "blanked": "Union ______ To Challenge Approval Of Subhash Chandra's Insolvency Plan",
-      "answer": "Bank",
-      "options": [
-        "VACCINATION",
-        "Bank",
-        "President",
-        "Modi"
-      ]
-    },
-    {
-      "blanked": "Nancy Grace ______ Telescope live updates: Roman and Falcon Heavy delivered to launch pad",
-      "answer": "Roman",
-      "options": [
-        "World",
-        "Pushpa",
-        "Hindu",
-        "Roman"
+        "Samsung",
+        "Bodies"
       ]
     },
     {
       "blanked": "Amid rising swine flu cases, ______ govt asks hospitals to reserve isolation beds",
       "answer": "Delhi",
       "options": [
-        "ICE",
-        "700",
-        "Theft",
-        "Delhi"
+        "Delhi",
+        "Challenge",
+        "Argentina",
+        "Max"
       ]
     },
     {
-      "blanked": "Tech wrap week: From ______ Galaxy S26 FE to AI-powered laptops, here’s what’s new",
-      "answer": "Samsung",
+      "blanked": "China removes ______ general who oversaw Doklam and Galwan standoffs with India from key post",
+      "answer": "PLA",
       "options": [
-        "9.9%",
+        "Khalsa",
         "PLA",
-        "Samsung",
-        "West"
+        "Monday",
+        "Yadav"
       ]
     },
     {
-      "blanked": "Lawrence half-century extends ______ advantage on rain-hit day",
-      "answer": "Englands",
+      "blanked": "Nancy Grace Roman ______ live updates: Roman and Falcon Heavy delivered to launch pad",
+      "answer": "Telescope",
       "options": [
-        "Flood",
-        "Milo",
-        "Englands",
-        "Tracing"
+        "Telescope",
+        "Row",
+        "Kharge",
+        "Solar"
       ]
     },
     {
-      "blanked": "PM Modi lands in ______ on two-nation visit, President Shavkat Mirziyoyev receives him | India News",
-      "answer": "Uzbekistan",
+      "blanked": "Oneness or ______ supremacy? RSS chief Bhagwat’s secretive New York hosts",
+      "answer": "Hindu",
       "options": [
-        "Tariffs",
-        "Orbit",
-        "Uzbekistan",
-        "War"
+        "Hindu",
+        "Former",
+        "Prediction",
+        "Challenge"
       ]
     },
     {
-      "blanked": "CNG price hiked by Rs 3.89/kg in Delhi-NCR amid rising ______ cost",
-      "answer": "LNG",
+      "blanked": "PM Modi lands in Uzbekistan on two-nation visit, President Shavkat ______ receives him | India News",
+      "answer": "Mirziyoyev",
       "options": [
-        "DLSS",
-        "LNG",
-        "CONDUCTED",
-        "Prediction"
+        "Nashville",
+        "Cup",
+        "Hindu",
+        "Mirziyoyev"
       ]
     },
     {
-      "blanked": "Nashville airport to be renamed after ______ Parton, Tennessee's governor announces days after singer's demise",
-      "answer": "Dolly",
+      "blanked": "Who is Milo Yiannopoulos, far-right British commentator, detained by ICE? Former ______ supporter faces de",
+      "answer": "Trump",
       "options": [
-        "Teja",
-        "Thompson",
-        "Silent",
-        "Dolly"
+        "Voters",
+        "Trump",
+        "Reveals",
+        "Teja"
       ]
     },
     {
-      "blanked": "Flash floods in Nepal: No contact still with ______ Indians; 400 stranded",
-      "answer": "320",
+      "blanked": "'Biggest deal in world history': Trump says US secured 65 billion barrels of Venezuelan oil | ______ News",
+      "answer": "World",
       "options": [
-        "Aid",
-        "Approval",
-        "APTS",
-        "320"
+        "Suns",
+        "Telomere",
+        "Pushpa",
+        "World"
       ]
     }
   ]
