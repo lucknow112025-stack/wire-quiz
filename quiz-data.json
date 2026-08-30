@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-30T04:48:28.873Z",
+  "generatedAt": "2026-08-30T05:03:33.644Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "Nepal floods: ‘Bodies buried in slush, families refusing food’, Khalsa Aid volunteers witness devastation",
-    "If Hindus think Muslims have no place, they cease to be Hindu: Mohan Bhagwat in New York",
+    "Nepal flash floods LIVE: Death toll rises to 675; India sends tunnel rescue team to Nepal",
     "PM Modi lands in Uzbekistan on two-nation visit, SCO summit; President Shavkat Mirziyoyev receives him | India News",
-    "Man, aide beat his schizophrenic son with rock, strangle him; put body in container",
-    "Trump's 'Lake America' name change sparks 'Donald Ducks' memes on social media | Hindustan Times",
+    "If Hindus think Muslims have no place, they cease to be Hindu: Mohan Bhagwat in New York",
     "Before The Nepal Flood, A Glacial Fall: Tracing The Trigger, And A 100-km Killer Surge",
-    "Minister vs Minister: Chirag Paswan asks Jitan Manjhi to resign amid quota row",
-    "AAP Leader Murdered In Punjab. Attackers Chased His Bike, Opened Fire",
+    "Trump's 'Lake America' name change sparks 'Donald Ducks' memes on social media | Hindustan Times",
+    "Man, aide beat his schizophrenic son with rock, strangle him; put body in container",
+    "4 assailants arrive in car, shoot AAP leader Gurpreet Singh dead in Punjab",
+    "\"You Think You Are A Lord?\" Bombay High Court Slams FDA Officer Over Suspension Of Eateries Of Mumbai...",
     "Flash floods in Nepal: No contact still with 320 Indians; 400 stranded",
-    "FIR against Mamata Banerjee over violation of high court order on TMC students' wing rally in Kolkata | India News",
-    "37 Killed As Russian Strikes Ukraine's Kyiv, 50 Residential Buildings Damaged",
+    "Minister vs Minister: Chirag Paswan asks Jitan Manjhi to resign amid quota row",
     "US-Venezuela energy pact: What we know about Trump’s ‘biggest oil deal in world history’",
+    "37 Killed As Russian Strikes Ukraine's Kyiv, 50 Residential Buildings Damaged",
     "Video: Buried under debris for 3 days, 6-year-old survives Nepal flood devastation",
     "Has Iceland warmed to the European Union?",
     "HDFC Bank CEO Jagdishan to step down, decides not to seek reappointment",
+    "Zee’s Subhash Chandra accuses Mukesh Ambani of spreading misinformation, RIL denies allegations",
     "CNG Prices Hiked By Rs 3.89 In Delhi-NCR: Check City-Wise Rates",
     "After Supreme Court Rap, FSSAI Proposes Pictorial Front-of-Pack Warning Labels For Packaged Foods High In ...",
-    "US Fed Chair Kevin Warsh Jackson Hole speech impact on Indian stock market, gold-silver rates | Prediction for Monday",
     "Here's when the iPhone 18 Pro and iPhone 18 Pro Max are rumored to go on pre-order - GSMArena.com news",
     "GTA VI Has Over 600,000 Animations Compared To GTA V's 55,000 & Red Dead Redemption 2's 300,000",
     "Tech wrap week: From Samsung Galaxy S26 FE to AI-powered laptops, here’s what’s new",
-    "iPhone 17 Pro Max Price Slashed Worldwide Before iPhone 18 Launch",
+    "Xbox's Project Helix Will Be a Multi-Device Lineup, CEO Says",
     "'Toxic' box office collections day 4: Yash, Nayanthara, Kiara Advani starrer records 9.9% drop; worldwide",
     "Irumudi Box Office Collections: Ravi Teja starrer has an OUTSTANDING 2nd Friday, Beats Pushpa 2, Kalki and Baahubali in APTS",
-    "Nashville airport to be renamed after Dolly Parton, Tennessee's governor announces days after singer's demise"
+    "Dolly Parton's funeral: Family gather for singer's burial at Nashville site; to be laid to rest beside hu"
   ],
   "quiz": [
     {
-      "blanked": "Has Iceland warmed to the European ______",
-      "answer": "Union",
+      "blanked": "Minister vs ______ Chirag Paswan asks Jitan Manjhi to resign amid quota row",
+      "answer": "Minister",
       "options": [
-        "Killed",
-        "Animations",
-        "Prediction",
-        "Union"
+        "Baahubali",
+        "Minister",
+        "Chandra",
+        "Chirag"
       ]
     },
     {
-      "blanked": "How space traffic management can save our satellites ______ Forum)",
-      "answer": "Reader",
+      "blanked": "Before The Nepal ______ A Glacial Fall: Tracing The Trigger, And A 100-km Killer Surge",
+      "answer": "Flood",
       "options": [
-        "Strikes",
-        "Reader",
+        "Hindustan",
         "Pro",
-        "News"
+        "Flood",
+        "Modi"
+      ]
+    },
+    {
+      "blanked": "HDFC ______ CEO Jagdishan to step down, decides not to seek reappointment",
+      "answer": "Bank",
+      "options": [
+        "Death",
+        "Bank",
+        "Value",
+        "Channels"
+      ]
+    },
+    {
+      "blanked": "'Toxic' box office collections day 4: Yash, Nayanthara, ______ Advani starrer records 9.9% drop; worldwide",
+      "answer": "Kiara",
+      "options": [
+        "Cricket",
+        "Ducks",
+        "Kiara",
+        "Modi"
+      ]
+    },
+    {
+      "blanked": "Tilak Varma in ______ ODI World Cup plans as selectors seek Shreyas Iyer backup",
+      "answer": "Indias",
+      "options": [
+        "Indias",
+        "Strikes",
+        "Bombay",
+        "Fall"
+      ]
+    },
+    {
+      "blanked": "Tech wrap week: From ______ Galaxy S26 FE to AI-powered laptops, here’s what’s new",
+      "answer": "Samsung",
+      "options": [
+        "Project",
+        "9.9%",
+        "Samsung",
+        "Horoscope"
+      ]
+    },
+    {
+      "blanked": "Leukocyte Telomere Length Shows Limited Value in Pancreatic ______",
+      "answer": "Cancer",
+      "options": [
+        "Ducks",
+        "Cancer",
+        "Telescope",
+        "Redemption"
+      ]
+    },
+    {
+      "blanked": "37 Killed As Russian ______ Ukraine's Kyiv, 50 Residential Buildings Damaged",
+      "answer": "Strikes",
+      "options": [
+        "Roman",
+        "Yadavs",
+        "Strikes",
+        "August"
+      ]
+    },
+    {
+      "blanked": "‘ I take the blame myself’: ______ Yadav’s big regret over failed ODI career",
+      "answer": "Suryakumar",
+      "options": [
+        "Solar",
+        "Suryakumar",
+        "Shreyas",
+        "Time"
       ]
     },
     {
       "blanked": "PHOTOS: ______ appears orange due to partial lunar eclipse",
       "answer": "Moon",
       "options": [
-        "Damaged",
-        "Moon",
-        "Killed",
-        "Chair"
+        "Value",
+        "Glacial",
+        "Delhi-NCR",
+        "Moon"
       ]
     },
     {
-      "blanked": "Dispelling myths, misconceptions surrounding ______ vaccination for young women",
-      "answer": "HPV",
+      "blanked": "How space traffic management can save our satellites (Reader ______",
+      "answer": "Forum",
       "options": [
-        "Has",
-        "HPV",
-        "Widespread",
-        "Solar"
-      ]
-    },
-    {
-      "blanked": "Nashville airport to be renamed after Dolly Parton, ______ governor announces days after singer's demise",
-      "answer": "Tennessees",
-      "options": [
-        "Buildings",
-        "Hiked",
-        "Chair",
-        "Tennessees"
-      ]
-    },
-    {
-      "blanked": "GTA VI Has Over ______ Animations Compared To GTA V's 55,000 & Red Dead Redemption 2's 300,000",
-      "answer": "600000",
-      "options": [
-        "Nashville",
-        "Samsons",
-        "Shavkat",
-        "600000"
-      ]
-    },
-    {
-      "blanked": "Minister vs Minister: Chirag ______ asks Jitan Manjhi to resign amid quota row",
-      "answer": "Paswan",
-      "options": [
+        "Ravi",
         "European",
-        "Paswan",
-        "High",
-        "Office"
+        "City-Wise",
+        "Forum"
       ]
     },
     {
-      "blanked": "Trump's 'Lake America' name change sparks ______ Ducks' memes on social media | Hindustan Times",
-      "answer": "Donald",
+      "blanked": "PM Modi lands in ______ on two-nation visit, SCO summit; President Shavkat Mirziyoyev receives him | India News",
+      "answer": "Uzbekistan",
       "options": [
-        "Donald",
-        "Manjhi",
-        "Advani",
-        "HPV"
-      ]
-    },
-    {
-      "blanked": "Amid rising swine flu cases, ______ govt asks hospitals to reserve isolation beds",
-      "answer": "Delhi",
-      "options": [
-        "HPV",
-        "Baahubali",
-        "Delhi",
-        "Buildings"
-      ]
-    },
-    {
-      "blanked": "CNG Prices Hiked By Rs ______ In Delhi-NCR: Check City-Wise Rates",
-      "answer": "3.89",
-      "options": [
-        "3.89",
-        "Beats",
-        "Ducks",
-        "Buildings"
-      ]
-    },
-    {
-      "blanked": "Imaging Reveals Widespread Silent ______ Burden: ESC 2026",
-      "answer": "Atherosclerosis",
-      "options": [
-        "Yadav",
-        "Manjhi",
-        "Atherosclerosis",
-        "City-Wise"
-      ]
-    },
-    {
-      "blanked": "Dolly ______ funeral: Family gather for singer's burial at Nashville site; to be laid to rest beside hu",
-      "answer": "Partons",
-      "options": [
-        "Partons",
-        "Trigger",
-        "300000",
-        "9.9%"
+        "Yash",
+        "Bombay",
+        "Friday",
+        "Uzbekistan"
       ]
     }
   ]
