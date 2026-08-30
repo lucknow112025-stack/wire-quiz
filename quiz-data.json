@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-08-30T00:18:32.777Z",
+  "generatedAt": "2026-08-30T00:33:31.241Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "PM Modi lands in Uzbekistan on two-nation visit, President Shavkat Mirziyoyev receives him | India News",
     "Nepal and China resume flood rescue as death toll surpasses 600",
+    "PM Modi lands in Uzbekistan on two-nation visit, President Shavkat Mirziyoyev receives him | India News",
+    "Israeli settlers surround Palestinian home in occupied West Bank’s Qusra",
     "Mohan Bhagwat Poster Goes Up On Times Square Billboard Ahead Of RSS Chief’s MSG Address",
     "China removes PLA general who oversaw Doklam and Galwan standoffs with India from key post",
     "Before The Nepal Flood, A Glacial Fall: Tracing The Trigger, And A 100-km Killer Surge",
-    "Israeli settlers surround Palestinian home in occupied West Bank’s Qusra",
-    "Rahul Gandhi seeks FIR over ‘purification’ ritual in Haldwani after Kharge’s address, calls it ‘untouchability’",
+    "\"Matter Of Concern\": Chirag Paswan On M Kharge Rally \"Purification\" Row, Takes Dig At Rahul Gandhi",
     "Flash floods in Nepal: No contact still with 320 Indians; 400 stranded",
-    "FIR against Mamata Banerjee over violation of high court order on TMC students' wing rally in Kolkata | India News",
     "Trinamool Congress Moves Calcutta High Court Against Alleged Removal Of Billboard From Party Office",
-    "Norway's King Haakon honours 'dear father' Harald in first speech as sovereign",
+    "Manufacture in India, build for world: FM Sitharaman",
+    "Has Iceland warmed to the European Union?",
     "Iran’s leaders acknowledge economic toll of war, pledge diplomacy, defence",
     "Canada To Impose Up To 50% Tariffs On 700 US Goods As Trade War Escalates",
     "Who is Milo Yiannopoulos, far-right British commentator, detained by ICE? Former Trump supporter faces de",
@@ -24,130 +24,130 @@
     "Nvidia's DLSS 5 leaked early, and modders have already broken it out of its Blackwell cage",
     "Here's when the iPhone 18 Pro and iPhone 18 Pro Max are rumored to go on pre-order - GSMArena.com news",
     "GTA VI Has Over 600,000 Animations Compared To GTA V's 55,000 & Red Dead Redemption 2's 300,000",
-    "Deals: the Galaxy S26 FE is coming, Galaxy S26 series on sale, Nothing Phone (3) also discounted - GSMArena.com news",
+    "iPhone 17 Pro Max Price Slashed Worldwide Before iPhone 18 Launch",
     "'Toxic' box office collection Day 4 [LIVE]: Yash and Kiara Advani film races past Rs 182 crore domestic net milestone",
-    "'SNL’ star Kenan Thompson to join ‘America’s Got Talent’ after Simon Cowell takes a break for back surger",
-    "Nashville airport to be renamed after Dolly Parton, Tennessee's governor announces days after singer's demise"
+    "Nashville airport to be renamed after Dolly Parton, Tennessee's governor announces days after singer's demise",
+    "'SNL’ star Kenan Thompson to join ‘America’s Got Talent’ after Simon Cowell takes a break for back surger"
   ],
   "quiz": [
     {
-      "blanked": "Sold house, personal assets, now living on rental income: Zee founder ______ Chandra reveals his finances",
-      "answer": "Subhash",
+      "blanked": "PM Modi lands in Uzbekistan on two-nation visit, President Shavkat Mirziyoyev receives him | ______ News",
+      "answer": "India",
       "options": [
-        "PLA",
-        "Debris",
-        "Crowd",
-        "Subhash"
+        "India",
+        "Delhi",
+        "Row",
+        "VACCINATION"
       ]
     },
     {
-      "blanked": "Nancy Grace Roman Telescope live updates: ______ and Falcon Heavy delivered to launch pad",
-      "answer": "Roman",
+      "blanked": "'Toxic' box office collection Day 4 [LIVE]: Yash and Kiara ______ film races past Rs 182 crore domestic net milestone",
+      "answer": "Advani",
       "options": [
-        "Animations",
-        "Subhash",
-        "Roman",
-        "President"
+        "Court",
+        "Pro",
+        "Advani",
+        "Fall"
       ]
     },
     {
-      "blanked": "Study: ______ of children ingesting recreation drugs continues to increase",
-      "answer": "Rate",
+      "blanked": "Mohan Bhagwat Poster Goes Up On ______ Square Billboard Ahead Of RSS Chief’s MSG Address",
+      "answer": "Times",
       "options": [
-        "Jagdishan",
-        "182",
-        "Rate",
-        "Address"
-      ]
-    },
-    {
-      "blanked": "Nvidia's ______ 5 leaked early, and modders have already broken it out of its Blackwell cage",
-      "answer": "DLSS",
-      "options": [
-        "DLSS",
-        "High",
-        "Tracing",
-        "Goes"
-      ]
-    },
-    {
-      "blanked": "Rahul Gandhi seeks ______ over ‘purification’ ritual in Haldwani after Kharge’s address, calls it ‘untouchability’",
-      "answer": "FIR",
-      "options": [
-        "FIR",
-        "Escalates",
-        "ESC",
-        "England"
-      ]
-    },
-    {
-      "blanked": "Nepal and ______ resume flood rescue as death toll surpasses 600",
-      "answer": "China",
-      "options": [
+        "Times",
         "Moon",
-        "China",
-        "700",
-        "Haakon"
-      ]
-    },
-    {
-      "blanked": "Trinamool Congress Moves Calcutta High Court Against Alleged ______ Of Billboard From Party Office",
-      "answer": "Removal",
-      "options": [
-        "Heavy",
-        "Removal",
-        "Glacial",
-        "Rukh"
+        "Delhi",
+        "55000"
       ]
     },
     {
       "blanked": "Amid rising swine flu cases, ______ govt asks hospitals to reserve isolation beds",
       "answer": "Delhi",
       "options": [
-        "300000",
-        "Debris",
         "Delhi",
-        "Kiara"
+        "Blackwell",
+        "West",
+        "VACCINATION"
       ]
     },
     {
-      "blanked": "Before The Nepal Flood, A ______ Fall: Tracing The Trigger, And A 100-km Killer Surge",
-      "answer": "Glacial",
+      "blanked": "Sold house, personal assets, now living on rental income: ______ founder Subhash Chandra reveals his finances",
+      "answer": "Zee",
       "options": [
-        "2026",
-        "Kevin",
-        "Simon",
-        "Glacial"
+        "Zee",
+        "Falcon",
+        "Burden",
+        "Moves"
       ]
     },
     {
-      "blanked": "Robinson, ______ put England in command at Lord's",
-      "answer": "Archer",
+      "blanked": "Irumudi Box Office ______ Ravi Teja starrer has an OUTSTANDING 2nd Friday, Beats Pushpa 2, Kalki and Baahubali in APTS",
+      "answer": "Collections",
       "options": [
-        "Times",
-        "Has",
-        "Kevin",
-        "Archer"
+        "Silent",
+        "Collections",
+        "Kalki",
+        "Check"
       ]
     },
     {
-      "blanked": "Deals: the Galaxy S26 FE is coming, Galaxy S26 series on sale, ______ Phone (3) also discounted - GSMArena.com news",
-      "answer": "Nothing",
+      "blanked": "CNG Prices Hiked By Rs 3.89 In Delhi-NCR: Check City-Wise ______",
+      "answer": "Rates",
       "options": [
-        "Nothing",
-        "FIR",
-        "When",
-        "Doklam"
-      ]
-    },
-    {
-      "blanked": "FIR against Mamata Banerjee over violation of high court order on TMC students' wing rally in Kolkata | ______ News",
-      "answer": "India",
-      "options": [
+        "Killer",
         "Max",
-        "India",
-        "Former",
-        "Nothing"
+        "Rates",
+        "Has"
+      ]
+    },
+    {
+      "blanked": "Suryakumar on being dropped: ______ everything is going well, why the change?'",
+      "answer": "When",
+      "options": [
+        "When",
+        "Rivals",
+        "British",
+        "Parton"
+      ]
+    },
+    {
+      "blanked": "Has ______ warmed to the European Union?",
+      "answer": "Iceland",
+      "options": [
+        "Iceland",
+        "CAMPAIGN",
+        "Pushpa",
+        "Address"
+      ]
+    },
+    {
+      "blanked": "Who is Milo Yiannopoulos, far-right British commentator, detained by ICE? Former ______ supporter faces de",
+      "answer": "Trump",
+      "options": [
+        "Dig",
+        "Court",
+        "Trump",
+        "Slashed"
+      ]
+    },
+    {
+      "blanked": "Israeli settlers surround Palestinian home in occupied West Bank’s ______",
+      "answer": "Qusra",
+      "options": [
+        "Subhash",
+        "Qusra",
+        "Galwan",
+        "Argentina"
+      ]
+    },
+    {
+      "blanked": "HDFC Bank CEO ______ to step down, decides not to seek reappointment",
+      "answer": "Jagdishan",
+      "options": [
+        "Rally",
+        "3.89",
+        "Jagdishan",
+        "APTS"
       ]
     }
   ]
