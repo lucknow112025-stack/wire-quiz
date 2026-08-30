@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-30T13:48:37.521Z",
+  "generatedAt": "2026-08-30T14:03:21.792Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
     "Nepal flash floods LIVE: Death toll reaches 768; rescuers drill through debris towards trapped tunnel workers",
     "India, Uzbekistan Strike Long-Term Uranium Deal As PM Modi Wraps Key Visit",
-    "Mann Ki Baat: PM Modi praises Mumbai man for creating specialised website to know India's history",
     "‘They are not saints…’: Wangchuk says CJP founders have political ambitions, insists there’s nothing wrong with it | India News",
+    "Mann Ki Baat: PM Modi praises Mumbai man for creating specialised website to know India's history",
     "Iran's Khamenei urges Gulf rulers in written message to confront 'real enemy'",
     "Before The Nepal Flood, A Glacial Fall: Tracing The Trigger, And A 100-km Killer Surge",
-    "India emerges as key petrol supplier to Russia as refinery attacks disrupt fuel supplies",
-    "NEET-PG 2026 exam at Jaipur centre rescheduled to September 5 over power outage",
+    "India becomes key petrol supplier to Russia amid attacks on refineries, fuel shortages",
+    "Exam began 10 times: NEET-PG 2026 chaos in Jaipur leaves students furious",
     "If Hindus think Muslims have no place, they cease to be Hindu: Mohan Bhagwat in New York",
     "Students Cannot Be Punished For Asking Questions; Intolerance Is At Odds With Constitution: Justice Ujjal ...",
     "Vote count under way in Iceland’s knife-edge EU referendum",
     "US-Venezuela energy pact: What we know about Trump’s ‘biggest oil deal in world history’",
+    "Sunflowers Now Grow Where Mines Once Lay, Thanks To This Ukrainian Woman",
     "Ferry boat with around 270 passengers capsizes off North Cyprus: Report | World News",
-    "Bilawal Bhutto Set To Marry European Princess? What His Party Leader Said",
-    "HDFC Bank CEO search tests investor confidence, governance",
+    "India's HDFC Bank weighing deputy MD Bharucha, outsider for CEO, sources say",
+    "Tata Motors EV bookings triple over the last 6 months - Team-BHP",
     "7 of top 10 firms lose ₹1.13 lakh crore in market value in one week | Sensex fell 276 points, Nifty dropped 76 points | Inshorts",
     "Bira 91 faces insolvency push as HNGIL seeks Rs 11.8 crore",
-    "Apple Watch To Vision Pro: Tim Cook's Five Greatest Product Hits That Redefined Apple",
+    "Philips Hue shares how Nanoleaf panel control through its app is going to work",
     "GTA 6 Extended Look Reveals Jason, Lucia And Leonida Gameplay",
     "Here's when the iPhone 18 Pro and iPhone 18 Pro Max are rumored to go on pre-order - GSMArena.com news",
     "Windows 11 is warning people that Defender Antivirus has been turned off, but don't worry, says Microsoft",
-    "Tech wrap week: From Samsung Galaxy S26 FE to AI-powered laptops, here’s what’s new",
     "Toxic Box Office Collections: Yash starrer continues to slip, tops Rs. 200 Cr in India on 4th day",
     "Sunny Deol And Rajkumar Santoshi To Reunite For Ghatak Ghus Ke Maarega",
-    "‘Mirzapur: The Movie’ character guide: Ali Fazal’s Guddu faces Pankaj Tripathi’s Kaleen Bhaiya; Divyenndu"
+    "'Hanuman Ansh' box office collection: From Rs 10 lakh on day 1 to Rs 27 crore in 23 days, word of mouth t"
   ],
   "quiz": [
     {
-      "blanked": "NEET-PG 2026 exam at ______ centre rescheduled to September 5 over power outage",
-      "answer": "Jaipur",
+      "blanked": "Bira 91 faces insolvency push as HNGIL seeks Rs ______ crore",
+      "answer": "11.8",
       "options": [
-        "Jesus",
-        "Roger",
-        "Jaipur",
-        "Telescope"
-      ]
-    },
-    {
-      "blanked": "Windows 11 is warning people that Defender Antivirus has been turned off, but don't worry, says ______",
-      "answer": "Microsoft",
-      "options": [
-        "Alvarez",
+        "Motors",
+        "Nifty",
         "11.8",
-        "Microsoft",
-        "Delhi"
+        "Now"
       ]
     },
     {
-      "blanked": "Apple Watch To Vision Pro: Tim Cook's Five Greatest Product Hits That ______ Apple",
-      "answer": "Redefined",
+      "blanked": "Exam began 10 times: NEET-PG ______ chaos in Jaipur leaves students furious",
+      "answer": "2026",
       "options": [
-        "Alvarez",
-        "Mars",
-        "LIVE",
-        "Redefined"
-      ]
-    },
-    {
-      "blanked": "A ______ physicist proposed a way to create quantum images 20 years ago; after two decades waiting for e",
-      "answer": "Chicago",
-      "options": [
+        "Leonida",
+        "Trigger",
         "Atletico",
-        "Venus",
-        "Chicago",
-        "Lucia"
+        "2026"
       ]
     },
     {
-      "blanked": "Dispelling myths, misconceptions surrounding ______ vaccination for young women",
-      "answer": "HPV",
+      "blanked": "Ferry boat with around 270 passengers capsizes off ______ Cyprus: Report | World News",
+      "answer": "North",
       "options": [
-        "Fazals",
+        "Office",
         "North",
-        "Defender",
-        "HPV"
-      ]
-    },
-    {
-      "blanked": "Knee Pain In Your 30s? Doctors Reveal Why It May Have ______ to Do With Ageing",
-      "answer": "Nothing",
-      "options": [
-        "Flood",
-        "Maarega",
-        "Venus",
-        "Nothing"
+        "Grace",
+        "Gulf"
       ]
     },
     {
       "blanked": "Barcelona target Julian ______ accepts his fate and returns to Atletico Madrid group training",
       "answer": "Alvarez",
       "options": [
+        "Atletico",
+        "Fall",
         "Alvarez",
-        "Inducted",
-        "Antivirus",
-        "Extended"
+        "Deol"
       ]
     },
     {
-      "blanked": "Sunny Deol And Rajkumar ______ To Reunite For Ghatak Ghus Ke Maarega",
-      "answer": "Santoshi",
+      "blanked": "GTA 6 Extended Look Reveals ______ Lucia And Leonida Gameplay",
+      "answer": "Jason",
       "options": [
-        "Punished",
-        "Santoshi",
-        "AI-powered",
-        "Marry"
+        "Jason",
+        "Ali",
+        "Nepal",
+        "Gulf"
       ]
     },
     {
-      "blanked": "Toxic Box ______ Collections: Yash starrer continues to slip, tops Rs. 200 Cr in India on 4th day",
-      "answer": "Office",
+      "blanked": "Sunny ______ And Rajkumar Santoshi To Reunite For Ghatak Ghus Ke Maarega",
+      "answer": "Deol",
       "options": [
-        "Product",
-        "CJP",
-        "Delhi",
-        "Office"
+        "LIVE",
+        "Deol",
+        "Heavy",
+        "Box"
       ]
     },
     {
-      "blanked": "Barcelona agree €10m deal to sign Gabriel Jesus from ______",
-      "answer": "Arsenal",
+      "blanked": "Nancy Grace Roman Telescope live updates: SpaceX Falcon Heavy deploys Roman Space ______ after launch",
+      "answer": "Telescope",
       "options": [
-        "Ageing",
-        "Lucia",
-        "Arsenal",
-        "Bhutto"
+        "Ansh",
+        "Key",
+        "Telescope",
+        "Madrid"
       ]
     },
     {
-      "blanked": "GTA 6 Extended Look Reveals Jason, Lucia And ______ Gameplay",
-      "answer": "Leonida",
+      "blanked": "Tata Motors EV bookings triple over the last 6 months - ______",
+      "answer": "Team-BHP",
       "options": [
+        "Wangchuk",
+        "Woman",
+        "Team-BHP",
+        "CJP"
+      ]
+    },
+    {
+      "blanked": "A ______ physicist proposed a way to create quantum images 20 years ago; after two decades waiting for e",
+      "answer": "Chicago",
+      "options": [
+        "Chicago",
         "Modi",
-        "Divyenndu",
-        "Princess",
-        "Leonida"
+        "Key",
+        "Gameplay"
       ]
     },
     {
-      "blanked": "Amid rising swine flu cases, ______ govt asks hospitals to reserve isolation beds",
-      "answer": "Delhi",
+      "blanked": "Here's when the iPhone 18 Pro and iPhone 18 Pro ______ are rumored to go on pre-order - GSMArena.com news",
+      "answer": "Max",
       "options": [
-        "Your",
-        "Delhi",
-        "Trumps",
-        "Uzbekistan"
+        "CJP",
+        "Indias",
+        "Max",
+        "Jesus"
+      ]
+    },
+    {
+      "blanked": "If Hindus think Muslims have no place, they cease to be Hindu: Mohan Bhagwat in New ______",
+      "answer": "York",
+      "options": [
+        "Tripathis",
+        "Russia",
+        "Ukrainian",
+        "York"
+      ]
+    },
+    {
+      "blanked": "‘Mirzapur: The Movie’ character guide: Ali Fazal’s ______ faces Pankaj Tripathi’s Kaleen Bhaiya; Divyenndu",
+      "answer": "Guddu",
+      "options": [
+        "Pain",
+        "Guddu",
+        "Chelsea",
+        "Inducted"
       ]
     }
   ]
