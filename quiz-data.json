@@ -1,26 +1,26 @@
 {
-  "generatedAt": "2026-08-30T05:33:23.006Z",
+  "generatedAt": "2026-08-30T05:48:17.245Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "Nepal flash floods LIVE: Death toll rises to 675; India sends tunnel rescue team to Nepal",
+    "Nepal flash floods LIVE: Nepal flood death toll rises to 734, disaster authority says",
     "If Hindus think Muslims have no place, they cease to be Hindu: Mohan Bhagwat in New York",
     "PM Modi lands in Uzbekistan on two-nation visit, SCO summit; President Shavkat Mirziyoyev receives him | India News",
     "Before The Nepal Flood, A Glacial Fall: Tracing The Trigger, And A 100-km Killer Surge",
     "Trump's 'Lake America' name change sparks 'Donald Ducks' memes on social media | Hindustan Times",
     "Samay Raina in soup again over remarks on people from Bihar, Kashmiri Pandits: 'They get publicity for fr",
-    "‘Frustrated’ elderly father kills schizophrenic son along with friend in Delhi, both held",
-    "AAP Leader Murdered In Punjab. Attackers Chased His Bike, Opened Fire",
+    "Delhi man kills schizophrenic son, lured him to shipping container on pretext of doctor visit | India News",
+    "\"There's Pressure\": Congress vs BJP As Penguin India Drops Sonia Gandhi's Memoir",
+    "Union ministers Chirag Paswan, Jitan Ram Manjhi clash over quotas, demand each other's resignation",
     "\"You Think You Are A Lord?\" Bombay High Court Slams FDA Officer Over Suspension Of Eateries Of Mumbai...",
-    "Flash floods in Nepal: No contact still with 320 Indians; 400 stranded",
-    "37 Killed As Russian Strikes Ukraine's Kyiv, 50 Residential Buildings Damaged",
-    "Trump hails ‘biggest oil deal’ with Venezuela, US to gain control over 65 billion barrels",
+    "Venezuela says it retains ‘sovereignty’ following US oil deal",
+    "After 3 Days Under Flood Debris, 6-Year-Old Rescued Alive In Rasuwa, Nepal",
+    "Russian strike on Kyiv-area ammunition depot triggers blast, killing 37",
     "Has Iceland warmed to the European Union?",
-    "Video: Buried under debris for 3 days, 6-year-old survives Nepal flood devastation",
     "India's HDFC Bank CEO Jagdishan to step down in October",
     "Zee’s Subhash Chandra accuses Mukesh Ambani of spreading misinformation, RIL denies allegations",
     "CNG Prices Hiked By Rs 3.89 In Delhi-NCR: Check City-Wise Rates",
-    "After Supreme Court Rap, FSSAI Proposes Pictorial Front-of-Pack Warning Labels For Packaged Foods High In ...",
+    "Sold house, personal assets, now living on rental income: Zee founder Subhash Chandra reveals his finances",
     "Here's when the iPhone 18 Pro and iPhone 18 Pro Max are rumored to go on pre-order - GSMArena.com news",
     "GTA VI Has Over 600,000 Animations Compared To GTA V's 55,000 & Red Dead Redemption 2's 300,000",
     "Tech wrap week: From Samsung Galaxy S26 FE to AI-powered laptops, here’s what’s new",
@@ -31,123 +31,123 @@
   ],
   "quiz": [
     {
-      "blanked": "CNG Prices Hiked By Rs 3.89 In Delhi-NCR: Check City-Wise ______",
-      "answer": "Rates",
+      "blanked": "Leukocyte Telomere Length ______ Limited Value in Pancreatic Cancer",
+      "answer": "Shows",
       "options": [
-        "Tracing",
-        "Rates",
-        "Max",
-        "Silent"
-      ]
-    },
-    {
-      "blanked": "Dolly Parton's funeral: ______ gather for singer's burial at Nashville site; to be laid to rest beside hu",
-      "answer": "Family",
-      "options": [
-        "Iyer",
-        "Family",
-        "York",
-        "Shows"
-      ]
-    },
-    {
-      "blanked": "‘Frustrated’ elderly father kills schizophrenic son along with friend in ______ both held",
-      "answer": "Delhi",
-      "options": [
-        "Chased",
-        "Delhi",
-        "Cancer",
-        "Bihar"
-      ]
-    },
-    {
-      "blanked": "After Supreme Court Rap, FSSAI Proposes Pictorial Front-of-Pack ______ Labels For Packaged Foods High In ...",
-      "answer": "Warning",
-      "options": [
-        "Red",
-        "Office",
-        "Warning",
-        "Buildings"
-      ]
-    },
-    {
-      "blanked": "Irumudi Box Office Collections: Ravi Teja starrer has an OUTSTANDING 2nd Friday, Beats Pushpa 2, Kalki and Baahubali in ______",
-      "answer": "APTS",
-      "options": [
-        "Start",
-        "CEO",
-        "APTS",
-        "Office"
-      ]
-    },
-    {
-      "blanked": "Tilak Varma in India’s ______ World Cup plans as selectors seek Shreyas Iyer backup",
-      "answer": "ODI",
-      "options": [
-        "ODI",
-        "Think",
-        "Buried",
-        "Federers"
-      ]
-    },
-    {
-      "blanked": "Tech wrap week: From ______ Galaxy S26 FE to AI-powered laptops, here’s what’s new",
-      "answer": "Samsung",
-      "options": [
-        "Samsung",
-        "Cancer",
+        "Animations",
+        "Collections",
         "Shows",
-        "Yash"
+        "Reader"
       ]
     },
     {
-      "blanked": "How space traffic management can save our satellites (Reader ______",
-      "answer": "Forum",
+      "blanked": "Samay Raina in soup again over remarks on people from Bihar, ______ Pandits: 'They get publicity for fr",
+      "answer": "Kashmiri",
       "options": [
-        "Forum",
-        "Subhash",
-        "Rap",
-        "You"
+        "734",
+        "Kashmiri",
+        "Times",
+        "Compared"
       ]
     },
     {
-      "blanked": "PM Modi lands in Uzbekistan on two-nation visit, SCO summit; President Shavkat Mirziyoyev receives him | India ______",
-      "answer": "News",
+      "blanked": "Roger Federer's wife leaves tennis great laughing, crying with Hall of ______ speech",
+      "answer": "Fame",
       "options": [
-        "Suns",
-        "News",
-        "Where",
-        "Has"
+        "October",
+        "Worldwide",
+        "Jitan",
+        "Fame"
       ]
     },
     {
-      "blanked": "Samay Raina in soup again over remarks on people from Bihar, Kashmiri Pandits: ______ get publicity for fr",
-      "answer": "They",
+      "blanked": "Here's when the iPhone 18 Pro and iPhone 18 Pro ______ are rumored to go on pre-order - GSMArena.com news",
+      "answer": "Max",
       "options": [
         "They",
-        "Live",
-        "Bihar",
-        "Burden"
+        "Max",
+        "Hindus",
+        "Start"
       ]
     },
     {
-      "blanked": "\"You Think ______ Are A Lord?\" Bombay High Court Slams FDA Officer Over Suspension Of Eateries Of Mumbai...",
-      "answer": "You",
+      "blanked": "\"There's Pressure\": Congress vs BJP As Penguin India ______ Sonia Gandhi's Memoir",
+      "answer": "Drops",
       "options": [
-        "Chased",
-        "You",
-        "300000",
-        "Friday"
-      ]
-    },
-    {
-      "blanked": "Trump's 'Lake America' name change sparks 'Donald Ducks' memes on social media | ______ Times",
-      "answer": "Hindustan",
-      "options": [
-        "Mohan",
-        "Sanju",
-        "AI-powered",
+        "Drops",
+        "Redemption",
+        "Pressure",
         "Hindustan"
+      ]
+    },
+    {
+      "blanked": "Zee’s Subhash Chandra accuses Mukesh ______ of spreading misinformation, RIL denies allegations",
+      "answer": "Ambani",
+      "options": [
+        "Pancreatic",
+        "600000",
+        "Alive",
+        "Ambani"
+      ]
+    },
+    {
+      "blanked": "Sold house, personal assets, now living on rental income: ______ founder Subhash Chandra reveals his finances",
+      "answer": "Zee",
+      "options": [
+        "Modi",
+        "Mukesh",
+        "Zee",
+        "3.89"
+      ]
+    },
+    {
+      "blanked": "Delhi man kills schizophrenic son, lured him to shipping container on pretext of doctor visit | ______ News",
+      "answer": "India",
+      "options": [
+        "Baahubali",
+        "India",
+        "ESC",
+        "Bhagwat"
+      ]
+    },
+    {
+      "blanked": "PHOTOS: ______ appears orange due to partial lunar eclipse",
+      "answer": "Moon",
+      "options": [
+        "Muslims",
+        "Iyer",
+        "Moon",
+        "Chandra"
+      ]
+    },
+    {
+      "blanked": "Nepal flash floods LIVE: ______ flood death toll rises to 734, disaster authority says",
+      "answer": "Nepal",
+      "options": [
+        "Rates",
+        "Value",
+        "Bihar",
+        "Nepal"
+      ]
+    },
+    {
+      "blanked": "Has Iceland warmed to the European ______",
+      "answer": "Union",
+      "options": [
+        "Alive",
+        "Miami",
+        "World",
+        "Union"
+      ]
+    },
+    {
+      "blanked": "Irumudi Box Office Collections: Ravi Teja starrer has an OUTSTANDING 2nd Friday, Beats ______ 2, Kalki and Baahubali in APTS",
+      "answer": "Pushpa",
+      "options": [
+        "Live",
+        "Redemption",
+        "Office",
+        "Pushpa"
       ]
     }
   ]
