@@ -1,22 +1,22 @@
 {
-  "generatedAt": "2026-08-30T07:03:33.956Z",
+  "generatedAt": "2026-08-30T07:18:31.235Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "Nepal flash floods LIVE: Nepal flood death toll rises to 734, disaster authority says",
+    "Nepal flash floods: Three bodies recovered from Gandak river in U.P.'s Kushinagar",
     "If Hindus think Muslims have no place, they cease to be Hindu: Mohan Bhagwat in New York",
-    "PM Modi lands in Uzbekistan on two-nation visit, SCO summit; President Shavkat Mirziyoyev receives him | India News",
     "\"You Think You Are A Lord?\" Bombay High Court Slams FDA Officer Over Suspension Of Eateries Of Mumbai...",
+    "PM Modi lands in Uzbekistan on two-nation visit, SCO summit; President Shavkat Mirziyoyev receives him | India News",
     "Trump's 'Lake America' name change sparks 'Donald Ducks' memes on social media | Hindustan Times",
-    "Before The Nepal Flood, A Glacial Fall: Tracing The Trigger, And A 100-km Killer Surge",
+    "No word from Thane couple on first trip to Nepal, kin await clarity",
     "UP shocker: Man throws acid on ex-fiancee, her sister after marriage called off",
     "Sonia Gandhi’s book: Publisher wanted Modi, RSS, China intrusion bits removed, allege Congress leaders",
     "Ministers Chirag Paswan, Jitan Manjhi Clash Over Quota, Demand Resignations",
     "Punjab AAP activist Gurpreet Singh Gopi shot dead near Ferozepur; cops suspect old dispute, elections as motive | India News",
     "'Several Victims' In Shooting Near Rave Attended By 3,500 In Switzerland",
-    "New plan to end employment authorization for some spouses of H-1B visa holders: '600,000+ jobs will open",
+    "US-Venezuela energy pact: What we know about Trump’s ‘biggest oil deal in world history’",
     "Iran’s leaders acknowledge economic toll of war, pledge diplomacy, defence",
-    "Vote count under way in Iceland’s knife-edge EU referendum",
+    "Russian strike on Kyiv-area ammunition depot triggers blast, killing 37",
     "HDFC Bank CEO Jagdishan to step down, decides not to seek reappointment",
     "India becomes key petrol supplier to Russia amid attacks on refineries, fuel shortages",
     "Sony and Warner Music Sue Anthropic, Alleging Theft of Intellectual Property",
@@ -26,128 +26,128 @@
     "Deals: the Galaxy S26 FE is coming, Galaxy S26 series on sale, Nothing Phone (3) also discounted - GSMArena.com news",
     "Buy a new Galaxy Watch with enhanced trade-in savings, return it if you don't like it",
     "'Toxic' box office collections day 4: Yash, Nayanthara, Kiara Advani starrer records 9.9% drop; worldwide",
-    "WWE Hall of Famer involved in a car accident",
-    "Irumudi Box Office Collections: Ravi Teja starrer has an OUTSTANDING 2nd Friday, Beats Pushpa 2, Kalki and Baahubali in APTS"
+    "Tom Cruise announces ‘Days of Thunder’ sequel with Anne Hathaway in new video",
+    "WWE Hall of Famer involved in a car accident"
   ],
   "quiz": [
     {
-      "blanked": "PM Modi lands in Uzbekistan on two-nation visit, SCO summit; President Shavkat ______ receives him | India News",
-      "answer": "Mirziyoyev",
+      "blanked": "Sony and Warner Music Sue Anthropic, Alleging Theft of Intellectual ______",
+      "answer": "Property",
       "options": [
-        "Times",
-        "August",
-        "Mirziyoyev",
-        "FDA"
-      ]
-    },
-    {
-      "blanked": "Nepal flash floods ______ Nepal flood death toll rises to 734, disaster authority says",
-      "answer": "LIVE",
-      "options": [
-        "LIVE",
-        "Suryakumar",
-        "Officer",
-        "Horoscope"
-      ]
-    },
-    {
-      "blanked": "Pisces Horoscope Today: August 30, ______",
-      "answer": "2026",
-      "options": [
-        "Music",
-        "Switzerland",
-        "2026",
-        "Bank"
-      ]
-    },
-    {
-      "blanked": "HDFC Bank CEO ______ to step down, decides not to seek reappointment",
-      "answer": "Jagdishan",
-      "options": [
-        "Jagdishan",
-        "Dead",
-        "Visible",
-        "Muslims"
+        "News",
+        "Property",
+        "Horoscope",
+        "Red"
       ]
     },
     {
       "blanked": "Buy a new ______ Watch with enhanced trade-in savings, return it if you don't like it",
       "answer": "Galaxy",
       "options": [
+        "Watch",
+        "Sanju",
         "Galaxy",
-        "PSGs",
-        "Nepal",
-        "Vantage"
+        "Shreyas"
       ]
     },
     {
-      "blanked": "Dispelling myths, misconceptions surrounding ______ vaccination for young women",
-      "answer": "HPV",
+      "blanked": "‘Aise bhi log hote hain life mein’: Suryakumar reveals ______ Samson’s incredible response after being dro",
+      "answer": "Sanju",
       "options": [
-        "Grace",
-        "HPV",
-        "Glacial",
-        "Slams"
-      ]
-    },
-    {
-      "blanked": "Tilak Varma in India’s ODI World Cup plans as selectors seek Shreyas ______ backup",
-      "answer": "Iyer",
-      "options": [
-        "Iyer",
-        "You",
-        "FDA",
-        "Box"
-      ]
-    },
-    {
-      "blanked": "Deals: the Galaxy S26 FE is coming, Galaxy S26 series on sale, Nothing ______ (3) also discounted - GSMArena.com news",
-      "answer": "Phone",
-      "options": [
-        "Shooting",
-        "York",
-        "Phone",
-        "Africa"
-      ]
-    },
-    {
-      "blanked": "Punjab AAP activist ______ Singh Gopi shot dead near Ferozepur; cops suspect old dispute, elections as motive | India News",
-      "answer": "Gurpreet",
-      "options": [
-        "America",
-        "600000",
-        "Gurpreet",
-        "Iyer"
+        "Samsons",
+        "Telescope",
+        "Sanju",
+        "Across"
       ]
     },
     {
       "blanked": "India becomes key petrol supplier to ______ amid attacks on refineries, fuel shortages",
       "answer": "Russia",
       "options": [
-        "Donald",
-        "Gopi",
-        "Bhagwat",
-        "Russia"
+        "Russia",
+        "Nepal",
+        "World",
+        "Three"
       ]
     },
     {
-      "blanked": "WWE Hall of ______ involved in a car accident",
-      "answer": "Famer",
+      "blanked": "\"You Think ______ Are A Lord?\" Bombay High Court Slams FDA Officer Over Suspension Of Eateries Of Mumbai...",
+      "answer": "You",
       "options": [
-        "Office",
-        "Famer",
-        "Today",
-        "Channels"
+        "Slams",
+        "Start",
+        "You",
+        "President"
       ]
     },
     {
-      "blanked": "Liverpool strike deal to sign PSG’s ______ for up to $166m: Reports",
-      "answer": "Barcola",
+      "blanked": "How & Where to Watch Inter Miami vs. CF Montreal? Start ______ Live Streaming and TV Channels",
+      "answer": "Time",
       "options": [
-        "Ferozepur",
+        "Time",
+        "Switzerland",
+        "Quota",
+        "Jitan"
+      ]
+    },
+    {
+      "blanked": "Day traders are abandoning ______ chip leveraged ETFs in droves",
+      "answer": "Korean",
+      "options": [
+        "Korean",
+        "Iyer",
+        "Suspension",
+        "Congress"
+      ]
+    },
+    {
+      "blanked": "Nancy Grace ______ Telescope live updates: Roman and Falcon Heavy delivered to launch pad",
+      "answer": "Roman",
+      "options": [
+        "Intellectual",
         "Barcola",
-        "Sanju",
-        "Hall"
+        "Roman",
+        "600000"
+      ]
+    },
+    {
+      "blanked": "Punjab AAP activist Gurpreet Singh Gopi shot dead near ______ cops suspect old dispute, elections as motive | India News",
+      "answer": "Ferozepur",
+      "options": [
+        "Time",
+        "Kushinagar",
+        "Attended",
+        "Ferozepur"
+      ]
+    },
+    {
+      "blanked": "Tom Cruise announces ‘Days of Thunder’ sequel with Anne ______ in new video",
+      "answer": "Hathaway",
+      "options": [
+        "Manjhi",
+        "Mirziyoyev",
+        "ETFs",
+        "Hathaway"
+      ]
+    },
+    {
+      "blanked": "Ministers Chirag Paswan, Jitan Manjhi Clash Over Quota, Demand ______",
+      "answer": "Resignations",
+      "options": [
+        "Three",
+        "Property",
+        "Gandhis",
+        "Resignations"
+      ]
+    },
+    {
+      "blanked": "Trump's 'Lake ______ name change sparks 'Donald Ducks' memes on social media | Hindustan Times",
+      "answer": "America",
+      "options": [
+        "Sue",
+        "FDA",
+        "Vantage",
+        "America"
       ]
     }
   ]
