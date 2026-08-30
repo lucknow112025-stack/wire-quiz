@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-30T00:48:39.329Z",
+  "generatedAt": "2026-08-30T01:03:40.395Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
     "Nepal and China resume flood rescue as death toll surpasses 600",
     "PM Modi lands in Uzbekistan on two-nation visit, President Shavkat Mirziyoyev receives him | India News",
-    "Israeli settlers surround Palestinian home in occupied West Bank’s Qusra",
     "Mohan Bhagwat Poster Goes Up On Times Square Billboard Ahead Of RSS Chief’s MSG Address",
+    "Israeli settlers surround Palestinian home in occupied West Bank’s Qusra",
     "China removes PLA general who oversaw Doklam and Galwan standoffs with India from key post",
     "Before The Nepal Flood, A Glacial Fall: Tracing The Trigger, And A 100-km Killer Surge",
     "\"Matter Of Concern\": Chirag Paswan On M Kharge Rally \"Purification\" Row, Takes Dig At Rahul Gandhi",
     "Flash floods in Nepal: No contact still with 320 Indians; 400 stranded",
-    "Trinamool Congress Moves Calcutta High Court Against Alleged Removal Of Billboard From Party Office",
     "Manufacture in India, build for world: FM Sitharaman",
+    "Weather tomorrow: IMD warns of very heavy rain in many states; extremely heavy rain likely in Odisha",
     "Iran’s leaders acknowledge economic toll of war, pledge diplomacy, defence",
     "Canada To Impose Up To 50% Tariffs On 700 US Goods As Trade War Escalates",
     "Who is Milo Yiannopoulos, far-right British commentator, detained by ICE? Former Trump supporter faces de",
     "'Biggest deal in world history': Trump says US secured 65 billion barrels of Venezuelan oil | World News",
     "HDFC Bank CEO Jagdishan to step down, decides not to seek reappointment",
-    "Sold house, personal assets, now living on rental income: Zee founder Subhash Chandra reveals his finances",
-    "CNG Prices Hiked By Rs 3.89 In Delhi-NCR: Check City-Wise Rates",
-    "US stocks open mixed as Kevin Warsh provides fresh cues for inflation, interest rate and growth",
+    "Union Bank To Challenge Approval Of Subhash Chandra's Insolvency Plan",
+    "CNG price hiked by Rs 3.89/kg in Delhi-NCR amid rising LNG cost",
+    "US Fed Chair Kevin Warsh Jackson Hole speech impact on Indian stock market, gold-silver rates | Prediction for Monday",
     "Nvidia's DLSS 5 leaked early, and modders have already broken it out of its Blackwell cage",
     "Here's when the iPhone 18 Pro and iPhone 18 Pro Max are rumored to go on pre-order - GSMArena.com news",
     "GTA VI Has Over 600,000 Animations Compared To GTA V's 55,000 & Red Dead Redemption 2's 300,000",
-    "Deals: the Galaxy S26 FE is coming, Galaxy S26 series on sale, Nothing Phone (3) also discounted - GSMArena.com news",
+    "Tech wrap week: From Samsung Galaxy S26 FE to AI-powered laptops, here’s what’s new",
     "'Toxic' box office collection Day 4 [LIVE]: Yash and Kiara Advani film races past Rs 182 crore domestic net milestone",
     "Nashville airport to be renamed after Dolly Parton, Tennessee's governor announces days after singer's demise",
     "'SNL’ star Kenan Thompson to join ‘America’s Got Talent’ after Simon Cowell takes a break for back surger"
   ],
   "quiz": [
     {
-      "blanked": "PHOTOS: ______ appears orange due to partial lunar eclipse",
-      "answer": "Moon",
+      "blanked": "Israeli settlers surround Palestinian home in occupied West ______ Qusra",
+      "answer": "Banks",
       "options": [
-        "ZUNHEBOTO",
-        "Impose",
-        "Moon",
-        "Widespread"
+        "Banks",
+        "Goes",
+        "Archer",
+        "India"
       ]
     },
     {
-      "blanked": "Irumudi Box ______ Collections: Ravi Teja starrer has an OUTSTANDING 2nd Friday, Beats Pushpa 2, Kalki and Baahubali in APTS",
-      "answer": "Office",
+      "blanked": "Nancy Grace ______ Telescope live updates: Roman and Falcon Heavy delivered to launch pad",
+      "answer": "Roman",
       "options": [
-        "2026",
-        "Bank",
-        "Office",
-        "Modi"
-      ]
-    },
-    {
-      "blanked": "'SNL’ star Kenan Thompson to join ______ Got Talent’ after Simon Cowell takes a break for back surger",
-      "answer": "Americas",
-      "options": [
-        "Surge",
-        "Americas",
-        "Address",
-        "Times"
-      ]
-    },
-    {
-      "blanked": "\"Matter Of Concern\": Chirag Paswan On M Kharge Rally ______ Row, Takes Dig At Rahul Gandhi",
-      "answer": "Purification",
-      "options": [
-        "Solar",
-        "Lords",
-        "Purification",
-        "Kevin"
-      ]
-    },
-    {
-      "blanked": "Deals: the ______ S26 FE is coming, Galaxy S26 series on sale, Nothing Phone (3) also discounted - GSMArena.com news",
-      "answer": "Galaxy",
-      "options": [
-        "Takes",
-        "Calcutta",
-        "Galaxy",
-        "High"
-      ]
-    },
-    {
-      "blanked": "Leukocyte Telomere Length Shows ______ Value in Pancreatic Cancer",
-      "answer": "Limited",
-      "options": [
-        "Palestinian",
-        "Limited",
-        "APTS",
-        "CONDUCTED"
-      ]
-    },
-    {
-      "blanked": "Flash floods in Nepal: No contact still with ______ Indians; 400 stranded",
-      "answer": "320",
-      "options": [
-        "Goods",
         "Dig",
-        "Surge",
-        "320"
+        "Blackwell",
+        "Modi",
+        "Roman"
       ]
     },
     {
-      "blanked": "Canada To Impose Up To 50% Tariffs On 700 US Goods As ______ War Escalates",
-      "answer": "Trade",
+      "blanked": "Nepal and ______ resume flood rescue as death toll surpasses 600",
+      "answer": "China",
       "options": [
-        "Satellites",
-        "Palestinian",
-        "Trade",
-        "Address"
-      ]
-    },
-    {
-      "blanked": "Mohan Bhagwat Poster Goes Up On Times ______ Billboard Ahead Of RSS Chief’s MSG Address",
-      "answer": "Square",
-      "options": [
-        "Square",
-        "India",
-        "Milo",
+        "Sri",
+        "Bank",
+        "Delhi-NCR",
         "China"
       ]
     },
     {
-      "blanked": "'Biggest deal in world history': Trump says US secured 65 billion barrels of Venezuelan oil | World ______",
+      "blanked": "Tech wrap week: From Samsung Galaxy S26 FE to ______ laptops, here’s what’s new",
+      "answer": "AI-powered",
+      "options": [
+        "Trump",
+        "Cowell",
+        "Nepal",
+        "AI-powered"
+      ]
+    },
+    {
+      "blanked": "\"Matter Of Concern\": ______ Paswan On M Kharge Rally \"Purification\" Row, Takes Dig At Rahul Gandhi",
+      "answer": "Chirag",
+      "options": [
+        "600",
+        "Kharge",
+        "Chirag",
+        "ESC"
+      ]
+    },
+    {
+      "blanked": "Mohan Bhagwat Poster ______ Up On Times Square Billboard Ahead Of RSS Chief’s MSG Address",
+      "answer": "Goes",
+      "options": [
+        "Indians",
+        "Suns",
+        "Goes",
+        "War"
+      ]
+    },
+    {
+      "blanked": "Leukocyte Telomere Length Shows Limited Value in ______ Cancer",
+      "answer": "Pancreatic",
+      "options": [
+        "Cup",
+        "Pancreatic",
+        "Traffic",
+        "2026"
+      ]
+    },
+    {
+      "blanked": "HDFC Bank ______ Jagdishan to step down, decides not to seek reappointment",
+      "answer": "CEO",
+      "options": [
+        "Archer",
+        "CEO",
+        "Galwan",
+        "Office"
+      ]
+    },
+    {
+      "blanked": "PM Modi lands in Uzbekistan on two-nation visit, President Shavkat Mirziyoyev receives him | India ______",
       "answer": "News",
       "options": [
-        "Hiked",
+        "Escalates",
         "News",
+        "50%",
+        "Modi"
+      ]
+    },
+    {
+      "blanked": "Robinson, ______ put England in command at Lord's",
+      "answer": "Archer",
+      "options": [
+        "Indian",
+        "Lanka",
         "Archer",
-        "CAMPAIGN"
+        "Talent"
       ]
     },
     {
-      "blanked": "Nancy Grace Roman Telescope live updates: ______ and Falcon Heavy delivered to launch pad",
-      "answer": "Roman",
+      "blanked": "HPV VACCINATION CAMPAIGN TO BE ______ IN ZUNHEBOTO DISTRICT",
+      "answer": "CONDUCTED",
       "options": [
-        "Roman",
-        "Simon",
-        "Argentina",
-        "Shavkat"
+        "Banks",
+        "CONDUCTED",
+        "Former",
+        "Chiefs"
       ]
     },
     {
-      "blanked": "Suryakumar on being dropped: ______ everything is going well, why the change?'",
-      "answer": "When",
+      "blanked": "Aditya-L1 catches Sun's early warning signs before ______ flares",
+      "answer": "Solar",
       "options": [
-        "ZUNHEBOTO",
-        "When",
-        "Grace",
-        "PLA"
+        "Prediction",
+        "Concern",
+        "Solar",
+        "Limited"
       ]
     }
   ]
