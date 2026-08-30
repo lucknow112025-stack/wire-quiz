@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-30T15:33:33.734Z",
+  "generatedAt": "2026-08-30T15:48:33.864Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
     "Nepal flash floods LIVE: Death toll reaches 781; rescuers drill through debris towards trapped tunnel workers",
     "India, Uzbekistan seal long-term uranium supply deal during PM Modi visit",
-    "UP man rapes girlfriend, kills her after taking sexual stimulant drug at hotel on his birthday",
     "Iran's Khamenei urges Gulf rulers in written message to confront 'real enemy'",
     "Turkey, Saudi Arabia, Pakistan to hold first defence pact meeting, source says",
     "Before The Nepal Flood, A Glacial Fall: Tracing The Trigger, And A 100-km Killer Surge",
+    "Mann Ki Baat: PM Modi praises Mumbai man for creating specialised website to know India's history",
     "India becomes key petrol supplier to Russia amid attacks on refineries, fuel shortages",
     "New J&K Terror Tactic: Pornography Apps, Tor Network Used For Secret Messaging",
     "Salary deductions for Odisha government employees defaulting on alimony",
     "Students Cannot Be Punished For Asking Questions; Intolerance Is At Odds With Constitution: Justice Ujjal ...",
     "7 dead, 172 rescued after ferry carrying 270 capsizes off North Cyprus, ‘completely’ sinks | World News",
+    "Trump wants 'Lake America'. Canada puts up a 24-foot sign saying otherwise",
     "US-Venezuela energy pact: What we know about Trump’s ‘biggest oil deal in world history’",
     "Israel Kills 3-Year-Old Boy In Airstrike Near Gaza Bakery",
-    "Where Mines Once Hid, Sunflowers Now Grow: Woman Reclaiming Ukrainian Fields",
     "India's HDFC Bank weighing deputy MD Bharucha, outsider for CEO, sources say",
     "Bira 91 faces insolvency push as HNGIL seeks Rs 11.8 crore",
-    "Tata Motors EV bookings triple over the last 6 months - Team-BHP",
     "Apple Watch To Vision Pro: Tim Cook's Five Greatest Product Hits That Redefined Apple",
-    "Philips Hue shares how Nanoleaf panel control through its app is going to work",
+    "Tata Motors EV bookings triple over the last 6 months - Team-BHP",
+    "You might soon be able to control Nanoleaf lights via the Philips Hue app according to this latest leak",
     "iPhone 18 launch: Release date, expected price in India",
     "GTA 6 Extended Look Reveals Jason, Lucia And Leonida Gameplay",
-    "Windows 11 is warning people that Defender Antivirus has been turned off, but don't worry, says Microsoft",
+    "2026’s Best Phone For Battery Life Is A Surprise",
     "Toxic Box Office Collections: Yash starrer continues to slip, tops Rs. 200 Cr in India on 4th day",
     "Sonam Wangchuk's witty response to Aamir Khan denying his '3 Idiots' character was based on him: 'Kyunki",
-    "Sunny Deol And Rajkumar Santoshi To Reunite For Ghatak Ghus Ke Maarega"
+    "Samay Raina's India's Got Latent most-viewed episodes: From Alia Bhatt to Orry, episodes that broke viewership records | Web Series"
   ],
   "quiz": [
     {
-      "blanked": "A ______ physicist proposed a way to create quantum images 20 years ago; after two decades waiting for e",
-      "answer": "Chicago",
+      "blanked": "Iran's Khamenei urges ______ rulers in written message to confront 'real enemy'",
+      "answer": "Gulf",
       "options": [
-        "Manthena",
-        "Federer",
-        "Mines",
-        "Chicago"
+        "Gulf",
+        "London",
+        "September",
+        "Reveals"
       ]
     },
     {
-      "blanked": "Formaldehyde Contact Allergy Remains a ______ Concern",
-      "answer": "Global",
+      "blanked": "Muzumdar: ______ hungry to win some tournaments'",
+      "answer": "India",
       "options": [
-        "Bharucha",
-        "Tracing",
-        "Global",
+        "Watch",
+        "Product",
+        "India",
         "Holistic"
       ]
     },
     {
-      "blanked": "Salary deductions for ______ government employees defaulting on alimony",
-      "answer": "Odisha",
+      "blanked": "Mann Ki Baat: PM Modi praises ______ man for creating specialised website to know India's history",
+      "answer": "Mumbai",
       "options": [
-        "Venus",
-        "Holistic",
-        "Odisha",
-        "Hall"
-      ]
-    },
-    {
-      "blanked": "Turkey, Saudi ______ Pakistan to hold first defence pact meeting, source says",
-      "answer": "Arabia",
-      "options": [
-        "Maarega",
-        "Justice",
-        "Arabia",
-        "Glacial"
-      ]
-    },
-    {
-      "blanked": "SpaceX set to launch NASA’s ______ billion Roman space telescope",
-      "answer": "4.3",
-      "options": [
-        "Health",
-        "Boy",
-        "Idiots",
-        "4.3"
-      ]
-    },
-    {
-      "blanked": "US-Venezuela energy pact: ______ we know about Trump’s ‘biggest oil deal in world history’",
-      "answer": "What",
-      "options": [
-        "What",
-        "Bharucha",
-        "Venus",
-        "Phase"
-      ]
-    },
-    {
-      "blanked": "India's HDFC Bank weighing deputy MD Bharucha, outsider for ______ sources say",
-      "answer": "CEO",
-      "options": [
-        "270",
-        "CEO",
-        "Disease-Driven",
-        "Hall"
-      ]
-    },
-    {
-      "blanked": "Sri Lanka lose ______ Champions Trophy hosting rights",
-      "answer": "Womens",
-      "options": [
-        "Tactic",
+        "Gibbous",
+        "Mumbai",
         "Bhatt",
-        "Womens",
-        "Bharucha"
+        "Lanka"
       ]
     },
     {
-      "blanked": "Iran's ______ urges Gulf rulers in written message to confront 'real enemy'",
-      "answer": "Khamenei",
+      "blanked": "Tata Motors EV bookings triple over the last 6 months - ______",
+      "answer": "Team-BHP",
       "options": [
-        "Series",
-        "Clocks",
-        "Pakistan",
-        "Khamenei"
-      ]
-    },
-    {
-      "blanked": "Moon Phase Today, August 29, 2026: Waning Gibbous at ______ After the Sturgeon Moon Eclipse",
-      "answer": "97%",
-      "options": [
-        "What",
+        "Gameplay",
+        "Extended",
         "Team-BHP",
-        "97%",
-        "Rainas"
+        "Uzbekistan"
       ]
     },
     {
-      "blanked": "Official: Chelsea sign Emiliano Martínez from ______ Villa",
-      "answer": "Aston",
+      "blanked": "New J&K Terror Tactic: Pornography ______ Tor Network Used For Secret Messaging",
+      "answer": "Apps",
       "options": [
-        "Eclipse",
-        "What",
-        "Aston",
-        "Watch"
+        "Orry",
+        "Apps",
+        "Greatest",
+        "Alvarez"
       ]
     },
     {
       "blanked": "Amid rising swine flu cases, ______ govt asks hospitals to reserve isolation beds",
       "answer": "Delhi",
       "options": [
-        "Hue",
-        "Lanka",
-        "Martnez",
-        "Delhi"
+        "200",
+        "Delhi",
+        "Ageing",
+        "Bank"
+      ]
+    },
+    {
+      "blanked": "US-Venezuela energy pact: ______ we know about Trump’s ‘biggest oil deal in world history’",
+      "answer": "What",
+      "options": [
+        "Gaza",
+        "HDFC",
+        "Odisha",
+        "What"
+      ]
+    },
+    {
+      "blanked": "GTA 6 Extended Look ______ Jason, Lucia And Leonida Gameplay",
+      "answer": "Reveals",
+      "options": [
+        "Messaging",
+        "Office",
+        "Reveals",
+        "Reveal"
+      ]
+    },
+    {
+      "blanked": "Emotional Roger Federer Inducted ______ Tennis Hall Of Fame",
+      "answer": "Into",
+      "options": [
+        "Vision",
+        "Five",
+        "Into",
+        "Gaza"
+      ]
+    },
+    {
+      "blanked": "India's HDFC ______ weighing deputy MD Bharucha, outsider for CEO, sources say",
+      "answer": "Bank",
+      "options": [
+        "Bank",
+        "Battery",
+        "Health",
+        "Moon"
+      ]
+    },
+    {
+      "blanked": "Bira 91 faces insolvency push as HNGIL seeks Rs ______ crore",
+      "answer": "11.8",
+      "options": [
+        "Five",
+        "Kartik",
+        "11.8",
+        "Product"
+      ]
+    },
+    {
+      "blanked": "You might soon be able to control ______ lights via the Philips Hue app according to this latest leak",
+      "answer": "Nanoleaf",
+      "options": [
+        "Nanoleaf",
+        "Eclipse",
+        "Redefined",
+        "Philips"
       ]
     }
   ]
