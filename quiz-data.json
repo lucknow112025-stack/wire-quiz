@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-30T18:03:30.169Z",
+  "generatedAt": "2026-08-30T18:18:25.182Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
     "PM Modi conferred with Uzbekistan's prestigious ‘Oliy Darajali Do'stlik’ Order",
     "Himachal identifies 67 vulnerable glacial lakes, early warning systems planned for 4",
     "H-4 EAD: What the latest US move means for Indian spouses of H-1Bs and why there is no need to panic yet",
-    "Rescuers battle floods and debris as Himalayan disaster death toll nears 800",
-    "Iran’s Khamenei calls for Gulf unity as Hormuz tensions persist",
+    "Iran's Khamenei urges Gulf rulers in written message to confront 'real enemy'",
+    "Submerged In Debris: NDTV Ground Report From Nepal's Worst Flood-Hit District",
     "UP man rapes girlfriend, kills her after taking sexual stimulant drug at hotel on his birthday",
+    "Bengaluru Techie Dead, Friend Hurt As Both Fall From 7th Floor After Dispute",
     "India becomes key petrol supplier to Russia amid attacks on refineries, fuel shortages",
-    "‘Excessive speed’: 8-year-old boy killed as woman driver on phone runs him over in Mumbai; arrested",
+    "8-year-old boy dies after Mumbai woman, on a phone call, runs speeding SUV over him in Bandra",
     "'BJP thinks it is bigger than RSS, it should listen to Mohan Bhagwat': CJP leader Abhijeet Dipke",
-    "New J&K Terror Tactic: Pornography Apps, Tor Network Used For Secret Messaging",
     "7 dead, 172 rescued after ferry carrying 270 capsizes off North Cyprus, ‘completely’ sinks | World News",
-    "Nepal floods LIVE: 800 killed in Nepal floods; 32 injured as bus crashes in Nawalparasi | Hindustan Times",
     "Iceland Set to Reject EU Entry Talks in Tight Referendum",
-    "US-Venezuela energy pact: What we know about Trump’s ‘biggest oil deal in world history’",
-    "India's HDFC Bank weighing deputy MD Bharucha, outsider for CEO, sources say",
-    "India’s GDP growth likely to stay strong at 7-7.2% in FY27 despite global risks: Report",
+    "Istanbul to host first committee meeting of Turkey-Saudi-Pakistan defence alliance: Report",
+    "'We're alive': Kyiv-area survivor recalls Russian strike that killed 38",
+    "What will happen to HDFC Bank share price on Monday in the wake of management level developments?",
     "Subhash Chandra insolvency: Why are creditors set to recover only ₹6.5 crore against ₹22,006 crore claims?",
-    "Apple Watch To Vision Pro: Tim Cook's Five Greatest Product Hits That Redefined Apple",
+    "Tim Cook Steps Down: How He Took Apple From $350 Billion To $4 Trillion",
+    "India’s GDP growth likely to stay strong at 7-7.2% in FY27 despite global risks: Report",
     "iPhone 18 launch: Release date, expected price in India",
     "GTA 6 Extended Look Reveals Jason, Lucia And Leonida Gameplay",
     "Weekly poll results: the Honor Robot Phone draws in a crowd with its camera capabilities",
     "iPhone 17 Pro Max Price Slashed Worldwide Before iPhone 18 Launch",
-    "Toxic Box Office Collections: Yash starrer continues to slip, tops Rs. 200 Cr in India on 4th day",
+    "Toxic Box Office Collection Day 4 Live Updates: Yash film crosses Rs 250 cr mark worldwide, earns over Rs 15 cr on Sunday",
     "Sonam Wangchuk's witty response to Aamir Khan denying his '3 Idiots' character was based on him: 'Kyunki",
-    "‘Mirzapur: The Movie’ gets CBFC certificate; Ali Fazal-Pankaj Tripathi starrer clocks 3 hours 17 minutes"
+    "Academy shares Deepika Padukone and Ranbir Kapoor's 'Yeh Jawaani Hai Deewani' scene; Naina-Bunny NOSTALGI"
   ],
   "quiz": [
     {
-      "blanked": "Toxic Box ______ Collections: Yash starrer continues to slip, tops Rs. 200 Cr in India on 4th day",
-      "answer": "Office",
+      "blanked": "What will happen to HDFC ______ share price on Monday in the wake of management level developments?",
+      "answer": "Bank",
       "options": [
-        "World",
-        "GDP",
-        "Office",
-        "Box"
+        "Bhagwat",
+        "Reject",
+        "Techie",
+        "Bank"
       ]
     },
     {
-      "blanked": "Nepal floods LIVE: 800 killed in Nepal floods; 32 injured as bus crashes in Nawalparasi | ______ Times",
-      "answer": "Hindustan",
+      "blanked": "Sri Lanka lose Women's Champions ______ hosting rights",
+      "answer": "Trophy",
       "options": [
-        "Khan",
-        "195",
-        "Hindustan",
-        "Box"
+        "Global",
+        "Moon",
+        "Abhijeet",
+        "Trophy"
       ]
     },
     {
-      "blanked": "Moon ______ Today, August 29, 2026: Waning Gibbous at 97% After the Sturgeon Moon Eclipse",
-      "answer": "Phase",
+      "blanked": "GTA 6 Extended Look Reveals Jason, Lucia And ______ Gameplay",
+      "answer": "Leonida",
       "options": [
-        "Phase",
-        "Box",
-        "Apple",
-        "Secret"
-      ]
-    },
-    {
-      "blanked": "Subhash Chandra insolvency: Why are creditors set to recover only ______ crore against ₹22,006 crore claims?",
-      "answer": "6.5",
-      "options": [
-        "Cooks",
-        "Apple",
-        "6.5",
-        "Bhagwat"
-      ]
-    },
-    {
-      "blanked": "Duleep Trophy: North Zone fold for ______ on opening day",
-      "answer": "195",
-      "options": [
-        "195",
-        "HDFC",
-        "EAD",
-        "Phone"
-      ]
-    },
-    {
-      "blanked": "iPhone 17 ______ Max Price Slashed Worldwide Before iPhone 18 Launch",
-      "answer": "Pro",
-      "options": [
-        "Pro",
-        "Hits",
+        "Leonida",
+        "NOSTALGI",
         "Phone",
-        "Trumps"
+        "Uzbekistans"
+      ]
+    },
+    {
+      "blanked": "Moon Phase Today, August 29, 2026: Waning Gibbous at ______ After the Sturgeon Moon Eclipse",
+      "answer": "97%",
+      "options": [
+        "Floor",
+        "Naina-Bunny",
+        "Dostlik",
+        "97%"
+      ]
+    },
+    {
+      "blanked": "Subhash Chandra insolvency: Why are creditors set to recover only ₹6.5 crore against ______ crore claims?",
+      "answer": "22006",
+      "options": [
+        "22006",
+        "Bhagwat",
+        "Cook",
+        "Lucia"
+      ]
+    },
+    {
+      "blanked": "H-4 EAD: ______ the latest US move means for Indian spouses of H-1Bs and why there is no need to panic yet",
+      "answer": "What",
+      "options": [
+        "Myocardial",
+        "Mumbai",
+        "What",
+        "Order"
+      ]
+    },
+    {
+      "blanked": "Formaldehyde Contact ______ Remains a Global Concern",
+      "answer": "Allergy",
+      "options": [
+        "RSS",
+        "Colon",
+        "172",
+        "Allergy"
       ]
     },
     {
       "blanked": "India becomes key petrol supplier to ______ amid attacks on refineries, fuel shortages",
       "answer": "Russia",
       "options": [
-        "Bank",
-        "Russia",
-        "Colon",
-        "Tripathi"
+        "Entry",
+        "Dipke",
+        "Suns",
+        "Russia"
       ]
     },
     {
-      "blanked": "US-Venezuela energy pact: ______ we know about Trump’s ‘biggest oil deal in world history’",
-      "answer": "What",
+      "blanked": "India’s GDP growth likely to stay strong at 7-7.2% in FY27 despite global risks: ______",
+      "answer": "Report",
       "options": [
+        "SUV",
+        "Report",
+        "97%",
+        "Waning"
+      ]
+    },
+    {
+      "blanked": "Submerged In Debris: NDTV Ground Report From Nepal's Worst Flood-Hit ______",
+      "answer": "District",
+      "options": [
+        "District",
+        "Ali",
+        "Phase",
+        "Hall"
+      ]
+    },
+    {
+      "blanked": "Duleep Trophy: ______ Zone fold for 195 on opening day",
+      "answer": "North",
+      "options": [
+        "North",
         "Womens",
-        "Hormuz",
-        "What",
-        "Roman"
+        "Tennis",
+        "Movie"
       ]
     },
     {
-      "blanked": "iPhone 18 launch: Release date, expected price in ______",
-      "answer": "India",
+      "blanked": "‘Mirzapur: The Movie’ gets ______ certificate; Ali Fazal-Pankaj Tripathi starrer clocks 3 hours 17 minutes",
+      "answer": "CBFC",
       "options": [
-        "India",
-        "Tim",
-        "Global",
-        "Product"
-      ]
-    },
-    {
-      "blanked": "'BJP thinks it is bigger than RSS, it should listen to ______ Bhagwat': CJP leader Abhijeet Dipke",
-      "answer": "Mohan",
-      "options": [
-        "Robot",
-        "Disease-Driven",
-        "North",
-        "Mohan"
-      ]
-    },
-    {
-      "blanked": "A ______ physicist proposed a way to create quantum images 20 years ago; after two decades waiting for e",
-      "answer": "Chicago",
-      "options": [
-        "Reject",
-        "North",
-        "Chicago",
-        "Himalayan"
-      ]
-    },
-    {
-      "blanked": "NASA launches $4.3bn Roman ______ to uncover universe’s hidden secrets",
-      "answer": "Telescope",
-      "options": [
-        "Telescope",
-        "Hits",
-        "Price",
-        "Simplifies"
+        "Lucia",
+        "ESC",
+        "Worldwide",
+        "CBFC"
       ]
     }
   ]
