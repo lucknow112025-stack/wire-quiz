@@ -1,53 +1,143 @@
 {
-  "generatedAt": "2026-08-30T02:18:35.525Z",
+  "generatedAt": "2026-08-30T02:33:24.947Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
     "Nepal floods: ‘Bodies buried in slush, families refusing food’, Khalsa Aid volunteers witness devastation",
-    "Hindu wanting Muslims out of India won’t remain a Hindu: Mohan Bhagwat in New York",
     "PM Modi lands in Uzbekistan on two-nation visit, President Shavkat Mirziyoyev receives him | India News",
+    "Hindu wanting Muslims out of India won’t remain a Hindu: Mohan Bhagwat in New York",
     "Before The Nepal Flood, A Glacial Fall: Tracing The Trigger, And A 100-km Killer Surge",
     "China removes PLA general who oversaw Doklam and Galwan standoffs with India from key post",
-    "HDFC Bank CEO Sashidhar Jagdishan to step down after term ends in October",
+    "Man, aide beat his schizophrenic son with rock, strangle him; put body in container",
     "\"Matter Of Concern\": Chirag Paswan On M Kharge Rally \"Purification\" Row, Takes Dig At Rahul Gandhi",
-    "Delhi man kills schizophrenic son, lured him to shipping container on pretext of doctor visit | India News",
     "Flash floods in Nepal: No contact still with 320 Indians; 400 stranded",
     "Telangana SIR: Voters must be informed hearing date 2 days ahead",
+    "Mumbai techie awaits news of wife missing after Nepal border tragedy",
+    "37 Killed As Russian Strikes Ukraine's Kyiv, 50 Residential Buildings Damaged",
     "Nepal seeks to import power earlier from India after flood devastation, asks for approvals",
     "Canada To Impose Up To 50% Tariffs On 700 US Goods As Trade War Escalates",
     "Iran’s leaders acknowledge economic toll of war, pledge diplomacy, defence",
-    "Who is Milo Yiannopoulos, far-right British commentator, detained by ICE? Former Trump supporter faces de",
+    "HDFC Bank CEO Jagdishan to step down, decides not to seek reappointment",
     "Union Bank To Challenge Approval Of Subhash Chandra's Insolvency Plan",
     "CNG price hiked by Rs 3.89/kg in Delhi-NCR amid rising LNG cost",
     "US Fed Chair Kevin Warsh Jackson Hole speech impact on Indian stock market, gold-silver rates | Prediction for Monday",
-    "After Supreme Court Rap, FSSAI Proposes Pictorial Front-of-Pack Warning Labels For Packaged Foods High In ...",
     "First look at Grand Theft Auto 6 gameplay released on Netflix ahead of November launch",
     "Here's when the iPhone 18 Pro and iPhone 18 Pro Max are rumored to go on pre-order - GSMArena.com news",
     "Nvidia's DLSS 5 leaked early, and modders have already broken it out of its Blackwell cage",
     "Deals: the Galaxy S26 FE is coming, Galaxy S26 series on sale, Nothing Phone (3) also discounted - GSMArena.com news",
     "'Toxic' box office collections day 4: Yash, Nayanthara, Kiara Advani starrer records 9.9% drop; worldwide",
-    "Nashville airport to be renamed after Dolly Parton, Tennessee's governor announces days after singer's demise",
-    "Irumudi Box Office Collections: Ravi Teja starrer has an OUTSTANDING 2nd Friday, Beats Pushpa 2, Kalki and Baahubali in APTS"
+    "Irumudi Box Office Collections: Ravi Teja starrer has an OUTSTANDING 2nd Friday, Beats Pushpa 2, Kalki and Baahubali in APTS",
+    "Nashville airport to be renamed after Dolly Parton, Tennessee's governor announces days after singer's demise"
   ],
   "quiz": [
     {
-      "blanked": "Telangana ______ Voters must be informed hearing date 2 days ahead",
-      "answer": "SIR",
+      "blanked": "US Fed Chair Kevin Warsh Jackson Hole speech impact on ______ stock market, gold-silver rates | Prediction for Monday",
+      "answer": "Indian",
       "options": [
-        "Silent",
-        "SIR",
-        "Escalates",
-        "Prediction"
+        "400",
+        "President",
+        "Indian",
+        "Tracing"
       ]
     },
     {
-      "blanked": "Deals: the ______ S26 FE is coming, Galaxy S26 series on sale, Nothing Phone (3) also discounted - GSMArena.com news",
-      "answer": "Galaxy",
+      "blanked": "CNG price hiked by Rs 3.89/kg in ______ amid rising LNG cost",
+      "answer": "Delhi-NCR",
       "options": [
-        "Tennessees",
-        "Galaxy",
-        "Bank",
-        "World"
+        "Box",
+        "Delhi-NCR",
+        "Suns",
+        "Mohan"
+      ]
+    },
+    {
+      "blanked": "Aditya-L1 catches ______ early warning signs before Solar flares",
+      "answer": "Suns",
+      "options": [
+        "ESC",
+        "Grace",
+        "Suns",
+        "Paswan"
+      ]
+    },
+    {
+      "blanked": "PHOTOS: ______ appears orange due to partial lunar eclipse",
+      "answer": "Moon",
+      "options": [
+        "Moon",
+        "Delhi",
+        "Friday",
+        "Pushpa"
+      ]
+    },
+    {
+      "blanked": "\"Matter Of Concern\": Chirag Paswan On M Kharge Rally ______ Row, Takes Dig At Rahul Gandhi",
+      "answer": "Purification",
+      "options": [
+        "Grace",
+        "August",
+        "India",
+        "Purification"
+      ]
+    },
+    {
+      "blanked": "37 Killed As Russian Strikes Ukraine's Kyiv, 50 ______ Buildings Damaged",
+      "answer": "Residential",
+      "options": [
+        "Insolvency",
+        "Phone",
+        "Residential",
+        "India"
+      ]
+    },
+    {
+      "blanked": "'Toxic' box office collections day 4: Yash, Nayanthara, ______ Advani starrer records 9.9% drop; worldwide",
+      "answer": "Kiara",
+      "options": [
+        "Kiara",
+        "Kevin",
+        "Chair",
+        "Voters"
+      ]
+    },
+    {
+      "blanked": "HDFC Bank ______ Jagdishan to step down, decides not to seek reappointment",
+      "answer": "CEO",
+      "options": [
+        "Nayanthara",
+        "Yash",
+        "Limited",
+        "CEO"
+      ]
+    },
+    {
+      "blanked": "Nancy Grace ______ Telescope live updates: Roman and Falcon Heavy delivered to launch pad",
+      "answer": "Roman",
+      "options": [
+        "Roman",
+        "Jackson",
+        "Theft",
+        "Paswan"
+      ]
+    },
+    {
+      "blanked": "Before The ______ Flood, A Glacial Fall: Tracing The Trigger, And A 100-km Killer Surge",
+      "answer": "Nepal",
+      "options": [
+        "Gandhi",
+        "Nepal",
+        "Shows",
+        "Tariffs"
+      ]
+    },
+    {
+      "blanked": "Mumbai techie awaits news of wife missing after ______ border tragedy",
+      "answer": "Nepal",
+      "options": [
+        "Chair",
+        "Forum",
+        "Nepal",
+        "Hindu"
       ]
     },
     {
@@ -55,99 +145,9 @@
       "answer": "HPV",
       "options": [
         "HPV",
-        "England",
-        "World",
-        "Paswan"
-      ]
-    },
-    {
-      "blanked": "\"Matter Of Concern\": Chirag Paswan On M Kharge Rally \"Purification\" Row, Takes Dig At Rahul ______",
-      "answer": "Gandhi",
-      "options": [
-        "Moon",
-        "Challenge",
-        "Gandhi",
-        "Sashidhar"
-      ]
-    },
-    {
-      "blanked": "PM Modi lands in Uzbekistan on two-nation visit, President Shavkat Mirziyoyev receives him | ______ News",
-      "answer": "India",
-      "options": [
-        "Monday",
-        "India",
-        "President",
-        "Dolly"
-      ]
-    },
-    {
-      "blanked": "Flash floods in Nepal: No contact still with 320 ______ 400 stranded",
-      "answer": "Indians",
-      "options": [
-        "Indians",
-        "ODI",
-        "Silent",
-        "Takes"
-      ]
-    },
-    {
-      "blanked": "PHOTOS: ______ appears orange due to partial lunar eclipse",
-      "answer": "Moon",
-      "options": [
-        "World",
-        "Moon",
-        "Tennessees",
-        "York"
-      ]
-    },
-    {
-      "blanked": "US Fed Chair ______ Warsh Jackson Hole speech impact on Indian stock market, gold-silver rates | Prediction for Monday",
-      "answer": "Kevin",
-      "options": [
-        "Chirag",
-        "Mohan",
-        "Nepal",
-        "Kevin"
-      ]
-    },
-    {
-      "blanked": "Imaging Reveals ______ Silent Atherosclerosis Burden: ESC 2026",
-      "answer": "Widespread",
-      "options": [
-        "Doklam",
-        "Friday",
-        "Widespread",
-        "Aid"
-      ]
-    },
-    {
-      "blanked": "Here's when the iPhone 18 ______ and iPhone 18 Pro Max are rumored to go on pre-order - GSMArena.com news",
-      "answer": "Pro",
-      "options": [
-        "Chair",
-        "Goods",
-        "Solar",
-        "Pro"
-      ]
-    },
-    {
-      "blanked": "How space traffic management can save our satellites (Reader ______",
-      "answer": "Forum",
-      "options": [
-        "9.9%",
-        "SIR",
-        "Forum",
-        "Nothing"
-      ]
-    },
-    {
-      "blanked": "CNG price hiked by Rs 3.89/kg in Delhi-NCR amid rising ______ cost",
-      "answer": "LNG",
-      "options": [
-        "LNG",
-        "Hindu",
-        "Goods",
-        "Voters"
+        "Suryakumar",
+        "Jackson",
+        "Pancreatic"
       ]
     }
   ]
