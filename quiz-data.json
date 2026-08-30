@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T14:18:19.204Z",
+  "generatedAt": "2026-08-30T14:33:29.674Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
@@ -10,144 +10,144 @@
     "Before The Nepal Flood, A Glacial Fall: Tracing The Trigger, And A 100-km Killer Surge",
     "Students Cannot Be Punished For Asking Questions; Intolerance Is At Odds With Constitution: Justice Ujjal ...",
     "India becomes key petrol supplier to Russia amid attacks on refineries, fuel shortages",
-    "'Hamke lagaraha Spain': Ravi Kishan compares Gorakhpur to Spain; Yogi Adityanath can't stop smiling |...",
-    "Red alert issued for 3 Odisha districts as IMD forecasts over 20 cm rainfall",
     "If Hindus think Muslims have no place, they cease to be Hindu: Mohan Bhagwat in New York",
+    "'Hamke lagaraha Spain': Ravi Kishan compares Gorakhpur to Spain; Yogi Adityanath can't stop smiling |...",
+    "Salary deductions for Odisha government employees defaulting on alimony",
     "Ferry boat with around 270 passengers capsizes off North Cyprus: Report | World News",
     "Iceland Set to Reject EU Entry Talks in Tight Referendum",
-    "US-Venezuela energy pact: What we know about Trump’s ‘biggest oil deal in world history’",
     "Sunflowers Now Grow Where Mines Once Lay, Thanks To This Ukrainian Woman",
+    "US-Venezuela energy pact: What we know about Trump’s ‘biggest oil deal in world history’",
     "India's HDFC Bank weighing deputy MD Bharucha, outsider for CEO, sources say",
     "Tata Motors EV bookings triple over the last 6 months - Team-BHP",
     "Bira 91 faces insolvency push as HNGIL seeks Rs 11.8 crore",
     "Apple Watch To Vision Pro: Tim Cook's Five Greatest Product Hits That Redefined Apple",
+    "You might soon be able to control Nanoleaf lights via the Philips Hue app according to this latest leak",
+    "Apple iPhone 18 Pro Max launch in India: Price, launch date, colours and more- what we know so far",
     "GTA 6 Extended Look Reveals Jason, Lucia And Leonida Gameplay",
-    "Here's when the iPhone 18 Pro and iPhone 18 Pro Max are rumored to go on pre-order - GSMArena.com news",
     "Windows 11 is warning people that Defender Antivirus has been turned off, but don't worry, says Microsoft",
-    "Weekly poll: will you buy the Samsung Galaxy S26 FE? - GSMArena.com news",
     "Toxic Box Office Collections: Yash starrer continues to slip, tops Rs. 200 Cr in India on 4th day",
     "'Hanuman Ansh' box office collection: From Rs 10 lakh on day 1 to Rs 27 crore in 23 days, word of mouth t",
-    "Tom Cruise announces ‘Days of Thunder’ sequel with Anne Hathaway in new video"
+    "Sunny Deol And Rajkumar Santoshi To Reunite For Ghatak Ghus Ke Maarega"
   ],
   "quiz": [
     {
-      "blanked": "Toxic Box Office Collections: Yash starrer continues to slip, tops Rs. 200 Cr in ______ on 4th day",
-      "answer": "India",
+      "blanked": "Iceland ______ to Reject EU Entry Talks in Tight Referendum",
+      "answer": "Set",
       "options": [
-        "Russia",
-        "Asking",
-        "Reveal",
-        "India"
+        "Set",
+        "Grand",
+        "Santoshi",
+        "Questions"
       ]
     },
     {
-      "blanked": "New Myocardial Infarction Definition Simplifies Diagnosis: ______ 2026",
-      "answer": "ESC",
+      "blanked": "Formaldehyde Contact ______ Remains a Global Concern",
+      "answer": "Allergy",
       "options": [
+        "Europe",
+        "Allergy",
+        "Bhagwat",
+        "Now"
+      ]
+    },
+    {
+      "blanked": "Before The Nepal Flood, A Glacial ______ Tracing The Trigger, And A 100-km Killer Surge",
+      "answer": "Fall",
+      "options": [
+        "Pain",
+        "What",
+        "Fall",
+        "Can"
+      ]
+    },
+    {
+      "blanked": "A ______ physicist proposed a way to create quantum images 20 years ago; after two decades waiting for e",
+      "answer": "Chicago",
+      "options": [
+        "Chicago",
+        "Deol",
+        "Yet",
+        "Collections"
+      ]
+    },
+    {
+      "blanked": "US-Venezuela energy pact: ______ we know about Trump’s ‘biggest oil deal in world history’",
+      "answer": "What",
+      "options": [
+        "Global",
+        "Clocks",
+        "Grow",
+        "What"
+      ]
+    },
+    {
+      "blanked": "Tata ______ EV bookings triple over the last 6 months - Team-BHP",
+      "answer": "Motors",
+      "options": [
+        "Argentina",
         "Modi",
-        "HNGIL",
-        "ESC",
-        "Ravi"
+        "Motors",
+        "Report"
+      ]
+    },
+    {
+      "blanked": "Atletico Madrid director reiterates stance on ______ target: 'We expect him to be available for the next game'",
+      "answer": "Barcelona",
+      "options": [
+        "Contact",
+        "Chicago",
+        "Into",
+        "Barcelona"
+      ]
+    },
+    {
+      "blanked": "Calling on the neighbours: ISRO's upcoming ______ Mars missions explained",
+      "answer": "Venus",
+      "options": [
+        "Redefined",
+        "Surge",
+        "Venus",
+        "Constitution"
+      ]
+    },
+    {
+      "blanked": "Mann Ki Baat: PM Modi praises Mumbai man for creating specialised website to know ______ history",
+      "answer": "Indias",
+      "options": [
+        "Mohan",
+        "Defender",
+        "2026",
+        "Indias"
+      ]
+    },
+    {
+      "blanked": "Knee Pain In Your 30s? Doctors Reveal ______ It May Have Nothing to Do With Ageing",
+      "answer": "Why",
+      "options": [
+        "200",
+        "Adityanath",
+        "Why",
+        "Baat"
+      ]
+    },
+    {
+      "blanked": "GTA 6 Extended Look Reveals Jason, Lucia And Leonida ______",
+      "answer": "Gameplay",
+      "options": [
+        "Gameplay",
+        "Modi",
+        "Questions",
+        "Extended"
       ]
     },
     {
       "blanked": "Tom ______ announces ‘Days of Thunder’ sequel with Anne Hathaway in new video",
       "answer": "Cruise",
       "options": [
-        "Vision",
-        "Hall",
-        "Yet",
-        "Cruise"
-      ]
-    },
-    {
-      "blanked": "Iceland Set to Reject EU Entry Talks in Tight ______",
-      "answer": "Referendum",
-      "options": [
-        "768",
-        "Yash",
-        "Referendum",
-        "Russia"
-      ]
-    },
-    {
-      "blanked": "Here's when the iPhone 18 Pro and iPhone 18 ______ Max are rumored to go on pre-order - GSMArena.com news",
-      "answer": "Pro",
-      "options": [
-        "Semi-Finals",
-        "Reveal",
-        "Pro",
-        "Europe"
-      ]
-    },
-    {
-      "blanked": "Weekly poll: will you buy the Samsung ______ S26 FE? - GSMArena.com news",
-      "answer": "Galaxy",
-      "options": [
-        "Thunder",
-        "Galaxy",
-        "IMD",
-        "Punished"
-      ]
-    },
-    {
-      "blanked": "Knee Pain In Your 30s? Doctors Reveal Why It ______ Have Nothing to Do With Ageing",
-      "answer": "May",
-      "options": [
-        "Hindu",
-        "May",
-        "Referendum",
-        "Samsung"
-      ]
-    },
-    {
-      "blanked": "Atletico ______ director reiterates stance on Barcelona target: 'We expect him to be available for the next game'",
-      "answer": "Madrid",
-      "options": [
-        "Why",
-        "Madrid",
-        "Once",
-        "Reveal"
-      ]
-    },
-    {
-      "blanked": "Sunflowers ______ Grow Where Mines Once Lay, Thanks To This Ukrainian Woman",
-      "answer": "Now",
-      "options": [
-        "NASAs",
-        "Now",
-        "Your",
-        "Tight"
-      ]
-    },
-    {
-      "blanked": "Tata Motors EV bookings triple over the last 6 months - ______",
-      "answer": "Team-BHP",
-      "options": [
-        "Glacial",
-        "Fall",
-        "Team-BHP",
-        "Asking"
-      ]
-    },
-    {
-      "blanked": "If Hindus think ______ have no place, they cease to be Hindu: Mohan Bhagwat in New York",
-      "answer": "Muslims",
-      "options": [
-        "270",
-        "Muslims",
-        "Gameplay",
-        "Samsung"
-      ]
-    },
-    {
-      "blanked": "Students Cannot Be Punished For Asking Questions; Intolerance Is At Odds With Constitution: Justice ______ ...",
-      "answer": "Ujjal",
-      "options": [
-        "Russia",
-        "Ujjal",
-        "Hall",
-        "Gameplay"
+        "Disease-Driven",
+        "Tracing",
+        "Cruise",
+        "4.3"
       ]
     }
   ]
