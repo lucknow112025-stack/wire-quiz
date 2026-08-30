@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T06:18:53.835Z",
+  "generatedAt": "2026-08-30T06:33:50.888Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
@@ -7,23 +7,23 @@
     "If Hindus think Muslims have no place, they cease to be Hindu: Mohan Bhagwat in New York",
     "PM Modi lands in Uzbekistan on two-nation visit, SCO summit; President Shavkat Mirziyoyev receives him | India News",
     "Assaulted, Tied To Tree, Burned: Punjab Influencer Dies After 2-Month Battle",
-    "Trump's 'Lake America' name change sparks 'Donald Ducks' memes on social media | Hindustan Times",
-    "Before The Nepal Flood, A Glacial Fall: Tracing The Trigger, And A 100-km Killer Surge",
-    "'Not interested right now': Rahul Gandhi on Sonia Gandhi memoir row, cites 'crime' against Kharge",
     "\"You Think You Are A Lord?\" Bombay High Court Slams FDA Officer Over Suspension Of Eateries Of Mumbai...",
+    "Trump's 'Lake America' name change sparks 'Donald Ducks' memes on social media | Hindustan Times",
+    "'Not interested right now': Rahul Gandhi on Sonia Gandhi memoir row, cites 'crime' against Kharge",
     "AAP Leader Murdered In Punjab. Attackers Chased His Bike, Opened Fire",
     "Flash floods in Nepal: No contact still with 320 Indians; 400 stranded",
-    "US-Venezuela energy pact: What we know about Trump’s ‘biggest oil deal in world history’",
+    "8-year-old crushed to death by pitch roller at Gurugram cricket academy",
     "Iran’s leaders acknowledge economic toll of war, pledge diplomacy, defence",
-    "Laid off on H-1B visa? America mulls scrapping 60-day window to find a new job",
-    "Has Iceland warmed to the European Union?",
-    "India's HDFC Bank CEO Jagdishan to step down in October",
+    "New plan to end employment authorization for some spouses of H-1B visa holders: '600,000+ jobs will open",
+    "Oil Deal To Bring $100 Billion Investment, Thousands Of Jobs To Venezuela: Rubio",
+    "Voting closes in Iceland’s knife-edge EU referendum",
+    "HDFC Bank CEO Jagdishan to step down, decides not to seek reappointment",
     "Sony and Warner Music Sue Anthropic, Alleging Theft of Intellectual Property",
+    "Day traders are abandoning Korean chip leveraged ETFs in droves",
     "Zee’s Subhash Chandra accuses Mukesh Ambani of spreading misinformation, RIL denies allegations",
-    "CNG price hike: Compressed natural gas gets costlier; check city-wise rates",
     "Here's when the iPhone 18 Pro and iPhone 18 Pro Max are rumored to go on pre-order - GSMArena.com news",
-    "GTA VI Has Over 600,000 Animations Compared To GTA V's 55,000 & Red Dead Redemption 2's 300,000",
-    "Deals: the Galaxy S26 FE is coming, Galaxy S26 series on sale, Nothing Phone (3) also discounted - GSMArena.com news",
+    "GTA VI: 6 Cool Features You May Have Missed In Rockstar Games’ Highly-Anticipated Release",
+    "Tech wrap week: From Samsung Galaxy S26 FE to AI-powered laptops, here’s what’s new",
     "iPhone 17 Pro Max Price Slashed Worldwide Before iPhone 18 Launch",
     "'Toxic' box office collections day 4: Yash, Nayanthara, Kiara Advani starrer records 9.9% drop; worldwide",
     "WWE Hall of Famer involved in a car accident",
@@ -31,123 +31,123 @@
   ],
   "quiz": [
     {
-      "blanked": "GTA VI Has Over 600,000 Animations Compared To GTA V's 55,000 & ______ Dead Redemption 2's 300,000",
-      "answer": "Red",
+      "blanked": "\"You Think You Are A Lord?\" Bombay High ______ Slams FDA Officer Over Suspension Of Eateries Of Mumbai...",
+      "answer": "Court",
       "options": [
-        "Lake",
-        "Moon",
-        "Red",
-        "Indias"
-      ]
-    },
-    {
-      "blanked": "AAP Leader Murdered In Punjab. Attackers Chased His Bike, ______ Fire",
-      "answer": "Opened",
-      "options": [
-        "CEO",
-        "Opened",
-        "Modi",
-        "Theft"
-      ]
-    },
-    {
-      "blanked": "Zee’s Subhash Chandra accuses ______ Ambani of spreading misinformation, RIL denies allegations",
-      "answer": "Mukesh",
-      "options": [
-        "Theft",
-        "Think",
-        "Varma",
-        "Mukesh"
-      ]
-    },
-    {
-      "blanked": "Tilak Varma in ______ ODI World Cup plans as selectors seek Shreyas Iyer backup",
-      "answer": "Indias",
-      "options": [
-        "Telomere",
-        "Indians",
-        "Beats",
-        "Indias"
+        "Court",
+        "Fame",
+        "Cup",
+        "World"
       ]
     },
     {
       "blanked": "How space traffic management can save our satellites (Reader ______",
       "answer": "Forum",
       "options": [
+        "Bike",
+        "Nayanthara",
+        "You",
+        "Forum"
+      ]
+    },
+    {
+      "blanked": "New plan to end employment authorization for some spouses of H-1B visa holders: ______ jobs will open",
+      "answer": "600000",
+      "options": [
+        "Highly-Anticipated",
+        "600000",
         "Shavkat",
-        "Forum",
-        "Influencer",
-        "Delhi"
+        "Times"
       ]
     },
     {
-      "blanked": "If ______ think Muslims have no place, they cease to be Hindu: Mohan Bhagwat in New York",
-      "answer": "Hindus",
+      "blanked": "How & Where to Watch Inter Miami vs. CF ______ Start Time, Live Streaming and TV Channels",
+      "answer": "Montreal",
       "options": [
-        "Fame",
-        "York",
+        "SCO",
+        "Montreal",
+        "Today",
+        "Moon"
+      ]
+    },
+    {
+      "blanked": "Tilak Varma in ______ ODI World Cup plans as selectors seek Shreyas Iyer backup",
+      "answer": "Indias",
+      "options": [
         "Hindus",
-        "Grace"
+        "Indias",
+        "Mukesh",
+        "Uzbekistan"
       ]
     },
     {
-      "blanked": "Dispelling myths, misconceptions surrounding ______ vaccination for young women",
-      "answer": "HPV",
+      "blanked": "Voting closes in ______ knife-edge EU referendum",
+      "answer": "Icelands",
       "options": [
-        "Limited",
-        "Hall",
-        "HPV",
-        "Sonia"
+        "Max",
+        "Icelands",
+        "Dies",
+        "Venezuela"
       ]
     },
     {
-      "blanked": "How & Where to Watch Inter Miami vs. CF Montreal? Start Time, ______ Streaming and TV Channels",
-      "answer": "Live",
+      "blanked": "Tech wrap week: From ______ Galaxy S26 FE to AI-powered laptops, here’s what’s new",
+      "answer": "Samsung",
       "options": [
-        "Live",
-        "Pro",
-        "Phone",
-        "America"
+        "Dies",
+        "Bombay",
+        "Where",
+        "Samsung"
       ]
     },
     {
-      "blanked": "Irumudi Box Office Collections: Ravi Teja starrer has an OUTSTANDING 2nd Friday, Beats ______ 2, Kalki and Baahubali in APTS",
-      "answer": "Pushpa",
-      "options": [
-        "Jagdishan",
-        "October",
-        "HDFC",
-        "Pushpa"
-      ]
-    },
-    {
-      "blanked": "Here's when the iPhone 18 ______ and iPhone 18 Pro Max are rumored to go on pre-order - GSMArena.com news",
+      "blanked": "Here's when the iPhone 18 Pro and iPhone 18 ______ Max are rumored to go on pre-order - GSMArena.com news",
       "answer": "Pro",
       "options": [
-        "Limited",
-        "Pro",
-        "734",
-        "Falcon"
+        "Moon",
+        "Miami",
+        "Thousands",
+        "Pro"
       ]
     },
     {
-      "blanked": "Imaging Reveals Widespread ______ Atherosclerosis Burden: ESC 2026",
-      "answer": "Silent",
+      "blanked": "PM Modi lands in Uzbekistan on two-nation visit, SCO summit; President ______ Mirziyoyev receives him | India News",
+      "answer": "Shavkat",
       "options": [
-        "Battle",
-        "Forum",
-        "Silent",
-        "Union"
-      ]
-    },
-    {
-      "blanked": "US-Venezuela energy pact: ______ we know about Trump’s ‘biggest oil deal in world history’",
-      "answer": "What",
-      "options": [
-        "What",
-        "Muslims",
+        "Shavkat",
+        "Chased",
         "CEO",
-        "Think"
+        "Forum"
+      ]
+    },
+    {
+      "blanked": "8-year-old crushed to death by pitch roller at ______ cricket academy",
+      "answer": "Gurugram",
+      "options": [
+        "Reveals",
+        "Where",
+        "Officer",
+        "Gurugram"
+      ]
+    },
+    {
+      "blanked": "AAP Leader Murdered In Punjab. Attackers Chased His Bike, ______ Fire",
+      "answer": "Opened",
+      "options": [
+        "Streaming",
+        "Opened",
+        "ESC",
+        "Chandra"
+      ]
+    },
+    {
+      "blanked": "‘Aise bhi log hote hain life mein’: Suryakumar reveals ______ Samson’s incredible response after being dro",
+      "answer": "Sanju",
+      "options": [
+        "Miami",
+        "Samsung",
+        "400",
+        "Sanju"
       ]
     }
   ]
