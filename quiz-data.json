@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-08-30T02:33:24.947Z",
+  "generatedAt": "2026-08-30T02:48:34.024Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
     "Nepal floods: ‘Bodies buried in slush, families refusing food’, Khalsa Aid volunteers witness devastation",
-    "PM Modi lands in Uzbekistan on two-nation visit, President Shavkat Mirziyoyev receives him | India News",
     "Hindu wanting Muslims out of India won’t remain a Hindu: Mohan Bhagwat in New York",
+    "PM Modi lands in Uzbekistan on two-nation visit, SCO summit; President Shavkat Mirziyoyev receives him | India News",
     "Before The Nepal Flood, A Glacial Fall: Tracing The Trigger, And A 100-km Killer Surge",
-    "China removes PLA general who oversaw Doklam and Galwan standoffs with India from key post",
     "Man, aide beat his schizophrenic son with rock, strangle him; put body in container",
+    "China removes PLA general who oversaw Doklam and Galwan standoffs with India from key post",
     "\"Matter Of Concern\": Chirag Paswan On M Kharge Rally \"Purification\" Row, Takes Dig At Rahul Gandhi",
+    "AAP Leader Murdered In Punjab. Attackers Chased His Bike, Opened Fire",
     "Flash floods in Nepal: No contact still with 320 Indians; 400 stranded",
     "Telangana SIR: Voters must be informed hearing date 2 days ahead",
-    "Mumbai techie awaits news of wife missing after Nepal border tragedy",
     "37 Killed As Russian Strikes Ukraine's Kyiv, 50 Residential Buildings Damaged",
     "Nepal seeks to import power earlier from India after flood devastation, asks for approvals",
     "Canada To Impose Up To 50% Tariffs On 700 US Goods As Trade War Escalates",
@@ -23,131 +23,131 @@
     "US Fed Chair Kevin Warsh Jackson Hole speech impact on Indian stock market, gold-silver rates | Prediction for Monday",
     "First look at Grand Theft Auto 6 gameplay released on Netflix ahead of November launch",
     "Here's when the iPhone 18 Pro and iPhone 18 Pro Max are rumored to go on pre-order - GSMArena.com news",
-    "Nvidia's DLSS 5 leaked early, and modders have already broken it out of its Blackwell cage",
     "Deals: the Galaxy S26 FE is coming, Galaxy S26 series on sale, Nothing Phone (3) also discounted - GSMArena.com news",
+    "Xbox's Project Helix Will Be a Multi-Device Lineup, CEO Says",
     "'Toxic' box office collections day 4: Yash, Nayanthara, Kiara Advani starrer records 9.9% drop; worldwide",
     "Irumudi Box Office Collections: Ravi Teja starrer has an OUTSTANDING 2nd Friday, Beats Pushpa 2, Kalki and Baahubali in APTS",
     "Nashville airport to be renamed after Dolly Parton, Tennessee's governor announces days after singer's demise"
   ],
   "quiz": [
     {
-      "blanked": "US Fed Chair Kevin Warsh Jackson Hole speech impact on ______ stock market, gold-silver rates | Prediction for Monday",
-      "answer": "Indian",
+      "blanked": "\"Matter Of Concern\": Chirag Paswan On M Kharge Rally \"Purification\" Row, Takes Dig At ______ Gandhi",
+      "answer": "Rahul",
       "options": [
+        "Rahul",
+        "Telescope",
+        "Damaged",
+        "Auto"
+      ]
+    },
+    {
+      "blanked": "Canada To Impose Up To 50% ______ On 700 US Goods As Trade War Escalates",
+      "answer": "Tariffs",
+      "options": [
+        "HPV",
+        "Tariffs",
         "400",
-        "President",
-        "Indian",
-        "Tracing"
+        "Uzbekistan"
       ]
     },
     {
-      "blanked": "CNG price hiked by Rs 3.89/kg in ______ amid rising LNG cost",
-      "answer": "Delhi-NCR",
+      "blanked": "China removes PLA general who oversaw Doklam and ______ standoffs with India from key post",
+      "answer": "Galwan",
       "options": [
-        "Box",
+        "9.9%",
+        "Hindu",
+        "Khalsa",
+        "Galwan"
+      ]
+    },
+    {
+      "blanked": "'Toxic' box office collections day 4: ______ Nayanthara, Kiara Advani starrer records 9.9% drop; worldwide",
+      "answer": "Yash",
+      "options": [
+        "Nepal",
+        "Telescope",
+        "Yash",
+        "Phone"
+      ]
+    },
+    {
+      "blanked": "37 Killed As Russian Strikes Ukraine's Kyiv, 50 Residential ______ Damaged",
+      "answer": "Buildings",
+      "options": [
+        "Buildings",
         "Delhi-NCR",
-        "Suns",
-        "Mohan"
+        "APTS",
+        "Takes"
       ]
     },
     {
-      "blanked": "Aditya-L1 catches ______ early warning signs before Solar flares",
-      "answer": "Suns",
+      "blanked": "Horoscope Today: ______ 30, 2026",
+      "answer": "August",
       "options": [
-        "ESC",
-        "Grace",
-        "Suns",
-        "Paswan"
+        "Suryakumar",
+        "August",
+        "Kharge",
+        "Russian"
       ]
     },
     {
       "blanked": "PHOTOS: ______ appears orange due to partial lunar eclipse",
       "answer": "Moon",
       "options": [
-        "Moon",
-        "Delhi",
-        "Friday",
-        "Pushpa"
+        "Hole",
+        "Reader",
+        "Yadavs",
+        "Moon"
       ]
     },
     {
-      "blanked": "\"Matter Of Concern\": Chirag Paswan On M Kharge Rally ______ Row, Takes Dig At Rahul Gandhi",
-      "answer": "Purification",
+      "blanked": "CNG price hiked by Rs 3.89/kg in ______ amid rising LNG cost",
+      "answer": "Delhi-NCR",
       "options": [
-        "Grace",
-        "August",
-        "India",
-        "Purification"
+        "Delhi-NCR",
+        "Tracing",
+        "Pushpa",
+        "Falcon"
       ]
     },
     {
-      "blanked": "37 Killed As Russian Strikes Ukraine's Kyiv, 50 ______ Buildings Damaged",
-      "answer": "Residential",
+      "blanked": "First look at Grand Theft Auto 6 gameplay released on ______ ahead of November launch",
+      "answer": "Netflix",
       "options": [
-        "Insolvency",
-        "Phone",
-        "Residential",
-        "India"
-      ]
-    },
-    {
-      "blanked": "'Toxic' box office collections day 4: Yash, Nayanthara, ______ Advani starrer records 9.9% drop; worldwide",
-      "answer": "Kiara",
-      "options": [
-        "Kiara",
+        "Reader",
         "Kevin",
-        "Chair",
-        "Voters"
+        "Netflix",
+        "SIR"
       ]
     },
     {
-      "blanked": "HDFC Bank ______ Jagdishan to step down, decides not to seek reappointment",
-      "answer": "CEO",
+      "blanked": "US Fed Chair Kevin Warsh Jackson Hole speech impact on Indian stock market, gold-silver rates | Prediction for ______",
+      "answer": "Monday",
       "options": [
-        "Nayanthara",
+        "Muslims",
+        "Advani",
+        "Monday",
+        "Heavy"
+      ]
+    },
+    {
+      "blanked": "PM Modi lands in ______ on two-nation visit, SCO summit; President Shavkat Mirziyoyev receives him | India News",
+      "answer": "Uzbekistan",
+      "options": [
+        "Uzbekistan",
+        "Warsh",
         "Yash",
-        "Limited",
-        "CEO"
+        "Today"
       ]
     },
     {
-      "blanked": "Nancy Grace ______ Telescope live updates: Roman and Falcon Heavy delivered to launch pad",
-      "answer": "Roman",
+      "blanked": "Nepal seeks to import power earlier from ______ after flood devastation, asks for approvals",
+      "answer": "India",
       "options": [
-        "Roman",
-        "Jackson",
-        "Theft",
-        "Paswan"
-      ]
-    },
-    {
-      "blanked": "Before The ______ Flood, A Glacial Fall: Tracing The Trigger, And A 100-km Killer Surge",
-      "answer": "Nepal",
-      "options": [
-        "Gandhi",
-        "Nepal",
-        "Shows",
-        "Tariffs"
-      ]
-    },
-    {
-      "blanked": "Mumbai techie awaits news of wife missing after ______ border tragedy",
-      "answer": "Nepal",
-      "options": [
-        "Chair",
-        "Forum",
-        "Nepal",
-        "Hindu"
-      ]
-    },
-    {
-      "blanked": "Dispelling myths, misconceptions surrounding ______ vaccination for young women",
-      "answer": "HPV",
-      "options": [
-        "HPV",
-        "Suryakumar",
-        "Jackson",
-        "Pancreatic"
+        "Chased",
+        "Bank",
+        "Grace",
+        "India"
       ]
     }
   ]
