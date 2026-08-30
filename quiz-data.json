@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-30T11:33:28.988Z",
+  "generatedAt": "2026-08-30T11:48:33.813Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "Nepal flash floods LIVE: Nepal warns of rising water levels in Bhotekoshi River as combined death toll surges to 750",
+    "Nepal flash floods LIVE: Death toll reaches 768; rescuers drill through debris towards trapped tunnel workers",
     "India, Uzbekistan Strike Long-Term Uranium Deal As PM Modi Wraps Key Visit",
     "Punjabi influencer Manjeet Kaur, who died after being 'tied to a tree, burnt alive', was 7 weeks pregnant",
-    "One dead, 5 injured in shooting at Switzerland rave party; hunt on for gunman",
     "Iran's Khamenei urges Gulf rulers in written message to confront 'real enemy'",
-    "Renting a friend, toilet paper tariffs, and more...",
+    "One dead, 5 injured in shooting at Switzerland rave party; hunt on for gunman",
+    "Mann Ki Baat: PM Modi praises Mumbai man for creating specialised website to know India's history",
     "If Hindus think Muslims have no place, they cease to be Hindu: Mohan Bhagwat in New York",
     "‘They are not saints…’: Wangchuk says CJP founders have political ambitions, insists there’s nothing wrong with it | India News",
     "BJP brainstorming on Gen Z outreach concludes cohort is not ‘homogenous’",
-    "'Drug-free India' to 'vocal for local': Key quotes from PM Modi’s 137th Mann Ki Baat",
+    "NEET-PG 2026 exam at Jaipur centre rescheduled to September 5 over power outage",
+    "Vote count under way in Iceland’s knife-edge EU referendum",
     "US-Venezuela energy pact: What we know about Trump’s ‘biggest oil deal in world history’",
     "Trump-Putin-Zelenskyy summit floated in secret Moscow talks: Report",
-    "‘People Are Hungry’: 6 Months Into US-Israel-Iran War, Iranians Are Losing Hope As Economy Crumbles",
-    "Bangladesh Considers Joining Mecca Pact Amid India's Regional Security Concerns",
+    "Israeli attacks in Gaza kill four people, hit hospital supply warehouse",
     "India's HDFC Bank weighing deputy MD Bharucha, outsider for CEO, sources say",
     "Ex-MP Kirit Somaiya seeks probe into Sensex’s wild swings on Aug 27, calls for explanation from policy...",
     "Narayana Murthy’s family office buys 5th metal stock — The 68-year-old foundry monopoly",
     "Ather Konarc Launched at ₹99,999 – New Mass-Market Electric Scooter Offers Up To 200 Km Range",
+    "Nvidia's DLSS 5 leaked early, and modders have already broken it out of its Blackwell cage",
     "GTA 6 Extended Look Reveals Jason, Lucia And Leonida Gameplay",
     "Here's when the iPhone 18 Pro and iPhone 18 Pro Max are rumored to go on pre-order - GSMArena.com news",
-    "Deals: the Galaxy S26 FE is coming, Galaxy S26 series on sale, Nothing Phone (3) also discounted - GSMArena.com news",
-    "Buy a new Galaxy Watch with enhanced trade-in savings, return it if you don't like it",
+    "Weekly poll: will you buy the Samsung Galaxy S26 FE? - GSMArena.com news",
     "Toxic Box Office Collections: Yash starrer continues to slip, tops Rs. 200 Cr in India on 4th day",
-    "Tom Cruise announces ‘Days of Thunder’ sequel with Anne Hathaway in new video",
-    "'Hi' box office collections day 2: Nayanthara starrer records 72% growth; India gross reaches Rs 3.94 cro"
+    "'Irumudi' box office collections day 9: Ravi Teja starrer records 21.8% growth; Telugu version dominates",
+    "Tom Cruise announces ‘Days of Thunder’ sequel with Anne Hathaway in new video"
   ],
   "quiz": [
     {
-      "blanked": "Iran's ______ urges Gulf rulers in written message to confront 'real enemy'",
-      "answer": "Khamenei",
+      "blanked": "Nancy Grace ______ Telescope live updates: Roman and Falcon Heavy delivered to launch pad",
+      "answer": "Roman",
       "options": [
-        "War",
-        "Hall",
-        "Khamenei",
-        "Venus"
+        "Switzerland",
+        "Vaibhav",
+        "Roman",
+        "LIVE"
       ]
     },
     {
-      "blanked": "Does heart disease look different in men and women? Cardiologist shares what he learned in 20 years of experience | ______",
-      "answer": "Health",
+      "blanked": "How space traffic management can save our satellites (Reader ______",
+      "answer": "Forum",
       "options": [
-        "Iranians",
-        "Health",
-        "Why",
-        "Ghatak"
+        "Look",
+        "Forum",
+        "Mumbai",
+        "Mars"
       ]
     },
     {
-      "blanked": "Knee Pain In Your 30s? Doctors Reveal Why It May Have ______ to Do With Ageing",
-      "answer": "Nothing",
+      "blanked": "India's HDFC Bank weighing deputy MD ______ outsider for CEO, sources say",
+      "answer": "Bharucha",
       "options": [
-        "Nothing",
-        "Fame",
-        "Extended",
-        "May"
-      ]
-    },
-    {
-      "blanked": "If Hindus think ______ have no place, they cease to be Hindu: Mohan Bhagwat in New York",
-      "answer": "Muslims",
-      "options": [
-        "Considers",
-        "Phone",
-        "Muslims",
-        "Sooryavanshis"
-      ]
-    },
-    {
-      "blanked": "Calling on the neighbours: ISRO's upcoming Venus, ______ missions explained",
-      "answer": "Mars",
-      "options": [
-        "Electric",
-        "Mars",
-        "Hindus",
-        "Switzerland"
-      ]
-    },
-    {
-      "blanked": "Nancy Grace Roman ______ live updates: Roman and Falcon Heavy delivered to launch pad",
-      "answer": "Telescope",
-      "options": [
-        "Uranium",
-        "Extended",
-        "Telescope",
-        "Khamenei"
-      ]
-    },
-    {
-      "blanked": "Deals: the ______ S26 FE is coming, Galaxy S26 series on sale, Nothing Phone (3) also discounted - GSMArena.com news",
-      "answer": "Galaxy",
-      "options": [
-        "Heavy",
-        "3.94",
-        "ISROs",
-        "Galaxy"
-      ]
-    },
-    {
-      "blanked": "Toxic ______ Office Collections: Yash starrer continues to slip, tops Rs. 200 Cr in India on 4th day",
-      "answer": "Box",
-      "options": [
-        "Americas",
-        "200",
         "Bharucha",
-        "Box"
-      ]
-    },
-    {
-      "blanked": "Narayana ______ family office buys 5th metal stock — The 68-year-old foundry monopoly",
-      "answer": "Murthys",
-      "options": [
-        "Murthys",
-        "Heavy",
-        "Reunite",
-        "750"
-      ]
-    },
-    {
-      "blanked": "US-Venezuela energy pact: ______ we know about Trump’s ‘biggest oil deal in world history’",
-      "answer": "What",
-      "options": [
-        "What",
         "ISROs",
-        "Santoshi",
-        "Moscow"
+        "Gulf",
+        "Blackwell"
+      ]
+    },
+    {
+      "blanked": "Nvidia's ______ 5 leaked early, and modders have already broken it out of its Blackwell cage",
+      "answer": "DLSS",
+      "options": [
+        "21.8%",
+        "Mars",
+        "DLSS",
+        "Have"
+      ]
+    },
+    {
+      "blanked": "One dead, 5 injured in shooting at ______ rave party; hunt on for gunman",
+      "answer": "Switzerland",
+      "options": [
+        "Federer",
+        "Switzerland",
+        "Deal",
+        "Indias"
+      ]
+    },
+    {
+      "blanked": "Amid rising swine flu cases, ______ govt asks hospitals to reserve isolation beds",
+      "answer": "Delhi",
+      "options": [
+        "Gameplay",
+        "Delhi",
+        "Strike",
+        "Bharucha"
+      ]
+    },
+    {
+      "blanked": "Weekly poll: will you buy the ______ Galaxy S26 FE? - GSMArena.com news",
+      "answer": "Samsung",
+      "options": [
+        "Hall",
+        "Kirit",
+        "Samsung",
+        "Bank"
+      ]
+    },
+    {
+      "blanked": "Lawrence half-century extends ______ advantage on rain-hit day",
+      "answer": "Englands",
+      "options": [
+        "Englands",
+        "Moscow",
+        "Extended",
+        "2026"
       ]
     },
     {
       "blanked": "BJP brainstorming on ______ Z outreach concludes cohort is not ‘homogenous’",
       "answer": "Gen",
       "options": [
-        "Have",
+        "Bharucha",
         "Gen",
-        "River",
-        "Konarc"
+        "What",
+        "HDFC"
       ]
     },
     {
-      "blanked": "In pictures: partial lunar eclipse illuminates skies across ______ the Americas",
-      "answer": "Europe",
+      "blanked": "GTA 6 ______ Look Reveals Jason, Lucia And Leonida Gameplay",
+      "answer": "Extended",
       "options": [
-        "Europe",
-        "Bhotekoshi",
+        "Samsung",
+        "Delhi",
+        "200",
+        "Extended"
+      ]
+    },
+    {
+      "blanked": "NEET-PG ______ exam at Jaipur centre rescheduled to September 5 over power outage",
+      "answer": "2026",
+      "options": [
+        "Cardiologist",
+        "2026",
+        "Roger",
+        "DRS"
+      ]
+    },
+    {
+      "blanked": "If Hindus think Muslims have no place, they cease to be Hindu: ______ Bhagwat in New York",
+      "answer": "Mohan",
+      "options": [
         "Ageing",
-        "Economy"
+        "Doctors",
+        "Mohan",
+        "Kirit"
       ]
     }
   ]
