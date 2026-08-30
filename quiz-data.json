@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-30T12:18:30.353Z",
+  "generatedAt": "2026-08-30T12:33:21.456Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "Nepal flash floods LIVE: Nepal warns of rising water levels in Bhotekoshi River as combined death toll surges to 750",
-    "India, Uzbekistan Strike Long-Term Uranium Deal As PM Modi Wraps Key Visit",
+    "Nepal flash floods LIVE: Death toll reaches 768; rescuers drill through debris towards trapped tunnel workers",
+    "\"Overwhelmed By The Warmth\": PM Modi Receives Grand Welcome In Uzbekistan",
     "Punjabi influencer Manjeet Kaur, who died after being 'tied to a tree, burnt alive', was 7 weeks pregnant",
-    "Venezuela says it retains ‘sovereignty’ following US oil deal",
+    "Iran's Khamenei urges Gulf rulers in written message to confront 'real enemy'",
+    "Ferry carrying 260 people capsizes off northern Cyprus coast",
     "Mann Ki Baat: PM Modi praises Mumbai man for creating specialised website to know India's history",
-    "Iran supreme leader calls for unity among Muslim countries",
     "If Hindus think Muslims have no place, they cease to be Hindu: Mohan Bhagwat in New York",
-    "'Hamke lagaraha Spain': Ravi Kishan's remark on Gorakhpur leaves UP CM Yogi Adityanath in splits; watch",
-    "BJP brainstorming on Gen Z outreach concludes cohort is not ‘homogenous’",
     "NEET-PG 2026 exam at Jaipur centre rescheduled to September 5 over power outage",
-    "Iceland rejects EU accession talks in referendum",
+    "BJP brainstorming on Gen Z outreach concludes cohort is not ‘homogenous’",
+    "'Hamke lagaraha Spain': Ravi Kishan compares Gorakhpur to Spain; Yogi Adityanath can't stop smiling |...",
+    "News in Frames: Hope hangs in the skies",
+    "Vote count under way in Iceland’s knife-edge EU referendum",
+    "US-Venezuela energy pact: What we know about Trump’s ‘biggest oil deal in world history’",
     "Istanbul to host first committee meeting of Turkey-Saudi-Pakistan defence alliance: Report",
-    "Trump-Putin-Zelenskyy summit floated in secret Moscow talks: Report",
-    "Israeli attacks in Gaza kill four people, hit hospital supply warehouse",
     "India's HDFC Bank weighing deputy MD Bharucha, outsider for CEO, sources say",
     "7 of top 10 firms lose ₹1.13 lakh crore in market value in one week | Sensex fell 276 points, Nifty dropped 76 points | Inshorts",
     "Ex-MP Kirit Somaiya seeks probe into Sensex’s wild swings on Aug 27, calls for explanation from policy...",
     "Narayana Murthy’s family office buys 5th metal stock — The 68-year-old foundry monopoly",
-    "Nvidia's DLSS 5 leaked early, and modders have already broken it out of its Blackwell cage",
+    "Leaked DLSS 5 code lets modders test Nvidia’s AI graphics tech",
     "GTA 6 Extended Look Reveals Jason, Lucia And Leonida Gameplay",
     "Here's when the iPhone 18 Pro and iPhone 18 Pro Max are rumored to go on pre-order - GSMArena.com news",
     "Weekly poll: will you buy the Samsung Galaxy S26 FE? - GSMArena.com news",
     "Toxic Box Office Collections: Yash starrer continues to slip, tops Rs. 200 Cr in India on 4th day",
     "'Hanuman Ansh' box office collection: From Rs 10 lakh on day 1 to Rs 27 crore in 23 days, word of mouth t",
-    "Tom Cruise announces ‘Days of Thunder’ sequel with Anne Hathaway in new video"
+    "Sunny Deol And Rajkumar Santoshi To Reunite For Ghatak Ghus Ke Maarega"
   ],
   "quiz": [
     {
-      "blanked": "India, Uzbekistan Strike Long-Term Uranium Deal As PM Modi ______ Key Visit",
-      "answer": "Wraps",
+      "blanked": "Calling on the neighbours: ISRO's upcoming ______ Mars missions explained",
+      "answer": "Venus",
       "options": [
-        "Turkey-Saudi-Pakistan",
-        "Wraps",
-        "Samsung",
-        "Julian"
-      ]
-    },
-    {
-      "blanked": "In pictures: partial lunar eclipse illuminates skies across ______ the Americas",
-      "answer": "Europe",
-      "options": [
-        "Office",
-        "Kaur",
-        "Europe",
-        "Modi"
-      ]
-    },
-    {
-      "blanked": "Weekly poll: will you buy the ______ Galaxy S26 FE? - GSMArena.com news",
-      "answer": "Samsung",
-      "options": [
-        "1.13",
-        "Samsung",
-        "India",
-        "Reveal"
-      ]
-    },
-    {
-      "blanked": "Amid rising swine flu cases, ______ govt asks hospitals to reserve isolation beds",
-      "answer": "Delhi",
-      "options": [
-        "Indias",
-        "Hindus",
-        "Delhi",
+        "Venus",
+        "2026",
+        "Federer",
         "Tennis"
       ]
     },
     {
-      "blanked": "Officially: Argentina star joins ______",
-      "answer": "Chelsea",
+      "blanked": "US-Venezuela energy pact: ______ we know about Trump’s ‘biggest oil deal in world history’",
+      "answer": "What",
       "options": [
-        "Pro",
-        "Cardiologist",
-        "Chelsea",
-        "Ravi"
+        "What",
+        "Have",
+        "Welcome",
+        "Roman"
       ]
     },
     {
-      "blanked": "Calling on the neighbours: ISRO's upcoming Venus, ______ missions explained",
-      "answer": "Mars",
+      "blanked": "Knee Pain In ______ 30s? Doctors Reveal Why It May Have Nothing to Do With Ageing",
+      "answer": "Your",
       "options": [
-        "Mars",
-        "Cardiologist",
-        "Gaza",
-        "Muslims"
+        "Trumps",
+        "Manjeet",
+        "Samsung",
+        "Your"
       ]
     },
     {
-      "blanked": "NEET-PG 2026 exam at Jaipur centre rescheduled to ______ 5 over power outage",
-      "answer": "September",
+      "blanked": "Leaked DLSS 5 code lets modders test ______ AI graphics tech",
+      "answer": "Nvidias",
       "options": [
-        "ISROs",
-        "September",
-        "Turkey-Saudi-Pakistan",
-        "Federer"
+        "Nvidias",
+        "Inducted",
+        "HPV",
+        "Hathaway"
       ]
     },
     {
-      "blanked": "Here's when the iPhone 18 Pro and iPhone 18 Pro ______ are rumored to go on pre-order - GSMArena.com news",
-      "answer": "Max",
+      "blanked": "BJP brainstorming on ______ Z outreach concludes cohort is not ‘homogenous’",
+      "answer": "Gen",
       "options": [
-        "Hathaway",
-        "Ghatak",
-        "Max",
-        "Heavy"
+        "Inshorts",
+        "260",
+        "Gen",
+        "Ghus"
       ]
     },
     {
-      "blanked": "Toxic Box Office ______ Yash starrer continues to slip, tops Rs. 200 Cr in India on 4th day",
-      "answer": "Collections",
+      "blanked": "Ferry carrying ______ people capsizes off northern Cyprus coast",
+      "answer": "260",
       "options": [
-        "Delhi",
-        "Roman",
         "Collections",
-        "Cardiologist"
+        "260",
+        "East",
+        "Alvarez"
       ]
     },
     {
-      "blanked": "'Hamke lagaraha Spain': Ravi Kishan's remark on ______ leaves UP CM Yogi Adityanath in splits; watch",
-      "answer": "Gorakhpur",
+      "blanked": "Punjabi influencer ______ Kaur, who died after being 'tied to a tree, burnt alive', was 7 weeks pregnant",
+      "answer": "Manjeet",
       "options": [
-        "Turkey-Saudi-Pakistan",
-        "Gorakhpur",
-        "Cardiologist",
-        "1.13"
+        "Manjeet",
+        "Trumps",
+        "Hindu",
+        "Nvidias"
       ]
     },
     {
-      "blanked": "A ______ physicist proposed a way to create quantum images 20 years ago; after two decades waiting for e",
-      "answer": "Chicago",
+      "blanked": "Barcelona target Julian Alvarez accepts his fate and returns to ______ Madrid group training",
+      "answer": "Atletico",
       "options": [
-        "Ansh",
-        "Chicago",
-        "Grace",
-        "Zone"
+        "Fame",
+        "Icelands",
+        "Atletico",
+        "East"
       ]
     },
     {
-      "blanked": "Ex-MP Kirit Somaiya seeks probe into Sensex’s wild swings on ______ 27, calls for explanation from policy...",
-      "answer": "Aug",
+      "blanked": "Sunny ______ And Rajkumar Santoshi To Reunite For Ghatak Ghus Ke Maarega",
+      "answer": "Deol",
       "options": [
-        "Gameplay",
-        "Ghatak",
-        "Aug",
-        "Ansh"
+        "Baat",
+        "Bharucha",
+        "Deol",
+        "Pro"
+      ]
+    },
+    {
+      "blanked": "If Hindus think Muslims have no place, they cease to be Hindu: Mohan ______ in New York",
+      "answer": "Bhagwat",
+      "options": [
+        "Bhagwat",
+        "Hathaway",
+        "Spain",
+        "Inducted"
+      ]
+    },
+    {
+      "blanked": "Toxic Box ______ Collections: Yash starrer continues to slip, tops Rs. 200 Cr in India on 4th day",
+      "answer": "Office",
+      "options": [
+        "India",
+        "Atletico",
+        "What",
+        "Office"
+      ]
+    },
+    {
+      "blanked": "In pictures: partial lunar eclipse illuminates skies across Europe, the ______",
+      "answer": "Americas",
+      "options": [
+        "Cyprus",
+        "Americas",
+        "Modi",
+        "Anne"
       ]
     }
   ]
