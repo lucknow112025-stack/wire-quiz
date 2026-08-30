@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-30T18:33:27.295Z",
+  "generatedAt": "2026-08-30T18:48:33.059Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "PM Modi conferred with Uzbekistan's prestigious ‘Oliy Darajali Do'stlik’ Order",
+    "India, Uzbekistan upgrade ties to comprehensive strategic partnership; set $5 bn trade target",
     "Himachal identifies 67 vulnerable glacial lakes, early warning systems planned for 4",
+    "H-4 EAD: What the latest US move means for Indian spouses of H-1Bs and why there is no need to panic yet",
     "Rescuers battle floods and debris as Himalayan disaster death toll nears 800",
     "Iran’s Khamenei calls for Gulf unity as Hormuz tensions persist",
-    "H-4 EAD: What the latest US move means for Indian spouses of H-1Bs and why there is no need to panic yet",
     "Russia submits proposal in response to Indian tender for 5 more S-400 'Sudarshan' units",
     "‘Excessive speed’: 8-year-old boy killed as woman driver on phone runs him over in Mumbai; arrested",
-    "No Food Discussion, No Fatwas: VHP On Reports Of Satvik Food On Durga Puja",
     "India emerges as key petrol supplier to Russia as refinery attacks disrupt fuel supplies",
-    "\"Islam Superior,\" Says Karnataka Minister. BJP Reads \"Sanatan Demeaned\"",
+    "No Food Discussion, No Fatwas: VHP On Reports Of Satvik Food On Durga Puja",
+    "'BJP thinks it is bigger than RSS, it should listen to Mohan Bhagwat': CJP leader Abhijeet Dipke",
+    "Trump wants 'Lake America'. Canada puts up a 24-foot sign saying otherwise",
     "7 dead, 172 rescued after ferry carrying 270 capsizes off North Cyprus, ‘completely’ sinks | World News",
-    "Russia strike on Kyiv ammunition depot kills 38 in year's deadliest attack as Zelenskyy blames officials",
+    "'We're alive': Kyiv-area survivor recalls Russian strike that killed 38",
     "Iceland Set to Reject EU Entry Talks in Tight Referendum",
-    "Istanbul to host first committee meeting of Turkey-Saudi-Pakistan defence alliance: Report",
     "India's HDFC Bank weighing deputy MD Bharucha, outsider for CEO, sources say",
     "Subhash Chandra insolvency: Why are creditors set to recover only ₹6.5 crore against ₹22,006 crore claims?",
     "Tim Cook Steps Down: How He Took Apple From $350 Billion To $4 Trillion",
     "India’s GDP growth likely to stay strong at 7-7.2% in FY27 despite global risks: Report",
     "iPhone 18 launch: Release date, expected price in India",
     "GTA 6 Extended Look Reveals Jason, Lucia And Leonida Gameplay",
-    "Deals: iPhone 17 lineup discounted, Galaxy S26 and Xiaomi 17 on sale - GSMArena.com news",
-    "Windows 11 is warning people that Defender Antivirus has been turned off, but don't worry, says Microsoft",
+    "Weekly poll results: the Honor Robot Phone draws in a crowd with its camera capabilities",
+    "iPhone 17 Pro Max Price Slashed Worldwide Before iPhone 18 Launch",
     "Toxic Box Office Collections: Yash starrer continues to slip, tops Rs. 200 Cr in India on 4th day",
     "Sonam Wangchuk's witty response to Aamir Khan denying his '3 Idiots' character was based on him: 'Kyunki",
-    "Academy shares Deepika Padukone and Ranbir Kapoor's 'Yeh Jawaani Hai Deewani' scene; Naina-Bunny NOSTALGI"
+    "‘Mirzapur: The Movie’ gets CBFC certificate; Ali Fazal-Pankaj Tripathi starrer clocks 3 hours 17 minutes"
   ],
   "quiz": [
     {
-      "blanked": "Academy shares Deepika Padukone and Ranbir Kapoor's 'Yeh ______ Hai Deewani' scene; Naina-Bunny NOSTALGI",
-      "answer": "Jawaani",
+      "blanked": "New study captures ______ early warning signs before solar flares",
+      "answer": "Suns",
       "options": [
-        "Jawaani",
-        "Look",
-        "Talks",
-        "Definition"
+        "Suns",
+        "Tripathi",
+        "CJP",
+        "Khan"
       ]
     },
     {
-      "blanked": "Duleep Trophy: North Zone fold for ______ on opening day",
-      "answer": "195",
+      "blanked": "7 dead, 172 rescued after ferry carrying 270 capsizes off North ______ ‘completely’ sinks | World News",
+      "answer": "Cyprus",
       "options": [
-        "Contact",
-        "195",
-        "Kyunki",
-        "Global"
+        "Today",
+        "Cyprus",
+        "Waning",
+        "Kumar"
       ]
     },
     {
-      "blanked": "NASA launches $4.3bn Roman ______ to uncover universe’s hidden secrets",
-      "answer": "Telescope",
+      "blanked": "Iceland ______ to Reject EU Entry Talks in Tight Referendum",
+      "answer": "Set",
       "options": [
-        "Khamenei",
-        "India",
-        "Telescope",
-        "HDFC"
+        "Womens",
+        "Ageing",
+        "Set",
+        "Phase"
       ]
     },
     {
-      "blanked": "PM Modi conferred with Uzbekistan's prestigious ‘Oliy Darajali Do'stlik’ ______",
-      "answer": "Order",
+      "blanked": "Toxic Box ______ Collections: Yash starrer continues to slip, tops Rs. 200 Cr in India on 4th day",
+      "answer": "Office",
       "options": [
-        "Russia",
-        "Jason",
+        "Tripathi",
+        "Fatwas",
+        "172",
+        "Office"
+      ]
+    },
+    {
+      "blanked": "India's HDFC ______ weighing deputy MD Bharucha, outsider for CEO, sources say",
+      "answer": "Bank",
+      "options": [
         "Phase",
-        "Order"
+        "Durga",
+        "Bank",
+        "Today"
+      ]
+    },
+    {
+      "blanked": "Weekly poll results: the Honor Robot ______ draws in a crowd with its camera capabilities",
+      "answer": "Phone",
+      "options": [
+        "Entry",
+        "Phone",
+        "172",
+        "Waning"
+      ]
+    },
+    {
+      "blanked": "Manchester ______ player ratings vs Ipswich as Bruno Fernandes sensational and two others star",
+      "answer": "United",
+      "options": [
+        "United",
+        "Entry",
+        "Kartik",
+        "Infarction"
+      ]
+    },
+    {
+      "blanked": "Captain ______ Bhushan Kumar film starring Kartik Aaryan to go on floors in London on September 1",
+      "answer": "India",
+      "options": [
+        "Durga",
+        "India",
+        "Sturgeon",
+        "Reveals"
       ]
     },
     {
       "blanked": "India’s GDP growth likely to stay strong at 7-7.2% in FY27 despite global risks: ______",
       "answer": "Report",
       "options": [
-        "Mumbai",
-        "Reject",
-        "Report",
-        "Jawaani"
-      ]
-    },
-    {
-      "blanked": "Rescuers battle floods and debris as Himalayan disaster death toll nears ______",
-      "answer": "800",
-      "options": [
-        "Waning",
-        "India",
-        "800",
-        "Padukone"
-      ]
-    },
-    {
-      "blanked": "New study captures ______ early warning signs before solar flares",
-      "answer": "Suns",
-      "options": [
-        "Suns",
-        "World",
-        "Superior",
-        "Jason"
-      ]
-    },
-    {
-      "blanked": "‘Mirzapur: The Movie’ gets CBFC certificate; Ali ______ Tripathi starrer clocks 3 hours 17 minutes",
-      "answer": "Fazal-Pankaj",
-      "options": [
-        "Fazal-Pankaj",
-        "Idiots",
-        "Satvik",
-        "Contact"
-      ]
-    },
-    {
-      "blanked": "Sonam Wangchuk's witty response to Aamir Khan denying his '3 ______ character was based on him: 'Kyunki",
-      "answer": "Idiots",
-      "options": [
-        "Referendum",
-        "Himalayan",
-        "Idiots",
-        "Leonida"
+        "Bhagwat",
+        "Launch",
+        "Disease-Driven",
+        "Report"
       ]
     },
     {
       "blanked": "H-4 ______ What the latest US move means for Indian spouses of H-1Bs and why there is no need to panic yet",
       "answer": "EAD",
       "options": [
-        "Rawal",
-        "Turkey-Saudi-Pakistan",
         "EAD",
-        "August"
+        "Reveals",
+        "Steps",
+        "200"
       ]
     },
     {
-      "blanked": "Subhash Chandra insolvency: ______ are creditors set to recover only ₹6.5 crore against ₹22,006 crore claims?",
-      "answer": "Why",
+      "blanked": "No Food Discussion, No Fatwas: VHP On Reports Of Satvik Food On ______ Puja",
+      "answer": "Durga",
       "options": [
-        "Mumbai",
-        "Microsoft",
-        "Why",
-        "Talks"
+        "Infarction",
+        "Gulf",
+        "Durga",
+        "200"
       ]
     },
     {
-      "blanked": "‘Excessive speed’: 8-year-old boy killed as woman driver on phone runs him over in ______ arrested",
-      "answer": "Mumbai",
+      "blanked": "Rescuers battle floods and debris as Himalayan disaster death toll nears ______",
+      "answer": "800",
       "options": [
-        "Mumbai",
-        "Womens",
-        "Zone",
-        "Trillion"
+        "United",
+        "Ipswich",
+        "Yash",
+        "800"
       ]
     }
   ]
