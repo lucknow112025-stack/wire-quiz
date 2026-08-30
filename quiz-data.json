@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-30T16:48:25.606Z",
+  "generatedAt": "2026-08-30T17:03:31.010Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "Over 700 Dead, More Than 3,000 Missing: What We Know Of Nepal Flood Aftermath",
+    "Submerged In Debris: NDTV Ground Report From Nepal's Worst Flood-Hit District",
     "PM Modi conferred with Uzbekistan's prestigious ‘Oliy Darajali Do'stlik’ Order",
     "Himachal identifies 67 vulnerable glacial lakes, early warning systems planned for 4",
     "UP man rapes girlfriend, kills her after taking sexual stimulant drug at hotel on his birthday",
     "Iran’s Khamenei calls for Gulf unity as Hormuz tensions persist",
-    "How a Nepali teacher's quick thinking saved 1,643 children from monster floods",
+    "Russia bids Rs 50,000 crore for 5 more S-400 squadrons to boost India’s air defence",
     "India becomes key petrol supplier to Russia amid attacks on refineries, fuel shortages",
     "Bengaluru Techie Dead, Friend Hurt As Both Fall From 7th Floor After Dispute",
     "Salary deductions for Odisha government employees defaulting on alimony",
-    "Students Cannot Be Punished For Asking Questions; Intolerance Is At Odds With Constitution: Justice Ujjal ...",
+    "Mann Ki Baat: PM Modi praises Mumbai man for creating specialised website to know India's history",
     "7 dead, 172 rescued after ferry carrying 270 capsizes off North Cyprus, ‘completely’ sinks | World News",
-    "US-Venezuela energy pact: What we know about Trump’s ‘biggest oil deal in world history’",
-    "Canada Leader Answers Trump's \"Lake America\" With Giant \"Lake Ontario\" Sign",
-    "One dead, 5 injured in shooting at Switzerland rave party; hunt on for gunman",
+    "Trump wants 'Lake America'. Canada puts up a 24-foot sign saying otherwise",
+    "\"Where To Kill Barron\": Iran Puts Rs 95 Crore Bounty On Trump's Son",
+    "Trump hails ‘biggest oil deal’ with Venezuela, US to gain control over 65 billion barrels",
     "India's HDFC Bank weighing deputy MD Bharucha, outsider for CEO, sources say",
     "Subhash Chandra insolvency: Why are creditors set to recover only ₹6.5 crore against ₹22,006 crore claims?",
     "Apple Watch To Vision Pro: Tim Cook's Five Greatest Product Hits That Redefined Apple",
     "Bira 91 faces insolvency push as HNGIL seeks Rs 11.8 crore",
     "iPhone 18 launch: Release date, expected price in India",
-    "GTA 6 Extended Look Reveals Jason, Lucia And Leonida Gameplay",
+    "GTA VI: 6 Cool Features You May Have Missed In Rockstar Games’ Highly-Anticipated Release",
+    "‘Antivirus Is Turned Off’: Microsoft confirms windows update is triggering false alerts",
     "Deals: iPhone 17 lineup discounted, Galaxy S26 and Xiaomi 17 on sale - GSMArena.com news",
-    "Windows 11 is warning people that Defender Antivirus has been turned off, but don't worry, says Microsoft",
     "Toxic Box Office Collections: Yash starrer continues to slip, tops Rs. 200 Cr in India on 4th day",
-    "Academy shares Deepika Padukone and Ranbir Kapoor's 'Yeh Jawaani Hai Deewani' scene; Naina-Bunny NOSTALGI",
-    "'Maybe He Had Short-Term Memory Loss': Sonam Wangchuk's Cheeky Reply To Aamir Khan's We Never Met' Claim"
+    "Sonam Wangchuk's witty response to Aamir Khan denying his '3 Idiots' character was based on him: 'Kyunki",
+    "Captain India: Bhushan Kumar film starring Kartik Aaryan to go on floors in London on September 1"
   ],
   "quiz": [
     {
-      "blanked": "How a ______ teacher's quick thinking saved 1,643 children from monster floods",
-      "answer": "Nepali",
+      "blanked": "A ______ physicist proposed a way to create quantum images 20 years ago; after two decades waiting for e",
+      "answer": "Chicago",
       "options": [
-        "Nepali",
-        "America",
+        "Chicago",
+        "Highly-Anticipated",
         "Floor",
-        "Clocks"
-      ]
-    },
-    {
-      "blanked": "Windows 11 is warning people that Defender Antivirus has been turned off, but don't worry, says ______",
-      "answer": "Microsoft",
-      "options": [
-        "More",
-        "Microsoft",
-        "Lake",
-        "Product"
-      ]
-    },
-    {
-      "blanked": "Natural living is the Foundation of Good Health: Dr Manthena Satyanarayana ______ renowned Naturopathy expert",
-      "answer": "Raju",
-      "options": [
-        "Apple",
-        "North",
-        "Bhushan",
-        "Raju"
-      ]
-    },
-    {
-      "blanked": "New study captures ______ early warning signs before solar flares",
-      "answer": "Suns",
-      "options": [
-        "Never",
-        "Know",
-        "Suns",
-        "6.5"
-      ]
-    },
-    {
-      "blanked": "Iran’s Khamenei calls for ______ unity as Hormuz tensions persist",
-      "answer": "Gulf",
-      "options": [
-        "Gulf",
-        "Good",
-        "1643",
-        "Trophy"
+        "Son"
       ]
     },
     {
       "blanked": "Salary deductions for ______ government employees defaulting on alimony",
       "answer": "Odisha",
       "options": [
-        "Never",
-        "Federer",
-        "Khamenei",
-        "Odisha"
+        "Odisha",
+        "Release",
+        "Turned",
+        "Divyenndu"
       ]
     },
     {
-      "blanked": "Bira 91 faces insolvency push as HNGIL seeks Rs ______ crore",
-      "answer": "11.8",
+      "blanked": "Duleep Trophy: North ______ fold for 195 on opening day",
+      "answer": "Zone",
       "options": [
-        "Dispute",
-        "Uzbekistans",
-        "11.8",
-        "Cheeky"
-      ]
-    },
-    {
-      "blanked": "India becomes key petrol supplier to ______ amid attacks on refineries, fuel shortages",
-      "answer": "Russia",
-      "options": [
-        "Fall",
-        "22006",
-        "Russia",
-        "Nepali"
-      ]
-    },
-    {
-      "blanked": "Epigenetic Clocks Reveal Disease-Driven Colon ______",
-      "answer": "Ageing",
-      "options": [
+        "Zone",
         "Ageing",
-        "Chandra",
-        "Ranbir",
-        "Bhushan"
+        "Uzbekistans",
+        "Watch"
       ]
     },
     {
-      "blanked": "A ______ physicist proposed a way to create quantum images 20 years ago; after two decades waiting for e",
-      "answer": "Chicago",
+      "blanked": "Russia bids Rs ______ crore for 5 more S-400 squadrons to boost India’s air defence",
+      "answer": "50000",
       "options": [
-        "Chicago",
-        "NOSTALGI",
+        "Microsoft",
+        "Ageing",
+        "50000",
+        "Five"
+      ]
+    },
+    {
+      "blanked": "iPhone 18 launch: Release date, expected price in ______",
+      "answer": "India",
+      "options": [
+        "195",
+        "Puts",
+        "Indias",
+        "India"
+      ]
+    },
+    {
+      "blanked": "\"Where To Kill Barron\": Iran Puts Rs 95 ______ Bounty On Trump's Son",
+      "answer": "Crore",
+      "options": [
+        "Khamenei",
+        "Phase",
+        "Uzbekistans",
+        "Crore"
+      ]
+    },
+    {
+      "blanked": "Auqib ______ to play three County Championship games for Surrey",
+      "answer": "Nabi",
+      "options": [
+        "22006",
+        "Nabi",
+        "Begins",
+        "Cyprus"
+      ]
+    },
+    {
+      "blanked": "‘Mirzapur: The Movie’ character guide: Ali Fazal’s ______ faces Pankaj Tripathi’s Kaleen Bhaiya; Divyenndu",
+      "answer": "Guddu",
+      "options": [
+        "Guddu",
         "97%",
-        "CEO"
+        "Friend",
+        "Greatest"
       ]
     },
     {
-      "blanked": "Students Cannot Be Punished For Asking Questions; Intolerance Is At Odds With ______ Justice Ujjal ...",
-      "answer": "Constitution",
+      "blanked": "Trump wants 'Lake America'. ______ puts up a 24-foot sign saying otherwise",
+      "answer": "Canada",
       "options": [
-        "Constitution",
-        "Antivirus",
-        "Waning",
-        "Clocks"
+        "Tripathis",
+        "Evolving",
+        "Canada",
+        "Iran"
       ]
     },
     {
-      "blanked": "Bengaluru ______ Dead, Friend Hurt As Both Fall From 7th Floor After Dispute",
-      "answer": "Techie",
+      "blanked": "PM Modi conferred with Uzbekistan's prestigious ______ Darajali Do'stlik’ Order",
+      "answer": "Oliy",
       "options": [
-        "Techie",
-        "Yeh",
-        "Ontario",
-        "Remains"
+        "Aamir",
+        "Phase",
+        "Oliy",
+        "Indias"
+      ]
+    },
+    {
+      "blanked": "Roman Telescope Begins Quest to Reveal Evolving ______",
+      "answer": "Universe",
+      "options": [
+        "2026",
+        "Today",
+        "Universe",
+        "Khamenei"
+      ]
+    },
+    {
+      "blanked": "Muzumdar: ______ hungry to win some tournaments'",
+      "answer": "India",
+      "options": [
+        "India",
+        "Fall",
+        "Barron",
+        "Tim"
       ]
     }
   ]
