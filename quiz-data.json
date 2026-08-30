@@ -1,26 +1,26 @@
 {
-  "generatedAt": "2026-08-30T10:33:28.025Z",
+  "generatedAt": "2026-08-30T10:48:33.395Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
     "India, Uzbekistan Strike Long-Term Uranium Deal As PM Modi Wraps Key Visit",
-    "Nepal flash floods LIVE: Nepal flood death toll rises to 734, disaster authority says",
-    "If Hindus think Muslims have no place, they cease to be Hindu: Mohan Bhagwat in New York",
+    "Nepal flash floods LIVE: Nepal warns of rising water levels in Bhotekoshi River as combined death toll surges to 750",
     "Punjabi influencer Manjeet Kaur, who died after being 'tied to a tree, burnt alive', was 7 weeks pregnant",
+    "One dead, 5 injured in shooting at Switzerland rave party; hunt on for gunman",
+    "Iran supreme leader calls for unity among Muslim countries",
     "\"You Think You Are A Lord?\" Bombay High Court Slams FDA Officer Over Suspension Of Eateries Of Mumbai...",
-    "Iran's Khamenei urges Gulf rulers in written message to confront 'real enemy'",
+    "If Hindus think Muslims have no place, they cease to be Hindu: Mohan Bhagwat in New York",
     "BJP brainstorming on Gen Z outreach concludes cohort is not ‘homogenous’",
     "Mumbai woman dies after consuming poisoned drink, boyfriend held",
     "'Drug-free India' to 'vocal for local': Key quotes from PM Modi’s 137th Mann Ki Baat",
-    "AAP Leader Murdered In Punjab. Attackers Chased His Bike, Opened Fire",
-    "US-Venezuela energy pact: What we know about Trump’s ‘biggest oil deal in world history’",
-    "1 Dead, 5 Injured In Shooting Near Rave Attended By 3,500 In Switzerland",
+    "Trump-Putin-Zelenskyy summit floated in secret Moscow talks: Report",
+    "Trump hails ‘biggest oil deal’ with Venezuela, US to gain control over 65 billion barrels",
     "'I still struggle': Landlady recalls Saudi man who brought 9/11 hijackers to her office",
     "Canada To Impose Up To 50% Tariffs On 700 US Goods As Trade War Escalates",
-    "HDFC Bank CEO Jagdishan to step down, decides not to seek reappointment",
+    "India's HDFC Bank weighing deputy MD Bharucha, outsider for CEO, sources say",
     "Ex-MP Kirit Somaiya seeks probe into Sensex’s wild swings on Aug 27, calls for explanation from policy...",
+    "Narayana Murthy’s family office buys 5th metal stock — The 68-year-old foundry monopoly",
     "GST Council meeting on Sept 12: Easier registration, automated cancellations on agenda",
-    "India wants global factories, but its own quality checks may be putting investors off: GTRI",
     "GTA 6 Extended Look Reveals Jason, Lucia And Leonida Gameplay",
     "Here's when the iPhone 18 Pro and iPhone 18 Pro Max are rumored to go on pre-order - GSMArena.com news",
     "Deals: the Galaxy S26 FE is coming, Galaxy S26 series on sale, Nothing Phone (3) also discounted - GSMArena.com news",
@@ -31,123 +31,123 @@
   ],
   "quiz": [
     {
-      "blanked": "India wants global factories, but its own quality checks may be putting investors off: ______",
-      "answer": "GTRI",
+      "blanked": "Canada To ______ Up To 50% Tariffs On 700 US Goods As Trade War Escalates",
+      "answer": "Impose",
       "options": [
-        "Gulf",
-        "War",
-        "734",
-        "GTRI"
+        "Impose",
+        "Teja",
+        "Telugu",
+        "Max"
       ]
     },
     {
-      "blanked": "'Drug-free India' to 'vocal for local': Key quotes from PM ______ 137th Mann Ki Baat",
-      "answer": "Modis",
+      "blanked": "Iran supreme leader calls for unity among ______ countries",
+      "answer": "Muslim",
       "options": [
-        "CEO",
-        "Modis",
-        "Idiots",
-        "Collections"
+        "Look",
+        "Fame",
+        "Muslim",
+        "Venus"
       ]
     },
     {
-      "blanked": "Ex-MP Kirit Somaiya seeks probe into Sensex’s wild swings on ______ 27, calls for explanation from policy...",
-      "answer": "Aug",
+      "blanked": "Narayana ______ family office buys 5th metal stock — The 68-year-old foundry monopoly",
+      "answer": "Murthys",
       "options": [
-        "Leonida",
-        "Aug",
-        "Gulf",
-        "East"
-      ]
-    },
-    {
-      "blanked": "Deals: the Galaxy S26 FE is coming, Galaxy S26 series on sale, Nothing ______ (3) also discounted - GSMArena.com news",
-      "answer": "Phone",
-      "options": [
-        "Hindus",
-        "Phone",
-        "Zone",
-        "Near"
-      ]
-    },
-    {
-      "blanked": "'I still struggle': Landlady recalls Saudi man who brought ______ hijackers to her office",
-      "answer": "911",
-      "options": [
-        "911",
-        "Nepal",
-        "Strike",
-        "Sept"
-      ]
-    },
-    {
-      "blanked": "Dispelling myths, misconceptions surrounding ______ vaccination for young women",
-      "answer": "HPV",
-      "options": [
-        "Watch",
-        "Bank",
-        "HPV",
+        "Reveal",
+        "Murthys",
+        "200",
         "Long-Term"
       ]
     },
     {
-      "blanked": "Calling on the neighbours: ISRO's upcoming ______ Mars missions explained",
-      "answer": "Venus",
+      "blanked": "'Drug-free India' to 'vocal for local': ______ quotes from PM Modi’s 137th Mann Ki Baat",
+      "answer": "Key",
       "options": [
-        "Mirka",
-        "Venus",
-        "Eastern",
-        "Look"
+        "Montreal",
+        "Key",
+        "Venezuela",
+        "Council"
       ]
     },
     {
-      "blanked": "Vaibhav Sooryavanshi becomes captain at 15, leads ______ Zone in Duleep Trophy after Ishan Kishan's freak injury",
-      "answer": "East",
+      "blanked": "Trump-Putin-Zelenskyy summit floated in secret Moscow talks: ______",
+      "answer": "Report",
       "options": [
-        "Phone",
-        "Indias",
-        "East",
-        "Sensexs"
+        "Report",
+        "Kirit",
+        "Trade",
+        "Why"
       ]
     },
     {
-      "blanked": "How space traffic management can save our satellites ______ Forum)",
-      "answer": "Reader",
+      "blanked": "Punjabi influencer ______ Kaur, who died after being 'tied to a tree, burnt alive', was 7 weeks pregnant",
+      "answer": "Manjeet",
       "options": [
-        "LIVE",
-        "Reader",
-        "Teja",
-        "Lucia"
-      ]
-    },
-    {
-      "blanked": "Tom Cruise announces ______ of Thunder’ sequel with Anne Hathaway in new video",
-      "answer": "Days",
-      "options": [
-        "Hathaway",
-        "Eastern",
-        "Trumps",
-        "Days"
-      ]
-    },
-    {
-      "blanked": "Sonam Wangchuk's witty response to Aamir Khan denying his '3 Idiots' character was based on him: ______",
-      "answer": "Kyunki",
-      "options": [
-        "Kyunki",
-        "Gulf",
         "Council",
-        "Eateries"
+        "Look",
+        "Manjeet",
+        "Modis"
       ]
     },
     {
-      "blanked": "Buy a new ______ Watch with enhanced trade-in savings, return it if you don't like it",
-      "answer": "Galaxy",
+      "blanked": "Tom Cruise announces ‘Days of ______ sequel with Anne Hathaway in new video",
+      "answer": "Thunder",
       "options": [
-        "Shreyas",
-        "Galaxy",
-        "Somaiya",
-        "FDA"
+        "Thunder",
+        "Office",
+        "Collections",
+        "Box"
+      ]
+    },
+    {
+      "blanked": "India, ______ Strike Long-Term Uranium Deal As PM Modi Wraps Key Visit",
+      "answer": "Uzbekistan",
+      "options": [
+        "Max",
+        "Funds",
+        "21.8%",
+        "Uzbekistan"
+      ]
+    },
+    {
+      "blanked": "GST ______ meeting on Sept 12: Easier registration, automated cancellations on agenda",
+      "answer": "Council",
+      "options": [
+        "Captain",
+        "Council",
+        "Venezuela",
+        "Impose"
+      ]
+    },
+    {
+      "blanked": "Watch: Captain Vaibhav Sooryavanshi’s brave ______ call gets East Zone crucial wicket",
+      "answer": "DRS",
+      "options": [
+        "21.8%",
+        "DRS",
+        "Zone",
+        "Aamir"
+      ]
+    },
+    {
+      "blanked": "Knee Pain In Your 30s? Doctors Reveal Why It May ______ Nothing to Do With Ageing",
+      "answer": "Have",
+      "options": [
+        "Delhi",
+        "700",
+        "Bhagwat",
+        "Have"
+      ]
+    },
+    {
+      "blanked": "Here's when the iPhone 18 Pro and iPhone 18 Pro ______ are rumored to go on pre-order - GSMArena.com news",
+      "answer": "Max",
+      "options": [
+        "River",
+        "21.8%",
+        "Max",
+        "Funds"
       ]
     }
   ]
