@@ -1,24 +1,24 @@
 {
-  "generatedAt": "2026-08-30T20:03:33.470Z",
+  "generatedAt": "2026-08-30T20:18:36.508Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "Photos: Nepal issues alerts as region’s flash flood death toll nears 800",
     "PM Modi conferred with Uzbekistan's prestigious ‘Oliy Darajali Do'stlik’ Order",
+    "Photos: Nepal issues alerts as region’s flash flood death toll nears 800",
     "Himachal identifies 67 vulnerable glacial lakes, early warning systems planned for 4",
     "Iran's Khamenei urges Gulf rulers in written message to confront 'real enemy'",
     "Russia submits proposal in response to Indian tender for 5 more S-400 'Sudarshan' units",
-    "New plan to end employment authorization for some spouses of H-1B visa holders: '600,000+ jobs will open",
+    "Mann Ki Baat: PM Modi praises Mumbai man for creating specialised website to know India's history",
     "‘Excessive speed’: 8-year-old boy killed as woman driver on phone runs him over in Mumbai; arrested",
     "No Food Discussion, No Fatwas: VHP On Reports Of Satvik Food On Durga Puja",
     "Saved by a tea break, strengthened by a rakhi: 5 Chhattisgarh friends endure Nepal's flood fury",
     "Hundreds attend condolence meet of 1984 riots convict Sajjan Kumar in Delhi",
+    "Russia strike on Kyiv ammunition depot kills 38 in year's deadliest attack as Zelenskyy blames officials",
     "At least seven dead after ferry carrying nearly 270 passengers, crew capsizes off northern Cyprus",
-    "Trump wants 'Lake America'. Canada puts up a 24-foot sign saying otherwise",
-    "'We're alive': Kyiv-area survivor recalls Russian strike that killed 38",
-    "Turkey, Saudi Arabia, Pakistan set to hold first defence talks under Mecca pact",
+    "Iceland Set to Reject EU Entry Talks in Tight Referendum",
+    "Niger says it regains control of airbase after soldiers mutiny",
     "India's HDFC Bank weighing deputy MD Bharucha, outsider for CEO, sources say",
-    "Dissenting creditors alleged family-linked entities cast 61.78 pc votes that cleared Subhash Chandra's ins",
+    "Subhash Chandra insolvency: Why are creditors set to recover only ₹6.5 crore against ₹22,006 crore claims?",
     "Tim Cook Steps Down: How He Took Apple From $350 Billion To $4 Trillion",
     "Bira 91 faces insolvency push as HNGIL seeks Rs 11.8 crore",
     "iPhone 18 launch: Release date, expected price in India",
@@ -27,106 +27,26 @@
     "iPhone 17 Pro Max Price Slashed Worldwide Before iPhone 18 Launch",
     "Toxic Box Office Collections: Yash starrer continues to slip, tops Rs. 200 Cr in India on 4th day",
     "'Hanuman Ansh' box office collection: From Rs 10 lakh on day 1 to Rs 27 crore in 23 days, word of mouth t",
-    "'Maybe He Had Short-Term Memory Loss': Sonam Wangchuk's Cheeky Reply To Aamir Khan's We Never Met' Claim"
+    "Spider-Man: Brand New Day India Box Office: Tom Holland starrer holds well on 5th Saturday, nears Rs 580 crore mark"
   ],
   "quiz": [
     {
-      "blanked": "India crush Thailand to lay down early marker in Asia ______",
-      "answer": "Cup",
+      "blanked": "Mann Ki ______ PM Modi praises Mumbai man for creating specialised website to know India's history",
+      "answer": "Baat",
       "options": [
-        "Cup",
-        "Mecca",
-        "Chicago",
-        "200"
+        "200",
+        "Sajjan",
+        "CEO",
+        "Baat"
       ]
     },
     {
-      "blanked": "Weekly poll results: the Honor Robot ______ draws in a crowd with its camera capabilities",
-      "answer": "Phone",
+      "blanked": "At least seven dead after ferry carrying nearly ______ passengers, crew capsizes off northern Cyprus",
+      "answer": "270",
       "options": [
-        "Phone",
-        "61.78",
-        "Never",
-        "Reveal"
-      ]
-    },
-    {
-      "blanked": "Formaldehyde Contact ______ Remains a Global Concern",
-      "answer": "Allergy",
-      "options": [
-        "Cyprus",
-        "Allergy",
-        "Mumbai",
-        "Memory"
-      ]
-    },
-    {
-      "blanked": "New plan to end employment authorization for some spouses of H-1B visa holders: ______ jobs will open",
-      "answer": "600000",
-      "options": [
-        "Office",
-        "Sonam",
-        "600000",
-        "Chandras"
-      ]
-    },
-    {
-      "blanked": "Hundreds attend condolence meet of ______ riots convict Sajjan Kumar in Delhi",
-      "answer": "1984",
-      "options": [
-        "Extended",
-        "Ipswich",
-        "Photos",
-        "1984"
-      ]
-    },
-    {
-      "blanked": "Iran's ______ urges Gulf rulers in written message to confront 'real enemy'",
-      "answer": "Khamenei",
-      "options": [
-        "Khamenei",
-        "Simplifies",
-        "Fatwas",
-        "Cup"
-      ]
-    },
-    {
-      "blanked": "Russia submits proposal in response to ______ tender for 5 more S-400 'Sudarshan' units",
-      "answer": "Indian",
-      "options": [
-        "Slashed",
-        "Steps",
-        "Indian",
-        "Down"
-      ]
-    },
-    {
-      "blanked": "National Geographic’s ______ Photos of a Young Dolly Parton",
-      "answer": "Vintage",
-      "options": [
-        "Vintage",
-        "270",
-        "1984",
-        "97%"
-      ]
-    },
-    {
-      "blanked": "GTA 6 ______ Look Reveals Jason, Lucia And Leonida Gameplay",
-      "answer": "Extended",
-      "options": [
-        "Pakistan",
-        "Extended",
-        "Roman",
-        "Eclipse"
-      ]
-    },
-    {
-      "blanked": "Tim Cook Steps Down: How He Took Apple From $350 ______ To $4 Trillion",
-      "answer": "Billion",
-      "options": [
-        "Billion",
-        "Geographics",
-        "North",
+        "Zone",
+        "Tight",
+        "Bank",
         "270"
       ]
     },
@@ -134,20 +54,100 @@
       "blanked": "Toxic Box ______ Collections: Yash starrer continues to slip, tops Rs. 200 Cr in India on 4th day",
       "answer": "Office",
       "options": [
-        "Lords",
-        "Reports",
+        "580",
         "Office",
-        "97%"
+        "Concern",
+        "270"
       ]
     },
     {
-      "blanked": "Manchester ______ player ratings vs Ipswich as Bruno Fernandes sensational and two others star",
-      "answer": "United",
+      "blanked": "Spider-Man: Brand New Day India Box ______ Tom Holland starrer holds well on 5th Saturday, nears Rs 580 crore mark",
+      "answer": "Office",
       "options": [
+        "Office",
+        "Today",
+        "Bharucha",
+        "Slashed"
+      ]
+    },
+    {
+      "blanked": "Man Utd vs ______ player ratings, Fernandes gets first 10/10 but 9/10 star made everything happen",
+      "answer": "Ipswich",
+      "options": [
+        "Nepal",
+        "Launch",
+        "Ipswich",
+        "Reject"
+      ]
+    },
+    {
+      "blanked": "Iran's Khamenei urges ______ rulers in written message to confront 'real enemy'",
+      "answer": "Gulf",
+      "options": [
+        "Down",
+        "Jason",
+        "Gulf",
+        "Day"
+      ]
+    },
+    {
+      "blanked": "iPhone 17 Pro Max Price ______ Worldwide Before iPhone 18 Launch",
+      "answer": "Slashed",
+      "options": [
+        "Chandra",
         "Simplifies",
-        "Food",
         "Slashed",
-        "United"
+        "Contact"
+      ]
+    },
+    {
+      "blanked": "Duleep Trophy: North Zone fold for ______ on opening day",
+      "answer": "195",
+      "options": [
+        "India",
+        "Myocardial",
+        "Yash",
+        "195"
+      ]
+    },
+    {
+      "blanked": "Russia submits proposal in response to Indian tender for 5 more S-400 ______ units",
+      "answer": "Sudarshan",
+      "options": [
+        "Telescope",
+        "Phone",
+        "Sudarshan",
+        "Definition"
+      ]
+    },
+    {
+      "blanked": "Subhash Chandra insolvency: Why are creditors set to recover only ₹6.5 crore against ______ crore claims?",
+      "answer": "22006",
+      "options": [
+        "Indias",
+        "Took",
+        "22006",
+        "1984"
+      ]
+    },
+    {
+      "blanked": "Moon Phase ______ August 29, 2026: Waning Gibbous at 97% After the Sturgeon Moon Eclipse",
+      "answer": "Today",
+      "options": [
+        "Discussion",
+        "Cup",
+        "Colon",
+        "Today"
+      ]
+    },
+    {
+      "blanked": "Tim Cook Steps Down: How He Took Apple From $350 Billion To $4 ______",
+      "answer": "Trillion",
+      "options": [
+        "580",
+        "Bollywood",
+        "Honor",
+        "Trillion"
       ]
     }
   ]
