@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-30T13:18:17.563Z",
+  "generatedAt": "2026-08-30T13:33:27.082Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
     "Nepal flash floods LIVE: Death toll reaches 768; rescuers drill through debris towards trapped tunnel workers",
-    "India, Uzbekistan Strike Long-Term Uranium Deal As PM Modi Wraps Key Visit",
+    "‘Order of Oliy Darajali Dustlik’: Uzbekistan confers its highest state honour on PM Modi",
     "Mann Ki Baat: PM Modi praises Mumbai man for creating specialised website to know India's history",
-    "‘They are not saints…’: Wangchuk says CJP founders have political ambitions, insists there’s nothing wrong with it",
-    "One dead, 5 injured in shooting at Switzerland rave party; hunt on for gunman",
     "Iran's Khamenei urges Gulf rulers in written message to confront 'real enemy'",
-    "Exam began 10 times: NEET-PG 2026 chaos in Jaipur leaves students furious",
-    "How A Tea Break Saved 5 Chhattisgarh Friends From Nepal Floods",
-    "If Hindus think Muslims have no place, they cease to be Hindu: Mohan Bhagwat in New York",
+    "Before The Nepal Flood, A Glacial Fall: Tracing The Trigger, And A 100-km Killer Surge",
     "Students Cannot Be Punished For Asking Questions; Intolerance Is At Odds With Constitution: Justice Ujjal ...",
+    "India emerges as key petrol supplier to Russia as refinery attacks disrupt fuel supplies",
+    "'Hamke lagaraha Spain': Ravi Kishan's remark on Gorakhpur leaves UP CM Yogi Adityanath in splits; watch",
+    "If Hindus think Muslims have no place, they cease to be Hindu: Mohan Bhagwat in New York",
+    "Red alert issued for 3 Odisha districts as IMD forecasts over 20 cm rainfall",
     "Vote count under way in Iceland’s knife-edge EU referendum",
-    "US-Venezuela energy pact: What we know about Trump’s ‘biggest oil deal in world history’",
-    "Ferry boat with around 270 passengers capsizes off North Cyprus: Report | World News",
-    "Nepal Teacher Received Flood Warning. What He Did Next Saved 1,643 Children",
+    "Bilawal Bhutto Set To Marry European Princess? What His Party Leader Said",
+    "Trump wants 'Lake America'. Canada puts up a 24-foot sign saying otherwise",
+    "Trump hails ‘biggest oil deal’ with Venezuela, US to gain control over 65 billion barrels",
     "India's HDFC Bank weighing deputy MD Bharucha, outsider for CEO, sources say",
+    "Bira 91 faces insolvency push as HNGIL seeks Rs 11.8 crore",
     "Apple Watch To Vision Pro: Tim Cook's Five Greatest Product Hits That Redefined Apple",
     "Ex-MP Kirit Somaiya seeks probe into Sensex’s wild swings on Aug 27, calls for explanation from policy...",
-    "Ather Konarc Launched at ₹99,999 – New Mass-Market Electric Scooter Offers Up To 200 Km Range",
     "GTA 6 Extended Look Reveals Jason, Lucia And Leonida Gameplay",
     "Here's when the iPhone 18 Pro and iPhone 18 Pro Max are rumored to go on pre-order - GSMArena.com news",
-    "Windows 11 is warning people that Defender Antivirus has been turned off, but don't worry, says Microsoft",
+    "Windows 11 is warning \"Virus protection is off,\" Microsoft confirms it's false, but verify if Defender is actually enabled",
     "Weekly poll: will you buy the Samsung Galaxy S26 FE? - GSMArena.com news",
     "Toxic Box Office Collections: Yash starrer continues to slip, tops Rs. 200 Cr in India on 4th day",
     "Sunny Deol And Rajkumar Santoshi To Reunite For Ghatak Ghus Ke Maarega",
-    "Tom Cruise announces ‘Days of Thunder’ sequel with Anne Hathaway in new video"
+    "‘Mirzapur: The Movie’ character guide: Ali Fazal’s Guddu faces Pankaj Tripathi’s Kaleen Bhaiya; Divyenndu"
   ],
   "quiz": [
     {
-      "blanked": "Barcelona target Julian Alvarez accepts his fate and returns to Atletico ______ group training",
-      "answer": "Madrid",
+      "blanked": "Epigenetic ______ Reveal Disease-Driven Colon Ageing",
+      "answer": "Clocks",
       "options": [
-        "768",
-        "Madrid",
-        "Product",
-        "72%"
-      ]
-    },
-    {
-      "blanked": "India's HDFC ______ weighing deputy MD Bharucha, outsider for CEO, sources say",
-      "answer": "Bank",
-      "options": [
-        "Tennis",
-        "Nothing",
-        "Heavy",
-        "Bank"
-      ]
-    },
-    {
-      "blanked": "Calling on the neighbours: ______ upcoming Venus, Mars missions explained",
-      "answer": "ISROs",
-      "options": [
-        "Trumps",
-        "Strike",
-        "ISROs",
-        "Bharucha"
+        "Clocks",
+        "Telescope",
+        "Federer",
+        "Odds"
       ]
     },
     {
       "blanked": "Vote count under way in ______ knife-edge EU referendum",
       "answer": "Icelands",
       "options": [
-        "Uranium",
-        "Delhi",
+        "Leonida",
+        "Glacial",
         "Icelands",
-        "Into"
+        "Kirit"
       ]
     },
     {
-      "blanked": "Knee Pain In Your 30s? Doctors Reveal Why It ______ Have Nothing to Do With Ageing",
-      "answer": "May",
+      "blanked": "Nancy Grace Roman ______ live updates: SpaceX Falcon Heavy deploys Roman Space Telescope after launch",
+      "answer": "Telescope",
       "options": [
-        "May",
-        "Atletico",
-        "Roman",
-        "Mohan"
+        "Into",
+        "Ghus",
+        "Space",
+        "Telescope"
       ]
     },
     {
-      "blanked": "Dispelling myths, misconceptions surrounding ______ vaccination for young women",
-      "answer": "HPV",
+      "blanked": "Windows 11 is warning ______ protection is off,\" Microsoft confirms it's false, but verify if Defender is actually enabled",
+      "answer": "Virus",
       "options": [
-        "HPV",
-        "East",
-        "Ghatak",
-        "Why"
+        "Falcon",
+        "Virus",
+        "Spain",
+        "Tripathis"
       ]
     },
     {
-      "blanked": "Nancy Grace Roman Telescope live updates: ______ and Falcon Heavy delivered to launch pad",
-      "answer": "Roman",
+      "blanked": "A ______ physicist proposed a way to create quantum images 20 years ago; after two decades waiting for e",
+      "answer": "Chicago",
       "options": [
-        "Gameplay",
-        "CEO",
-        "Roman",
-        "72%"
+        "Tripathis",
+        "Chicago",
+        "Venezuela",
+        "Death"
       ]
     },
     {
-      "blanked": "If Hindus think Muslims have no place, they cease to be ______ Mohan Bhagwat in New York",
-      "answer": "Hindu",
+      "blanked": "Red alert issued for 3 ______ districts as IMD forecasts over 20 cm rainfall",
+      "answer": "Odisha",
       "options": [
-        "Extended",
-        "Hindu",
-        "Have",
-        "Europe"
-      ]
-    },
-    {
-      "blanked": "Nepal Teacher Received Flood Warning. What He Did ______ Saved 1,643 Children",
-      "answer": "Next",
-      "options": [
-        "Uranium",
-        "CJP",
-        "Next",
-        "Box"
-      ]
-    },
-    {
-      "blanked": "Here's when the iPhone 18 ______ and iPhone 18 Pro Max are rumored to go on pre-order - GSMArena.com news",
-      "answer": "Pro",
-      "options": [
-        "Floods",
-        "Nepal",
-        "Pro",
-        "Office"
-      ]
-    },
-    {
-      "blanked": "Ferry boat with around 270 passengers capsizes off North ______ Report | World News",
-      "answer": "Cyprus",
-      "options": [
-        "Cyprus",
-        "Khamenei",
-        "Grace",
+        "Odisha",
+        "Fazals",
+        "Flood",
         "Greatest"
       ]
     },
     {
-      "blanked": "US-Venezuela energy pact: ______ we know about Trump’s ‘biggest oil deal in world history’",
-      "answer": "What",
+      "blanked": "‘Mirzapur: The Movie’ character guide: ______ Fazal’s Guddu faces Pankaj Tripathi’s Kaleen Bhaiya; Divyenndu",
+      "answer": "Ali",
       "options": [
-        "What",
-        "Grace",
-        "Pro",
-        "Asking"
+        "Somaiya",
+        "Lucia",
+        "Ali",
+        "Max"
+      ]
+    },
+    {
+      "blanked": "India emerges as key petrol supplier to ______ as refinery attacks disrupt fuel supplies",
+      "answer": "Russia",
+      "options": [
+        "Office",
+        "Russia",
+        "Dustlik",
+        "Yash"
+      ]
+    },
+    {
+      "blanked": "In pictures: partial lunar eclipse illuminates skies across ______ the Americas",
+      "answer": "Europe",
+      "options": [
+        "Cooks",
+        "Europe",
+        "Bhutto",
+        "Trigger"
+      ]
+    },
+    {
+      "blanked": "Mann Ki ______ PM Modi praises Mumbai man for creating specialised website to know India's history",
+      "answer": "Baat",
+      "options": [
+        "Look",
+        "Box",
+        "Baat",
+        "Justice"
+      ]
+    },
+    {
+      "blanked": "Officially: Argentina star joins ______",
+      "answer": "Chelsea",
+      "options": [
+        "Cannot",
+        "Chelsea",
+        "Ghus",
+        "Office"
+      ]
+    },
+    {
+      "blanked": "Apple Watch To Vision Pro: Tim Cook's Five Greatest Product Hits That ______ Apple",
+      "answer": "Redefined",
+      "options": [
+        "Vaibhav",
+        "Kaleen",
+        "Redefined",
+        "Europe"
       ]
     }
   ]
