@@ -1,28 +1,28 @@
 {
-  "generatedAt": "2026-08-30T12:33:21.456Z",
+  "generatedAt": "2026-08-30T12:48:27.770Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "Nepal flash floods LIVE: Death toll reaches 768; rescuers drill through debris towards trapped tunnel workers",
-    "\"Overwhelmed By The Warmth\": PM Modi Receives Grand Welcome In Uzbekistan",
+    "11 Indian-Origin US Citizens On Kailash Trip Missing After Nepal Floods",
+    "PM Modi’s SCO visit is loaded with expectations on BRICS Summit and UNSC election",
     "Punjabi influencer Manjeet Kaur, who died after being 'tied to a tree, burnt alive', was 7 weeks pregnant",
     "Iran's Khamenei urges Gulf rulers in written message to confront 'real enemy'",
-    "Ferry carrying 260 people capsizes off northern Cyprus coast",
     "Mann Ki Baat: PM Modi praises Mumbai man for creating specialised website to know India's history",
+    "Students Cannot Be Punished For Asking Questions; Intolerance Is At Odds With Constitution: Justice Ujjal ...",
     "If Hindus think Muslims have no place, they cease to be Hindu: Mohan Bhagwat in New York",
-    "NEET-PG 2026 exam at Jaipur centre rescheduled to September 5 over power outage",
-    "BJP brainstorming on Gen Z outreach concludes cohort is not ‘homogenous’",
-    "'Hamke lagaraha Spain': Ravi Kishan compares Gorakhpur to Spain; Yogi Adityanath can't stop smiling |...",
-    "News in Frames: Hope hangs in the skies",
+    "Gen Z cohort is not ‘homogenous’, concludes BJP in brainstorming session",
+    "Red alert issued for 3 Odisha districts as IMD forecasts over 20 cm rainfall",
+    "Census Asks 40 Questions. Why Number 10 Is A Battleground | NDTV Explains",
     "Vote count under way in Iceland’s knife-edge EU referendum",
-    "US-Venezuela energy pact: What we know about Trump’s ‘biggest oil deal in world history’",
-    "Istanbul to host first committee meeting of Turkey-Saudi-Pakistan defence alliance: Report",
+    "Canada Leader Answers Trump's \"Lake America\" With Giant \"Lake Ontario\" Sign",
+    "Trump hails ‘biggest oil deal’ with Venezuela, US to gain control over 65 billion barrels",
+    "Ferry boat with around 270 passengers capsizes off North Cyprus: Report | World News",
     "India's HDFC Bank weighing deputy MD Bharucha, outsider for CEO, sources say",
     "7 of top 10 firms lose ₹1.13 lakh crore in market value in one week | Sensex fell 276 points, Nifty dropped 76 points | Inshorts",
     "Ex-MP Kirit Somaiya seeks probe into Sensex’s wild swings on Aug 27, calls for explanation from policy...",
-    "Narayana Murthy’s family office buys 5th metal stock — The 68-year-old foundry monopoly",
-    "Leaked DLSS 5 code lets modders test Nvidia’s AI graphics tech",
+    "Ather Konarc Launched at ₹99,999 – New Mass-Market Electric Scooter Offers Up To 200 Km Range",
     "GTA 6 Extended Look Reveals Jason, Lucia And Leonida Gameplay",
+    "Leaked DLSS 5 code lets modders test Nvidia’s AI graphics tech",
     "Here's when the iPhone 18 Pro and iPhone 18 Pro Max are rumored to go on pre-order - GSMArena.com news",
     "Weekly poll: will you buy the Samsung Galaxy S26 FE? - GSMArena.com news",
     "Toxic Box Office Collections: Yash starrer continues to slip, tops Rs. 200 Cr in India on 4th day",
@@ -31,63 +31,13 @@
   ],
   "quiz": [
     {
-      "blanked": "Calling on the neighbours: ISRO's upcoming ______ Mars missions explained",
-      "answer": "Venus",
+      "blanked": "GTA 6 Extended Look Reveals Jason, Lucia And ______ Gameplay",
+      "answer": "Leonida",
       "options": [
-        "Venus",
-        "2026",
-        "Federer",
-        "Tennis"
-      ]
-    },
-    {
-      "blanked": "US-Venezuela energy pact: ______ we know about Trump’s ‘biggest oil deal in world history’",
-      "answer": "What",
-      "options": [
-        "What",
-        "Have",
-        "Welcome",
-        "Roman"
-      ]
-    },
-    {
-      "blanked": "Knee Pain In ______ 30s? Doctors Reveal Why It May Have Nothing to Do With Ageing",
-      "answer": "Your",
-      "options": [
-        "Trumps",
-        "Manjeet",
-        "Samsung",
-        "Your"
-      ]
-    },
-    {
-      "blanked": "Leaked DLSS 5 code lets modders test ______ AI graphics tech",
-      "answer": "Nvidias",
-      "options": [
-        "Nvidias",
-        "Inducted",
-        "HPV",
-        "Hathaway"
-      ]
-    },
-    {
-      "blanked": "BJP brainstorming on ______ Z outreach concludes cohort is not ‘homogenous’",
-      "answer": "Gen",
-      "options": [
-        "Inshorts",
-        "260",
-        "Gen",
-        "Ghus"
-      ]
-    },
-    {
-      "blanked": "Ferry carrying ______ people capsizes off northern Cyprus coast",
-      "answer": "260",
-      "options": [
-        "Collections",
-        "260",
-        "East",
-        "Alvarez"
+        "India",
+        "Scooter",
+        "Leonida",
+        "Look"
       ]
     },
     {
@@ -95,59 +45,109 @@
       "answer": "Manjeet",
       "options": [
         "Manjeet",
-        "Trumps",
-        "Hindu",
-        "Nvidias"
+        "NDTV",
+        "Rajkumar",
+        "Maarega"
       ]
     },
     {
-      "blanked": "Barcelona target Julian Alvarez accepts his fate and returns to ______ Madrid group training",
-      "answer": "Atletico",
+      "blanked": "Ferry boat with around 270 passengers capsizes off North Cyprus: Report | World ______",
+      "answer": "News",
       "options": [
-        "Fame",
-        "Icelands",
+        "Extended",
+        "Intolerance",
+        "99999",
+        "News"
+      ]
+    },
+    {
+      "blanked": "Canada Leader ______ Trump's \"Lake America\" With Giant \"Lake Ontario\" Sign",
+      "answer": "Answers",
+      "options": [
         "Atletico",
-        "East"
+        "Reunite",
+        "Answers",
+        "Rajkumar"
       ]
     },
     {
-      "blanked": "Sunny ______ And Rajkumar Santoshi To Reunite For Ghatak Ghus Ke Maarega",
-      "answer": "Deol",
+      "blanked": "Leaked DLSS 5 code lets modders test ______ AI graphics tech",
+      "answer": "Nvidias",
       "options": [
-        "Baat",
+        "Falcon",
+        "Kirit",
+        "Nvidias",
+        "Collections"
+      ]
+    },
+    {
+      "blanked": "Ex-MP ______ Somaiya seeks probe into Sensex’s wild swings on Aug 27, calls for explanation from policy...",
+      "answer": "Kirit",
+      "options": [
+        "Kirit",
+        "Ujjal",
+        "News",
+        "Box"
+      ]
+    },
+    {
+      "blanked": "Red alert issued for 3 ______ districts as IMD forecasts over 20 cm rainfall",
+      "answer": "Odisha",
+      "options": [
+        "Leader",
+        "Reveal",
+        "Odisha",
+        "HPV"
+      ]
+    },
+    {
+      "blanked": "Roger Federer's wife Mirka leaves tennis great laughing, crying with ______ of Fame speech",
+      "answer": "Hall",
+      "options": [
+        "ISROs",
+        "Hall",
+        "1.13",
+        "Yet"
+      ]
+    },
+    {
+      "blanked": "Trump hails ‘biggest oil deal’ with ______ US to gain control over 65 billion barrels",
+      "answer": "Venezuela",
+      "options": [
         "Bharucha",
-        "Deol",
-        "Pro"
+        "200",
+        "Venezuela",
+        "Europe"
       ]
     },
     {
-      "blanked": "If Hindus think Muslims have no place, they cease to be Hindu: Mohan ______ in New York",
-      "answer": "Bhagwat",
+      "blanked": "Amid rising swine flu cases, ______ govt asks hospitals to reserve isolation beds",
+      "answer": "Delhi",
       "options": [
-        "Bhagwat",
-        "Hathaway",
-        "Spain",
-        "Inducted"
+        "ISROs",
+        "Europe",
+        "Open",
+        "Delhi"
       ]
     },
     {
-      "blanked": "Toxic Box ______ Collections: Yash starrer continues to slip, tops Rs. 200 Cr in India on 4th day",
-      "answer": "Office",
+      "blanked": "Census Asks 40 Questions. Why Number 10 Is A Battleground | ______ Explains",
+      "answer": "NDTV",
       "options": [
-        "India",
-        "Atletico",
-        "What",
-        "Office"
+        "Muslims",
+        "NDTV",
+        "Electric",
+        "Battleground"
       ]
     },
     {
-      "blanked": "In pictures: partial lunar eclipse illuminates skies across Europe, the ______",
-      "answer": "Americas",
+      "blanked": "Nancy Grace Roman Telescope live updates: ______ and Falcon Heavy delivered to launch pad",
+      "answer": "Roman",
       "options": [
-        "Cyprus",
-        "Americas",
-        "Modi",
-        "Anne"
+        "Roman",
+        "Bank",
+        "Venus",
+        "America"
       ]
     }
   ]
