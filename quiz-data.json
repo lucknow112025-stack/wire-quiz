@@ -1,22 +1,22 @@
 {
-  "generatedAt": "2026-08-30T01:33:43.674Z",
+  "generatedAt": "2026-08-30T01:48:33.141Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
     "Nepal floods: ‘Bodies buried in slush, families refusing food’, Khalsa Aid volunteers witness devastation",
     "PM Modi lands in Uzbekistan on two-nation visit, President Shavkat Mirziyoyev receives him | India News",
     "Oneness or Hindu supremacy? RSS chief Bhagwat’s secretive New York hosts",
-    "Israeli settlers surround Palestinian home in occupied West Bank’s Qusra",
     "China removes PLA general who oversaw Doklam and Galwan standoffs with India from key post",
     "Before The Nepal Flood, A Glacial Fall: Tracing The Trigger, And A 100-km Killer Surge",
-    "\"Matter Of Concern\": Chirag Paswan On M Kharge Rally \"Purification\" Row, Takes Dig At Rahul Gandhi",
+    "Rahul Gandhi asks PM Modi to order FIR under SC/ST Act over ‘purification’ after Kharge’s rally | India News",
     "Telangana SIR: Voters must be informed hearing date 2 days ahead",
     "Flash floods in Nepal: No contact still with 320 Indians; 400 stranded",
     "Man, aide beat his schizophrenic son with rock, strangle him; put body in container",
+    "Manufacture in India, build for world: FM Sitharaman",
+    "Nepal seeks to import power earlier from India after flood devastation, asks for approvals",
     "Iran’s leaders acknowledge economic toll of war, pledge diplomacy, defence",
     "Canada To Impose Up To 50% Tariffs On 700 US Goods As Trade War Escalates",
     "Who is Milo Yiannopoulos, far-right British commentator, detained by ICE? Former Trump supporter faces de",
-    "'Biggest deal in world history': Trump says US secured 65 billion barrels of Venezuelan oil | World News",
     "HDFC Bank CEO Jagdishan to step down, decides not to seek reappointment",
     "Union Bank To Challenge Approval Of Subhash Chandra's Insolvency Plan",
     "CNG price hiked by Rs 3.89/kg in Delhi-NCR amid rising LNG cost",
@@ -24,130 +24,130 @@
     "Nvidia's DLSS 5 leaked early, and modders have already broken it out of its Blackwell cage",
     "First look at Grand Theft Auto 6 gameplay released on Netflix ahead of November launch",
     "Here's when the iPhone 18 Pro and iPhone 18 Pro Max are rumored to go on pre-order - GSMArena.com news",
-    "Tech wrap week: From Samsung Galaxy S26 FE to AI-powered laptops, here’s what’s new",
-    "'Toxic' box office collections day 4: Yash starrer records 9.9% drop; worldwide gross reaches Rs 254.75 crores",
+    "iPhone 17 Pro Max Price Slashed Worldwide Before iPhone 18 Launch",
+    "'Toxic' box office collections day 4: Yash starrer records 9.9% drop; worldwide gross reaches Rs 254.75 c",
     "Nashville airport to be renamed after Dolly Parton, Tennessee's governor announces days after singer's demise",
     "Irumudi Box Office Collections: Ravi Teja starrer has an OUTSTANDING 2nd Friday, Beats Pushpa 2, Kalki and Baahubali in APTS"
   ],
   "quiz": [
     {
-      "blanked": "Suryakumar Yadav regrets failing to crack ______ cricket: 'I take the blame myself, didn't put in enough effort' | Cricket",
-      "answer": "ODI",
+      "blanked": "Flash floods in ______ No contact still with 320 Indians; 400 stranded",
+      "answer": "Nepal",
       "options": [
-        "ODI",
-        "Blackwell",
-        "OUTSTANDING",
-        "Tennessees"
-      ]
-    },
-    {
-      "blanked": "Here's when the iPhone 18 ______ and iPhone 18 Pro Max are rumored to go on pre-order - GSMArena.com news",
-      "answer": "Pro",
-      "options": [
-        "Kharge",
-        "Pro",
-        "Solar",
-        "Kalki"
-      ]
-    },
-    {
-      "blanked": "Nvidia's DLSS 5 leaked early, and modders have already broken it out of its ______ cage",
-      "answer": "Blackwell",
-      "options": [
-        "Blackwell",
-        "Pancreatic",
-        "Cancer",
-        "Fall"
-      ]
-    },
-    {
-      "blanked": "Dolly ______ funeral: Family gather for singer's burial at Nashville site; to be laid to rest beside hu",
-      "answer": "Partons",
-      "options": [
-        "Partons",
-        "Surge",
-        "November",
+        "Jagdishan",
+        "Nepal",
+        "Max",
         "Mirziyoyev"
       ]
     },
     {
-      "blanked": "Before The Nepal Flood, A Glacial Fall: Tracing The ______ And A 100-km Killer Surge",
-      "answer": "Trigger",
+      "blanked": "Dispelling myths, misconceptions surrounding ______ vaccination for young women",
+      "answer": "HPV",
       "options": [
-        "Trigger",
-        "Approval",
-        "Samsung",
-        "Bodies"
+        "HPV",
+        "Challenge",
+        "Tracing",
+        "Kevin"
       ]
     },
     {
-      "blanked": "Amid rising swine flu cases, ______ govt asks hospitals to reserve isolation beds",
-      "answer": "Delhi",
+      "blanked": "iPhone 17 Pro Max ______ Slashed Worldwide Before iPhone 18 Launch",
+      "answer": "Price",
       "options": [
-        "Delhi",
-        "Challenge",
-        "Argentina",
-        "Max"
+        "2026",
+        "Modi",
+        "Price",
+        "Length"
+      ]
+    },
+    {
+      "blanked": "'SNL’ star Kenan Thompson to join ‘America’s ______ Talent’ after Simon Cowell takes a break for back surger",
+      "answer": "Got",
+      "options": [
+        "Chair",
+        "Forum",
+        "Pushpa",
+        "Got"
+      ]
+    },
+    {
+      "blanked": "PM Modi lands in Uzbekistan on two-nation visit, ______ Shavkat Mirziyoyev receives him | India News",
+      "answer": "President",
+      "options": [
+        "President",
+        "LNG",
+        "Pro",
+        "Theft"
       ]
     },
     {
       "blanked": "China removes ______ general who oversaw Doklam and Galwan standoffs with India from key post",
       "answer": "PLA",
       "options": [
-        "Khalsa",
         "PLA",
-        "Monday",
-        "Yadav"
+        "Limited",
+        "APTS",
+        "Beats"
       ]
     },
     {
-      "blanked": "Nancy Grace Roman ______ live updates: Roman and Falcon Heavy delivered to launch pad",
-      "answer": "Telescope",
+      "blanked": "Nancy Grace Roman Telescope live updates: Roman and ______ Heavy delivered to launch pad",
+      "answer": "Falcon",
       "options": [
-        "Telescope",
-        "Row",
-        "Kharge",
-        "Solar"
+        "Value",
+        "Falcon",
+        "PLA",
+        "Got"
       ]
     },
     {
-      "blanked": "Oneness or ______ supremacy? RSS chief Bhagwat’s secretive New York hosts",
-      "answer": "Hindu",
+      "blanked": "PHOTOS: ______ appears orange due to partial lunar eclipse",
+      "answer": "Moon",
       "options": [
-        "Hindu",
-        "Former",
-        "Prediction",
-        "Challenge"
+        "Beats",
+        "Yash",
+        "Hole",
+        "Moon"
       ]
     },
     {
-      "blanked": "PM Modi lands in Uzbekistan on two-nation visit, President Shavkat ______ receives him | India News",
-      "answer": "Mirziyoyev",
+      "blanked": "CNG price hiked by Rs 3.89/kg in Delhi-NCR amid rising ______ cost",
+      "answer": "LNG",
       "options": [
-        "Nashville",
-        "Cup",
-        "Hindu",
-        "Mirziyoyev"
+        "News",
+        "Tennessees",
+        "Bank",
+        "LNG"
       ]
     },
     {
-      "blanked": "Who is Milo Yiannopoulos, far-right British commentator, detained by ICE? Former ______ supporter faces de",
-      "answer": "Trump",
+      "blanked": "Here's when the iPhone 18 ______ and iPhone 18 Pro Max are rumored to go on pre-order - GSMArena.com news",
+      "answer": "Pro",
       "options": [
-        "Voters",
-        "Trump",
-        "Reveals",
-        "Teja"
+        "Moon",
+        "Pro",
+        "Collections",
+        "Pushpa"
       ]
     },
     {
-      "blanked": "'Biggest deal in world history': Trump says US secured 65 billion barrels of Venezuelan oil | ______ News",
-      "answer": "World",
+      "blanked": "Manufacture in India, build for world: FM ______",
+      "answer": "Sitharaman",
       "options": [
-        "Suns",
-        "Telomere",
-        "Pushpa",
-        "World"
+        "700",
+        "Americas",
+        "Fall",
+        "Sitharaman"
+      ]
+    },
+    {
+      "blanked": "Nepal seeks to import power earlier from ______ after flood devastation, asks for approvals",
+      "answer": "India",
+      "options": [
+        "York",
+        "Talent",
+        "Tracing",
+        "India"
       ]
     }
   ]
