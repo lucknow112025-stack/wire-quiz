@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-08-30T01:03:40.395Z",
+  "generatedAt": "2026-08-30T01:18:23.831Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "Nepal and China resume flood rescue as death toll surpasses 600",
+    "Nepal floods: ‘Bodies buried in slush, families refusing food’, Khalsa Aid volunteers witness devastation",
     "PM Modi lands in Uzbekistan on two-nation visit, President Shavkat Mirziyoyev receives him | India News",
-    "Mohan Bhagwat Poster Goes Up On Times Square Billboard Ahead Of RSS Chief’s MSG Address",
+    "Oneness or Hindu supremacy? RSS chief Bhagwat’s secretive New York hosts",
     "Israeli settlers surround Palestinian home in occupied West Bank’s Qusra",
     "China removes PLA general who oversaw Doklam and Galwan standoffs with India from key post",
     "Before The Nepal Flood, A Glacial Fall: Tracing The Trigger, And A 100-km Killer Surge",
     "\"Matter Of Concern\": Chirag Paswan On M Kharge Rally \"Purification\" Row, Takes Dig At Rahul Gandhi",
+    "Telangana SIR: Voters must be informed hearing date 2 days ahead",
     "Flash floods in Nepal: No contact still with 320 Indians; 400 stranded",
     "Manufacture in India, build for world: FM Sitharaman",
-    "Weather tomorrow: IMD warns of very heavy rain in many states; extremely heavy rain likely in Odisha",
     "Iran’s leaders acknowledge economic toll of war, pledge diplomacy, defence",
     "Canada To Impose Up To 50% Tariffs On 700 US Goods As Trade War Escalates",
     "Who is Milo Yiannopoulos, far-right British commentator, detained by ICE? Former Trump supporter faces de",
@@ -22,132 +22,132 @@
     "CNG price hiked by Rs 3.89/kg in Delhi-NCR amid rising LNG cost",
     "US Fed Chair Kevin Warsh Jackson Hole speech impact on Indian stock market, gold-silver rates | Prediction for Monday",
     "Nvidia's DLSS 5 leaked early, and modders have already broken it out of its Blackwell cage",
+    "First look at Grand Theft Auto 6 gameplay released on Netflix ahead of November launch",
     "Here's when the iPhone 18 Pro and iPhone 18 Pro Max are rumored to go on pre-order - GSMArena.com news",
-    "GTA VI Has Over 600,000 Animations Compared To GTA V's 55,000 & Red Dead Redemption 2's 300,000",
     "Tech wrap week: From Samsung Galaxy S26 FE to AI-powered laptops, here’s what’s new",
-    "'Toxic' box office collection Day 4 [LIVE]: Yash and Kiara Advani film races past Rs 182 crore domestic net milestone",
+    "'Toxic' box office collections day 4: Yash starrer records 9.9% drop; worldwide gross reaches Rs 254.75 crores",
     "Nashville airport to be renamed after Dolly Parton, Tennessee's governor announces days after singer's demise",
     "'SNL’ star Kenan Thompson to join ‘America’s Got Talent’ after Simon Cowell takes a break for back surger"
   ],
   "quiz": [
     {
-      "blanked": "Israeli settlers surround Palestinian home in occupied West ______ Qusra",
-      "answer": "Banks",
+      "blanked": "Here's when the iPhone 18 ______ and iPhone 18 Pro Max are rumored to go on pre-order - GSMArena.com news",
+      "answer": "Pro",
       "options": [
-        "Banks",
-        "Goes",
-        "Archer",
-        "India"
+        "133",
+        "Hindu",
+        "Traffic",
+        "Pro"
+      ]
+    },
+    {
+      "blanked": "\"Matter Of Concern\": Chirag Paswan On M Kharge Rally \"Purification\" Row, Takes Dig At Rahul ______",
+      "answer": "Gandhi",
+      "options": [
+        "Approval",
+        "700",
+        "DISTRICT",
+        "Gandhi"
+      ]
+    },
+    {
+      "blanked": "'Biggest deal in world history': ______ says US secured 65 billion barrels of Venezuelan oil | World News",
+      "answer": "Trump",
+      "options": [
+        "Warsh",
+        "Aid",
+        "Monday",
+        "Trump"
+      ]
+    },
+    {
+      "blanked": "Union ______ To Challenge Approval Of Subhash Chandra's Insolvency Plan",
+      "answer": "Bank",
+      "options": [
+        "VACCINATION",
+        "Bank",
+        "President",
+        "Modi"
       ]
     },
     {
       "blanked": "Nancy Grace ______ Telescope live updates: Roman and Falcon Heavy delivered to launch pad",
       "answer": "Roman",
       "options": [
-        "Dig",
-        "Blackwell",
-        "Modi",
+        "World",
+        "Pushpa",
+        "Hindu",
         "Roman"
       ]
     },
     {
-      "blanked": "Nepal and ______ resume flood rescue as death toll surpasses 600",
-      "answer": "China",
+      "blanked": "Amid rising swine flu cases, ______ govt asks hospitals to reserve isolation beds",
+      "answer": "Delhi",
       "options": [
-        "Sri",
-        "Bank",
-        "Delhi-NCR",
-        "China"
+        "ICE",
+        "700",
+        "Theft",
+        "Delhi"
       ]
     },
     {
-      "blanked": "Tech wrap week: From Samsung Galaxy S26 FE to ______ laptops, here’s what’s new",
-      "answer": "AI-powered",
+      "blanked": "Tech wrap week: From ______ Galaxy S26 FE to AI-powered laptops, here’s what’s new",
+      "answer": "Samsung",
       "options": [
-        "Trump",
-        "Cowell",
-        "Nepal",
-        "AI-powered"
+        "9.9%",
+        "PLA",
+        "Samsung",
+        "West"
       ]
     },
     {
-      "blanked": "\"Matter Of Concern\": ______ Paswan On M Kharge Rally \"Purification\" Row, Takes Dig At Rahul Gandhi",
-      "answer": "Chirag",
+      "blanked": "Lawrence half-century extends ______ advantage on rain-hit day",
+      "answer": "Englands",
       "options": [
-        "600",
-        "Kharge",
-        "Chirag",
-        "ESC"
+        "Flood",
+        "Milo",
+        "Englands",
+        "Tracing"
       ]
     },
     {
-      "blanked": "Mohan Bhagwat Poster ______ Up On Times Square Billboard Ahead Of RSS Chief’s MSG Address",
-      "answer": "Goes",
+      "blanked": "PM Modi lands in ______ on two-nation visit, President Shavkat Mirziyoyev receives him | India News",
+      "answer": "Uzbekistan",
       "options": [
-        "Indians",
-        "Suns",
-        "Goes",
+        "Tariffs",
+        "Orbit",
+        "Uzbekistan",
         "War"
       ]
     },
     {
-      "blanked": "Leukocyte Telomere Length Shows Limited Value in ______ Cancer",
-      "answer": "Pancreatic",
+      "blanked": "CNG price hiked by Rs 3.89/kg in Delhi-NCR amid rising ______ cost",
+      "answer": "LNG",
       "options": [
-        "Cup",
-        "Pancreatic",
-        "Traffic",
-        "2026"
-      ]
-    },
-    {
-      "blanked": "HDFC Bank ______ Jagdishan to step down, decides not to seek reappointment",
-      "answer": "CEO",
-      "options": [
-        "Archer",
-        "CEO",
-        "Galwan",
-        "Office"
-      ]
-    },
-    {
-      "blanked": "PM Modi lands in Uzbekistan on two-nation visit, President Shavkat Mirziyoyev receives him | India ______",
-      "answer": "News",
-      "options": [
-        "Escalates",
-        "News",
-        "50%",
-        "Modi"
-      ]
-    },
-    {
-      "blanked": "Robinson, ______ put England in command at Lord's",
-      "answer": "Archer",
-      "options": [
-        "Indian",
-        "Lanka",
-        "Archer",
-        "Talent"
-      ]
-    },
-    {
-      "blanked": "HPV VACCINATION CAMPAIGN TO BE ______ IN ZUNHEBOTO DISTRICT",
-      "answer": "CONDUCTED",
-      "options": [
-        "Banks",
+        "DLSS",
+        "LNG",
         "CONDUCTED",
-        "Former",
-        "Chiefs"
+        "Prediction"
       ]
     },
     {
-      "blanked": "Aditya-L1 catches Sun's early warning signs before ______ flares",
-      "answer": "Solar",
+      "blanked": "Nashville airport to be renamed after ______ Parton, Tennessee's governor announces days after singer's demise",
+      "answer": "Dolly",
       "options": [
-        "Prediction",
-        "Concern",
-        "Solar",
-        "Limited"
+        "Teja",
+        "Thompson",
+        "Silent",
+        "Dolly"
+      ]
+    },
+    {
+      "blanked": "Flash floods in Nepal: No contact still with ______ Indians; 400 stranded",
+      "answer": "320",
+      "options": [
+        "Aid",
+        "Approval",
+        "APTS",
+        "320"
       ]
     }
   ]
