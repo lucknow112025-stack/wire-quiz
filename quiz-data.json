@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-30T09:33:33.960Z",
+  "generatedAt": "2026-08-30T09:48:35.604Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "Nepal flash floods LIVE: Nepal flood death toll rises to 734, disaster authority says",
-    "Venezuela says it retains ‘sovereignty’ following US oil deal",
+    "Nepal flash floods LIVE: Nepal warns of rising water levels in Bhotekoshi River as combined death toll surges to 750",
     "Punjabi influencer Manjeet Kaur, who died after being 'tied to a tree, burnt alive', was 7 weeks pregnant",
     "Iran's Khamenei urges Gulf rulers in written message to confront 'real enemy'",
     "Iran's president says US peace MoU serves Iran, region and world",
     "PM Modi lands in Uzbekistan on two-nation visit; President Shavkat Mirziyoyev receives him | India News",
-    "If Hindus think Muslims have no place, they cease to be Hindu: Mohan Bhagwat in New York",
+    "\"Any Hindu Who Thinks...\": RSS Chief Mohan Bhagwat On 'What About Muslims' Question In US",
     "Mumbai woman dies after consuming poisoned drink, boyfriend held",
+    "UP shocker: Man throws acid on ex-fiancee, her sister after marriage called off",
     "BJP brainstorming on Gen Z outreach concludes cohort is not ‘homogenous’",
     "NEET-PG 2026 exam at Jaipur centre rescheduled to September 5 over power outage",
+    "Venezuela says it retains ‘sovereignty’ following US oil deal",
     "1 Dead, 5 Injured In Shooting Near Rave Attended By 3,500 In Switzerland",
     "No surrender, no dissent: How six months of war hardened Iran’s leadership",
     "'I still struggle': Landlady recalls Saudi man who brought 9/11 hijackers to her office",
-    "Canada To Impose Up To 50% Tariffs On 700 US Goods As Trade War Escalates",
     "HDFC Bank CEO Jagdishan to step down, decides not to seek reappointment",
     "Ex-MP Kirit Somaiya seeks probe into Sensex’s wild swings on Aug 27, calls for explanation from policy...",
     "Sony and Warner Music Sue Anthropic, Alleging Theft of Intellectual Property",
     "Day traders are abandoning Korean chip leveraged ETFs in droves",
     "GTA 6 Extended Look Reveals Jason, Lucia And Leonida Gameplay",
     "Here's when the iPhone 18 Pro and iPhone 18 Pro Max are rumored to go on pre-order - GSMArena.com news",
-    "Deals: the Galaxy S26 FE is coming, Galaxy S26 series on sale, Nothing Phone (3) also discounted - GSMArena.com news",
+    "Tech wrap week: From Samsung Galaxy S26 FE to AI-powered laptops, here’s what’s new",
     "Buy a new Galaxy Watch with enhanced trade-in savings, return it if you don't like it",
     "Toxic Box Office Collections: Yash starrer continues to slip, tops Rs. 200 Cr in India on 4th day",
-    "Tom Cruise announces ‘Days of Thunder’ sequel with Anne Hathaway in new video",
-    "WWE Hall of Famer involved in a car accident"
+    "'Irumudi' box office collections day 9: Ravi Teja starrer records 21.8% growth; Telugu version dominates",
+    "Tom Cruise announces ‘Days of Thunder’ sequel with Anne Hathaway in new video"
   ],
   "quiz": [
     {
-      "blanked": "Toxic Box ______ Collections: Yash starrer continues to slip, tops Rs. 200 Cr in India on 4th day",
-      "answer": "Office",
+      "blanked": "\"Any Hindu Who Thinks...\": RSS Chief Mohan Bhagwat On 'What About Muslims' ______ In US",
+      "answer": "Question",
       "options": [
-        "Watch",
-        "Office",
-        "Atherosclerosis",
-        "Box"
+        "Pancreatic",
+        "Intellectual",
+        "Manjeet",
+        "Question"
       ]
     },
     {
-      "blanked": "GTA 6 Extended ______ Reveals Jason, Lucia And Leonida Gameplay",
-      "answer": "Look",
+      "blanked": "Buy a new ______ Watch with enhanced trade-in savings, return it if you don't like it",
+      "answer": "Galaxy",
       "options": [
-        "Look",
-        "News",
-        "Kaur",
-        "Cancer"
+        "Thunder",
+        "President",
+        "Delhi",
+        "Galaxy"
       ]
     },
     {
-      "blanked": "How space traffic management can save our satellites (Reader ______",
-      "answer": "Forum",
+      "blanked": "Sony and Warner Music Sue Anthropic, Alleging ______ of Intellectual Property",
+      "answer": "Theft",
       "options": [
-        "Cruise",
-        "Phone",
-        "Forum",
-        "Manjeet"
+        "Hindu",
+        "Theft",
+        "President",
+        "Iran"
       ]
     },
     {
-      "blanked": "'I still struggle': ______ recalls Saudi man who brought 9/11 hijackers to her office",
-      "answer": "Landlady",
+      "blanked": "Iran's Khamenei urges ______ rulers in written message to confront 'real enemy'",
+      "answer": "Gulf",
       "options": [
-        "Famer",
-        "Landlady",
+        "ISROs",
+        "Anthropic",
+        "Iyer",
+        "Gulf"
+      ]
+    },
+    {
+      "blanked": "1 Dead, 5 Injured In Shooting Near Rave ______ By 3,500 In Switzerland",
+      "answer": "Attended",
+      "options": [
+        "Deol",
+        "Sanju",
+        "Jagdishan",
+        "Attended"
+      ]
+    },
+    {
+      "blanked": "Toxic Box Office Collections: Yash starrer continues to slip, tops Rs. ______ Cr in India on 4th day",
+      "answer": "200",
+      "options": [
+        "Reveal",
+        "750",
+        "River",
+        "200"
+      ]
+    },
+    {
+      "blanked": "UP shocker: ______ throws acid on ex-fiancee, her sister after marriage called off",
+      "answer": "Man",
+      "options": [
+        "Man",
+        "Montreal",
+        "Bhotekoshi",
+        "Roman"
+      ]
+    },
+    {
+      "blanked": "The human brain usually decays first after death, so how have thousands survived for ______ years? Scient",
+      "answer": "12000",
+      "options": [
+        "Telugu",
         "Galaxy",
-        "Look"
+        "12000",
+        "MoU"
       ]
     },
     {
-      "blanked": "Dispelling myths, misconceptions surrounding ______ vaccination for young women",
-      "answer": "HPV",
+      "blanked": "Punjabi influencer Manjeet ______ who died after being 'tied to a tree, burnt alive', was 7 weeks pregnant",
+      "answer": "Kaur",
       "options": [
-        "HPV",
-        "World",
-        "Hathaway",
-        "Thunder"
+        "Kaur",
+        "Length",
+        "Europe",
+        "Anne"
       ]
     },
     {
-      "blanked": "1 Dead, 5 ______ In Shooting Near Rave Attended By 3,500 In Switzerland",
-      "answer": "Injured",
+      "blanked": "GTA 6 Extended Look Reveals Jason, Lucia And Leonida ______",
+      "answer": "Gameplay",
       "options": [
-        "Pro",
-        "Injured",
-        "Inter",
+        "Reveals",
+        "Gameplay",
+        "Teja",
         "Shavkat"
       ]
     },
     {
-      "blanked": "Tom Cruise announces ______ of Thunder’ sequel with Anne Hathaway in new video",
-      "answer": "Days",
+      "blanked": "'Irumudi' box office collections day 9: Ravi Teja starrer records ______ growth; Telugu version dominates",
+      "answer": "21.8%",
       "options": [
-        "How",
-        "Suryakumar",
-        "Days",
-        "Shooting"
-      ]
-    },
-    {
-      "blanked": "Tilak Varma in India’s ______ World Cup plans as selectors seek Shreyas Iyer backup",
-      "answer": "ODI",
-      "options": [
-        "Muslims",
-        "Music",
-        "ESC",
-        "ODI"
-      ]
-    },
-    {
-      "blanked": "‘Aise bhi log hote hain life mein’: Suryakumar reveals Sanju ______ incredible response after being dro",
-      "answer": "Samsons",
-      "options": [
-        "Khan",
-        "Aamir",
         "Samsons",
-        "Limited"
+        "Dead",
+        "21.8%",
+        "Kaur"
       ]
     },
     {
-      "blanked": "Day traders are abandoning ______ chip leveraged ETFs in droves",
-      "answer": "Korean",
+      "blanked": "Nancy ______ Roman Telescope live updates: Roman and Falcon Heavy delivered to launch pad",
+      "answer": "Grace",
       "options": [
-        "Kaur",
-        "Korean",
-        "MoU",
-        "ETFs"
-      ]
-    },
-    {
-      "blanked": "BJP brainstorming on ______ Z outreach concludes cohort is not ‘homogenous’",
-      "answer": "Gen",
-      "options": [
-        "Uzbekistan",
-        "Anthropic",
-        "Gen",
-        "Rave"
-      ]
-    },
-    {
-      "blanked": "Buy a new Galaxy ______ with enhanced trade-in savings, return it if you don't like it",
-      "answer": "Watch",
-      "options": [
-        "Rave",
-        "Watch",
-        "Inter",
-        "Cruise"
+        "Kirit",
+        "Lucia",
+        "Grace",
+        "Who"
       ]
     }
   ]
