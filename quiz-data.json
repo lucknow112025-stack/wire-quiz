@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T19:48:29.395Z",
+  "generatedAt": "2026-08-30T20:03:33.470Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
@@ -8,19 +8,19 @@
     "Himachal identifies 67 vulnerable glacial lakes, early warning systems planned for 4",
     "Iran's Khamenei urges Gulf rulers in written message to confront 'real enemy'",
     "Russia submits proposal in response to Indian tender for 5 more S-400 'Sudarshan' units",
-    "Mann Ki Baat: PM Modi praises Mumbai man for creating specialised website to know India's history",
+    "New plan to end employment authorization for some spouses of H-1B visa holders: '600,000+ jobs will open",
     "‘Excessive speed’: 8-year-old boy killed as woman driver on phone runs him over in Mumbai; arrested",
     "No Food Discussion, No Fatwas: VHP On Reports Of Satvik Food On Durga Puja",
     "Saved by a tea break, strengthened by a rakhi: 5 Chhattisgarh friends endure Nepal's flood fury",
     "Hundreds attend condolence meet of 1984 riots convict Sajjan Kumar in Delhi",
-    "Trump wants 'Lake America'. Canada puts up a 24-foot sign saying otherwise",
-    "Iceland Set to Reject EU Entry Talks in Tight Referendum",
-    "Russia says it helped to repel Niger attempted coup",
     "At least seven dead after ferry carrying nearly 270 passengers, crew capsizes off northern Cyprus",
+    "Trump wants 'Lake America'. Canada puts up a 24-foot sign saying otherwise",
+    "'We're alive': Kyiv-area survivor recalls Russian strike that killed 38",
+    "Turkey, Saudi Arabia, Pakistan set to hold first defence talks under Mecca pact",
     "India's HDFC Bank weighing deputy MD Bharucha, outsider for CEO, sources say",
-    "Subhash Chandra insolvency: Why are creditors set to recover only ₹6.5 crore against ₹22,006 crore claims?",
+    "Dissenting creditors alleged family-linked entities cast 61.78 pc votes that cleared Subhash Chandra's ins",
     "Tim Cook Steps Down: How He Took Apple From $350 Billion To $4 Trillion",
-    "India’s GDP growth likely to stay strong at 7-7.2% in FY27 despite global risks: Report",
+    "Bira 91 faces insolvency push as HNGIL seeks Rs 11.8 crore",
     "iPhone 18 launch: Release date, expected price in India",
     "GTA 6 Extended Look Reveals Jason, Lucia And Leonida Gameplay",
     "Weekly poll results: the Honor Robot Phone draws in a crowd with its camera capabilities",
@@ -31,123 +31,123 @@
   ],
   "quiz": [
     {
-      "blanked": "Moon Phase Today, August 29, 2026: Waning Gibbous at ______ After the Sturgeon Moon Eclipse",
-      "answer": "97%",
+      "blanked": "India crush Thailand to lay down early marker in Asia ______",
+      "answer": "Cup",
       "options": [
+        "Cup",
+        "Mecca",
+        "Chicago",
+        "200"
+      ]
+    },
+    {
+      "blanked": "Weekly poll results: the Honor Robot ______ draws in a crowd with its camera capabilities",
+      "answer": "Phone",
+      "options": [
+        "Phone",
+        "61.78",
         "Never",
-        "Niger",
-        "97%",
-        "Price"
+        "Reveal"
+      ]
+    },
+    {
+      "blanked": "Formaldehyde Contact ______ Remains a Global Concern",
+      "answer": "Allergy",
+      "options": [
+        "Cyprus",
+        "Allergy",
+        "Mumbai",
+        "Memory"
+      ]
+    },
+    {
+      "blanked": "New plan to end employment authorization for some spouses of H-1B visa holders: ______ jobs will open",
+      "answer": "600000",
+      "options": [
+        "Office",
+        "Sonam",
+        "600000",
+        "Chandras"
+      ]
+    },
+    {
+      "blanked": "Hundreds attend condolence meet of ______ riots convict Sajjan Kumar in Delhi",
+      "answer": "1984",
+      "options": [
+        "Extended",
+        "Ipswich",
+        "Photos",
+        "1984"
       ]
     },
     {
       "blanked": "Iran's ______ urges Gulf rulers in written message to confront 'real enemy'",
       "answer": "Khamenei",
       "options": [
-        "Puja",
-        "6.5",
         "Khamenei",
-        "Sudarshan"
+        "Simplifies",
+        "Fatwas",
+        "Cup"
       ]
     },
     {
-      "blanked": "At least seven dead after ferry carrying nearly 270 passengers, crew capsizes off northern ______",
-      "answer": "Cyprus",
+      "blanked": "Russia submits proposal in response to ______ tender for 5 more S-400 'Sudarshan' units",
+      "answer": "Indian",
       "options": [
-        "Cyprus",
-        "Delhi",
-        "Contact",
-        "Never"
+        "Slashed",
+        "Steps",
+        "Indian",
+        "Down"
       ]
     },
     {
-      "blanked": "India crush ______ to lay down early marker in Asia Cup",
-      "answer": "Thailand",
+      "blanked": "National Geographic’s ______ Photos of a Young Dolly Parton",
+      "answer": "Vintage",
       "options": [
-        "Thailand",
-        "Suns",
-        "Leonida",
-        "Luke"
+        "Vintage",
+        "270",
+        "1984",
+        "97%"
       ]
     },
     {
-      "blanked": "‘Excessive speed’: 8-year-old boy killed as woman driver on phone runs him over in ______ arrested",
-      "answer": "Mumbai",
+      "blanked": "GTA 6 ______ Look Reveals Jason, Lucia And Leonida Gameplay",
+      "answer": "Extended",
       "options": [
-        "Collections",
-        "Pro",
-        "Mumbai",
-        "Robot"
+        "Pakistan",
+        "Extended",
+        "Roman",
+        "Eclipse"
       ]
     },
     {
-      "blanked": "Russia says it helped to repel ______ attempted coup",
-      "answer": "Niger",
+      "blanked": "Tim Cook Steps Down: How He Took Apple From $350 ______ To $4 Trillion",
+      "answer": "Billion",
       "options": [
-        "Today",
-        "Nepals",
-        "Niger",
-        "350"
+        "Billion",
+        "Geographics",
+        "North",
+        "270"
       ]
     },
     {
-      "blanked": "Man Utd player ratings: Kobbie Mainoo runs show as Bruno ______ nets hat-trick but Luke Shaw to blame for goal",
-      "answer": "Fernandes",
+      "blanked": "Toxic Box ______ Collections: Yash starrer continues to slip, tops Rs. 200 Cr in India on 4th day",
+      "answer": "Office",
       "options": [
-        "Mainoo",
-        "Honor",
-        "Fernandes",
-        "Uzbekistans"
+        "Lords",
+        "Reports",
+        "Office",
+        "97%"
       ]
     },
     {
-      "blanked": "iPhone 17 Pro ______ Price Slashed Worldwide Before iPhone 18 Launch",
-      "answer": "Max",
+      "blanked": "Manchester ______ player ratings vs Ipswich as Bruno Fernandes sensational and two others star",
+      "answer": "United",
       "options": [
-        "Max",
-        "Niger",
-        "Cheeky",
-        "Canada"
-      ]
-    },
-    {
-      "blanked": "New ______ Infarction Definition Simplifies Diagnosis: ESC 2026",
-      "answer": "Myocardial",
-      "options": [
-        "Myocardial",
-        "Loss",
-        "Short-Term",
-        "195"
-      ]
-    },
-    {
-      "blanked": "Trump wants 'Lake America'. ______ puts up a 24-foot sign saying otherwise",
-      "answer": "Canada",
-      "options": [
-        "Sajjan",
-        "Phone",
-        "ESC",
-        "Canada"
-      ]
-    },
-    {
-      "blanked": "India's ______ Bank weighing deputy MD Bharucha, outsider for CEO, sources say",
-      "answer": "HDFC",
-      "options": [
-        "Dolly",
-        "Telescope",
-        "HDFC",
-        "22006"
-      ]
-    },
-    {
-      "blanked": "Mann Ki Baat: PM Modi praises Mumbai man for creating specialised website to know ______ history",
-      "answer": "Indias",
-      "options": [
-        "Nepals",
-        "Indias",
-        "Chicago",
-        "Ageing"
+        "Simplifies",
+        "Food",
+        "Slashed",
+        "United"
       ]
     }
   ]
