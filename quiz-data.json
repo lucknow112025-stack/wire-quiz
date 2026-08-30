@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-30T06:03:51.059Z",
+  "generatedAt": "2026-08-30T06:18:53.835Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
     "Nepal flash floods LIVE: Nepal flood death toll rises to 734, disaster authority says",
     "If Hindus think Muslims have no place, they cease to be Hindu: Mohan Bhagwat in New York",
     "PM Modi lands in Uzbekistan on two-nation visit, SCO summit; President Shavkat Mirziyoyev receives him | India News",
+    "Assaulted, Tied To Tree, Burned: Punjab Influencer Dies After 2-Month Battle",
     "Trump's 'Lake America' name change sparks 'Donald Ducks' memes on social media | Hindustan Times",
     "Before The Nepal Flood, A Glacial Fall: Tracing The Trigger, And A 100-km Killer Surge",
-    "Samay Raina in soup again over remarks on people from Bihar, Kashmiri Pandits: 'They get publicity for fr",
-    "AAP Leader Murdered In Punjab. Attackers Chased His Bike, Opened Fire",
     "'Not interested right now': Rahul Gandhi on Sonia Gandhi memoir row, cites 'crime' against Kharge",
     "\"You Think You Are A Lord?\" Bombay High Court Slams FDA Officer Over Suspension Of Eateries Of Mumbai...",
-    "8-year-old crushed to death by pitch roller at Gurugram cricket academy",
-    "Venezuela says it retains ‘sovereignty’ following US oil deal",
-    "New plan to end employment authorization for some spouses of H-1B visa holders: '600,000+ jobs will open",
-    "After 3 Days Under Flood Debris, 6-Year-Old Rescued Alive In Rasuwa, Nepal",
-    "Russian strike on Kyiv-area ammunition depot triggers blast, killing 37",
-    "HDFC Bank CEO Jagdishan to step down, decides not to seek reappointment",
+    "AAP Leader Murdered In Punjab. Attackers Chased His Bike, Opened Fire",
+    "Flash floods in Nepal: No contact still with 320 Indians; 400 stranded",
+    "US-Venezuela energy pact: What we know about Trump’s ‘biggest oil deal in world history’",
+    "Iran’s leaders acknowledge economic toll of war, pledge diplomacy, defence",
+    "Laid off on H-1B visa? America mulls scrapping 60-day window to find a new job",
+    "Has Iceland warmed to the European Union?",
+    "India's HDFC Bank CEO Jagdishan to step down in October",
     "Sony and Warner Music Sue Anthropic, Alleging Theft of Intellectual Property",
     "Zee’s Subhash Chandra accuses Mukesh Ambani of spreading misinformation, RIL denies allegations",
-    "CNG Prices Hiked By Rs 3.89 In Delhi-NCR: Check City-Wise Rates",
+    "CNG price hike: Compressed natural gas gets costlier; check city-wise rates",
     "Here's when the iPhone 18 Pro and iPhone 18 Pro Max are rumored to go on pre-order - GSMArena.com news",
     "GTA VI Has Over 600,000 Animations Compared To GTA V's 55,000 & Red Dead Redemption 2's 300,000",
     "Deals: the Galaxy S26 FE is coming, Galaxy S26 series on sale, Nothing Phone (3) also discounted - GSMArena.com news",
     "iPhone 17 Pro Max Price Slashed Worldwide Before iPhone 18 Launch",
     "'Toxic' box office collections day 4: Yash, Nayanthara, Kiara Advani starrer records 9.9% drop; worldwide",
-    "Irumudi Box Office Collections: Ravi Teja starrer has an OUTSTANDING 2nd Friday, Beats Pushpa 2, Kalki and Baahubali in APTS",
-    "Pisces Horoscope Today: August 30, 2026"
+    "WWE Hall of Famer involved in a car accident",
+    "Irumudi Box Office Collections: Ravi Teja starrer has an OUTSTANDING 2nd Friday, Beats Pushpa 2, Kalki and Baahubali in APTS"
   ],
   "quiz": [
     {
-      "blanked": "\"You Think You Are A Lord?\" Bombay High Court Slams FDA Officer Over Suspension Of ______ Of Mumbai...",
-      "answer": "Eateries",
+      "blanked": "GTA VI Has Over 600,000 Animations Compared To GTA V's 55,000 & ______ Dead Redemption 2's 300,000",
+      "answer": "Red",
       "options": [
-        "Eateries",
-        "Bike",
-        "Streaming",
-        "Office"
+        "Lake",
+        "Moon",
+        "Red",
+        "Indias"
       ]
     },
     {
-      "blanked": "Roger Federer's wife leaves tennis great laughing, crying with Hall of ______ speech",
-      "answer": "Fame",
+      "blanked": "AAP Leader Murdered In Punjab. Attackers Chased His Bike, ______ Fire",
+      "answer": "Opened",
       "options": [
-        "Bombay",
+        "CEO",
+        "Opened",
+        "Modi",
+        "Theft"
+      ]
+    },
+    {
+      "blanked": "Zee’s Subhash Chandra accuses ______ Ambani of spreading misinformation, RIL denies allegations",
+      "answer": "Mukesh",
+      "options": [
+        "Theft",
+        "Think",
+        "Varma",
+        "Mukesh"
+      ]
+    },
+    {
+      "blanked": "Tilak Varma in ______ ODI World Cup plans as selectors seek Shreyas Iyer backup",
+      "answer": "Indias",
+      "options": [
+        "Telomere",
+        "Indians",
+        "Beats",
+        "Indias"
+      ]
+    },
+    {
+      "blanked": "How space traffic management can save our satellites (Reader ______",
+      "answer": "Forum",
+      "options": [
+        "Shavkat",
+        "Forum",
+        "Influencer",
+        "Delhi"
+      ]
+    },
+    {
+      "blanked": "If ______ think Muslims have no place, they cease to be Hindu: Mohan Bhagwat in New York",
+      "answer": "Hindus",
+      "options": [
         "Fame",
-        "Leader",
-        "Rescued"
-      ]
-    },
-    {
-      "blanked": "PM Modi lands in Uzbekistan on two-nation visit, SCO summit; President Shavkat Mirziyoyev receives him | India ______",
-      "answer": "News",
-      "options": [
-        "Where",
-        "News",
-        "Grace",
-        "Reveals"
-      ]
-    },
-    {
-      "blanked": "Before The Nepal Flood, A Glacial Fall: ______ The Trigger, And A 100-km Killer Surge",
-      "answer": "Tracing",
-      "options": [
-        "HPV",
-        "Kiara",
-        "Alive",
-        "Tracing"
-      ]
-    },
-    {
-      "blanked": "'Toxic' box office collections day 4: Yash, ______ Kiara Advani starrer records 9.9% drop; worldwide",
-      "answer": "Nayanthara",
-      "options": [
-        "Nayanthara",
-        "Killer",
         "York",
-        "Kiara"
+        "Hindus",
+        "Grace"
       ]
     },
     {
-      "blanked": "Dolly ______ funeral: Family gather for singer's burial at Nashville site; to be laid to rest beside hu",
-      "answer": "Partons",
-      "options": [
-        "Partons",
-        "Chandra",
-        "Eateries",
-        "Nepal"
-      ]
-    },
-    {
-      "blanked": "Trump's 'Lake America' name change sparks 'Donald Ducks' memes on social media | ______ Times",
-      "answer": "Hindustan",
-      "options": [
-        "9.9%",
-        "Hindustan",
-        "Shreyas",
-        "Eateries"
-      ]
-    },
-    {
-      "blanked": "Deals: the Galaxy S26 FE is coming, Galaxy S26 series on sale, Nothing ______ (3) also discounted - GSMArena.com news",
-      "answer": "Phone",
+      "blanked": "Dispelling myths, misconceptions surrounding ______ vaccination for young women",
+      "answer": "HPV",
       "options": [
         "Limited",
+        "Hall",
+        "HPV",
+        "Sonia"
+      ]
+    },
+    {
+      "blanked": "How & Where to Watch Inter Miami vs. CF Montreal? Start Time, ______ Streaming and TV Channels",
+      "answer": "Live",
+      "options": [
+        "Live",
+        "Pro",
         "Phone",
-        "Tracing",
-        "Launch"
+        "America"
       ]
     },
     {
-      "blanked": "‘Aise bhi log hote hain life mein’: Suryakumar reveals ______ Samson’s incredible response after being dro",
-      "answer": "Sanju",
+      "blanked": "Irumudi Box Office Collections: Ravi Teja starrer has an OUTSTANDING 2nd Friday, Beats ______ 2, Kalki and Baahubali in APTS",
+      "answer": "Pushpa",
       "options": [
-        "Anthropic",
-        "Opened",
-        "Sanju",
-        "Hindu"
+        "Jagdishan",
+        "October",
+        "HDFC",
+        "Pushpa"
       ]
     },
     {
-      "blanked": "How & Where to Watch Inter ______ vs. CF Montreal? Start Time, Live Streaming and TV Channels",
-      "answer": "Miami",
+      "blanked": "Here's when the iPhone 18 ______ and iPhone 18 Pro Max are rumored to go on pre-order - GSMArena.com news",
+      "answer": "Pro",
       "options": [
-        "Miami",
-        "Moon",
-        "Lord",
-        "Leader"
+        "Limited",
+        "Pro",
+        "734",
+        "Falcon"
       ]
     },
     {
-      "blanked": "8-year-old crushed to death by pitch roller at ______ cricket academy",
-      "answer": "Gurugram",
+      "blanked": "Imaging Reveals Widespread ______ Atherosclerosis Burden: ESC 2026",
+      "answer": "Silent",
       "options": [
+        "Battle",
+        "Forum",
         "Silent",
-        "Roman",
-        "Length",
-        "Gurugram"
+        "Union"
       ]
     },
     {
-      "blanked": "After 3 Days Under Flood ______ 6-Year-Old Rescued Alive In Rasuwa, Nepal",
-      "answer": "Debris",
+      "blanked": "US-Venezuela energy pact: ______ we know about Trump’s ‘biggest oil deal in world history’",
+      "answer": "What",
       "options": [
-        "Debris",
-        "Suns",
-        "RIL",
-        "Mohan"
+        "What",
+        "Muslims",
+        "CEO",
+        "Think"
       ]
     }
   ]
