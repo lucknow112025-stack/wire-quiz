@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-30T19:18:20.014Z",
+  "generatedAt": "2026-08-30T19:33:21.303Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
     "India, Uzbekistan upgrade ties to comprehensive strategic partnership; set $5 bn trade target",
-    "\"Had We Stayed One More Day...\": Kailash Pilgrim On Escaping Nepal Floods",
+    "Rescuers battle floods and debris as Himalayan disaster death toll nears 800",
     "Himachal identifies 67 vulnerable glacial lakes, early warning systems planned for 4",
-    "Iran's Khamenei urges Gulf rulers in written message to confront 'real enemy'",
-    "Russia submits proposal in response to Indian tender for 5 more S-400 'Sudarshan' units",
+    "Iran’s Khamenei calls for Gulf unity as Hormuz tensions persist",
+    "8-year-old boy dies after Mumbai woman, on a phone call, runs speeding SUV over him in Bandra | India News",
     "Mann Ki Baat: PM Modi praises Mumbai man for creating specialised website to know India's history",
-    "‘Excessive speed’: 8-year-old boy killed as woman driver on phone runs him over in Mumbai; arrested",
     "No Food Discussion, No Fatwas: VHP On Reports Of Satvik Food On Durga Puja",
     "‘Protest is last option, nobody enjoys it’: CJP’s Abhijit Dipke backs Manoj Jarange Patil",
     "Saved by a tea break, strengthened by a rakhi: 5 Chhattisgarh friends endure Nepal's flood fury",
+    "BJP reprimands party MPs for paying homage to Sajjan Kumar",
     "Trump wants 'Lake America'. Canada puts up a 24-foot sign saying otherwise",
     "Iceland Set to Reject EU Entry Talks in Tight Referendum",
+    "Russia says it helped to repel Niger attempted coup",
     "At least seven dead after ferry carrying nearly 270 passengers, crew capsizes off northern Cyprus",
-    "Death toll from Russian strike on Ukrainian arms depot rises to 38",
     "India's HDFC Bank weighing deputy MD Bharucha, outsider for CEO, sources say",
-    "Subhash Chandra insolvency: Why are creditors set to recover only ₹6.5 crore against ₹22,006 crore claims?",
+    "Dissenting creditors alleged family-linked entities cast 61.78 pc votes that cleared Subhash Chandra's ins",
     "Tim Cook Steps Down: How He Took Apple From $350 Billion To $4 Trillion",
     "India’s GDP growth likely to stay strong at 7-7.2% in FY27 despite global risks: Report",
     "iPhone 18 launch: Release date, expected price in India",
     "GTA 6 Extended Look Reveals Jason, Lucia And Leonida Gameplay",
     "Deals: iPhone 17 lineup discounted, Galaxy S26 and Xiaomi 17 on sale - GSMArena.com news",
-    "Windows 11 is warning people that Defender Antivirus has been turned off, but don't worry, says Microsoft",
+    "‘Antivirus Is Turned Off’: Microsoft confirms windows update is triggering false alerts",
     "Toxic Box Office Collections: Yash starrer continues to slip, tops Rs. 200 Cr in India on 4th day",
     "'Hanuman Ansh' box office collection: From Rs 10 lakh on day 1 to Rs 27 crore in 23 days, word of mouth t",
     "'Short-term memory loss hua hoga': Sonam Wangchuk mocks Aamir Khan's ‘we never met before 3 Idiots' claim | Bollywood"
   ],
   "quiz": [
     {
-      "blanked": "Saved by a tea break, strengthened by a rakhi: 5 Chhattisgarh friends endure ______ flood fury",
-      "answer": "Nepals",
+      "blanked": "Trump wants ______ America'. Canada puts up a 24-foot sign saying otherwise",
+      "answer": "Lake",
       "options": [
-        "Fazal-Pankaj",
-        "ESC",
-        "Extended",
+        "Lake",
+        "Telescope",
+        "Mens",
+        "Reports"
+      ]
+    },
+    {
+      "blanked": "Deals: iPhone 17 lineup discounted, ______ S26 and Xiaomi 17 on sale - GSMArena.com news",
+      "answer": "Galaxy",
+      "options": [
+        "Aamir",
+        "Simplifies",
+        "Galaxy",
+        "Tight"
+      ]
+    },
+    {
+      "blanked": "Manchester ______ 5 Ipswich Town 2",
+      "answer": "United",
+      "options": [
+        "Gibbous",
+        "United",
+        "World",
+        "Khamenei"
+      ]
+    },
+    {
+      "blanked": "At least seven dead after ferry carrying nearly ______ passengers, crew capsizes off northern Cyprus",
+      "answer": "270",
+      "options": [
+        "Down",
+        "Mens",
+        "270",
+        "Ipswich"
+      ]
+    },
+    {
+      "blanked": "Epigenetic ______ Reveal Disease-Driven Colon Ageing",
+      "answer": "Clocks",
+      "options": [
+        "Definition",
+        "Clocks",
+        "Talks",
         "Nepals"
       ]
     },
     {
-      "blanked": "iPhone 18 launch: ______ date, expected price in India",
-      "answer": "Release",
+      "blanked": "Russia says it helped to repel ______ attempted coup",
+      "answer": "Niger",
       "options": [
-        "270",
-        "Ali",
-        "Bollywood",
-        "Release"
+        "Cook",
+        "Niger",
+        "Phase",
+        "Sonam"
       ]
     },
     {
-      "blanked": "At least seven dead after ferry carrying nearly 270 passengers, crew capsizes off northern ______",
-      "answer": "Cyprus",
+      "blanked": "8-year-old boy dies after Mumbai woman, on a phone call, runs speeding ______ over him in Bandra | India News",
+      "answer": "SUV",
+      "options": [
+        "Gulf",
+        "Concern",
+        "SUV",
+        "Ansh"
+      ]
+    },
+    {
+      "blanked": "Tim Cook Steps Down: How He ______ Apple From $350 Billion To $4 Trillion",
+      "answer": "Took",
+      "options": [
+        "Reveals",
+        "Movie",
+        "Took",
+        "270"
+      ]
+    },
+    {
+      "blanked": "Mann Ki ______ PM Modi praises Mumbai man for creating specialised website to know India's history",
+      "answer": "Baat",
+      "options": [
+        "Patil",
+        "Baat",
+        "Office",
+        "Cup"
+      ]
+    },
+    {
+      "blanked": "'Short-term memory loss hua hoga': Sonam Wangchuk mocks Aamir Khan's ‘we never met before 3 Idiots' claim | ______",
+      "answer": "Bollywood",
+      "options": [
+        "Bollywood",
+        "Waning",
+        "Gibbous",
+        "Ipswich"
+      ]
+    },
+    {
+      "blanked": "‘Antivirus Is Turned Off’: ______ confirms windows update is triggering false alerts",
+      "answer": "Microsoft",
       "options": [
         "Microsoft",
-        "195",
-        "Kailash",
-        "Cyprus"
-      ]
-    },
-    {
-      "blanked": "India’s GDP growth likely to stay strong at 7-7.2% in FY27 despite global risks: ______",
-      "answer": "Report",
-      "options": [
-        "CEO",
-        "Report",
-        "Office",
-        "Disease-Driven"
-      ]
-    },
-    {
-      "blanked": "Iceland Set to Reject EU Entry Talks in Tight ______",
-      "answer": "Referendum",
-      "options": [
-        "Gulf",
-        "Referendum",
-        "SpaceX",
-        "Concern"
-      ]
-    },
-    {
-      "blanked": "A ______ physicist proposed a way to create quantum images 20 years ago; after two decades waiting for e",
-      "answer": "Chicago",
-      "options": [
-        "Mumbai",
-        "Yash",
-        "Chicago",
-        "Talks"
-      ]
-    },
-    {
-      "blanked": "GTA 6 Extended Look Reveals Jason, ______ And Leonida Gameplay",
-      "answer": "Lucia",
-      "options": [
-        "97%",
-        "Town",
-        "Lucia",
-        "Simplifies"
-      ]
-    },
-    {
-      "blanked": "'Short-term memory loss hua hoga': Sonam Wangchuk mocks ______ Khan's ‘we never met before 3 Idiots' claim | Bollywood",
-      "answer": "Aamir",
-      "options": [
-        "Office",
-        "Aamir",
-        "6.5",
-        "Trophy"
-      ]
-    },
-    {
-      "blanked": "‘Excessive speed’: 8-year-old boy killed as woman driver on phone runs him over in ______ arrested",
-      "answer": "Mumbai",
-      "options": [
-        "Jason",
-        "Mumbai",
-        "Lake",
-        "Pilgrim"
-      ]
-    },
-    {
-      "blanked": "‘Mirzapur: The Movie’ gets CBFC certificate; ______ Fazal-Pankaj Tripathi starrer clocks 3 hours 17 minutes",
-      "answer": "Ali",
-      "options": [
-        "GDP",
-        "Floods",
-        "Ali",
-        "Indias"
-      ]
-    },
-    {
-      "blanked": "New study captures ______ early warning signs before solar flares",
-      "answer": "Suns",
-      "options": [
-        "Suns",
-        "Food",
-        "Gulf",
-        "Discussion"
-      ]
-    },
-    {
-      "blanked": "India, ______ upgrade ties to comprehensive strategic partnership; set $5 bn trade target",
-      "answer": "Uzbekistan",
-      "options": [
-        "Defender",
-        "Movie",
-        "Ansh",
+        "Pratika",
+        "Look",
         "Uzbekistan"
+      ]
+    },
+    {
+      "blanked": "NASA launches $4.3bn Roman ______ to uncover universe’s hidden secrets",
+      "answer": "Telescope",
+      "options": [
+        "Reports",
+        "Subhash",
+        "Telescope",
+        "Global"
       ]
     }
   ]
