@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-30T15:48:33.864Z",
+  "generatedAt": "2026-08-30T16:03:41.224Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
     "Nepal flash floods LIVE: Death toll reaches 781; rescuers drill through debris towards trapped tunnel workers",
     "India, Uzbekistan seal long-term uranium supply deal during PM Modi visit",
-    "Iran's Khamenei urges Gulf rulers in written message to confront 'real enemy'",
-    "Turkey, Saudi Arabia, Pakistan to hold first defence pact meeting, source says",
-    "Before The Nepal Flood, A Glacial Fall: Tracing The Trigger, And A 100-km Killer Surge",
+    "Iran’s Khamenei calls for Gulf unity as Hormuz tensions persist",
+    "Russia submits proposal for 5 more S-400 'Sudarshan' squadrons to India in Rs 50,000 crore deal: Report",
     "Mann Ki Baat: PM Modi praises Mumbai man for creating specialised website to know India's history",
+    "Students Cannot Be Punished For Asking Questions; Intolerance Is At Odds With Constitution: Justice Ujjal ...",
     "India becomes key petrol supplier to Russia amid attacks on refineries, fuel shortages",
     "New J&K Terror Tactic: Pornography Apps, Tor Network Used For Secret Messaging",
     "Salary deductions for Odisha government employees defaulting on alimony",
-    "Students Cannot Be Punished For Asking Questions; Intolerance Is At Odds With Constitution: Justice Ujjal ...",
+    "Red alert issued for 3 Odisha districts as IMD forecasts over 20 cm rainfall",
     "7 dead, 172 rescued after ferry carrying 270 capsizes off North Cyprus, ‘completely’ sinks | World News",
     "Trump wants 'Lake America'. Canada puts up a 24-foot sign saying otherwise",
-    "US-Venezuela energy pact: What we know about Trump’s ‘biggest oil deal in world history’",
-    "Israel Kills 3-Year-Old Boy In Airstrike Near Gaza Bakery",
+    "Trump hails ‘biggest oil deal’ with Venezuela, US to gain control over 65 billion barrels",
+    "One person killed, five wounded in shooting at rave in Switzerland",
     "India's HDFC Bank weighing deputy MD Bharucha, outsider for CEO, sources say",
     "Bira 91 faces insolvency push as HNGIL seeks Rs 11.8 crore",
     "Apple Watch To Vision Pro: Tim Cook's Five Greatest Product Hits That Redefined Apple",
     "Tata Motors EV bookings triple over the last 6 months - Team-BHP",
     "You might soon be able to control Nanoleaf lights via the Philips Hue app according to this latest leak",
-    "iPhone 18 launch: Release date, expected price in India",
     "GTA 6 Extended Look Reveals Jason, Lucia And Leonida Gameplay",
+    "Here's when the iPhone 18 Pro and iPhone 18 Pro Max are rumored to go on pre-order - GSMArena.com news",
     "2026’s Best Phone For Battery Life Is A Surprise",
     "Toxic Box Office Collections: Yash starrer continues to slip, tops Rs. 200 Cr in India on 4th day",
     "Sonam Wangchuk's witty response to Aamir Khan denying his '3 Idiots' character was based on him: 'Kyunki",
-    "Samay Raina's India's Got Latent most-viewed episodes: From Alia Bhatt to Orry, episodes that broke viewership records | Web Series"
+    "Captain India: Bhushan Kumar film starring Kartik Aaryan to go on floors in London on September 1"
   ],
   "quiz": [
     {
-      "blanked": "Iran's Khamenei urges ______ rulers in written message to confront 'real enemy'",
-      "answer": "Gulf",
+      "blanked": "Tata ______ EV bookings triple over the last 6 months - Team-BHP",
+      "answer": "Motors",
       "options": [
-        "Gulf",
-        "London",
+        "Nanoleaf",
+        "Motors",
+        "Tim",
+        "Aaryan"
+      ]
+    },
+    {
+      "blanked": "Russia submits proposal for 5 more S-400 'Sudarshan' squadrons to India in Rs 50,000 crore deal: ______",
+      "answer": "Report",
+      "options": [
+        "Report",
+        "Canada",
+        "Used",
+        "Team-BHP"
+      ]
+    },
+    {
+      "blanked": "Apple Watch To Vision Pro: Tim Cook's Five ______ Product Hits That Redefined Apple",
+      "answer": "Greatest",
+      "options": [
+        "Nanoleaf",
+        "Motors",
+        "Product",
+        "Greatest"
+      ]
+    },
+    {
+      "blanked": "You might soon be able to control Nanoleaf lights via the Philips ______ app according to this latest leak",
+      "answer": "Hue",
+      "options": [
+        "Ujjal",
+        "Lucia",
         "September",
-        "Reveals"
+        "Hue"
+      ]
+    },
+    {
+      "blanked": "Captain India: Bhushan Kumar film starring ______ Aaryan to go on floors in London on September 1",
+      "answer": "Kartik",
+      "options": [
+        "News",
+        "Report",
+        "HNGIL",
+        "Kartik"
+      ]
+    },
+    {
+      "blanked": "Salary deductions for ______ government employees defaulting on alimony",
+      "answer": "Odisha",
+      "options": [
+        "Odisha",
+        "Team-BHP",
+        "Collections",
+        "Wangchuks"
+      ]
+    },
+    {
+      "blanked": "Nepal flash floods LIVE: Death toll reaches ______ rescuers drill through debris towards trapped tunnel workers",
+      "answer": "781",
+      "options": [
+        "Justice",
+        "781",
+        "HDFC",
+        "Grace"
       ]
     },
     {
       "blanked": "Muzumdar: ______ hungry to win some tournaments'",
       "answer": "India",
       "options": [
-        "Watch",
-        "Product",
+        "Telescope",
         "India",
-        "Holistic"
+        "Redefined",
+        "Sudarshan"
       ]
     },
     {
-      "blanked": "Mann Ki Baat: PM Modi praises ______ man for creating specialised website to know India's history",
-      "answer": "Mumbai",
+      "blanked": "Mann Ki Baat: PM Modi praises Mumbai man for creating specialised website to know ______ history",
+      "answer": "Indias",
       "options": [
-        "Gibbous",
-        "Mumbai",
-        "Bhatt",
-        "Lanka"
+        "270",
+        "Indias",
+        "Network",
+        "Alia"
       ]
     },
     {
-      "blanked": "Tata Motors EV bookings triple over the last 6 months - ______",
-      "answer": "Team-BHP",
+      "blanked": "Trump wants 'Lake America'. ______ puts up a 24-foot sign saying otherwise",
+      "answer": "Canada",
       "options": [
-        "Gameplay",
-        "Extended",
-        "Team-BHP",
-        "Uzbekistan"
+        "781",
+        "HNGIL",
+        "97%",
+        "Canada"
       ]
     },
     {
-      "blanked": "New J&K Terror Tactic: Pornography ______ Tor Network Used For Secret Messaging",
-      "answer": "Apps",
+      "blanked": "New study captures ______ early warning signs before solar flares",
+      "answer": "Suns",
       "options": [
-        "Orry",
-        "Apps",
-        "Greatest",
-        "Alvarez"
-      ]
-    },
-    {
-      "blanked": "Amid rising swine flu cases, ______ govt asks hospitals to reserve isolation beds",
-      "answer": "Delhi",
-      "options": [
-        "200",
-        "Delhi",
-        "Ageing",
-        "Bank"
-      ]
-    },
-    {
-      "blanked": "US-Venezuela energy pact: ______ we know about Trump’s ‘biggest oil deal in world history’",
-      "answer": "What",
-      "options": [
-        "Gaza",
-        "HDFC",
-        "Odisha",
-        "What"
-      ]
-    },
-    {
-      "blanked": "GTA 6 Extended Look ______ Jason, Lucia And Leonida Gameplay",
-      "answer": "Reveals",
-      "options": [
-        "Messaging",
-        "Office",
-        "Reveals",
-        "Reveal"
-      ]
-    },
-    {
-      "blanked": "Emotional Roger Federer Inducted ______ Tennis Hall Of Fame",
-      "answer": "Into",
-      "options": [
-        "Vision",
-        "Five",
-        "Into",
-        "Gaza"
-      ]
-    },
-    {
-      "blanked": "India's HDFC ______ weighing deputy MD Bharucha, outsider for CEO, sources say",
-      "answer": "Bank",
-      "options": [
-        "Bank",
-        "Battery",
-        "Health",
-        "Moon"
-      ]
-    },
-    {
-      "blanked": "Bira 91 faces insolvency push as HNGIL seeks Rs ______ crore",
-      "answer": "11.8",
-      "options": [
-        "Five",
-        "Kartik",
-        "11.8",
-        "Product"
-      ]
-    },
-    {
-      "blanked": "You might soon be able to control ______ lights via the Philips Hue app according to this latest leak",
-      "answer": "Nanoleaf",
-      "options": [
+        "Suns",
         "Nanoleaf",
         "Eclipse",
-        "Redefined",
-        "Philips"
+        "Tor"
+      ]
+    },
+    {
+      "blanked": "2026’s ______ Phone For Battery Life Is A Surprise",
+      "answer": "Best",
+      "options": [
+        "Best",
+        "Roman",
+        "Lucia",
+        "Championship"
       ]
     }
   ]
