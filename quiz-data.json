@@ -1,113 +1,93 @@
 {
-  "generatedAt": "2026-08-30T09:03:32.205Z",
+  "generatedAt": "2026-08-30T09:18:20.267Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
     "Nepal flash floods LIVE: Nepal warns of rising water levels in Bhotekoshi River as combined death toll surges to 750",
+    "\"Any Hindu Who Thinks...\": RSS Chief Mohan Bhagwat On 'What About Muslims' Question In US",
     "Venezuela says it retains ‘sovereignty’ following US oil deal",
-    "\"Do You Feel You Are A Lord?\" High Court Pulls Up Tukaram Mundhe's Food Safety Body",
-    "Iran's president says US peace MoU serves Iran, region and world",
+    "\"You Think You Are A Lord?\" Bombay High Court Slams FDA Officer Over Suspension Of Eateries Of Mumbai...",
     "PM Modi lands in Uzbekistan on two-nation visit; President Shavkat Mirziyoyev receives him | India News",
-    "Girl, 6, strangled and stuffed in sack in Greater Noida; suspect shot dead by cops",
-    "If Hindus think Muslims have no place, they cease to be Hindu: Mohan Bhagwat in New York",
+    "Iran's president says US peace MoU serves Iran, region and world",
+    "‘The post may end but dream does not’: IAS officer Divya Mittal resigns after 13-year journey",
     "UP shocker: Man throws acid on ex-fiancee, her sister after marriage called off",
     "Mumbai woman dies after consuming poisoned drink, boyfriend held",
     "BJP brainstorming on Gen Z outreach concludes cohort is not ‘homogenous’",
     "‘Identify your real enemy’: Mojtaba Khamenei urges Gulf rulers to unite, defend each other",
     "1 Dead, 5 Injured In Shooting Near Rave Attended By 3,500 In Switzerland",
     "Iranian president admits sanctions impacting economy",
-    "Mapping the Iran war’s strikes on Gulf energy – and what comes next for oil",
+    "‘People Are Hungry’: 6 Months Into US-Israel-Iran War, Iranians Are Losing Hope As Economy Crumbles",
     "HDFC Bank CEO Jagdishan to step down, decides not to seek reappointment",
-    "India becomes key petrol supplier to Russia amid attacks on refineries, fuel shortages",
+    "Ex-MP Kirit Somaiya seeks probe into Sensex’s wild swings on Aug 27, calls for explanation from policy...",
+    "Day traders are abandoning Korean chip leveraged ETFs in droves",
     "Sony and Warner Music Sue Anthropic, Alleging Theft of Intellectual Property",
-    "‘Flash Crash’ Hits Sensex Index During Unpopular Closing Auction",
     "GTA 6 Extended Look Reveals Jason, Lucia And Leonida Gameplay",
     "Here's when the iPhone 18 Pro and iPhone 18 Pro Max are rumored to go on pre-order - GSMArena.com news",
-    "Tech wrap week: From Samsung Galaxy S26 FE to AI-powered laptops, here’s what’s new",
+    "Deals: the Galaxy S26 FE is coming, Galaxy S26 series on sale, Nothing Phone (3) also discounted - GSMArena.com news",
     "Buy a new Galaxy Watch with enhanced trade-in savings, return it if you don't like it",
     "'Toxic' box office collections day 4: Yash, Nayanthara, Kiara Advani starrer records 9.9% drop; worldwide",
-    "'No proper sleep, crazy mood swings': Nimisha Sajayan opens up about 14 kg weight-loss transformation for",
-    "Arshad Warsi on nepotism debate in Bollywood: 'Kangana Ranaut came out with this idea, and then it got bi"
+    "Arshad Warsi on nepotism debate in Bollywood: 'Kangana Ranaut came out with this idea, and then it got bi",
+    "Tom Cruise announces ‘Days of Thunder’ sequel with Anne Hathaway in new video"
   ],
   "quiz": [
     {
-      "blanked": "Mapping the ______ war’s strikes on Gulf energy – and what comes next for oil",
-      "answer": "Iran",
+      "blanked": "BJP brainstorming on ______ Z outreach concludes cohort is not ‘homogenous’",
+      "answer": "Gen",
       "options": [
-        "Nayanthara",
-        "Iran",
-        "Europe",
-        "Modi"
+        "Gen",
+        "Grace",
+        "Intellectual",
+        "Kirit"
       ]
     },
     {
-      "blanked": "Iran's president says US peace ______ serves Iran, region and world",
-      "answer": "MoU",
+      "blanked": "The human brain usually decays first after death, so how have thousands survived for ______ years? Scient",
+      "answer": "12000",
       "options": [
-        "Sue",
-        "CEO",
-        "MoU",
-        "Heavy"
-      ]
-    },
-    {
-      "blanked": "GTA 6 Extended ______ Reveals Jason, Lucia And Leonida Gameplay",
-      "answer": "Look",
-      "options": [
-        "High",
-        "Hits",
-        "Look",
+        "HPV",
+        "Bhotekoshi",
+        "12000",
         "Miami"
       ]
     },
     {
-      "blanked": "Knee Pain In Your 30s? Doctors Reveal Why It May ______ Nothing to Do With Ageing",
-      "answer": "Have",
+      "blanked": "Day traders are abandoning ______ chip leveraged ETFs in droves",
+      "answer": "Korean",
       "options": [
-        "Limited",
-        "Heavy",
-        "Bhotekoshi",
-        "Have"
+        "Mirka",
+        "Reveals",
+        "Mojtaba",
+        "Korean"
       ]
     },
     {
-      "blanked": "How space traffic management can save our satellites (Reader ______",
-      "answer": "Forum",
+      "blanked": "Dispelling myths, misconceptions surrounding ______ vaccination for young women",
+      "answer": "HPV",
       "options": [
-        "Property",
-        "President",
+        "Bank",
+        "Pancreatic",
+        "CEO",
+        "HPV"
+      ]
+    },
+    {
+      "blanked": "\"Any Hindu Who Thinks...\": ______ Chief Mohan Bhagwat On 'What About Muslims' Question In US",
+      "answer": "RSS",
+      "options": [
         "Iran",
-        "Forum"
+        "What",
+        "RSS",
+        "Cup"
       ]
     },
     {
-      "blanked": "Nepal flash floods LIVE: Nepal warns of rising water levels in ______ River as combined death toll surges to 750",
-      "answer": "Bhotekoshi",
+      "blanked": "Nancy Grace Roman ______ live updates: Roman and Falcon Heavy delivered to launch pad",
+      "answer": "Telescope",
       "options": [
         "Telescope",
-        "Pancreatic",
-        "Bhotekoshi",
-        "Streaming"
-      ]
-    },
-    {
-      "blanked": "HDFC Bank ______ Jagdishan to step down, decides not to seek reappointment",
-      "answer": "CEO",
-      "options": [
-        "Russia",
-        "CEO",
+        "President",
         "Nepal",
-        "Sanju"
-      ]
-    },
-    {
-      "blanked": "1 Dead, 5 Injured In Shooting ______ Rave Attended By 3,500 In Switzerland",
-      "answer": "Near",
-      "options": [
-        "Near",
-        "Europe",
-        "Sensex",
-        "Feel"
+        "Suryakumar"
       ]
     },
     {
@@ -115,39 +95,59 @@
       "answer": "Max",
       "options": [
         "Max",
-        "Uzbekistan",
+        "Jagdishan",
+        "Indias",
+        "Samsons"
+      ]
+    },
+    {
+      "blanked": "UP shocker: ______ throws acid on ex-fiancee, her sister after marriage called off",
+      "answer": "Man",
+      "options": [
+        "Inter",
+        "Advani",
+        "Man",
+        "Varma"
+      ]
+    },
+    {
+      "blanked": "‘The post may end but dream does not’: IAS officer ______ Mittal resigns after 13-year journey",
+      "answer": "Divya",
+      "options": [
+        "Fame",
+        "Iran",
+        "Divya",
+        "About"
+      ]
+    },
+    {
+      "blanked": "Arshad Warsi on nepotism debate in Bollywood: 'Kangana ______ came out with this idea, and then it got bi",
+      "answer": "Ranaut",
+      "options": [
+        "Ranaut",
+        "Property",
         "Warner",
-        "President"
+        "World"
       ]
     },
     {
-      "blanked": "Sony and Warner Music Sue ______ Alleging Theft of Intellectual Property",
-      "answer": "Anthropic",
+      "blanked": "Ex-MP Kirit Somaiya seeks probe into Sensex’s wild swings on ______ 27, calls for explanation from policy...",
+      "answer": "Aug",
       "options": [
-        "Intellectual",
-        "Anthropic",
-        "Modi",
-        "Pancreatic"
-      ]
-    },
-    {
-      "blanked": "The human brain usually decays first after death, so how have thousands survived for ______ years? Scient",
-      "answer": "12000",
-      "options": [
-        "Sensex",
-        "12000",
-        "Greater",
+        "High",
+        "Inter",
+        "Aug",
         "Bank"
       ]
     },
     {
-      "blanked": "‘Identify your real enemy’: ______ Khamenei urges Gulf rulers to unite, defend each other",
-      "answer": "Mojtaba",
+      "blanked": "How & Where to Watch Inter Miami vs. CF ______ Start Time, Live Streaming and TV Channels",
+      "answer": "Montreal",
       "options": [
-        "Uzbekistan",
-        "Mojtaba",
-        "Food",
-        "Channels"
+        "Annadurai",
+        "Anne",
+        "Divya",
+        "Montreal"
       ]
     }
   ]
