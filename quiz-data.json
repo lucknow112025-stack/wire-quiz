@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-30T18:18:25.182Z",
+  "generatedAt": "2026-08-30T18:33:27.295Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
     "PM Modi conferred with Uzbekistan's prestigious ‘Oliy Darajali Do'stlik’ Order",
     "Himachal identifies 67 vulnerable glacial lakes, early warning systems planned for 4",
+    "Rescuers battle floods and debris as Himalayan disaster death toll nears 800",
+    "Iran’s Khamenei calls for Gulf unity as Hormuz tensions persist",
     "H-4 EAD: What the latest US move means for Indian spouses of H-1Bs and why there is no need to panic yet",
-    "Iran's Khamenei urges Gulf rulers in written message to confront 'real enemy'",
-    "Submerged In Debris: NDTV Ground Report From Nepal's Worst Flood-Hit District",
-    "UP man rapes girlfriend, kills her after taking sexual stimulant drug at hotel on his birthday",
-    "Bengaluru Techie Dead, Friend Hurt As Both Fall From 7th Floor After Dispute",
-    "India becomes key petrol supplier to Russia amid attacks on refineries, fuel shortages",
-    "8-year-old boy dies after Mumbai woman, on a phone call, runs speeding SUV over him in Bandra",
-    "'BJP thinks it is bigger than RSS, it should listen to Mohan Bhagwat': CJP leader Abhijeet Dipke",
+    "Russia submits proposal in response to Indian tender for 5 more S-400 'Sudarshan' units",
+    "‘Excessive speed’: 8-year-old boy killed as woman driver on phone runs him over in Mumbai; arrested",
+    "No Food Discussion, No Fatwas: VHP On Reports Of Satvik Food On Durga Puja",
+    "India emerges as key petrol supplier to Russia as refinery attacks disrupt fuel supplies",
+    "\"Islam Superior,\" Says Karnataka Minister. BJP Reads \"Sanatan Demeaned\"",
     "7 dead, 172 rescued after ferry carrying 270 capsizes off North Cyprus, ‘completely’ sinks | World News",
+    "Russia strike on Kyiv ammunition depot kills 38 in year's deadliest attack as Zelenskyy blames officials",
     "Iceland Set to Reject EU Entry Talks in Tight Referendum",
     "Istanbul to host first committee meeting of Turkey-Saudi-Pakistan defence alliance: Report",
-    "'We're alive': Kyiv-area survivor recalls Russian strike that killed 38",
-    "What will happen to HDFC Bank share price on Monday in the wake of management level developments?",
+    "India's HDFC Bank weighing deputy MD Bharucha, outsider for CEO, sources say",
     "Subhash Chandra insolvency: Why are creditors set to recover only ₹6.5 crore against ₹22,006 crore claims?",
     "Tim Cook Steps Down: How He Took Apple From $350 Billion To $4 Trillion",
     "India’s GDP growth likely to stay strong at 7-7.2% in FY27 despite global risks: Report",
     "iPhone 18 launch: Release date, expected price in India",
     "GTA 6 Extended Look Reveals Jason, Lucia And Leonida Gameplay",
-    "Weekly poll results: the Honor Robot Phone draws in a crowd with its camera capabilities",
-    "iPhone 17 Pro Max Price Slashed Worldwide Before iPhone 18 Launch",
-    "Toxic Box Office Collection Day 4 Live Updates: Yash film crosses Rs 250 cr mark worldwide, earns over Rs 15 cr on Sunday",
+    "Deals: iPhone 17 lineup discounted, Galaxy S26 and Xiaomi 17 on sale - GSMArena.com news",
+    "Windows 11 is warning people that Defender Antivirus has been turned off, but don't worry, says Microsoft",
+    "Toxic Box Office Collections: Yash starrer continues to slip, tops Rs. 200 Cr in India on 4th day",
     "Sonam Wangchuk's witty response to Aamir Khan denying his '3 Idiots' character was based on him: 'Kyunki",
     "Academy shares Deepika Padukone and Ranbir Kapoor's 'Yeh Jawaani Hai Deewani' scene; Naina-Bunny NOSTALGI"
   ],
   "quiz": [
     {
-      "blanked": "What will happen to HDFC ______ share price on Monday in the wake of management level developments?",
-      "answer": "Bank",
+      "blanked": "Academy shares Deepika Padukone and Ranbir Kapoor's 'Yeh ______ Hai Deewani' scene; Naina-Bunny NOSTALGI",
+      "answer": "Jawaani",
       "options": [
-        "Bhagwat",
-        "Reject",
-        "Techie",
-        "Bank"
+        "Jawaani",
+        "Look",
+        "Talks",
+        "Definition"
       ]
     },
     {
-      "blanked": "Sri Lanka lose Women's Champions ______ hosting rights",
-      "answer": "Trophy",
+      "blanked": "Duleep Trophy: North Zone fold for ______ on opening day",
+      "answer": "195",
       "options": [
-        "Global",
-        "Moon",
-        "Abhijeet",
-        "Trophy"
+        "Contact",
+        "195",
+        "Kyunki",
+        "Global"
       ]
     },
     {
-      "blanked": "GTA 6 Extended Look Reveals Jason, Lucia And ______ Gameplay",
-      "answer": "Leonida",
+      "blanked": "NASA launches $4.3bn Roman ______ to uncover universe’s hidden secrets",
+      "answer": "Telescope",
       "options": [
-        "Leonida",
-        "NOSTALGI",
-        "Phone",
-        "Uzbekistans"
+        "Khamenei",
+        "India",
+        "Telescope",
+        "HDFC"
       ]
     },
     {
-      "blanked": "Moon Phase Today, August 29, 2026: Waning Gibbous at ______ After the Sturgeon Moon Eclipse",
-      "answer": "97%",
+      "blanked": "PM Modi conferred with Uzbekistan's prestigious ‘Oliy Darajali Do'stlik’ ______",
+      "answer": "Order",
       "options": [
-        "Floor",
-        "Naina-Bunny",
-        "Dostlik",
-        "97%"
-      ]
-    },
-    {
-      "blanked": "Subhash Chandra insolvency: Why are creditors set to recover only ₹6.5 crore against ______ crore claims?",
-      "answer": "22006",
-      "options": [
-        "22006",
-        "Bhagwat",
-        "Cook",
-        "Lucia"
-      ]
-    },
-    {
-      "blanked": "H-4 EAD: ______ the latest US move means for Indian spouses of H-1Bs and why there is no need to panic yet",
-      "answer": "What",
-      "options": [
-        "Myocardial",
-        "Mumbai",
-        "What",
+        "Russia",
+        "Jason",
+        "Phase",
         "Order"
-      ]
-    },
-    {
-      "blanked": "Formaldehyde Contact ______ Remains a Global Concern",
-      "answer": "Allergy",
-      "options": [
-        "RSS",
-        "Colon",
-        "172",
-        "Allergy"
-      ]
-    },
-    {
-      "blanked": "India becomes key petrol supplier to ______ amid attacks on refineries, fuel shortages",
-      "answer": "Russia",
-      "options": [
-        "Entry",
-        "Dipke",
-        "Suns",
-        "Russia"
       ]
     },
     {
       "blanked": "India’s GDP growth likely to stay strong at 7-7.2% in FY27 despite global risks: ______",
       "answer": "Report",
       "options": [
-        "SUV",
+        "Mumbai",
+        "Reject",
         "Report",
-        "97%",
-        "Waning"
+        "Jawaani"
       ]
     },
     {
-      "blanked": "Submerged In Debris: NDTV Ground Report From Nepal's Worst Flood-Hit ______",
-      "answer": "District",
+      "blanked": "Rescuers battle floods and debris as Himalayan disaster death toll nears ______",
+      "answer": "800",
       "options": [
-        "District",
-        "Ali",
-        "Phase",
-        "Hall"
+        "Waning",
+        "India",
+        "800",
+        "Padukone"
       ]
     },
     {
-      "blanked": "Duleep Trophy: ______ Zone fold for 195 on opening day",
-      "answer": "North",
+      "blanked": "New study captures ______ early warning signs before solar flares",
+      "answer": "Suns",
       "options": [
-        "North",
+        "Suns",
+        "World",
+        "Superior",
+        "Jason"
+      ]
+    },
+    {
+      "blanked": "‘Mirzapur: The Movie’ gets CBFC certificate; Ali ______ Tripathi starrer clocks 3 hours 17 minutes",
+      "answer": "Fazal-Pankaj",
+      "options": [
+        "Fazal-Pankaj",
+        "Idiots",
+        "Satvik",
+        "Contact"
+      ]
+    },
+    {
+      "blanked": "Sonam Wangchuk's witty response to Aamir Khan denying his '3 ______ character was based on him: 'Kyunki",
+      "answer": "Idiots",
+      "options": [
+        "Referendum",
+        "Himalayan",
+        "Idiots",
+        "Leonida"
+      ]
+    },
+    {
+      "blanked": "H-4 ______ What the latest US move means for Indian spouses of H-1Bs and why there is no need to panic yet",
+      "answer": "EAD",
+      "options": [
+        "Rawal",
+        "Turkey-Saudi-Pakistan",
+        "EAD",
+        "August"
+      ]
+    },
+    {
+      "blanked": "Subhash Chandra insolvency: ______ are creditors set to recover only ₹6.5 crore against ₹22,006 crore claims?",
+      "answer": "Why",
+      "options": [
+        "Mumbai",
+        "Microsoft",
+        "Why",
+        "Talks"
+      ]
+    },
+    {
+      "blanked": "‘Excessive speed’: 8-year-old boy killed as woman driver on phone runs him over in ______ arrested",
+      "answer": "Mumbai",
+      "options": [
+        "Mumbai",
         "Womens",
-        "Tennis",
-        "Movie"
-      ]
-    },
-    {
-      "blanked": "‘Mirzapur: The Movie’ gets ______ certificate; Ali Fazal-Pankaj Tripathi starrer clocks 3 hours 17 minutes",
-      "answer": "CBFC",
-      "options": [
-        "Lucia",
-        "ESC",
-        "Worldwide",
-        "CBFC"
+        "Zone",
+        "Trillion"
       ]
     }
   ]
