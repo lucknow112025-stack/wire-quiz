@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-30T10:18:18.695Z",
+  "generatedAt": "2026-08-30T10:33:28.025Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "Nepal flash floods LIVE: Nepal warns of rising water levels in Bhotekoshi River as combined death toll surges to 750",
-    "\"Any Hindu Who Thinks...\": RSS Chief Mohan Bhagwat On 'What About Muslims' Question In US",
+    "India, Uzbekistan Strike Long-Term Uranium Deal As PM Modi Wraps Key Visit",
+    "Nepal flash floods LIVE: Nepal flood death toll rises to 734, disaster authority says",
+    "If Hindus think Muslims have no place, they cease to be Hindu: Mohan Bhagwat in New York",
     "Punjabi influencer Manjeet Kaur, who died after being 'tied to a tree, burnt alive', was 7 weeks pregnant",
-    "Iran's Khamenei urges Gulf rulers in written message to confront 'real enemy'",
     "\"You Think You Are A Lord?\" Bombay High Court Slams FDA Officer Over Suspension Of Eateries Of Mumbai...",
-    "PM Modi lands in Uzbekistan on two-nation visit; President Shavkat Mirziyoyev receives him | India News",
-    "Saree became lifeline for 21 Tamil Nadu pilgrims in Nepal flood escape",
+    "Iran's Khamenei urges Gulf rulers in written message to confront 'real enemy'",
     "BJP brainstorming on Gen Z outreach concludes cohort is not ‘homogenous’",
     "Mumbai woman dies after consuming poisoned drink, boyfriend held",
-    "UP shocker: Man throws acid on ex-fiancee, her sister after marriage called off",
+    "'Drug-free India' to 'vocal for local': Key quotes from PM Modi’s 137th Mann Ki Baat",
+    "AAP Leader Murdered In Punjab. Attackers Chased His Bike, Opened Fire",
+    "US-Venezuela energy pact: What we know about Trump’s ‘biggest oil deal in world history’",
     "1 Dead, 5 Injured In Shooting Near Rave Attended By 3,500 In Switzerland",
-    "Venezuela says it retains ‘sovereignty’ following US oil deal",
     "'I still struggle': Landlady recalls Saudi man who brought 9/11 hijackers to her office",
     "Canada To Impose Up To 50% Tariffs On 700 US Goods As Trade War Escalates",
     "HDFC Bank CEO Jagdishan to step down, decides not to seek reappointment",
     "Ex-MP Kirit Somaiya seeks probe into Sensex’s wild swings on Aug 27, calls for explanation from policy...",
     "GST Council meeting on Sept 12: Easier registration, automated cancellations on agenda",
-    "Sony and Warner Music Sue Anthropic, Alleging Theft of Intellectual Property",
+    "India wants global factories, but its own quality checks may be putting investors off: GTRI",
     "GTA 6 Extended Look Reveals Jason, Lucia And Leonida Gameplay",
     "Here's when the iPhone 18 Pro and iPhone 18 Pro Max are rumored to go on pre-order - GSMArena.com news",
     "Deals: the Galaxy S26 FE is coming, Galaxy S26 series on sale, Nothing Phone (3) also discounted - GSMArena.com news",
     "Buy a new Galaxy Watch with enhanced trade-in savings, return it if you don't like it",
     "Toxic Box Office Collections: Yash starrer continues to slip, tops Rs. 200 Cr in India on 4th day",
-    "Chandrachur Singh files FIR over family property dispute; actor accuses relatives of forging grandfather'",
-    "'Irumudi' box office collections day 9: Ravi Teja starrer records 21.8% growth; Telugu version dominates"
+    "'Irumudi' box office collections day 9: Ravi Teja starrer records 21.8% growth; Telugu version dominates",
+    "Sonam Wangchuk's witty response to Aamir Khan denying his '3 Idiots' character was based on him: 'Kyunki"
   ],
   "quiz": [
     {
-      "blanked": "Tilak Varma in India’s ODI World ______ plans as selectors seek Shreyas Iyer backup",
-      "answer": "Cup",
+      "blanked": "India wants global factories, but its own quality checks may be putting investors off: ______",
+      "answer": "GTRI",
       "options": [
-        "Somaiya",
-        "Trade",
-        "ODI",
-        "Cup"
+        "Gulf",
+        "War",
+        "734",
+        "GTRI"
+      ]
+    },
+    {
+      "blanked": "'Drug-free India' to 'vocal for local': Key quotes from PM ______ 137th Mann Ki Baat",
+      "answer": "Modis",
+      "options": [
+        "CEO",
+        "Modis",
+        "Idiots",
+        "Collections"
+      ]
+    },
+    {
+      "blanked": "Ex-MP Kirit Somaiya seeks probe into Sensex’s wild swings on ______ 27, calls for explanation from policy...",
+      "answer": "Aug",
+      "options": [
+        "Leonida",
+        "Aug",
+        "Gulf",
+        "East"
       ]
     },
     {
       "blanked": "Deals: the Galaxy S26 FE is coming, Galaxy S26 series on sale, Nothing ______ (3) also discounted - GSMArena.com news",
       "answer": "Phone",
       "options": [
+        "Hindus",
         "Phone",
-        "Ravi",
-        "21.8%",
-        "Suspension"
+        "Zone",
+        "Near"
       ]
     },
     {
-      "blanked": "Calling on the neighbours: ______ upcoming Venus, Mars missions explained",
-      "answer": "ISROs",
+      "blanked": "'I still struggle': Landlady recalls Saudi man who brought ______ hijackers to her office",
+      "answer": "911",
       "options": [
-        "ISROs",
-        "War",
-        "What",
-        "911"
+        "911",
+        "Nepal",
+        "Strike",
+        "Sept"
       ]
     },
     {
-      "blanked": "1 Dead, 5 ______ In Shooting Near Rave Attended By 3,500 In Switzerland",
-      "answer": "Injured",
+      "blanked": "Dispelling myths, misconceptions surrounding ______ vaccination for young women",
+      "answer": "HPV",
       "options": [
-        "Rave",
-        "Delhi",
-        "Slams",
-        "Injured"
-      ]
-    },
-    {
-      "blanked": "Canada To Impose Up To 50% Tariffs On 700 US Goods As Trade War ______",
-      "answer": "Escalates",
-      "options": [
+        "Watch",
+        "Bank",
         "HPV",
-        "RSS",
-        "Escalates",
-        "Easier"
+        "Long-Term"
       ]
     },
     {
-      "blanked": "UP shocker: ______ throws acid on ex-fiancee, her sister after marriage called off",
-      "answer": "Man",
+      "blanked": "Calling on the neighbours: ISRO's upcoming ______ Mars missions explained",
+      "answer": "Venus",
       "options": [
-        "Leonida",
-        "Man",
-        "Shreyas",
-        "Why"
+        "Mirka",
+        "Venus",
+        "Eastern",
+        "Look"
       ]
     },
     {
-      "blanked": "Knee Pain In Your 30s? Doctors Reveal Why It May Have ______ to Do With Ageing",
-      "answer": "Nothing",
+      "blanked": "Vaibhav Sooryavanshi becomes captain at 15, leads ______ Zone in Duleep Trophy after Ishan Kishan's freak injury",
+      "answer": "East",
       "options": [
-        "Messi",
-        "Shreyas",
-        "Nothing",
-        "Doctors"
+        "Phone",
+        "Indias",
+        "East",
+        "Sensexs"
       ]
     },
     {
-      "blanked": "PM Modi lands in Uzbekistan on two-nation visit; ______ Shavkat Mirziyoyev receives him | India News",
-      "answer": "President",
+      "blanked": "How space traffic management can save our satellites ______ Forum)",
+      "answer": "Reader",
       "options": [
-        "President",
-        "Kishans",
-        "750",
-        "Forum"
+        "LIVE",
+        "Reader",
+        "Teja",
+        "Lucia"
+      ]
+    },
+    {
+      "blanked": "Tom Cruise announces ______ of Thunder’ sequel with Anne Hathaway in new video",
+      "answer": "Days",
+      "options": [
+        "Hathaway",
+        "Eastern",
+        "Trumps",
+        "Days"
+      ]
+    },
+    {
+      "blanked": "Sonam Wangchuk's witty response to Aamir Khan denying his '3 Idiots' character was based on him: ______",
+      "answer": "Kyunki",
+      "options": [
+        "Kyunki",
+        "Gulf",
+        "Council",
+        "Eateries"
       ]
     },
     {
       "blanked": "Buy a new ______ Watch with enhanced trade-in savings, return it if you don't like it",
       "answer": "Galaxy",
       "options": [
-        "50%",
-        "Messi",
+        "Shreyas",
         "Galaxy",
-        "World"
-      ]
-    },
-    {
-      "blanked": "'No proper sleep, crazy mood swings': Nimisha ______ opens up about 14 kg weight-loss transformation for",
-      "answer": "Sajayan",
-      "options": [
-        "Music",
-        "Sajayan",
-        "Property",
-        "Nadu"
-      ]
-    },
-    {
-      "blanked": "'I still struggle': ______ recalls Saudi man who brought 9/11 hijackers to her office",
-      "answer": "Landlady",
-      "options": [
-        "Landlady",
-        "Muslims",
-        "Forum",
-        "Uzbekistan"
-      ]
-    },
-    {
-      "blanked": "\"You Think You Are A Lord?\" Bombay High Court ______ FDA Officer Over Suspension Of Eateries Of Mumbai...",
-      "answer": "Slams",
-      "options": [
-        "Warner",
-        "Slams",
-        "Forum",
-        "Near"
+        "Somaiya",
+        "FDA"
       ]
     }
   ]
