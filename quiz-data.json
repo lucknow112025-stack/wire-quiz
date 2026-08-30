@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-30T19:33:21.303Z",
+  "generatedAt": "2026-08-30T19:48:29.395Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "India, Uzbekistan upgrade ties to comprehensive strategic partnership; set $5 bn trade target",
-    "Rescuers battle floods and debris as Himalayan disaster death toll nears 800",
+    "Photos: Nepal issues alerts as region’s flash flood death toll nears 800",
+    "PM Modi conferred with Uzbekistan's prestigious ‘Oliy Darajali Do'stlik’ Order",
     "Himachal identifies 67 vulnerable glacial lakes, early warning systems planned for 4",
-    "Iran’s Khamenei calls for Gulf unity as Hormuz tensions persist",
-    "8-year-old boy dies after Mumbai woman, on a phone call, runs speeding SUV over him in Bandra | India News",
+    "Iran's Khamenei urges Gulf rulers in written message to confront 'real enemy'",
+    "Russia submits proposal in response to Indian tender for 5 more S-400 'Sudarshan' units",
     "Mann Ki Baat: PM Modi praises Mumbai man for creating specialised website to know India's history",
+    "‘Excessive speed’: 8-year-old boy killed as woman driver on phone runs him over in Mumbai; arrested",
     "No Food Discussion, No Fatwas: VHP On Reports Of Satvik Food On Durga Puja",
-    "‘Protest is last option, nobody enjoys it’: CJP’s Abhijit Dipke backs Manoj Jarange Patil",
     "Saved by a tea break, strengthened by a rakhi: 5 Chhattisgarh friends endure Nepal's flood fury",
-    "BJP reprimands party MPs for paying homage to Sajjan Kumar",
+    "Hundreds attend condolence meet of 1984 riots convict Sajjan Kumar in Delhi",
     "Trump wants 'Lake America'. Canada puts up a 24-foot sign saying otherwise",
     "Iceland Set to Reject EU Entry Talks in Tight Referendum",
     "Russia says it helped to repel Niger attempted coup",
     "At least seven dead after ferry carrying nearly 270 passengers, crew capsizes off northern Cyprus",
     "India's HDFC Bank weighing deputy MD Bharucha, outsider for CEO, sources say",
-    "Dissenting creditors alleged family-linked entities cast 61.78 pc votes that cleared Subhash Chandra's ins",
+    "Subhash Chandra insolvency: Why are creditors set to recover only ₹6.5 crore against ₹22,006 crore claims?",
     "Tim Cook Steps Down: How He Took Apple From $350 Billion To $4 Trillion",
     "India’s GDP growth likely to stay strong at 7-7.2% in FY27 despite global risks: Report",
     "iPhone 18 launch: Release date, expected price in India",
     "GTA 6 Extended Look Reveals Jason, Lucia And Leonida Gameplay",
-    "Deals: iPhone 17 lineup discounted, Galaxy S26 and Xiaomi 17 on sale - GSMArena.com news",
-    "‘Antivirus Is Turned Off’: Microsoft confirms windows update is triggering false alerts",
+    "Weekly poll results: the Honor Robot Phone draws in a crowd with its camera capabilities",
+    "iPhone 17 Pro Max Price Slashed Worldwide Before iPhone 18 Launch",
     "Toxic Box Office Collections: Yash starrer continues to slip, tops Rs. 200 Cr in India on 4th day",
     "'Hanuman Ansh' box office collection: From Rs 10 lakh on day 1 to Rs 27 crore in 23 days, word of mouth t",
-    "'Short-term memory loss hua hoga': Sonam Wangchuk mocks Aamir Khan's ‘we never met before 3 Idiots' claim | Bollywood"
+    "'Maybe He Had Short-Term Memory Loss': Sonam Wangchuk's Cheeky Reply To Aamir Khan's We Never Met' Claim"
   ],
   "quiz": [
     {
-      "blanked": "Trump wants ______ America'. Canada puts up a 24-foot sign saying otherwise",
-      "answer": "Lake",
+      "blanked": "Moon Phase Today, August 29, 2026: Waning Gibbous at ______ After the Sturgeon Moon Eclipse",
+      "answer": "97%",
       "options": [
-        "Lake",
-        "Telescope",
-        "Mens",
-        "Reports"
+        "Never",
+        "Niger",
+        "97%",
+        "Price"
       ]
     },
     {
-      "blanked": "Deals: iPhone 17 lineup discounted, ______ S26 and Xiaomi 17 on sale - GSMArena.com news",
-      "answer": "Galaxy",
+      "blanked": "Iran's ______ urges Gulf rulers in written message to confront 'real enemy'",
+      "answer": "Khamenei",
       "options": [
-        "Aamir",
-        "Simplifies",
-        "Galaxy",
-        "Tight"
+        "Puja",
+        "6.5",
+        "Khamenei",
+        "Sudarshan"
       ]
     },
     {
-      "blanked": "Manchester ______ 5 Ipswich Town 2",
-      "answer": "United",
+      "blanked": "At least seven dead after ferry carrying nearly 270 passengers, crew capsizes off northern ______",
+      "answer": "Cyprus",
       "options": [
-        "Gibbous",
-        "United",
-        "World",
-        "Khamenei"
+        "Cyprus",
+        "Delhi",
+        "Contact",
+        "Never"
       ]
     },
     {
-      "blanked": "At least seven dead after ferry carrying nearly ______ passengers, crew capsizes off northern Cyprus",
-      "answer": "270",
+      "blanked": "India crush ______ to lay down early marker in Asia Cup",
+      "answer": "Thailand",
       "options": [
-        "Down",
-        "Mens",
-        "270",
-        "Ipswich"
+        "Thailand",
+        "Suns",
+        "Leonida",
+        "Luke"
       ]
     },
     {
-      "blanked": "Epigenetic ______ Reveal Disease-Driven Colon Ageing",
-      "answer": "Clocks",
+      "blanked": "‘Excessive speed’: 8-year-old boy killed as woman driver on phone runs him over in ______ arrested",
+      "answer": "Mumbai",
       "options": [
-        "Definition",
-        "Clocks",
-        "Talks",
-        "Nepals"
+        "Collections",
+        "Pro",
+        "Mumbai",
+        "Robot"
       ]
     },
     {
       "blanked": "Russia says it helped to repel ______ attempted coup",
       "answer": "Niger",
       "options": [
-        "Cook",
+        "Today",
+        "Nepals",
         "Niger",
-        "Phase",
-        "Sonam"
+        "350"
       ]
     },
     {
-      "blanked": "8-year-old boy dies after Mumbai woman, on a phone call, runs speeding ______ over him in Bandra | India News",
-      "answer": "SUV",
+      "blanked": "Man Utd player ratings: Kobbie Mainoo runs show as Bruno ______ nets hat-trick but Luke Shaw to blame for goal",
+      "answer": "Fernandes",
       "options": [
-        "Gulf",
-        "Concern",
-        "SUV",
-        "Ansh"
+        "Mainoo",
+        "Honor",
+        "Fernandes",
+        "Uzbekistans"
       ]
     },
     {
-      "blanked": "Tim Cook Steps Down: How He ______ Apple From $350 Billion To $4 Trillion",
-      "answer": "Took",
+      "blanked": "iPhone 17 Pro ______ Price Slashed Worldwide Before iPhone 18 Launch",
+      "answer": "Max",
       "options": [
-        "Reveals",
-        "Movie",
-        "Took",
-        "270"
+        "Max",
+        "Niger",
+        "Cheeky",
+        "Canada"
       ]
     },
     {
-      "blanked": "Mann Ki ______ PM Modi praises Mumbai man for creating specialised website to know India's history",
-      "answer": "Baat",
+      "blanked": "New ______ Infarction Definition Simplifies Diagnosis: ESC 2026",
+      "answer": "Myocardial",
       "options": [
-        "Patil",
-        "Baat",
-        "Office",
-        "Cup"
+        "Myocardial",
+        "Loss",
+        "Short-Term",
+        "195"
       ]
     },
     {
-      "blanked": "'Short-term memory loss hua hoga': Sonam Wangchuk mocks Aamir Khan's ‘we never met before 3 Idiots' claim | ______",
-      "answer": "Bollywood",
+      "blanked": "Trump wants 'Lake America'. ______ puts up a 24-foot sign saying otherwise",
+      "answer": "Canada",
       "options": [
-        "Bollywood",
-        "Waning",
-        "Gibbous",
-        "Ipswich"
+        "Sajjan",
+        "Phone",
+        "ESC",
+        "Canada"
       ]
     },
     {
-      "blanked": "‘Antivirus Is Turned Off’: ______ confirms windows update is triggering false alerts",
-      "answer": "Microsoft",
+      "blanked": "India's ______ Bank weighing deputy MD Bharucha, outsider for CEO, sources say",
+      "answer": "HDFC",
       "options": [
-        "Microsoft",
-        "Pratika",
-        "Look",
-        "Uzbekistan"
-      ]
-    },
-    {
-      "blanked": "NASA launches $4.3bn Roman ______ to uncover universe’s hidden secrets",
-      "answer": "Telescope",
-      "options": [
-        "Reports",
-        "Subhash",
+        "Dolly",
         "Telescope",
-        "Global"
+        "HDFC",
+        "22006"
+      ]
+    },
+    {
+      "blanked": "Mann Ki Baat: PM Modi praises Mumbai man for creating specialised website to know ______ history",
+      "answer": "Indias",
+      "options": [
+        "Nepals",
+        "Indias",
+        "Chicago",
+        "Ageing"
       ]
     }
   ]
