@@ -1,22 +1,22 @@
 {
-  "generatedAt": "2026-08-30T04:18:31.747Z",
+  "generatedAt": "2026-08-30T04:34:04.630Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "Nepal floods: ‘Bodies buried in slush, families refusing food’, Khalsa Aid volunteers witness devastation",
+    "Nepal flash floods: Three bodies recovered from Gandak river in U.P.'s Kushinagar",
     "If Hindus think Muslims have no place, they cease to be Hindu: Mohan Bhagwat in New York",
     "PM Modi lands in Uzbekistan on two-nation visit, SCO summit; President Shavkat Mirziyoyev receives him | India News",
-    "Assaulted, Tied To Tree, Burned: Punjab Influencer Dies After 2-Month Battle",
+    "Man, aide beat his schizophrenic son with rock, strangle him; put body in container",
+    "Trump's 'Lake America' name change sparks 'Donald Ducks' memes on social media | Hindustan Times",
     "Before The Nepal Flood, A Glacial Fall: Tracing The Trigger, And A 100-km Killer Surge",
-    "China removes PLA general who oversaw Doklam and Galwan standoffs with India from key post",
+    "Minister vs Minister: Chirag Paswan asks Jitan Manjhi to resign amid quota row",
     "\"You Think You Are A Lord?\" Bombay High Court Slams FDA Officer Over Suspension Of Eateries Of Mumbai...",
-    "‘Frustrated’ elderly father kills schizophrenic son along with friend in Delhi, both held",
     "Flash floods in Nepal: No contact still with 320 Indians; 400 stranded",
     "Telangana SIR: Voters must be informed hearing date 2 days ahead",
-    "US-Venezuela energy pact: What we know about Trump’s ‘biggest oil deal in world history’",
     "37 Killed As Russian Strikes Ukraine's Kyiv, 50 Residential Buildings Damaged",
-    "Nepal seeks to import power earlier from India after flood devastation, asks for approvals",
+    "US-Venezuela energy pact: What we know about Trump’s ‘biggest oil deal in world history’",
     "Canada To Impose Up To 50% Tariffs On 700 US Goods As Trade War Escalates",
+    "Iran’s leaders acknowledge economic toll of war, pledge diplomacy, defence",
     "HDFC Bank CEO Jagdishan to step down, decides not to seek reappointment",
     "CNG Prices Hiked By Rs 3.89 In Delhi-NCR: Check City-Wise Rates",
     "After Supreme Court Rap, FSSAI Proposes Pictorial Front-of-Pack Warning Labels For Packaged Foods High In ...",
@@ -31,123 +31,123 @@
   ],
   "quiz": [
     {
-      "blanked": "If Hindus think Muslims have no place, they cease to be Hindu: Mohan Bhagwat in New ______",
-      "answer": "York",
+      "blanked": "HDFC Bank CEO ______ to step down, decides not to seek reappointment",
+      "answer": "Jagdishan",
       "options": [
-        "Falcon",
-        "Max",
-        "York",
-        "Argentina"
+        "Jagdishan",
+        "Argentina",
+        "Delhi-NCR",
+        "ESC"
       ]
     },
     {
-      "blanked": "Tech wrap week: From Samsung ______ S26 FE to AI-powered laptops, here’s what’s new",
-      "answer": "Galaxy",
+      "blanked": "Dutch women's hockey team lose ______ Cup final to Argentina after shoot-out",
+      "answer": "World",
       "options": [
+        "Limited",
+        "Suspension",
+        "SIR",
+        "World"
+      ]
+    },
+    {
+      "blanked": "GTA VI Has Over 600,000 Animations ______ To GTA V's 55,000 & Red Dead Redemption 2's 300,000",
+      "answer": "Compared",
+      "options": [
+        "Compared",
         "What",
-        "Galaxy",
-        "Dies",
-        "HPV"
+        "Friday",
+        "Suns"
       ]
     },
     {
-      "blanked": "Xbox's Project ______ Will Be a Multi-Device Lineup, CEO Says",
-      "answer": "Helix",
+      "blanked": "Xbox's Project Helix Will Be a ______ Lineup, CEO Says",
+      "answer": "Multi-Device",
       "options": [
-        "Teja",
-        "Hole",
-        "Dies",
-        "Helix"
+        "Cricket",
+        "Nepal",
+        "Kiara",
+        "Multi-Device"
       ]
     },
     {
       "blanked": "Suryakumar Yadav reveals Sanju ______ sacrifice before his explosive T20 World Cup run: ‘Do whatever you feel…’ | Cricket",
       "answer": "Samsons",
       "options": [
+        "Chirag",
+        "Kyiv",
+        "Lake",
+        "Samsons"
+      ]
+    },
+    {
+      "blanked": "'Toxic' box office collections day 4: ______ Nayanthara, Kiara Advani starrer records 9.9% drop; worldwide",
+      "answer": "Yash",
+      "options": [
+        "Indian",
+        "Sanju",
+        "Suspension",
+        "Yash"
+      ]
+    },
+    {
+      "blanked": "How space traffic management can save our satellites ______ Forum)",
+      "answer": "Reader",
+      "options": [
+        "Reader",
+        "Max",
+        "Uzbekistan",
+        "Argentina"
+      ]
+    },
+    {
+      "blanked": "Here's when the iPhone 18 Pro and iPhone 18 Pro ______ are rumored to go on pre-order - GSMArena.com news",
+      "answer": "Max",
+      "options": [
+        "Eateries",
+        "Fall",
+        "Reveals",
+        "Max"
+      ]
+    },
+    {
+      "blanked": "Flash floods in Nepal: No contact still with 320 ______ 400 stranded",
+      "answer": "Indians",
+      "options": [
+        "Indians",
+        "Pro",
+        "Pictorial",
+        "2026"
+      ]
+    },
+    {
+      "blanked": "If Hindus think Muslims have no place, they cease to be ______ Mohan Bhagwat in New York",
+      "answer": "Hindu",
+      "options": [
+        "Ducks",
+        "Trade",
+        "Pictorial",
+        "Hindu"
+      ]
+    },
+    {
+      "blanked": "37 Killed As Russian Strikes Ukraine's Kyiv, 50 ______ Buildings Damaged",
+      "answer": "Residential",
+      "options": [
+        "Falcon",
         "Samsons",
-        "Cup",
-        "Atherosclerosis",
-        "9.9%"
-      ]
-    },
-    {
-      "blanked": "Nancy Grace ______ Telescope live updates: Roman and Falcon Heavy delivered to launch pad",
-      "answer": "Roman",
-      "options": [
-        "50%",
-        "Roman",
-        "Modi",
-        "Proposes"
-      ]
-    },
-    {
-      "blanked": "Before The Nepal Flood, A Glacial Fall: ______ The Trigger, And A 100-km Killer Surge",
-      "answer": "Tracing",
-      "options": [
-        "Tracing",
-        "Teja",
-        "Grace",
-        "Slams"
-      ]
-    },
-    {
-      "blanked": "US ______ Chair Kevin Warsh Jackson Hole speech impact on Indian stock market, gold-silver rates | Prediction for Monday",
-      "answer": "Fed",
-      "options": [
-        "Fed",
-        "Multi-Device",
-        "Kiara",
-        "Pictorial"
-      ]
-    },
-    {
-      "blanked": "CNG Prices Hiked By Rs 3.89 In Delhi-NCR: Check ______ Rates",
-      "answer": "City-Wise",
-      "options": [
-        "War",
-        "City-Wise",
-        "CEO",
-        "Reader"
-      ]
-    },
-    {
-      "blanked": "Telangana SIR: ______ must be informed hearing date 2 days ahead",
-      "answer": "Voters",
-      "options": [
-        "Voters",
-        "Galaxy",
-        "Foods",
+        "Indians",
         "Residential"
       ]
     },
     {
-      "blanked": "\"You Think You Are A Lord?\" Bombay High Court Slams FDA Officer Over Suspension Of ______ Of Mumbai...",
-      "answer": "Eateries",
+      "blanked": "PHOTOS: ______ appears orange due to partial lunar eclipse",
+      "answer": "Moon",
       "options": [
-        "Kiara",
-        "Lineup",
-        "Pushpa",
-        "Eateries"
-      ]
-    },
-    {
-      "blanked": "Dispelling myths, misconceptions surrounding ______ vaccination for young women",
-      "answer": "HPV",
-      "options": [
-        "Bhagwat",
-        "Limited",
-        "Kevin",
-        "HPV"
-      ]
-    },
-    {
-      "blanked": "How space traffic management can save our satellites (Reader ______",
-      "answer": "Forum",
-      "options": [
-        "Forum",
-        "Killed",
         "Suns",
-        "Teja"
+        "Cricket",
+        "Samsons",
+        "Moon"
       ]
     }
   ]
