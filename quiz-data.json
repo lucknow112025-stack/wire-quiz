@@ -1,21 +1,21 @@
 {
-  "generatedAt": "2026-08-30T18:48:33.059Z",
+  "generatedAt": "2026-08-30T19:03:30.809Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
     "India, Uzbekistan upgrade ties to comprehensive strategic partnership; set $5 bn trade target",
+    "\"Had We Stayed One More Day...\": Kailash Pilgrim On Escaping Nepal Floods",
     "Himachal identifies 67 vulnerable glacial lakes, early warning systems planned for 4",
-    "H-4 EAD: What the latest US move means for Indian spouses of H-1Bs and why there is no need to panic yet",
-    "Rescuers battle floods and debris as Himalayan disaster death toll nears 800",
-    "Iran’s Khamenei calls for Gulf unity as Hormuz tensions persist",
+    "Iran's Khamenei urges Gulf rulers in written message to confront 'real enemy'",
     "Russia submits proposal in response to Indian tender for 5 more S-400 'Sudarshan' units",
-    "‘Excessive speed’: 8-year-old boy killed as woman driver on phone runs him over in Mumbai; arrested",
+    "8-year-old boy dies after Mumbai woman, on a phone call, runs speeding SUV over him in Bandra | India News",
     "India emerges as key petrol supplier to Russia as refinery attacks disrupt fuel supplies",
     "No Food Discussion, No Fatwas: VHP On Reports Of Satvik Food On Durga Puja",
     "'BJP thinks it is bigger than RSS, it should listen to Mohan Bhagwat': CJP leader Abhijeet Dipke",
+    "Saved by a tea break, strengthened by a rakhi: 5 Chhattisgarh friends endure Nepal's flood fury",
+    "At least seven dead after ferry carrying nearly 270 passengers, crew capsizes off northern Cyprus",
     "Trump wants 'Lake America'. Canada puts up a 24-foot sign saying otherwise",
-    "7 dead, 172 rescued after ferry carrying 270 capsizes off North Cyprus, ‘completely’ sinks | World News",
-    "'We're alive': Kyiv-area survivor recalls Russian strike that killed 38",
+    "Death toll from Russian strike on Ukrainian arms depot rises to 38",
     "Iceland Set to Reject EU Entry Talks in Tight Referendum",
     "India's HDFC Bank weighing deputy MD Bharucha, outsider for CEO, sources say",
     "Subhash Chandra insolvency: Why are creditors set to recover only ₹6.5 crore against ₹22,006 crore claims?",
@@ -26,128 +26,128 @@
     "Weekly poll results: the Honor Robot Phone draws in a crowd with its camera capabilities",
     "iPhone 17 Pro Max Price Slashed Worldwide Before iPhone 18 Launch",
     "Toxic Box Office Collections: Yash starrer continues to slip, tops Rs. 200 Cr in India on 4th day",
-    "Sonam Wangchuk's witty response to Aamir Khan denying his '3 Idiots' character was based on him: 'Kyunki",
-    "‘Mirzapur: The Movie’ gets CBFC certificate; Ali Fazal-Pankaj Tripathi starrer clocks 3 hours 17 minutes"
+    "'Hanuman Ansh' box office collection: From Rs 10 lakh on day 1 to Rs 27 crore in 23 days, word of mouth t",
+    "'Short-term memory loss hua hoga': Sonam Wangchuk mocks Aamir Khan's ‘we never met before 3 Idiots' claim | Bollywood"
   ],
   "quiz": [
+    {
+      "blanked": "Toxic Box Office Collections: Yash starrer continues to slip, tops Rs. ______ Cr in India on 4th day",
+      "answer": "200",
+      "options": [
+        "Indian",
+        "200",
+        "Down",
+        "Collections"
+      ]
+    },
+    {
+      "blanked": "Epigenetic Clocks Reveal ______ Colon Ageing",
+      "answer": "Disease-Driven",
+      "options": [
+        "Honor",
+        "Disease-Driven",
+        "One",
+        "ESC"
+      ]
+    },
+    {
+      "blanked": "Duleep Trophy: North ______ fold for 195 on opening day",
+      "answer": "Zone",
+      "options": [
+        "Puja",
+        "Set",
+        "Ipswich",
+        "Zone"
+      ]
+    },
+    {
+      "blanked": "Subhash Chandra insolvency: Why are creditors set to recover only ₹6.5 crore against ______ crore claims?",
+      "answer": "22006",
+      "options": [
+        "22006",
+        "Look",
+        "United",
+        "200"
+      ]
+    },
+    {
+      "blanked": "A ______ physicist proposed a way to create quantum images 20 years ago; after two decades waiting for e",
+      "answer": "Chicago",
+      "options": [
+        "Chicago",
+        "Down",
+        "Lake",
+        "Wangchuk"
+      ]
+    },
     {
       "blanked": "New study captures ______ early warning signs before solar flares",
       "answer": "Suns",
       "options": [
+        "Contact",
         "Suns",
-        "Tripathi",
-        "CJP",
-        "Khan"
+        "Federers",
+        "RSS"
       ]
     },
     {
-      "blanked": "7 dead, 172 rescued after ferry carrying 270 capsizes off North ______ ‘completely’ sinks | World News",
+      "blanked": "NASA launches $4.3bn ______ Telescope to uncover universe’s hidden secrets",
+      "answer": "Roman",
+      "options": [
+        "Roman",
+        "Disease-Driven",
+        "Definition",
+        "Canada"
+      ]
+    },
+    {
+      "blanked": "Death toll from ______ strike on Ukrainian arms depot rises to 38",
+      "answer": "Russian",
+      "options": [
+        "Kailash",
+        "2026",
+        "CEO",
+        "Russian"
+      ]
+    },
+    {
+      "blanked": "India, ______ upgrade ties to comprehensive strategic partnership; set $5 bn trade target",
+      "answer": "Uzbekistan",
+      "options": [
+        "Nepals",
+        "Waning",
+        "Uzbekistan",
+        "Robot"
+      ]
+    },
+    {
+      "blanked": "Saved by a tea break, strengthened by a rakhi: 5 ______ friends endure Nepal's flood fury",
+      "answer": "Chhattisgarh",
+      "options": [
+        "Chhattisgarh",
+        "Bollywood",
+        "Down",
+        "One"
+      ]
+    },
+    {
+      "blanked": "At least seven dead after ferry carrying nearly 270 passengers, crew capsizes off northern ______",
       "answer": "Cyprus",
       "options": [
-        "Today",
-        "Cyprus",
-        "Waning",
-        "Kumar"
+        "270",
+        "Asia",
+        "Apple",
+        "Cyprus"
       ]
     },
     {
-      "blanked": "Iceland ______ to Reject EU Entry Talks in Tight Referendum",
-      "answer": "Set",
+      "blanked": "New Myocardial Infarction Definition Simplifies Diagnosis: ______ 2026",
+      "answer": "ESC",
       "options": [
-        "Womens",
-        "Ageing",
-        "Set",
-        "Phase"
-      ]
-    },
-    {
-      "blanked": "Toxic Box ______ Collections: Yash starrer continues to slip, tops Rs. 200 Cr in India on 4th day",
-      "answer": "Office",
-      "options": [
-        "Tripathi",
-        "Fatwas",
-        "172",
-        "Office"
-      ]
-    },
-    {
-      "blanked": "India's HDFC ______ weighing deputy MD Bharucha, outsider for CEO, sources say",
-      "answer": "Bank",
-      "options": [
-        "Phase",
-        "Durga",
-        "Bank",
-        "Today"
-      ]
-    },
-    {
-      "blanked": "Weekly poll results: the Honor Robot ______ draws in a crowd with its camera capabilities",
-      "answer": "Phone",
-      "options": [
-        "Entry",
-        "Phone",
-        "172",
-        "Waning"
-      ]
-    },
-    {
-      "blanked": "Manchester ______ player ratings vs Ipswich as Bruno Fernandes sensational and two others star",
-      "answer": "United",
-      "options": [
-        "United",
-        "Entry",
-        "Kartik",
-        "Infarction"
-      ]
-    },
-    {
-      "blanked": "Captain ______ Bhushan Kumar film starring Kartik Aaryan to go on floors in London on September 1",
-      "answer": "India",
-      "options": [
-        "Durga",
-        "India",
-        "Sturgeon",
-        "Reveals"
-      ]
-    },
-    {
-      "blanked": "India’s GDP growth likely to stay strong at 7-7.2% in FY27 despite global risks: ______",
-      "answer": "Report",
-      "options": [
-        "Bhagwat",
-        "Launch",
-        "Disease-Driven",
-        "Report"
-      ]
-    },
-    {
-      "blanked": "H-4 ______ What the latest US move means for Indian spouses of H-1Bs and why there is no need to panic yet",
-      "answer": "EAD",
-      "options": [
-        "EAD",
-        "Reveals",
-        "Steps",
-        "200"
-      ]
-    },
-    {
-      "blanked": "No Food Discussion, No Fatwas: VHP On Reports Of Satvik Food On ______ Puja",
-      "answer": "Durga",
-      "options": [
-        "Infarction",
-        "Gulf",
-        "Durga",
-        "200"
-      ]
-    },
-    {
-      "blanked": "Rescuers battle floods and debris as Himalayan disaster death toll nears ______",
-      "answer": "800",
-      "options": [
-        "United",
-        "Ipswich",
-        "Yash",
-        "800"
+        "ESC",
+        "Trillion",
+        "195",
+        "Abhijeet"
       ]
     }
   ]
