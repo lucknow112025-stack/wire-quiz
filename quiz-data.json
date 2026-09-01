@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-09-01T10:17:21.328Z",
+  "generatedAt": "2026-09-01T15:01:08.876Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "SCO must work unitedly to dismantle terror ecosystem: PM Modi",
-    "Rescuers comb through mud and debris as Nepal-China floods leave more than 1,000 dead",
+    "PM Modi's Strong Comment On Terror At SCO, With Shehbaz Sharif In Attendance",
+    "Photos show a family in Nepal bid farewell, as other flood victims are buried in unmarked graves",
     "BREAKING| Withdrawing September 5 Protest : CJP Leader Saurav Das Tells Supreme Court As Centre Acts To...",
-    "Russian air attacks kill 12 in Kyiv region, on sixth day of strikes",
-    "Indian-Origin Taxi Driver Convicted Of Rape \"No Longer A US Citizen\"",
-    "US brings back Russia’s Siluanov to G20 finance talks, angering Europe",
-    "After 7-Year-Old Child's Death In Madhya Pradesh, Family's Malnutrition Charge",
-    "\"Plan journeys in advance\": Delhi Traffic Police issues advisory for BRICS 2026 motorcade rehearsal",
-    "IndiGo's Goa-Delhi Flight Makes U-Turn After Mid-Air Engine Snag",
-    "Journalist Who Reported Ram Temple Donation Theft Moves Supreme Court Against UP Police Notice For X...",
-    "Sun Pharma shares fall over 2% after US drug-pricing deal, pare 3-session gains; tariff relief cushions...",
-    "Donald Trump’s cheap gas miracle via Venezuela oil deal? Not so fast",
-    "Trump losing support from Indian-Americans ahead of November midterms, survey finds | World News",
-    "US Army Secretary Resigns After Tensions With Pete Hegseth",
-    "India’s Growth Beat Suggests Economy on Cusp of Investment Boom",
-    "NCLT Delhi 5-Member Bench Stays Approval Of Subhash Chandra ₹6.25 Crore Repayment Plan",
-    "John Ternus to lead Apple into the age of AI",
-    "Indian shares subdued as higher oil, bond yields counter growth optimism",
-    "Dyson Debuts $499 AI-Powered Toothbrush With a Built-In Camera",
-    "TP-Link intros its first WiFi 8 routers with up to 22Gbps wireless speeds and wide coverage",
-    "Apple iPhone 18: Leaked design, bigger battery, camera upgrades, price and launch date",
-    "Samsung Galaxy Book6 Launches in Korea at $819 [2026] - tech-insider.org",
-    "Badshah and Isha Rikhi announce divorce: ‘Mutually decided to part ways’",
-    "Aishwarya Rai Bachchan, Aaradhya celebrate Raksha Bandhan; fans love this rare glimpse of the actress wit",
-    "'Toxic' box office collections day 6: Yash, Nayanthara, Kiara Advani, Tara Sutaria film drops 67.6%; mints Rs 304.05 Cr worldwide"
+    "Mamata Banerjee’s niece, who lost job post teacher-recruitment probe, found dead in Birbhum",
+    "Iran urges US to comply with interim deal after Trump threatens further strikes",
+    "Four AK-47 assault rifles stolen from Army’s Secunderabad Cantonment",
+    "\"Can Become US President, Replace Trump\": EPS Mocks TVK's 'Vijay For PM' Push",
+    "Supreme Court Closes Suo Motu Case Over NCERT Textbook Chapter On 'Corruption In Judiciary'",
+    "Anna Hazare admitted to Mumbai hospital's ICU with acute dehydration, kidney issue | India News",
+    "CM Vijay releases Mettur Dam water for delta irrigation",
+    "Former UK PM Keir Starmer to step down as MP: Report",
+    "Pak Court's Big Relief For Imran Khan, Bushra Bibi: No Solitary Confinement, Timely Meets",
+    "Firms including Chevron, ONGC, GE Vernova on track to sign final pacts in Venezuela, sources say",
+    "Shehbaz Sharif edits Modi out of SCO ‘family photo’: Pak PM's bizarre move raises eyebrows",
+    "Tim Cook steps down as CEO of Apple, John Ternus takes over - GSMArena.com news",
+    "Bankers in the running for HDFC Bank CEO job after Sashidhar Jagdishan exits",
+    "ITC shares zoom 4.5%, Happiest Minds tanks 12% after merger announcement; key details",
+    "Stock Market Close: Sensex extends losses to 2nd day; Nifty settles at 24,056",
+    "Sonos Unveils New Headphones, Soundbar and Major Push Into AI",
+    "Roku has released its first ever OLED TVs",
+    "Microsoft says to ignore ‘Microsoft Defender Antivirus is turned off’ warnings",
+    "Enough Phone packs 5.3-inch display and modular battery into tiny Android smartphone",
+    "Aishwarya Rai poses with Aaradhya, mother and brother in rare Raksha Bandhan photos",
+    "Badshah-Isha Rikhi end marriage after 5 months; her ‘fake personality’ post goes viral",
+    "Swara Bhaskar Trolled Again Over Padmaavat Jauhar Remark, Internet Says 'Wilful Blindness'"
   ],
   "quiz": [
     {
-      "blanked": "Indian-Origin ______ Driver Convicted Of Rape \"No Longer A US Citizen\"",
-      "answer": "Taxi",
+      "blanked": "Microsoft says to ignore ‘Microsoft ______ Antivirus is turned off’ warnings",
+      "answer": "Defender",
       "options": [
-        "Taxi",
-        "WiFi",
         "Ternus",
-        "Needs"
+        "LIVE",
+        "Microsoft",
+        "Defender"
       ]
     },
     {
-      "blanked": "Daily Zinc Cuts Infections in Children With ______ Cell Anaemia",
-      "answer": "Sickle",
+      "blanked": "Iran urges US to comply with interim deal after ______ threatens further strikes",
+      "answer": "Trump",
       "options": [
-        "Madhya",
-        "Sickle",
-        "World",
-        "Theft"
+        "Major",
+        "Phone",
+        "Trump",
+        "Bank"
       ]
     },
     {
-      "blanked": "Dyson Debuts $499 ______ Toothbrush With a Built-In Camera",
-      "answer": "AI-Powered",
+      "blanked": "Pakistan cricket in chaos: Misbah-ul-Haq resigns as ______ selector amid Test squad shake-up",
+      "answer": "PCB",
       "options": [
-        "Indian-Americans",
-        "AI-Powered",
-        "Hegseth",
-        "Delhi"
+        "PCB",
+        "Case",
+        "Exoplanet",
+        "Minds"
       ]
     },
     {
-      "blanked": "US brings back ______ Siluanov to G20 finance talks, angering Europe",
-      "answer": "Russias",
+      "blanked": "Sonos Unveils New Headphones, Soundbar and Major ______ Into AI",
+      "answer": "Push",
       "options": [
-        "Pradesh",
-        "Russias",
-        "Kyiv",
-        "Investment"
+        "Soundbar",
+        "Armys",
+        "Push",
+        "Solar"
       ]
     },
     {
-      "blanked": "\"Plan journeys in advance\": Delhi ______ Police issues advisory for BRICS 2026 motorcade rehearsal",
-      "answer": "Traffic",
+      "blanked": "Supreme Court Closes Suo ______ Case Over NCERT Textbook Chapter On 'Corruption In Judiciary'",
+      "answer": "Motu",
       "options": [
-        "Who",
-        "Subhash",
-        "Korea",
-        "Traffic"
+        "Courts",
+        "Motu",
+        "Bhaskar",
+        "SCO"
       ]
     },
     {
-      "blanked": "Duane 'Keffe D' Davis convicted of first-degree murder in orchestrating 1996 killing of rap icon Tupac ______",
-      "answer": "Shakur",
+      "blanked": "‘Truly sad’ - Barcelona boss Hansi ______ reacts as Lionel Messi retires from Argentina duty",
+      "answer": "Flick",
       "options": [
-        "Shakur",
-        "Benefits",
-        "Zinc",
-        "Infections"
+        "Flick",
+        "ICU",
+        "ONGC",
+        "24056"
       ]
     },
     {
-      "blanked": "Rescuers comb through mud and debris as Nepal-China floods leave more than ______ dead",
-      "answer": "1000",
+      "blanked": "\"Can Become US President, Replace Trump\": EPS Mocks TVK's ______ For PM' Push",
+      "answer": "Vijay",
       "options": [
-        "1000",
-        "Siluanov",
-        "Court",
-        "Madhya"
+        "Suo",
+        "Comment",
+        "Vijay",
+        "Remark"
       ]
     },
     {
-      "blanked": "ICMR study identifies well water as major risk factor for amoebic meningoencephalitis in ______",
-      "answer": "Keralam",
+      "blanked": "Bankers in the running for HDFC ______ CEO job after Sashidhar Jagdishan exits",
+      "answer": "Bank",
       "options": [
-        "Bachchan",
-        "Keralam",
-        "Diseases",
-        "Space"
+        "Bank",
+        "Suo",
+        "Minds",
+        "Ternus"
       ]
     },
     {
-      "blanked": "Labuschagne dropped from ODI squad; Davies, ______ included",
-      "answer": "Peake",
+      "blanked": "'Toxic' box office collection Day 7 [LIVE]: Yash, Kiara Advani, Nayanthara, Tara Sutaria film crosses Rs ______ crore India net milestone after crossing Rs 300 crore worldwide",
+      "answer": "225",
       "options": [
-        "Most",
-        "Peake",
-        "WiFi",
-        "Pandyas"
-      ]
-    },
-    {
-      "blanked": "IndiGo's ______ Flight Makes U-Turn After Mid-Air Engine Snag",
-      "answer": "Goa-Delhi",
-      "options": [
-        "Camera",
         "Expensive",
-        "Goa-Delhi",
-        "Taxi"
+        "Messi",
+        "225",
+        "Comment"
       ]
     },
     {
-      "blanked": "Badshah and Isha ______ announce divorce: ‘Mutually decided to part ways’",
-      "answer": "Rikhi",
+      "blanked": "Photos show a family in ______ bid farewell, as other flood victims are buried in unmarked graves",
+      "answer": "Nepal",
       "options": [
-        "Rikhi",
-        "Pradesh",
-        "Bandhan",
-        "Sky"
+        "Nepal",
+        "Worlds",
+        "Solitary",
+        "Afghanistan"
       ]
     },
     {
-      "blanked": "Apple iPhone 18: ______ design, bigger battery, camera upgrades, price and launch date",
-      "answer": "Leaked",
+      "blanked": "Tim Cook steps down as ______ of Apple, John Ternus takes over - GSMArena.com news",
+      "answer": "CEO",
       "options": [
-        "Studies",
-        "Leaked",
-        "Pharma",
-        "Mutually"
+        "Yash",
+        "CEO",
+        "Imran",
+        "Sickle"
+      ]
+    },
+    {
+      "blanked": "Pak Court's ______ Relief For Imran Khan, Bushra Bibi: No Solitary Confinement, Timely Meets",
+      "answer": "Big",
+      "options": [
+        "Android",
+        "Protest",
+        "Big",
+        "Antivirus"
       ]
     }
   ]
