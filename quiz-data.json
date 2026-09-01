@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-09-01T18:28:16.170Z",
+  "generatedAt": "2026-09-01T21:13:36.663Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "US launches fresh strikes on Iran around Strait of Hormuz",
-    "Withdrawing September 5 Protest : CJP Leader Saurav Das Tells Supreme Court As Centre Acts To Withdraw...",
+    "U.S. strikes Iran and Tehran fires back as hostilities flare again",
     "Photos show a family in Nepal bid farewell, as other flood victims are buried in unmarked graves",
-    "Bessent says Strait of Hormuz could become ‘worthless’ within 2 years as US signals more Iran...",
     "PM Modi's Strong Comment On Terror At SCO, With Shehbaz Sharif In Attendance",
-    "Woman randomly stabs 2 people in New York City’s Times Square, shot by police",
-    "UP Shock Loading For Asaduddin Owaisi? Sources Say Big Exit Upcoming",
-    "Minor girl gang-raped inside moving bus during Noida-Delhi journey after being offered lift amid heavy rain",
-    "Rahul Gandhi’s ‘vote theft’ jab after 2.07 crore Maharashtra voters deleted",
-    "Delhi-NCR sees heavy rain, orange and yellow alerts issued for parts of national capital",
-    "Germany accuses Russia of drone attack on Leipzig airport",
+    "Withdrawing September 5 Protest : CJP Leader Saurav Das Tells Supreme Court As Centre Acts To Withdraw...",
+    "Bessent says Strait of Hormuz could become ‘worthless’ within 2 years as US signals more Iran...",
     "Russian drone and missile barrage kills at least 12 in Ukraine’s Kyiv",
+    "Noida Rape Case: Bus Had 12 Challans Since April, 9 Issued In July Alone",
+    "Faridabad Girl, Punished In School Over Biryani Fight, Dies By Suicide",
+    "51 Indian nationals killed in Russian Army, 139 discharged; MEA says talks on with Moscow",
+    "'Hanging Glaciers' Can Collapse Without Warning. How Big Is The Threat To India?",
+    "Raids on Pattaya sex workers as US ship with 5,000 soldiers set to dock",
+    "Shehbaz Sharif Crops Out PM Modi To Take Centre Stage In Shanghai Bloc Pic",
+    "Woman randomly stabs 2 people in New York City’s Times Square, shot by police",
     "Pak PM repeats old grouse on Indus waters at SCO as India rejects court ruling",
-    "Former U.K. PM Starmer to step down as MP",
     "Private sector steps up as India's growth engine broadens",
     "NCLT Delhi 5-Member Bench Stays Approval Of Subhash Chandra ₹6.25 Crore Repayment Plan",
-    "GST collections rise 15% YoY to nearly Rs 2 lakh crore in August",
-    "Vodafone Idea onboards Shah Rukh Khan as brand ambassador, unveils new logo",
-    "Sonos Opens Platform to Third-Party AI Agents via New MCP Layer and In-House Sonos 27voice LLM",
-    "Samsung unveils $800 Galaxy Book6 with 14\" display and Intel Core 3/5 processors - GSMArena.com news",
-    "POCO F9 Ultra: The Ultimate Gaming Smartphone Unveiled",
-    "Google Messages gets customisation setting: How to use it",
-    "'Toxic' box office collection Day 7 [LIVE]: Yash, Kiara Advani, Nayanthara, Tara Sutaria film crosses Rs 225 crore India net milestone after crossing Rs 300 crore worldwide",
-    "Aishwarya Rai poses with Aaradhya, mother and brother in rare Raksha Bandhan photos",
-    "Aditya Dhar lauds Yash’s ‘Toxic’ amid backlash over the film also Kiara Advani, Nayanthara starrer, after"
+    "Tim Cook steps down as CEO of Apple, John Ternus takes over - GSMArena.com news",
+    "Stock Market Close: Sensex extends losses to 2nd day; Nifty settles at 24,056",
+    "Sonos Ace Ultra launches with better sound and Wi-Fi at lower price",
+    "Sony's ULT Power Sound lineup gets its 2026 refresh with three new tower speakers",
+    "Poco F9 Pro and F9 Ultra announced - GSMArena.com news",
+    "Apple iPhone 18 Pro Launch Timeline: New Date Reportedly Set For Pre-orders",
+    "'Toxic' box office collection Day 7 [LIVE]: Yash, Kiara Advani, Nayanthara, Tara Sutaria film crosses Rs",
+    "Ram Gopal Varma says debate on Yash’s stardom pre-KGF is laughable: Hindi audience didn't know Prabhas before Baahubali | Bollywood",
+    "'Dhurandhar Meets Toxic': Aditya Dhar Backs Yash's Film, Fans Call For A Collaboration"
   ],
   "quiz": [
     {
-      "blanked": "Withdrawing September 5 Protest : CJP Leader ______ Das Tells Supreme Court As Centre Acts To Withdraw...",
-      "answer": "Saurav",
+      "blanked": "Badshah-Isha ______ announce divorce: Secret marriage, no acknowledgement from singer",
+      "answer": "Rikhi",
       "options": [
-        "Saurav",
-        "Nayanthara",
-        "300",
-        "Toxic"
+        "Rikhi",
+        "Moscow",
+        "Pattaya",
+        "Fans"
       ]
     },
     {
-      "blanked": "Why the Space Economy Needs ______ System Boundaries’",
-      "answer": "Solar",
+      "blanked": "PM Modi's Strong Comment On Terror At SCO, With ______ Sharif In Attendance",
+      "answer": "Shehbaz",
       "options": [
-        "Agents",
-        "Stays",
         "Solar",
-        "Readout"
+        "Shehbaz",
+        "Hindi",
+        "ICU"
       ]
     },
     {
-      "blanked": "Aishwarya Rai poses with Aaradhya, mother and brother in rare ______ Bandhan photos",
-      "answer": "Raksha",
+      "blanked": "In 2010, ______ released fluorescent dye into a well near Malad Gorge to map hidden groundwater routes; la",
+      "answer": "Idaho",
       "options": [
-        "Prostate",
-        "Remark",
-        "Raksha",
-        "800"
+        "Solar",
+        "Square",
+        "Repayment",
+        "Idaho"
+      ]
+    },
+    {
+      "blanked": "Woman randomly stabs 2 people in New York City’s Times ______ shot by police",
+      "answer": "Square",
+      "options": [
+        "Square",
+        "Fail",
+        "Approval",
+        "Bloc"
+      ]
+    },
+    {
+      "blanked": "Withdrawing September 5 ______ : CJP Leader Saurav Das Tells Supreme Court As Centre Acts To Withdraw...",
+      "answer": "Protest",
+      "options": [
+        "Cancer",
+        "Case",
+        "Protest",
+        "PCB"
+      ]
+    },
+    {
+      "blanked": "Fact or Fiction: Prostate ______ Diagnosis and Workup - Medscape Reference: Drugs, Diseases & Medical Procedures",
+      "answer": "Cancer",
+      "options": [
+        "PCB",
+        "Cancer",
+        "Wi-Fi",
+        "Launch"
       ]
     },
     {
       "blanked": "Photos show a family in ______ bid farewell, as other flood victims are buried in unmarked graves",
       "answer": "Nepal",
       "options": [
+        "Diagnosis",
+        "Moscow",
         "Nepal",
-        "Remark",
-        "Asaduddin",
-        "Raksha"
+        "Kyiv"
       ]
     },
     {
-      "blanked": "In ______ UK researchers turned 50 tonnes of coal-fired power station waste into an underwater reef; lobst",
-      "answer": "1989",
+      "blanked": "Private sector steps up as ______ growth engine broadens",
+      "answer": "Indias",
       "options": [
-        "Dig",
-        "1989",
-        "Ultimate",
-        "Procedures"
-      ]
-    },
-    {
-      "blanked": "GLP-1 Studies Suggest ______ Extend to Infectious Diseases",
-      "answer": "Benefits",
-      "options": [
-        "Mother",
-        "800",
-        "Benefits",
-        "Khan"
-      ]
-    },
-    {
-      "blanked": "ABB and Nüvü Exoplanet Camera Readout System for NASA Flagship Telescope ______ Into Orbit",
-      "answer": "Launched",
-      "options": [
-        "Upcoming",
-        "Launched",
-        "Suggest",
-        "Gorge"
-      ]
-    },
-    {
-      "blanked": "US launches fresh strikes on Iran around ______ of Hormuz",
-      "answer": "Strait",
-      "options": [
-        "Telescope",
-        "Strait",
-        "6.25",
-        "Suggest"
-      ]
-    },
-    {
-      "blanked": "GST collections rise 15% YoY to nearly Rs 2 lakh crore in ______",
-      "answer": "August",
-      "options": [
-        "Terror",
-        "Asaduddin",
-        "August",
-        "Trophy"
-      ]
-    },
-    {
-      "blanked": "Fact or Fiction: Prostate Cancer: Diagnosis and Workup - Medscape Reference: Drugs, Diseases & ______ Procedures",
-      "answer": "Medical",
-      "options": [
-        "Day",
         "Reference",
-        "Platform",
-        "Medical"
+        "Indias",
+        "Lionel",
+        "2010"
       ]
     },
     {
-      "blanked": "Pak PM repeats old grouse on Indus waters at SCO as ______ rejects court ruling",
-      "answer": "India",
+      "blanked": "Tim Cook steps down as CEO of ______ John Ternus takes over - GSMArena.com news",
+      "answer": "Apple",
       "options": [
-        "SCO",
-        "India",
-        "Studies",
-        "Ultimate"
+        "Exoplanet",
+        "Workup",
+        "Prostate",
+        "Apple"
       ]
     },
     {
-      "blanked": "In 2010, Idaho released fluorescent dye into a well near Malad ______ to map hidden groundwater routes; la",
-      "answer": "Gorge",
+      "blanked": "New study captures ______ early warning signs before solar flares",
+      "answer": "Suns",
       "options": [
-        "Sooryavanshi",
-        "Gorge",
-        "Flagship",
-        "Procedures"
+        "Suns",
+        "Shanghai",
+        "Had",
+        "Chandra"
+      ]
+    },
+    {
+      "blanked": "Asthma ICU Admissions Fail to ______ Over 10 Years",
+      "answer": "Decline",
+      "options": [
+        "Decline",
+        "Medical",
+        "Call",
+        "Can"
+      ]
+    },
+    {
+      "blanked": "Pak PM repeats old grouse on ______ waters at SCO as India rejects court ruling",
+      "answer": "Indus",
+      "options": [
+        "Argentinians",
+        "Delhi",
+        "Cook",
+        "Indus"
       ]
     }
   ]
