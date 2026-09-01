@@ -1,123 +1,63 @@
 {
-  "generatedAt": "2026-09-01T15:01:08.876Z",
+  "generatedAt": "2026-09-01T18:28:16.170Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "PM Modi's Strong Comment On Terror At SCO, With Shehbaz Sharif In Attendance",
+    "US launches fresh strikes on Iran around Strait of Hormuz",
+    "Withdrawing September 5 Protest : CJP Leader Saurav Das Tells Supreme Court As Centre Acts To Withdraw...",
     "Photos show a family in Nepal bid farewell, as other flood victims are buried in unmarked graves",
-    "BREAKING| Withdrawing September 5 Protest : CJP Leader Saurav Das Tells Supreme Court As Centre Acts To...",
-    "Mamata Banerjee’s niece, who lost job post teacher-recruitment probe, found dead in Birbhum",
-    "Iran urges US to comply with interim deal after Trump threatens further strikes",
-    "Four AK-47 assault rifles stolen from Army’s Secunderabad Cantonment",
-    "\"Can Become US President, Replace Trump\": EPS Mocks TVK's 'Vijay For PM' Push",
-    "Supreme Court Closes Suo Motu Case Over NCERT Textbook Chapter On 'Corruption In Judiciary'",
-    "Anna Hazare admitted to Mumbai hospital's ICU with acute dehydration, kidney issue | India News",
-    "CM Vijay releases Mettur Dam water for delta irrigation",
-    "Former UK PM Keir Starmer to step down as MP: Report",
-    "Pak Court's Big Relief For Imran Khan, Bushra Bibi: No Solitary Confinement, Timely Meets",
-    "Firms including Chevron, ONGC, GE Vernova on track to sign final pacts in Venezuela, sources say",
-    "Shehbaz Sharif edits Modi out of SCO ‘family photo’: Pak PM's bizarre move raises eyebrows",
-    "Tim Cook steps down as CEO of Apple, John Ternus takes over - GSMArena.com news",
-    "Bankers in the running for HDFC Bank CEO job after Sashidhar Jagdishan exits",
-    "ITC shares zoom 4.5%, Happiest Minds tanks 12% after merger announcement; key details",
-    "Stock Market Close: Sensex extends losses to 2nd day; Nifty settles at 24,056",
-    "Sonos Unveils New Headphones, Soundbar and Major Push Into AI",
-    "Roku has released its first ever OLED TVs",
-    "Microsoft says to ignore ‘Microsoft Defender Antivirus is turned off’ warnings",
-    "Enough Phone packs 5.3-inch display and modular battery into tiny Android smartphone",
+    "Bessent says Strait of Hormuz could become ‘worthless’ within 2 years as US signals more Iran...",
+    "PM Modi's Strong Comment On Terror At SCO, With Shehbaz Sharif In Attendance",
+    "Woman randomly stabs 2 people in New York City’s Times Square, shot by police",
+    "UP Shock Loading For Asaduddin Owaisi? Sources Say Big Exit Upcoming",
+    "Minor girl gang-raped inside moving bus during Noida-Delhi journey after being offered lift amid heavy rain",
+    "Rahul Gandhi’s ‘vote theft’ jab after 2.07 crore Maharashtra voters deleted",
+    "Delhi-NCR sees heavy rain, orange and yellow alerts issued for parts of national capital",
+    "Germany accuses Russia of drone attack on Leipzig airport",
+    "Russian drone and missile barrage kills at least 12 in Ukraine’s Kyiv",
+    "Pak PM repeats old grouse on Indus waters at SCO as India rejects court ruling",
+    "Former U.K. PM Starmer to step down as MP",
+    "Private sector steps up as India's growth engine broadens",
+    "NCLT Delhi 5-Member Bench Stays Approval Of Subhash Chandra ₹6.25 Crore Repayment Plan",
+    "GST collections rise 15% YoY to nearly Rs 2 lakh crore in August",
+    "Vodafone Idea onboards Shah Rukh Khan as brand ambassador, unveils new logo",
+    "Sonos Opens Platform to Third-Party AI Agents via New MCP Layer and In-House Sonos 27voice LLM",
+    "Samsung unveils $800 Galaxy Book6 with 14\" display and Intel Core 3/5 processors - GSMArena.com news",
+    "POCO F9 Ultra: The Ultimate Gaming Smartphone Unveiled",
+    "Google Messages gets customisation setting: How to use it",
+    "'Toxic' box office collection Day 7 [LIVE]: Yash, Kiara Advani, Nayanthara, Tara Sutaria film crosses Rs 225 crore India net milestone after crossing Rs 300 crore worldwide",
     "Aishwarya Rai poses with Aaradhya, mother and brother in rare Raksha Bandhan photos",
-    "Badshah-Isha Rikhi end marriage after 5 months; her ‘fake personality’ post goes viral",
-    "Swara Bhaskar Trolled Again Over Padmaavat Jauhar Remark, Internet Says 'Wilful Blindness'"
+    "Aditya Dhar lauds Yash’s ‘Toxic’ amid backlash over the film also Kiara Advani, Nayanthara starrer, after"
   ],
   "quiz": [
     {
-      "blanked": "Microsoft says to ignore ‘Microsoft ______ Antivirus is turned off’ warnings",
-      "answer": "Defender",
+      "blanked": "Withdrawing September 5 Protest : CJP Leader ______ Das Tells Supreme Court As Centre Acts To Withdraw...",
+      "answer": "Saurav",
       "options": [
-        "Ternus",
-        "LIVE",
-        "Microsoft",
-        "Defender"
+        "Saurav",
+        "Nayanthara",
+        "300",
+        "Toxic"
       ]
     },
     {
-      "blanked": "Iran urges US to comply with interim deal after ______ threatens further strikes",
-      "answer": "Trump",
+      "blanked": "Why the Space Economy Needs ______ System Boundaries’",
+      "answer": "Solar",
       "options": [
-        "Major",
-        "Phone",
-        "Trump",
-        "Bank"
+        "Agents",
+        "Stays",
+        "Solar",
+        "Readout"
       ]
     },
     {
-      "blanked": "Pakistan cricket in chaos: Misbah-ul-Haq resigns as ______ selector amid Test squad shake-up",
-      "answer": "PCB",
+      "blanked": "Aishwarya Rai poses with Aaradhya, mother and brother in rare ______ Bandhan photos",
+      "answer": "Raksha",
       "options": [
-        "PCB",
-        "Case",
-        "Exoplanet",
-        "Minds"
-      ]
-    },
-    {
-      "blanked": "Sonos Unveils New Headphones, Soundbar and Major ______ Into AI",
-      "answer": "Push",
-      "options": [
-        "Soundbar",
-        "Armys",
-        "Push",
-        "Solar"
-      ]
-    },
-    {
-      "blanked": "Supreme Court Closes Suo ______ Case Over NCERT Textbook Chapter On 'Corruption In Judiciary'",
-      "answer": "Motu",
-      "options": [
-        "Courts",
-        "Motu",
-        "Bhaskar",
-        "SCO"
-      ]
-    },
-    {
-      "blanked": "‘Truly sad’ - Barcelona boss Hansi ______ reacts as Lionel Messi retires from Argentina duty",
-      "answer": "Flick",
-      "options": [
-        "Flick",
-        "ICU",
-        "ONGC",
-        "24056"
-      ]
-    },
-    {
-      "blanked": "\"Can Become US President, Replace Trump\": EPS Mocks TVK's ______ For PM' Push",
-      "answer": "Vijay",
-      "options": [
-        "Suo",
-        "Comment",
-        "Vijay",
-        "Remark"
-      ]
-    },
-    {
-      "blanked": "Bankers in the running for HDFC ______ CEO job after Sashidhar Jagdishan exits",
-      "answer": "Bank",
-      "options": [
-        "Bank",
-        "Suo",
-        "Minds",
-        "Ternus"
-      ]
-    },
-    {
-      "blanked": "'Toxic' box office collection Day 7 [LIVE]: Yash, Kiara Advani, Nayanthara, Tara Sutaria film crosses Rs ______ crore India net milestone after crossing Rs 300 crore worldwide",
-      "answer": "225",
-      "options": [
-        "Expensive",
-        "Messi",
-        "225",
-        "Comment"
+        "Prostate",
+        "Remark",
+        "Raksha",
+        "800"
       ]
     },
     {
@@ -125,29 +65,89 @@
       "answer": "Nepal",
       "options": [
         "Nepal",
-        "Worlds",
-        "Solitary",
-        "Afghanistan"
+        "Remark",
+        "Asaduddin",
+        "Raksha"
       ]
     },
     {
-      "blanked": "Tim Cook steps down as ______ of Apple, John Ternus takes over - GSMArena.com news",
-      "answer": "CEO",
+      "blanked": "In ______ UK researchers turned 50 tonnes of coal-fired power station waste into an underwater reef; lobst",
+      "answer": "1989",
       "options": [
-        "Yash",
-        "CEO",
-        "Imran",
-        "Sickle"
+        "Dig",
+        "1989",
+        "Ultimate",
+        "Procedures"
       ]
     },
     {
-      "blanked": "Pak Court's ______ Relief For Imran Khan, Bushra Bibi: No Solitary Confinement, Timely Meets",
-      "answer": "Big",
+      "blanked": "GLP-1 Studies Suggest ______ Extend to Infectious Diseases",
+      "answer": "Benefits",
       "options": [
-        "Android",
-        "Protest",
-        "Big",
-        "Antivirus"
+        "Mother",
+        "800",
+        "Benefits",
+        "Khan"
+      ]
+    },
+    {
+      "blanked": "ABB and Nüvü Exoplanet Camera Readout System for NASA Flagship Telescope ______ Into Orbit",
+      "answer": "Launched",
+      "options": [
+        "Upcoming",
+        "Launched",
+        "Suggest",
+        "Gorge"
+      ]
+    },
+    {
+      "blanked": "US launches fresh strikes on Iran around ______ of Hormuz",
+      "answer": "Strait",
+      "options": [
+        "Telescope",
+        "Strait",
+        "6.25",
+        "Suggest"
+      ]
+    },
+    {
+      "blanked": "GST collections rise 15% YoY to nearly Rs 2 lakh crore in ______",
+      "answer": "August",
+      "options": [
+        "Terror",
+        "Asaduddin",
+        "August",
+        "Trophy"
+      ]
+    },
+    {
+      "blanked": "Fact or Fiction: Prostate Cancer: Diagnosis and Workup - Medscape Reference: Drugs, Diseases & ______ Procedures",
+      "answer": "Medical",
+      "options": [
+        "Day",
+        "Reference",
+        "Platform",
+        "Medical"
+      ]
+    },
+    {
+      "blanked": "Pak PM repeats old grouse on Indus waters at SCO as ______ rejects court ruling",
+      "answer": "India",
+      "options": [
+        "SCO",
+        "India",
+        "Studies",
+        "Ultimate"
+      ]
+    },
+    {
+      "blanked": "In 2010, Idaho released fluorescent dye into a well near Malad ______ to map hidden groundwater routes; la",
+      "answer": "Gorge",
+      "options": [
+        "Sooryavanshi",
+        "Gorge",
+        "Flagship",
+        "Procedures"
       ]
     }
   ]
