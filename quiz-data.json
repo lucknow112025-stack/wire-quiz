@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-09-02T21:00:45.498Z",
+  "generatedAt": "2026-09-02T23:17:58.374Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "Nepal flash floods aftermath LIVE: Death toll near 1,250 as more than 4,000 still missing",
+    "Nepal flash floods: Death toll crosses 1,200; over 4,000 remain missing a week after disaster",
     "Iran Says Attacked US Military Targets In UAE, Kuwait",
-    "Operation Sindoor commander Air Marshal Jeetendra Mishra selected as Ram temple Trust’s first CEO",
-    "Will consider Bihar’s concerns before Ganga treaty renewal, says Jaishankar",
-    "‘What if we’re not seen as Indians?’: Flagged by BJP, villagers in Jharkhand worry",
-    "Saudi Arabia says Iran attacked vessel in Hormuz, killing two sailors",
-    "Konda Surekha Gets Powerful Support Within Congress!",
-    "Alarming failure: India slams Pakistan over demolition of century-old Hindu temple",
-    "Avoid ‘unfamiliar, unusual’ fish from Nepal’s flood waters, Bihar govt. advisory cautions",
-    "Beginning of the end? More glacial lake outbursts threaten millions in India, Nepal and China",
     "Trump floats renaming Strait of Hormuz as 'Trump Strait'",
-    "Bank of America VP's killer posted about ‘stabbing others for no reason’ months before attack | Hindustan Times",
-    "New strategy will 'shatter your foundations', Iran’s top security official warns US",
-    "India on board, SCO reiterates condemnation of Iran attacks",
+    "'Alarming apathy': India lambasts Pakistan over demolition of century-old Punjab temple | India News",
+    "Rejig after theft: Air commander in Operation Sindoor named Ram temple CEO",
+    "Will consider Bihar’s concerns before Ganga treaty renewal, says Jaishankar",
+    "Dilapidated Rajasthan school building razed after CJP campaign",
+    "Konda Surekha Gets Powerful Support Within Congress!",
+    "Mystery fish in Bihar floodwaters after Nepal floods? Why experts urge caution",
+    "'Glaring Discrepancies In Police Investigation, More Questions Than Answers': Bombay High Court While...",
+    "‘Direct hit’: China dealt blow as US-backed firm takes over Venezuelan oilfields",
+    "SCO declaration: Double standards in fight against terrorism unacceptable",
+    "Two tankers carrying Saudi oil attacked in Strait of Hormuz",
+    "Earth Set To Overshoot Paris Agreement's 1.5 Degree Threshold Of Warming: UN",
     "India draws a bumper $136 billion in forex inflows, bolstering rupee defence",
-    "Ex-Chief Economic Adviser Backs GDP Data, Calls Methodology \"Cutting-Edge\"",
-    "Gold gains as suspected Yen intervention shakes currency markets",
+    "‘Why were last year’s GDP figures revised down?’ Congress cites ex-finance secretary Subhash Garg",
+    "‘A’ rating back after 35 years, recognition of India's deep structural reforms: NK Singh",
     "Stock Market Crash: Sensex Sides, Nifty Below 24,000 — Three Reasons Why Dalal Street Is Under Pressure",
-    "New Android Drop adds remembered items in Find Hub, makes anti-nausea dots official",
+    "Google announces September Android drop, here are all the new features - GSMArena.com news",
     "The Samsung Galaxy Z Fold 8 Ultra Doesn’t Disappoint and Neither Does This $300 Discount",
+    "Poco F9 Ultra and F9 Pro launched with 185Hz displays and 200MP cameras",
     "Samsung Updates Free Upgrade List With Millions More Galaxy Phones",
-    "Vivo T5 Specs, Price & Launch Date: 2 September 2026",
-    "Toxic Hindi Box Office Day 7: Surpasses Salman Khan's Sikandar & 5 More Bollywood Biggies",
-    "Vijay Deverakonda On Rashmika Mandanna's Mysaa: \"She'll Make Her Fans Proud\"",
-    "'Cry If You Want To': Kareena Kapoor On Raising Sons Taimur And Jeh"
+    "Toxic Box Office: Nayanthara's Film Becomes 2nd Highest Grosser Of Her Career, Surpasses Mana Shankara Vara Prasad Garu",
+    "'Cry If You Want To': Kareena Kapoor On Raising Sons Taimur And Jeh",
+    "Hanuman Ansh box office collection day 26: Neem Karoli Baba movie beats Yash’s Toxic, earns Rs 63.82 cr"
   ],
   "quiz": [
     {
-      "blanked": "'Cry If ______ Want To': Kareena Kapoor On Raising Sons Taimur And Jeh",
-      "answer": "You",
+      "blanked": "Samsung Updates Free Upgrade ______ With Millions More Galaxy Phones",
+      "answer": "List",
       "options": [
-        "Economic",
-        "Disappoint",
-        "Solar",
-        "You"
+        "Barriers",
+        "Champions",
+        "US-backed",
+        "List"
       ]
     },
     {
-      "blanked": "Konda Surekha Gets Powerful ______ Within Congress!",
-      "answer": "Support",
+      "blanked": "The Samsung Galaxy Z ______ 8 Ultra Doesn’t Disappoint and Neither Does This $300 Discount",
+      "answer": "Fold",
       "options": [
-        "Sri",
-        "Support",
-        "ICC",
-        "Biggies"
+        "Fold",
+        "Discount",
+        "Android",
+        "Trump"
       ]
     },
     {
-      "blanked": "Will consider Bihar’s concerns before ______ treaty renewal, says Jaishankar",
-      "answer": "Ganga",
+      "blanked": "SpaceX sends $4.3 billion Roman ______ Telescope to look for 'weird, rare, unusual’ stars and planets; lea",
+      "answer": "Space",
       "options": [
-        "Pakistan",
-        "1250",
-        "4.3",
-        "Ganga"
+        "Space",
+        "Indian",
+        "UAE",
+        "Events"
       ]
     },
     {
-      "blanked": "The Samsung Galaxy Z Fold 8 Ultra ______ Disappoint and Neither Does This $300 Discount",
-      "answer": "Doesnt",
+      "blanked": "Rejig after theft: Air commander in Operation Sindoor named ______ temple CEO",
+      "answer": "Ram",
       "options": [
-        "Doesnt",
-        "SCO",
-        "350",
-        "Drop"
+        "Free",
+        "Sindoor",
+        "Ram",
+        "Trump"
       ]
     },
     {
-      "blanked": "Beginning of the end? More glacial lake outbursts threaten millions in India, ______ and China",
-      "answer": "Nepal",
+      "blanked": "Nepal flash floods: Death toll crosses ______ over 4,000 remain missing a week after disaster",
+      "answer": "1200",
       "options": [
-        "Price",
-        "Exactly",
-        "Nepal",
+        "Discount",
+        "1200",
+        "Hours",
+        "Degree"
+      ]
+    },
+    {
+      "blanked": "Recent results, Rohit’s future on the table as ______ cricket’s top brass set to meet",
+      "answer": "Indian",
+      "options": [
+        "Ganga",
+        "Mana",
+        "Indian",
+        "Phones"
+      ]
+    },
+    {
+      "blanked": "Toxic Box Office: Nayanthara's Film Becomes 2nd Highest Grosser Of Her Career, Surpasses Mana Shankara Vara Prasad ______",
+      "answer": "Garu",
+      "options": [
+        "Use",
+        "Garu",
+        "Degree",
+        "Trophy"
+      ]
+    },
+    {
+      "blanked": "Poco F9 ______ and F9 Pro launched with 185Hz displays and 200MP cameras",
+      "answer": "Ultra",
+      "options": [
+        "Air",
+        "Punjab",
+        "Ultra",
+        "Telescope"
+      ]
+    },
+    {
+      "blanked": "Higher vitamin B12 levels in parents before conception may lower risk of birth defect: ______",
+      "answer": "Study",
+      "options": [
+        "Ultra",
+        "Punjab",
+        "Bhaskars",
         "Study"
       ]
     },
     {
-      "blanked": "Astronomers directly detect a faint signal from the early ______",
-      "answer": "Universe",
+      "blanked": "The Diamond Moon and Other Astronomical Events to See in ______ 2026",
+      "answer": "September",
       "options": [
-        "Universe",
-        "Sen",
-        "Sikandar",
-        "They"
+        "Colorectal",
+        "September",
+        "Equipment",
+        "2026"
       ]
     },
     {
-      "blanked": "India Sees Growing ______ of Fatty Liver and Colorectal Cancer",
-      "answer": "Cases",
+      "blanked": "Study Identifies Barriers to Outdoor ______ Equipment Use in CHD",
+      "answer": "Fitness",
       "options": [
-        "Moon",
-        "Yen",
-        "350",
-        "Cases"
+        "Jeh",
+        "Fitness",
+        "Priyanka",
+        "Sons"
       ]
     },
     {
-      "blanked": "Operation Sindoor commander Air Marshal Jeetendra Mishra selected as Ram temple Trust’s first ______",
-      "answer": "CEO",
+      "blanked": "Lewandowski talks Julian ______ Barcelona Champions League hopes after summer exit: 'One of the favourites'",
+      "answer": "Alvarez",
       "options": [
-        "Lai",
-        "CEO",
-        "Free",
-        "Pakistan"
-      ]
-    },
-    {
-      "blanked": "India draws a bumper ______ billion in forex inflows, bolstering rupee defence",
-      "answer": "136",
-      "options": [
-        "136",
-        "Khans",
-        "Sees",
-        "Lanka"
-      ]
-    },
-    {
-      "blanked": "China ______ 2026 badminton: Lakshya Sen loses to Victor Lai to crash out in first round",
-      "answer": "Masters",
-      "options": [
-        "Masters",
-        "Bollywood",
-        "Exactly",
-        "Millions"
-      ]
-    },
-    {
-      "blanked": "India to host inaugural ICC ______ Champions Trophy after shift from Sri Lanka; Check teams, dates and v",
-      "answer": "Womens",
-      "options": [
-        "Womens",
-        "Street",
-        "Hours",
-        "Powerful"
-      ]
-    },
-    {
-      "blanked": "Distinct Antibody Profiles ______ to Cancer in Systemic Sclerosis",
-      "answer": "Linked",
-      "options": [
-        "Kapoor",
-        "Study",
-        "Doesnt",
-        "Linked"
+        "High",
+        "Karoli",
+        "Alvarez",
+        "Space"
       ]
     }
   ]
