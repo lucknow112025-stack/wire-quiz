@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-09-02T10:23:01.787Z",
+  "generatedAt": "2026-09-02T14:35:52.821Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "More than 110 rescued a week after Nepal deadly floods, army says",
-    "Iran says US bombed a wedding party in Sirik, killing five people",
-    "Disha Salian Death: Bombay High Court Orders CBI Probe; Says No One To Be Treated As Accused Without...",
-    "BREAKING| Supreme Court Issues Directions For Faster Election Of New Bar Council Of India Members; Asks...",
-    "Ram Mandir CEO Decision Today: From Encounter Specialist To Ex-Ayodhya DM, Meet Top 3 Contenders",
+    "'Compensation, Not Charity': Nepal Wants India, China, US To 'Pay' For Floods",
+    "Iran, US exchange new attacks: Who was hit in latest strikes?",
+    "Air Marshal (retd.) Jeetendra Mishra appointed first CEO of Ram Temple trust",
+    "As climate change warms the Himalayas, disasters like the Nepal floods are becoming more frequent",
+    "'Glaring Discrepancies In Police Investigation, More Questions Than Answers': Bombay High Court While...",
+    "'You Don't Continue To Be Democratically Elected, Only A Pro Tem Chairman Of BCI' : Supreme Court To...",
+    "How Delhi teacher plotted uncle’s house robbery, murder with gym trainer and student",
+    "Thar Collides With Congress Leader's SUV In Jaipur, Then Rams E-Rickshaw",
+    "Maharashtra family welcomes baby girl after 200 years, brings her home in chariot",
+    "Andhra Student Dies After Taking Anti-Malaria Tablet, Over 50 Hospitalised",
     "Times Square stabbing: Bank of America VP Erin Piacenti among victims",
-    "FSSAI chief roots for Tukaram Mundhe, says food safety is not punishment posting",
-    "She Was With Vice Principal For 2 Hours Before Death: Faridabad Girl's Father",
-    "CM Vijay announces to drop cases against farmers, teachers during DMK regime",
-    "Class II girl dies, 41 in hospital after taking chloroquine tablet at AP school",
-    "India's largest drugmaker Sun Pharma inks deal with US govt to supply cheaper medicines to Americans | India News",
-    "Canada makes it expensive for new international students; leaves fewer options for Punjabis",
-    "Zelenskyy warns 'safe days in Russian skies are over'",
-    "Project ‘C430L’: How Russia secretly helped Iran develop supersonic cruise missiles",
-    "Indian shares decline as oil prices surge on US-Iran strikes",
-    "India’s Growth Beat Suggests Economy on Cusp of Investment Boom",
-    "Subhash Chandra tells NCLAT he was vilified over ₹6.5 crore plan; opposes 5-member NCLT bench formation",
-    "Bigger market crash ahead? Analysts weigh how Sensex, Nifty may react if US 10-year bond yield touches 5%",
-    "Sonos unveils new headphones, soundbar and brand new audio operating system",
-    "Where's AI headed? Media theorists from 60 years ago give us some clues from the TV revolution",
-    "Poco F9 Pro and F9 Ultra launch with 185Hz panels, 8 Elite Gen 5 chips, and huge batteries",
-    "Fluorescence-Based Monitoring of Reaction Conversion in Self-Healing Diels–Alder Networks",
-    "'Toxic' box office collections day 7: Yash starrer records 7.2% growth; Nayanthara, Kiara Advani, Tara Su",
-    "Hanuman Ansh, tiny ₹2 crore film with no stars, beats Yash's ₹500 crore Toxic at the box office in shock upset | Bollywood",
-    "\"Celebrating You Today\": On Pawan Kalyan's 55th Birthday, Wife Anna Konidela Shares A Loving Post"
+    "Cargo ship sinks after collision off Turkiye’s Istanbul, 10 crew missing",
+    "US, China arm for space warfare: hunter satellites and orbital weapons",
+    "Egypt welcomes Xi as Beijing expands influence in Middle East",
+    "‘Why were last year’s GDP figures revised down?’ Congress cites ex-finance secretary Subhash Garg",
+    "FCNR(B) inflows cross $100 billion, far exceed RBI’s $80-billion estimate: Report",
+    "Asian markets tumble as US-Iran fighting lifts oil and bond yields",
+    "Uber to cut 10% of global workforce, 3,300 jobs in major restructuring: Report",
+    "HUAWEI WATCH D3 Makes Early Debut at ESC Congress 2026: A New Era in Wrist-Based Blood Pressure Management | Corporate",
+    "vivo T5 5G unveiled: Dimensity 7500 Turbo SoC, 144Hz curved display, and 7,050 mAh battery - GSMArena.com news",
+    "CERN is exploring how India can be part of its future: Director-General",
+    "Xiaomi's Poco F9 Ultra and F9 Pro launched with 185Hz displays and 200MP cameras",
+    "Musafir Cafe Fame Vedika Pinto's Next Is A Psychological Thriller With Lakshya",
+    "Clip Of BTS Jungkook’s Post-Concert Birthday Party Goes Viral",
+    "Pawan Kalyan turns 55; PM Narendra Modi calls him ‘widely respected’; actor's wife Anna Konidala shares s"
   ],
   "quiz": [
     {
-      "blanked": "More than 110 rescued a week after ______ deadly floods, army says",
-      "answer": "Nepal",
+      "blanked": "'You Don't Continue To Be ______ Elected, Only A Pro Tem Chairman Of BCI' : Supreme Court To...",
+      "answer": "Democratically",
       "options": [
-        "Boom",
-        "Gen",
-        "Sun",
-        "Nepal"
+        "Rates",
+        "South",
+        "Venus",
+        "Democratically"
       ]
     },
     {
-      "blanked": "Project ‘C430L’: ______ Russia secretly helped Iran develop supersonic cruise missiles",
-      "answer": "How",
+      "blanked": "‘Why were last year’s GDP figures revised down?’ Congress cites ex-finance secretary Subhash ______",
+      "answer": "Garg",
       "options": [
-        "How",
-        "Orders",
-        "Toxic",
-        "America"
+        "Dethrones",
+        "Democratically",
+        "Thriller",
+        "Garg"
       ]
     },
     {
-      "blanked": "Where's AI headed? ______ theorists from 60 years ago give us some clues from the TV revolution",
-      "answer": "Media",
+      "blanked": "Cancer Mortality Trends Reveal Record 70% Survival and ______ Rates",
+      "answer": "Care",
       "options": [
-        "Media",
-        "Gen",
-        "Birthday",
-        "Tara"
+        "India",
+        "Court",
+        "Discrepancies",
+        "Care"
       ]
     },
     {
-      "blanked": "Pakistan cricket chaos: PCB seeks answers over Mohammad ______ Imam-ul-Haq picks as Misbah-ul-Haq quits",
-      "answer": "Rizwan",
+      "blanked": "Pawan Kalyan turns 55; PM Narendra ______ calls him ‘widely respected’; actor's wife Anna Konidala shares s",
+      "answer": "Modi",
       "options": [
-        "Canada",
-        "Rizwan",
-        "Cusp",
-        "NCLT"
+        "Bank",
+        "Corporate",
+        "Modi",
+        "Collides"
       ]
     },
     {
-      "blanked": "Zelenskyy warns 'safe days in ______ skies are over'",
-      "answer": "Russian",
+      "blanked": "See Venus Blaze, ______ Vanish And A ‘Harvest Moon’ Rise: September’s Night Sky",
+      "answer": "Jupiter",
       "options": [
-        "Mortality",
-        "Father",
-        "Russian",
-        "Meet"
+        "Jupiter",
+        "Rise",
+        "Mishra",
+        "South"
       ]
     },
     {
-      "blanked": "Fluorescence-Based Monitoring of Reaction Conversion in ______ Diels–Alder Networks",
-      "answer": "Self-Healing",
+      "blanked": "CERN is exploring how India can be part of its future: ______",
+      "answer": "Director-General",
       "options": [
-        "Kiara",
-        "Self-Healing",
-        "Interactive",
-        "City"
+        "Floods",
+        "Corporate",
+        "Director-General",
+        "Police"
       ]
     },
     {
-      "blanked": "Indian shares decline as oil prices surge on ______ strikes",
-      "answer": "US-Iran",
-      "options": [
-        "Interactive",
-        "US-Iran",
-        "Investment",
-        "Mohammad"
-      ]
-    },
-    {
-      "blanked": "Türkiye joins ______ Artemis Accords",
-      "answer": "NASA-led",
+      "blanked": "HUAWEI WATCH D3 Makes Early Debut at ______ Congress 2026: A New Era in Wrist-Based Blood Pressure Management | Corporate",
+      "answer": "ESC",
       "options": [
         "Reveal",
-        "Yash",
-        "NASA-led",
-        "Artemis"
+        "SoC",
+        "Era",
+        "ESC"
       ]
     },
     {
-      "blanked": "FSSAI chief roots for Tukaram ______ says food safety is not punishment posting",
-      "answer": "Mundhe",
+      "blanked": "The ______ Cs of Integrated Tuberculosis-Diabetes Modules: A Competency-Based Medical Education Framework",
+      "answer": "Three",
       "options": [
-        "Risk",
-        "Lionel",
-        "Mundhe",
-        "Infection"
+        "Three",
+        "SUV",
+        "Sports",
+        "BCI"
       ]
     },
     {
-      "blanked": "'Toxic' box office collections day 7: Yash starrer records 7.2% growth; Nayanthara, ______ Advani, Tara Su",
-      "answer": "Kiara",
+      "blanked": "Pakistan cricket chaos: ______ seeks answers over Mohammad Rizwan, Imam-ul-Haq picks as Misbah-ul-Haq quits",
+      "answer": "PCB",
       "options": [
-        "Kiara",
-        "Toxic",
-        "CEO",
-        "Investment"
+        "Court",
+        "Kalyan",
+        "US-Iran",
+        "PCB"
       ]
     },
     {
-      "blanked": "Ram Mandir CEO Decision ______ From Encounter Specialist To Ex-Ayodhya DM, Meet Top 3 Contenders",
-      "answer": "Today",
+      "blanked": "The Nancy Grace Roman Space ______",
+      "answer": "Telescope",
       "options": [
-        "Today",
-        "Ultra",
-        "Sirik",
-        "Reveal"
+        "Cafe",
+        "Telescope",
+        "Inshorts",
+        "Not"
       ]
     },
     {
-      "blanked": "Fernandez transfers to ______ City from Chelsea in joint British record fee",
-      "answer": "Man",
+      "blanked": "FCNR(B) inflows cross $100 billion, far exceed RBI’s $80-billion estimate: ______",
+      "answer": "Report",
       "options": [
-        "Chandra",
-        "Man",
-        "CEO",
-        "Mortality"
+        "Report",
+        "Who",
+        "Harvest",
+        "China"
+      ]
+    },
+    {
+      "blanked": "Box Office: Hanuman Ansh Creates History With 2435% ______ – Dethrones Most Profitable Devotional Film Of Hindi Cinema After 18,722 Days!",
+      "answer": "Profit",
+      "options": [
+        "Elected",
+        "Profit",
+        "Piacenti",
+        "Temple"
       ]
     }
   ]
