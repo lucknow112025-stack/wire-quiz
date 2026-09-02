@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-09-02T01:10:46.671Z",
+  "generatedAt": "2026-09-02T05:48:09.518Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "Photos show a family in Nepal bid farewell, as other flood victims are buried in unmarked graves",
-    "US launches new strikes on Iran as Tehran hits back in widening conflict",
-    "PM Modi's Strong Comment On Terror At SCO, With Shehbaz Sharif In Attendance",
-    "Withdrawing September 5 Protest : CJP Leader Saurav Das Tells Supreme Court As Centre Acts To Withdraw...",
-    "‘Worthless Piece Of Water’: Trump Aide Says Strait Of Hormuz Will Be Bypassed In 2 Years",
-    "Headlines on a Climate Deadline: International media falters in linking Nepal flood to climate crisis",
-    "‘Curtains drawn over govt failures’: Rahul Gandhi slams Centre, Delhi-UP govts over bus gang rape",
-    "Indians Can Now Visit Uzbekistan Visa-Free For 30 Days. Here's What To Explore",
-    "Heavy to extremely heavy rainfall warning issued for several states, list released | To read the entire bulletin issued by IMD | Inshorts",
-    "‘Don’t eat, buy or sell fish caught in Nepal floodwaters': Bihar warns citizens | India News",
-    "Firms including Chevron, ONGC, GE Vernova on track to sign final pacts in Venezuela, sources say",
-    "Israeli strikes on Gaza kill at least five, including children",
-    "US army secretary Dan Driscoll steps down amid tensions with Pentagon chief Hegseth: Report",
-    "Woman randomly stabs 2 people in New York City’s Times Square, shot by police",
-    "Private sector steps up as India's growth engine broadens",
+    "More than 110 rescued a week after Nepal deadly floods, army says",
+    "U.S. strikes Iran and Tehran fires back as hostilities flare again",
+    "UN Secretary General Antonio Guterres to participate in BRICS Summit in India",
+    "Exclusive: Return to Bangladesh not about power but to stand by people, says ex-PM Sheikh Hasina | India News",
+    "Pak takes SCO chair, PM Modi slams use of terror as strategic asset",
+    "'Stop doing memes': Canada's Mark Carney hits back at US as trade fight intensifies",
+    "Working Panic Buttons, No Curtains: Delhi Tightens Bus Rules After Minor's Gang-Rape",
+    "Bihar MP speaks to Fadnavis in Marathi, aids Maha pilgrims in language of love",
+    "Who Is Shakti Sharma? First Woman Air Vice Marshal To Lead IAF Education",
+    "Three candidates shortlisted for Ram Janmabhoomi Trust’s first CEO",
+    "Bank Of America Vice President, New Mom, Killed In \"Random\" Times Square Stabbing",
+    "Trump says US has almost full Hormuz control, asks Iranian people to rise up",
+    "Bessent says Strait of Hormuz could become ‘worthless’ within 2 years as US signals more Iran...",
+    "After over 200 days at sea, U.S. aircraft carrier arrives in Thailand",
+    "Stock Market Close: Sensex extends losses to 2nd day; Nifty settles at 24,056 - business-standard.com",
     "Tim Cook steps down as CEO of Apple, John Ternus takes over - GSMArena.com news",
-    "NCLT Delhi 5-Member Bench Stays Approval Of Subhash Chandra ₹6.25 Crore Repayment Plan",
     "U.S.-Iran Strikes Put $100 Oil Back in Focus",
-    "Sonos Unveils New Headphones, Soundbar and Major Push Into AI",
-    "The team behind Galaxy Z8's My FanCam explains how the feature works and what inspired it - GSMArena.com news",
-    "Poco F9 Ultra and F9 Pro launched with 185Hz displays and 200MP cameras",
-    "Martin Sorrell sees AI’s biggest disruption in media, not creative",
-    "Yash-starrer ‘Toxic’ tumbles at box office on first Monday, mints less than Rs 10 crore",
-    "Haiwaan Box Office Day 1: Akshay Kumar & Saif Ali Khan Need This Much Opening Collection To Enter Top 3 Crime Thriller Openers Post-COVID!",
-    "WWE Raw Results 8/31 - Women's Intercontinental Championship On The Line & More"
+    "U.S. futures muted as markets parse rate jitters, more Iran strikes",
+    "Sonos Ace Ultra launches with better sound and Wi-Fi at lower price",
+    "Where is AI headed? Two media theorists from the 1960s can help us figure it out",
+    "POCO F9 Ultra: The Ultimate Gaming Smartphone Unveiled",
+    "Unboxing Galaxy Z Fold8: Welcome the Immersive Viewing Experience with the Lightest Fold",
+    "Reliance’s JioHotstar takes its streaming empire global — without sports",
+    "'Toxic' box office collection Day 7: Yash, Kiara Advani, Nayanthara, Tara Sutaria film wraps up Week 1 by",
+    "\"Pure Cinematic Magic\": Madhur Bhandarkar Reviews Hanuman Ansh, Calls It A 'Case Study' For Bollywood"
   ],
   "quiz": [
     {
-      "blanked": "Tim ______ steps down as CEO of Apple, John Ternus takes over - GSMArena.com news",
-      "answer": "Cook",
+      "blanked": "Where is AI headed? ______ media theorists from the 1960s can help us figure it out",
+      "answer": "Two",
       "options": [
-        "Cook",
-        "Das",
-        "Driscoll",
-        "Needs"
-      ]
-    },
-    {
-      "blanked": "Fact or Fiction: Prostate Cancer: Diagnosis and Workup - Medscape Reference: Drugs, Diseases & ______ Procedures",
-      "answer": "Medical",
-      "options": [
-        "Medical",
-        "Camera",
-        "Ultra",
-        "Monday"
-      ]
-    },
-    {
-      "blanked": "Yash-starrer ‘Toxic’ tumbles at box office on first ______ mints less than Rs 10 crore",
-      "answer": "Monday",
-      "options": [
-        "Heres",
-        "Otherwise",
-        "Monday",
-        "Nepal"
-      ]
-    },
-    {
-      "blanked": "Why the ______ Economy Needs ‘Solar System Boundaries’",
-      "answer": "Space",
-      "options": [
-        "Space",
-        "September",
-        "Repayment",
-        "Galaxy"
-      ]
-    },
-    {
-      "blanked": "Israeli strikes on ______ kill at least five, including children",
-      "answer": "Gaza",
-      "options": [
-        "Gaza",
         "Apple",
-        "CEO",
-        "Push"
+        "Wi-Fi",
+        "Two",
+        "Need"
       ]
     },
     {
-      "blanked": "‘Worthless ______ Of Water’: Trump Aide Says Strait Of Hormuz Will Be Bypassed In 2 Years",
-      "answer": "Piece",
+      "blanked": "Pak takes SCO chair, PM ______ slams use of terror as strategic asset",
+      "answer": "Modi",
       "options": [
-        "Deadline",
-        "Piece",
-        "Strait",
-        "Much"
+        "Mom",
+        "Modi",
+        "City",
+        "Marshal"
       ]
     },
     {
-      "blanked": "Martin ______ sees AI’s biggest disruption in media, not creative",
-      "answer": "Sorrell",
+      "blanked": "Stock Market Close: Sensex extends losses to 2nd day; ______ settles at 24,056 - business-standard.com",
+      "answer": "Nifty",
       "options": [
-        "Space",
-        "Sorrell",
-        "Telescope",
-        "Sharif"
+        "General",
+        "Nifty",
+        "Orbit",
+        "Return"
       ]
     },
     {
-      "blanked": "U.S.-Iran Strikes Put $100 ______ Back in Focus",
-      "answer": "Oil",
+      "blanked": "ECG-CLIP improves heart disease detection using less labeled data - ______",
+      "answer": "News-Medical",
       "options": [
-        "Oil",
-        "Approval",
-        "Bench",
-        "Workup"
+        "News-Medical",
+        "Times",
+        "Mark",
+        "Tara"
       ]
     },
     {
-      "blanked": "Private sector steps up as ______ growth engine broadens",
-      "answer": "Indias",
+      "blanked": "Tim Cook steps down as CEO of ______ John Ternus takes over - GSMArena.com news",
+      "answer": "Apple",
       "options": [
-        "Keffe",
-        "1996",
-        "Deadline",
-        "Indias"
+        "Janmabhoomi",
+        "Apple",
+        "Experience",
+        "Nifty"
       ]
     },
     {
-      "blanked": "US launches new strikes on Iran as ______ hits back in widening conflict",
-      "answer": "Tehran",
+      "blanked": "Working Panic Buttons, No Curtains: Delhi Tightens Bus Rules After Minor's ______",
+      "answer": "Gang-Rape",
       "options": [
-        "Tehran",
-        "Ali",
-        "Shakur",
-        "September"
+        "110",
+        "Diseases",
+        "Smartphone",
+        "Gang-Rape"
       ]
     },
     {
-      "blanked": "‘We’re not lacking goals’ - Lamine Yamal gives verdict on Barcelona’s ______ Alvarez transfer saga",
-      "answer": "Julian",
+      "blanked": "Bihar MP speaks to Fadnavis in Marathi, aids ______ pilgrims in language of love",
+      "answer": "Maha",
       "options": [
-        "Prostate",
-        "Explore",
-        "Shehbaz",
-        "Julian"
+        "John",
+        "America",
+        "Maha",
+        "Two"
       ]
     },
     {
-      "blanked": "Firms including ______ ONGC, GE Vernova on track to sign final pacts in Venezuela, sources say",
-      "answer": "Chevron",
+      "blanked": "'Toxic' box office collection Day 7: ______ Kiara Advani, Nayanthara, Tara Sutaria film wraps up Week 1 by",
+      "answer": "Yash",
       "options": [
-        "Reference",
-        "Lamine",
-        "Camera",
-        "Chevron"
+        "Yash",
+        "Solar",
+        "Immersive",
+        "Case"
+      ]
+    },
+    {
+      "blanked": "GLP-1 Studies ______ Benefits Extend to Infectious Diseases",
+      "answer": "Suggest",
+      "options": [
+        "Suggest",
+        "Tara",
+        "Lightest",
+        "24056"
+      ]
+    },
+    {
+      "blanked": "Bank Of America Vice President, New Mom, Killed In ______ Times Square Stabbing",
+      "answer": "Random",
+      "options": [
+        "Ultimate",
+        "Sheikh",
+        "Random",
+        "Ali"
+      ]
+    },
+    {
+      "blanked": "Sonos Ace Ultra launches with better sound and ______ at lower price",
+      "answer": "Wi-Fi",
+      "options": [
+        "Wi-Fi",
+        "IAF",
+        "Canadas",
+        "Thailand"
+      ]
+    },
+    {
+      "blanked": "Low-dose hydrocortisone improves attention, learning in women with ______ trial finds",
+      "answer": "HIV",
+      "options": [
+        "2026",
+        "Nayanthara",
+        "HIV",
+        "IAF"
       ]
     }
   ]
