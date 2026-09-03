@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-09-03T14:59:08.188Z",
+  "generatedAt": "2026-09-03T18:25:19.961Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
     "India news: Jaishankar offers help to end war in Ukraine",
+    "Nepal flash floods aftermath LIVE: Death toll goes past 1,250 as PM Balendra Shah flags climate change link",
     "Bar Councils Have No Disciplinary Power Over Law Students; BCI Chairman's Directions Against NALSAR Bad...",
-    "Let’s both show our degrees: CJP’s Dipke to PM Modi",
-    "Rescue efforts continue as Nepal-China flood death toll surpasses 1,270",
+    "Central govt offices in Delhi to remain closed on September 11 for BRICS Summit | India News",
+    "'Let's both show our degrees': Abhijeet Dipke's open invite to PM Modi as row over his Boston education reignited | India News",
     "After 286 days at sea, U.S. aircraft carrier arrives in Thailand",
-    "After Google and Apple Maps change 'Lake Ontario' name to 'Lake America' for US users; one Map app has re",
-    "Telangana CM Revanth recommends Konda Surekha’s removal from Cabinet, Governor’s decision likely today",
-    "Supreme Court declines to entertain plea challenging curbs on journalists’, activists’ entry into U.P., Rajasthan schools",
-    "Trinamool Congress leader Abhishek Banerjee’s office ransacked in Kolkata; 6 arrested",
-    "With Rocket Model, ISRO Chief Prays At Tirumala Temple Ahead Of Crucial Launch",
-    "Iran, US exchange new attacks: Who was hit in latest strikes?",
-    "Putin cites chance of peace deal but says Ukrainian aviation warning makes it harder",
-    "In Nepal's Bharatpur, The River Is Still Giving Up Its Dead | Reporter's Diary",
+    "Belgium assures India of no defence cooperation with Pakistan; Rajnath Singh raises technology transfer concerns",
+    "First Nagendra, now Parks Bill rollback: Karnataka BJP claims '2 wins in 5 days', predicts Congress govt's exit in 2028",
+    "Direct Uttarakhand CM to ensure FIR filed against those involved in 'purification' incident: Mallikarjun Kharge to J P Nadda",
+    "Why Nepal floods should worry India",
+    "'You Will Fail To Escape Depths Of Hell': Iran Warns US Of New Strategy In War",
+    "Gloria Steinem dies at 92: The two years she spent in India before becoming a feminist icon changed how s",
     "Why El Niño can mean less rain but heavier downpours for India",
-    "Indian rupee hits 10-week closing high as RBI schemes draw hefty dollar inflows",
-    "WhatsApp launches bill payments in India to tap into country's UPI craze",
-    "Nvidia to buy Hugging Face for nearly $13 billion in big bet on open AI models",
-    "Stock Market Close: Sensex drops 417pts; Nifty settles at 23,873; pvt bank, realty shares outperform - business-standard.com",
-    "Google Launches Pics, a Canva-Style AI Editor Built Into Docs and Slides",
-    "Belkin introduces its first longer-lasting semi-solid-state power banks",
-    "Google Home update restores support for older Chromecast streamers, Home Mini",
-    "Apple iPhone 18 Pro alleged colours leaked online: Here’s what to expect",
-    "Mirzapur The Movie Box Office Day 1 Advance Booking: Already Earns 369% Higher With Pre-Sales Than Pankaj Tripathi's Last Theatrical Opening!",
-    "Samay Raina leaves Varun Dhawan speechless on India's Got Latent as he takes a dig at actor's trademark smile. Watch | Bollywood",
-    "'Toxic' box office collection Day 9 [LIVE]: Yash and Kiara Advani film manages to cross Rs 237 crore amid"
+    "Middle East live: Iran's army says it attacked US bases in Kuwait, UAE",
+    "‘Ill-educated, egregiously wrong’: World Bank ED Mishra on row over GDP data",
+    "SEBI to review derivative settlement-price methodology after CAS rollout, consultation paper in a week",
+    "Stock Market Close: Sensex drops 417pts; Nifty settles at 23,873; pvt bank, realty shares outperform",
+    "Tim Cook shares the letters that he has been reading every single day since past 15 years: Every morning",
+    "Upgrade paths: Should Pixel 9 owners upgrade to Pixel 11? [Video]",
+    "Circular’s new smart rings add contactless payments and vibrating alerts",
+    "TCL P80 Ultra brings OLED screen to Nxtpaper phones",
+    "The First Time My Code Was Merged into Open Source, I Felt Like I Belonged",
+    "‘Gandhari’ Movie Review: A Blinding Mess Posing As a Revenge Thriller",
+    "'Bollywood didn't support Hanuman Ansh,' says director Vishal Chaturvedi, show count came to 25: 'People",
+    "PM Narendra Modi pays tribute to Mahanayak Uttam Kumar on his birth centenary, calls him a versatile actor | Hindustan Times"
   ],
   "quiz": [
     {
-      "blanked": "Flavorings, colors and sweeteners emerge as ______ markers linked to depression risk - News-Medical",
-      "answer": "UPF",
+      "blanked": "Bar Councils Have No Disciplinary Power Over Law Students; BCI Chairman's Directions ______ NALSAR Bad...",
+      "answer": "Against",
       "options": [
-        "Swara",
-        "Rohits",
-        "UPF",
-        "Box"
+        "2027",
+        "Similar",
+        "East",
+        "Against"
       ]
     },
     {
-      "blanked": "India news: Jaishankar offers help to end war in ______",
-      "answer": "Ukraine",
+      "blanked": "Middle East live: ______ army says it attacked US bases in Kuwait, UAE",
+      "answer": "Irans",
       "options": [
-        "Map",
-        "Ukraine",
-        "Species",
-        "Still"
+        "East",
+        "Semi-Finals",
+        "Irans",
+        "Narendra"
       ]
     },
     {
-      "blanked": "Recent results, ______ future on the table as Indian cricket’s top brass set to meet",
-      "answer": "Rohits",
+      "blanked": "First Nagendra, now Parks Bill rollback: Karnataka BJP claims '2 wins in 5 days', predicts Congress govt's exit in ______",
+      "answer": "2028",
       "options": [
-        "Face",
-        "Most",
-        "Rohits",
-        "Built"
+        "Revenge",
+        "2028",
+        "Video",
+        "150"
       ]
     },
     {
-      "blanked": "Let’s both show our degrees: CJP’s Dipke to PM ______",
-      "answer": "Modi",
+      "blanked": "‘Gandhari’ ______ Review: A Blinding Mess Posing As a Revenge Thriller",
+      "answer": "Movie",
       "options": [
-        "Giving",
-        "Modi",
-        "Court",
-        "News-Medical"
+        "Movie",
+        "Chairmans",
+        "Nifty",
+        "Bill"
       ]
     },
     {
-      "blanked": "Iran, US exchange new attacks: ______ was hit in latest strikes?",
-      "answer": "Who",
-      "options": [
-        "Maps",
-        "Tripathis",
-        "Close",
-        "Who"
-      ]
-    },
-    {
-      "blanked": "Moon, ______ Venus set to dazzle September sky",
-      "answer": "Jupiter",
-      "options": [
-        "Disciplinary",
-        "Jupiter",
-        "Advance",
-        "Apple"
-      ]
-    },
-    {
-      "blanked": "'Toxic' box office collection Day 9 ______ Yash and Kiara Advani film manages to cross Rs 237 crore amid",
+      "blanked": "Nepal flash floods aftermath ______ Death toll goes past 1,250 as PM Balendra Shah flags climate change link",
       "answer": "LIVE",
       "options": [
-        "LIVE",
-        "369%",
-        "Ahead",
-        "Face"
+        "Outcomes",
+        "Iran",
+        "Chairmans",
+        "LIVE"
       ]
     },
     {
-      "blanked": "Too painful for fantasy, too perfect for fiction: The story of ______ Messi and Argentina",
-      "answer": "Lionel",
+      "blanked": "PM ______ Modi pays tribute to Mahanayak Uttam Kumar on his birth centenary, calls him a versatile actor | Hindustan Times",
+      "answer": "Narendra",
       "options": [
-        "Modi",
-        "Already",
-        "Lionel",
-        "Indian"
+        "Steinem",
+        "Revenge",
+        "Narendra",
+        "Strategy"
       ]
     },
     {
-      "blanked": "'You guys are like a joke': Aryna Sabalenka fires back at reporter on 'party' talk in tense US ______ press",
-      "answer": "Open",
+      "blanked": "The First Time My Code Was Merged into Open ______ I Felt Like I Belonged",
+      "answer": "Source",
       "options": [
-        "CJPs",
-        "Gambhirs",
-        "Students",
-        "Open"
+        "Chairmans",
+        "Nxtpaper",
+        "4.3",
+        "Source"
       ]
     },
     {
-      "blanked": "Google ______ Pics, a Canva-Style AI Editor Built Into Docs and Slides",
-      "answer": "Launches",
+      "blanked": "Belgium assures India of no defence cooperation with ______ Rajnath Singh raises technology transfer concerns",
+      "answer": "Pakistan",
       "options": [
-        "Swara",
-        "Team",
-        "Launches",
-        "Who"
+        "Pakistan",
+        "Nio",
+        "Power",
+        "Hanuman"
       ]
     },
     {
-      "blanked": "Apple iPhone 18 ______ alleged colours leaked online: Here’s what to expect",
-      "answer": "Pro",
+      "blanked": "Upgrade paths: Should Pixel 9 owners upgrade to ______ 11? [Video]",
+      "answer": "Pixel",
       "options": [
-        "Pro",
-        "Reporters",
-        "Directions",
-        "Konda"
+        "Hell",
+        "NALSAR",
+        "Pixel",
+        "Market"
       ]
     },
     {
-      "blanked": "After Google and ______ Maps change 'Lake Ontario' name to 'Lake America' for US users; one Map app has re",
-      "answer": "Apple",
+      "blanked": "Meet Ho-Yeung ______ the student who accidentally discovered a new sea slug smaller than a grain of rice",
+      "answer": "Chan",
       "options": [
-        "Apple",
-        "Pro",
-        "Telescope",
-        "Last"
+        "Chan",
+        "East",
+        "Kumar",
+        "Yet"
+      ]
+    },
+    {
+      "blanked": "‘Toxic’: Will ______ gamble again?",
+      "answer": "Yash",
+      "options": [
+        "Ultra",
+        "Abhijeet",
+        "Yash",
+        "Nadda"
+      ]
+    },
+    {
+      "blanked": "‘Ill-educated, egregiously wrong’: World ______ ED Mishra on row over GDP data",
+      "answer": "Bank",
+      "options": [
+        "Kong",
+        "Pink",
+        "World",
+        "Bank"
       ]
     }
   ]
