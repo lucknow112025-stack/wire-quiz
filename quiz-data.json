@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-09-03T18:25:19.961Z",
+  "generatedAt": "2026-09-03T21:11:14.062Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "India news: Jaishankar offers help to end war in Ukraine",
-    "Nepal flash floods aftermath LIVE: Death toll goes past 1,250 as PM Balendra Shah flags climate change link",
-    "Bar Councils Have No Disciplinary Power Over Law Students; BCI Chairman's Directions Against NALSAR Bad...",
-    "Central govt offices in Delhi to remain closed on September 11 for BRICS Summit | India News",
-    "'Let's both show our degrees': Abhijeet Dipke's open invite to PM Modi as row over his Boston education reignited | India News",
+    "'Conflict will be solved by dialogue': India as US weighs sanctions on Russian oil buyers",
+    "Nepal Floods: Owner Of 'Green House' Shares Survival Story, Says \"We Got A Second Life\"",
+    "'This is GREAT': Trump lauds Syria 'pitching itself' as alternative to Strait of Hormuz amid Iran war | World News",
     "After 286 days at sea, U.S. aircraft carrier arrives in Thailand",
+    "Breaking: Konda Surekha Sacked from Telangana Cabinet",
+    "BRICS Summit 2026 In Delhi: Check Office Holiday, Traffic Restrictions, Security And Other Preparations",
     "Belgium assures India of no defence cooperation with Pakistan; Rajnath Singh raises technology transfer concerns",
-    "First Nagendra, now Parks Bill rollback: Karnataka BJP claims '2 wins in 5 days', predicts Congress govt's exit in 2028",
-    "Direct Uttarakhand CM to ensure FIR filed against those involved in 'purification' incident: Mallikarjun Kharge to J P Nadda",
+    "Karnataka Cabinet decides to withdraw controversial Parks Bill amid criticism",
+    "\"Not Mature\": Mayawati Pushes Nephew Akash Anand To The Margins Again. What It Means For BSP",
     "Why Nepal floods should worry India",
-    "'You Will Fail To Escape Depths Of Hell': Iran Warns US Of New Strategy In War",
-    "Gloria Steinem dies at 92: The two years she spent in India before becoming a feminist icon changed how s",
+    "West Asia war LIVE: Iran media says six navy personnel killed in U.S. attacks",
     "Why El Niño can mean less rain but heavier downpours for India",
-    "Middle East live: Iran's army says it attacked US bases in Kuwait, UAE",
-    "‘Ill-educated, egregiously wrong’: World Bank ED Mishra on row over GDP data",
-    "SEBI to review derivative settlement-price methodology after CAS rollout, consultation paper in a week",
-    "Stock Market Close: Sensex drops 417pts; Nifty settles at 23,873; pvt bank, realty shares outperform",
+    "US struck 60 targets as 40 vessels, 18mn barrels of oil crossed Hormuz in record day: Report",
+    "Estonian defense minister resigns after procurement scandal",
+    "India GDP: Q1 growth defies oil shock but data faces credibility questions",
     "Tim Cook shares the letters that he has been reading every single day since past 15 years: Every morning",
-    "Upgrade paths: Should Pixel 9 owners upgrade to Pixel 11? [Video]",
-    "Circular’s new smart rings add contactless payments and vibrating alerts",
-    "TCL P80 Ultra brings OLED screen to Nxtpaper phones",
+    "SEBI to review derivative settlement-price methodology after CAS rollout, consultation paper in a week",
+    "Absolutely no politics: Surjit Bhalla rejects claims of GDP data manipulation",
+    "Circular Ring 3 combines smart health tracking with NFC payments and haptic alerts",
+    "Pixel 11 Pro vs iPhone 17 Pro: All the differences explained",
+    "The TCL P80 Ultra debuts the first OLED-based NxtPaper display, the P80 Pro has it too - GSMArena.com news",
     "The First Time My Code Was Merged into Open Source, I Felt Like I Belonged",
-    "‘Gandhari’ Movie Review: A Blinding Mess Posing As a Revenge Thriller",
     "'Bollywood didn't support Hanuman Ansh,' says director Vishal Chaturvedi, show count came to 25: 'People",
+    "Traitors 2 Winner: Krystle D’Souza And Rida Tharana Lift Trophy, Beat Mallika Sherawat And Others",
     "PM Narendra Modi pays tribute to Mahanayak Uttam Kumar on his birth centenary, calls him a versatile actor | Hindustan Times"
   ],
   "quiz": [
     {
-      "blanked": "Bar Councils Have No Disciplinary Power Over Law Students; BCI Chairman's Directions ______ NALSAR Bad...",
-      "answer": "Against",
+      "blanked": "'Bollywood didn't support Hanuman Ansh,' says director Vishal Chaturvedi, show count came to 25: ______",
+      "answer": "People",
       "options": [
-        "2027",
-        "Similar",
-        "East",
-        "Against"
-      ]
-    },
-    {
-      "blanked": "Middle East live: ______ army says it attacked US bases in Kuwait, UAE",
-      "answer": "Irans",
-      "options": [
-        "East",
-        "Semi-Finals",
-        "Irans",
-        "Narendra"
-      ]
-    },
-    {
-      "blanked": "First Nagendra, now Parks Bill rollback: Karnataka BJP claims '2 wins in 5 days', predicts Congress govt's exit in ______",
-      "answer": "2028",
-      "options": [
-        "Revenge",
-        "2028",
-        "Video",
-        "150"
-      ]
-    },
-    {
-      "blanked": "‘Gandhari’ ______ Review: A Blinding Mess Posing As a Revenge Thriller",
-      "answer": "Movie",
-      "options": [
-        "Movie",
-        "Chairmans",
-        "Nifty",
-        "Bill"
-      ]
-    },
-    {
-      "blanked": "Nepal flash floods aftermath ______ Death toll goes past 1,250 as PM Balendra Shah flags climate change link",
-      "answer": "LIVE",
-      "options": [
-        "Outcomes",
-        "Iran",
-        "Chairmans",
-        "LIVE"
-      ]
-    },
-    {
-      "blanked": "PM ______ Modi pays tribute to Mahanayak Uttam Kumar on his birth centenary, calls him a versatile actor | Hindustan Times",
-      "answer": "Narendra",
-      "options": [
-        "Steinem",
-        "Revenge",
-        "Narendra",
-        "Strategy"
-      ]
-    },
-    {
-      "blanked": "The First Time My Code Was Merged into Open ______ I Felt Like I Belonged",
-      "answer": "Source",
-      "options": [
-        "Chairmans",
-        "Nxtpaper",
-        "4.3",
-        "Source"
-      ]
-    },
-    {
-      "blanked": "Belgium assures India of no defence cooperation with ______ Rajnath Singh raises technology transfer concerns",
-      "answer": "Pakistan",
-      "options": [
-        "Pakistan",
+        "People",
+        "BioDynamics",
         "Nio",
-        "Power",
-        "Hanuman"
+        "Devajit"
       ]
     },
     {
-      "blanked": "Upgrade paths: Should Pixel 9 owners upgrade to ______ 11? [Video]",
-      "answer": "Pixel",
+      "blanked": "'Conflict will be solved by dialogue': India as US weighs sanctions on ______ oil buyers",
+      "answer": "Russian",
       "options": [
-        "Hell",
-        "NALSAR",
-        "Pixel",
-        "Market"
+        "Hospital",
+        "First",
+        "GREAT",
+        "Russian"
       ]
     },
     {
-      "blanked": "Meet Ho-Yeung ______ the student who accidentally discovered a new sea slug smaller than a grain of rice",
-      "answer": "Chan",
+      "blanked": "Why are more young adults experiencing heart palpitations? Cardiologist explains when it may need attention | ______",
+      "answer": "Health",
       "options": [
-        "Chan",
-        "East",
-        "Kumar",
-        "Yet"
+        "Health",
+        "Brightest",
+        "Shares",
+        "Cabinet"
       ]
     },
     {
-      "blanked": "‘Toxic’: Will ______ gamble again?",
-      "answer": "Yash",
+      "blanked": "From Harvest Moon To Venus At Its Brightest: 6 Spectacular Celestial Events To Witness In ______",
+      "answer": "September",
       "options": [
-        "Ultra",
-        "Abhijeet",
-        "Yash",
-        "Nadda"
+        "September",
+        "Time",
+        "Bill",
+        "Open"
       ]
     },
     {
-      "blanked": "‘Ill-educated, egregiously wrong’: World ______ ED Mishra on row over GDP data",
-      "answer": "Bank",
+      "blanked": "Absolutely no politics: Surjit Bhalla rejects claims of ______ data manipulation",
+      "answer": "GDP",
       "options": [
-        "Kong",
-        "Pink",
-        "World",
-        "Bank"
+        "Iran",
+        "GDP",
+        "Victor",
+        "Ho-Yeung"
+      ]
+    },
+    {
+      "blanked": "Why Nepal floods should worry ______",
+      "answer": "India",
+      "options": [
+        "India",
+        "Events",
+        "Space",
+        "Devajit"
+      ]
+    },
+    {
+      "blanked": "Physicists Spot Curious ______ in Hunt for Elusive Dark Matter Particles",
+      "answer": "Signal",
+      "options": [
+        "Survival",
+        "Signal",
+        "Victor",
+        "Other"
+      ]
+    },
+    {
+      "blanked": "Antiseizure Drugs in Pregnancy ______ to Poor Fetal Growth",
+      "answer": "Linked",
+      "options": [
+        "Linked",
+        "Roman",
+        "Krystle",
+        "Green"
+      ]
+    },
+    {
+      "blanked": "Tim Cook shares the letters that he has been reading every single day since past 15 years: ______ morning",
+      "answer": "Every",
+      "options": [
+        "Every",
+        "Bill",
+        "Survival",
+        "Others"
+      ]
+    },
+    {
+      "blanked": "Karnataka ______ decides to withdraw controversial Parks Bill amid criticism",
+      "answer": "Cabinet",
+      "options": [
+        "Anand",
+        "Cabinet",
+        "Telangana",
+        "Office"
+      ]
+    },
+    {
+      "blanked": "BRICS Summit 2026 In Delhi: Check Office Holiday, Traffic Restrictions, Security And ______ Preparations",
+      "answer": "Other",
+      "options": [
+        "Open",
+        "Hospital",
+        "Other",
+        "Harvest"
+      ]
+    },
+    {
+      "blanked": "China Masters 2026 badminton: Kidambi ______ stuns Victor Lai to enter quarter-finals",
+      "answer": "Srikanth",
+      "options": [
+        "Mayawati",
+        "Times",
+        "Owner",
+        "Srikanth"
       ]
     }
   ]
