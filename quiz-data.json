@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-09-03T11:10:24.663Z",
+  "generatedAt": "2026-09-03T14:59:08.188Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "Nepal flash floods aftermath LIVE: Death toll goes past 1,250 as PM Balendra Shah flags climate change link",
-    "\"Bar Council's Order Against Law Students Legally Flawed\": Top Court In NALSAR Row",
-    "Belgian PM says wanted to bring chocolate replica of India Gate for PM Modi, explains why he couldn't",
-    "Yasin Malik decides to divorce Pakistani wife Mushaal, denies any role in Sarla Bhat killing, seeks capit",
-    "Tamil Nadu CM Vijay announces plan for new integrated Secretariat complex in Chennai",
-    "‘No record’: Podcaster’s claim reignites row over CJP founder’s BU degree; Dipke hits back with video",
-    "Breaking: Konda Surekha Sacked from Telangana Cabinet",
-    "Delhi court grants bail to AAP's Satyendar Jain in ACB case",
-    "FSSAI licence of iconic Hyderabad hotel Shadab suspended over food safety violations, management directed to stop operations",
-    "Why Nepal floods should worry India",
-    "Kuwait is Currently Responding to Missile and Drone Threats",
-    "Thailand raids Pattaya sex workers as USS Abraham Lincoln arrives with 5,000 sailors, Marines",
-    "‘Direct hit’: China dealt blow as US-backed firm takes over Venezuelan oilfields",
-    "Trump boasts about US surveillance on Iran; says ‘they can’t go to bathroom without us seeing it’",
-    "India's growth defies oil shock but data faces credibility questions",
-    "Financials lead Indian shares higher after recent decline",
-    "India rupee rally pauses as oil risks spur importer demand",
-    "Gold holds firm as USD hits one-week low, but bulls stay cautious",
-    "Anker's new speaker could be a dream for people who hate sleep trackers",
-    "Belkin SoundForm Play hHeadphones: Price, specs, where to buy",
-    "vivo X500’s camera specifications officially revealed - GSMArena.com news",
-    "iPhone 18 Pro leaks suggest photographers are finally getting the feature they've been waiting for",
-    "I'm Game Box Office Day 1 Advance: Dulquer Salmaan-Starrer Records 7th Biggest Pre-Sales In Kerala In 2026",
-    "Hanuman Ansh To Release Globally On September 11 After Storming Desi Box Office With Rs 61 Crore",
-    "Ranvir Shorey slams Swara Bhasker for her 'Padmaavat' comment: 'Comparing Jauhar to rape survivors? Where"
+    "India news: Jaishankar offers help to end war in Ukraine",
+    "Bar Councils Have No Disciplinary Power Over Law Students; BCI Chairman's Directions Against NALSAR Bad...",
+    "Let’s both show our degrees: CJP’s Dipke to PM Modi",
+    "Rescue efforts continue as Nepal-China flood death toll surpasses 1,270",
+    "After 286 days at sea, U.S. aircraft carrier arrives in Thailand",
+    "After Google and Apple Maps change 'Lake Ontario' name to 'Lake America' for US users; one Map app has re",
+    "Telangana CM Revanth recommends Konda Surekha’s removal from Cabinet, Governor’s decision likely today",
+    "Supreme Court declines to entertain plea challenging curbs on journalists’, activists’ entry into U.P., Rajasthan schools",
+    "Trinamool Congress leader Abhishek Banerjee’s office ransacked in Kolkata; 6 arrested",
+    "With Rocket Model, ISRO Chief Prays At Tirumala Temple Ahead Of Crucial Launch",
+    "Iran, US exchange new attacks: Who was hit in latest strikes?",
+    "Putin cites chance of peace deal but says Ukrainian aviation warning makes it harder",
+    "In Nepal's Bharatpur, The River Is Still Giving Up Its Dead | Reporter's Diary",
+    "Why El Niño can mean less rain but heavier downpours for India",
+    "Indian rupee hits 10-week closing high as RBI schemes draw hefty dollar inflows",
+    "WhatsApp launches bill payments in India to tap into country's UPI craze",
+    "Nvidia to buy Hugging Face for nearly $13 billion in big bet on open AI models",
+    "Stock Market Close: Sensex drops 417pts; Nifty settles at 23,873; pvt bank, realty shares outperform - business-standard.com",
+    "Google Launches Pics, a Canva-Style AI Editor Built Into Docs and Slides",
+    "Belkin introduces its first longer-lasting semi-solid-state power banks",
+    "Google Home update restores support for older Chromecast streamers, Home Mini",
+    "Apple iPhone 18 Pro alleged colours leaked online: Here’s what to expect",
+    "Mirzapur The Movie Box Office Day 1 Advance Booking: Already Earns 369% Higher With Pre-Sales Than Pankaj Tripathi's Last Theatrical Opening!",
+    "Samay Raina leaves Varun Dhawan speechless on India's Got Latent as he takes a dig at actor's trademark smile. Watch | Bollywood",
+    "'Toxic' box office collection Day 9 [LIVE]: Yash and Kiara Advani film manages to cross Rs 237 crore amid"
   ],
   "quiz": [
     {
-      "blanked": "Nepal flash floods aftermath LIVE: Death toll goes past 1,250 as PM Balendra ______ flags climate change link",
-      "answer": "Shah",
+      "blanked": "Flavorings, colors and sweeteners emerge as ______ markers linked to depression risk - News-Medical",
+      "answer": "UPF",
       "options": [
-        "Currently",
-        "Shah",
-        "Sabalenka",
-        "Falcons"
+        "Swara",
+        "Rohits",
+        "UPF",
+        "Box"
+      ]
+    },
+    {
+      "blanked": "India news: Jaishankar offers help to end war in ______",
+      "answer": "Ukraine",
+      "options": [
+        "Map",
+        "Ukraine",
+        "Species",
+        "Still"
       ]
     },
     {
       "blanked": "Recent results, ______ future on the table as Indian cricket’s top brass set to meet",
       "answer": "Rohits",
       "options": [
-        "Shadab",
+        "Face",
+        "Most",
         "Rohits",
-        "Study",
-        "Order"
+        "Built"
       ]
     },
     {
-      "blanked": "Yasin Malik decides to divorce Pakistani wife ______ denies any role in Sarla Bhat killing, seeks capit",
-      "answer": "Mushaal",
+      "blanked": "Let’s both show our degrees: CJP’s Dipke to PM ______",
+      "answer": "Modi",
       "options": [
-        "Jain",
-        "Pre-Sales",
-        "Mushaal",
-        "Top"
+        "Giving",
+        "Modi",
+        "Court",
+        "News-Medical"
       ]
     },
     {
-      "blanked": "\"Bar Council's Order ______ Law Students Legally Flawed\": Top Court In NALSAR Row",
-      "answer": "Against",
+      "blanked": "Iran, US exchange new attacks: ______ was hit in latest strikes?",
+      "answer": "Who",
       "options": [
-        "Jaime",
-        "Against",
-        "Iran",
-        "Threats"
+        "Maps",
+        "Tripathis",
+        "Close",
+        "Who"
       ]
     },
     {
-      "blanked": "Kareena Kapoor regrets leaving studies after Class 11: ______ my sons to finish education’",
-      "answer": "Want",
+      "blanked": "Moon, ______ Venus set to dazzle September sky",
+      "answer": "Jupiter",
       "options": [
-        "Shadab",
-        "Arthritis",
-        "Want",
-        "Roman"
+        "Disciplinary",
+        "Jupiter",
+        "Advance",
+        "Apple"
       ]
     },
     {
-      "blanked": "Breaking: Konda Surekha Sacked from Telangana ______",
-      "answer": "Cabinet",
+      "blanked": "'Toxic' box office collection Day 9 ______ Yash and Kiara Advani film manages to cross Rs 237 crore amid",
+      "answer": "LIVE",
       "options": [
-        "Want",
-        "Cabinet",
-        "Moon",
-        "Kerala"
+        "LIVE",
+        "369%",
+        "Ahead",
+        "Face"
       ]
     },
     {
-      "blanked": "Thailand raids Pattaya sex workers as USS ______ Lincoln arrives with 5,000 sailors, Marines",
-      "answer": "Abraham",
+      "blanked": "Too painful for fantasy, too perfect for fiction: The story of ______ Messi and Argentina",
+      "answer": "Lionel",
       "options": [
-        "ACB",
-        "Bhasker",
-        "5000",
-        "Abraham"
+        "Modi",
+        "Already",
+        "Lionel",
+        "Indian"
       ]
     },
     {
-      "blanked": "Why ______ floods should worry India",
-      "answer": "Nepal",
+      "blanked": "'You guys are like a joke': Aryna Sabalenka fires back at reporter on 'party' talk in tense US ______ press",
+      "answer": "Open",
       "options": [
-        "Nepal",
-        "ACB",
-        "Ebola",
-        "Currently"
+        "CJPs",
+        "Gambhirs",
+        "Students",
+        "Open"
       ]
     },
     {
-      "blanked": "iPhone 18 ______ leaks suggest photographers are finally getting the feature they've been waiting for",
+      "blanked": "Google ______ Pics, a Canva-Style AI Editor Built Into Docs and Slides",
+      "answer": "Launches",
+      "options": [
+        "Swara",
+        "Team",
+        "Launches",
+        "Who"
+      ]
+    },
+    {
+      "blanked": "Apple iPhone 18 ______ alleged colours leaked online: Here’s what to expect",
       "answer": "Pro",
       "options": [
         "Pro",
-        "Box",
-        "Hyderabad",
-        "Death"
+        "Reporters",
+        "Directions",
+        "Konda"
       ]
     },
     {
-      "blanked": "US Open Day 4 Men’s Predictions Including Carlos Alcaraz vs ______ Faria",
-      "answer": "Jaime",
+      "blanked": "After Google and ______ Maps change 'Lake Ontario' name to 'Lake America' for US users; one Map app has re",
+      "answer": "Apple",
       "options": [
-        "Jaime",
-        "Exactly",
-        "Rise",
-        "Surekha"
-      ]
-    },
-    {
-      "blanked": "Cornwall, Nawaz keep Falcons on top; ______ on the brink of elimination",
-      "answer": "TKR",
-      "options": [
-        "2026",
-        "Drone",
-        "TKR",
-        "Harvest"
-      ]
-    },
-    {
-      "blanked": "‘Direct hit’: ______ dealt blow as US-backed firm takes over Venezuelan oilfields",
-      "answer": "China",
-      "options": [
-        "TKR",
-        "Malik",
-        "China",
-        "Crore"
+        "Apple",
+        "Pro",
+        "Telescope",
+        "Last"
       ]
     }
   ]
