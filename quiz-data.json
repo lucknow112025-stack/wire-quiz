@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-09-04T19:52:02.432Z",
+  "generatedAt": "2026-09-04T22:00:15.516Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "'Swatantra Bhardwaj to be arrested within 72 hours': CJP protester and daughter of assault victim",
-    "Air India terminates Phuket-Delhi pilot after AAIB confirms ‘non-negative’ psychoactive substance test",
+    "Air India terminates Phuket-Delhi pilot after AAIB confirms ‘non-negative’ psychoactive substance test | India News",
+    "Delhi Police detains Swatantra Bharadwaj in Bulandshahr for assaulting CJP protester's father",
     "Nepal flood losses estimated at $2.56 billion, official says",
+    "Trump's Top Envoys To Hold Talks With Putin, Zelenskyy Over Weekend: Reports",
+    "‘Very distressing’: SC judge says ‘dismayed’ to see police personnel assault Jantar Mantar protesters | India News",
     "A strong El Nino is inevitable — history shows its effects will hit hardest in 2027 | Hindustan Times",
-    "Terrorist killed, AK rifle recovered during Budgam encounter: Army",
-    "Fact Check: Is Konda Surekha Leaving Congress?",
     "India news: ISRO launces first imaging satellite into orbit",
-    "How BJP Is Treating Local Elections In Rajasthan As A Diagnostic Test After CJP Jolt",
+    "India-Born US Citizen Added To FBI's Most Wanted List In Fraud Case",
     "RAKSHA: India’s 10-year blueprint for defence diplomacy and global strategic partnerships",
-    "IMD red alert in Delhi for heavy rain; severe waterlogging at IGI Airport | India News",
+    "BJP seeks NHRC probe into custodial torture of Sikh protester by Punjab Police",
     "'A rare moment of joy': Nepal tunnel rescues bring hope for more flood survivors",
     "US woman killed her 3 children, tried to die by suicide. Jury can’t agree why",
-    "US sanctions Turkish bank, two subsidiaries in latest pressure on Iran",
-    "After Months In Hormuz, USS Abraham Lincoln Limps Into Port Covered In Rust",
+    "Trump says US may hit Iran's Pickaxe Mountain soon",
+    "'Thank you, dear PM Modi': Meloni signals deepening India-Italy strategic embrace",
     "Dollar deposits push India's forex reserves to fresh record for week ended August 28",
-    "SEBI clears NSE IPO, observation letter issued; listing likely this month",
-    "Stock Market Close: Sensex snaps 4-day losing streak, jumps 363 pts; Nifty settles at 23,898",
+    "NSE IPO could be worth Rs 30,000 crore after Sebi gives green signal",
     "India’s June quarter GDP print is courting controversy. Here’s why",
-    "3 last-minute Apple iPhone 18 event rumors",
-    "High-quality video on Android is a storage hog, but the world's slimmest portable SSD could help",
-    "D-Robotics at IFA 2026: The Computing Platform Powering the Next Generation of Home Robots",
-    "Five key takeaways from Dell Technologies Forum 2026 in Mumbai",
+    "Tata Chemicals’ Kenya unit ordered to cease operation",
+    "iPhone Ultra, iPhone 18 Pro and 18 Pro Max prices leaked by Vodafone - here's the damage - GSMArena.com news",
+    "Noise enters open-ear audio market with Master Buds Open",
+    "iPhone 18 Pro Max launch: New design set to be thicker than iPhone 17 Pro Max; new camera feature and more...",
+    "Lexar Claims the World's Thinnest Portable SSD with the Muse at IFA 2026",
     "Early Box Office Trends: Mirzapur The Movie shows it Baahubal with Rs. 22 Cr plus first day in India",
-    "Hanuman Ansh box office day 28: Neem Karoli Baba film earns Rs 86 cr, earns 3x of Toxic",
-    "'Toxic' box office collection Day 10 [LIVE]: Yash, Nayanthara, Kiara Advani film crosses Rs 240 crore Ind"
+    "Hanuman Ansh Director Recalls Initial 'Derogatory' OTT Rejection Of The Film",
+    "Bigg Boss 20 house Photos Unveiled: Shark-themed pool, mystery of the new addition of Room 20 and a hot-air balloon shaped cosy seating space"
   ],
   "quiz": [
     {
-      "blanked": "Air India terminates Phuket-Delhi pilot after ______ confirms ‘non-negative’ psychoactive substance test",
-      "answer": "AAIB",
+      "blanked": "A night in a container: How Indian athletes are preparing for unusual ______ Games",
+      "answer": "Asian",
       "options": [
-        "Amitabh",
-        "AAIB",
-        "Heres",
-        "Platform"
-      ]
-    },
-    {
-      "blanked": "RAKSHA: ______ 10-year blueprint for defence diplomacy and global strategic partnerships",
-      "answer": "Indias",
-      "options": [
-        "Limps",
-        "Treating",
-        "Indias",
-        "Bachchan"
-      ]
-    },
-    {
-      "blanked": "Early ______ Office Trends: Mirzapur The Movie shows it Baahubal with Rs. 22 Cr plus first day in India",
-      "answer": "Box",
-      "options": [
-        "Android",
-        "Box",
-        "GDP",
-        "Kapoor"
-      ]
-    },
-    {
-      "blanked": "'Toxic' box office collection Day 10 [LIVE]: ______ Nayanthara, Kiara Advani film crosses Rs 240 crore Ind",
-      "answer": "Yash",
-      "options": [
-        "Advani",
-        "Yash",
-        "Mumbai",
-        "USS"
-      ]
-    },
-    {
-      "blanked": "US sanctions ______ bank, two subsidiaries in latest pressure on Iran",
-      "answer": "Turkish",
-      "options": [
-        "Turkish",
-        "Into",
         "Asian",
-        "Kiara"
+        "Talks",
+        "Messiii",
+        "Ray"
       ]
     },
     {
-      "blanked": "Five key takeaways from Dell Technologies ______ 2026 in Mumbai",
-      "answer": "Forum",
+      "blanked": "A strong El Nino is inevitable — history shows its effects will hit hardest in 2027 | Hindustan ______",
+      "answer": "Times",
       "options": [
-        "Delhi",
-        "Telescope",
-        "Forum",
-        "Rejected"
+        "Argentina",
+        "Hindustan",
+        "Times",
+        "Bharadwaj"
       ]
     },
     {
-      "blanked": "3 last-minute ______ iPhone 18 event rumors",
-      "answer": "Apple",
+      "blanked": "‘Very distressing’: SC judge says ‘dismayed’ to see police personnel assault Jantar ______ protesters | India News",
+      "answer": "Mantar",
       "options": [
-        "Apple",
-        "ISRO",
-        "240",
-        "Delhi"
+        "Case",
+        "Pro",
+        "Can",
+        "Mantar"
       ]
     },
     {
-      "blanked": "A night in a container: ______ Indian athletes are preparing for unusual Asian Games",
-      "answer": "How",
+      "blanked": "Meet Lilah ______ the Connecticut high-school student who entered a Yale lab at 16 and is already a co-au",
+      "answer": "Mehta",
       "options": [
-        "Surekha",
-        "How",
-        "Bachchan",
-        "Covered"
+        "Movie",
+        "Mehta",
+        "Help",
+        "SSD"
       ]
     },
     {
       "blanked": "India’s June quarter GDP print is courting controversy. ______ why",
       "answer": "Heres",
       "options": [
-        "Budgam",
-        "USS",
-        "Kapoor",
-        "Heres"
+        "Jantar",
+        "You",
+        "Heres",
+        "Office"
       ]
     },
     {
-      "blanked": "High-quality video on ______ is a storage hog, but the world's slimmest portable SSD could help",
-      "answer": "Android",
+      "blanked": "Dollar deposits push India's forex reserves to fresh record for week ended ______ 28",
+      "answer": "August",
       "options": [
-        "Games",
-        "Android",
-        "Abraham",
-        "Asian"
+        "Pro",
+        "GDP",
+        "Weekend",
+        "August"
       ]
     },
     {
-      "blanked": "'Swatantra ______ to be arrested within 72 hours': CJP protester and daughter of assault victim",
-      "answer": "Bhardwaj",
+      "blanked": "iPhone 18 Pro ______ launch: New design set to be thicker than iPhone 17 Pro Max; new camera feature and more...",
+      "answer": "Max",
       "options": [
-        "Bhardwaj",
-        "Rohit",
-        "Pseudomonas",
-        "Movie"
+        "Sano",
+        "Max",
+        "Connecticut",
+        "Nepal"
       ]
     },
     {
-      "blanked": "Nepal flood losses estimated at ______ billion, official says",
-      "answer": "2.56",
+      "blanked": "iPhone Ultra, iPhone 18 Pro and 18 ______ Max prices leaked by Vodafone - here's the damage - GSMArena.com news",
+      "answer": "Pro",
       "options": [
-        "2.56",
-        "Konda",
-        "363",
-        "Treating"
+        "India-Italy",
+        "More",
+        "Pro",
+        "FBIs"
+      ]
+    },
+    {
+      "blanked": "India-Born US Citizen Added To ______ Most Wanted List In Fraud Case",
+      "answer": "FBIs",
+      "options": [
+        "Talks",
+        "Pro",
+        "Added",
+        "FBIs"
+      ]
+    },
+    {
+      "blanked": "'Thank you, dear PM Modi': Meloni signals deepening ______ strategic embrace",
+      "answer": "India-Italy",
+      "options": [
+        "India-Italy",
+        "Space",
+        "GDP",
+        "IFA"
+      ]
+    },
+    {
+      "blanked": "Delhi Police detains Swatantra Bharadwaj in ______ for assaulting CJP protester's father",
+      "answer": "Bulandshahr",
+      "options": [
+        "Health",
+        "Trends",
+        "Bulandshahr",
+        "30000"
+      ]
+    },
+    {
+      "blanked": "Physicists Spot Curious Signal in ______ for Elusive Dark Matter Particles",
+      "answer": "Hunt",
+      "options": [
+        "Hunt",
+        "Argentina",
+        "June",
+        "Open"
       ]
     }
   ]
