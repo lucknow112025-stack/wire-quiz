@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-09-04T01:07:40.859Z",
+  "generatedAt": "2026-09-04T05:51:43.617Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "ISRO successfully launches Earth observation satellite EOS-05",
+    "Two people rescued from Nepal hydropower tunnel more than a week after flash flood",
+    "ISRO Successfully Launches GSLV F17 Rocket Carrying Imaging Satellite EOS-05",
+    "Vance says Iran conflict is not a war, declines to offer timeline for end",
     "EAM Jaishankar says India 'ready to help' end Russia-Ukraine war | India News",
-    "Breaking: Konda Surekha Sacked from Telangana Cabinet",
-    "BRICS Summit 2026 In Delhi: Check Office Holiday, Traffic Restrictions, Security And Other Preparations",
-    "Nepal Floods: Owner Of 'Green House' Shares Survival Story, Says \"We Got A Second Life\"",
-    "What is Khagantak-243? All about India’s indigenous 140+ km range glide bomb tested by IAF",
-    "Karnataka Cabinet decides to withdraw controversial Parks Bill amid criticism",
-    "Why Ram Temple Trust chose a military veteran as its first CEO & who are its 3 new members",
-    "Catastrophic floods warn Nepal of more disasters to come",
+    "Estonia minister quits amid scandal over Rs 769-crore arms deal with Indian firm",
+    "Deadly strike on Iranian wedding was likely a direct hit by a US munition, analysis shows",
+    "IndiGo Plane Hits Pole During Parking Process At Srinagar Airport",
+    "First Nagendra, now Parks Bill rollback: Karnataka BJP claims '2 wins in 5 days', predicts Congress govt's exit in 2028",
+    "After US backlash, UK MP defends RSS chief's London visit: ‘Pleased to listen to his thoughts and ideas’ | India News",
     "Don’t share any sensitive tech with Pak, Rajnath asks Belgian minister; both countries ink 10 defence pac",
-    "West Asia war LIVE: Iran media says six navy personnel killed in U.S. attacks",
-    "US VP Vance: We're not talking to Iran unless they stop shooting at ships",
-    "'Iran's Islamic Republic Could Soon Fall': Netanyahu As US Resumes Strikes",
-    "Why El Niño can mean less rain but heavier downpours for India",
+    "‘Habibi, come to Iran’: Tehran mocks Uncle Sam with Minesweeper game post over Strait of Hormuz",
+    "Feminist Icon Gloria Steinem Dies At 92",
+    "El Nino: A phenomenon supercharged by climate change",
+    "Oil investors need democratic Venezuela for stability, opposition leader says",
+    "Nifty 50, Sensex prediction today: Check how Indian stock market is expected to trade on 4 September",
+    "Adobe Names Anil Chakravarthy as Chief Executive Amid AI Transformation",
     "India GDP: Q1 growth defies oil shock but data faces credibility questions",
-    "Absolutely no politics: Surjit Bhalla rejects claims of GDP data manipulation",
-    "SEBI to review derivative settlement-price methodology after CAS rollout, consultation paper in a week",
-    "Indian rupee hits 10-week closing high as RBI schemes draw hefty dollar inflows",
-    "Google Pixel 11 review: Better performance, capable cameras but not a major upgrade",
+    "Flood of dollar deposits drives India bank liquidity surplus to all-time peak",
     "Engineering a Soft Shield: A Self-Healing Hydrogel for Impact Protection",
+    "Apple’s first foldable iPhone Ultra price leaked ahead of expected September launch",
     "Dell brings AI deeper into the workplace with new Pro-series laptops, Precision workstations and collaboration hardware | Technology News\n(HT Tech)",
-    "Apple iPhone 18 Pro Release Date Schedule: Your Complete September Countdown",
-    "‘Gandhari’ Movie Review: A Blinding Mess Posing As a Revenge Thriller",
-    "PM Narendra Modi pays tribute to Mahanayak Uttam Kumar on his birth centenary, calls him a versatile actor | Hindustan Times",
-    "Traitors 2 Winner: Krystle D’Souza And Rida Tharana Lift Trophy, Beat Mallika Sherawat And Others"
+    "Google’s September Android Update Is Here: 5 New Features to Know",
+    "Mirzapur Advance Booking Box Office: Ali Fazal, Pankaj Tripathi, Divyenndu starrer set for Rs. 20 crore plus first day",
+    "'Hanuman Ansh' box office collections day 28: Vishal Chaturvedi film jumps 41.9%; India net reaches Rs 72",
+    "‘Gandhari’ Movie Review: A Blinding Mess Posing As a Revenge Thriller"
   ],
   "quiz": [
     {
-      "blanked": "Why Ram Temple ______ chose a military veteran as its first CEO & who are its 3 new members",
-      "answer": "Trust",
+      "blanked": "Mirzapur Advance Booking Box Office: ______ Fazal, Pankaj Tripathi, Divyenndu starrer set for Rs. 20 crore plus first day",
+      "answer": "Ali",
       "options": [
-        "Nepal",
-        "Second",
-        "Precision",
-        "Trust"
-      ]
-    },
-    {
-      "blanked": "BCCI’s big plan for Vaibhav Sooryavanshi: ‘Serve like ______ Tendulkar, not be a one-year wonder’",
-      "answer": "Sachin",
-      "options": [
-        "140",
-        "Sachin",
-        "Hydrogel",
-        "Resumes"
-      ]
-    },
-    {
-      "blanked": "Karnataka ______ decides to withdraw controversial Parks Bill amid criticism",
-      "answer": "Cabinet",
-      "options": [
-        "Signal",
-        "Cabinet",
-        "Pixel",
-        "Curious"
-      ]
-    },
-    {
-      "blanked": "'Iran's Islamic Republic Could ______ Fall': Netanyahu As US Resumes Strikes",
-      "answer": "Soon",
-      "options": [
-        "Precision",
-        "Soon",
-        "Jaishankar",
-        "Restrictions"
-      ]
-    },
-    {
-      "blanked": "BRICS Summit 2026 In Delhi: Check Office Holiday, Traffic Restrictions, Security And Other ______",
-      "answer": "Preparations",
-      "options": [
-        "Preparations",
-        "Elusive",
-        "LIVE",
-        "Cardiologist"
-      ]
-    },
-    {
-      "blanked": "‘The Scope Of Physiotherapy Is Wide’: Dr. ______ Laxkar On Rehabilitation, Technology And Patient Care",
-      "answer": "Ayush",
-      "options": [
-        "Beat",
-        "Ayush",
-        "News",
-        "Open"
+        "Chief",
+        "Ali",
+        "Check",
+        "News"
       ]
     },
     {
       "blanked": "EAM Jaishankar says India 'ready to help' end ______ war | India News",
       "answer": "Russia-Ukraine",
       "options": [
-        "Could",
-        "Jaishankar",
-        "Signal",
+        "Pankaj",
+        "Big",
+        "Minesweeper",
         "Russia-Ukraine"
       ]
     },
     {
-      "blanked": "Catastrophic floods warn ______ of more disasters to come",
-      "answer": "Nepal",
+      "blanked": "Adobe Names ______ Chakravarthy as Chief Executive Amid AI Transformation",
+      "answer": "Anil",
       "options": [
-        "Nepal",
-        "Hindustan",
-        "Hydrogel",
-        "Tendulkar"
+        "Blinding",
+        "Anil",
+        "William",
+        "Rainas"
       ]
     },
     {
-      "blanked": "Wong, ______ star as England cruise to 2-0 series win in Derby",
-      "answer": "Bouchier",
+      "blanked": "After US backlash, UK MP defends ______ chief's London visit: ‘Pleased to listen to his thoughts and ideas’ | India News",
+      "answer": "RSS",
       "options": [
-        "Mallika",
-        "Sherawat",
-        "Bouchier",
-        "Tripathi"
+        "Features",
+        "Plane",
+        "Metabolic",
+        "RSS"
       ]
     },
     {
-      "blanked": "India ______ Q1 growth defies oil shock but data faces credibility questions",
-      "answer": "GDP",
+      "blanked": "Oil investors need democratic ______ for stability, opposition leader says",
+      "answer": "Venezuela",
       "options": [
-        "GDP",
-        "Fact",
+        "Africa",
+        "Venezuela",
+        "South",
+        "News"
+      ]
+    },
+    {
+      "blanked": "First Nagendra, now Parks ______ rollback: Karnataka BJP claims '2 wins in 5 days', predicts Congress govt's exit in 2028",
+      "answer": "Bill",
+      "options": [
+        "Bill",
+        "Here",
+        "Gills",
+        "Metabolic"
+      ]
+    },
+    {
+      "blanked": "Google’s September Android ______ Is Here: 5 New Features to Know",
+      "answer": "Update",
+      "options": [
+        "Mess",
+        "Bill",
+        "Review",
+        "Update"
+      ]
+    },
+    {
+      "blanked": "Flood of dollar deposits drives ______ bank liquidity surplus to all-time peak",
+      "answer": "India",
+      "options": [
+        "Android",
+        "India",
+        "Side",
+        "Minesweeper"
+      ]
+    },
+    {
+      "blanked": "‘Habibi, come to ______ Tehran mocks Uncle Sam with Minesweeper game post over Strait of Hormuz",
+      "answer": "Iran",
+      "options": [
+        "2028",
+        "Iran",
+        "Transformation",
+        "Mess"
+      ]
+    },
+    {
+      "blanked": "Apple’s first foldable iPhone Ultra price leaked ahead of expected ______ launch",
+      "answer": "September",
+      "options": [
         "September",
-        "All"
+        "Shubman",
+        "Power",
+        "Review"
       ]
     },
     {
-      "blanked": "Apple iPhone 18 Pro Release Date ______ Your Complete September Countdown",
-      "answer": "Schedule",
+      "blanked": "Nifty 50, Sensex prediction today: Check how Indian stock market is expected to trade on 4 ______",
+      "answer": "September",
       "options": [
-        "Belgian",
-        "Schedule",
-        "Nio",
-        "RBI"
+        "Advance",
+        "World",
+        "Africa",
+        "September"
       ]
     },
     {
-      "blanked": "Don’t share any sensitive tech with Pak, ______ asks Belgian minister; both countries ink 10 defence pac",
-      "answer": "Rajnath",
+      "blanked": "Archana ______ Singh's son Aaryamann Sethi responds to Samay Raina's ‘nalle bete’ joke, says he didn't want to hurt me | Bollywood",
+      "answer": "Puran",
       "options": [
-        "DSouza",
-        "Check",
-        "Rajnath",
-        "Ali"
+        "Office",
+        "Big",
+        "Puran",
+        "Asia"
       ]
     }
   ]
