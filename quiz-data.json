@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-09-03T23:16:06.350Z",
+  "generatedAt": "2026-09-04T01:07:40.859Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
+    "ISRO successfully launches Earth observation satellite EOS-05",
     "EAM Jaishankar says India 'ready to help' end Russia-Ukraine war | India News",
-    "ISRO's GSLV F17 Rocket, Carrying Imaging Satellite EOS 5, Lifts Off",
     "Breaking: Konda Surekha Sacked from Telangana Cabinet",
-    "Syria Floats Plan To Bypass Strait Of Hormuz Amid Iran War, Trump Says 'This Is Great'",
+    "BRICS Summit 2026 In Delhi: Check Office Holiday, Traffic Restrictions, Security And Other Preparations",
     "Nepal Floods: Owner Of 'Green House' Shares Survival Story, Says \"We Got A Second Life\"",
     "What is Khagantak-243? All about India’s indigenous 140+ km range glide bomb tested by IAF",
-    "Why Ram Temple Trust chose a military veteran as its first CEO & who are its 3 new members",
     "Karnataka Cabinet decides to withdraw controversial Parks Bill amid criticism",
-    "Why Nepal floods should worry India",
-    "Direct Uttarakhand CM to ensure FIR filed against those involved in 'purification' incident: Mallikarjun Kharge to J P Nadda",
+    "Why Ram Temple Trust chose a military veteran as its first CEO & who are its 3 new members",
+    "Catastrophic floods warn Nepal of more disasters to come",
+    "Don’t share any sensitive tech with Pak, Rajnath asks Belgian minister; both countries ink 10 defence pac",
     "West Asia war LIVE: Iran media says six navy personnel killed in U.S. attacks",
+    "US VP Vance: We're not talking to Iran unless they stop shooting at ships",
+    "'Iran's Islamic Republic Could Soon Fall': Netanyahu As US Resumes Strikes",
     "Why El Niño can mean less rain but heavier downpours for India",
-    "Oil investors need democratic Venezuela for stability, opposition leader says",
-    "SCO slams attacks, sanctions on Iran: Key takeaways from Bishkek summit",
     "India GDP: Q1 growth defies oil shock but data faces credibility questions",
+    "Absolutely no politics: Surjit Bhalla rejects claims of GDP data manipulation",
     "SEBI to review derivative settlement-price methodology after CAS rollout, consultation paper in a week",
-    "Tim Cook shares the letters that he has been reading every single day since past 15 years: Every morning",
     "Indian rupee hits 10-week closing high as RBI schemes draw hefty dollar inflows",
     "Google Pixel 11 review: Better performance, capable cameras but not a major upgrade",
-    "The Circular Ring 3 is back with blood pressure and ECG features to rival your smartwatch",
-    "Anker put a display on the case of its new sleepbuds",
+    "Engineering a Soft Shield: A Self-Healing Hydrogel for Impact Protection",
     "Dell brings AI deeper into the workplace with new Pro-series laptops, Precision workstations and collaboration hardware | Technology News\n(HT Tech)",
-    "'Bollywood didn't support Hanuman Ansh,' says director Vishal Chaturvedi, show count came to 25: 'People",
+    "Apple iPhone 18 Pro Release Date Schedule: Your Complete September Countdown",
     "‘Gandhari’ Movie Review: A Blinding Mess Posing As a Revenge Thriller",
-    "PM Narendra Modi pays tribute to Mahanayak Uttam Kumar on his birth centenary, calls him a versatile actor | Hindustan Times"
+    "PM Narendra Modi pays tribute to Mahanayak Uttam Kumar on his birth centenary, calls him a versatile actor | Hindustan Times",
+    "Traitors 2 Winner: Krystle D’Souza And Rida Tharana Lift Trophy, Beat Mallika Sherawat And Others"
   ],
   "quiz": [
     {
-      "blanked": "Why are more young adults experiencing heart palpitations? Cardiologist explains when it may need attention | ______",
-      "answer": "Health",
+      "blanked": "Why Ram Temple ______ chose a military veteran as its first CEO & who are its 3 new members",
+      "answer": "Trust",
       "options": [
-        "Health",
-        "Rehabilitation",
-        "GSLV",
-        "Every"
+        "Nepal",
+        "Second",
+        "Precision",
+        "Trust"
       ]
     },
     {
-      "blanked": "Indian rupee hits 10-week closing high as ______ schemes draw hefty dollar inflows",
-      "answer": "RBI",
+      "blanked": "BCCI’s big plan for Vaibhav Sooryavanshi: ‘Serve like ______ Tendulkar, not be a one-year wonder’",
+      "answer": "Sachin",
       "options": [
-        "Ayush",
-        "Hanuman",
-        "RBI",
-        "Circular"
+        "140",
+        "Sachin",
+        "Hydrogel",
+        "Resumes"
       ]
     },
     {
-      "blanked": "‘What more do you want?’: ______ secretary Devajit Saikia’s blunt message on Rohit Sharma amid 2027 World C",
-      "answer": "BCCI",
+      "blanked": "Karnataka ______ decides to withdraw controversial Parks Bill amid criticism",
+      "answer": "Cabinet",
       "options": [
-        "Times",
-        "Sooryavanshi",
-        "BCCI",
+        "Signal",
+        "Cabinet",
+        "Pixel",
         "Curious"
       ]
     },
     {
-      "blanked": "Why El ______ can mean less rain but heavier downpours for India",
-      "answer": "Nio",
+      "blanked": "'Iran's Islamic Republic Could ______ Fall': Netanyahu As US Resumes Strikes",
+      "answer": "Soon",
       "options": [
-        "Second",
-        "Sabalenka",
-        "Nio",
-        "Thriller"
+        "Precision",
+        "Soon",
+        "Jaishankar",
+        "Restrictions"
       ]
     },
     {
-      "blanked": "'Bollywood didn't support Hanuman Ansh,' says director Vishal Chaturvedi, show count came to 25: ______",
-      "answer": "People",
+      "blanked": "BRICS Summit 2026 In Delhi: Check Office Holiday, Traffic Restrictions, Security And Other ______",
+      "answer": "Preparations",
       "options": [
-        "Mallika",
-        "Got",
-        "People",
+        "Preparations",
+        "Elusive",
+        "LIVE",
+        "Cardiologist"
+      ]
+    },
+    {
+      "blanked": "‘The Scope Of Physiotherapy Is Wide’: Dr. ______ Laxkar On Rehabilitation, Technology And Patient Care",
+      "answer": "Ayush",
+      "options": [
+        "Beat",
+        "Ayush",
+        "News",
+        "Open"
+      ]
+    },
+    {
+      "blanked": "EAM Jaishankar says India 'ready to help' end ______ war | India News",
+      "answer": "Russia-Ukraine",
+      "options": [
+        "Could",
+        "Jaishankar",
+        "Signal",
         "Russia-Ukraine"
       ]
     },
     {
-      "blanked": "EAM Jaishankar says ______ 'ready to help' end Russia-Ukraine war | India News",
-      "answer": "India",
+      "blanked": "Catastrophic floods warn ______ of more disasters to come",
+      "answer": "Nepal",
       "options": [
-        "Physiotherapy",
-        "Every",
-        "India",
-        "Blinding"
+        "Nepal",
+        "Hindustan",
+        "Hydrogel",
+        "Tendulkar"
       ]
     },
     {
-      "blanked": "The Circular ______ 3 is back with blood pressure and ECG features to rival your smartwatch",
-      "answer": "Ring",
+      "blanked": "Wong, ______ star as England cruise to 2-0 series win in Derby",
+      "answer": "Bouchier",
       "options": [
-        "Trust",
-        "Sharma",
-        "Telangana",
-        "Ring"
-      ]
-    },
-    {
-      "blanked": "Mandhana's record ton powers ______ into semi-finals",
-      "answer": "India",
-      "options": [
-        "Pixel",
-        "Beat",
-        "India",
-        "Chan"
-      ]
-    },
-    {
-      "blanked": "Oil investors need democratic ______ for stability, opposition leader says",
-      "answer": "Venezuela",
-      "options": [
-        "Winner",
-        "Telescope",
-        "Venezuela",
-        "Key"
-      ]
-    },
-    {
-      "blanked": "SEBI to review derivative settlement-price methodology after ______ rollout, consultation paper in a week",
-      "answer": "CAS",
-      "options": [
-        "Uttarakhand",
-        "CAS",
-        "Plan",
-        "Ho-Yeung"
+        "Mallika",
+        "Sherawat",
+        "Bouchier",
+        "Tripathi"
       ]
     },
     {
       "blanked": "India ______ Q1 growth defies oil shock but data faces credibility questions",
       "answer": "GDP",
       "options": [
-        "Kharge",
-        "Cardiologist",
         "GDP",
-        "Ring"
+        "Fact",
+        "September",
+        "All"
       ]
     },
     {
-      "blanked": "Tim Cook shares the letters that he has been reading every single day since past 15 years: ______ morning",
-      "answer": "Every",
+      "blanked": "Apple iPhone 18 Pro Release Date ______ Your Complete September Countdown",
+      "answer": "Schedule",
       "options": [
-        "FIR",
-        "Every",
-        "Owner",
-        "Pro-series"
+        "Belgian",
+        "Schedule",
+        "Nio",
+        "RBI"
+      ]
+    },
+    {
+      "blanked": "Don’t share any sensitive tech with Pak, ______ asks Belgian minister; both countries ink 10 defence pac",
+      "answer": "Rajnath",
+      "options": [
+        "DSouza",
+        "Check",
+        "Rajnath",
+        "Ali"
       ]
     }
   ]
