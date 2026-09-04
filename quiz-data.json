@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-09-04T14:26:52.477Z",
+  "generatedAt": "2026-09-04T17:42:04.673Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
+    "'Shared history': India, Belgium and the forgotten World War 1 soldiers of Flanders Fields",
+    "Nepal announces relief package for flood-hit businesses, plans settlement relocation | LIVE",
     "Phuket Flight Pilot Who Failed Drug Test Sacked By Air India",
-    "How engineers in a WhatsApp group are guiding Nepal's tunnel rescue efforts",
-    "Jantar Mantar assault row: CJP says Delhi Police has assured arrest of Swatantra Bharadwaj in 72 hours",
-    "Sonia Gandhi's memoir ‘Belonging’ to be published by HarperCollins on Nov 10 | India News",
-    "IMD red alert in Delhi for heavy rain; severe waterlogging at IGI Airport | India News",
-    "India warned us: Belgian PM on Europe's rude awakening amid Chinese dumping",
-    "Isro’s GSLV-F17 successfully places EOS-05 Earth observation satellite in geosynchronous orbit",
-    "Terrorist Killed In J&K's Budgam During Joint Operation By Army, Police",
-    "3-Year-Old Girl Allegedly Raped Inside School Van In Navi Mumbai, Driver Arrested",
-    "BJP accuses Punjab Govt of running ‘graft syndicate’; smear campaign, says AAP",
-    "El Nino: A phenomenon supercharged by climate change",
-    "Rust, 286 days at sea and ‘shocked observers’: USS Abraham Lincoln’s before and after images",
-    "Vance says Iran conflict is ‘not a war’, declines to offer timeline for end",
-    "Namal, former Sri Lankan President Rajapaksa’s son, arrested over Airbus deal",
-    "National Stock Exchange Ipo: NSE IPO could be worth Rs 30,000 crore after Sebi gives green signal",
+    "'Swatantra Bhardwaj to be arrested within 72 hours': CJP protester and daughter of assault victim",
+    "Fact Check: Is Konda Surekha Leaving Congress?",
+    "Video: Waterlogging At Delhi International Airport After Heavy Rain",
+    "India news: ISRO launces first imaging satellite into orbit",
+    "Terrorist killed, AK rifle recovered during Budgam encounter: Army",
+    "RAKSHA: India’s 10-year blueprint for defence diplomacy and global strategic partnerships",
+    "40 kg expired chillies seized, Bengaluru club kitchen shut after food safety raid",
+    "After Months In Hormuz, USS Abraham Lincoln Limps Into Port Covered In Rust",
+    "US envoys headed to Russia and Ukraine to relaunch mediation",
+    "Nepal flood losses estimated at $2.56 billion, official says",
+    "Lindsay Clancy trial ends without a verdict for a sixth day after drama in the courtroom | Health",
+    "Dollar deposits push India's forex reserves to fresh record for week ended August 28",
+    "NSE IPO could be worth Rs 30,000 crore after Sebi gives green signal",
     "India’s June quarter GDP print is courting controversy. Here’s why",
-    "Indian shares post weekly losses as elevated crude keeps sentiment subdued",
-    "Adobe names Indian-origin executive Anil Chakravarthy as next CEO, succeeding Shantanu Narayen",
-    "IFA Berlin 2026 Live: The Biggest Announcements From Samsung, Dyson, LG and More",
-    "Alienware 32 4K OLED & 25 560Hz Monitors: Specs, price, release date",
-    "Fujifilm Bolsters Its XF Telephoto Lens Line with a 400mm f/4.5",
-    "Dell launches AI-ready Pro laptops and Precision workstations in India",
+    "Stock Market Close: Sensex snaps 4-day losing streak, jumps 363 pts; Nifty settles at 23,898",
+    "RayNeo Showcases Next-Generation Cinematic AR and AI Smart Glasses at IFA 2026 with Dolby and Bang & Olufsen",
+    "Lexar Claims the World's Thinnest Portable SSD with the Muse at IFA 2026",
+    "In age of AI, robots move into heart of home",
+    "Sonos 27 OS announced with AI integration, redesigned app and new audio devices; Sonos Play to launch in...",
     "Mirzapur Advance Booking Box Office: Ali Fazal, Pankaj Tripathi, Divyenndu starrer set for Rs. 20 crore plus first day",
-    "Akshaye Khanna Slapped Aamir Khan '17 Times' In Dil Chahta Hai, Farhan Akhtar Reveals What Happened Next",
-    "Taapsee Pannu says she lost films after Alia Bhatt’s Alpha failure: ‘Investors backed out’"
+    "Hanuman Ansh Director Recalls Initial 'Derogatory' OTT Rejection Of The Film",
+    "'Toxic' box office collection Day 10 [LIVE]: Yash, Nayanthara, Kiara Advani film crosses Rs 240 crore Ind"
   ],
   "quiz": [
     {
-      "blanked": "Isro’s GSLV-F17 successfully places EOS-05 ______ observation satellite in geosynchronous orbit",
-      "answer": "Earth",
+      "blanked": "Time-Restricted ______ Linked to Improved Liver Health",
+      "answer": "Eating",
       "options": [
-        "Ind",
-        "Live",
-        "Earth",
-        "Aaqib"
+        "Eating",
+        "Into",
+        "Clancy",
+        "Smart"
       ]
     },
     {
-      "blanked": "IMD red alert in Delhi for heavy rain; severe waterlogging at IGI Airport | India ______",
-      "answer": "News",
+      "blanked": "It’s not less than ______ Dengue patient says insurance company rejected his mediclaim over platelet count",
+      "answer": "70000",
       "options": [
-        "Research",
-        "News",
-        "Next",
-        "Monitors"
+        "Bollywood",
+        "70000",
+        "Prince",
+        "Budgam"
       ]
     },
     {
-      "blanked": "India warned us: ______ PM on Europe's rude awakening amid Chinese dumping",
-      "answer": "Belgian",
+      "blanked": "India news: ______ launces first imaging satellite into orbit",
+      "answer": "ISRO",
       "options": [
-        "Belgian",
-        "AAP",
-        "Airbus",
-        "Map"
-      ]
-    },
-    {
-      "blanked": "Fujifilm Bolsters Its XF Telephoto ______ Line with a 400mm f/4.5",
-      "answer": "Lens",
-      "options": [
-        "Hunt",
-        "Farhan",
-        "Failed",
-        "Lens"
-      ]
-    },
-    {
-      "blanked": "El ______ A phenomenon supercharged by climate change",
-      "answer": "Nino",
-      "options": [
-        "Dyson",
-        "Pro",
-        "Govt",
-        "Nino"
-      ]
-    },
-    {
-      "blanked": "Google-Aided ______ Completes First Full Map Of Male Fruit Fly Brain's 1.6 Lakh Neurons",
-      "answer": "Research",
-      "options": [
-        "Research",
-        "Sri",
-        "President",
-        "Europes"
-      ]
-    },
-    {
-      "blanked": "Authorities in ______ confirm Sydney’s 1st case of H5N1 bird flu strain",
-      "answer": "Australia",
-      "options": [
-        "Curious",
-        "Investors",
-        "Australia",
-        "Mantar"
-      ]
-    },
-    {
-      "blanked": "3-Year-Old Girl Allegedly Raped Inside School Van In Navi Mumbai, ______ Arrested",
-      "answer": "Driver",
-      "options": [
-        "30000",
-        "Driver",
-        "Berlin",
-        "Hai"
-      ]
-    },
-    {
-      "blanked": "IFA Berlin 2026 Live: The Biggest Announcements From Samsung, ______ LG and More",
-      "answer": "Dyson",
-      "options": [
-        "Rohit",
-        "Dyson",
-        "Driver",
-        "Nov"
-      ]
-    },
-    {
-      "blanked": "'Toxic' box office collection Day 10 ______ Yash, Nayanthara, Kiara Advani film crosses Rs 240 crore Ind",
-      "answer": "LIVE",
-      "options": [
-        "LIVE",
-        "Divyenndu",
-        "Test",
+        "Limps",
+        "ISRO",
+        "Into",
         "Sacked"
       ]
     },
     {
-      "blanked": "Mirzapur Advance Booking Box Office: Ali Fazal, ______ Tripathi, Divyenndu starrer set for Rs. 20 crore plus first day",
-      "answer": "Pankaj",
+      "blanked": "India’s June quarter ______ print is courting controversy. Here’s why",
+      "answer": "GDP",
       "options": [
-        "Precision",
-        "Pankaj",
-        "Javed",
-        "Sri"
+        "GDP",
+        "Sonos",
+        "Konda",
+        "Film"
       ]
     },
     {
-      "blanked": "Jantar Mantar assault row: CJP says Delhi ______ has assured arrest of Swatantra Bharadwaj in 72 hours",
-      "answer": "Police",
+      "blanked": "Sonos 27 OS announced with AI integration, redesigned app and new audio devices; Sonos ______ to launch in...",
+      "answer": "Play",
       "options": [
-        "IGI",
-        "Police",
+        "Fields",
+        "Liver",
+        "Play",
+        "Pankaj"
+      ]
+    },
+    {
+      "blanked": "A fourth T6SS in clinical ______ aeruginosa deploys the pore-forming effector TseMt",
+      "answer": "Pseudomonas",
+      "options": [
+        "India",
+        "Showcases",
+        "Pseudomonas",
+        "Rejection"
+      ]
+    },
+    {
+      "blanked": "Nepal flood losses estimated at ______ billion, official says",
+      "answer": "2.56",
+      "options": [
+        "August",
         "Aaqib",
-        "Japan"
+        "2.56",
+        "Russia"
+      ]
+    },
+    {
+      "blanked": "'Shared history': India, ______ and the forgotten World War 1 soldiers of Flanders Fields",
+      "answer": "Belgium",
+      "options": [
+        "Belgium",
+        "Leaving",
+        "ISRO",
+        "International"
+      ]
+    },
+    {
+      "blanked": "Smriti ______ India batter becomes leading run-scorer in women's international cricket",
+      "answer": "Mandhana",
+      "options": [
+        "Liver",
+        "Mandhana",
+        "World",
+        "Raina"
+      ]
+    },
+    {
+      "blanked": "Mirzapur Advance Booking Box Office: ______ Fazal, Pankaj Tripathi, Divyenndu starrer set for Rs. 20 crore plus first day",
+      "answer": "Ali",
+      "options": [
+        "Sacked",
+        "Airport",
+        "Watch",
+        "Ali"
+      ]
+    },
+    {
+      "blanked": "Stock Market Close: ______ snaps 4-day losing streak, jumps 363 pts; Nifty settles at 23,898",
+      "answer": "Sensex",
+      "options": [
+        "Leaving",
+        "Sensex",
+        "Pankaj",
+        "Liver"
+      ]
+    },
+    {
+      "blanked": "Lindsay ______ trial ends without a verdict for a sixth day after drama in the courtroom | Health",
+      "answer": "Clancy",
+      "options": [
+        "Initial",
+        "Market",
+        "Clancy",
+        "Muse"
       ]
     }
   ]
