@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-09-04T17:42:04.673Z",
+  "generatedAt": "2026-09-04T19:52:02.432Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "'Shared history': India, Belgium and the forgotten World War 1 soldiers of Flanders Fields",
-    "Nepal announces relief package for flood-hit businesses, plans settlement relocation | LIVE",
-    "Phuket Flight Pilot Who Failed Drug Test Sacked By Air India",
     "'Swatantra Bhardwaj to be arrested within 72 hours': CJP protester and daughter of assault victim",
-    "Fact Check: Is Konda Surekha Leaving Congress?",
-    "Video: Waterlogging At Delhi International Airport After Heavy Rain",
-    "India news: ISRO launces first imaging satellite into orbit",
-    "Terrorist killed, AK rifle recovered during Budgam encounter: Army",
-    "RAKSHA: India’s 10-year blueprint for defence diplomacy and global strategic partnerships",
-    "40 kg expired chillies seized, Bengaluru club kitchen shut after food safety raid",
-    "After Months In Hormuz, USS Abraham Lincoln Limps Into Port Covered In Rust",
-    "US envoys headed to Russia and Ukraine to relaunch mediation",
+    "Air India terminates Phuket-Delhi pilot after AAIB confirms ‘non-negative’ psychoactive substance test",
     "Nepal flood losses estimated at $2.56 billion, official says",
-    "Lindsay Clancy trial ends without a verdict for a sixth day after drama in the courtroom | Health",
+    "A strong El Nino is inevitable — history shows its effects will hit hardest in 2027 | Hindustan Times",
+    "Terrorist killed, AK rifle recovered during Budgam encounter: Army",
+    "Fact Check: Is Konda Surekha Leaving Congress?",
+    "India news: ISRO launces first imaging satellite into orbit",
+    "How BJP Is Treating Local Elections In Rajasthan As A Diagnostic Test After CJP Jolt",
+    "RAKSHA: India’s 10-year blueprint for defence diplomacy and global strategic partnerships",
+    "IMD red alert in Delhi for heavy rain; severe waterlogging at IGI Airport | India News",
+    "'A rare moment of joy': Nepal tunnel rescues bring hope for more flood survivors",
+    "US woman killed her 3 children, tried to die by suicide. Jury can’t agree why",
+    "US sanctions Turkish bank, two subsidiaries in latest pressure on Iran",
+    "After Months In Hormuz, USS Abraham Lincoln Limps Into Port Covered In Rust",
     "Dollar deposits push India's forex reserves to fresh record for week ended August 28",
-    "NSE IPO could be worth Rs 30,000 crore after Sebi gives green signal",
-    "India’s June quarter GDP print is courting controversy. Here’s why",
+    "SEBI clears NSE IPO, observation letter issued; listing likely this month",
     "Stock Market Close: Sensex snaps 4-day losing streak, jumps 363 pts; Nifty settles at 23,898",
-    "RayNeo Showcases Next-Generation Cinematic AR and AI Smart Glasses at IFA 2026 with Dolby and Bang & Olufsen",
-    "Lexar Claims the World's Thinnest Portable SSD with the Muse at IFA 2026",
-    "In age of AI, robots move into heart of home",
-    "Sonos 27 OS announced with AI integration, redesigned app and new audio devices; Sonos Play to launch in...",
-    "Mirzapur Advance Booking Box Office: Ali Fazal, Pankaj Tripathi, Divyenndu starrer set for Rs. 20 crore plus first day",
-    "Hanuman Ansh Director Recalls Initial 'Derogatory' OTT Rejection Of The Film",
+    "India’s June quarter GDP print is courting controversy. Here’s why",
+    "3 last-minute Apple iPhone 18 event rumors",
+    "High-quality video on Android is a storage hog, but the world's slimmest portable SSD could help",
+    "D-Robotics at IFA 2026: The Computing Platform Powering the Next Generation of Home Robots",
+    "Five key takeaways from Dell Technologies Forum 2026 in Mumbai",
+    "Early Box Office Trends: Mirzapur The Movie shows it Baahubal with Rs. 22 Cr plus first day in India",
+    "Hanuman Ansh box office day 28: Neem Karoli Baba film earns Rs 86 cr, earns 3x of Toxic",
     "'Toxic' box office collection Day 10 [LIVE]: Yash, Nayanthara, Kiara Advani film crosses Rs 240 crore Ind"
   ],
   "quiz": [
     {
-      "blanked": "Time-Restricted ______ Linked to Improved Liver Health",
-      "answer": "Eating",
+      "blanked": "Air India terminates Phuket-Delhi pilot after ______ confirms ‘non-negative’ psychoactive substance test",
+      "answer": "AAIB",
       "options": [
-        "Eating",
-        "Into",
-        "Clancy",
-        "Smart"
+        "Amitabh",
+        "AAIB",
+        "Heres",
+        "Platform"
       ]
     },
     {
-      "blanked": "It’s not less than ______ Dengue patient says insurance company rejected his mediclaim over platelet count",
-      "answer": "70000",
-      "options": [
-        "Bollywood",
-        "70000",
-        "Prince",
-        "Budgam"
-      ]
-    },
-    {
-      "blanked": "India news: ______ launces first imaging satellite into orbit",
-      "answer": "ISRO",
+      "blanked": "RAKSHA: ______ 10-year blueprint for defence diplomacy and global strategic partnerships",
+      "answer": "Indias",
       "options": [
         "Limps",
-        "ISRO",
-        "Into",
-        "Sacked"
+        "Treating",
+        "Indias",
+        "Bachchan"
       ]
     },
     {
-      "blanked": "India’s June quarter ______ print is courting controversy. Here’s why",
-      "answer": "GDP",
+      "blanked": "Early ______ Office Trends: Mirzapur The Movie shows it Baahubal with Rs. 22 Cr plus first day in India",
+      "answer": "Box",
       "options": [
+        "Android",
+        "Box",
         "GDP",
-        "Sonos",
-        "Konda",
-        "Film"
+        "Kapoor"
       ]
     },
     {
-      "blanked": "Sonos 27 OS announced with AI integration, redesigned app and new audio devices; Sonos ______ to launch in...",
-      "answer": "Play",
+      "blanked": "'Toxic' box office collection Day 10 [LIVE]: ______ Nayanthara, Kiara Advani film crosses Rs 240 crore Ind",
+      "answer": "Yash",
       "options": [
-        "Fields",
-        "Liver",
-        "Play",
-        "Pankaj"
+        "Advani",
+        "Yash",
+        "Mumbai",
+        "USS"
       ]
     },
     {
-      "blanked": "A fourth T6SS in clinical ______ aeruginosa deploys the pore-forming effector TseMt",
-      "answer": "Pseudomonas",
+      "blanked": "US sanctions ______ bank, two subsidiaries in latest pressure on Iran",
+      "answer": "Turkish",
       "options": [
-        "India",
-        "Showcases",
+        "Turkish",
+        "Into",
+        "Asian",
+        "Kiara"
+      ]
+    },
+    {
+      "blanked": "Five key takeaways from Dell Technologies ______ 2026 in Mumbai",
+      "answer": "Forum",
+      "options": [
+        "Delhi",
+        "Telescope",
+        "Forum",
+        "Rejected"
+      ]
+    },
+    {
+      "blanked": "3 last-minute ______ iPhone 18 event rumors",
+      "answer": "Apple",
+      "options": [
+        "Apple",
+        "ISRO",
+        "240",
+        "Delhi"
+      ]
+    },
+    {
+      "blanked": "A night in a container: ______ Indian athletes are preparing for unusual Asian Games",
+      "answer": "How",
+      "options": [
+        "Surekha",
+        "How",
+        "Bachchan",
+        "Covered"
+      ]
+    },
+    {
+      "blanked": "India’s June quarter GDP print is courting controversy. ______ why",
+      "answer": "Heres",
+      "options": [
+        "Budgam",
+        "USS",
+        "Kapoor",
+        "Heres"
+      ]
+    },
+    {
+      "blanked": "High-quality video on ______ is a storage hog, but the world's slimmest portable SSD could help",
+      "answer": "Android",
+      "options": [
+        "Games",
+        "Android",
+        "Abraham",
+        "Asian"
+      ]
+    },
+    {
+      "blanked": "'Swatantra ______ to be arrested within 72 hours': CJP protester and daughter of assault victim",
+      "answer": "Bhardwaj",
+      "options": [
+        "Bhardwaj",
+        "Rohit",
         "Pseudomonas",
-        "Rejection"
+        "Movie"
       ]
     },
     {
       "blanked": "Nepal flood losses estimated at ______ billion, official says",
       "answer": "2.56",
       "options": [
-        "August",
-        "Aaqib",
         "2.56",
-        "Russia"
-      ]
-    },
-    {
-      "blanked": "'Shared history': India, ______ and the forgotten World War 1 soldiers of Flanders Fields",
-      "answer": "Belgium",
-      "options": [
-        "Belgium",
-        "Leaving",
-        "ISRO",
-        "International"
-      ]
-    },
-    {
-      "blanked": "Smriti ______ India batter becomes leading run-scorer in women's international cricket",
-      "answer": "Mandhana",
-      "options": [
-        "Liver",
-        "Mandhana",
-        "World",
-        "Raina"
-      ]
-    },
-    {
-      "blanked": "Mirzapur Advance Booking Box Office: ______ Fazal, Pankaj Tripathi, Divyenndu starrer set for Rs. 20 crore plus first day",
-      "answer": "Ali",
-      "options": [
-        "Sacked",
-        "Airport",
-        "Watch",
-        "Ali"
-      ]
-    },
-    {
-      "blanked": "Stock Market Close: ______ snaps 4-day losing streak, jumps 363 pts; Nifty settles at 23,898",
-      "answer": "Sensex",
-      "options": [
-        "Leaving",
-        "Sensex",
-        "Pankaj",
-        "Liver"
-      ]
-    },
-    {
-      "blanked": "Lindsay ______ trial ends without a verdict for a sixth day after drama in the courtroom | Health",
-      "answer": "Clancy",
-      "options": [
-        "Initial",
-        "Market",
-        "Clancy",
-        "Muse"
+        "Konda",
+        "363",
+        "Treating"
       ]
     }
   ]
