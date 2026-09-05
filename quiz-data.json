@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-09-05T14:23:41.999Z",
+  "generatedAt": "2026-09-05T16:53:15.337Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "Chinese national rescued from Nepal tunnel 10 days after flash flood",
-    "Putin Says 'No Strikes On Kyiv For 3 Days' After Zelensky's Ceasefire Pitch",
-    "Union Minister Chirag Paswan files complaint against Swatantra Bhardwaj over ‘misuse’ of name",
-    "Explosions near Iran’s Kharg Island hours after Trump warns of Pickaxe Mountain, calls war ‘small potatoes’ | World News",
+    "PM Modi says his 'homeopathic dose' during I-Day speech exposed ‘dimaagi naxals’ | India News",
+    "US envoys Witkoff, Kushner arrive in Moscow for talks on peace in Ukraine",
+    "US strikes three Iranian oil tankers after IRGC attack on American naval ships, Central Command says",
+    "Delhi Court Remands Swatantra Bhardwaj To One Day Police Custody, Complainant's Lawyer Questions...",
+    "Rescuers in Nepal pull 2 people alive from the debris 10 days after devastating floods",
+    "In Pune Fort Murder, A Third Arrest After Fiancee And Her Boyfriend",
     "Jhiram Valley massacre: NIA court convicts all 10 accused in 2013 Maoist attack | India News",
-    "How big is Africa really? Why the UN voted to change the world map",
-    "PM Modi urges teachers to address excessive screen time, drug addiction among students",
-    "Don't give me jumlas: Kangana Ranaut raps Mandi officials over unspent MP funds",
     "'You can run, but can't hide': Lashkar terrorist neutralised in Jammu and Kashmir",
-    "PM Modi Back At Shri Ram College, 13 Years After \"Glass Full\" Speech Launched His National Bid",
-    "Bernie Sanders' New Bill Can Send OpenAI, Anthropic CEOs To Jail For Years",
-    "Russia hit Ukraine airports ahead of US envoys' visit in overnight strikes, Zelenskyy says",
-    "US woman killed her 3 children, tried to die by suicide. Jury can’t agree why",
-    "Trump says US may hit Iran’s Pickaxe Mountain soon",
-    "CBI books Subhash Chandra in Rs 1,322 crore LIC Housing Finance fraud case",
+    "Saharanpur authorities demolish ‘illegal’ mosque; SP MP Iqra Hasan prevented from reaching site",
+    "PM Modi urges teachers to address excessive screen time, drug addiction among students",
+    "Ground Report: Bridges Washed Away, Zipline Keeps Nepal's Devi Ghat Connected",
+    "How big is Africa really? Why the UN voted to change the world map",
+    "50 US Army Officials Put On Lie Detector Tests Over Iran War Leaks: Report",
+    "Lindsay Clancy murder trial ends without verdict, Trump calls killings horrible",
+    "CBI Case Against Subhash Chandra Over Rs 980-Crore Loans: Net Worth At Nub Of Probe",
     "Market ends lower for fourth straight week amid volatility; rupee extends gain",
-    "TCS’ HyperVault to build 1GW AI data centre campus in Hyderabad with up to Rs 70,000 crore investment",
-    "Tata-owned JLR to cut 4,000 jobs in the UK amid sales and tariff pressures",
+    "The economics behind the mistrust in India’s GDP data, in 5 charts",
+    "Tim Cook Just Left Apple With a Massive Problem to Solve",
     "There May Not Be an iPhone 18 This Year",
-    "Lenovo, Acer to launch Nvidia RTX Spark-powered Windows PCs in October",
+    "ASUS Shows RTX Spark Mini PCs and Laptop Designs at IFA 2026",
     "Xiaomi Poco X8 Power launches with 10,000 mAh battery and IP69K rating",
     "iPhone Ultra, iPhone 18 Pro and 18 Pro Max prices leaked by Vodafone - here's the damage",
     "Mirzapur The Movie Box Office Collections: Ali Fazal, Pankaj Tripathi, Divyenndu starrer rakes up a fantastic Rs. 25 Cr opening day in India",
-    "Lust Stories 3 set for September 18 premiere on Netflix with four new stories!",
-    "'Jab Aapka Dil Tootta Hai...': Badshah's Ex-Wife Isha Rikhi Breaks Down In Bigg Boss 20 Promo? Watch"
+    "Drishyam 3 Box Office Day 1: Ajay Devgn Needs 28.2 Crore Opening To Snatch His Throne Back From Mirzapur: The Movie!",
+    "Hanuman Ansh box office day 29: Neem Karoli Baba film nears Rs 100 cr, earns 50x on investment"
   ],
   "quiz": [
     {
-      "blanked": "US woman killed her 3 children, tried to die by suicide. ______ can’t agree why",
-      "answer": "Jury",
+      "blanked": "50 US Army Officials Put On Lie Detector ______ Over Iran War Leaks: Report",
+      "answer": "Tests",
       "options": [
-        "Finance",
-        "Jury",
-        "Doubles",
-        "Office"
+        "Valley",
+        "Massive",
+        "Pakistan",
+        "Tests"
       ]
     },
     {
-      "blanked": "'Jab Aapka ______ Tootta Hai...': Badshah's Ex-Wife Isha Rikhi Breaks Down In Bigg Boss 20 Promo? Watch",
-      "answer": "Dil",
+      "blanked": "New Sepsis Test Delivers Results Within ______",
+      "answer": "Hours",
       "options": [
-        "Shri",
-        "Dil",
-        "Chandra",
-        "Trump"
-      ]
-    },
-    {
-      "blanked": "India to take on arch-rivals Pakistan in final Group A clash of T20 ______ Cup in Dubai today",
-      "answer": "Asia",
-      "options": [
-        "Chirag",
-        "Asia",
-        "Fazal",
-        "Stories"
-      ]
-    },
-    {
-      "blanked": "Lust ______ 3 set for September 18 premiere on Netflix with four new stories!",
-      "answer": "Stories",
-      "options": [
-        "Back",
-        "October",
-        "Stories",
-        "Ranaut"
-      ]
-    },
-    {
-      "blanked": "Union Minister ______ Paswan files complaint against Swatantra Bhardwaj over ‘misuse’ of name",
-      "answer": "Chirag",
-      "options": [
-        "Genetic",
-        "Allergic",
-        "Jail",
-        "Chirag"
-      ]
-    },
-    {
-      "blanked": "Bernie ______ New Bill Can Send OpenAI, Anthropic CEOs To Jail For Years",
-      "answer": "Sanders",
-      "options": [
-        "Rhinitis",
-        "Minister",
-        "Dil",
-        "Sanders"
-      ]
-    },
-    {
-      "blanked": "TCS’ ______ to build 1GW AI data centre campus in Hyderabad with up to Rs 70,000 crore investment",
-      "answer": "HyperVault",
-      "options": [
-        "Swatantra",
-        "Finds",
-        "RTX",
-        "HyperVault"
-      ]
-    },
-    {
-      "blanked": "Chinese national rescued from ______ tunnel 10 days after flash flood",
-      "answer": "Nepal",
-      "options": [
-        "Kangana",
-        "2026",
-        "Open",
-        "Nepal"
-      ]
-    },
-    {
-      "blanked": "Tata-owned JLR to cut ______ jobs in the UK amid sales and tariff pressures",
-      "answer": "4000",
-      "options": [
-        "Out",
         "South",
-        "Event",
-        "4000"
+        "Hours",
+        "Peptides",
+        "Hasan"
+      ]
+    },
+    {
+      "blanked": "Ground ______ Bridges Washed Away, Zipline Keeps Nepal's Devi Ghat Connected",
+      "answer": "Report",
+      "options": [
+        "Clancy",
+        "Report",
+        "Pune",
+        "Rhinitis"
+      ]
+    },
+    {
+      "blanked": "Could Respiratory Infections Disrupt Dormant ______ Cells?",
+      "answer": "Cancer",
+      "options": [
+        "Why",
+        "Not",
+        "Cancer",
+        "IFA"
+      ]
+    },
+    {
+      "blanked": "'Age is just a number': Ishan Kishan confident of 'hungry' Mohammed ______ making India comeback",
+      "answer": "Shami",
+      "options": [
+        "Disrupt",
+        "Shami",
+        "Year",
+        "Shows"
       ]
     },
     {
       "blanked": "How big is Africa really? ______ the UN voted to change the world map",
       "answer": "Why",
       "options": [
-        "OpenAI",
+        "Zipline",
         "Why",
-        "Out",
-        "Hint"
+        "Boyfriend",
+        "2026"
       ]
     },
     {
-      "blanked": "Prospective ______ Improve Seasonal Allergic Rhinitis Classification",
-      "answer": "Symptoms",
+      "blanked": "Xiaomi Poco X8 ______ launches with 10,000 mAh battery and IP69K rating",
+      "answer": "Power",
       "options": [
-        "Disrupt",
-        "Pickaxe",
-        "Symptoms",
-        "Seasonal"
+        "Switch",
+        "Power",
+        "Tripathi",
+        "Lawyer"
       ]
     },
     {
-      "blanked": "Infineon powers NASA’s Roman Space ______ mission",
-      "answer": "Telescope",
+      "blanked": "US envoys Witkoff, Kushner arrive in Moscow for talks on peace in ______",
+      "answer": "Ukraine",
       "options": [
-        "Speech",
-        "Link",
+        "Mohammed",
+        "Report",
         "Ukraine",
-        "Telescope"
+        "Army"
+      ]
+    },
+    {
+      "blanked": "There ______ Not Be an iPhone 18 This Year",
+      "answer": "May",
+      "options": [
+        "Dark",
+        "Moscow",
+        "May",
+        "Within"
+      ]
+    },
+    {
+      "blanked": "Bipasha ______ calls out insensitive paparazzi for brutal body shaming after she gave birth: I went through major trolling",
+      "answer": "Basu",
+      "options": [
+        "Poco",
+        "Clancy",
+        "Basu",
+        "Pankaj"
+      ]
+    },
+    {
+      "blanked": "Delhi Court Remands Swatantra Bhardwaj To One ______ Police Custody, Complainant's Lawyer Questions...",
+      "answer": "Day",
+      "options": [
+        "Day",
+        "Nepal",
+        "Nepals",
+        "Swatantra"
+      ]
+    },
+    {
+      "blanked": "'You can run, but can't hide': ______ terrorist neutralised in Jammu and Kashmir",
+      "answer": "Lashkar",
+      "options": [
+        "Lashkar",
+        "Mirzapur",
+        "Hint",
+        "Net"
       ]
     }
   ]
