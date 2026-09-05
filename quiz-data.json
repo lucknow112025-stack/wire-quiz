@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-09-05T11:55:19.515Z",
+  "generatedAt": "2026-09-05T14:23:41.999Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
     "Chinese national rescued from Nepal tunnel 10 days after flash flood",
+    "Putin Says 'No Strikes On Kyiv For 3 Days' After Zelensky's Ceasefire Pitch",
     "Union Minister Chirag Paswan files complaint against Swatantra Bhardwaj over ‘misuse’ of name",
-    "Africa Now Bigger In World Map. 164 Countries Backed Resolution, US Opposed",
     "Explosions near Iran’s Kharg Island hours after Trump warns of Pickaxe Mountain, calls war ‘small potatoes’ | World News",
-    "Saharanpur mosque demolished after court rules it ‘illegally’ built on govt land, heavy security deployed | India News",
-    "Why is Trump threatening to strike Iran’s Pickaxe Mountain again, now?",
+    "Jhiram Valley massacre: NIA court convicts all 10 accused in 2013 Maoist attack | India News",
+    "How big is Africa really? Why the UN voted to change the world map",
     "PM Modi urges teachers to address excessive screen time, drug addiction among students",
-    "Meet Madhya Pradesh's 'Bittu Tabahi': 21-Year-Old Takes On A Polluted River",
+    "Don't give me jumlas: Kangana Ranaut raps Mandi officials over unspent MP funds",
     "'You can run, but can't hide': Lashkar terrorist neutralised in Jammu and Kashmir",
-    "Maharashtra Woman, 2 Kids Die After Jumping Off Fort, Family Alleges Dowry Harassment",
+    "PM Modi Back At Shri Ram College, 13 Years After \"Glass Full\" Speech Launched His National Bid",
+    "Bernie Sanders' New Bill Can Send OpenAI, Anthropic CEOs To Jail For Years",
     "Russia hit Ukraine airports ahead of US envoys' visit in overnight strikes, Zelenskyy says",
-    "Pentagon polygraphs dozens of US military staff over media leaks: Report",
-    "Week Before 9/11, White House Got A Chilling Warning About Al-Qaeda",
-    "Modi hails Meloni after Italy PM breaks record, Cockroach Party reminds of Swatantra Bhardwaj",
-    "CBI registers case against Subhash Chandra over alleged Rs 1,322 crore LIC Housing loan fraud",
-    "Dollar deposits push India's forex reserves to fresh record for week ended August 28",
-    "NSE IPO: SEBI Clears IPO papers; Issue likely to open this month",
-    "Tata Motors launches tender offer for Iveco shares after securing all regulatory clearances",
+    "US woman killed her 3 children, tried to die by suicide. Jury can’t agree why",
+    "Trump says US may hit Iran’s Pickaxe Mountain soon",
+    "CBI books Subhash Chandra in Rs 1,322 crore LIC Housing Finance fraud case",
+    "Market ends lower for fourth straight week amid volatility; rupee extends gain",
+    "TCS’ HyperVault to build 1GW AI data centre campus in Hyderabad with up to Rs 70,000 crore investment",
+    "Tata-owned JLR to cut 4,000 jobs in the UK amid sales and tariff pressures",
     "There May Not Be an iPhone 18 This Year",
+    "Lenovo, Acer to launch Nvidia RTX Spark-powered Windows PCs in October",
     "Xiaomi Poco X8 Power launches with 10,000 mAh battery and IP69K rating",
-    "iPhone Ultra, iPhone 18 Pro and 18 Pro Max prices leaked by Vodafone - here's the damage - GSMArena.com news",
-    "John Ternus All Set For Apple Event: Foldable iPhone To AirPods, What All Will Be Launched",
-    "Mirzapur The Movie box office Day 1: Pankaj Tripathi film surpasses Awarapan 2, earns Rs 30 cr",
-    "PV Sindhu calls dinner with Nayanthara and Vignesh Shivan a special evening; says she now feels like she",
-    "Mahesh Babu's son Gautam Ghattamaneni gets cheeky after he rates Toxic half a star, his Letterboxd account makes news | Hindustan Times"
+    "iPhone Ultra, iPhone 18 Pro and 18 Pro Max prices leaked by Vodafone - here's the damage",
+    "Mirzapur The Movie Box Office Collections: Ali Fazal, Pankaj Tripathi, Divyenndu starrer rakes up a fantastic Rs. 25 Cr opening day in India",
+    "Lust Stories 3 set for September 18 premiere on Netflix with four new stories!",
+    "'Jab Aapka Dil Tootta Hai...': Badshah's Ex-Wife Isha Rikhi Breaks Down In Bigg Boss 20 Promo? Watch"
   ],
   "quiz": [
     {
-      "blanked": "Could Respiratory Infections ______ Dormant Cancer Cells?",
-      "answer": "Disrupt",
+      "blanked": "US woman killed her 3 children, tried to die by suicide. ______ can’t agree why",
+      "answer": "Jury",
       "options": [
-        "Cockroach",
-        "Opposed",
-        "Disrupt",
-        "Iveco"
+        "Finance",
+        "Jury",
+        "Doubles",
+        "Office"
       ]
     },
     {
-      "blanked": "NSE IPO: SEBI Clears ______ papers; Issue likely to open this month",
-      "answer": "IPO",
+      "blanked": "'Jab Aapka ______ Tootta Hai...': Badshah's Ex-Wife Isha Rikhi Breaks Down In Bigg Boss 20 Promo? Watch",
+      "answer": "Dil",
       "options": [
-        "Chilling",
-        "Not",
-        "IPO",
-        "Event"
+        "Shri",
+        "Dil",
+        "Chandra",
+        "Trump"
       ]
     },
     {
-      "blanked": "Pentagon polygraphs dozens of US military staff over media leaks: ______",
-      "answer": "Report",
+      "blanked": "India to take on arch-rivals Pakistan in final Group A clash of T20 ______ Cup in Dubai today",
+      "answer": "Asia",
       "options": [
-        "Improve",
-        "Chilling",
-        "Report",
-        "Open"
+        "Chirag",
+        "Asia",
+        "Fazal",
+        "Stories"
       ]
     },
     {
-      "blanked": "Modi hails Meloni after Italy PM breaks record, Cockroach Party reminds of Swatantra ______",
-      "answer": "Bhardwaj",
+      "blanked": "Lust ______ 3 set for September 18 premiere on Netflix with four new stories!",
+      "answer": "Stories",
       "options": [
-        "Off",
-        "Bhardwaj",
-        "Improve",
-        "Vignesh"
+        "Back",
+        "October",
+        "Stories",
+        "Ranaut"
       ]
     },
     {
-      "blanked": "Xiaomi Poco X8 Power launches with ______ mAh battery and IP69K rating",
-      "answer": "10000",
+      "blanked": "Union Minister ______ Paswan files complaint against Swatantra Bhardwaj over ‘misuse’ of name",
+      "answer": "Chirag",
       "options": [
-        "Motors",
-        "News",
-        "10000",
-        "About"
+        "Genetic",
+        "Allergic",
+        "Jail",
+        "Chirag"
       ]
     },
     {
-      "blanked": "John Ternus All Set For Apple Event: ______ iPhone To AirPods, What All Will Be Launched",
-      "answer": "Foldable",
+      "blanked": "Bernie ______ New Bill Can Send OpenAI, Anthropic CEOs To Jail For Years",
+      "answer": "Sanders",
       "options": [
-        "Pradeshs",
-        "Rizwan",
-        "Dormant",
-        "Foldable"
+        "Rhinitis",
+        "Minister",
+        "Dil",
+        "Sanders"
       ]
     },
     {
-      "blanked": "Maharashtra Woman, 2 Kids Die After Jumping Off Fort, Family Alleges Dowry ______",
-      "answer": "Harassment",
+      "blanked": "TCS’ ______ to build 1GW AI data centre campus in Hyderabad with up to Rs 70,000 crore investment",
+      "answer": "HyperVault",
       "options": [
-        "Countries",
-        "Antiseizure",
-        "Poco",
-        "Harassment"
+        "Swatantra",
+        "Finds",
+        "RTX",
+        "HyperVault"
       ]
     },
     {
       "blanked": "Chinese national rescued from ______ tunnel 10 days after flash flood",
       "answer": "Nepal",
       "options": [
-        "House",
-        "Party",
-        "Madhya",
+        "Kangana",
+        "2026",
+        "Open",
         "Nepal"
       ]
     },
     {
-      "blanked": "PV Sindhu calls dinner with ______ and Vignesh Shivan a special evening; says she now feels like she",
-      "answer": "Nayanthara",
+      "blanked": "Tata-owned JLR to cut ______ jobs in the UK amid sales and tariff pressures",
+      "answer": "4000",
       "options": [
-        "Kids",
-        "Films",
-        "Nayanthara",
-        "2026"
-      ]
-    },
-    {
-      "blanked": "LUX-ZEPLIN Detects Mysterious ______ That Offers New Hint of Dark Matter",
-      "answer": "Event",
-      "options": [
+        "Out",
+        "South",
         "Event",
-        "Series",
-        "NASAs",
-        "Jammu"
+        "4000"
       ]
     },
     {
-      "blanked": "Explosions near Iran’s Kharg ______ hours after Trump warns of Pickaxe Mountain, calls war ‘small potatoes’ | World News",
-      "answer": "Island",
+      "blanked": "How big is Africa really? ______ the UN voted to change the world map",
+      "answer": "Why",
       "options": [
-        "Joint",
-        "Island",
-        "Bittu",
-        "LIC"
+        "OpenAI",
+        "Why",
+        "Out",
+        "Hint"
+      ]
+    },
+    {
+      "blanked": "Prospective ______ Improve Seasonal Allergic Rhinitis Classification",
+      "answer": "Symptoms",
+      "options": [
+        "Disrupt",
+        "Pickaxe",
+        "Symptoms",
+        "Seasonal"
       ]
     },
     {
       "blanked": "Infineon powers NASA’s Roman Space ______ mission",
       "answer": "Telescope",
       "options": [
-        "Housing",
-        "Telescope",
-        "Series",
-        "Swatantra"
+        "Speech",
+        "Link",
+        "Ukraine",
+        "Telescope"
       ]
     }
   ]
