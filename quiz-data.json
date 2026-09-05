@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-09-05T08:27:28.464Z",
+  "generatedAt": "2026-09-05T11:55:19.515Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "Africa gets bigger, North America smaller as UN adopts new world map; US says ‘focus on genuine problems’ | World News",
-    "‘Small potatoes’: US President Trump downplays war on Iran",
-    "At 36,000 feet, Air India flight to Delhi briefly lost all hydraulics within seconds, triggering ‘altitude upset’",
-    "US imposes sanctions on Turkish bank, prompting legal threat",
-    "Saharanpur collectorate mosque demolished after court order, RAF deployed | India News",
-    "After waterlogging, traffic chaos, Delhi-NCR gets more rain today; red alert on for next 2 hours | India News",
-    "Fresh FIR against Swatantra Bhardwaj under POCSO Act: How ‘influencer’ tried to evade police in UP",
+    "Chinese national rescued from Nepal tunnel 10 days after flash flood",
+    "Union Minister Chirag Paswan files complaint against Swatantra Bhardwaj over ‘misuse’ of name",
+    "Africa Now Bigger In World Map. 164 Countries Backed Resolution, US Opposed",
+    "Explosions near Iran’s Kharg Island hours after Trump warns of Pickaxe Mountain, calls war ‘small potatoes’ | World News",
+    "Saharanpur mosque demolished after court rules it ‘illegally’ built on govt land, heavy security deployed | India News",
+    "Why is Trump threatening to strike Iran’s Pickaxe Mountain again, now?",
+    "PM Modi urges teachers to address excessive screen time, drug addiction among students",
+    "Meet Madhya Pradesh's 'Bittu Tabahi': 21-Year-Old Takes On A Polluted River",
+    "'You can run, but can't hide': Lashkar terrorist neutralised in Jammu and Kashmir",
     "Maharashtra Woman, 2 Kids Die After Jumping Off Fort, Family Alleges Dowry Harassment",
-    "From asteroid hunter to Maths wizard, 82 educators to receive National Teachers’ Awards",
-    "Woman Refuses To Cook To Attend Dance Class. Drunk Husband Kills Her",
-    "Nepal rescues two workers from hydropower tunnel nine days after floods",
-    "Nepal Flood Survivors Now Fear The Food That's Keeping Them Alive",
-    "US woman killed her 3 children, tried to die by suicide. Jury can’t agree why",
-    "Women Were Ululating, Then A Bang: Wedding Guest Recounts US Bombing On Iran",
+    "Russia hit Ukraine airports ahead of US envoys' visit in overnight strikes, Zelenskyy says",
+    "Pentagon polygraphs dozens of US military staff over media leaks: Report",
+    "Week Before 9/11, White House Got A Chilling Warning About Al-Qaeda",
+    "Modi hails Meloni after Italy PM breaks record, Cockroach Party reminds of Swatantra Bhardwaj",
+    "CBI registers case against Subhash Chandra over alleged Rs 1,322 crore LIC Housing loan fraud",
+    "Dollar deposits push India's forex reserves to fresh record for week ended August 28",
     "NSE IPO: SEBI Clears IPO papers; Issue likely to open this month",
     "Tata Motors launches tender offer for Iveco shares after securing all regulatory clearances",
-    "Coal stock at thermal plants plummets, 'critical' at 50 units",
-    "Bull Run Coming? Morgan Stanley Sees Sensex At 89,000, 16% Upside By June 2027",
-    "iPhone 18 Pro launch: Expected India price, A20 Pro chip, camera upgrades and everything we know so far",
+    "There May Not Be an iPhone 18 This Year",
     "Xiaomi Poco X8 Power launches with 10,000 mAh battery and IP69K rating",
     "iPhone Ultra, iPhone 18 Pro and 18 Pro Max prices leaked by Vodafone - here's the damage - GSMArena.com news",
     "John Ternus All Set For Apple Event: Foldable iPhone To AirPods, What All Will Be Launched",
-    "Mirzapur The Movie Box Office Collection Day 1: Pankaj Tripathi-Ravi Kishan's Film Becomes Fourth-Highest Opener Of 2026",
-    "Teacher’s Day 2026: 6 Hindi Films, Web Series Inspired By True Teachers’ Stories",
-    "Lollapalooza India 2027 Lineup: Olivia Dean, Limp Bizkit, KATSEYE, 5 Seconds Of Summer And More To Perform"
+    "Mirzapur The Movie box office Day 1: Pankaj Tripathi film surpasses Awarapan 2, earns Rs 30 cr",
+    "PV Sindhu calls dinner with Nayanthara and Vignesh Shivan a special evening; says she now feels like she",
+    "Mahesh Babu's son Gautam Ghattamaneni gets cheeky after he rates Toxic half a star, his Letterboxd account makes news | Hindustan Times"
   ],
   "quiz": [
     {
-      "blanked": "Teacher’s Day 2026: 6 Hindi Films, Web Series Inspired By True Teachers’ ______",
-      "answer": "Stories",
+      "blanked": "Could Respiratory Infections ______ Dormant Cancer Cells?",
+      "answer": "Disrupt",
       "options": [
-        "Sees",
-        "Stories",
-        "Dil",
-        "World"
+        "Cockroach",
+        "Opposed",
+        "Disrupt",
+        "Iveco"
       ]
     },
     {
-      "blanked": "Liverpool beat Ipswich as Isak goals hand Iraola first Premier ______ win",
-      "answer": "League",
+      "blanked": "NSE IPO: SEBI Clears ______ papers; Issue likely to open this month",
+      "answer": "IPO",
       "options": [
-        "Healthcare",
-        "League",
-        "Swatantra",
+        "Chilling",
+        "Not",
+        "IPO",
         "Event"
       ]
     },
     {
-      "blanked": "Tata ______ launches tender offer for Iveco shares after securing all regulatory clearances",
-      "answer": "Motors",
+      "blanked": "Pentagon polygraphs dozens of US military staff over media leaks: ______",
+      "answer": "Report",
       "options": [
-        "Ululating",
-        "Box",
-        "Motors",
-        "All"
+        "Improve",
+        "Chilling",
+        "Report",
+        "Open"
       ]
     },
     {
-      "blanked": "Xiaomi Poco X8 ______ launches with 10,000 mAh battery and IP69K rating",
-      "answer": "Power",
+      "blanked": "Modi hails Meloni after Italy PM breaks record, Cockroach Party reminds of Swatantra ______",
+      "answer": "Bhardwaj",
       "options": [
-        "Kills",
-        "Khan",
-        "Power",
-        "President"
-      ]
-    },
-    {
-      "blanked": "After waterlogging, traffic chaos, Delhi-NCR gets more rain today; red alert on for next 2 hours | ______ News",
-      "answer": "India",
-      "options": [
+        "Off",
         "Bhardwaj",
-        "Max",
-        "India",
-        "Awards"
+        "Improve",
+        "Vignesh"
       ]
     },
     {
-      "blanked": "Curtains of plasma could explain the mysterious swirling solar spicules on the ______ surface",
-      "answer": "Suns",
+      "blanked": "Xiaomi Poco X8 Power launches with ______ mAh battery and IP69K rating",
+      "answer": "10000",
       "options": [
-        "AirPods",
-        "Suns",
-        "Wedding",
-        "Olivia"
-      ]
-    },
-    {
-      "blanked": "Saharanpur collectorate mosque demolished after court order, RAF deployed | India ______",
-      "answer": "News",
-      "options": [
-        "Hai",
+        "Motors",
         "News",
-        "AirPods",
-        "National"
+        "10000",
+        "About"
       ]
     },
     {
-      "blanked": "Mirzapur The ______ Box Office Collection Day 1: Pankaj Tripathi-Ravi Kishan's Film Becomes Fourth-Highest Opener Of 2026",
-      "answer": "Movie",
+      "blanked": "John Ternus All Set For Apple Event: ______ iPhone To AirPods, What All Will Be Launched",
+      "answer": "Foldable",
       "options": [
-        "Web",
-        "Pankaj",
-        "Movie",
+        "Pradeshs",
+        "Rizwan",
+        "Dormant",
+        "Foldable"
+      ]
+    },
+    {
+      "blanked": "Maharashtra Woman, 2 Kids Die After Jumping Off Fort, Family Alleges Dowry ______",
+      "answer": "Harassment",
+      "options": [
+        "Countries",
+        "Antiseizure",
+        "Poco",
+        "Harassment"
+      ]
+    },
+    {
+      "blanked": "Chinese national rescued from ______ tunnel 10 days after flash flood",
+      "answer": "Nepal",
+      "options": [
+        "House",
+        "Party",
+        "Madhya",
+        "Nepal"
+      ]
+    },
+    {
+      "blanked": "PV Sindhu calls dinner with ______ and Vignesh Shivan a special evening; says she now feels like she",
+      "answer": "Nayanthara",
+      "options": [
+        "Kids",
+        "Films",
+        "Nayanthara",
+        "2026"
+      ]
+    },
+    {
+      "blanked": "LUX-ZEPLIN Detects Mysterious ______ That Offers New Hint of Dark Matter",
+      "answer": "Event",
+      "options": [
+        "Event",
+        "Series",
+        "NASAs",
+        "Jammu"
+      ]
+    },
+    {
+      "blanked": "Explosions near Iran’s Kharg ______ hours after Trump warns of Pickaxe Mountain, calls war ‘small potatoes’ | World News",
+      "answer": "Island",
+      "options": [
+        "Joint",
+        "Island",
+        "Bittu",
+        "LIC"
+      ]
+    },
+    {
+      "blanked": "Infineon powers NASA’s Roman Space ______ mission",
+      "answer": "Telescope",
+      "options": [
+        "Housing",
+        "Telescope",
+        "Series",
         "Swatantra"
-      ]
-    },
-    {
-      "blanked": "From asteroid hunter to Maths wizard, 82 educators to receive National Teachers’ ______",
-      "answer": "Awards",
-      "options": [
-        "Limp",
-        "Awards",
-        "Opener",
-        "Perform"
-      ]
-    },
-    {
-      "blanked": "Woman Refuses To Cook To Attend Dance Class. ______ Husband Kills Her",
-      "answer": "Drunk",
-      "options": [
-        "Office",
-        "Drunk",
-        "Space",
-        "Dowry"
-      ]
-    },
-    {
-      "blanked": "Fortis Healthcare, Takeda launch ‘Mission ______ Free India’ campaign",
-      "answer": "Dengue",
-      "options": [
-        "Hesson",
-        "Clears",
-        "Iran",
-        "Dengue"
-      ]
-    },
-    {
-      "blanked": "US imposes sanctions on ______ bank, prompting legal threat",
-      "answer": "Turkish",
-      "options": [
-        "Turkish",
-        "Upside",
-        "Takeda",
-        "All"
       ]
     }
   ]
