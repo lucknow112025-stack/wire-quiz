@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-09-05T16:53:15.337Z",
+  "generatedAt": "2026-09-05T18:44:15.248Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "PM Modi says his 'homeopathic dose' during I-Day speech exposed ‘dimaagi naxals’ | India News",
+    "PM Modi lauds SRCC for nurturing generations of leaders in business, public life",
     "US envoys Witkoff, Kushner arrive in Moscow for talks on peace in Ukraine",
-    "US strikes three Iranian oil tankers after IRGC attack on American naval ships, Central Command says",
-    "Delhi Court Remands Swatantra Bhardwaj To One Day Police Custody, Complainant's Lawyer Questions...",
-    "Rescuers in Nepal pull 2 people alive from the debris 10 days after devastating floods",
+    "US CENTCOM says it struck three Iran oil tankers after IRGC attacks on Navy ships | World News",
     "In Pune Fort Murder, A Third Arrest After Fiancee And Her Boyfriend",
-    "Jhiram Valley massacre: NIA court convicts all 10 accused in 2013 Maoist attack | India News",
-    "'You can run, but can't hide': Lashkar terrorist neutralised in Jammu and Kashmir",
-    "Saharanpur authorities demolish ‘illegal’ mosque; SP MP Iqra Hasan prevented from reaching site",
-    "PM Modi urges teachers to address excessive screen time, drug addiction among students",
-    "Ground Report: Bridges Washed Away, Zipline Keeps Nepal's Devi Ghat Connected",
-    "How big is Africa really? Why the UN voted to change the world map",
-    "50 US Army Officials Put On Lie Detector Tests Over Iran War Leaks: Report",
-    "Lindsay Clancy murder trial ends without verdict, Trump calls killings horrible",
+    "Rescuers in Nepal pull 2 people alive from the debris 10 days after devastating floods",
+    "Who Is Leaking Iran War Secrets To Press? Trump Puts Top US Generals On Lie Detector Test",
+    "'Outraged my feelings': Complaint against Jantar Mantar protester over 'insulting' post on Hindu gods",
+    "Congress replaces Bhupesh Baghel with Sachin Pilot as Punjab general secretary",
+    "Pune woman dies after iron frame falls on her, family refuses to lodge complaint",
+    "Delhi Court Remands Swatantra Bhardwaj To One Day Police Custody, Complainant's Lawyer Questions...",
+    "Ground Report: Bridges Washed Away, Zipline Keeps Nepal's Devighat Connected",
+    "India votes in favour of UNGA resolution endorsing new world map",
+    "Israel says it has cleared Hezbollah fighters from tunnels under key Lebanon ridge",
+    "BRICS Should Be A 'Living Nalanda University', CJI Says At BRICS Chief Justices' Forum",
+    "Glass always half-empty for naysayers: PM hits out at critics over 7.8% GDP growth",
+    "2026 Maruti Baleno Facelift Bookings And Delivery Process Explained",
     "CBI Case Against Subhash Chandra Over Rs 980-Crore Loans: Net Worth At Nub Of Probe",
-    "Market ends lower for fourth straight week amid volatility; rupee extends gain",
-    "The economics behind the mistrust in India’s GDP data, in 5 charts",
-    "Tim Cook Just Left Apple With a Massive Problem to Solve",
+    "Gold Rate Today, September 5: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities",
     "There May Not Be an iPhone 18 This Year",
-    "ASUS Shows RTX Spark Mini PCs and Laptop Designs at IFA 2026",
-    "Xiaomi Poco X8 Power launches with 10,000 mAh battery and IP69K rating",
-    "iPhone Ultra, iPhone 18 Pro and 18 Pro Max prices leaked by Vodafone - here's the damage",
-    "Mirzapur The Movie Box Office Collections: Ali Fazal, Pankaj Tripathi, Divyenndu starrer rakes up a fantastic Rs. 25 Cr opening day in India",
+    "POCO X8 and POCO X8 Power launched in India with up to 10,000mAh battery, Snapdragon chipsets and 1.5K...",
+    "Blox Fruits Update 30 Patch Notes: Magnet Fruit, New Sea 1, and More",
+    "iPhone Ultra, iPhone 18 Pro and 18 Pro Max prices leaked by Vodafone - here's the damage - GSMArena.com news",
+    "Early Box Office Trends: Mirzapur The Movie emerges SUPER HIT with day two seeing strong growth",
     "Drishyam 3 Box Office Day 1: Ajay Devgn Needs 28.2 Crore Opening To Snatch His Throne Back From Mirzapur: The Movie!",
-    "Hanuman Ansh box office day 29: Neem Karoli Baba film nears Rs 100 cr, earns 50x on investment"
+    "\"Went Through Major Trolling\": Bipasha Basu Recalls Being Bodyshamed After Childbirth"
   ],
   "quiz": [
     {
-      "blanked": "50 US Army Officials Put On Lie Detector ______ Over Iran War Leaks: Report",
-      "answer": "Tests",
+      "blanked": "Brian Lara Makes Emotional Appeal For Imran Khan: \"Basic ______ For A Legend\"",
+      "answer": "Humanity",
       "options": [
-        "Valley",
-        "Massive",
-        "Pakistan",
-        "Tests"
+        "UNGA",
+        "Hindu",
+        "Humanity",
+        "Explained"
       ]
     },
     {
-      "blanked": "New Sepsis Test Delivers Results Within ______",
-      "answer": "Hours",
+      "blanked": "Gold Rate Today, September 5: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, ______ and other cities",
+      "answer": "Kolkata",
       "options": [
-        "South",
-        "Hours",
-        "Peptides",
-        "Hasan"
-      ]
-    },
-    {
-      "blanked": "Ground ______ Bridges Washed Away, Zipline Keeps Nepal's Devi Ghat Connected",
-      "answer": "Report",
-      "options": [
-        "Clancy",
-        "Report",
-        "Pune",
-        "Rhinitis"
-      ]
-    },
-    {
-      "blanked": "Could Respiratory Infections Disrupt Dormant ______ Cells?",
-      "answer": "Cancer",
-      "options": [
-        "Why",
-        "Not",
-        "Cancer",
-        "IFA"
-      ]
-    },
-    {
-      "blanked": "'Age is just a number': Ishan Kishan confident of 'hungry' Mohammed ______ making India comeback",
-      "answer": "Shami",
-      "options": [
-        "Disrupt",
-        "Shami",
-        "Year",
-        "Shows"
-      ]
-    },
-    {
-      "blanked": "How big is Africa really? ______ the UN voted to change the world map",
-      "answer": "Why",
-      "options": [
-        "Zipline",
-        "Why",
-        "Boyfriend",
-        "2026"
-      ]
-    },
-    {
-      "blanked": "Xiaomi Poco X8 ______ launches with 10,000 mAh battery and IP69K rating",
-      "answer": "Power",
-      "options": [
-        "Switch",
+        "Kolkata",
         "Power",
-        "Tripathi",
-        "Lawyer"
+        "Throne",
+        "Trump"
       ]
     },
     {
-      "blanked": "US envoys Witkoff, Kushner arrive in Moscow for talks on peace in ______",
-      "answer": "Ukraine",
+      "blanked": "\"Went Through Major Trolling\": ______ Basu Recalls Being Bodyshamed After Childbirth",
+      "answer": "Bipasha",
       "options": [
-        "Mohammed",
-        "Report",
-        "Ukraine",
-        "Army"
+        "SRCC",
+        "Explained",
+        "Rikhi",
+        "Bipasha"
       ]
     },
     {
-      "blanked": "There ______ Not Be an iPhone 18 This Year",
-      "answer": "May",
+      "blanked": "Duleep final to ______ T20Is 'slightly challenging', say Kishan and Tilak Varma",
+      "answer": "Afghanistan",
       "options": [
-        "Dark",
-        "Moscow",
-        "May",
-        "Within"
-      ]
-    },
-    {
-      "blanked": "Bipasha ______ calls out insensitive paparazzi for brutal body shaming after she gave birth: I went through major trolling",
-      "answer": "Basu",
-      "options": [
-        "Poco",
-        "Clancy",
-        "Basu",
-        "Pankaj"
-      ]
-    },
-    {
-      "blanked": "Delhi Court Remands Swatantra Bhardwaj To One ______ Police Custody, Complainant's Lawyer Questions...",
-      "answer": "Day",
-      "options": [
-        "Day",
-        "Nepal",
+        "Fruits",
+        "Afghanistan",
         "Nepals",
-        "Swatantra"
+        "Snapdragon"
       ]
     },
     {
-      "blanked": "'You can run, but can't hide': ______ terrorist neutralised in Jammu and Kashmir",
-      "answer": "Lashkar",
+      "blanked": "iPhone Ultra, iPhone 18 ______ and 18 Pro Max prices leaked by Vodafone - here's the damage - GSMArena.com news",
+      "answer": "Pro",
       "options": [
-        "Lashkar",
-        "Mirzapur",
+        "Bhupesh",
+        "GDP",
+        "Pro",
+        "India"
+      ]
+    },
+    {
+      "blanked": "'Outraged my feelings': Complaint against Jantar Mantar protester over 'insulting' post on ______ gods",
+      "answer": "Hindu",
+      "options": [
+        "Hindu",
+        "Rhinitis",
+        "Probe",
+        "Imran"
+      ]
+    },
+    {
+      "blanked": "There May ______ Be an iPhone 18 This Year",
+      "answer": "Not",
+      "options": [
+        "Bhardwaj",
+        "Not",
+        "Boyfriend",
+        "Custody"
+      ]
+    },
+    {
+      "blanked": "US CENTCOM says it struck three Iran oil tankers after ______ attacks on Navy ships | World News",
+      "answer": "IRGC",
+      "options": [
+        "IRGC",
+        "Max",
+        "One",
+        "Update"
+      ]
+    },
+    {
+      "blanked": "Early Box Office Trends: Mirzapur The Movie emerges SUPER ______ with day two seeing strong growth",
+      "answer": "HIT",
+      "options": [
+        "Tilak",
+        "NASAs",
+        "Office",
+        "HIT"
+      ]
+    },
+    {
+      "blanked": "LUX-ZEPLIN Detects Mysterious Event That Offers New ______ of Dark Matter",
+      "answer": "Hint",
+      "options": [
+        "One",
         "Hint",
-        "Net"
+        "Basic",
+        "Complaint"
+      ]
+    },
+    {
+      "blanked": "Israel says it has cleared ______ fighters from tunnels under key Lebanon ridge",
+      "answer": "Hezbollah",
+      "options": [
+        "Complainants",
+        "Witkoff",
+        "Hezbollah",
+        "Keeps"
+      ]
+    },
+    {
+      "blanked": "In Pune Fort ______ A Third Arrest After Fiancee And Her Boyfriend",
+      "answer": "Murder",
+      "options": [
+        "Murder",
+        "Cells",
+        "Bridges",
+        "World"
       ]
     }
   ]
