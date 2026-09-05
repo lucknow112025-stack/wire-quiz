@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-09-05T20:43:30.245Z",
+  "generatedAt": "2026-09-05T22:19:55.309Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "PM Modi Recycles \"Half Water-Half Air\" Line At Shri Ram College, 13 Years After Big Launch Speech",
+    "PM Modi says his 'homeopathic dose' during I-Day speech exposed ‘dimaagi naxals’ | India News",
     "Putin tells US envoys Witkoff, Kushner that situation in Ukraine is 'difficult'",
-    "Third arrest in Ketan Agarwal murder case: ‘Lover’ Chetan’s friend held as ‘he knew of earlier murder plan’ | India News",
+    "In Pune Fort Murder, A Third Arrest After Fiancee And Her Boyfriend",
     "Chinese national rescued from Nepal tunnel 10 days after flash flood",
     "US strikes three Iranian oil tankers after IRGC attack on American naval ships, Central Command says",
     "Delhi Court Remands Swatantra Bhardwaj To One Day Police Custody, Complainant's Lawyer Questions...",
     "Centre Notifies Appointment of Chief Justices of Eight High Courts",
-    "'Outraged my feelings': Complaint against Jantar Mantar protester over 'insulting' post on Hindu gods",
     "PM Modi urges teachers to address excessive screen time, drug addiction among students",
-    "Seven-year-old dies during dahi handi in Mumbai",
+    "Allahabad High Court Rejects Plea For FIR Against Jagadguru Rambhadracharya Over Alleged Remarks Against...",
+    "'Outraged my feelings': Complaint against Jantar Mantar protester over 'insulting' post on Hindu gods",
     "Trump Planning \"Something Much Bigger\" For Middle East After Iran War: Report",
     "Ground Report: Bridges Washed Away, Zipline Keeps Nepal's Devighat Connected",
-    "US Hunts Iran War Data Leaker With Mass Polygraph Tests Of Top Army Officials",
     "Israel says it has cleared Hezbollah fighters from tunnels under key Lebanon ridge",
+    "India votes in favour of UNGA resolution endorsing new world map",
     "CBI Case Against Subhash Chandra Over Rs 980-Crore Loans: Net Worth At Nub Of Probe",
     "India’s 7.8% GDP growth reflects underlying strength and potential: PM Modi",
     "India's Car Market Shifts As CNG, Hybrids And EVs Overtake Petrol: Report",
     "Gold Rate Today, September 5: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities",
     "There May Not Be an iPhone 18 This Year",
+    "This new robot lawn mower comes with its own infrared hedgehog-spotter — and a handy approach to edge-trimming",
     "POCO X8 and POCO X8 Power launched in India with up to 10,000mAh battery, Snapdragon chipsets and 1.5K...",
-    "Blox Fruits Update 30 Patch Notes: Magnet Fruit, New Sea 1, and More",
     "iPhone Ultra, iPhone 18 Pro and 18 Pro Max prices leaked by Vodafone - here's the damage - GSMArena.com news",
     "Early Box Office Trends: Mirzapur The Movie emerges SUPER HIT with day two seeing strong growth",
     "Dominican Republic's Joheirry Mola Crowned Miss World 2026",
-    "Drishyam 3 Box Office Day 1: Ajay Devgn Needs 28.2 Crore Opening To Snatch His Throne Back From Mirzapur: The Movie!"
+    "Bigg Boss 20 Full Contestants List: Mary Kom, Isha Rikhi, Mahhi Vij, Rhiya Ahir And More"
   ],
   "quiz": [
     {
-      "blanked": "Gold Rate Today, September 5: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, ______ and other cities",
-      "answer": "Kolkata",
+      "blanked": "Man City survive Coventry scare as ______ Fernandez debut rated - 5 talking points",
+      "answer": "Enzo",
       "options": [
-        "Kolkata",
-        "Humanity",
+        "UNGA",
+        "Enzo",
+        "High",
+        "FIR"
+      ]
+    },
+    {
+      "blanked": "Allahabad High ______ Rejects Plea For FIR Against Jagadguru Rambhadracharya Over Alleged Remarks Against...",
+      "answer": "Court",
+      "options": [
+        "Court",
+        "Infections",
+        "Ahir",
+        "40000"
+      ]
+    },
+    {
+      "blanked": "\"PRIMETIME\" - ______",
+      "answer": "Review",
+      "options": [
+        "Review",
+        "Much",
+        "Modi",
+        "Lara"
+      ]
+    },
+    {
+      "blanked": "Bigg Boss 20 Full Contestants List: Mary Kom, Isha Rikhi, Mahhi Vij, Rhiya Ahir And ______",
+      "answer": "More",
+      "options": [
+        "Fort",
+        "POCO",
+        "More",
+        "Police"
+      ]
+    },
+    {
+      "blanked": "In Pune Fort Murder, A Third Arrest After Fiancee And Her ______",
+      "answer": "Boyfriend",
+      "options": [
+        "Something",
+        "Infections",
+        "Boyfriend",
+        "Delhi"
+      ]
+    },
+    {
+      "blanked": "Shree Charani, ______ Rawat spin Pakistan out for 55 in one-sided contest",
+      "answer": "Prema",
+      "options": [
         "Witkoff",
-        "Masters"
-      ]
-    },
-    {
-      "blanked": "Drishyam 3 Box Office Day 1: Ajay Devgn ______ 28.2 Crore Opening To Snatch His Throne Back From Mirzapur: The Movie!",
-      "answer": "Needs",
-      "options": [
-        "Kushner",
-        "Crowned",
-        "East",
-        "Needs"
-      ]
-    },
-    {
-      "blanked": "China Masters ______ badminton: Satwik-Chirag reach third final in four editions",
-      "answer": "2026",
-      "options": [
-        "2026",
-        "One",
-        "Agarwal",
-        "Top"
-      ]
-    },
-    {
-      "blanked": "Early Box Office Trends: ______ The Movie emerges SUPER HIT with day two seeing strong growth",
-      "answer": "Mirzapur",
-      "options": [
-        "Hezbollah",
-        "Mirzapur",
-        "Devighat",
-        "Army"
-      ]
-    },
-    {
-      "blanked": "Delhi Court Remands Swatantra Bhardwaj To One ______ Police Custody, Complainant's Lawyer Questions...",
-      "answer": "Day",
-      "options": [
-        "Day",
-        "Update",
-        "Event",
-        "Seasonal"
-      ]
-    },
-    {
-      "blanked": "LUX-ZEPLIN Detects Mysterious ______ That Offers New Hint of Dark Matter",
-      "answer": "Event",
-      "options": [
-        "Event",
-        "Washed",
-        "Central",
-        "War"
-      ]
-    },
-    {
-      "blanked": "India’s ______ GDP growth reflects underlying strength and potential: PM Modi",
-      "answer": "7.8%",
-      "options": [
-        "Telescope",
-        "Nub",
-        "7.8%",
-        "Movie"
+        "Arrest",
+        "Prema",
+        "Rawat"
       ]
     },
     {
       "blanked": "Israel says it has cleared Hezbollah fighters from tunnels under key ______ ridge",
       "answer": "Lebanon",
       "options": [
-        "Lawyer",
-        "Year",
+        "Middle",
+        "Andrews",
         "Lebanon",
-        "28.2"
+        "Complainants"
       ]
     },
     {
-      "blanked": "Putin tells US envoys Witkoff, ______ that situation in Ukraine is 'difficult'",
-      "answer": "Kushner",
+      "blanked": "Infineon powers NASA’s ______ Space Telescope mission",
+      "answer": "Roman",
       "options": [
-        "Coventry",
-        "Box",
-        "Study",
-        "Kushner"
+        "Roman",
+        "40000",
+        "Hezbollah",
+        "Disrupt"
       ]
     },
     {
-      "blanked": "There May Not Be an iPhone 18 This ______",
-      "answer": "Year",
+      "blanked": "India’s ______ GDP growth reflects underlying strength and potential: PM Modi",
+      "answer": "7.8%",
       "options": [
-        "Basic",
-        "Year",
-        "Hindu",
-        "Masters"
+        "Khan",
+        "Crowned",
+        "7.8%",
+        "Remarks"
       ]
     },
     {
-      "blanked": "Third arrest in Ketan Agarwal murder case: ‘Lover’ ______ friend held as ‘he knew of earlier murder plan’ | India News",
-      "answer": "Chetans",
+      "blanked": "PM ______ urges teachers to address excessive screen time, drug addiction among students",
+      "answer": "Modi",
       "options": [
-        "Bigger",
-        "Chetans",
-        "Symptoms",
-        "Today"
+        "American",
+        "Modi",
+        "Mumbai",
+        "Lawyer"
       ]
     },
     {
-      "blanked": "Man City survive ______ scare as Enzo Fernandez debut rated - 5 talking points",
-      "answer": "Coventry",
+      "blanked": "POCO X8 and POCO X8 Power launched in India with up to 10,000mAh battery, ______ chipsets and 1.5K...",
+      "answer": "Snapdragon",
       "options": [
-        "Delhi",
-        "Imran",
-        "Coventry",
-        "Probe"
+        "Lawyer",
+        "Miss",
+        "Classification",
+        "Snapdragon"
+      ]
+    },
+    {
+      "blanked": "Delhi Court ______ Swatantra Bhardwaj To One Day Police Custody, Complainant's Lawyer Questions...",
+      "answer": "Remands",
+      "options": [
+        "Alleged",
+        "Satwik-Chirag",
+        "Lawyer",
+        "Remands"
       ]
     }
   ]
