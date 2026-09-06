@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-09-05T22:19:55.309Z",
+  "generatedAt": "2026-09-06T00:04:43.569Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
     "PM Modi says his 'homeopathic dose' during I-Day speech exposed ‘dimaagi naxals’ | India News",
-    "Putin tells US envoys Witkoff, Kushner that situation in Ukraine is 'difficult'",
+    "Kremlin says Ukraine talks with US envoys were useful; no sign of breakthrough",
     "In Pune Fort Murder, A Third Arrest After Fiancee And Her Boyfriend",
     "Chinese national rescued from Nepal tunnel 10 days after flash flood",
-    "US strikes three Iranian oil tankers after IRGC attack on American naval ships, Central Command says",
-    "Delhi Court Remands Swatantra Bhardwaj To One Day Police Custody, Complainant's Lawyer Questions...",
-    "Centre Notifies Appointment of Chief Justices of Eight High Courts",
+    "US, Iranian forces fire at vessels in waters near Iran",
+    "Africa Now Bigger In World Map. 164 Countries Backed Resolution, US Opposed",
+    "Centre Appoints 8 Chief Justices In High Courts Across India",
     "PM Modi urges teachers to address excessive screen time, drug addiction among students",
+    "Delhi Court Remands Swatantra Bhardwaj To One Day Police Custody, Complainant's Lawyer Questions...",
     "Allahabad High Court Rejects Plea For FIR Against Jagadguru Rambhadracharya Over Alleged Remarks Against...",
-    "'Outraged my feelings': Complaint against Jantar Mantar protester over 'insulting' post on Hindu gods",
     "Trump Planning \"Something Much Bigger\" For Middle East After Iran War: Report",
+    "At least 10 killed in explosion at Bolivia military base; over 60 injured",
+    "Trump's big Venezuela deal leaves US oil industry blindsided",
     "Ground Report: Bridges Washed Away, Zipline Keeps Nepal's Devighat Connected",
-    "Israel says it has cleared Hezbollah fighters from tunnels under key Lebanon ridge",
-    "India votes in favour of UNGA resolution endorsing new world map",
     "CBI Case Against Subhash Chandra Over Rs 980-Crore Loans: Net Worth At Nub Of Probe",
     "India’s 7.8% GDP growth reflects underlying strength and potential: PM Modi",
+    "Reliance Jio Rolls Out Mega Anniversary Offer With 120GB Bonus Data, OTT Benefits and More",
     "India's Car Market Shifts As CNG, Hybrids And EVs Overtake Petrol: Report",
-    "Gold Rate Today, September 5: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities",
     "There May Not Be an iPhone 18 This Year",
-    "This new robot lawn mower comes with its own infrared hedgehog-spotter — and a handy approach to edge-trimming",
-    "POCO X8 and POCO X8 Power launched in India with up to 10,000mAh battery, Snapdragon chipsets and 1.5K...",
+    "ANTHBOT's New Lawnmowers Can Handle Edges, Slopes, and Hidden Animals Completely on Their Own",
+    "Blox Fruits Update 30 Patch Notes: Magnet Fruit, New Sea 1, and More",
     "iPhone Ultra, iPhone 18 Pro and 18 Pro Max prices leaked by Vodafone - here's the damage - GSMArena.com news",
     "Early Box Office Trends: Mirzapur The Movie emerges SUPER HIT with day two seeing strong growth",
     "Dominican Republic's Joheirry Mola Crowned Miss World 2026",
-    "Bigg Boss 20 Full Contestants List: Mary Kom, Isha Rikhi, Mahhi Vij, Rhiya Ahir And More"
+    "\"PRIMETIME\" - Review"
   ],
   "quiz": [
+    {
+      "blanked": "Delhi ______ Remands Swatantra Bhardwaj To One Day Police Custody, Complainant's Lawyer Questions...",
+      "answer": "Court",
+      "options": [
+        "Rikhi",
+        "Court",
+        "Mahhi",
+        "Chandra"
+      ]
+    },
+    {
+      "blanked": "Reliance Jio Rolls Out Mega Anniversary Offer With 120GB Bonus ______ OTT Benefits and More",
+      "answer": "Data",
+      "options": [
+        "Rikhi",
+        "Case",
+        "Max",
+        "Data"
+      ]
+    },
+    {
+      "blanked": "Find Trial: ctDNA-Guided ______ After Colorectal Cancer Surgery",
+      "answer": "Surveillance",
+      "options": [
+        "Satwik-Chirag",
+        "Bhardwaj",
+        "Surveillance",
+        "Mega"
+      ]
+    },
+    {
+      "blanked": "Centre Appoints 8 Chief Justices In High Courts ______ India",
+      "answer": "Across",
+      "options": [
+        "Across",
+        "Middle",
+        "Satwik-Chirag",
+        "Seasonal"
+      ]
+    },
+    {
+      "blanked": "Allahabad High Court Rejects Plea For ______ Against Jagadguru Rambhadracharya Over Alleged Remarks Against...",
+      "answer": "FIR",
+      "options": [
+        "FIR",
+        "Own",
+        "Can",
+        "NASAs"
+      ]
+    },
+    {
+      "blanked": "In Pune Fort Murder, A Third Arrest After ______ And Her Boyfriend",
+      "answer": "Fiancee",
+      "options": [
+        "Connected",
+        "Fiancee",
+        "Sea",
+        "Zipline"
+      ]
+    },
+    {
+      "blanked": "Dominican Republic's ______ Mola Crowned Miss World 2026",
+      "answer": "Joheirry",
+      "options": [
+        "Net",
+        "Iran",
+        "Joheirry",
+        "Middle"
+      ]
+    },
     {
       "blanked": "Man City survive Coventry scare as ______ Fernandez debut rated - 5 talking points",
       "answer": "Enzo",
       "options": [
-        "UNGA",
         "Enzo",
-        "High",
-        "FIR"
-      ]
-    },
-    {
-      "blanked": "Allahabad High ______ Rejects Plea For FIR Against Jagadguru Rambhadracharya Over Alleged Remarks Against...",
-      "answer": "Court",
-      "options": [
-        "Court",
-        "Infections",
-        "Ahir",
-        "40000"
-      ]
-    },
-    {
-      "blanked": "\"PRIMETIME\" - ______",
-      "answer": "Review",
-      "options": [
-        "Review",
-        "Much",
-        "Modi",
-        "Lara"
-      ]
-    },
-    {
-      "blanked": "Bigg Boss 20 Full Contestants List: Mary Kom, Isha Rikhi, Mahhi Vij, Rhiya Ahir And ______",
-      "answer": "More",
-      "options": [
-        "Fort",
-        "POCO",
+        "Nepals",
         "More",
-        "Police"
+        "Overtake"
       ]
     },
     {
-      "blanked": "In Pune Fort Murder, A Third Arrest After Fiancee And Her ______",
-      "answer": "Boyfriend",
+      "blanked": "Blox Fruits ______ 30 Patch Notes: Magnet Fruit, New Sea 1, and More",
+      "answer": "Update",
       "options": [
-        "Something",
-        "Infections",
-        "Boyfriend",
-        "Delhi"
+        "Opposed",
+        "Countries",
+        "Update",
+        "2002"
       ]
     },
     {
-      "blanked": "Shree Charani, ______ Rawat spin Pakistan out for 55 in one-sided contest",
-      "answer": "Prema",
+      "blanked": "66-year-old stays off dialysis for record 9 months with pig kidney | Andrews calls pig kidney transplant a miracle | ______",
+      "answer": "Inshorts",
       "options": [
-        "Witkoff",
-        "Arrest",
-        "Prema",
-        "Rawat"
+        "Pro",
+        "Movie",
+        "Inshorts",
+        "Petrol"
       ]
     },
     {
-      "blanked": "Israel says it has cleared Hezbollah fighters from tunnels under key ______ ridge",
-      "answer": "Lebanon",
+      "blanked": "Early Box Office ______ Mirzapur The Movie emerges SUPER HIT with day two seeing strong growth",
+      "answer": "Trends",
       "options": [
-        "Middle",
-        "Andrews",
-        "Lebanon",
-        "Complainants"
+        "Trends",
+        "Iranian",
+        "Probe",
+        "News"
       ]
     },
     {
-      "blanked": "Infineon powers NASA’s ______ Space Telescope mission",
-      "answer": "Roman",
+      "blanked": "ANTHBOT's New Lawnmowers Can ______ Edges, Slopes, and Hidden Animals Completely on Their Own",
+      "answer": "Handle",
       "options": [
-        "Roman",
-        "40000",
-        "Hezbollah",
-        "Disrupt"
-      ]
-    },
-    {
-      "blanked": "India’s ______ GDP growth reflects underlying strength and potential: PM Modi",
-      "answer": "7.8%",
-      "options": [
-        "Khan",
-        "Crowned",
-        "7.8%",
-        "Remarks"
-      ]
-    },
-    {
-      "blanked": "PM ______ urges teachers to address excessive screen time, drug addiction among students",
-      "answer": "Modi",
-      "options": [
-        "American",
-        "Modi",
-        "Mumbai",
-        "Lawyer"
-      ]
-    },
-    {
-      "blanked": "POCO X8 and POCO X8 Power launched in India with up to 10,000mAh battery, ______ chipsets and 1.5K...",
-      "answer": "Snapdragon",
-      "options": [
-        "Lawyer",
-        "Miss",
-        "Classification",
-        "Snapdragon"
-      ]
-    },
-    {
-      "blanked": "Delhi Court ______ Swatantra Bhardwaj To One Day Police Custody, Complainant's Lawyer Questions...",
-      "answer": "Remands",
-      "options": [
-        "Alleged",
-        "Satwik-Chirag",
-        "Lawyer",
-        "Remands"
+        "One",
+        "Handle",
+        "Completely",
+        "Rejects"
       ]
     }
   ]
