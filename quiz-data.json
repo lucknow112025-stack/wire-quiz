@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-09-06T15:46:12.521Z",
+  "generatedAt": "2026-09-06T17:56:18.974Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
     "Dozens feared trapped in collapsed building in Delhi",
-    "Delhi court sends Swatantra Bhardwaj to judicial custody for a day in Jantar Mantar assault case",
+    "Delhi Court Remands Swatantra Bhardwaj To One Day Of Judicial Custody In CJP Protester Assault Case",
     "Putin Says 'No Strikes On Kyiv For 3 Days' After Zelensky's Ceasefire Pitch",
     "US, Iran engaged in tanker war: Where is the months-long conflict headed?",
     "CJP slams PM Modi for reviving ‘Dimagi Naxal’ remark at SRCC: ‘Give hope, not stupid labels’ | India News",
     "Are ISRO activities being privatised? Anxious staff seek Govt response",
-    "Landslide hits Sikkim’s Mangan, partially blocks Teesta River flow",
-    "Family Stops Bike To Answer Call, Gets Run Over By Speeding Car In Kerala",
     "19 lakh lives impacted as Ganga breaches flood mark in Patna",
-    "Fact Check: Is Konda Surekha Leaving Congress?",
+    "Delhi Schools To Remain Shut On September 11 Ahead Of BRICS Summit",
+    "Rahul Gandhi targets PM Modi over police action on Bihar students",
+    "Massive Landslide In Sikkim Partially Blocks Teesta River Flow",
+    "West Asia conflict LIVE updates: Iran's response to U.S. attacks will be 'more painful', parliament speaker says",
     "Volcano Erupts In Indonesia, Main Airport 150 km Away Suspends Ops",
-    "Ukraine Runs Short Of Key Missiles, MiG-29 Jets Bring Back 1970s Weapon",
-    "Iran targets US warships with ballistic missiles, warns of ‘severe response’",
-    "Iran planning ‘multi-front’ attack on Israel with Hezbollah, Hamas, Houthis: Report",
+    "Iran planning ‘October 7-style’ multi-front, coordinated attack on Israel: Report | World News",
+    "'Start of real war': Russia accuses Germany of Nazism, rejects drone accusations",
     "IPOs This Week: Rentomojo, Kanohar Electricals, Nine Others To Raise Rs 7,055 Crore — Check Details",
     "Maruti Baleno Facelift: Top 5 Highlights",
-    "PM Modi: Those who put India in Fragile 5 doubting GDP",
-    "CBI books Subhash Chandra, others over alleged ₹1,322-crore loss to LIC Housing Finance",
-    "What To Expect At September 9 Apple Event: Foldable iPhone, iPhone 18 Pro",
-    "New DLSS 5 Swapper Tool Brings Neural Rendering to Games NVIDIA Never Supported",
+    "GST Council meeting postponed to 7 October due to BRICS summit",
+    "OPEC+ keeps oil output policy unchanged for October",
+    "Apple iPhone 18 Pro Release Date Schedule: Your Complete September Countdown",
+    "iPhone 17 Prices Slashed Further Days Before iPhone 18 Release",
     "Minecraft Wilderness Bound update: Release date, features, and more details",
     "Forget iPhone 18 Pro Max: iPhone Ultra is said to feature ultra-thin design and MagSafe support",
-    "Hanuman Ansh Day 30 Box Office Collections: Continues MIRACULOUS run with Rs 16 crore 5th Saturday, on verge of entering Rs 100 crore club",
-    "Salman Khan tells Manoj Tiwari's daughter Rhiti ‘baap pe mat jaana’ during Bigg Boss 20 premiere. Watch | Hindustan Times",
-    "Jasmin Bhasin slams Aly Goni breakup rumours after deleting Instagram post: ‘Not everything is about my relationship’ | Hindustan Times"
+    "Bigg Boss 20 Contestants, Premiere Episode LIVE Updates: Manoj Tiwari’s daughter Rhiti joins Mary Kom, Isha Rikhi, Amrapali Dubey in the house",
+    "Mirzapur The Movie Box Office Collections: Ali Fazal, Pankaj Tripathi, Divyenndu starrer netts Rs. 57 Cr in 2 days in India",
+    "'Not Everything Is A Cryptic Message About My Relationship': Jasmin Bhasin On Aly Goni Break Up Rumours"
   ],
   "quiz": [
     {
-      "blanked": "Volcano Erupts In Indonesia, Main Airport ______ km Away Suspends Ops",
-      "answer": "150",
+      "blanked": "Volcano Erupts In ______ Main Airport 150 km Away Suspends Ops",
+      "answer": "Indonesia",
       "options": [
-        "Suns",
-        "150",
-        "Signs",
-        "Week"
-      ]
-    },
-    {
-      "blanked": "New DLSS 5 Swapper Tool Brings Neural Rendering to Games ______ Never Supported",
-      "answer": "NVIDIA",
-      "options": [
-        "Office",
-        "Goni",
-        "NVIDIA",
-        "Hezbollah"
-      ]
-    },
-    {
-      "blanked": "IPOs This Week: Rentomojo, Kanohar Electricals, Nine Others To ______ Rs 7,055 Crore — Check Details",
-      "answer": "Raise",
-      "options": [
-        "Longevity",
-        "Raise",
-        "Iran",
-        "3854"
-      ]
-    },
-    {
-      "blanked": "What To Expect At September 9 ______ Event: Foldable iPhone, iPhone 18 Pro",
-      "answer": "Apple",
-      "options": [
-        "100",
-        "Signs",
-        "Apple",
-        "SRCC"
-      ]
-    },
-    {
-      "blanked": "US, Iran engaged in tanker war: ______ is the months-long conflict headed?",
-      "answer": "Where",
-      "options": [
-        "Where",
-        "2026",
-        "271",
+        "Gandhi",
+        "Your",
+        "Indonesia",
         "India"
       ]
     },
     {
-      "blanked": "Hanuman Ansh ______ 30 Box Office Collections: Continues MIRACULOUS run with Rs 16 crore 5th Saturday, on verge of entering Rs 100 crore club",
-      "answer": "Day",
+      "blanked": "Curtains of plasma could explain the mysterious swirling solar spicules on the ______ surface",
+      "answer": "Suns",
       "options": [
-        "Zelenskys",
-        "Delhi",
-        "Hamas",
-        "Day"
+        "Summit",
+        "NASAs",
+        "Bhasin",
+        "Suns"
       ]
     },
     {
-      "blanked": "Landslide hits ______ Mangan, partially blocks Teesta River flow",
-      "answer": "Sikkims",
+      "blanked": "Iran planning ‘October 7-style’ multi-front, coordinated attack on ______ Report | World News",
+      "answer": "Israel",
       "options": [
-        "Sikkims",
-        "Main",
-        "3854",
-        "East"
+        "Nazism",
+        "Complete",
+        "Israel",
+        "271"
       ]
     },
     {
-      "blanked": "China Masters 2026 badminton: ______ Rankireddy-Chirag Shetty fight back to claim historic title",
-      "answer": "Satwiksairaj",
+      "blanked": "'Start of real war': ______ accuses Germany of Nazism, rejects drone accusations",
+      "answer": "Russia",
       "options": [
-        "Cup",
-        "Satwiksairaj",
-        "ISRO",
-        "150"
+        "Drug-Resistant",
+        "Russia",
+        "Custody",
+        "Cup"
       ]
     },
     {
-      "blanked": "Are ISRO activities being privatised? ______ staff seek Govt response",
-      "answer": "Anxious",
+      "blanked": "Putin Says 'No Strikes On ______ For 3 Days' After Zelensky's Ceasefire Pitch",
+      "answer": "Kyiv",
       "options": [
-        "Anxious",
-        "Konda",
-        "Hamas",
-        "Trophy"
+        "Prices",
+        "Kyiv",
+        "Baleno",
+        "Epilepsy"
       ]
     },
     {
-      "blanked": "India vs Bangladesh Highlights, AFC U-20 Asian Cup 2027 Qualifiers: IND 3-0 BAN; Blue ______ almost book ticket to China",
-      "answer": "Colts",
+      "blanked": "Forget iPhone 18 Pro ______ iPhone Ultra is said to feature ultra-thin design and MagSafe support",
+      "answer": "Max",
       "options": [
-        "World",
-        "Colts",
-        "Ishan",
-        "Qualifiers"
+        "Amrapali",
+        "India",
+        "Max",
+        "Contestants"
       ]
     },
     {
-      "blanked": "Forget iPhone 18 Pro Max: iPhone ______ is said to feature ultra-thin design and MagSafe support",
-      "answer": "Ultra",
+      "blanked": "Apple iPhone 18 Pro ______ Date Schedule: Your Complete September Countdown",
+      "answer": "Release",
       "options": [
-        "Ultra",
-        "Around",
-        "Suns",
-        "Trophy"
+        "Box",
+        "Ahead",
+        "Release",
+        "Human"
       ]
     },
     {
-      "blanked": "Pig Kidney Transplant Patient Survives 271 Days, Then Successfully Receives ______ Kidney—Setting New Longevity Record",
-      "answer": "Human",
+      "blanked": "China Masters 2026 badminton: ______ fight back to win historic title",
+      "answer": "Satwik-Chirag",
       "options": [
-        "Crosses",
-        "Pitch",
-        "Human",
-        "Boss"
+        "Dubey",
+        "Kishan",
+        "Satwik-Chirag",
+        "Flow"
+      ]
+    },
+    {
+      "blanked": "Could life exist on ______ Peptides survive harsh acid.",
+      "answer": "Venus",
+      "options": [
+        "Wilderness",
+        "Remands",
+        "Venus",
+        "Contestants"
+      ]
+    },
+    {
+      "blanked": "Rahul Gandhi targets PM ______ over police action on Bihar students",
+      "answer": "Modi",
+      "options": [
+        "Modi",
+        "Hermann",
+        "Facelift",
+        "Irans"
+      ]
+    },
+    {
+      "blanked": "Pig Kidney Transplant Patient Survives ______ Days, Then Successfully Receives Human Kidney—Setting New Longevity Record",
+      "answer": "271",
+      "options": [
+        "Date",
+        "2027",
+        "Raise",
+        "271"
+      ]
+    },
+    {
+      "blanked": "'Not Everything Is A Cryptic Message About My Relationship': Jasmin Bhasin On Aly Goni Break Up ______",
+      "answer": "Rumours",
+      "options": [
+        "Rumours",
+        "2027",
+        "Boss",
+        "Give"
       ]
     }
   ]
