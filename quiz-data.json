@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-09-06T08:55:10.494Z",
+  "generatedAt": "2026-09-06T12:31:40.291Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "CJP slams PM Modi for reviving ‘Dimagi Naxal’ remark at SRCC: ‘Give hope, not stupid labels’ | India News",
+    "Satya Niketan building collapse: House collapses in Delhi; people feared trapped",
+    "Amid Youth Pitch At Top Delhi College, PM Modi Targets \"Dimagi Naxals\"",
     "'Permanently disabled': US shares video of strike on Iranian tanker, issues warning",
-    "Jharkhand Minister Sudivya Sonu Dies Of Cardiac Arrest",
-    "‘Sexual Advances, Lewd Remarks': 10 JNU Students Accuse Professor, ICC Probe Underway",
+    "Delhi court sends Swatantra Bhardwaj to judicial custody for a day in Jantar Mantar assault case",
+    "WhatsApp chat triggers JNU sexual harassment probe against professor, 11 students register complaint | India News",
+    "Putin Orders Three-Day Halt To Strikes On Ukraine As Trump's Envoys Reach Moscow",
+    "Letter sent after GSLV launch: ISRO staff question trajectory of space privatisation, want chief to clarify",
+    "Jharkhand tourism minister Sudivya Kumar dies of heart attack",
+    "Family Stops Bike To Answer Call, Gets Run Over By Speeding Car In Kerala",
     "Centre Notifies Appointments Of Chief Justices At Eight High Courts",
-    "Justice RV Ghuge appointed Chief Justice of Calcutta High Court",
-    "Pothole Leaves Bengaluru Woman With Crushed Ankle, Rs 2 Lakh Hospital Bill",
-    "8 die after suspected toxic liquor consumption in MP's Sagar, 3 critical",
-    "Thousands of ISRO employees question fate, write to chairman amid privatisation push",
-    "Monsoon to march across India on Sunday: Heavy showers forecast in these states",
-    "Chinese national rescued from Nepal tunnel 10 days after flash flood",
+    "West Asia conflict LIVE updates: Iran's response to U.S. attacks will be 'more painful', parliament speaker says",
+    "Iran targets US warships with ballistic missiles, warns of ‘severe response’",
+    "Rescued From House, Pulled From Tunnel: 2 More Survivors In Flood-Hit Nepal",
     "Indonesia’s main airport suspends flights due to Anak Krakatau eruption",
-    "West Asia conflict LIVE updates: Iran retaliates after U.S. strikes oil tankers",
-    "Fuel tanker blast in western Iran kills at least 10",
+    "Dalal Street Week Ahead: US-Iran situation, US inflation data among 10 key factors to watch",
+    "11 IPOs worth Rs 7,055 crore to hit D-Street next week; Rentomojo, Karamtara among key issues",
     "PM Modi: Those who put India in Fragile 5 doubting GDP",
-    "Zee Founder Subhash Chandra faces CBI heat over defaulted loans, ₹1,322 crore loss to LIC Housing | India News",
-    "India's IPO rush shifts into high gear as record six issues line up for one day",
-    "From Bengaluru's Basavanagudi to Adobe CEO: Anil Chakravarthy to steer software giant in the AI era",
-    "iPhone 18 Pro Could Get A20 Pro Chip, Major Camera Upgrades: What To Expect",
-    "‘Attribution decay’ complicates the picture of AI-generated images, scientists find",
+    "CBI books Subhash Chandra, others over alleged ₹1,322-crore loss to LIC Housing Finance",
+    "Nvidia Will Eventually Bring DLSS 5 to Older RTX 4000 Graphics Cards, But It'll Probably Run Horribly",
+    "What To Expect At September 9 Apple Event: Foldable iPhone, iPhone 18 Pro",
     "Spigen teases first foldable iPhone with pic of new case | How do you all get away with this?: X user | Inshorts",
-    "POCO X8 and POCO X8 Power launched in India with up to 10,000mAh battery, Snapdragon chipsets and 1.5K...",
-    "Early Box Office Trends: Mirzapur The Movie emerges SUPER HIT with day two seeing strong growth",
-    "'Toxic' box office collections day 11: Yash starrer gets Saturday boost; India net reaches Rs 243.09 Cr;",
-    "Bigg Boss Tamil 10: Confirmed list of contestants of Vijay Sethupathi hosted show Bigg Boss Tamil 10"
+    "Minecraft Wilderness Bound update: Release date, features, and more details",
+    "Mirzapur The Movie Box Office Collections: Ali Fazal, Pankaj Tripathi, Divyenndu starrer netts Rs. 57 Cr in 2 days in India",
+    "'Set Was Vegetarian, We Did Hanuman Chalisa Daily': Hanuman Ansh Director On Making A Film On Neem Karoli Baba",
+    "Bigg Boss 20 Contestants List: Mary Kom, Aman Gandhi, Mahhi Vij rumoured to join Salman Khan’s show"
   ],
   "quiz": [
     {
-      "blanked": "Bigg ______ Tamil 10: Confirmed list of contestants of Vijay Sethupathi hosted show Bigg Boss Tamil 10",
-      "answer": "Boss",
+      "blanked": "Nvidia Will Eventually Bring DLSS 5 to Older ______ 4000 Graphics Cards, But It'll Probably Run Horribly",
+      "answer": "RTX",
       "options": [
-        "Founder",
-        "Boss",
-        "PCB",
-        "Inhibitors"
+        "Finance",
+        "RTX",
+        "2026",
+        "GSLV"
       ]
     },
     {
-      "blanked": "Siraj, Padikkal add star power as South Zone and East ______ clash for Duleep Trophy title",
-      "answer": "Zone",
+      "blanked": "Family Stops Bike To ______ Call, Gets Run Over By Speeding Car In Kerala",
+      "answer": "Answer",
       "options": [
-        "Space",
-        "Zone",
-        "Sunday",
-        "Woman"
+        "Answer",
+        "Epilepsy",
+        "Gandhi",
+        "Inshorts"
       ]
     },
     {
-      "blanked": "From Bengaluru's Basavanagudi to Adobe CEO: Anil ______ to steer software giant in the AI era",
-      "answer": "Chakravarthy",
+      "blanked": "Satya ______ building collapse: House collapses in Delhi; people feared trapped",
+      "answer": "Niketan",
       "options": [
-        "England",
-        "Housing",
-        "Ansh",
-        "Chakravarthy"
+        "LIC",
+        "Niketan",
+        "Car",
+        "South"
       ]
     },
     {
-      "blanked": "‘Sexual Advances, Lewd Remarks': 10 JNU ______ Accuse Professor, ICC Probe Underway",
-      "answer": "Students",
+      "blanked": "'Set Was Vegetarian, We Did Hanuman Chalisa Daily': Hanuman Ansh Director On ______ A Film On Neem Karoli Baba",
+      "answer": "Making",
       "options": [
-        "Chandra",
-        "Health",
-        "Fragile",
-        "Students"
+        "Anak",
+        "Advani",
+        "Making",
+        "250"
       ]
     },
     {
-      "blanked": "CJP slams PM Modi for reviving ‘Dimagi ______ remark at SRCC: ‘Give hope, not stupid labels’ | India News",
-      "answer": "Naxal",
+      "blanked": "Rescued From House, Pulled From ______ 2 More Survivors In Flood-Hit Nepal",
+      "answer": "Tunnel",
       "options": [
-        "1322",
-        "Naxal",
-        "Basavanagudi",
-        "Test"
+        "Tunnel",
+        "Baba",
+        "Progression",
+        "Release"
       ]
     },
     {
-      "blanked": "Thousands of ______ employees question fate, write to chairman amid privatisation push",
+      "blanked": "Shree Charani, Prema Rawat spin ______ out for 55 in one-sided contest",
+      "answer": "Pakistan",
+      "options": [
+        "Mantar",
+        "Rentomojo",
+        "Vij",
+        "Pakistan"
+      ]
+    },
+    {
+      "blanked": "West Asia conflict ______ updates: Iran's response to U.S. attacks will be 'more painful', parliament speaker says",
+      "answer": "LIVE",
+      "options": [
+        "Top",
+        "Justices",
+        "Halt",
+        "LIVE"
+      ]
+    },
+    {
+      "blanked": "China Masters ______ badminton: Satwik-Chirag reach third final in four editions",
+      "answer": "2026",
+      "options": [
+        "Progression",
+        "2026",
+        "Baba",
+        "Survivors"
+      ]
+    },
+    {
+      "blanked": "Letter sent after GSLV launch: ______ staff question trajectory of space privatisation, want chief to clarify",
       "answer": "ISRO",
       "options": [
-        "ISRO",
-        "Pro",
-        "Woman",
-        "Dark"
-      ]
-    },
-    {
-      "blanked": "Centre Notifies ______ Of Chief Justices At Eight High Courts",
-      "answer": "Appointments",
-      "options": [
-        "Appointments",
-        "Upgrades",
-        "Bengalurus",
-        "HIT"
-      ]
-    },
-    {
-      "blanked": "Early Box Office Trends: Mirzapur The ______ emerges SUPER HIT with day two seeing strong growth",
-      "answer": "Movie",
-      "options": [
-        "Switch",
-        "Suns",
-        "What",
-        "Movie"
-      ]
-    },
-    {
-      "blanked": "Indonesia’s main airport suspends flights due to Anak ______ eruption",
-      "answer": "Krakatau",
-      "options": [
-        "Eight",
-        "Dimagi",
-        "Krakatau",
-        "Sudivya"
-      ]
-    },
-    {
-      "blanked": "'Every Indian over 18 should check cholesterol levels': Cardiac surgeon Dr Devi Prasad ______",
-      "answer": "Shetty",
-      "options": [
         "Inshorts",
-        "Shetty",
-        "Chronic",
-        "Bhambri"
-      ]
-    },
-    {
-      "blanked": "West Asia conflict LIVE updates: ______ retaliates after U.S. strikes oil tankers",
-      "answer": "Iran",
-      "options": [
-        "JNU",
-        "Ankle",
-        "Ansh",
-        "Iran"
-      ]
-    },
-    {
-      "blanked": "Effect of Sodium-Glucose Cotransporter-2 (SGLT-2) Inhibitors on Chronic Kidney Disease ______ A Systematic Review",
-      "answer": "Progression",
-      "options": [
-        "Major",
         "Progression",
-        "Sethupathi",
-        "Ghuge"
+        "2026",
+        "ISRO"
+      ]
+    },
+    {
+      "blanked": "Man Survives 271 Days on Pig Kidney, Receives Human ______",
+      "answer": "Transplant",
+      "options": [
+        "Masters",
+        "Three-Day",
+        "Transplant",
+        "Expect"
+      ]
+    },
+    {
+      "blanked": "CBI books Subhash Chandra, others over alleged ₹1,322-crore loss to ______ Housing Finance",
+      "answer": "LIC",
+      "options": [
+        "Why",
+        "LIC",
+        "Drug-Resistant",
+        "Kya"
+      ]
+    },
+    {
+      "blanked": "Sickle Cell Trait + Diabetes: ______ Your A1C May Not Be Accurate",
+      "answer": "Why",
+      "options": [
+        "Reach",
+        "Why",
+        "Swatantra",
+        "Halt"
       ]
     }
   ]
