@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-09-06T12:31:40.291Z",
+  "generatedAt": "2026-09-06T15:46:12.521Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "Satya Niketan building collapse: House collapses in Delhi; people feared trapped",
-    "Amid Youth Pitch At Top Delhi College, PM Modi Targets \"Dimagi Naxals\"",
-    "'Permanently disabled': US shares video of strike on Iranian tanker, issues warning",
+    "Dozens feared trapped in collapsed building in Delhi",
     "Delhi court sends Swatantra Bhardwaj to judicial custody for a day in Jantar Mantar assault case",
-    "WhatsApp chat triggers JNU sexual harassment probe against professor, 11 students register complaint | India News",
-    "Putin Orders Three-Day Halt To Strikes On Ukraine As Trump's Envoys Reach Moscow",
-    "Letter sent after GSLV launch: ISRO staff question trajectory of space privatisation, want chief to clarify",
-    "Jharkhand tourism minister Sudivya Kumar dies of heart attack",
+    "Putin Says 'No Strikes On Kyiv For 3 Days' After Zelensky's Ceasefire Pitch",
+    "US, Iran engaged in tanker war: Where is the months-long conflict headed?",
+    "CJP slams PM Modi for reviving ‘Dimagi Naxal’ remark at SRCC: ‘Give hope, not stupid labels’ | India News",
+    "Are ISRO activities being privatised? Anxious staff seek Govt response",
+    "Landslide hits Sikkim’s Mangan, partially blocks Teesta River flow",
     "Family Stops Bike To Answer Call, Gets Run Over By Speeding Car In Kerala",
-    "Centre Notifies Appointments Of Chief Justices At Eight High Courts",
-    "West Asia conflict LIVE updates: Iran's response to U.S. attacks will be 'more painful', parliament speaker says",
+    "19 lakh lives impacted as Ganga breaches flood mark in Patna",
+    "Fact Check: Is Konda Surekha Leaving Congress?",
+    "Volcano Erupts In Indonesia, Main Airport 150 km Away Suspends Ops",
+    "Ukraine Runs Short Of Key Missiles, MiG-29 Jets Bring Back 1970s Weapon",
     "Iran targets US warships with ballistic missiles, warns of ‘severe response’",
-    "Rescued From House, Pulled From Tunnel: 2 More Survivors In Flood-Hit Nepal",
-    "Indonesia’s main airport suspends flights due to Anak Krakatau eruption",
-    "Dalal Street Week Ahead: US-Iran situation, US inflation data among 10 key factors to watch",
-    "11 IPOs worth Rs 7,055 crore to hit D-Street next week; Rentomojo, Karamtara among key issues",
+    "Iran planning ‘multi-front’ attack on Israel with Hezbollah, Hamas, Houthis: Report",
+    "IPOs This Week: Rentomojo, Kanohar Electricals, Nine Others To Raise Rs 7,055 Crore — Check Details",
+    "Maruti Baleno Facelift: Top 5 Highlights",
     "PM Modi: Those who put India in Fragile 5 doubting GDP",
     "CBI books Subhash Chandra, others over alleged ₹1,322-crore loss to LIC Housing Finance",
-    "Nvidia Will Eventually Bring DLSS 5 to Older RTX 4000 Graphics Cards, But It'll Probably Run Horribly",
     "What To Expect At September 9 Apple Event: Foldable iPhone, iPhone 18 Pro",
-    "Spigen teases first foldable iPhone with pic of new case | How do you all get away with this?: X user | Inshorts",
+    "New DLSS 5 Swapper Tool Brings Neural Rendering to Games NVIDIA Never Supported",
     "Minecraft Wilderness Bound update: Release date, features, and more details",
-    "Mirzapur The Movie Box Office Collections: Ali Fazal, Pankaj Tripathi, Divyenndu starrer netts Rs. 57 Cr in 2 days in India",
-    "'Set Was Vegetarian, We Did Hanuman Chalisa Daily': Hanuman Ansh Director On Making A Film On Neem Karoli Baba",
-    "Bigg Boss 20 Contestants List: Mary Kom, Aman Gandhi, Mahhi Vij rumoured to join Salman Khan’s show"
+    "Forget iPhone 18 Pro Max: iPhone Ultra is said to feature ultra-thin design and MagSafe support",
+    "Hanuman Ansh Day 30 Box Office Collections: Continues MIRACULOUS run with Rs 16 crore 5th Saturday, on verge of entering Rs 100 crore club",
+    "Salman Khan tells Manoj Tiwari's daughter Rhiti ‘baap pe mat jaana’ during Bigg Boss 20 premiere. Watch | Hindustan Times",
+    "Jasmin Bhasin slams Aly Goni breakup rumours after deleting Instagram post: ‘Not everything is about my relationship’ | Hindustan Times"
   ],
   "quiz": [
     {
-      "blanked": "Nvidia Will Eventually Bring DLSS 5 to Older ______ 4000 Graphics Cards, But It'll Probably Run Horribly",
-      "answer": "RTX",
+      "blanked": "Volcano Erupts In Indonesia, Main Airport ______ km Away Suspends Ops",
+      "answer": "150",
       "options": [
-        "Finance",
-        "RTX",
+        "Suns",
+        "150",
+        "Signs",
+        "Week"
+      ]
+    },
+    {
+      "blanked": "New DLSS 5 Swapper Tool Brings Neural Rendering to Games ______ Never Supported",
+      "answer": "NVIDIA",
+      "options": [
+        "Office",
+        "Goni",
+        "NVIDIA",
+        "Hezbollah"
+      ]
+    },
+    {
+      "blanked": "IPOs This Week: Rentomojo, Kanohar Electricals, Nine Others To ______ Rs 7,055 Crore — Check Details",
+      "answer": "Raise",
+      "options": [
+        "Longevity",
+        "Raise",
+        "Iran",
+        "3854"
+      ]
+    },
+    {
+      "blanked": "What To Expect At September 9 ______ Event: Foldable iPhone, iPhone 18 Pro",
+      "answer": "Apple",
+      "options": [
+        "100",
+        "Signs",
+        "Apple",
+        "SRCC"
+      ]
+    },
+    {
+      "blanked": "US, Iran engaged in tanker war: ______ is the months-long conflict headed?",
+      "answer": "Where",
+      "options": [
+        "Where",
         "2026",
-        "GSLV"
+        "271",
+        "India"
       ]
     },
     {
-      "blanked": "Family Stops Bike To ______ Call, Gets Run Over By Speeding Car In Kerala",
-      "answer": "Answer",
+      "blanked": "Hanuman Ansh ______ 30 Box Office Collections: Continues MIRACULOUS run with Rs 16 crore 5th Saturday, on verge of entering Rs 100 crore club",
+      "answer": "Day",
       "options": [
-        "Answer",
-        "Epilepsy",
-        "Gandhi",
-        "Inshorts"
+        "Zelenskys",
+        "Delhi",
+        "Hamas",
+        "Day"
       ]
     },
     {
-      "blanked": "Satya ______ building collapse: House collapses in Delhi; people feared trapped",
-      "answer": "Niketan",
+      "blanked": "Landslide hits ______ Mangan, partially blocks Teesta River flow",
+      "answer": "Sikkims",
       "options": [
-        "LIC",
-        "Niketan",
-        "Car",
-        "South"
+        "Sikkims",
+        "Main",
+        "3854",
+        "East"
       ]
     },
     {
-      "blanked": "'Set Was Vegetarian, We Did Hanuman Chalisa Daily': Hanuman Ansh Director On ______ A Film On Neem Karoli Baba",
-      "answer": "Making",
+      "blanked": "China Masters 2026 badminton: ______ Rankireddy-Chirag Shetty fight back to claim historic title",
+      "answer": "Satwiksairaj",
       "options": [
-        "Anak",
-        "Advani",
-        "Making",
-        "250"
+        "Cup",
+        "Satwiksairaj",
+        "ISRO",
+        "150"
       ]
     },
     {
-      "blanked": "Rescued From House, Pulled From ______ 2 More Survivors In Flood-Hit Nepal",
-      "answer": "Tunnel",
+      "blanked": "Are ISRO activities being privatised? ______ staff seek Govt response",
+      "answer": "Anxious",
       "options": [
-        "Tunnel",
-        "Baba",
-        "Progression",
-        "Release"
+        "Anxious",
+        "Konda",
+        "Hamas",
+        "Trophy"
       ]
     },
     {
-      "blanked": "Shree Charani, Prema Rawat spin ______ out for 55 in one-sided contest",
-      "answer": "Pakistan",
+      "blanked": "India vs Bangladesh Highlights, AFC U-20 Asian Cup 2027 Qualifiers: IND 3-0 BAN; Blue ______ almost book ticket to China",
+      "answer": "Colts",
       "options": [
-        "Mantar",
-        "Rentomojo",
-        "Vij",
-        "Pakistan"
+        "World",
+        "Colts",
+        "Ishan",
+        "Qualifiers"
       ]
     },
     {
-      "blanked": "West Asia conflict ______ updates: Iran's response to U.S. attacks will be 'more painful', parliament speaker says",
-      "answer": "LIVE",
+      "blanked": "Forget iPhone 18 Pro Max: iPhone ______ is said to feature ultra-thin design and MagSafe support",
+      "answer": "Ultra",
       "options": [
-        "Top",
-        "Justices",
-        "Halt",
-        "LIVE"
+        "Ultra",
+        "Around",
+        "Suns",
+        "Trophy"
       ]
     },
     {
-      "blanked": "China Masters ______ badminton: Satwik-Chirag reach third final in four editions",
-      "answer": "2026",
+      "blanked": "Pig Kidney Transplant Patient Survives 271 Days, Then Successfully Receives ______ Kidney—Setting New Longevity Record",
+      "answer": "Human",
       "options": [
-        "Progression",
-        "2026",
-        "Baba",
-        "Survivors"
-      ]
-    },
-    {
-      "blanked": "Letter sent after GSLV launch: ______ staff question trajectory of space privatisation, want chief to clarify",
-      "answer": "ISRO",
-      "options": [
-        "Inshorts",
-        "Progression",
-        "2026",
-        "ISRO"
-      ]
-    },
-    {
-      "blanked": "Man Survives 271 Days on Pig Kidney, Receives Human ______",
-      "answer": "Transplant",
-      "options": [
-        "Masters",
-        "Three-Day",
-        "Transplant",
-        "Expect"
-      ]
-    },
-    {
-      "blanked": "CBI books Subhash Chandra, others over alleged ₹1,322-crore loss to ______ Housing Finance",
-      "answer": "LIC",
-      "options": [
-        "Why",
-        "LIC",
-        "Drug-Resistant",
-        "Kya"
-      ]
-    },
-    {
-      "blanked": "Sickle Cell Trait + Diabetes: ______ Your A1C May Not Be Accurate",
-      "answer": "Why",
-      "options": [
-        "Reach",
-        "Why",
-        "Swatantra",
-        "Halt"
+        "Crosses",
+        "Pitch",
+        "Human",
+        "Boss"
       ]
     }
   ]
