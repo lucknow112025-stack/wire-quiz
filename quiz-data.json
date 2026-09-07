@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-09-07T18:01:32.767Z",
+  "generatedAt": "2026-09-07T21:29:19.667Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "Six killed in Delhi building collapse, rescuers search through rubble",
-    "Far-right win leaves Germany's Merz shaken as AfD plots path to power",
+    "Satya Niketan: Rescuers dig through debris as seven dead in building collapse in Delhi",
     "'Despotic' Officers Will Turn UP Into 'Orwellian Dystopia' : Allahabad High Court Slams Noida DM For NSA...",
-    "Delhi HC agrees to hear on September 7 Hindutva influencer Swatantra Bhardwaj’s plea against arrest",
-    "UN Map Vote Sparks Fresh India-Pakistan Row Over Disputed Region",
-    "Telangana Assembly Day 1 Session Adjourned, To Resume On Tuesday",
-    "Manipur music teacher beaten to death for objecting to shouting outside Delhi home",
-    "Oct 6 bybolls for 5 Assembly seats in Tamil Nadu, Puducherry, Bengal & 1 Lok Sabha seat in Assam",
-    "'Why Information About X Account Needed In Road Rage FIR?' : Supreme Court Asks UP Police In Journalist...",
-    "Inside Mayawati's Family Tussle: Changing Roles And An Upcoming Election",
-    "West Asia conflict updates: Iran's response to U.S. attacks will be 'more painful', parliament speaker says",
+    "Delhi court sends Swatantra Bhardwaj to judicial custody for 14 days in Jantar Mantar assault case",
+    "LPG booking interval for rural consumers cut to 25 days from 45",
+    "Far-right win leaves Germany's Merz shaken as AfD plots path to power",
+    "Air India Express' Abu Dhabi-bound flight forced to return to Kochi after engine oil warning: ‘Danger’ | India News",
+    "Manipuri musician dies after delivery boys, dhaba staff assault him in Delhi; all accused held | India News",
+    "'Head in fridge, fingers cut off': Woman murdered in Guwahati flat; husband surrenders",
+    "India, China hold first Corps Commander meeting in Arunachal",
+    "India's Path to Blue Skies",
+    "Iran warns US energy assets in Gulf are vulnerable after latest clashes",
+    "Convicted war criminal Ratko Mladic gets hero’s burial in Serbia",
+    "After US Talks, Zelensky Says Russia-Ukraine War May Continue Into Winter",
     "Nepal holds national day of mourning for victims of flash flood disaster",
-    "5 Dead After Amazon Cargo Plane Skids Off Runway, Bursts Into Flames In Miami",
-    "West Asia conflict LIVE: Israeli strikes on southern Lebanese town kill 11, state media says",
-    "Stock Market Close: Sensex drops 384 pts, Nifty settles at 23,779; Nifty IT tumbles over 2%",
-    "Alternative-fuel car sales in India top petrol on cost, E20 concerns, dealers' body says",
-    "NSE IPO countdown begins: SBI, IFCI, GIC Re, Bank of Baroda shares in focus after SEBI nod",
-    "‘Make Air India Great Again’: Incoming CEO Tewolde Gebremariam puts safety first",
+    "Trade Setup for September 8: Top 15 things to know before the opening bell",
+    "Top gainers & losers on Sept 7: Infosys down 4%, SBI Life down 2%; Apollo Hospital up 1% were among top movers",
+    "India Ramps Up Rail Coal Deliveries as Power Plant Stockpiles Dwindle",
+    "At least five dead after Amazon cargo plane barreled off runway at Miami airport",
     "Leaked video shows iPhone 18 Pro Max in Dark Cherry and 18 Pro in Blue - GSMArena.com news",
-    "Sony just refreshed three of its most popular headphones with replaceable batteries and punchier sound — say hello to the XM4C, CH730N and CH530",
-    "200+ million LG TVs reportedly keep collecting data when turned off, even without an internet connection",
-    "iPhone 17 Prices Slashed Further Days Before iPhone 18 Release",
-    "'Mirzapur: The Movie' box office collection Day 4 [LIVE]: Pankaj Tripathi, Ravi Kishan, and Ali Fazal sta",
+    "Wi-Fi 8 Is Coming: Here's How Next-Gen Wireless Will Boost Real-World Reliability",
+    "Scientists find a way to slash computer memory energy use by orders of magnitude",
+    "Apple set to launch its first foldable iPhone, the pricey iPhone Ultra, alongside new AirPods and HomePods.",
     "Mammootty Turns 75: The Fitness Habits That Help Him Stay Strong And Youthful",
+    "'Mirzapur: The Movie' box office collection Day 4 [LIVE]: Pankaj Tripathi, Ravi Kishan, and Ali Fazal sta",
     "Bigg Boss 20 Confirmed Contestants: Meet all the 17 entrants of Salman Khan show– Kanika Mann, Aasif Khan, Qazi Ahmad, to Isha Rikhi"
   ],
   "quiz": [
     {
-      "blanked": "Leaked video shows iPhone 18 ______ Max in Dark Cherry and 18 Pro in Blue - GSMArena.com news",
-      "answer": "Pro",
+      "blanked": "Intensive Breastfeeding Linked to Better Postpartum ______ Health",
+      "answer": "Lipid",
       "options": [
-        "23779",
-        "Again",
-        "Adjourned",
-        "Pro"
+        "Lipid",
+        "Him",
+        "Noida",
+        "Coming"
       ]
     },
     {
-      "blanked": "'Despotic' Officers Will Turn UP Into 'Orwellian Dystopia' : Allahabad High ______ Slams Noida DM For NSA...",
-      "answer": "Court",
+      "blanked": "At least five dead after ______ cargo plane barreled off runway at Miami airport",
+      "answer": "Amazon",
       "options": [
-        "Trophy",
-        "Court",
-        "Cherry",
-        "Help"
+        "Dark",
+        "Amazon",
+        "MENTAL",
+        "September"
       ]
     },
     {
-      "blanked": "Six killed in ______ building collapse, rescuers search through rubble",
+      "blanked": "Australia reveal strong squad for ______ Africa Test series",
+      "answer": "South",
+      "options": [
+        "Merz",
+        "Germanys",
+        "Blue",
+        "South"
+      ]
+    },
+    {
+      "blanked": "After US Talks, Zelensky Says Russia-Ukraine War May Continue ______ Winter",
+      "answer": "Into",
+      "options": [
+        "HEALTH",
+        "Nancy",
+        "Top",
+        "Into"
+      ]
+    },
+    {
+      "blanked": "Balancing an egg: ______ scientists built a floating magnet to hunt dark matter",
+      "answer": "How",
+      "options": [
+        "How",
+        "Salman",
+        "Express",
+        "Path"
+      ]
+    },
+    {
+      "blanked": "Satya Niketan: Rescuers dig through debris as seven dead in building collapse in ______",
       "answer": "Delhi",
       "options": [
-        "League",
-        "Delhi",
-        "Gujarat",
-        "Max"
-      ]
-    },
-    {
-      "blanked": "“Precision Psychiatry” The Newest ______ in Global Mental Health",
-      "answer": "Concept",
-      "options": [
-        "Isha",
-        "EBFC",
-        "LIVE",
-        "Concept"
-      ]
-    },
-    {
-      "blanked": "Manipur music teacher beaten to death for objecting to shouting outside ______ home",
-      "answer": "Delhi",
-      "options": [
-        "Region",
-        "Origin",
-        "Fazal",
+        "Gulf",
+        "Dwindle",
+        "Wireless",
         "Delhi"
       ]
     },
     {
-      "blanked": "NSE IPO countdown begins: SBI, IFCI, GIC Re, Bank of ______ shares in focus after SEBI nod",
-      "answer": "Baroda",
+      "blanked": "India, ______ hold first Corps Commander meeting in Arunachal",
+      "answer": "China",
       "options": [
-        "Meet",
-        "Health",
-        "Baroda",
-        "Kishans"
+        "China",
+        "PSYCHIATRY",
+        "Roman",
+        "Coming"
       ]
     },
     {
-      "blanked": "iPhone 17 Prices ______ Further Days Before iPhone 18 Release",
-      "answer": "Slashed",
+      "blanked": "PRECISION PSYCHIATRY THE ______ CONCEPT IN GLOBAL MENTAL HEALTH",
+      "answer": "NEWEST",
       "options": [
-        "CEO",
-        "Information",
-        "Slashed",
-        "Origin"
+        "NEWEST",
+        "Boost",
+        "NASA",
+        "Germanys"
       ]
     },
     {
-      "blanked": "'Mirzapur: The Movie' box office collection Day 4 [LIVE]: Pankaj Tripathi, Ravi ______ and Ali Fazal sta",
-      "answer": "Kishan",
+      "blanked": "Infineon HiRel Power Semiconductors Support Successful Launch of NASA ______ Grace Roman Space Telescope",
+      "answer": "Nancy",
       "options": [
-        "Kishan",
-        "Swatantra",
-        "Earths",
-        "Merz"
+        "Jantar",
+        "War",
+        "Court",
+        "Nancy"
       ]
     },
     {
-      "blanked": "Oct 6 bybolls for 5 Assembly seats in ______ Nadu, Puducherry, Bengal & 1 Lok Sabha seat in Assam",
-      "answer": "Tamil",
+      "blanked": "India ______ Up Rail Coal Deliveries as Power Plant Stockpiles Dwindle",
+      "answer": "Ramps",
       "options": [
-        "Tamil",
-        "How",
-        "Calcutta",
-        "Confirmed"
+        "Ramps",
+        "AirPods",
+        "Allahabad",
+        "Life"
       ]
     },
     {
-      "blanked": "200+ million LG ______ reportedly keep collecting data when turned off, even without an internet connection",
-      "answer": "TVs",
+      "blanked": "Manipuri musician dies after delivery boys, dhaba staff assault him in Delhi; all accused held | India ______",
+      "answer": "News",
       "options": [
-        "TVs",
-        "Newest",
-        "Release",
-        "Mental"
+        "PSYCHIATRY",
+        "Life",
+        "Hospital",
+        "News"
       ]
     },
     {
-      "blanked": "Duleep Trophy final: Advantage East Zone after Ishan Kishan's ______",
-      "answer": "270",
+      "blanked": "'North pole and south pole': Ashish ______ compares Shubman Gill and Hardik Pandya as captains",
+      "answer": "Nehra",
       "options": [
-        "Bhardwajs",
-        "270",
-        "Roles",
-        "Mini-Moon"
-      ]
-    },
-    {
-      "blanked": "West ______ conflict updates: Iran's response to U.S. attacks will be 'more painful', parliament speaker says",
-      "answer": "Asia",
-      "options": [
-        "IPO",
+        "South",
+        "Breastfeeding",
         "Confirmed",
-        "Asia",
-        "Semiconductors"
+        "Nehra"
       ]
     }
   ]
