@@ -1,63 +1,133 @@
 {
-  "generatedAt": "2026-09-06T21:58:30.756Z",
+  "generatedAt": "2026-09-07T01:17:56.175Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "Delhi building collapse LIVE: At least five dead; FIR registered against alleged owner",
+    "Delhi building collapse updates: At least five dead; FIR registered against alleged owner",
+    "US envoys arrive in Kyiv for Ukraine war talks after meeting Putin",
     "‘Completely baseless’: ISRO rejects reports of privatisation, calls them ‘incorrect’ | India News",
-    "Putin Says 'No Strikes On Kyiv For 3 Days' After Zelensky's Ceasefire Pitch",
     "Amid Youth Pitch At Top Delhi College, PM Modi Targets \"Dimagi Naxals\"",
-    "United States, Iranian forces fire at vessels in waters near Iran",
     "Chinese national rescued from Nepal tunnel 10 days after flash flood",
+    "United States, Iranian forces fire at vessels in waters near Iran",
     "Sachin Pilot Has His Task Cut Out - Unite Factions Before Rahul Gandhi Visit",
     "KCR Drops Bomb, Confirms Padayatra with 1 Lakh Farmers!",
-    "Karnataka CM DK Shivakumar urges students to study abroad, become job creators",
     "19 lakh lives impacted as Ganga breaches flood mark in Patna",
-    "West Asia conflict LIVE updates: Iran's response to U.S. attacks will be 'more painful', parliament speaker says",
-    "Volcano Erupts In Indonesia, Main Airport 150 km Away Suspends Ops",
-    "Yemeni forces claim strategic district amid intensified Houthi clashes",
+    "With India as host, here are better goals for BRICS than ‘confronting the West’",
+    "5 killed as Amazon cargo plane crashes off Miami runway; huge smoke plume seen in video",
+    "Indonesia cancels flights at Jakarta airport as Anak Krakatau volcano erupts",
     "Ukraine Moves To Legalise Porn To Pay For 30,000 Drones: Report",
-    "Amazon-linked Boeing 767 crashes off Miami runway, huge smoke plume seen in video",
-    "OPEC+ keeps oil output policy unchanged for October",
+    "‘They want war again’: Russia hits out at Germany over Leipzig airport drone row",
+    "Buy, Sell Or Hold: Paytm, LIC, Mazagon Dock, BEL And Varun Beverages — Ask Profit",
+    "Gold Price’s Coin Flip Lasted a Day",
     "NSE clarifies Ashishkumar Chauhan not in Tata Sons chairman race, denies report",
-    "Which Banks Win From The FCNR-B Boom: ICICI, SBI, HDFC Bank All Post Strong Hauls",
+    "OPEC+ keeps oil output policy unchanged for October",
     "iPhone 18 colors, Galaxy S27 Ultra camera detailed, Poco F9 series unveiled, Week 36 in review - GSMArena.com news",
     "Minecraft Wilderness Bound update: Release date, features, and more details",
     "Forget iPhone 18 Pro Max: iPhone Ultra is said to feature ultra-thin design and MagSafe support",
-    "GTA 5 Now Runs at 60 FPS on a PS5 Emulator, and GTA 6 Is the Obvious Next Question",
-    "'Toxic' box office collection Day 10 [LIVE]: Can Yash and Kiara Advani film close in on Rs 250 crore mile",
+    "TCL Showcases Expanded Gaming Monitor Range—And A Spectacular New Glasses-Free 3D Prototype",
     "Hanuman Ansh box office collection day 30 highlights: Neem Karoli Baba film powers past Rs 100 crore mark",
-    "After Badshah Divorce Announcement, Isha Rikhi Breaks Silence On 'Shocking Rumours' About Her Marriage"
+    "'Toxic' box office collection Day 10 [LIVE]: Can Yash and Kiara Advani film close in on Rs 250 crore mile",
+    "Spider-Man: Brand New Day North America Box Office: Tom Holland-Led Film Crosses $900M, Fastest & 2nd Film Ever To Cross This Major Milestone"
   ],
   "quiz": [
     {
-      "blanked": "Sachin Pilot Has His Task Cut Out - ______ Factions Before Rahul Gandhi Visit",
-      "answer": "Unite",
+      "blanked": "With ______ as host, here are better goals for BRICS than ‘confronting the West’",
+      "answer": "India",
       "options": [
-        "Satwiksairaj",
-        "Youth",
-        "Unite",
-        "You"
+        "Bomb",
+        "India",
+        "Ansh",
+        "Iranian"
       ]
     },
     {
-      "blanked": "NSE clarifies Ashishkumar Chauhan not in Tata ______ chairman race, denies report",
-      "answer": "Sons",
+      "blanked": "Chinese national rescued from ______ tunnel 10 days after flash flood",
+      "answer": "Nepal",
       "options": [
-        "Sons",
-        "Ganga",
-        "Kishan",
-        "Ultra"
+        "Nepal",
+        "Cut",
+        "Modi",
+        "States"
+      ]
+    },
+    {
+      "blanked": "Minecraft Wilderness Bound update: ______ date, features, and more details",
+      "answer": "Release",
+      "options": [
+        "Release",
+        "News",
+        "Pediatric",
+        "Tata"
       ]
     },
     {
       "blanked": "19 lakh lives impacted as ______ breaches flood mark in Patna",
       "answer": "Ganga",
       "options": [
-        "Risk",
+        "Flip",
+        "Drones",
+        "Moves",
+        "Ganga"
+      ]
+    },
+    {
+      "blanked": "Delhi building collapse updates: At least five dead; ______ registered against alleged owner",
+      "answer": "FIR",
+      "options": [
+        "FIR",
+        "Ask",
+        "Ansh",
+        "Legalise"
+      ]
+    },
+    {
+      "blanked": "Gold Price’s Coin Flip ______ a Day",
+      "answer": "Lasted",
+      "options": [
+        "Lasted",
+        "Moves",
+        "Amazon",
+        "Coin"
+      ]
+    },
+    {
+      "blanked": "Duleep ______ final: Kishan ton powers East Zone on dominant opening day",
+      "answer": "Trophy",
+      "options": [
+        "Major",
+        "Rahul",
+        "Crosses",
+        "Trophy"
+      ]
+    },
+    {
+      "blanked": "Why is the Sun’s atmosphere filled with wrinkled plasma curtains?? | Tap to know more | ______",
+      "answer": "Inshorts",
+      "options": [
+        "Diet",
         "Ganga",
+        "Inshorts",
+        "Galaxy"
+      ]
+    },
+    {
+      "blanked": "'Toxic' box office collection Day 10 [LIVE]: Can Yash and ______ Advani film close in on Rs 250 crore mile",
+      "answer": "Kiara",
+      "options": [
+        "Kiara",
+        "Confirms",
+        "Divyenndu",
+        "Keto"
+      ]
+    },
+    {
+      "blanked": "KCR Drops ______ Confirms Padayatra with 1 Lakh Farmers!",
+      "answer": "Bomb",
+      "options": [
+        "Drug-Resistant",
         "States",
-        "Jansen"
+        "Bomb",
+        "Report"
       ]
     },
     {
@@ -65,89 +135,19 @@
       "answer": "States",
       "options": [
         "States",
-        "Pay",
-        "Targets",
-        "Legalise"
-      ]
-    },
-    {
-      "blanked": "'Toxic' box office collection Day 10 [LIVE]: Can ______ and Kiara Advani film close in on Rs 250 crore mile",
-      "answer": "Yash",
-      "options": [
-        "Wilderness",
-        "Yash",
-        "HDFC",
-        "About"
-      ]
-    },
-    {
-      "blanked": "Ukraine Moves To Legalise Porn To Pay For ______ Drones: Report",
-      "answer": "30000",
-      "options": [
-        "Record",
-        "Keto",
-        "Iranian",
-        "30000"
-      ]
-    },
-    {
-      "blanked": "Indians at higher risk of early heart disease, says ______ cardiologist",
-      "answer": "KGMU",
-      "options": [
-        "KGMU",
-        "Win",
-        "Day",
-        "Satwiksairaj"
-      ]
-    },
-    {
-      "blanked": "GTA 5 Now Runs at 60 FPS on a PS5 Emulator, and ______ 6 Is the Obvious Next Question",
-      "answer": "GTA",
-      "options": [
-        "Boss",
-        "GTA",
-        "Banks",
-        "Pay"
-      ]
-    },
-    {
-      "blanked": "China Masters 2026 badminton: Satwiksairaj Rankireddy-Chirag ______ fight back to claim historic title",
-      "answer": "Shetty",
-      "options": [
-        "MagSafe",
-        "Shetty",
-        "Hauls",
-        "Visit"
-      ]
-    },
-    {
-      "blanked": "Pig Kidney Transplant Patient Survives 271 Days, Then Successfully Receives Human ______ New Longevity Record",
-      "answer": "KidneySetting",
-      "options": [
-        "Satwiksairaj",
-        "Galaxy",
-        "Roman",
-        "KidneySetting"
-      ]
-    },
-    {
-      "blanked": "Amid Youth Pitch At Top ______ College, PM Modi Targets \"Dimagi Naxals\"",
-      "answer": "Delhi",
-      "options": [
         "Delhi",
-        "Gunners",
-        "Suns",
-        "Ansh"
+        "Monza",
+        "Report"
       ]
     },
     {
-      "blanked": "Chinese national rescued from ______ tunnel 10 days after flash flood",
-      "answer": "Nepal",
+      "blanked": "Tri-series takeaways: ______ depth shines as Namibia push and Zimbabwe stumble",
+      "answer": "SAs",
       "options": [
-        "Release",
-        "Nepal",
-        "Hermann",
-        "Ceasefire"
+        "Ashishkumar",
+        "100",
+        "Putin",
+        "SAs"
       ]
     }
   ]
