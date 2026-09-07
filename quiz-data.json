@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-09-07T21:29:19.667Z",
+  "generatedAt": "2026-09-07T23:41:27.460Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "Satya Niketan: Rescuers dig through debris as seven dead in building collapse in Delhi",
+    "Six killed in Delhi building collapse, rescuers search through rubble",
+    "Eiffel Tower workers go on strike after female staff 'sidelined' for Hindu group's visit",
     "'Despotic' Officers Will Turn UP Into 'Orwellian Dystopia' : Allahabad High Court Slams Noida DM For NSA...",
     "Delhi court sends Swatantra Bhardwaj to judicial custody for 14 days in Jantar Mantar assault case",
-    "LPG booking interval for rural consumers cut to 25 days from 45",
-    "Far-right win leaves Germany's Merz shaken as AfD plots path to power",
-    "Air India Express' Abu Dhabi-bound flight forced to return to Kochi after engine oil warning: ‘Danger’ | India News",
+    "Germany’s AfD wins in key state: Is far-right on cusp of national rule?",
+    "Kremlin says it does not rule out restart of peace talks with Ukraine and US",
     "Manipuri musician dies after delivery boys, dhaba staff assault him in Delhi; all accused held | India News",
-    "'Head in fridge, fingers cut off': Woman murdered in Guwahati flat; husband surrenders",
-    "India, China hold first Corps Commander meeting in Arunachal",
-    "India's Path to Blue Skies",
-    "Iran warns US energy assets in Gulf are vulnerable after latest clashes",
+    "Ambulance stuck in pothole for 2 hours, unborn baby dies in Agra",
+    "Private sector push is ‘ecosystem expansion, not privatisation’: ISRO allays staff concerns",
+    "Delhi Schools To Remain Shut On September 11 Ahead Of BRICS Summit",
+    "'Lost decade of US economy coming': Iran's big warning as tensions flare",
     "Convicted war criminal Ratko Mladic gets hero’s burial in Serbia",
-    "After US Talks, Zelensky Says Russia-Ukraine War May Continue Into Winter",
+    "Indonesia keeps several airports closed though volcanic eruption is easing",
     "Nepal holds national day of mourning for victims of flash flood disaster",
-    "Trade Setup for September 8: Top 15 things to know before the opening bell",
-    "Top gainers & losers on Sept 7: Infosys down 4%, SBI Life down 2%; Apollo Hospital up 1% were among top movers",
     "India Ramps Up Rail Coal Deliveries as Power Plant Stockpiles Dwindle",
+    "Jaguar Land Rover confirms plans to cut 4,000 jobs over two years",
     "At least five dead after Amazon cargo plane barreled off runway at Miami airport",
+    "SEBI eases compliance norms for FPIs investing only in government securities",
     "Leaked video shows iPhone 18 Pro Max in Dark Cherry and 18 Pro in Blue - GSMArena.com news",
-    "Wi-Fi 8 Is Coming: Here's How Next-Gen Wireless Will Boost Real-World Reliability",
     "Scientists find a way to slash computer memory energy use by orders of magnitude",
-    "Apple set to launch its first foldable iPhone, the pricey iPhone Ultra, alongside new AirPods and HomePods.",
-    "Mammootty Turns 75: The Fitness Habits That Help Him Stay Strong And Youthful",
-    "'Mirzapur: The Movie' box office collection Day 4 [LIVE]: Pankaj Tripathi, Ravi Kishan, and Ali Fazal sta",
-    "Bigg Boss 20 Confirmed Contestants: Meet all the 17 entrants of Salman Khan show– Kanika Mann, Aasif Khan, Qazi Ahmad, to Isha Rikhi"
+    "Minecraft 26.3 Wilderness Bound Update Brings Fresh Adventure With Exciting Features",
+    "iPhone 17 Pro price drops to ₹90,250 ahead of iPhone 18 launch | Tap to know more | Inshorts",
+    "Aviation Company files Rs 3 crore defamation suit against Nora Fatehi for referring to their aircraft as",
+    "Bigg Boss 20 Confirmed Contestants: Meet all the 17 entrants of Salman Khan show– Kanika Mann, Aasif Khan, Qazi Ahmad, to Isha Rikhi",
+    "National Film Awards move out of Delhi, to be held in Kevadia in Gujarat"
   ],
   "quiz": [
-    {
-      "blanked": "Intensive Breastfeeding Linked to Better Postpartum ______ Health",
-      "answer": "Lipid",
-      "options": [
-        "Lipid",
-        "Him",
-        "Noida",
-        "Coming"
-      ]
-    },
-    {
-      "blanked": "At least five dead after ______ cargo plane barreled off runway at Miami airport",
-      "answer": "Amazon",
-      "options": [
-        "Dark",
-        "Amazon",
-        "MENTAL",
-        "September"
-      ]
-    },
-    {
-      "blanked": "Australia reveal strong squad for ______ Africa Test series",
-      "answer": "South",
-      "options": [
-        "Merz",
-        "Germanys",
-        "Blue",
-        "South"
-      ]
-    },
-    {
-      "blanked": "After US Talks, Zelensky Says Russia-Ukraine War May Continue ______ Winter",
-      "answer": "Into",
-      "options": [
-        "HEALTH",
-        "Nancy",
-        "Top",
-        "Into"
-      ]
-    },
-    {
-      "blanked": "Balancing an egg: ______ scientists built a floating magnet to hunt dark matter",
-      "answer": "How",
-      "options": [
-        "How",
-        "Salman",
-        "Express",
-        "Path"
-      ]
-    },
-    {
-      "blanked": "Satya Niketan: Rescuers dig through debris as seven dead in building collapse in ______",
-      "answer": "Delhi",
-      "options": [
-        "Gulf",
-        "Dwindle",
-        "Wireless",
-        "Delhi"
-      ]
-    },
-    {
-      "blanked": "India, ______ hold first Corps Commander meeting in Arunachal",
-      "answer": "China",
-      "options": [
-        "China",
-        "PSYCHIATRY",
-        "Roman",
-        "Coming"
-      ]
-    },
-    {
-      "blanked": "PRECISION PSYCHIATRY THE ______ CONCEPT IN GLOBAL MENTAL HEALTH",
-      "answer": "NEWEST",
-      "options": [
-        "NEWEST",
-        "Boost",
-        "NASA",
-        "Germanys"
-      ]
-    },
-    {
-      "blanked": "Infineon HiRel Power Semiconductors Support Successful Launch of NASA ______ Grace Roman Space Telescope",
-      "answer": "Nancy",
-      "options": [
-        "Jantar",
-        "War",
-        "Court",
-        "Nancy"
-      ]
-    },
-    {
-      "blanked": "India ______ Up Rail Coal Deliveries as Power Plant Stockpiles Dwindle",
-      "answer": "Ramps",
-      "options": [
-        "Ramps",
-        "AirPods",
-        "Allahabad",
-        "Life"
-      ]
-    },
     {
       "blanked": "Manipuri musician dies after delivery boys, dhaba staff assault him in Delhi; all accused held | India ______",
       "answer": "News",
       "options": [
-        "PSYCHIATRY",
-        "Life",
-        "Hospital",
-        "News"
+        "Gujarat",
+        "Bhardwaj",
+        "News",
+        "Power"
+      ]
+    },
+    {
+      "blanked": "Convicted war criminal Ratko ______ gets hero’s burial in Serbia",
+      "answer": "Mladic",
+      "options": [
+        "Plant",
+        "Mladic",
+        "Tower",
+        "Shubman"
+      ]
+    },
+    {
+      "blanked": "iPhone 17 Pro price drops to ₹90,250 ahead of iPhone 18 launch | Tap to know more | ______",
+      "answer": "Inshorts",
+      "options": [
+        "Turn",
+        "Earths",
+        "Inshorts",
+        "Dont"
+      ]
+    },
+    {
+      "blanked": "At least five dead after Amazon cargo plane barreled off runway at ______ airport",
+      "answer": "Miami",
+      "options": [
+        "Orwellian",
+        "Update",
+        "Miami",
+        "Postpartum"
+      ]
+    },
+    {
+      "blanked": "Bigg Boss 20 Confirmed Contestants: Meet all the 17 entrants of ______ Khan show– Kanika Mann, Aasif Khan, Qazi Ahmad, to Isha Rikhi",
+      "answer": "Salman",
+      "options": [
+        "Salman",
+        "Miami",
+        "Kevadia",
+        "Ramps"
       ]
     },
     {
       "blanked": "'North pole and south pole': Ashish ______ compares Shubman Gill and Hardik Pandya as captains",
       "answer": "Nehra",
       "options": [
-        "South",
-        "Breastfeeding",
-        "Confirmed",
-        "Nehra"
+        "Remain",
+        "Nehra",
+        "Deliveries",
+        "Bhanushali"
+      ]
+    },
+    {
+      "blanked": "Scientists think they might have finally seen signs of dark matter. ______ in outer space, but on Earth",
+      "answer": "Not",
+      "options": [
+        "Ramps",
+        "Deliveries",
+        "Bhardwaj",
+        "Not"
+      ]
+    },
+    {
+      "blanked": "Balancing an egg: ______ scientists built a floating magnet to hunt dark matter",
+      "answer": "How",
+      "options": [
+        "Avi",
+        "How",
+        "Cherry",
+        "Why"
+      ]
+    },
+    {
+      "blanked": "Germany’s ______ wins in key state: Is far-right on cusp of national rule?",
+      "answer": "AfD",
+      "options": [
+        "AfD",
+        "Ahmad",
+        "Cherry",
+        "Shut"
+      ]
+    },
+    {
+      "blanked": "Exclusive - Bigg Boss 20: Mahhi Vij reveals why she won’t discuss separation from Jay Bhanushali and staying away from daughter ______",
+      "answer": "Tara",
+      "options": [
+        "Origin",
+        "Tara",
+        "Deliveries",
+        "Ukraine"
+      ]
+    },
+    {
+      "blanked": "Infineon HiRel Power Semiconductors Support Successful Launch of NASA Nancy Grace ______ Space Telescope",
+      "answer": "Roman",
+      "options": [
+        "Summit",
+        "Roman",
+        "Delhi",
+        "Support"
+      ]
+    },
+    {
+      "blanked": "Eiffel ______ workers go on strike after female staff 'sidelined' for Hindu group's visit",
+      "answer": "Tower",
+      "options": [
+        "Gill",
+        "Tower",
+        "Ahmad",
+        "Into"
       ]
     }
   ]
