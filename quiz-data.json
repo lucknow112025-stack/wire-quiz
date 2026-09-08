@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-09-07T23:41:27.460Z",
+  "generatedAt": "2026-09-08T01:24:40.800Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
     "Six killed in Delhi building collapse, rescuers search through rubble",
     "Eiffel Tower workers go on strike after female staff 'sidelined' for Hindu group's visit",
-    "'Despotic' Officers Will Turn UP Into 'Orwellian Dystopia' : Allahabad High Court Slams Noida DM For NSA...",
-    "Delhi court sends Swatantra Bhardwaj to judicial custody for 14 days in Jantar Mantar assault case",
-    "Germany’s AfD wins in key state: Is far-right on cusp of national rule?",
-    "Kremlin says it does not rule out restart of peace talks with Ukraine and US",
-    "Manipuri musician dies after delivery boys, dhaba staff assault him in Delhi; all accused held | India News",
-    "Ambulance stuck in pothole for 2 hours, unborn baby dies in Agra",
+    "Delhi High Court Rejects Swatantra Bhardwaj's Plea Against Arrest In CJP Protester Assault Case",
+    "Akriti Chaudhary case: Allahabad HC slams Noida DM; says bureaucrats must be loyal to Constitution, not executive",
+    "Far-right win leaves Germany's Merz shaken as AfD plots path to power",
+    "Iran warns US energy assets in Gulf are vulnerable after latest clashes",
+    "Manipur Singer Beaten To Death For Objecting To Drinking Outside Delhi Home",
+    "India joins US, 24 nations in push for next-generation 6G networks",
+    "Baba Ramdev's Aide Balkrishna Acquitted In 15-Year Old Forged Documents Case",
     "Private sector push is ‘ecosystem expansion, not privatisation’: ISRO allays staff concerns",
-    "Delhi Schools To Remain Shut On September 11 Ahead Of BRICS Summit",
-    "'Lost decade of US economy coming': Iran's big warning as tensions flare",
-    "Convicted war criminal Ratko Mladic gets hero’s burial in Serbia",
+    "West Asia conflict LIVE: Israeli strikes on southern Lebanese town kill 11, state media says",
+    "Nepal holds day of mourning for more than 1,300 killed in floods",
+    "After US Talks, Zelensky Says Russia-Ukraine War May Continue Into Winter",
     "Indonesia keeps several airports closed though volcanic eruption is easing",
-    "Nepal holds national day of mourning for victims of flash flood disaster",
-    "India Ramps Up Rail Coal Deliveries as Power Plant Stockpiles Dwindle",
     "Jaguar Land Rover confirms plans to cut 4,000 jobs over two years",
+    "Top stocks in focus tomorrow: Investors must watch Adani Power, Swiggy, Shiprocket shares on Tuesday, 8 Sept | Triggers",
     "At least five dead after Amazon cargo plane barreled off runway at Miami airport",
-    "SEBI eases compliance norms for FPIs investing only in government securities",
+    "Spactech startup Pixxel raises $100 Mn in Series C led by Temasek, Seraphim",
     "Leaked video shows iPhone 18 Pro Max in Dark Cherry and 18 Pro in Blue - GSMArena.com news",
     "Scientists find a way to slash computer memory energy use by orders of magnitude",
     "Minecraft 26.3 Wilderness Bound Update Brings Fresh Adventure With Exciting Features",
     "iPhone 17 Pro price drops to ₹90,250 ahead of iPhone 18 launch | Tap to know more | Inshorts",
-    "Aviation Company files Rs 3 crore defamation suit against Nora Fatehi for referring to their aircraft as",
-    "Bigg Boss 20 Confirmed Contestants: Meet all the 17 entrants of Salman Khan show– Kanika Mann, Aasif Khan, Qazi Ahmad, to Isha Rikhi",
-    "National Film Awards move out of Delhi, to be held in Kevadia in Gujarat"
+    "Akshay Kumar Recalls House Help's Hilarious Reaction To Meeting Amitabh Bachchan",
+    "Exclusive - Bigg Boss 20: Mahhi Vij reveals why she won’t discuss separation from Jay Bhanushali and staying away from daughter Tara",
+    "Bigg Boss 20 Confirmed Contestants: Meet all the 17 entrants of Salman Khan show– Kanika Mann, Aasif Khan, Qazi Ahmad, to Isha Rikhi"
   ],
   "quiz": [
     {
-      "blanked": "Manipuri musician dies after delivery boys, dhaba staff assault him in Delhi; all accused held | India ______",
-      "answer": "News",
+      "blanked": "Leaked video shows iPhone 18 ______ Max in Dark Cherry and 18 Pro in Blue - GSMArena.com news",
+      "answer": "Pro",
       "options": [
-        "Gujarat",
-        "Bhardwaj",
-        "News",
-        "Power"
-      ]
-    },
-    {
-      "blanked": "Convicted war criminal Ratko ______ gets hero’s burial in Serbia",
-      "answer": "Mladic",
-      "options": [
-        "Plant",
-        "Mladic",
-        "Tower",
-        "Shubman"
-      ]
-    },
-    {
-      "blanked": "iPhone 17 Pro price drops to ₹90,250 ahead of iPhone 18 launch | Tap to know more | ______",
-      "answer": "Inshorts",
-      "options": [
-        "Turn",
+        "Last",
+        "Pro",
         "Earths",
-        "Inshorts",
-        "Dont"
+        "Old"
       ]
     },
     {
-      "blanked": "At least five dead after Amazon cargo plane barreled off runway at ______ airport",
-      "answer": "Miami",
+      "blanked": "Nepal holds day of mourning for more than ______ killed in floods",
+      "answer": "1300",
       "options": [
-        "Orwellian",
-        "Update",
-        "Miami",
-        "Postpartum"
+        "Into",
+        "1300",
+        "Documents",
+        "Confirmed"
       ]
     },
     {
-      "blanked": "Bigg Boss 20 Confirmed Contestants: Meet all the 17 entrants of ______ Khan show– Kanika Mann, Aasif Khan, Qazi Ahmad, to Isha Rikhi",
-      "answer": "Salman",
-      "options": [
-        "Salman",
-        "Miami",
-        "Kevadia",
-        "Ramps"
-      ]
-    },
-    {
-      "blanked": "'North pole and south pole': Ashish ______ compares Shubman Gill and Hardik Pandya as captains",
-      "answer": "Nehra",
-      "options": [
-        "Remain",
-        "Nehra",
-        "Deliveries",
-        "Bhanushali"
-      ]
-    },
-    {
-      "blanked": "Scientists think they might have finally seen signs of dark matter. ______ in outer space, but on Earth",
-      "answer": "Not",
-      "options": [
-        "Ramps",
-        "Deliveries",
-        "Bhardwaj",
-        "Not"
-      ]
-    },
-    {
-      "blanked": "Balancing an egg: ______ scientists built a floating magnet to hunt dark matter",
-      "answer": "How",
-      "options": [
-        "Avi",
-        "How",
-        "Cherry",
-        "Why"
-      ]
-    },
-    {
-      "blanked": "Germany’s ______ wins in key state: Is far-right on cusp of national rule?",
+      "blanked": "Far-right win leaves Germany's Merz shaken as ______ plots path to power",
       "answer": "AfD",
       "options": [
         "AfD",
-        "Ahmad",
-        "Cherry",
-        "Shut"
+        "Seraphim",
+        "Zone",
+        "Hindu"
       ]
     },
     {
-      "blanked": "Exclusive - Bigg Boss 20: Mahhi Vij reveals why she won’t discuss separation from Jay Bhanushali and staying away from daughter ______",
-      "answer": "Tara",
+      "blanked": "Spactech startup Pixxel raises $100 Mn in ______ C led by Temasek, Seraphim",
+      "answer": "Series",
       "options": [
-        "Origin",
-        "Tara",
-        "Deliveries",
-        "Ukraine"
+        "Shiprocket",
+        "ISRO",
+        "Series",
+        "High"
       ]
     },
     {
-      "blanked": "Infineon HiRel Power Semiconductors Support Successful Launch of NASA Nancy Grace ______ Space Telescope",
-      "answer": "Roman",
+      "blanked": "At least five dead after ______ cargo plane barreled off runway at Miami airport",
+      "answer": "Amazon",
       "options": [
-        "Summit",
-        "Roman",
-        "Delhi",
-        "Support"
+        "Amazon",
+        "Salman",
+        "Wilderness",
+        "270"
+      ]
+    },
+    {
+      "blanked": "After US Talks, ______ Says Russia-Ukraine War May Continue Into Winter",
+      "answer": "Zelensky",
+      "options": [
+        "Temasek",
+        "Zelensky",
+        "Ashish",
+        "CJP"
+      ]
+    },
+    {
+      "blanked": "Elusive Dark Matter Particle Detected? New Data From LUX-ZEPLIN Excites ______",
+      "answer": "Physicists",
+      "options": [
+        "Postpartum",
+        "Tap",
+        "Physicists",
+        "Allahabad"
+      ]
+    },
+    {
+      "blanked": "Duleep Trophy final: Advantage East Zone after Ishan Kishan's ______",
+      "answer": "270",
+      "options": [
+        "Wilderness",
+        "Russia-Ukraine",
+        "270",
+        "Case"
+      ]
+    },
+    {
+      "blanked": "“Precision Psychiatry” The Newest ______ in Global Mental Health",
+      "answer": "Concept",
+      "options": [
+        "Confirmed",
+        "Temasek",
+        "Concept",
+        "Pietersen"
+      ]
+    },
+    {
+      "blanked": "Shubman Gill Slams Abhishek Sharma 6, 4, 6, But India T20I Star Has The ______ Laugh. Video",
+      "answer": "Last",
+      "options": [
+        "Last",
+        "Tuesday",
+        "Update",
+        "Boss"
       ]
     },
     {
       "blanked": "Eiffel ______ workers go on strike after female staff 'sidelined' for Hindu group's visit",
       "answer": "Tower",
       "options": [
-        "Gill",
-        "Tower",
-        "Ahmad",
-        "Into"
+        "Confirmed",
+        "Case",
+        "Aide",
+        "Tower"
+      ]
+    },
+    {
+      "blanked": "iPhone 17 ______ price drops to ₹90,250 ahead of iPhone 18 launch | Tap to know more | Inshorts",
+      "answer": "Pro",
+      "options": [
+        "Singer",
+        "Seraphim",
+        "Pro",
+        "Cherry"
       ]
     }
   ]
