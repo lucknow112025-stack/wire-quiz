@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-09-08T01:24:40.800Z",
+  "generatedAt": "2026-09-08T06:10:32.030Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "Six killed in Delhi building collapse, rescuers search through rubble",
-    "Eiffel Tower workers go on strike after female staff 'sidelined' for Hindu group's visit",
-    "Delhi High Court Rejects Swatantra Bhardwaj's Plea Against Arrest In CJP Protester Assault Case",
-    "Akriti Chaudhary case: Allahabad HC slams Noida DM; says bureaucrats must be loyal to Constitution, not executive",
-    "Far-right win leaves Germany's Merz shaken as AfD plots path to power",
-    "Iran warns US energy assets in Gulf are vulnerable after latest clashes",
-    "Manipur Singer Beaten To Death For Objecting To Drinking Outside Delhi Home",
+    "Paris investigates claim of women being removed during Hindu delegation visit at Eiffel Tower",
+    "Satya Niketan PG Collapse: PIL In Delhi High Court Seeks Independent Probe, ₹1 Crore Compensation",
+    "Gifted Manipuri guitarist who built his life around music in Delhi for 20 years beaten to death outside h",
+    "PM Modi’s Vadodara event tickets sold out in one hour on BookMyShow; 42,000 waitlisted | India News",
+    "'Great Importance': Iran Hails India Ties After Modi-Pezeshkian Meet, Eyes Deeper BRICS Talks",
+    "Days After Trisha Row, Vijay's Father Shares Proud Moment As He Takes Stand Against Remarks On Women",
+    "Kanpur Woman Hired House Help To Kill Father-In-Law Over Lifestyle Restrictions, Arrested",
+    "'Despotic' Officers Will Turn UP Into 'Orwellian Dystopia' : Allahabad High Court Slams Noida DM For NSA...",
+    "With India as host, here are better goals for BRICS than ‘confronting the West’",
     "India joins US, 24 nations in push for next-generation 6G networks",
-    "Baba Ramdev's Aide Balkrishna Acquitted In 15-Year Old Forged Documents Case",
-    "Private sector push is ‘ecosystem expansion, not privatisation’: ISRO allays staff concerns",
-    "West Asia conflict LIVE: Israeli strikes on southern Lebanese town kill 11, state media says",
-    "Nepal holds day of mourning for more than 1,300 killed in floods",
-    "After US Talks, Zelensky Says Russia-Ukraine War May Continue Into Winter",
-    "Indonesia keeps several airports closed though volcanic eruption is easing",
-    "Jaguar Land Rover confirms plans to cut 4,000 jobs over two years",
-    "Top stocks in focus tomorrow: Investors must watch Adani Power, Swiggy, Shiprocket shares on Tuesday, 8 Sept | Triggers",
-    "At least five dead after Amazon cargo plane barreled off runway at Miami airport",
-    "Spactech startup Pixxel raises $100 Mn in Series C led by Temasek, Seraphim",
-    "Leaked video shows iPhone 18 Pro Max in Dark Cherry and 18 Pro in Blue - GSMArena.com news",
-    "Scientists find a way to slash computer memory energy use by orders of magnitude",
+    "In Nepal, A 12-Year-Old Boy Is Waiting For Parents Who Will Never Come Home",
+    "9/11 suspect's al Qaida, Saudi links: New report claims FBI had key evidence, but didn't pursue",
+    "Far-right win leaves Germany's Merz shaken as AfD plots path to power",
+    "Flight recorders recovered from Amazon cargo jet that overran Miami airport runway, killing five",
+    "Stock Market LIVE Updates, Sensex Today: Markets Likely To Open Flat Amid US-Iran Tensions",
+    "Samsung India begins job cuts, asks about 100 employees to leave in 1st round amid rising costs",
+    "India Ramps Up Rail Coal Deliveries as Power Plant Stockpiles Dwindle",
+    "Tata Motors’ Jaguar Land Rover aims to reduce costs by ₹21,700 crore by laying off 4,000 jobs",
+    "What We Can Expect From Apple's Sept. 9 Event: Foldable iPhone, iPhone 18 Pro, and More",
+    "Apple iPhone 18 Pro, iPhone Ultra to launch on September 9: Likely specifications and price",
+    "In 2006, Google's senior VP emailed Steve Jobs seeking permission to hire a former Apple executive; Jobs",
     "Minecraft 26.3 Wilderness Bound Update Brings Fresh Adventure With Exciting Features",
-    "iPhone 17 Pro price drops to ₹90,250 ahead of iPhone 18 launch | Tap to know more | Inshorts",
-    "Akshay Kumar Recalls House Help's Hilarious Reaction To Meeting Amitabh Bachchan",
-    "Exclusive - Bigg Boss 20: Mahhi Vij reveals why she won’t discuss separation from Jay Bhanushali and staying away from daughter Tara",
-    "Bigg Boss 20 Confirmed Contestants: Meet all the 17 entrants of Salman Khan show– Kanika Mann, Aasif Khan, Qazi Ahmad, to Isha Rikhi"
+    "Aviation firm files ₹3 crore defamation suit against Nora Fatehi for ‘toy plane’ remark",
+    "Mirzapur The Movie Day 3 Box Office Collection: Ali Fazal’s film earns Rs 132 cr, posts 2026’s third highest weekend",
+    "I Am Game Opening Weekend Kerala Box Office: Dulquer Salmaan starrer witnesses underwhelming trend, collects Rs 13.70 crore in 4 days"
   ],
   "quiz": [
     {
-      "blanked": "Leaked video shows iPhone 18 ______ Max in Dark Cherry and 18 Pro in Blue - GSMArena.com news",
-      "answer": "Pro",
+      "blanked": "Mirzapur The Movie Day 3 Box Office Collection: Ali ______ film earns Rs 132 cr, posts 2026’s third highest weekend",
+      "answer": "Fazals",
       "options": [
-        "Last",
-        "Pro",
-        "Earths",
-        "Old"
+        "Orbit",
+        "Fazals",
+        "Times",
+        "Trophy"
       ]
     },
     {
-      "blanked": "Nepal holds day of mourning for more than ______ killed in floods",
-      "answer": "1300",
+      "blanked": "Apple iPhone 18 Pro, iPhone Ultra to launch on September 9: ______ specifications and price",
+      "answer": "Likely",
+      "options": [
+        "Pro",
+        "Likely",
+        "Moment",
+        "Times"
+      ]
+    },
+    {
+      "blanked": "Satya Niketan PG Collapse: PIL In Delhi High Court Seeks Independent Probe, ₹1 Crore ______",
+      "answer": "Compensation",
       "options": [
         "Into",
-        "1300",
-        "Documents",
-        "Confirmed"
+        "News-Medical",
+        "Against",
+        "Compensation"
       ]
     },
     {
-      "blanked": "Far-right win leaves Germany's Merz shaken as ______ plots path to power",
-      "answer": "AfD",
+      "blanked": "What four pregnancy eating patterns revealed about mothers and newborns - ______",
+      "answer": "News-Medical",
       "options": [
-        "AfD",
-        "Seraphim",
-        "Zone",
-        "Hindu"
+        "Home",
+        "4000",
+        "News-Medical",
+        "Waiting"
       ]
     },
     {
-      "blanked": "Spactech startup Pixxel raises $100 Mn in ______ C led by Temasek, Seraphim",
-      "answer": "Series",
-      "options": [
-        "Shiprocket",
-        "ISRO",
-        "Series",
-        "High"
-      ]
-    },
-    {
-      "blanked": "At least five dead after ______ cargo plane barreled off runway at Miami airport",
-      "answer": "Amazon",
-      "options": [
-        "Amazon",
-        "Salman",
-        "Wilderness",
-        "270"
-      ]
-    },
-    {
-      "blanked": "After US Talks, ______ Says Russia-Ukraine War May Continue Into Winter",
-      "answer": "Zelensky",
-      "options": [
-        "Temasek",
-        "Zelensky",
-        "Ashish",
-        "CJP"
-      ]
-    },
-    {
-      "blanked": "Elusive Dark Matter Particle Detected? New Data From LUX-ZEPLIN Excites ______",
-      "answer": "Physicists",
-      "options": [
-        "Postpartum",
-        "Tap",
-        "Physicists",
-        "Allahabad"
-      ]
-    },
-    {
-      "blanked": "Duleep Trophy final: Advantage East Zone after Ishan Kishan's ______",
-      "answer": "270",
-      "options": [
-        "Wilderness",
-        "Russia-Ukraine",
-        "270",
-        "Case"
-      ]
-    },
-    {
-      "blanked": "“Precision Psychiatry” The Newest ______ in Global Mental Health",
-      "answer": "Concept",
-      "options": [
-        "Confirmed",
-        "Temasek",
-        "Concept",
-        "Pietersen"
-      ]
-    },
-    {
-      "blanked": "Shubman Gill Slams Abhishek Sharma 6, 4, 6, But India T20I Star Has The ______ Laugh. Video",
-      "answer": "Last",
-      "options": [
-        "Last",
-        "Tuesday",
-        "Update",
-        "Boss"
-      ]
-    },
-    {
-      "blanked": "Eiffel ______ workers go on strike after female staff 'sidelined' for Hindu group's visit",
+      "blanked": "Paris investigates claim of women being removed during Hindu delegation visit at Eiffel ______",
       "answer": "Tower",
       "options": [
-        "Confirmed",
-        "Case",
-        "Aide",
+        "Hindustan",
+        "Can",
+        "Could",
         "Tower"
       ]
     },
     {
-      "blanked": "iPhone 17 ______ price drops to ₹90,250 ahead of iPhone 18 launch | Tap to know more | Inshorts",
-      "answer": "Pro",
+      "blanked": "In Nepal, A 12-Year-Old Boy Is Waiting For Parents ______ Will Never Come Home",
+      "answer": "Who",
       "options": [
-        "Singer",
-        "Seraphim",
-        "Pro",
-        "Cherry"
+        "US-Iran",
+        "Sensex",
+        "Who",
+        "House"
+      ]
+    },
+    {
+      "blanked": "\"Precision Psychiatry\" The Newest ______ in Global Mental Health",
+      "answer": "Concept",
+      "options": [
+        "US-Iran",
+        "Update",
+        "Concept",
+        "Germanys"
+      ]
+    },
+    {
+      "blanked": "Minecraft ______ Wilderness Bound Update Brings Fresh Adventure With Exciting Features",
+      "answer": "26.3",
+      "options": [
+        "26.3",
+        "Allahabad",
+        "Hails",
+        "Open"
+      ]
+    },
+    {
+      "blanked": "In 2006, Google's senior VP emailed Steve Jobs seeking permission to hire a former ______ executive; Jobs",
+      "answer": "Apple",
+      "options": [
+        "Hails",
+        "Apple",
+        "Modis",
+        "Officers"
+      ]
+    },
+    {
+      "blanked": "Days After Trisha Row, Vijay's Father Shares Proud Moment As He Takes ______ Against Remarks On Women",
+      "answer": "Stand",
+      "options": [
+        "Stand",
+        "Rail",
+        "NASA",
+        "Deliveries"
+      ]
+    },
+    {
+      "blanked": "As ______ eliminates dog-transmitted rabies, experts stress one thing: Don’t delay after a bite",
+      "answer": "Bhutan",
+      "options": [
+        "Hindustan",
+        "Nepal",
+        "Bhutan",
+        "Crore"
+      ]
+    },
+    {
+      "blanked": "'Great Importance': Iran Hails India Ties After Modi-Pezeshkian Meet, Eyes Deeper BRICS ______",
+      "answer": "Talks",
+      "options": [
+        "Talks",
+        "Lifestyle",
+        "Orwellian",
+        "Rare"
       ]
     }
   ]
