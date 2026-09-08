@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-09-08T06:10:32.030Z",
+  "generatedAt": "2026-09-08T11:15:46.240Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "Paris investigates claim of women being removed during Hindu delegation visit at Eiffel Tower",
-    "Satya Niketan PG Collapse: PIL In Delhi High Court Seeks Independent Probe, ₹1 Crore Compensation",
-    "Gifted Manipuri guitarist who built his life around music in Delhi for 20 years beaten to death outside h",
+    "Delhi building collapse death toll up to 7; HC orders citywide PG inspection, flags student housing woes",
     "PM Modi’s Vadodara event tickets sold out in one hour on BookMyShow; 42,000 waitlisted | India News",
-    "'Great Importance': Iran Hails India Ties After Modi-Pezeshkian Meet, Eyes Deeper BRICS Talks",
-    "Days After Trisha Row, Vijay's Father Shares Proud Moment As He Takes Stand Against Remarks On Women",
-    "Kanpur Woman Hired House Help To Kill Father-In-Law Over Lifestyle Restrictions, Arrested",
-    "'Despotic' Officers Will Turn UP Into 'Orwellian Dystopia' : Allahabad High Court Slams Noida DM For NSA...",
-    "With India as host, here are better goals for BRICS than ‘confronting the West’",
-    "India joins US, 24 nations in push for next-generation 6G networks",
-    "In Nepal, A 12-Year-Old Boy Is Waiting For Parents Who Will Never Come Home",
-    "9/11 suspect's al Qaida, Saudi links: New report claims FBI had key evidence, but didn't pursue",
-    "Far-right win leaves Germany's Merz shaken as AfD plots path to power",
-    "Flight recorders recovered from Amazon cargo jet that overran Miami airport runway, killing five",
-    "Stock Market LIVE Updates, Sensex Today: Markets Likely To Open Flat Amid US-Iran Tensions",
-    "Samsung India begins job cuts, asks about 100 employees to leave in 1st round amid rising costs",
-    "India Ramps Up Rail Coal Deliveries as Power Plant Stockpiles Dwindle",
-    "Tata Motors’ Jaguar Land Rover aims to reduce costs by ₹21,700 crore by laying off 4,000 jobs",
+    "Eiffel Tower women staff told to ‘make themselves invisible’ for BAPS team visit, Hindu group clarifies",
+    "Gifted Manipuri guitarist who built his life around music in Delhi for 20 years beaten to death outside h",
+    "Tumultuous scenes in Tamil Nadu Assembly as CM Vijay attacks DMK invoking Sarkaria Commission, Veeranam scandal",
+    "Australia targets social media algorithms with new user-choice rules",
+    "BRICS Summit 2026: Who’s attending, why it matters and India’s role? | Explained",
+    "Man With Gun, Posing As PMO Official, Detained At PM Modi's Mumbai Event Venue",
+    "Breaking | Bombay High Court Refuses To Quash Criminal Defamation Case Against Rahul Gandhi Over...",
+    "Akriti Chaudhary case: Allahabad HC slams Noida DM; says bureaucrats must be loyal to Constitution, not executive",
+    "Saudi Arabia says 73 wounded as Houthis attack civilian and energy sites",
+    "Live: At least two killed in Kyiv as Russia renews strikes after three-day pause",
+    "PM Modi-Putin talks: 5th gen Su-57s, nuclear power plants & US sanctions on agenda",
+    "UAE Warned Netanyahu Of Hamas Plans Days Before October 2023 Attack: Report",
+    "Indian shares fall as persistent Middle East risks push up oil prices",
+    "Alternate fuels overtake petrol in passenger car sales",
+    "Adani Enterprises, NTPC among applicants for Centre’s Rs 37,500-crore coal gasification scheme",
+    "Samsung India Asks 100 Executives To Leave, More Cuts May Follow",
+    "Xiaomi 18 Fold and Pad 9 Pro Max launch with new Xring O3 SoC",
+    "Five iPhone 18 Pro Camera Features Seemingly Leak in Code",
     "What We Can Expect From Apple's Sept. 9 Event: Foldable iPhone, iPhone 18 Pro, and More",
-    "Apple iPhone 18 Pro, iPhone Ultra to launch on September 9: Likely specifications and price",
-    "In 2006, Google's senior VP emailed Steve Jobs seeking permission to hire a former Apple executive; Jobs",
-    "Minecraft 26.3 Wilderness Bound Update Brings Fresh Adventure With Exciting Features",
+    "ClickFix moves into the browser and onto WebDAV, Cisco Talos finds",
+    "Mirzapur The Movie Box Office Collection Day 4: Ali Fazal's Film Storms Into Rs 100 Crore Club On First Monday",
     "Aviation firm files ₹3 crore defamation suit against Nora Fatehi for ‘toy plane’ remark",
-    "Mirzapur The Movie Day 3 Box Office Collection: Ali Fazal’s film earns Rs 132 cr, posts 2026’s third highest weekend",
-    "I Am Game Opening Weekend Kerala Box Office: Dulquer Salmaan starrer witnesses underwhelming trend, collects Rs 13.70 crore in 4 days"
+    "National Film Awards moved from Delhi to Gujarat for 1st time in 72 yrs"
   ],
   "quiz": [
     {
-      "blanked": "Mirzapur The Movie Day 3 Box Office Collection: Ali ______ film earns Rs 132 cr, posts 2026’s third highest weekend",
-      "answer": "Fazals",
+      "blanked": "National Film Awards moved from Delhi to ______ for 1st time in 72 yrs",
+      "answer": "Gujarat",
       "options": [
-        "Orbit",
-        "Fazals",
-        "Times",
-        "Trophy"
+        "October",
+        "Gujarat",
+        "Kadowaki-Fleming",
+        "Kind"
       ]
     },
     {
-      "blanked": "Apple iPhone 18 Pro, iPhone Ultra to launch on September 9: ______ specifications and price",
-      "answer": "Likely",
+      "blanked": "Aryan Savsani and Tanmay Baloda replace suspended Rohit Yadav in ______ Under-19 squads",
+      "answer": "India",
       "options": [
-        "Pro",
-        "Likely",
-        "Moment",
-        "Times"
+        "East",
+        "Ishan",
+        "India",
+        "WebDAV"
       ]
     },
     {
-      "blanked": "Satya Niketan PG Collapse: PIL In Delhi High Court Seeks Independent Probe, ₹1 Crore ______",
-      "answer": "Compensation",
+      "blanked": "Tumultuous scenes in Tamil Nadu Assembly as CM Vijay attacks DMK invoking ______ Commission, Veeranam scandal",
+      "answer": "Sarkaria",
       "options": [
-        "Into",
-        "News-Medical",
-        "Against",
-        "Compensation"
+        "Executives",
+        "Sarkaria",
+        "100",
+        "Kind"
       ]
     },
     {
-      "blanked": "What four pregnancy eating patterns revealed about mothers and newborns - ______",
-      "answer": "News-Medical",
+      "blanked": "CA green lights ______ privatisation despite being 'a long way' from deal with players",
+      "answer": "BBL",
       "options": [
-        "Home",
-        "4000",
-        "News-Medical",
-        "Waiting"
+        "BBL",
+        "Features",
+        "Physiotherapy",
+        "Hindu"
       ]
     },
     {
-      "blanked": "Paris investigates claim of women being removed during Hindu delegation visit at Eiffel ______",
-      "answer": "Tower",
+      "blanked": "'I Liked ______ But Is This Even A Story?': Tigmanshu Dhulia Says Only One Kind Of Film Being Made Today",
+      "answer": "Dhurandhar",
       "options": [
-        "Hindustan",
-        "Can",
-        "Could",
-        "Tower"
+        "Official",
+        "Dhurandhar",
+        "Bombay",
+        "Pad"
       ]
     },
     {
-      "blanked": "In Nepal, A 12-Year-Old Boy Is Waiting For Parents ______ Will Never Come Home",
-      "answer": "Who",
+      "blanked": "PM Modi’s Vadodara event tickets sold out in one hour on BookMyShow; ______ waitlisted | India News",
+      "answer": "42000",
       "options": [
-        "US-Iran",
-        "Sensex",
-        "Who",
-        "House"
+        "May",
+        "42000",
+        "Gandhi",
+        "SoC"
       ]
     },
     {
-      "blanked": "\"Precision Psychiatry\" The Newest ______ in Global Mental Health",
-      "answer": "Concept",
+      "blanked": "The Sky ______ on Tuesday, September 8: The Moon joins Jupiter",
+      "answer": "Today",
       "options": [
-        "US-Iran",
-        "Update",
-        "Concept",
-        "Germanys"
+        "Code",
+        "Fatehi",
+        "Quash",
+        "Today"
       ]
     },
     {
-      "blanked": "Minecraft ______ Wilderness Bound Update Brings Fresh Adventure With Exciting Features",
-      "answer": "26.3",
+      "blanked": "Mirzapur The Movie Box Office Collection Day 4: ______ Fazal's Film Storms Into Rs 100 Crore Club On First Monday",
+      "answer": "Ali",
       "options": [
-        "26.3",
-        "Allahabad",
-        "Hails",
-        "Open"
+        "Manipuri",
+        "SoC",
+        "East",
+        "Ali"
       ]
     },
     {
-      "blanked": "In 2006, Google's senior VP emailed Steve Jobs seeking permission to hire a former ______ executive; Jobs",
-      "answer": "Apple",
+      "blanked": "Xiaomi 18 Fold and Pad 9 ______ Max launch with new Xring O3 SoC",
+      "answer": "Pro",
       "options": [
-        "Hails",
-        "Apple",
-        "Modis",
-        "Officers"
-      ]
-    },
-    {
-      "blanked": "Days After Trisha Row, Vijay's Father Shares Proud Moment As He Takes ______ Against Remarks On Women",
-      "answer": "Stand",
-      "options": [
-        "Stand",
-        "Rail",
-        "NASA",
-        "Deliveries"
+        "Cuts",
+        "Storms",
+        "Crore",
+        "Pro"
       ]
     },
     {
       "blanked": "As ______ eliminates dog-transmitted rabies, experts stress one thing: Don’t delay after a bite",
       "answer": "Bhutan",
       "options": [
-        "Hindustan",
-        "Nepal",
-        "Bhutan",
-        "Crore"
+        "270",
+        "Assembly",
+        "Sky",
+        "Bhutan"
       ]
     },
     {
-      "blanked": "'Great Importance': Iran Hails India Ties After Modi-Pezeshkian Meet, Eyes Deeper BRICS ______",
-      "answer": "Talks",
+      "blanked": "BRICS Summit 2026: Who’s attending, why it matters and ______ role? | Explained",
+      "answer": "Indias",
       "options": [
-        "Talks",
-        "Lifestyle",
-        "Orwellian",
-        "Rare"
+        "Indias",
+        "SoC",
+        "News",
+        "Kishans"
+      ]
+    },
+    {
+      "blanked": "Akriti Chaudhary case: Allahabad HC slams Noida DM; says bureaucrats must be loyal to ______ not executive",
+      "answer": "Constitution",
+      "options": [
+        "Apples",
+        "Constitution",
+        "Gun",
+        "Summit"
       ]
     }
   ]
