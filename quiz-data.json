@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-09-09T15:44:42.739Z",
+  "generatedAt": "2026-09-09T18:51:20.780Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
+    "Apple's 'Surprise and Shine' iPhone 18 series launch event",
     "Delhi building collapse: Two-day police custody for owner’s son, PG operator, contractor",
-    "Vijay-led TVK alliance officially named 'Secular Social Justice Victory Front'",
-    "For Nephew Akash Anand's Return To Party, Mayawati Sets \"Sanyas\" Condition For His Father-In-Law",
+    "US strikes five Iranian oil tankers, as Iran attacks 10 ships, Jordan base",
+    "India Reacts After New UN Map Shows Arunachal, Aksai Chin As Separate Regions",
     "Supreme Court Declares September 11 Holiday For BRICS Summit; November 28 To Be Working Saturday Instead",
-    "Odisha: Five baby orangutans found in India forest spark trafficking investigation",
-    "World’s biggest relationship? Xi and Modi look to rebuild ties for 2.8bn people",
-    "Putin meeting PM Modi on Friday; energy, defence high on agenda",
+    "‘My gesture during Assembly speech was inadvertent, had no ulterior motive’: Tamil Nadu CM Vijay",
+    "Kolkata-based GRSE launches indigenous ocean research vessel 'Sagar Manthan'",
+    "Portion of under-construction building collapses in Gandhinagar, rescue op launched",
     "VHP’s call to bar Muslims from Navratri events against Constitution: Ramdas Athawale",
-    "Rajasthan urban body polls a trial by fire for BJP. Caste uproar, CJP forced CM to jump in",
-    "Telangana Assembly monsoon session Sept 9 highlights: House adjourned for the day; to meet on September 10",
-    "Watch: US strikes 5 Iranian oil tankers near Kharg Island after IRGC targeted American navy ship",
+    "Three-language scheme: Centre raises ‘issue’ in SC over treating English as ‘native’, assures quick action on Class 6 reprieve",
+    "Which countries banned goods from settlements but trade with Israel?",
+    "Nepal floods: Survivor captures horrifying moment flash floods engulf homes, roads and buildings",
+    "Why Nepal is demanding climate justice and compensation after deadly floods",
     "Pakistan Pledges to Honor Security Pact If Saudi Arabia Attacked",
-    "Landslide hits Japan's Mount Fuji after heavy rain",
-    "Trump-Xi-Putin G3 Is Not A Bloc Like BRICS Yet. So Why Is India Watching Closely?",
-    "Brent crude oil rises above $100 a barrel as Middle East conflict intensifies",
+    "Brent crude oil rises above $100 a barrel as Middle East conflict intensifies By Reuters",
     "NSE’s IPO Pricing Leaves Unlisted Share Buyers Facing Losses",
-    "First Tick: Top global cues to watch in today's trade",
-    "U.S. suspends Cognizant’s green-card filings; IT industry may face tougher scrutiny",
-    "Watch Apple's 'Surprise and shine' iPhone launch event here - GSMArena.com news",
-    "Android Auto's most requested Google Maps feature arrived then disappeared again – what's going on?",
-    "Why this month’s Microsoft patch release is a doozy",
-    "Google puts Chrome updates on the fast track with its newest release",
+    "PM Modi says, UPI is undisputed champion of India’s fintech success story",
+    "Trump Admin. Official: Buyback Announcement Builds On Prior Enhancements; Treasury Buyback Increase Is Part Of Ongoing Approach",
+    "Apple unveils Watch Series 12 and Watch Ultra 4 with an AI upgrade that can recap your day",
+    "Can't see your speed or traffic data on Google Maps in Android Auto? You're not alone —here's what we know about the issues",
+    "Health-ISAC warns ShinyHunters targets health sector with vishing, credential theft and MFA bypass tactics",
+    "Alleged Snapdragon 8 Elite Extreme Gen 6 chip leaks in live image",
     "Pinkvilla Predicts: First day box office forecast of Ajay Devgn's Drishyam 3, final update for Akshay Kumar's Haiwaan",
     "'We're Safe': Singer Ammy Virk's Father After Firing In Canada \"Rumours\"",
-    "'Hanuman Ansh' box office collection Day 34 (LIVE): The film based on Neem Karoli Baba crosses inches tow"
+    "Arijit Singh says he will watch Bigg Boss for the first time because of Qazi Touqeer: ‘Apna rockstar hai udhar’ | Hindustan Times"
   ],
   "quiz": [
     {
-      "blanked": "How long did it take to make the moon? ______ just 5 hours, new simulations suggest",
-      "answer": "Maybe",
+      "blanked": "VHP’s call to bar Muslims from Navratri events against Constitution: ______ Athawale",
+      "answer": "Ramdas",
       "options": [
-        "Ammy",
-        "Pact",
-        "Maybe",
-        "Open"
+        "Ramdas",
+        "Regions",
+        "Share",
+        "Drishyam"
       ]
     },
     {
-      "blanked": "Watch: US strikes 5 Iranian oil tankers near ______ Island after IRGC targeted American navy ship",
-      "answer": "Kharg",
+      "blanked": "Health-ISAC warns ShinyHunters targets health sector with vishing, credential theft and ______ bypass tactics",
+      "answer": "MFA",
       "options": [
-        "Vivo",
-        "Kharg",
-        "Not",
-        "Front"
+        "HIV",
+        "Snapdragon",
+        "MFA",
+        "Pact"
       ]
     },
     {
-      "blanked": "Pinkvilla ______ First day box office forecast of Ajay Devgn's Drishyam 3, final update for Akshay Kumar's Haiwaan",
-      "answer": "Predicts",
+      "blanked": "‘My gesture during Assembly speech was inadvertent, had no ulterior motive’: Tamil ______ CM Vijay",
+      "answer": "Nadu",
       "options": [
-        "Predicts",
-        "Five",
-        "Baba",
-        "Telescope"
+        "Leaves",
+        "Canada",
+        "Nadu",
+        "Series"
       ]
     },
     {
-      "blanked": "Supreme Court Declares September 11 Holiday For BRICS ______ November 28 To Be Working Saturday Instead",
-      "answer": "Summit",
+      "blanked": "US strikes five Iranian oil tankers, as ______ attacks 10 ships, Jordan base",
+      "answer": "Iran",
       "options": [
-        "Trophy",
-        "Summit",
-        "Anands",
-        "India"
+        "Shine",
+        "Gandhinagar",
+        "Buyers",
+        "Iran"
       ]
     },
     {
-      "blanked": "Pakistan Pledges to ______ Security Pact If Saudi Arabia Attacked",
-      "answer": "Honor",
+      "blanked": "Nepal floods: ______ captures horrifying moment flash floods engulf homes, roads and buildings",
+      "answer": "Survivor",
       "options": [
-        "Honor",
-        "IRGC",
-        "Friday",
-        "Detailed"
+        "Survivor",
+        "Targets",
+        "Roman",
+        "November"
       ]
     },
     {
-      "blanked": "'Hanuman Ansh' box office collection Day 34 (LIVE): The film based on ______ Karoli Baba crosses inches tow",
-      "answer": "Neem",
-      "options": [
-        "Neem",
-        "Ammy",
-        "Drishyam",
-        "Physiotherapy"
-      ]
-    },
-    {
-      "blanked": "Brent crude oil rises above $100 a barrel as ______ East conflict intensifies",
-      "answer": "Middle",
-      "options": [
-        "Middle",
-        "Teaser",
-        "Two-day",
-        "Saturday"
-      ]
-    },
-    {
-      "blanked": "Hardik Pandya included in India A squad for one-day series against ______ A",
-      "answer": "Australia",
-      "options": [
-        "CJP",
-        "Father-In-Law",
-        "House",
-        "Australia"
-      ]
-    },
-    {
-      "blanked": "Watch: Astrophotographer captures ______ telescope flying in space to its new home",
-      "answer": "Roman",
-      "options": [
-        "Rebellion",
-        "Captures",
-        "American",
-        "Roman"
-      ]
-    },
-    {
-      "blanked": "For Nephew Akash Anand's Return To Party, Mayawati ______ \"Sanyas\" Condition For His Father-In-Law",
-      "answer": "Sets",
-      "options": [
-        "Teaser",
-        "Sets",
-        "Athawale",
-        "Top"
-      ]
-    },
-    {
-      "blanked": "'We're Safe': ______ Ammy Virk's Father After Firing In Canada \"Rumours\"",
-      "answer": "Singer",
+      "blanked": "Alleged ______ 8 Elite Extreme Gen 6 chip leaks in live image",
+      "answer": "Snapdragon",
       "options": [
         "India",
-        "Drishyam",
-        "Singer",
-        "Nephew"
+        "Predicts",
+        "Safe",
+        "Snapdragon"
       ]
     },
     {
-      "blanked": "Swine flu surges in ______",
-      "answer": "India",
+      "blanked": "Supreme Court Declares September 11 Holiday For BRICS Summit; November 28 To Be Working Saturday ______",
+      "answer": "Instead",
       "options": [
-        "Astrophotographer",
-        "Nephew",
-        "Deverakonda",
-        "India"
+        "Watch",
+        "Treasury",
+        "Aksai",
+        "Instead"
+      ]
+    },
+    {
+      "blanked": "Ex Vivo Cardiac Simulators Could Personalised Cardiovascular ______",
+      "answer": "Care",
+      "options": [
+        "Alcaraz",
+        "Vivo",
+        "Care",
+        "Sagar"
+      ]
+    },
+    {
+      "blanked": "India Reacts After New UN ______ Shows Arunachal, Aksai Chin As Separate Regions",
+      "answer": "Map",
+      "options": [
+        "Map",
+        "Gen",
+        "Israel",
+        "Iran"
+      ]
+    },
+    {
+      "blanked": "PM Modi says, UPI is undisputed champion of ______ fintech success story",
+      "answer": "Indias",
+      "options": [
+        "Australia",
+        "Haiwaan",
+        "Indias",
+        "Declares"
+      ]
+    },
+    {
+      "blanked": "Brent crude oil rises above ______ a barrel as Middle East conflict intensifies By Reuters",
+      "answer": "100",
+      "options": [
+        "Drishyam",
+        "Elite",
+        "100",
+        "Watch"
+      ]
+    },
+    {
+      "blanked": "Arijit Singh says he will watch Bigg Boss for the first time because of Qazi ______ ‘Apna rockstar hai udhar’ | Hindustan Times",
+      "answer": "Touqeer",
+      "options": [
+        "November",
+        "Boss",
+        "Increase",
+        "Touqeer"
       ]
     }
   ]
