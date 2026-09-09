@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-09-09T18:51:20.780Z",
+  "generatedAt": "2026-09-09T21:27:08.311Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "Apple's 'Surprise and Shine' iPhone 18 series launch event",
-    "Delhi building collapse: Two-day police custody for owner’s son, PG operator, contractor",
+    "Delhi building collapse highlights: Satya Niketan building's owner's son, two others sent to 2-day police custody | Hindustan Times",
+    "Apple announces iPhone 18 Pro and iPhone 18 Pro Max during its 'Surprise and Shine' launch event",
     "US strikes five Iranian oil tankers, as Iran attacks 10 ships, Jordan base",
-    "India Reacts After New UN Map Shows Arunachal, Aksai Chin As Separate Regions",
     "Supreme Court Declares September 11 Holiday For BRICS Summit; November 28 To Be Working Saturday Instead",
     "‘My gesture during Assembly speech was inadvertent, had no ulterior motive’: Tamil Nadu CM Vijay",
-    "Kolkata-based GRSE launches indigenous ocean research vessel 'Sagar Manthan'",
-    "Portion of under-construction building collapses in Gandhinagar, rescue op launched",
+    "White House Bans Some Canadian Dairy And Alcohol Imports—Escalating Trade War",
+    "Several Feared Trapped As Crane Collapses At Construction Site In Gandhinagar",
+    "A 'sugar daddy' threat, head in fridge, chopped fingers: What we know about chilling Guwahati wife murder",
     "VHP’s call to bar Muslims from Navratri events against Constitution: Ramdas Athawale",
-    "Three-language scheme: Centre raises ‘issue’ in SC over treating English as ‘native’, assures quick action on Class 6 reprieve",
-    "Which countries banned goods from settlements but trade with Israel?",
-    "Nepal floods: Survivor captures horrifying moment flash floods engulf homes, roads and buildings",
+    "Won’t allow our soil to be used for anti-India activities: Sri Lankan President Anura Kumara Dissanayake | India News",
+    "Britain must 'stand against injustice' over West Bank settlements, PM Burnham says",
+    "Houthi attacks on Saudi Arabia could activate defence pact, Pakistan says",
     "Why Nepal is demanding climate justice and compensation after deadly floods",
-    "Pakistan Pledges to Honor Security Pact If Saudi Arabia Attacked",
+    "'They're desperate to affect election': Trump declares Iran war will end after US midterms",
     "Brent crude oil rises above $100 a barrel as Middle East conflict intensifies By Reuters",
-    "NSE’s IPO Pricing Leaves Unlisted Share Buyers Facing Losses",
     "PM Modi says, UPI is undisputed champion of India’s fintech success story",
-    "Trump Admin. Official: Buyback Announcement Builds On Prior Enhancements; Treasury Buyback Increase Is Part Of Ongoing Approach",
-    "Apple unveils Watch Series 12 and Watch Ultra 4 with an AI upgrade that can recap your day",
-    "Can't see your speed or traffic data on Google Maps in Android Auto? You're not alone —here's what we know about the issues",
+    "India's NSE likely to price IPO at 1,700-1,785 rupees per share, source says",
+    "Treasury will buy more government bonds than previously announced. The market remains ‘underwhelmed.’",
+    "Introducing Apple Announces The Apple Watch Series 12 And Apple Watch Ultra 4 (Live Pics)",
+    "Foldable iPhone Duo to Come With Apple Pencil Support",
+    "Apple launches iPhone 18 Pro with upgraded camera",
     "Health-ISAC warns ShinyHunters targets health sector with vishing, credential theft and MFA bypass tactics",
-    "Alleged Snapdragon 8 Elite Extreme Gen 6 chip leaks in live image",
     "Pinkvilla Predicts: First day box office forecast of Ajay Devgn's Drishyam 3, final update for Akshay Kumar's Haiwaan",
-    "'We're Safe': Singer Ammy Virk's Father After Firing In Canada \"Rumours\"",
-    "Arijit Singh says he will watch Bigg Boss for the first time because of Qazi Touqeer: ‘Apna rockstar hai udhar’ | Hindustan Times"
+    "'Will Watch Bigg Boss For First Time': Arijit Singh Cheers For 'Rockstar' Friend Qazi Touqeer",
+    "'Bad Newz' actor-Punjabi singer Ammy Virk's convoy attacked in Canada after concert; 7 shots fired - Repo"
   ],
   "quiz": [
     {
-      "blanked": "VHP’s call to bar Muslims from Navratri events against Constitution: ______ Athawale",
-      "answer": "Ramdas",
+      "blanked": "Why ______ is demanding climate justice and compensation after deadly floods",
+      "answer": "Nepal",
       "options": [
-        "Ramdas",
-        "Regions",
-        "Share",
-        "Drishyam"
-      ]
-    },
-    {
-      "blanked": "Health-ISAC warns ShinyHunters targets health sector with vishing, credential theft and ______ bypass tactics",
-      "answer": "MFA",
-      "options": [
-        "HIV",
-        "Snapdragon",
-        "MFA",
-        "Pact"
-      ]
-    },
-    {
-      "blanked": "‘My gesture during Assembly speech was inadvertent, had no ulterior motive’: Tamil ______ CM Vijay",
-      "answer": "Nadu",
-      "options": [
-        "Leaves",
-        "Canada",
-        "Nadu",
-        "Series"
-      ]
-    },
-    {
-      "blanked": "US strikes five Iranian oil tankers, as ______ attacks 10 ships, Jordan base",
-      "answer": "Iran",
-      "options": [
-        "Shine",
-        "Gandhinagar",
-        "Buyers",
-        "Iran"
-      ]
-    },
-    {
-      "blanked": "Nepal floods: ______ captures horrifying moment flash floods engulf homes, roads and buildings",
-      "answer": "Survivor",
-      "options": [
-        "Survivor",
-        "Targets",
-        "Roman",
-        "November"
-      ]
-    },
-    {
-      "blanked": "Alleged ______ 8 Elite Extreme Gen 6 chip leaks in live image",
-      "answer": "Snapdragon",
-      "options": [
-        "India",
-        "Predicts",
-        "Safe",
-        "Snapdragon"
-      ]
-    },
-    {
-      "blanked": "Supreme Court Declares September 11 Holiday For BRICS Summit; November 28 To Be Working Saturday ______",
-      "answer": "Instead",
-      "options": [
-        "Watch",
-        "Treasury",
-        "Aksai",
-        "Instead"
-      ]
-    },
-    {
-      "blanked": "Ex Vivo Cardiac Simulators Could Personalised Cardiovascular ______",
-      "answer": "Care",
-      "options": [
-        "Alcaraz",
-        "Vivo",
-        "Care",
-        "Sagar"
-      ]
-    },
-    {
-      "blanked": "India Reacts After New UN ______ Shows Arunachal, Aksai Chin As Separate Regions",
-      "answer": "Map",
-      "options": [
-        "Map",
-        "Gen",
-        "Israel",
-        "Iran"
-      ]
-    },
-    {
-      "blanked": "PM Modi says, UPI is undisputed champion of ______ fintech success story",
-      "answer": "Indias",
-      "options": [
-        "Australia",
-        "Haiwaan",
-        "Indias",
-        "Declares"
-      ]
-    },
-    {
-      "blanked": "Brent crude oil rises above ______ a barrel as Middle East conflict intensifies By Reuters",
-      "answer": "100",
-      "options": [
+        "Cirrhosis",
+        "Mohan",
         "Drishyam",
-        "Elite",
-        "100",
-        "Watch"
+        "Nepal"
       ]
     },
     {
-      "blanked": "Arijit Singh says he will watch Bigg Boss for the first time because of Qazi ______ ‘Apna rockstar hai udhar’ | Hindustan Times",
-      "answer": "Touqeer",
+      "blanked": "Health-ISAC warns ______ targets health sector with vishing, credential theft and MFA bypass tactics",
+      "answer": "ShinyHunters",
       "options": [
-        "November",
-        "Boss",
-        "Increase",
-        "Touqeer"
+        "Kamina",
+        "Friend",
+        "ShinyHunters",
+        "Working"
+      ]
+    },
+    {
+      "blanked": "VHP’s call to bar Muslims from ______ events against Constitution: Ramdas Athawale",
+      "answer": "Navratri",
+      "options": [
+        "Navratri",
+        "News",
+        "Space",
+        "Haiwaan"
+      ]
+    },
+    {
+      "blanked": "Foldable iPhone Duo to Come With Apple Pencil ______",
+      "answer": "Support",
+      "options": [
+        "Burnham",
+        "Support",
+        "Canada",
+        "Lankan"
+      ]
+    },
+    {
+      "blanked": "NASA's newly launched ______ Space Telescope will 'directly' image exoplanets. But what does that mean?",
+      "answer": "Roman",
+      "options": [
+        "Roman",
+        "Shelton",
+        "NSE",
+        "Trophy"
+      ]
+    },
+    {
+      "blanked": "'Bad Newz' actor-Punjabi singer Ammy ______ convoy attacked in Canada after concert; 7 shots fired - Repo",
+      "answer": "Virks",
+      "options": [
+        "Cheers",
+        "Virks",
+        "Some",
+        "Predicts"
+      ]
+    },
+    {
+      "blanked": "Supreme Court Declares September 11 Holiday For BRICS Summit; November 28 To Be ______ Saturday Instead",
+      "answer": "Working",
+      "options": [
+        "Earns",
+        "Personalised",
+        "Working",
+        "Fermin"
+      ]
+    },
+    {
+      "blanked": "'Will Watch Bigg Boss For First Time': ______ Singh Cheers For 'Rockstar' Friend Qazi Touqeer",
+      "answer": "Arijit",
+      "options": [
+        "Announces",
+        "Holiday",
+        "Modi",
+        "Arijit"
+      ]
+    },
+    {
+      "blanked": "Brent crude oil rises above $100 a barrel as Middle ______ conflict intensifies By Reuters",
+      "answer": "East",
+      "options": [
+        "East",
+        "Carlos",
+        "NASAs",
+        "NSE"
+      ]
+    },
+    {
+      "blanked": "Quote of the day by Isaac Newton: ______ is ever to be found in simplicity, and not in the multiplicity a",
+      "answer": "Truth",
+      "options": [
+        "Truth",
+        "Shine",
+        "IPO",
+        "HIV"
+      ]
+    },
+    {
+      "blanked": "Ben ______ stuns Carlos Alcaraz in latest-ever U.S. Open finish",
+      "answer": "Shelton",
+      "options": [
+        "Shelton",
+        "All",
+        "Simulators",
+        "Cheers"
+      ]
+    },
+    {
+      "blanked": "EXCLUSIVE: Haiwaan is 164 minutes long; ______ replaces word with Kamina; replaces derogatory term with Girlfriend",
+      "answer": "CBFC",
+      "options": [
+        "Times",
+        "CBFC",
+        "Peptides",
+        "Boss"
       ]
     }
   ]
