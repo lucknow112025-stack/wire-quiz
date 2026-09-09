@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-09-09T06:41:19.616Z",
+  "generatedAt": "2026-09-09T15:44:42.739Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "Satya Niketan building collapse: Students allege death toll ‘misreported’, leave area amid demolition drive",
-    "US attacks 5 Iranian oil tankers, Tehran retaliates with strikes on Jordan",
-    "Room shortage, per night prices exceeding ₹2 lakh at Delhi luxury hotels ahead of BRICS Summit | Latest News Delhi",
-    "Saudi-Houthi fighting in Yemen escalates: What happened, and what’s next?",
-    "World's highest-paid Prime Minister gets salary hike of 9%; pledges to donate difference to charity",
-    "Deleted from Punjab, Raghav Chadha back on Delhi rolls; illegal entry, says AAP",
-    "After Manipur Musician Beaten To Death In Delhi, Kiren Rijiju vs Rahul Gandhi Over \"Playing Politics\"",
-    "'Smashed head with hammer': Woman killed by father, brother over ‘honour’ after video with male friend go",
-    "PM Modi, Russia's Putin to hold bilateral talks on Friday, Su-57 aircraft sale to India on agenda | India News",
-    "India Reacts After New UN Map Shows Arunachal, Aksai Chin As Separate Regions",
-    "US adds 50% tariffs on more Canadian goods, bans alcohol imports",
-    "Missiles over Saudi, silence in Islamabad: Why Pakistan remains on the sidelines despite defence pact",
-    "Not involved, says government amid controversy over religious group’s Eiffel Tower tour",
-    "More Than 1,000 Flights Cancelled Due To UK Air Traffic Control Glitch",
-    "India's NSE likely to price IPO at 1,700-1,785 rupees per share, source says",
-    "Adani Enterprises to sell up to 5.54% stake in airport unit to Temasek, BlackRock",
-    "Oil Prices Are Once Again on the Brink of $100",
-    "GIFT Nifty falls, Sensex, Nifty may open with losses as Brent crude near $100 offsets Asian markets gains",
-    "OM System’s Updated 14-42mm Kit Lens Is Splashproof and Focuses Closer",
-    "Apple Event Kicks Off 2026-2027 Tech Season: 40+ Events To Attend",
-    "New Apple CEO John Ternus to face first test with foldable iPhone launch",
-    "Huawei and Xiaomi launch foldable phones ahead of Apple event",
-    "Deepika Padukone Wears Rs 48,000 Outfit For Maternity Shoot With Ranveer Singh And Daughter Dua",
-    "Apoorva Mukhija and Amin Jaz's kissing video goes viral; social media users call it 'hard launch'; duo ye",
-    "Mirzapur The Movie Box Office Collections: Posts an Excellent hold on Monday netting Rs. 107 Cr in 4 days, Sets it to be a BLOCKBUSTER"
+    "Delhi building collapse: Two-day police custody for owner’s son, PG operator, contractor",
+    "Vijay-led TVK alliance officially named 'Secular Social Justice Victory Front'",
+    "For Nephew Akash Anand's Return To Party, Mayawati Sets \"Sanyas\" Condition For His Father-In-Law",
+    "Supreme Court Declares September 11 Holiday For BRICS Summit; November 28 To Be Working Saturday Instead",
+    "Odisha: Five baby orangutans found in India forest spark trafficking investigation",
+    "World’s biggest relationship? Xi and Modi look to rebuild ties for 2.8bn people",
+    "Putin meeting PM Modi on Friday; energy, defence high on agenda",
+    "VHP’s call to bar Muslims from Navratri events against Constitution: Ramdas Athawale",
+    "Rajasthan urban body polls a trial by fire for BJP. Caste uproar, CJP forced CM to jump in",
+    "Telangana Assembly monsoon session Sept 9 highlights: House adjourned for the day; to meet on September 10",
+    "Watch: US strikes 5 Iranian oil tankers near Kharg Island after IRGC targeted American navy ship",
+    "Pakistan Pledges to Honor Security Pact If Saudi Arabia Attacked",
+    "Landslide hits Japan's Mount Fuji after heavy rain",
+    "Trump-Xi-Putin G3 Is Not A Bloc Like BRICS Yet. So Why Is India Watching Closely?",
+    "Brent crude oil rises above $100 a barrel as Middle East conflict intensifies",
+    "NSE’s IPO Pricing Leaves Unlisted Share Buyers Facing Losses",
+    "First Tick: Top global cues to watch in today's trade",
+    "U.S. suspends Cognizant’s green-card filings; IT industry may face tougher scrutiny",
+    "Watch Apple's 'Surprise and shine' iPhone launch event here - GSMArena.com news",
+    "Android Auto's most requested Google Maps feature arrived then disappeared again – what's going on?",
+    "Why this month’s Microsoft patch release is a doozy",
+    "Google puts Chrome updates on the fast track with its newest release",
+    "Pinkvilla Predicts: First day box office forecast of Ajay Devgn's Drishyam 3, final update for Akshay Kumar's Haiwaan",
+    "'We're Safe': Singer Ammy Virk's Father After Firing In Canada \"Rumours\"",
+    "'Hanuman Ansh' box office collection Day 34 (LIVE): The film based on Neem Karoli Baba crosses inches tow"
   ],
   "quiz": [
     {
-      "blanked": "Deepika Padukone Wears Rs 48,000 Outfit For Maternity ______ With Ranveer Singh And Daughter Dua",
-      "answer": "Shoot",
+      "blanked": "How long did it take to make the moon? ______ just 5 hours, new simulations suggest",
+      "answer": "Maybe",
       "options": [
-        "Shoot",
+        "Ammy",
+        "Pact",
+        "Maybe",
+        "Open"
+      ]
+    },
+    {
+      "blanked": "Watch: US strikes 5 Iranian oil tankers near ______ Island after IRGC targeted American navy ship",
+      "answer": "Kharg",
+      "options": [
+        "Vivo",
+        "Kharg",
+        "Not",
+        "Front"
+      ]
+    },
+    {
+      "blanked": "Pinkvilla ______ First day box office forecast of Ajay Devgn's Drishyam 3, final update for Akshay Kumar's Haiwaan",
+      "answer": "Predicts",
+      "options": [
+        "Predicts",
+        "Five",
+        "Baba",
+        "Telescope"
+      ]
+    },
+    {
+      "blanked": "Supreme Court Declares September 11 Holiday For BRICS ______ November 28 To Be Working Saturday Instead",
+      "answer": "Summit",
+      "options": [
+        "Trophy",
         "Summit",
-        "Pakistan",
-        "Why"
+        "Anands",
+        "India"
       ]
     },
     {
-      "blanked": "NASA'S ______ Telescope Captures Detailed View Of Lion Nebula, Revealing Its Dying Star",
-      "answer": "Webb",
+      "blanked": "Pakistan Pledges to ______ Security Pact If Saudi Arabia Attacked",
+      "answer": "Honor",
       "options": [
-        "50%",
-        "Tilak",
-        "Tehran",
-        "Webb"
+        "Honor",
+        "IRGC",
+        "Friday",
+        "Detailed"
       ]
     },
     {
-      "blanked": "After Manipur Musician ______ To Death In Delhi, Kiren Rijiju vs Rahul Gandhi Over \"Playing Politics\"",
-      "answer": "Beaten",
+      "blanked": "'Hanuman Ansh' box office collection Day 34 (LIVE): The film based on ______ Karoli Baba crosses inches tow",
+      "answer": "Neem",
       "options": [
-        "Due",
-        "1000",
-        "Beaten",
-        "Amin"
+        "Neem",
+        "Ammy",
+        "Drishyam",
+        "Physiotherapy"
       ]
     },
     {
-      "blanked": "Saudi-Houthi fighting in ______ escalates: What happened, and what’s next?",
-      "answer": "Yemen",
+      "blanked": "Brent crude oil rises above $100 a barrel as ______ East conflict intensifies",
+      "answer": "Middle",
       "options": [
-        "Yemen",
-        "Playing",
-        "Kit",
-        "Surakshit"
+        "Middle",
+        "Teaser",
+        "Two-day",
+        "Saturday"
       ]
     },
     {
-      "blanked": "OM System’s Updated 14-42mm Kit Lens Is Splashproof and Focuses ______",
-      "answer": "Closer",
+      "blanked": "Hardik Pandya included in India A squad for one-day series against ______ A",
+      "answer": "Australia",
       "options": [
-        "Closer",
-        "Links",
-        "Outfit",
-        "Monday"
+        "CJP",
+        "Father-In-Law",
+        "House",
+        "Australia"
       ]
     },
     {
-      "blanked": "World Physiotherapy Day 2026: ______ movement matters in preventing, managing and recovering from cardiovascular disease and stroke",
-      "answer": "Why",
+      "blanked": "Watch: Astrophotographer captures ______ telescope flying in space to its new home",
+      "answer": "Roman",
       "options": [
-        "Season",
-        "Why",
-        "Surakshit",
-        "Shoot"
+        "Rebellion",
+        "Captures",
+        "American",
+        "Roman"
       ]
     },
     {
-      "blanked": "New Apple ______ John Ternus to face first test with foldable iPhone launch",
-      "answer": "CEO",
+      "blanked": "For Nephew Akash Anand's Return To Party, Mayawati ______ \"Sanyas\" Condition For His Father-In-Law",
+      "answer": "Sets",
       "options": [
+        "Teaser",
         "Sets",
-        "Day",
-        "Space",
-        "CEO"
+        "Athawale",
+        "Top"
       ]
     },
     {
-      "blanked": "Hanuman Ansh box office day 32: Neem Karoli Baba film earns 78x on investment, mints Rs ______ cr",
-      "answer": "156",
+      "blanked": "'We're Safe': ______ Ammy Virk's Father After Firing In Canada \"Rumours\"",
+      "answer": "Singer",
       "options": [
-        "Karoli",
-        "Why",
-        "156",
-        "Closer"
+        "India",
+        "Drishyam",
+        "Singer",
+        "Nephew"
       ]
     },
     {
-      "blanked": "Apple Event ______ Off 2026-2027 Tech Season: 40+ Events To Attend",
-      "answer": "Kicks",
+      "blanked": "Swine flu surges in ______",
+      "answer": "India",
       "options": [
-        "Kicks",
-        "5.54%",
-        "Space",
-        "Updated"
-      ]
-    },
-    {
-      "blanked": "Room shortage, per night prices exceeding ₹2 lakh at Delhi luxury hotels ahead of ______ Summit | Latest News Delhi",
-      "answer": "BRICS",
-      "options": [
-        "BRICS",
-        "Event",
-        "Shows",
-        "BlackRock"
-      ]
-    },
-    {
-      "blanked": "World's highest-paid Prime ______ gets salary hike of 9%; pledges to donate difference to charity",
-      "answer": "Minister",
-      "options": [
-        "Psychiatry",
-        "Gandhi",
-        "Minister",
-        "Office"
-      ]
-    },
-    {
-      "blanked": "Deleted from Punjab, Raghav ______ back on Delhi rolls; illegal entry, says AAP",
-      "answer": "Chadha",
-      "options": [
-        "Chadha",
-        "Office",
-        "Movie",
-        "Closer"
+        "Astrophotographer",
+        "Nephew",
+        "Deverakonda",
+        "India"
       ]
     }
   ]
