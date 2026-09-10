@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-09-10T15:08:40.374Z",
+  "generatedAt": "2026-09-10T18:25:42.372Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
     "India hosts BRICS summit as Iran war tests bloc unity",
     "China confirms Xi to visit India after 7 year gap; trade, normalisation on agenda",
-    "'Get off our roads Mr Singh': Trump administration's 'self-deport' advertisement sparks row",
-    "Delhi court frames money laundering charge against Lalu Yadav, Tejashwi Yadav, Rabri Devi in IRCTC case",
-    "Kanpur Businessman Stabbed 26 Times. Partying Daughter-In-Law Guided Killers",
+    "MCD suspends 3 building department engineers after Satya Niketan PG collapse | India News",
+    "Houthis, Yemeni forces engaged in fierce battles: Why each front matters",
     "Executive Magistrate Who Issued Notice To Student Over CJP Protest Suspended : Solicitor Tells Supreme...",
-    "At 190, India Has More Nuclear Warheads Than Pakistan, Could Overtake UK Soon: Report",
-    "India-Russia \"Expand The Dialogue\" On 105-Plane Deal Ahead Of BRICS",
-    "Will Take Down Posts Against Senior Advocate Gaurav Bhatia In 24 Hours: CJP's Saurav Das, Ashutosh Ranka...",
-    "'Sanjay Dutt Called, Spoke In Marathi': Sena Minister On 'Couldn't Learn Language' Row",
-    "Anthropic Whistleblower Explains Why AI Is Bigger Threat Than Nukes",
-    "Trump promises Americans $5,000 if Republicans win Congress",
-    "At least 25 killed in cargo ship fire at China’s Qingdao port - all you need to know",
-    "Five dead, dozens missing in Philippines ferry fire",
+    "Delhi court frames money laundering charge against Lalu Yadav, Tejashwi Yadav, Rabri Devi in IRCTC case",
+    "Collegium recommends appointment of 8 judicial officers including 3 women as Delhi High Court judges",
+    "Let him repent: Supreme Court on judge transferred to Naxalite area for losing temper, shouting at Bombay HC",
+    "Gold, silver worth crores locked inside: Here’s why MCD sealed dozens of jewellery shops in Chandni Chowk, Delhi",
+    "Modi-Putin talks: India looks to Russia for critical minerals, rare earths",
+    "DHS proposes scrapping 60-day grace period for foreign workers after job loss",
+    "At least 25 dead after cargo ship catches fire in China",
+    "Trump claims Iran war will end right after U.S. midterm elections",
+    "China: English to be removed as a graded core subject?",
+    "Stock Market LIVE Updates, Sensex Today: Sensex, Nifty Close Flat Amid US-Iran Tensions",
     "Sensex settles 300 pts higher from day's low, Nifty ends above 23,450: Key factors behind market gain",
-    "HDFC Bank says all seven Bahrain claims over Credit Suisse AT1 bonds rejected",
-    "CAS is here to stay, liquidity builds up over time, says SEBI's Tuhin Kanta Pandey",
-    "NSE slashes IPO valuation target 15% as world's biggest options boom fades",
-    "Apple raises prices of the iPhone 17 series, iPhone Air and iPhone 16 - GSMArena.com news",
-    "'Welcome to Foldables': Samsung braces for Apple's foldable iPhone challenge",
-    "Apple announces AirPods 5, Watch Series 12 and Watch Ultra 4",
-    "The first major update to iOS 27 will be released ahead of the launch of the iPhone Duo",
+    "CAS stays, but derivatives settlement may change, says Sebi chief Tuhin Kanta Pandey after another 1,000-p",
+    "Trump on Iran war; Oracle, Adobe to report - what’s moving markets",
+    "Apple hikes iPhone prices in India by up to 41% after new models launch",
+    "How to preorder the new Apple Watches, including the Series 12 and Ultra 4",
+    "Apple A20 Pro storms Geekbench with near-5 GHz clocks and a massive single-core lead over Qualcomm and MediaTek",
+    "Apple iPhone Launch Event Live Updates: Apple Launches First Foldable iPhone, Gives Hat-Tip To iPad",
     "Mirzapur The Movie Box Office Collections: Passes the Wednesday hold test, Nets Rs. 135 Cr in 5 days",
-    "Bipasha Basu flags alleged contamination found inside newly opened nutrition product, appeals to Tukaram",
-    "\"Just Internet Doing Its Thing\": Samay Raina Shuts Down Dating Rumours With Sharon Verma"
+    "Haiwaan Box Office Prediction: Akshay Kumar And Saif Ali Khan's Film Eyes Rs 30 Crore On Opening Weekend",
+    "After Split, Ravi Mohan Drops Keneesha Francis's Song Higher From Directorial Debut On His 46th Birthday"
   ],
   "quiz": [
     {
-      "blanked": "Executive Magistrate Who Issued Notice To Student Over CJP ______ Suspended : Solicitor Tells Supreme...",
-      "answer": "Protest",
+      "blanked": "ENG vs PAK, 3rd Test, Pakistan tour of England 2026 - ______",
+      "answer": "Commentary",
       "options": [
-        "Called",
-        "Against",
-        "Protest",
-        "Box"
+        "Saif",
+        "NASA-IBM",
+        "E-Cigarette",
+        "Commentary"
       ]
     },
     {
-      "blanked": "HDFC Bank says all seven Bahrain claims over Credit ______ AT1 bonds rejected",
-      "answer": "Suisse",
+      "blanked": "After Split, Ravi ______ Drops Keneesha Francis's Song Higher From Directorial Debut On His 46th Birthday",
+      "answer": "Mohan",
       "options": [
-        "Suisse",
+        "Roman",
+        "Mohan",
+        "Collections",
+        "First"
+      ]
+    },
+    {
+      "blanked": "Houthis, ______ forces engaged in fierce battles: Why each front matters",
+      "answer": "Yemeni",
+      "options": [
+        "Yemeni",
+        "Close",
+        "Lung",
+        "Song"
+      ]
+    },
+    {
+      "blanked": "Gold, silver worth crores locked inside: ______ why MCD sealed dozens of jewellery shops in Chandni Chowk, Delhi",
+      "answer": "Heres",
+      "options": [
+        "Heres",
+        "Pakistan",
+        "Yadav",
+        "Song"
+      ]
+    },
+    {
+      "blanked": "China: ______ to be removed as a graded core subject?",
+      "answer": "English",
+      "options": [
+        "LIVE",
+        "English",
+        "Average",
+        "Health"
+      ]
+    },
+    {
+      "blanked": "Collegium recommends appointment of 8 judicial officers including 3 women as Delhi High ______ judges",
+      "answer": "Court",
+      "options": [
+        "Watches",
+        "Naxalite",
         "Health",
-        "NASAs",
-        "Hugging"
-      ]
-    },
-    {
-      "blanked": "'Get off our roads Mr Singh': ______ administration's 'self-deport' advertisement sparks row",
-      "answer": "Trump",
-      "options": [
-        "Marathi",
-        "Navelli",
-        "Trump",
-        "Team"
-      ]
-    },
-    {
-      "blanked": "Will Take Down Posts Against Senior Advocate Gaurav Bhatia In 24 Hours: CJP's ______ Das, Ashutosh Ranka...",
-      "answer": "Saurav",
-      "options": [
-        "Who",
-        "Down",
-        "Saurav",
-        "Bank"
-      ]
-    },
-    {
-      "blanked": "Apple raises prices of the iPhone 17 series, iPhone ______ and iPhone 16 - GSMArena.com news",
-      "answer": "Air",
-      "options": [
-        "Wednesday",
-        "Air",
-        "Trophy",
-        "Roman"
-      ]
-    },
-    {
-      "blanked": "India hosts ______ summit as Iran war tests bloc unity",
-      "answer": "BRICS",
-      "options": [
-        "Series",
-        "Ahead",
-        "BRICS",
-        "Wednesday"
-      ]
-    },
-    {
-      "blanked": "More than a year away from Team India, but ______ Shami refuses to slow down: ‘Eyes must always be set",
-      "answer": "Mohammed",
-      "options": [
-        "Mohammed",
-        "Tells",
-        "Credit",
-        "Roman"
-      ]
-    },
-    {
-      "blanked": "How did Earth get its Moon? ______ say it may have formed in just hours after a collision between a...",
-      "answer": "Scientists",
-      "options": [
-        "Tuhin",
-        "Nukes",
-        "Notice",
-        "Scientists"
-      ]
-    },
-    {
-      "blanked": "Trump promises Americans $5,000 if ______ win Congress",
-      "answer": "Republicans",
-      "options": [
-        "Against",
-        "Couldnt",
-        "Duleep",
-        "Republicans"
-      ]
-    },
-    {
-      "blanked": "Precision Psychiatry: How Personalised Mental Health Treatment May ______ Outcomes",
-      "answer": "Change",
-      "options": [
-        "2026",
-        "Movie",
-        "Change",
-        "Sena"
+        "Court"
       ]
     },
     {
       "blanked": "East Zone keep South at bay on final day to clinch ______ Trophy",
       "answer": "Duleep",
       "options": [
-        "Hit",
-        "Duleep",
-        "Gautams",
-        "Yami"
+        "Split",
+        "Wednesday",
+        "Kohima",
+        "Duleep"
       ]
     },
     {
-      "blanked": "NSE slashes IPO valuation target ______ as world's biggest options boom fades",
-      "answer": "15%",
+      "blanked": "IBM and ______ Release NASA-IBM Lunar Foundation Model for Scientific Exploration of the Moon",
+      "answer": "NASA",
       "options": [
-        "Passes",
-        "Sena",
-        "Next",
-        "15%"
+        "Student",
+        "NASA",
+        "135",
+        "Apple"
+      ]
+    },
+    {
+      "blanked": "How E-Cigarette Exposure ______ Reshape Fetal Lung Immunity",
+      "answer": "May",
+      "options": [
+        "Trophy",
+        "May",
+        "Space",
+        "Hat-Tip"
+      ]
+    },
+    {
+      "blanked": "Delhi court frames money laundering charge against Lalu ______ Tejashwi Yadav, Rabri Devi in IRCTC case",
+      "answer": "Yadav",
+      "options": [
+        "South",
+        "Yadav",
+        "Office",
+        "Higher"
+      ]
+    },
+    {
+      "blanked": "District health meetings review immunization, child health, HIV/AIDS in ______",
+      "answer": "Kohima",
+      "options": [
+        "US-Iran",
+        "Kohima",
+        "Lung",
+        "South"
+      ]
+    },
+    {
+      "blanked": "Apple A20 Pro storms Geekbench with near-5 GHz clocks and a massive single-core lead over ______ and MediaTek",
+      "answer": "Qualcomm",
+      "options": [
+        "Space",
+        "May",
+        "Qualcomm",
+        "Roman"
       ]
     }
   ]
