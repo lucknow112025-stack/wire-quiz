@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-09-10T11:36:54.523Z",
+  "generatedAt": "2026-09-10T15:08:40.374Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "Xi's India visit to help diplomatic thaw, but business ties bound by suspicion",
-    "Supreme Court Declares September 11 Holiday For BRICS Summit; November 28 To Be Working Saturday Instead",
+    "India hosts BRICS summit as Iran war tests bloc unity",
+    "China confirms Xi to visit India after 7 year gap; trade, normalisation on agenda",
+    "'Get off our roads Mr Singh': Trump administration's 'self-deport' advertisement sparks row",
+    "Delhi court frames money laundering charge against Lalu Yadav, Tejashwi Yadav, Rabri Devi in IRCTC case",
     "Kanpur Businessman Stabbed 26 Times. Partying Daughter-In-Law Guided Killers",
-    "'No tangible benefits': Chidambaram takes a BRICS jibe, draws BJP flak | India News",
-    "‘My jaws were indeed broken in jail during Emergency’: Stalin responds to Tamil Nadu CM Vijay",
-    "‘Rahman wants to visit India, but agenda has to be set first’",
+    "Executive Magistrate Who Issued Notice To Student Over CJP Protest Suspended : Solicitor Tells Supreme...",
+    "At 190, India Has More Nuclear Warheads Than Pakistan, Could Overtake UK Soon: Report",
+    "India-Russia \"Expand The Dialogue\" On 105-Plane Deal Ahead Of BRICS",
     "Will Take Down Posts Against Senior Advocate Gaurav Bhatia In 24 Hours: CJP's Saurav Das, Ashutosh Ranka...",
-    "Supreme Court dismisses anticipatory bail of Abhishek Banerjee's aide Sumit Roy in land grab case",
-    "Supreme Court seeks Centre's response on plea to ban minors from social media — ‘Need some safeguard’",
-    "Supreme Court dismisses gangster Abu Salem’s plea claiming completion of 25-year prison term",
-    "Fighting escalates in Yemen; Houthi attacks trigger alerts in Saudi Arabia",
+    "'Sanjay Dutt Called, Spoke In Marathi': Sena Minister On 'Couldn't Learn Language' Row",
+    "Anthropic Whistleblower Explains Why AI Is Bigger Threat Than Nukes",
     "Trump promises Americans $5,000 if Republicans win Congress",
-    "‘Flames engulfed vessel’: 5 killed, 87 missing in Philippines ferry fire - What we know",
-    "Trump says Iran war to end after US midterm vote, Houthis close in on key Strait, sources say",
+    "At least 25 killed in cargo ship fire at China’s Qingdao port - all you need to know",
+    "Five dead, dozens missing in Philippines ferry fire",
     "Sensex settles 300 pts higher from day's low, Nifty ends above 23,450: Key factors behind market gain",
-    "Oil Holds Above $100 as U.S.-Iran Tanker War Escalates",
+    "HDFC Bank says all seven Bahrain claims over Credit Suisse AT1 bonds rejected",
+    "CAS is here to stay, liquidity builds up over time, says SEBI's Tuhin Kanta Pandey",
     "NSE slashes IPO valuation target 15% as world's biggest options boom fades",
-    "Equity mutual fund inflows rise 19% to Rs 29,329 crore in August; SIP contributions hit record Rs 32,297...",
     "Apple raises prices of the iPhone 17 series, iPhone Air and iPhone 16 - GSMArena.com news",
     "'Welcome to Foldables': Samsung braces for Apple's foldable iPhone challenge",
-    "iPhone 18 Pro series is here with a feature Android flagships abandoned years ago",
-    "Apple Introduces AirPods 5 Featuring Best-In-Class Open-Ear Active Noise Cancellation",
-    "Nayyi Navelli Teaser: Yami Gautam In A 'Daayan' Avatar Wants You To Think 'Big'",
-    "Samay Raina breaks silence on dating rumours with comedian Sharon Verma: ‘Just internet doing its thing’ | Web Series",
-    "\"He's A Strong Man\": Helen Shares Salim Khan's Health Update"
+    "Apple announces AirPods 5, Watch Series 12 and Watch Ultra 4",
+    "The first major update to iOS 27 will be released ahead of the launch of the iPhone Duo",
+    "Mirzapur The Movie Box Office Collections: Passes the Wednesday hold test, Nets Rs. 135 Cr in 5 days",
+    "Bipasha Basu flags alleged contamination found inside newly opened nutrition product, appeals to Tukaram",
+    "\"Just Internet Doing Its Thing\": Samay Raina Shuts Down Dating Rumours With Sharon Verma"
   ],
   "quiz": [
     {
-      "blanked": "Will Take Down Posts Against Senior Advocate Gaurav Bhatia In 24 Hours: ______ Saurav Das, Ashutosh Ranka...",
-      "answer": "CJPs",
+      "blanked": "Executive Magistrate Who Issued Notice To Student Over CJP ______ Suspended : Solicitor Tells Supreme...",
+      "answer": "Protest",
       "options": [
-        "CJPs",
-        "Routes",
-        "Gaurav",
-        "Yemen"
+        "Called",
+        "Against",
+        "Protest",
+        "Box"
       ]
     },
     {
-      "blanked": "Supreme Court seeks ______ response on plea to ban minors from social media — ‘Need some safeguard’",
-      "answer": "Centres",
+      "blanked": "HDFC Bank says all seven Bahrain claims over Credit ______ AT1 bonds rejected",
+      "answer": "Suisse",
       "options": [
-        "Outcomes",
-        "Shubman",
-        "Centres",
-        "Sumit"
+        "Suisse",
+        "Health",
+        "NASAs",
+        "Hugging"
       ]
     },
     {
-      "blanked": "Fighting escalates in ______ Houthi attacks trigger alerts in Saudi Arabia",
-      "answer": "Yemen",
+      "blanked": "'Get off our roads Mr Singh': ______ administration's 'self-deport' advertisement sparks row",
+      "answer": "Trump",
       "options": [
-        "Verma",
-        "Arabia",
-        "High-Stakes",
-        "Yemen"
+        "Marathi",
+        "Navelli",
+        "Trump",
+        "Team"
       ]
     },
     {
-      "blanked": "Samay Raina breaks silence on dating rumours with comedian ______ Verma: ‘Just internet doing its thing’ | Web Series",
-      "answer": "Sharon",
+      "blanked": "Will Take Down Posts Against Senior Advocate Gaurav Bhatia In 24 Hours: CJP's ______ Das, Ashutosh Ranka...",
+      "answer": "Saurav",
       "options": [
-        "Sharon",
-        "Aneet",
-        "ICMR",
-        "Personalised"
+        "Who",
+        "Down",
+        "Saurav",
+        "Bank"
       ]
     },
     {
-      "blanked": "Santner resists ______ temptation to put New Zealand first",
-      "answer": "BBL",
+      "blanked": "Apple raises prices of the iPhone 17 series, iPhone ______ and iPhone 16 - GSMArena.com news",
+      "answer": "Air",
       "options": [
+        "Wednesday",
         "Air",
-        "Chidambaram",
-        "300",
-        "BBL"
+        "Trophy",
+        "Roman"
+      ]
+    },
+    {
+      "blanked": "India hosts ______ summit as Iran war tests bloc unity",
+      "answer": "BRICS",
+      "options": [
+        "Series",
+        "Ahead",
+        "BRICS",
+        "Wednesday"
+      ]
+    },
+    {
+      "blanked": "More than a year away from Team India, but ______ Shami refuses to slow down: ‘Eyes must always be set",
+      "answer": "Mohammed",
+      "options": [
+        "Mohammed",
+        "Tells",
+        "Credit",
+        "Roman"
+      ]
+    },
+    {
+      "blanked": "How did Earth get its Moon? ______ say it may have formed in just hours after a collision between a...",
+      "answer": "Scientists",
+      "options": [
+        "Tuhin",
+        "Nukes",
+        "Notice",
+        "Scientists"
+      ]
+    },
+    {
+      "blanked": "Trump promises Americans $5,000 if ______ win Congress",
+      "answer": "Republicans",
+      "options": [
+        "Against",
+        "Couldnt",
+        "Duleep",
+        "Republicans"
+      ]
+    },
+    {
+      "blanked": "Precision Psychiatry: How Personalised Mental Health Treatment May ______ Outcomes",
+      "answer": "Change",
+      "options": [
+        "2026",
+        "Movie",
+        "Change",
+        "Sena"
+      ]
+    },
+    {
+      "blanked": "East Zone keep South at bay on final day to clinch ______ Trophy",
+      "answer": "Duleep",
+      "options": [
+        "Hit",
+        "Duleep",
+        "Gautams",
+        "Yami"
       ]
     },
     {
       "blanked": "NSE slashes IPO valuation target ______ as world's biggest options boom fades",
       "answer": "15%",
       "options": [
-        "Personalised",
-        "Best-In-Class",
-        "You",
+        "Passes",
+        "Sena",
+        "Next",
         "15%"
-      ]
-    },
-    {
-      "blanked": "Flu vaccine shortage amid H1N1 surge: ______ recommends alternative, but should you take it or leave it",
-      "answer": "ICMR",
-      "options": [
-        "ICMR",
-        "Yemen",
-        "Saurav",
-        "BJP"
-      ]
-    },
-    {
-      "blanked": "‘My jaws were indeed broken in jail during Emergency’: Stalin responds to ______ Nadu CM Vijay",
-      "answer": "Tamil",
-      "options": [
-        "Foldables",
-        "News",
-        "Tamil",
-        "Scientists"
-      ]
-    },
-    {
-      "blanked": "‘Rahman wants to visit ______ but agenda has to be set first’",
-      "answer": "India",
-      "options": [
-        "India",
-        "Zone",
-        "Sets",
-        "Bhatia"
-      ]
-    },
-    {
-      "blanked": "Study Links Menopause to Gut Damage and ______ Risks",
-      "answer": "Inflammation",
-      "options": [
-        "Paddas",
-        "Businessman",
-        "Samsung",
-        "Inflammation"
-      ]
-    },
-    {
-      "blanked": "Unbelievable stat! ______ Gill's solo England tally puts Pakistan's batting crisis in focus",
-      "answer": "Shubman",
-      "options": [
-        "Superbugs",
-        "Khans",
-        "Republicans",
-        "Shubman"
-      ]
-    },
-    {
-      "blanked": "Kanpur Businessman ______ 26 Times. Partying Daughter-In-Law Guided Killers",
-      "answer": "Stabbed",
-      "options": [
-        "Stabbed",
-        "Research",
-        "Diagnostics",
-        "Dominant"
       ]
     }
   ]
