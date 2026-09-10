@@ -1,73 +1,43 @@
 {
-  "generatedAt": "2026-09-10T21:02:21.923Z",
+  "generatedAt": "2026-09-10T23:08:49.944Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
     "India hosts BRICS summit as Iran war tests bloc unity",
-    "Xi’s First India Trip Since 2019 Extends an Olive Branch to Modi",
-    "SC says will not ‘disturb’ Satya Niketan collapse case before Delhi HC",
+    "Amid global crisis, top leaders to attend BRICS summit this weekend",
+    "'Lost Job, Leave US Immediately': Trump Plans To End H-1B Visa 60-Day Grace Period Rule",
+    "When ABVP takes on BJP: What explains its protests against the party",
     "Houthis, Yemeni forces engaged in fierce battles: Why each front matters",
     "EXCLUSIVE: Hasina's daughter resigns as WHO regional head after fraud allegations",
-    "Trump’s Iran war now has a midterm election problem",
-    "Delhi court frames money laundering charge against Lalu Yadav, Tejashwi Yadav, Rabri Devi in IRCTC case",
+    "China confirms Xi to visit India after 7 year gap; trade, normalisation on agenda",
     "Gold, silver worth crores locked inside: Here’s why MCD sealed dozens of jewellery shops in Chandni Chowk, Delhi",
     "Modi-Putin talks: India looks to Russia for critical minerals, rare earths",
-    "‘My gesture during Assembly speech was inadvertent, had no ulterior motive’: Tamil Nadu CM Vijay",
+    "Delhi court frames money laundering charge against Lalu Yadav, Tejashwi Yadav, Rabri Devi in IRCTC case",
     "At least 25 dead in cargo ship fire at China’s Qingdao port",
-    "China: English to be removed as a graded core subject?",
+    "Trump Aides Warn Iran War Could Drag On Till He Leaves Office In 2029: Report",
     "‘Flames engulfed vessel’: 5 killed, 87 missing in Philippines ferry fire - What we know",
-    "US Moves To End 60-Day Grace Period For H-1B, Other Work Visa Holders",
-    "NSE IPO to list on September 24; price band likely at Rs 1,700-1,785: Sources",
+    "US Bans Canadian Alcohol, Dairy Products As Trade War Worsens",
+    "NSE slashes IPO valuation target 15% as world's biggest options boom fades",
     "Stock Market LIVE Updates, Sensex Today: Sensex, Nifty Close Flat Amid US-Iran Tensions",
-    "Oil Holds Above $100 as U.S.-Iran Tanker War Escalates",
+    "Oil soars to $109, pushing up chances of US interest rate increase",
     "Gold, silver prices tumble as hot PPI lifts Fed-hike risk - Kitco AM Report",
     "'Welcome to Foldables': Samsung braces for Apple's foldable iPhone challenge",
-    "Apple delays hypertension notification on Watch Series 12 in India pending clearances",
+    "Apple Watch Series 12 hands-on: What's new?",
     "iPhone 18 Pro camera brings variable aperture and shutter control",
-    "Apple hikes price of older iPhones, now more expensive than at launch",
-    "Haiwaan Box Office Prediction: Akshay Kumar And Saif Ali Khan's Film Eyes Rs 30 Crore On Opening Weekend",
-    "‘Mandaadi’ Twitter review: Fans say Soori deserves National Award for his career-best performance, Suhas",
-    "Box Office: ‘Practical Magic 2’ Aims to Dethrone ‘Spider-Man: Brand New Day’ With $40 Million Debut"
+    "We tracked down iPhone 18 Pro, Pro Max, and iPhone Duo cases already available",
+    "Haiwaan Advance Booking: Akshay Kumar-Saif Ali Khan starrer faces a tough start; Rs. 5 cr. opening on cards",
+    "Box Office: ‘Practical Magic 2’ Aims to Dethrone ‘Spider-Man: Brand New Day’ With $40 Million Debut",
+    "Mirzapur The Movie Box Office Collections: Passes the Wednesday hold test, Nets Rs. 135 Cr in 5 days"
   ],
   "quiz": [
     {
-      "blanked": "East Zone keep ______ at bay on final day to clinch Duleep Trophy",
-      "answer": "South",
+      "blanked": "India hosts ______ summit as Iran war tests bloc unity",
+      "answer": "BRICS",
       "options": [
-        "Saif",
-        "Kumar",
-        "Work",
-        "South"
-      ]
-    },
-    {
-      "blanked": "Houthis, ______ forces engaged in fierce battles: Why each front matters",
-      "answer": "Yemeni",
-      "options": [
-        "Yemeni",
-        "News",
-        "Delhi",
-        "Movie"
-      ]
-    },
-    {
-      "blanked": "Gold, silver prices tumble as hot ______ lifts Fed-hike risk - Kitco AM Report",
-      "answer": "PPI",
-      "options": [
-        "Award",
-        "Republic",
-        "PPI",
-        "Outbreak"
-      ]
-    },
-    {
-      "blanked": "China: ______ to be removed as a graded core subject?",
-      "answer": "English",
-      "options": [
-        "Saif",
-        "English",
-        "Lalu",
-        "Million"
+        "Chinas",
+        "BRICS",
+        "Commentary",
+        "Yadav"
       ]
     },
     {
@@ -75,79 +45,109 @@
       "answer": "Maybe",
       "options": [
         "Maybe",
-        "MCD",
-        "IRCTC",
-        "Above"
+        "Canadian",
+        "1000",
+        "Delhi"
       ]
     },
     {
-      "blanked": "Trump’s ______ war now has a midterm election problem",
-      "answer": "Iran",
+      "blanked": "Trump Aides Warn Iran War Could ______ On Till He Leaves Office In 2029: Report",
+      "answer": "Drag",
       "options": [
-        "Visa",
-        "Niketan",
-        "Iran",
-        "End"
-      ]
-    },
-    {
-      "blanked": "Apple delays hypertension notification on Watch Series 12 in ______ pending clearances",
-      "answer": "India",
-      "options": [
-        "Devi",
-        "Vinesh",
         "India",
-        "Day"
+        "2026",
+        "Drag",
+        "Than"
       ]
     },
     {
-      "blanked": "IBM and NASA ______ Open-Source AI Model to Support Lunar Exploration",
-      "answer": "Release",
+      "blanked": "Stock Market LIVE Updates, Sensex ______ Sensex, Nifty Close Flat Amid US-Iran Tensions",
+      "answer": "Today",
       "options": [
-        "Million",
-        "Sack",
-        "Holders",
-        "Release"
+        "Today",
+        "Qingdao",
+        "Suhas",
+        "Than"
       ]
     },
     {
-      "blanked": "Modi-Putin talks: ______ looks to Russia for critical minerals, rare earths",
-      "answer": "India",
-      "options": [
-        "Outbreak",
-        "Fans",
-        "Schedule",
-        "India"
-      ]
-    },
-    {
-      "blanked": "Piping Hot Drinks & Esophagus Cancer; Belching ______ in GERD; Outbreak Sickens 22",
-      "answer": "Disorder",
-      "options": [
-        "Film",
-        "Weekend",
-        "Belching",
-        "Disorder"
-      ]
-    },
-    {
-      "blanked": "India hosts ______ summit as Iran war tests bloc unity",
-      "answer": "BRICS",
+      "blanked": "Houthis, Yemeni forces engaged in fierce battles: ______ each front matters",
+      "answer": "Why",
       "options": [
         "LIVE",
-        "India",
-        "BRICS",
-        "BCCI"
+        "Russia",
+        "Why",
+        "Rabri"
       ]
     },
     {
-      "blanked": "New nanobody antivenom offers broad protection against Indian cobras - ______",
-      "answer": "News-Medical",
+      "blanked": "Amid global crisis, top leaders to attend ______ summit this weekend",
+      "answer": "BRICS",
       "options": [
-        "Holds",
+        "Trump",
+        "Hasinas",
+        "BRICS",
+        "Akshay"
+      ]
+    },
+    {
+      "blanked": "'Lost ______ Leave US Immediately': Trump Plans To End H-1B Visa 60-Day Grace Period Rule",
+      "answer": "Job",
+      "options": [
+        "Delhi",
+        "Kitco",
+        "Report",
+        "Job"
+      ]
+    },
+    {
+      "blanked": "When ______ takes on BJP: What explains its protests against the party",
+      "answer": "ABVP",
+      "options": [
+        "IPO",
+        "15%",
+        "ABVP",
+        "Biomarker"
+      ]
+    },
+    {
+      "blanked": "US Bans Canadian ______ Dairy Products As Trade War Worsens",
+      "answer": "Alcohol",
+      "options": [
+        "Alcohol",
+        "MCD",
+        "Dubai",
+        "Booking"
+      ]
+    },
+    {
+      "blanked": "ENG vs PAK, 3rd ______ Pakistan tour of England 2026 - Commentary",
+      "answer": "Test",
+      "options": [
+        "Test",
+        "Commentary",
+        "Bangladesh",
+        "1000"
+      ]
+    },
+    {
+      "blanked": "‘Flames engulfed vessel’: 5 killed, 87 missing in ______ ferry fire - What we know",
+      "answer": "Philippines",
+      "options": [
         "Practical",
-        "News-Medical",
-        "PPI"
+        "Than",
+        "Akshay",
+        "Philippines"
+      ]
+    },
+    {
+      "blanked": "Africa's top health body warns ______ Ebola outbreak is rapidly spreading beyond epicenter",
+      "answer": "Congos",
+      "options": [
+        "Congos",
+        "Commentary",
+        "Canadian",
+        "Suhas"
       ]
     }
   ]
