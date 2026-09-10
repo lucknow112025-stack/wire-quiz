@@ -1,53 +1,43 @@
 {
-  "generatedAt": "2026-09-10T18:25:42.372Z",
+  "generatedAt": "2026-09-10T21:02:21.923Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
     "India hosts BRICS summit as Iran war tests bloc unity",
-    "China confirms Xi to visit India after 7 year gap; trade, normalisation on agenda",
-    "MCD suspends 3 building department engineers after Satya Niketan PG collapse | India News",
+    "Xi’s First India Trip Since 2019 Extends an Olive Branch to Modi",
+    "SC says will not ‘disturb’ Satya Niketan collapse case before Delhi HC",
     "Houthis, Yemeni forces engaged in fierce battles: Why each front matters",
-    "Executive Magistrate Who Issued Notice To Student Over CJP Protest Suspended : Solicitor Tells Supreme...",
+    "EXCLUSIVE: Hasina's daughter resigns as WHO regional head after fraud allegations",
+    "Trump’s Iran war now has a midterm election problem",
     "Delhi court frames money laundering charge against Lalu Yadav, Tejashwi Yadav, Rabri Devi in IRCTC case",
-    "Collegium recommends appointment of 8 judicial officers including 3 women as Delhi High Court judges",
-    "Let him repent: Supreme Court on judge transferred to Naxalite area for losing temper, shouting at Bombay HC",
     "Gold, silver worth crores locked inside: Here’s why MCD sealed dozens of jewellery shops in Chandni Chowk, Delhi",
     "Modi-Putin talks: India looks to Russia for critical minerals, rare earths",
-    "DHS proposes scrapping 60-day grace period for foreign workers after job loss",
-    "At least 25 dead after cargo ship catches fire in China",
-    "Trump claims Iran war will end right after U.S. midterm elections",
+    "‘My gesture during Assembly speech was inadvertent, had no ulterior motive’: Tamil Nadu CM Vijay",
+    "At least 25 dead in cargo ship fire at China’s Qingdao port",
     "China: English to be removed as a graded core subject?",
+    "‘Flames engulfed vessel’: 5 killed, 87 missing in Philippines ferry fire - What we know",
+    "US Moves To End 60-Day Grace Period For H-1B, Other Work Visa Holders",
+    "NSE IPO to list on September 24; price band likely at Rs 1,700-1,785: Sources",
     "Stock Market LIVE Updates, Sensex Today: Sensex, Nifty Close Flat Amid US-Iran Tensions",
-    "Sensex settles 300 pts higher from day's low, Nifty ends above 23,450: Key factors behind market gain",
-    "CAS stays, but derivatives settlement may change, says Sebi chief Tuhin Kanta Pandey after another 1,000-p",
-    "Trump on Iran war; Oracle, Adobe to report - what’s moving markets",
-    "Apple hikes iPhone prices in India by up to 41% after new models launch",
-    "How to preorder the new Apple Watches, including the Series 12 and Ultra 4",
-    "Apple A20 Pro storms Geekbench with near-5 GHz clocks and a massive single-core lead over Qualcomm and MediaTek",
-    "Apple iPhone Launch Event Live Updates: Apple Launches First Foldable iPhone, Gives Hat-Tip To iPad",
-    "Mirzapur The Movie Box Office Collections: Passes the Wednesday hold test, Nets Rs. 135 Cr in 5 days",
+    "Oil Holds Above $100 as U.S.-Iran Tanker War Escalates",
+    "Gold, silver prices tumble as hot PPI lifts Fed-hike risk - Kitco AM Report",
+    "'Welcome to Foldables': Samsung braces for Apple's foldable iPhone challenge",
+    "Apple delays hypertension notification on Watch Series 12 in India pending clearances",
+    "iPhone 18 Pro camera brings variable aperture and shutter control",
+    "Apple hikes price of older iPhones, now more expensive than at launch",
     "Haiwaan Box Office Prediction: Akshay Kumar And Saif Ali Khan's Film Eyes Rs 30 Crore On Opening Weekend",
-    "After Split, Ravi Mohan Drops Keneesha Francis's Song Higher From Directorial Debut On His 46th Birthday"
+    "‘Mandaadi’ Twitter review: Fans say Soori deserves National Award for his career-best performance, Suhas",
+    "Box Office: ‘Practical Magic 2’ Aims to Dethrone ‘Spider-Man: Brand New Day’ With $40 Million Debut"
   ],
   "quiz": [
     {
-      "blanked": "ENG vs PAK, 3rd Test, Pakistan tour of England 2026 - ______",
-      "answer": "Commentary",
+      "blanked": "East Zone keep ______ at bay on final day to clinch Duleep Trophy",
+      "answer": "South",
       "options": [
         "Saif",
-        "NASA-IBM",
-        "E-Cigarette",
-        "Commentary"
-      ]
-    },
-    {
-      "blanked": "After Split, Ravi ______ Drops Keneesha Francis's Song Higher From Directorial Debut On His 46th Birthday",
-      "answer": "Mohan",
-      "options": [
-        "Roman",
-        "Mohan",
-        "Collections",
-        "First"
+        "Kumar",
+        "Work",
+        "South"
       ]
     },
     {
@@ -55,99 +45,109 @@
       "answer": "Yemeni",
       "options": [
         "Yemeni",
-        "Close",
-        "Lung",
-        "Song"
+        "News",
+        "Delhi",
+        "Movie"
       ]
     },
     {
-      "blanked": "Gold, silver worth crores locked inside: ______ why MCD sealed dozens of jewellery shops in Chandni Chowk, Delhi",
-      "answer": "Heres",
+      "blanked": "Gold, silver prices tumble as hot ______ lifts Fed-hike risk - Kitco AM Report",
+      "answer": "PPI",
       "options": [
-        "Heres",
-        "Pakistan",
-        "Yadav",
-        "Song"
+        "Award",
+        "Republic",
+        "PPI",
+        "Outbreak"
       ]
     },
     {
       "blanked": "China: ______ to be removed as a graded core subject?",
       "answer": "English",
       "options": [
-        "LIVE",
+        "Saif",
         "English",
-        "Average",
-        "Health"
+        "Lalu",
+        "Million"
       ]
     },
     {
-      "blanked": "Collegium recommends appointment of 8 judicial officers including 3 women as Delhi High ______ judges",
-      "answer": "Court",
+      "blanked": "How long did it take to make the moon? ______ just 5 hours, new simulations suggest",
+      "answer": "Maybe",
       "options": [
-        "Watches",
-        "Naxalite",
-        "Health",
-        "Court"
+        "Maybe",
+        "MCD",
+        "IRCTC",
+        "Above"
       ]
     },
     {
-      "blanked": "East Zone keep South at bay on final day to clinch ______ Trophy",
-      "answer": "Duleep",
+      "blanked": "Trump’s ______ war now has a midterm election problem",
+      "answer": "Iran",
       "options": [
-        "Split",
-        "Wednesday",
-        "Kohima",
-        "Duleep"
+        "Visa",
+        "Niketan",
+        "Iran",
+        "End"
       ]
     },
     {
-      "blanked": "IBM and ______ Release NASA-IBM Lunar Foundation Model for Scientific Exploration of the Moon",
-      "answer": "NASA",
+      "blanked": "Apple delays hypertension notification on Watch Series 12 in ______ pending clearances",
+      "answer": "India",
       "options": [
-        "Student",
-        "NASA",
-        "135",
-        "Apple"
+        "Devi",
+        "Vinesh",
+        "India",
+        "Day"
       ]
     },
     {
-      "blanked": "How E-Cigarette Exposure ______ Reshape Fetal Lung Immunity",
-      "answer": "May",
+      "blanked": "IBM and NASA ______ Open-Source AI Model to Support Lunar Exploration",
+      "answer": "Release",
       "options": [
-        "Trophy",
-        "May",
-        "Space",
-        "Hat-Tip"
+        "Million",
+        "Sack",
+        "Holders",
+        "Release"
       ]
     },
     {
-      "blanked": "Delhi court frames money laundering charge against Lalu ______ Tejashwi Yadav, Rabri Devi in IRCTC case",
-      "answer": "Yadav",
+      "blanked": "Modi-Putin talks: ______ looks to Russia for critical minerals, rare earths",
+      "answer": "India",
       "options": [
-        "South",
-        "Yadav",
-        "Office",
-        "Higher"
+        "Outbreak",
+        "Fans",
+        "Schedule",
+        "India"
       ]
     },
     {
-      "blanked": "District health meetings review immunization, child health, HIV/AIDS in ______",
-      "answer": "Kohima",
+      "blanked": "Piping Hot Drinks & Esophagus Cancer; Belching ______ in GERD; Outbreak Sickens 22",
+      "answer": "Disorder",
       "options": [
-        "US-Iran",
-        "Kohima",
-        "Lung",
-        "South"
+        "Film",
+        "Weekend",
+        "Belching",
+        "Disorder"
       ]
     },
     {
-      "blanked": "Apple A20 Pro storms Geekbench with near-5 GHz clocks and a massive single-core lead over ______ and MediaTek",
-      "answer": "Qualcomm",
+      "blanked": "India hosts ______ summit as Iran war tests bloc unity",
+      "answer": "BRICS",
       "options": [
-        "Space",
-        "May",
-        "Qualcomm",
-        "Roman"
+        "LIVE",
+        "India",
+        "BRICS",
+        "BCCI"
+      ]
+    },
+    {
+      "blanked": "New nanobody antivenom offers broad protection against Indian cobras - ______",
+      "answer": "News-Medical",
+      "options": [
+        "Holds",
+        "Practical",
+        "News-Medical",
+        "PPI"
       ]
     }
   ]
