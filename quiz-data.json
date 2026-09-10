@@ -1,63 +1,103 @@
 {
-  "generatedAt": "2026-09-09T23:25:45.557Z",
+  "generatedAt": "2026-09-10T01:16:11.310Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
+    "Supreme Court Declares September 11 Holiday For BRICS Summit; November 28 To Be Working Saturday Instead",
+    "Pakistan Pledges to Honor Security Pact If Saudi Arabia Attacked",
+    "Exclusive | Trump’s Top Advisers Confront Possibility That Iran War Lasts Through End of Term",
     "Apple iPhone Launch Event Live Updates: Apple Launches First Foldable iPhone, Gives Hat-Tip To iPad",
     "Delhi building collapse highlights: Satya Niketan building's owner's son, two others sent to 2-day police custody | Hindustan Times",
     "US strikes five Iranian oil tankers, as Iran attacks 10 ships, Jordan base",
-    "Apple announces iPhone 18 Pro and iPhone 18 Pro Max with major camera upgrades",
-    "'Have a little shame': Philippines defence chief gets China's note mid-speech, fires salvo over South China Sea claims",
-    "‘My gesture during Assembly speech was inadvertent, had no ulterior motive’: Tamil Nadu CM Vijay",
     "Several Feared Trapped As Crane Collapses At Construction Site In Gandhinagar",
     "Telangana Assembly monsoon session Sept 9 highlights: House adjourned for the day; to meet on September 10",
-    "Delhi Satya Niketan Building Collapse How Delhi University's Hostel Gap Forces Students Into Private Market",
-    "Supreme Court Declares September 11 Holiday For BRICS Summit; November 28 To Be Working Saturday Instead",
-    "Which countries banned goods from settlements but trade with Israel?",
-    "'They're desperate to affect election': Trump declares Iran war will end after US midterms",
-    "Bengaluru-London Air India flight diverted to Vienna, courtesy Heathrow disruption amid UK's Air traffic control glitch",
-    "‘This is not 1945’: General Assembly president gavels open new session aimed at restoring global trust",
-    "Brent crude oil rises above $100 a barrel as Middle East conflict intensifies By Reuters",
+    "Cabinet approves Rs 20,804 crore railway projects across nine states",
+    "How Delhi University's Hostel Gap Forces Students Into Private Market",
+    "Zelensky's Plane Was \"Almost\" Hit By Drone, Says Norwegian PM",
+    "Britain must 'stand against injustice' over West Bank settlements, PM Burnham says",
+    "Trump bans some Canada goods as trade war swells",
+    "Nepal floods: Survivor captures horrifying moment flash floods engulf homes, roads and buildings",
+    "Brent settles at over $100 a barrel as Middle East conflict intensifies By Reuters",
     "PM Modi says, UPI is undisputed champion of India’s fintech success story",
-    "India's NSE likely to price IPO at 1,700-1,785 rupees per share, source says",
-    "Trade Setup for September 10: Top 15 things to know before the opening bell",
-    "Apple unveils Watch Series 12 and Watch Ultra 4 with an AI upgrade that can recap your day",
-    "Apple increases prices of all iPhones in India: Here's how much iPhone 17 series, iPhone Air, iPhone 16 c",
+    "US Treasury to buy up to $6 billion in Sept 10 buyback operation",
+    "IT shares fall for 6th straight session; Coforge, Infosys, TCS fall up to 6%",
+    "Apple Watch Series 12 and Ultra 4 get S11 chip, measure heart rate every 5 seconds - GSMArena.com news",
+    "iPhone 17 price hike could pave the way for even more expensive Android flagships",
     "Health-ISAC warns ShinyHunters targets health sector with vishing, credential theft and MFA bypass tactics",
-    "Samsung details the journey of making the Z Fold8 and Z Fold8 Ultra thinner and lighter - GSMArena.com news",
+    "Samsung Galaxy Z Fold 8 makes the case for lighter foldables",
     "Pinkvilla Predicts: First day box office forecast of Ajay Devgn's Drishyam 3, final update for Akshay Kumar's Haiwaan",
-    "Haiwaan Box Office Prediction: Akshay Kumar And Saif Ali Khan's Film Eyes Rs 30 Crore On Opening Weekend",
-    "Arijit Singh says he will watch Bigg Boss for the first time because of Qazi Touqeer: ‘Apna rockstar hai udhar’ | Hindustan Times"
+    "'Will Watch Bigg Boss For First Time': Arijit Singh Cheers For 'Rockstar' Friend Qazi Touqeer",
+    "ChatGPT 1980s photo trend: Shashi Tharoor and sons join AI fashion; netizens react, ‘More handsome than Shah Rukh Khan’"
   ],
   "quiz": [
     {
-      "blanked": "Duleep Trophy final: Dominant ______ Zone solidify grip on title",
-      "answer": "East",
+      "blanked": "IT shares fall for 6th straight session; Coforge, Infosys, ______ fall up to 6%",
+      "answer": "TCS",
       "options": [
-        "Singh",
-        "East",
-        "Why",
-        "Ajay"
+        "Collapses",
+        "Burnham",
+        "TCS",
+        "Time"
       ]
     },
     {
-      "blanked": "Arijit Singh says he will watch ______ Boss for the first time because of Qazi Touqeer: ‘Apna rockstar hai udhar’ | Hindustan Times",
-      "answer": "Bigg",
+      "blanked": "Telangana Assembly monsoon session Sept 9 highlights: ______ adjourned for the day; to meet on September 10",
+      "answer": "House",
       "options": [
-        "Iran",
-        "Bigg",
-        "2026",
-        "Simulators"
+        "Watch",
+        "House",
+        "Android",
+        "Indias"
       ]
     },
     {
-      "blanked": "Lion Nebula roars to life with NASA’s James Webb Space telescope: ______ what it looks like",
-      "answer": "Heres",
+      "blanked": "NASA's newly launched ______ Space Telescope will 'directly' image exoplanets. But what does that mean?",
+      "answer": "Roman",
+      "options": [
+        "Barcelona",
+        "Tips",
+        "Roman",
+        "Indias"
+      ]
+    },
+    {
+      "blanked": "Supreme Court Declares September 11 Holiday For BRICS ______ November 28 To Be Working Saturday Instead",
+      "answer": "Summit",
+      "options": [
+        "Ultra",
+        "Lasts",
+        "Event",
+        "Summit"
+      ]
+    },
+    {
+      "blanked": "Freezer-free ______ vaccine breakthrough could transform the global fight against emerging diseases",
+      "answer": "RNA",
+      "options": [
+        "20804",
+        "RNA",
+        "Jordan",
+        "Niketan"
+      ]
+    },
+    {
+      "blanked": "Delhi building collapse highlights: Satya Niketan building's owner's son, two others sent to 2-day police custody | Hindustan ______",
+      "answer": "Times",
       "options": [
         "Heres",
-        "Kumar",
-        "House",
-        "Resistance"
+        "German",
+        "November",
+        "Times"
+      ]
+    },
+    {
+      "blanked": "Brent settles at over ______ a barrel as Middle East conflict intensifies By Reuters",
+      "answer": "100",
+      "options": [
+        "100",
+        "Roman",
+        "Open",
+        "Assembly"
       ]
     },
     {
@@ -65,89 +105,49 @@
       "answer": "ShinyHunters",
       "options": [
         "ShinyHunters",
-        "Space",
-        "Box",
-        "Israel"
+        "Feyenoords",
+        "UPI",
+        "Nebula"
       ]
     },
     {
-      "blanked": "In 1947, fruit flies were sent into space using captured German rocket. Decades later, ______ studied how s",
-      "answer": "NASA",
+      "blanked": "Cabinet approves Rs ______ crore railway projects across nine states",
+      "answer": "20804",
       "options": [
-        "NASA",
-        "Telescope",
-        "Hostel",
-        "Setup"
+        "Meets",
+        "20804",
+        "War",
+        "Market"
       ]
     },
     {
-      "blanked": "'Have a little shame': Philippines defence chief gets ______ note mid-speech, fires salvo over South China Sea claims",
-      "answer": "Chinas",
+      "blanked": "Duleep Trophy final: Dominant East ______ solidify grip on title",
+      "answer": "Zone",
       "options": [
-        "NASA",
-        "Hanuman",
-        "Chinas",
-        "First"
+        "100",
+        "Fold",
+        "Zone",
+        "Odds"
       ]
     },
     {
-      "blanked": "Supreme Court ______ September 11 Holiday For BRICS Summit; November 28 To Be Working Saturday Instead",
-      "answer": "Declares",
+      "blanked": "Nepal floods: ______ captures horrifying moment flash floods engulf homes, roads and buildings",
+      "answer": "Survivor",
       "options": [
-        "Why",
-        "Universitys",
-        "Series",
-        "Declares"
+        "Feyenoord",
+        "Survivor",
+        "Iranian",
+        "Surakshit"
       ]
     },
     {
-      "blanked": "World ______ Day 2026: Why movement matters in preventing, managing and recovering from cardiovascular disease and stroke",
-      "answer": "Physiotherapy",
+      "blanked": "US strikes five Iranian oil tankers, as Iran attacks 10 ships, ______ base",
+      "answer": "Jordan",
       "options": [
-        "First",
-        "Physiotherapy",
-        "Kumar",
-        "Targets"
-      ]
-    },
-    {
-      "blanked": "Samsung details the journey of making the Z Fold8 and Z Fold8 ______ thinner and lighter - GSMArena.com news",
-      "answer": "Ultra",
-      "options": [
-        "Khans",
-        "Kumar",
-        "Ultra",
-        "Ali"
-      ]
-    },
-    {
-      "blanked": "Rodri, ______ start in a 4-3-3: How Barcelona can line up against Feyenoord",
-      "answer": "Fermin",
-      "options": [
-        "Chinas",
-        "Fermin",
-        "MFA",
-        "2026"
-      ]
-    },
-    {
-      "blanked": "‘My gesture during Assembly speech was inadvertent, had no ulterior motive’: Tamil Nadu CM ______",
-      "answer": "Vijay",
-      "options": [
-        "Vijay",
-        "First",
-        "November",
-        "Why"
-      ]
-    },
-    {
-      "blanked": "Pinkvilla Predicts: ______ day box office forecast of Ajay Devgn's Drishyam 3, final update for Akshay Kumar's Haiwaan",
-      "answer": "First",
-      "options": [
-        "Iran",
-        "NASAs",
-        "Why",
-        "First"
+        "Private",
+        "Jordan",
+        "Watch",
+        "Advisers"
       ]
     }
   ]
