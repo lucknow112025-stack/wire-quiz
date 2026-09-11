@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-09-11T10:37:46.156Z",
+  "generatedAt": "2026-09-11T14:37:09.054Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "Trump shadow looms large over Brics as Modi hosts Putin and Xi in Delhi",
-    "Trump says he has no regrets about starting the Iran war as U.S. dials up economic pressure",
-    "Houthis, Yemeni forces engaged in fierce battles: Why each front matters",
-    "Telangana weapons heist cracked, it was an inside job, say cops",
-    "Putin Lands in India for BRICS Summit Shaped by Wars, Tariffs",
-    "After P Chidambaram Questions BRICS Benefits, Shashi Tharoor Lists Some",
-    "Modi and Xi are set to meet at BRICS with trade and border issues in spotlight",
-    "CCTV Trail Deepens Odisha Orangutan Mystery, Probe Stretches To Sea Routes",
-    "BRICS Summit 2026 LIVE updates: Iran President Pezeshkian leaves Tehran for India, set to meet PM Modi",
-    "Red alert in Delhi after heavy rain lashes parts of city",
-    "Houthis using AI for missiles? Anthropic says Yemen weapons cell using Claude",
+    "Brics 2026: Trump shadow looms large over Delhi summit as Modi hosts Putin and Xi",
+    "Amid Iran Crisis, PM Modi, Pezeshkian To Hold Bilateral Meet Shortly",
+    "Modi, Putin hold talks in New Delhi on trade, defence",
+    "Exclusive: On the table for Xi-Modi meet, a strategic economic dialogue",
+    "Houthis control key shipping route after gains along Yemen’s Red Sea coast",
+    "iPhone foldable phone launch takes political turn as Congress-BJP use it as meme to mock each other | India News",
+    "Secunderabad military arms theft: ‘Prime suspect’ ex-army officer held, stolen weapons recovered",
+    "US Envoy Sergio Gor Visits Manipur, Meets Governor, Chief Minister",
+    "Nagaon Ex-Top Official Joins BJP Ahead Of Bypoll, Congress Complains To Poll Body",
+    "Nandan Nilekani, heading exam reform panel, named in SIR's 'no-mapping’ category",
     "9/11 attacks: Photos that defined the day of terror",
-    "Send us home: Abducted, converted, married, 2 minor Hindu sisters plead outside Pak court",
-    "Hormuz shipping traffic falls to single digits, data shows",
+    "Saudi crown prince allegedly asked Trump to hit Houthis; US president declined: Report",
+    "Israel Says It Cleared Hezbollah's Underground Terror Hub In Southern Lebanon",
+    "Nepal floods aftermath through the lens of Reuters photographers",
     "Indian shares slide to three-month low in broad-based sell-off on Mideast worries",
     "NSE IPO Price Band Set at ₹1,700-₹1,785; Issue to Open on September 17",
-    "Supreme Court flags gaps in FSSAI plan for red-hexagon warning labels on foods high in fat, sugar, salt",
-    "SBI-Led Group Approves $3.5 Billion Loan For Vodafone Idea: Report",
-    "Apple’s foldable iPhone poses a $1,999 question: Who is it for?",
+    "India's forex reserves surge $4.5 billion in a week to record high on robust capital inflows",
+    "CAS wild swing: Sensex soars 1,000 points on expiry day but ends only 138 points higher",
     "Apple reveals the iPhone 18 Pro and iPhone 18 Pro Max's battery capacities - GSMArena.com news",
-    "Apple iPhone 17 price goes up by more than 20% in India, as iPhone prices rise across the board",
-    "Apple AirPods 5 launched: Here are all the upgrades and features it gets over AirPods 4 and AirPods Pro 3",
-    "Haiwaan Advance Booking: Akshay Kumar and Saif Ali Khan starrer sells 10,000 tickets in top National Chains for Day 1",
-    "'I'm Heartbroken': Celina Jaitly Says She Wants Her Ashes To Be Laid To Rest With Late Son Shamsher In Austria",
-    "How retro 1980s AI photo ChatGPT trend triggered BJP vs Congress meme war - See pics of Modi, Rahul Gandhi, others"
+    "India gets one of world's steepest iPhone price hikes",
+    "Apple announces AirPods 5, Watch Series 12 and Watch Ultra 4",
+    "Minecraft Wilderness Bound update release date and details revealed",
+    "Solomon Pappaiah, veteran Tamil scholar and orator, passes away",
+    "Kiara Advani joins viral 1980s AI trend: 5 ChatGPT prompts to create retro Bollywood photos",
+    "Neena Gupta advises people how to react to body-shaming and personal questions like when are you getting"
   ],
   "quiz": [
     {
-      "blanked": "Indian shares slide to three-month low in broad-based sell-off on ______ worries",
-      "answer": "Mideast",
+      "blanked": "F1 Spanish Grand ______ at the Madring: Practice results",
+      "answer": "Prix",
       "options": [
-        "Putin",
-        "Congress",
-        "Mideast",
-        "20%"
+        "Prix",
+        "2026",
+        "September",
+        "BJP"
       ]
     },
     {
-      "blanked": "Can your body remember obesity? ______ surgeon explains why weight gain happens and when bariatric surgery is an option | Health",
-      "answer": "Robotic",
+      "blanked": "ALLUXA Provides Critical Optical Components for ______ Nancy Grace Roman Space Telescope",
+      "answer": "NASAs",
       "options": [
-        "Court",
-        "Laid",
-        "20%",
-        "Robotic"
-      ]
-    },
-    {
-      "blanked": "Bigg Boss 20: Qazi Touqeer taken to medical room after ‘acting’ stunt; Netizens say, ______ Khan will ca",
-      "answer": "Salman",
-      "options": [
-        "Optical",
-        "Salman",
-        "Abducted",
-        "You"
-      ]
-    },
-    {
-      "blanked": "Modi and Xi are set to meet at ______ with trade and border issues in spotlight",
-      "answer": "BRICS",
-      "options": [
-        "Vinesh",
-        "Delhi",
-        "India",
-        "BRICS"
-      ]
-    },
-    {
-      "blanked": "9/11 attacks: ______ that defined the day of terror",
-      "answer": "Photos",
-      "options": [
-        "Space",
-        "Khan",
-        "Lists",
-        "Photos"
-      ]
-    },
-    {
-      "blanked": "Houthis using AI for missiles? ______ says Yemen weapons cell using Claude",
-      "answer": "Anthropic",
-      "options": [
-        "Stunning",
-        "May",
-        "Anthropic",
-        "Modi"
-      ]
-    },
-    {
-      "blanked": "Apple iPhone 17 price goes up by more than ______ in India, as iPhone prices rise across the board",
-      "answer": "20%",
-      "options": [
-        "Stretches",
-        "20%",
-        "Questions",
-        "Reveal"
-      ]
-    },
-    {
-      "blanked": "Xylitol linked to higher cardiovascular risk: Should ______ rethink the 'healthy' sugar substitute?",
-      "answer": "Indians",
-      "options": [
-        "Billion",
-        "Lung",
-        "President",
-        "Indians"
-      ]
-    },
-    {
-      "blanked": "ALLUXA Provides Critical Optical Components for NASA's ______ Grace Roman Space Telescope",
-      "answer": "Nancy",
-      "options": [
-        "Why",
-        "Celina",
-        "Nancy",
-        "Netizens"
+        "Cleared",
+        "NASAs",
+        "Bound",
+        "ChatGPT"
       ]
     },
     {
       "blanked": "Apple reveals the iPhone 18 Pro and iPhone 18 Pro ______ battery capacities - GSMArena.com news",
       "answer": "Maxs",
       "options": [
-        "Idea",
         "Maxs",
-        "Munichs",
-        "Why"
+        "Bound",
+        "Official",
+        "Exposure"
       ]
     },
     {
-      "blanked": "CCTV Trail Deepens Odisha Orangutan Mystery, Probe ______ To Sea Routes",
-      "answer": "Stretches",
+      "blanked": "‘He rejected it outright’: Former ______ chief selector blames Imran Khan’s domestic overhaul for Pakistan c",
+      "answer": "PCB",
       "options": [
-        "Abducted",
-        "Critical",
-        "Stretches",
-        "Rest"
+        "PCB",
+        "Photos",
+        "Exposure",
+        "Wilderness"
       ]
     },
     {
-      "blanked": "How E-Cigarette Exposure May Reshape ______ Lung Immunity",
-      "answer": "Fetal",
+      "blanked": "IBM, ______ launch AI model to map Moon’s ice, craters",
+      "answer": "NASA",
       "options": [
-        "Reshape",
-        "Price",
-        "Set",
-        "Fetal"
+        "Houthis",
+        "Exposure",
+        "NASA",
+        "Full"
+      ]
+    },
+    {
+      "blanked": "Secunderabad military arms theft: ______ suspect’ ex-army officer held, stolen weapons recovered",
+      "answer": "Prime",
+      "options": [
+        "Putin",
+        "AirPods",
+        "Khans",
+        "Prime"
+      ]
+    },
+    {
+      "blanked": "Kiara ______ joins viral 1980s AI trend: 5 ChatGPT prompts to create retro Bollywood photos",
+      "answer": "Advani",
+      "options": [
+        "Advani",
+        "Photos",
+        "Houthis",
+        "King"
+      ]
+    },
+    {
+      "blanked": "Nepal floods aftermath through the lens of ______ photographers",
+      "answer": "Reuters",
+      "options": [
+        "2026",
+        "Modi",
+        "Reuters",
+        "Exposure"
+      ]
+    },
+    {
+      "blanked": "Nagaon Ex-Top Official Joins BJP Ahead Of ______ Congress Complains To Poll Body",
+      "answer": "Bypoll",
+      "options": [
+        "Envoy",
+        "Former",
+        "Bypoll",
+        "Reshape"
+      ]
+    },
+    {
+      "blanked": "How E-Cigarette Exposure May Reshape Fetal ______ Immunity",
+      "answer": "Lung",
+      "options": [
+        "Indian",
+        "Lung",
+        "Bound",
+        "Imran"
+      ]
+    },
+    {
+      "blanked": "Neena ______ advises people how to react to body-shaming and personal questions like when are you getting",
+      "answer": "Gupta",
+      "options": [
+        "Joins",
+        "Robinson",
+        "Gupta",
+        "Moons"
+      ]
+    },
+    {
+      "blanked": "CAS wild swing: ______ soars 1,000 points on expiry day but ends only 138 points higher",
+      "answer": "Sensex",
+      "options": [
+        "Grace",
+        "Sensex",
+        "Band",
+        "Watch"
       ]
     }
   ]
