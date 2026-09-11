@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-09-11T20:19:11.242Z",
+  "generatedAt": "2026-09-11T22:41:51.098Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
     "Modi, Putin seek stronger ties as Russia calls for BRICS to counter West",
-    "China confirms Xi to visit India after 7 year gap; trade, normalisation on agenda",
-    "BRICS Summit 2026 LIVE updates: PM Modi stresses need to protect navigation, seafarers in talks with Iran's Pezeshkian",
-    "Twenty-five years after September 11, Americans reflect on attack that changed a nation",
+    "BRICS Summit 2026 updates on Sept.11: PM Modi stresses need to protect navigation, seafarers in talks with Iran's Pezeshkian",
+    "'We Value BRICS Cooperation, Support India In Hosting A Successful Summit': China Ahead Of Modi-Xi Meet",
     "As Saudi tensions with Iran-backed Houthis escalate, mediator Pakistan faces pressure to choose a side",
-    "After P Chidambaram Questions BRICS Benefits, Shashi Tharoor Lists Some",
-    "Trump shadow looms large over Brics as Modi hosts Putin and Xi in Delhi",
-    "US Envoy Sergio Gor Visits Manipur, Meets Governor, Chief Minister",
-    "Kejriwal thanks CJP's Saurav Das for flagging problems during Punjab schools audit: 'Will immediately address' | India News",
-    "‘Want Kashmiris in jail?’: Omar Abdullah hits back at Congress over Vande Mataram advice",
+    "Twenty-five years after September 11, Americans reflect on attack that changed a nation",
     "Can the Houthis close the Red Sea after seizing the Yemen coast?",
+    "Trump shadow looms large over Brics as Modi hosts Putin and Xi in Delhi",
+    "BRICS finance chiefs urge reform of global development financial institutions",
+    "US Envoy Sergio Gor Visits Manipur, Meets Governor, Chief Minister",
+    "EU takes a step closer towards signing trade deal with India",
     "Saudi crown prince allegedly asked Trump to hit Houthis; US president declined: Report",
-    "9/11 attacks: Photos that defined the day of terror",
+    "Donald Trump turns the screws on Indian tech with immigration double whammy",
     "‘Everything changed’: The human cost of 25 years of US wars",
+    "How China’s economy dwarfs that of other BRICS nations, in 4 charts",
     "Coforge independent director DK Singh resigns amid board tensions, cites ‘differences’",
     "Stock Market Today: Indexes Jump After Key Inflation Reading as Oil Prices, Treasury Yields Pull Back; Dow Adds 500 Points",
-    "India's FX reserves surge $45 billion on-week to hit record high on robust capital flows",
-    "Gold, silver prices tumble as hot PPI lifts Fed-hike risk - Kitco AM Report",
-    "Why Apple’s iPhone Duo costs nearly Rs 1 lakh more in India than in the US",
-    "iPhone Duo’s photos could pass for Microsoft’s Surface Duo ads from 2020",
-    "iPhone 18 Pro launches with 2nm A20 chip, higher price on RAM shortage",
+    "NSE IPO Live: GMP jumps after announcement of price band | Latest news, date of opening, other updates",
+    "‘AI a double-edged sword’: FM Sitharaman flags innovation risks, urges efficiency without fragility",
+    "Apple intends to mainstream foldable smartphones using its installed base and brand power, says GlobalData",
+    "Apple iPhone prices have quadrupled since 2008. Here's what's driving up costs.",
+    "Korean carriers roll out preorder perks for pricier iPhone 18 Pro",
     "Apple Watch Series 12 vs. 11: Every upgrade, including one Apple didn't mention",
     "Solomon Pappaiah, veteran Tamil scholar and orator, passes away",
-    "Haiwaan Advance Booking: Akshay Kumar and Saif Ali Khan starrer sells 10,000 tickets in top National Chains for Day 1",
-    "Mirzapur The Movie box office collection day 8: Pankaj Tripathi film crosses ₹155 crore mark, beats Awarapan 2 | Bollywood"
+    "Hanuman Ansh box office Day 35: Neem Karoli Baba film earns Rs 193 cr, releasing worldwide today",
+    "'Mirzapur The Movie' box office collection Day 8 [LIVE]: Pankaj Tripathi, Ali Fazal, Ravi Kishan film rea"
   ],
   "quiz": [
     {
-      "blanked": "Modi, Putin seek stronger ties as Russia calls for BRICS to counter ______",
-      "answer": "West",
+      "blanked": "Modi, ______ seek stronger ties as Russia calls for BRICS to counter West",
+      "answer": "Putin",
       "options": [
-        "Visits",
-        "Jump",
-        "Movie",
+        "Samson",
+        "Brics",
+        "Putin",
+        "Sergio"
+      ]
+    },
+    {
+      "blanked": "Pranay Reddy Vanga ______ Critics Following Romanchakam Performance",
+      "answer": "Challenges",
+      "options": [
+        "Sea",
+        "Challenges",
+        "Vaibhav",
+        "Report"
+      ]
+    },
+    {
+      "blanked": "As Saudi tensions with Iran-backed Houthis escalate, mediator ______ faces pressure to choose a side",
+      "answer": "Pakistan",
+      "options": [
+        "Romanchakam",
+        "Pakistan",
+        "Ansh",
         "West"
       ]
     },
     {
-      "blanked": "US Envoy Sergio Gor ______ Manipur, Meets Governor, Chief Minister",
-      "answer": "Visits",
+      "blanked": "Saudi crown prince allegedly asked ______ to hit Houthis; US president declined: Report",
+      "answer": "Trump",
       "options": [
-        "Visits",
-        "Illnesses",
-        "E-Cigarette",
-        "Inflation"
+        "Sooryavanshi",
+        "Governor",
+        "Envoy",
+        "Trump"
+      ]
+    },
+    {
+      "blanked": "More Than a Signature: Voice as a ______ Biomarker",
+      "answer": "Clinical",
+      "options": [
+        "Manipur",
+        "Clinical",
+        "Minister",
+        "May"
+      ]
+    },
+    {
+      "blanked": "Sri Lanka thwart Fatima ______ challenge to secure Asia Cup final spot",
+      "answer": "Sana",
+      "options": [
+        "Sitharaman",
+        "2008.",
+        "Neptune",
+        "Sana"
+      ]
+    },
+    {
+      "blanked": "September ______ Reveal Cosmic Wonders",
+      "answer": "Skies",
+      "options": [
+        "Pappaiah",
+        "Fatima",
+        "Neem",
+        "Skies"
+      ]
+    },
+    {
+      "blanked": "NASA shares close-up views of all 8 planets in solar system | Voyager 2 shot Neptune from ______ mn miles away | Inshorts",
+      "answer": "4.4",
+      "options": [
+        "4.4",
+        "500",
+        "Ajinkya",
+        "Neem"
       ]
     },
     {
       "blanked": "Twenty-five years after September 11, ______ reflect on attack that changed a nation",
       "answer": "Americans",
       "options": [
-        "South",
-        "Americans",
-        "Pappaiah",
-        "Reading"
+        "Singh",
+        "Trump",
+        "Pankaj",
+        "Americans"
       ]
     },
     {
-      "blanked": "El Nino ______ Cause A Surge In Dengue Cases, Heat Illnesses In India: WHO Warns",
-      "answer": "Could",
+      "blanked": "Donald Trump turns the screws on ______ tech with immigration double whammy",
+      "answer": "Indian",
       "options": [
-        "Could",
-        "Series",
-        "Europe",
-        "Some"
-      ]
-    },
-    {
-      "blanked": "Haiwaan Advance Booking: Akshay Kumar and Saif Ali Khan starrer sells 10,000 tickets in top National Chains for ______ 1",
-      "answer": "Day",
-      "options": [
-        "Samson",
-        "Sanju",
-        "Day",
-        "Yields"
-      ]
-    },
-    {
-      "blanked": "‘Want Kashmiris in jail?’: Omar ______ hits back at Congress over Vande Mataram advice",
-      "answer": "Abdullah",
-      "options": [
-        "Today",
-        "Illnesses",
-        "Abdullah",
-        "Cases"
-      ]
-    },
-    {
-      "blanked": "BRICS Summit 2026 ______ updates: PM Modi stresses need to protect navigation, seafarers in talks with Iran's Pezeshkian",
-      "answer": "LIVE",
-      "options": [
-        "Duo",
+        "Surge",
         "Every",
-        "LIVE",
-        "Prevention"
+        "Indian",
+        "Lung"
       ]
     },
     {
-      "blanked": "Pranay Reddy Vanga Challenges Critics Following Romanchakam ______",
-      "answer": "Performance",
+      "blanked": "BRICS Summit 2026 updates on Sept.11: PM Modi stresses need to protect navigation, seafarers in talks with Iran's ______",
+      "answer": "Pezeshkian",
       "options": [
-        "Performance",
-        "Kitco",
-        "Cosmic",
-        "Africa"
+        "Following",
+        "Indexes",
+        "Pezeshkian",
+        "500"
       ]
     },
     {
-      "blanked": "Trump shadow looms large over ______ as Modi hosts Putin and Xi in Delhi",
-      "answer": "Brics",
+      "blanked": "How ______ economy dwarfs that of other BRICS nations, in 4 charts",
+      "answer": "Chinas",
       "options": [
-        "Brics",
-        "National",
-        "Cosmic",
-        "Kumar"
-      ]
-    },
-    {
-      "blanked": "Stock Market Today: Indexes Jump After Key ______ Reading as Oil Prices, Treasury Yields Pull Back; Dow Adds 500 Points",
-      "answer": "Inflation",
-      "options": [
-        "Inflation",
-        "Photos",
-        "Shashi",
-        "Chidambaram"
-      ]
-    },
-    {
-      "blanked": "iPhone Duo’s photos could pass for Microsoft’s Surface Duo ads from ______",
-      "answer": "2020",
-      "options": [
-        "Pakistan",
-        "500",
-        "Rahane",
-        "2020"
-      ]
-    },
-    {
-      "blanked": "Can the Houthis close the Red ______ after seizing the Yemen coast?",
-      "answer": "Sea",
-      "options": [
-        "Sea",
-        "Performance",
-        "Points",
-        "Inshorts"
+        "GMP",
+        "Reveal",
+        "Chinas",
+        "Pull"
       ]
     }
   ]
