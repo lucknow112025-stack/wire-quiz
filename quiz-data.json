@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-09-11T17:54:49.922Z",
+  "generatedAt": "2026-09-11T20:19:11.242Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "Modi, Putin agree to strengthen India-Russia partnership on eve of BRICS summit",
-    "Trump shadow looms large over Brics as Modi hosts Putin and Xi in Delhi",
-    "Americans mark 25 years since September 11 attacks amid enduring grief, reflection",
-    "After P Chidambaram Questions BRICS Benefits, Shashi Tharoor Lists Some",
-    "Can the Houthis close the Red Sea after seizing the Yemen coast?",
+    "Modi, Putin seek stronger ties as Russia calls for BRICS to counter West",
     "China confirms Xi to visit India after 7 year gap; trade, normalisation on agenda",
     "BRICS Summit 2026 LIVE updates: PM Modi stresses need to protect navigation, seafarers in talks with Iran's Pezeshkian",
-    "Analogue paneer: What it is and why Telangana has banned it for one year",
-    "Nagpur bank robbery: Man throws chilli powder at staff, flees with cash; watch",
-    "SIR in Karnataka: Adult family members allowed to attend hearings for senior citizens, PwD, sick, overseas electors",
-    "Pakistan Applied For BRICS Membership Years Ago, Still Hasn't Got In",
-    "A quarter century after 9/11: 25 ways America's darkest day changed the world",
-    "Donald Trump turns the screws on Indian tech with immigration double whammy",
-    "How China’s economy dwarfs that of other BRICS nations, in 4 charts",
+    "Twenty-five years after September 11, Americans reflect on attack that changed a nation",
+    "As Saudi tensions with Iran-backed Houthis escalate, mediator Pakistan faces pressure to choose a side",
+    "After P Chidambaram Questions BRICS Benefits, Shashi Tharoor Lists Some",
+    "Trump shadow looms large over Brics as Modi hosts Putin and Xi in Delhi",
+    "US Envoy Sergio Gor Visits Manipur, Meets Governor, Chief Minister",
+    "Kejriwal thanks CJP's Saurav Das for flagging problems during Punjab schools audit: 'Will immediately address' | India News",
+    "‘Want Kashmiris in jail?’: Omar Abdullah hits back at Congress over Vande Mataram advice",
+    "Can the Houthis close the Red Sea after seizing the Yemen coast?",
+    "Saudi crown prince allegedly asked Trump to hit Houthis; US president declined: Report",
+    "9/11 attacks: Photos that defined the day of terror",
+    "‘Everything changed’: The human cost of 25 years of US wars",
     "Coforge independent director DK Singh resigns amid board tensions, cites ‘differences’",
-    "Gold, silver prices tumble as hot PPI lifts Fed-hike risk - Kitco AM Report",
-    "NSE IPO Price Band Set at ₹1,700-₹1,785; Issue to Open on September 17",
+    "Stock Market Today: Indexes Jump After Key Inflation Reading as Oil Prices, Treasury Yields Pull Back; Dow Adds 500 Points",
     "India's FX reserves surge $45 billion on-week to hit record high on robust capital flows",
-    "iPhone Duo’s photos could pass for Microsoft’s Surface Duo ads from 2020",
+    "Gold, silver prices tumble as hot PPI lifts Fed-hike risk - Kitco AM Report",
     "Why Apple’s iPhone Duo costs nearly Rs 1 lakh more in India than in the US",
+    "iPhone Duo’s photos could pass for Microsoft’s Surface Duo ads from 2020",
+    "iPhone 18 Pro launches with 2nm A20 chip, higher price on RAM shortage",
     "Apple Watch Series 12 vs. 11: Every upgrade, including one Apple didn't mention",
-    "Here are the iPhone 18 Pro and iPhone 18 Pro Max Geekbench scores - GSMArena.com news",
-    "'Mirzapur The Movie' box office collection Day 8 [LIVE]: Pankaj Tripathi, Ali Fazal, Ravi Kishan film rea",
     "Solomon Pappaiah, veteran Tamil scholar and orator, passes away",
-    "Haiwaan Advance Booking: Akshay Kumar and Saif Ali Khan starrer sells 10,000 tickets in top National Chains for Day 1"
+    "Haiwaan Advance Booking: Akshay Kumar and Saif Ali Khan starrer sells 10,000 tickets in top National Chains for Day 1",
+    "Mirzapur The Movie box office collection day 8: Pankaj Tripathi film crosses ₹155 crore mark, beats Awarapan 2 | Bollywood"
   ],
   "quiz": [
     {
-      "blanked": "'Mirzapur The Movie' box office collection Day 8 [LIVE]: ______ Tripathi, Ali Fazal, Ravi Kishan film rea",
-      "answer": "Pankaj",
+      "blanked": "Modi, Putin seek stronger ties as Russia calls for BRICS to counter ______",
+      "answer": "West",
       "options": [
-        "Americas",
-        "Pankaj",
-        "Vaibhav",
-        "Indian"
+        "Visits",
+        "Jump",
+        "Movie",
+        "West"
       ]
     },
     {
-      "blanked": "How E-Cigarette Exposure ______ Reshape Fetal Lung Immunity",
-      "answer": "May",
+      "blanked": "US Envoy Sergio Gor ______ Manipur, Meets Governor, Chief Minister",
+      "answer": "Visits",
       "options": [
-        "May",
-        "Exposure",
-        "Day",
-        "Membership"
-      ]
-    },
-    {
-      "blanked": "Here are the iPhone 18 ______ and iPhone 18 Pro Max Geekbench scores - GSMArena.com news",
-      "answer": "Pro",
-      "options": [
-        "Pro",
-        "Exposure",
+        "Visits",
+        "Illnesses",
         "E-Cigarette",
-        "Final"
+        "Inflation"
       ]
     },
     {
-      "blanked": "Sri Lanka vs ______ LIVE Score, Women's Asia Cup Semi-Final: Pak In Command, Stay Hopeful Of Final Clash vs India",
-      "answer": "Pakistan",
+      "blanked": "Twenty-five years after September 11, ______ reflect on attack that changed a nation",
+      "answer": "Americans",
       "options": [
-        "Ago",
-        "IPO",
-        "Pakistan",
-        "Telangana"
+        "South",
+        "Americans",
+        "Pappaiah",
+        "Reading"
       ]
     },
     {
-      "blanked": "Can the Houthis close the ______ Sea after seizing the Yemen coast?",
-      "answer": "Red",
+      "blanked": "El Nino ______ Cause A Surge In Dengue Cases, Heat Illnesses In India: WHO Warns",
+      "answer": "Could",
       "options": [
-        "Cases",
-        "Americas",
-        "Vaibhav",
-        "Red"
+        "Could",
+        "Series",
+        "Europe",
+        "Some"
       ]
     },
     {
-      "blanked": "BRICS Summit ______ LIVE updates: PM Modi stresses need to protect navigation, seafarers in talks with Iran's Pezeshkian",
-      "answer": "2026",
-      "options": [
-        "Disease",
-        "Modi",
-        "2026",
-        "Irans"
-      ]
-    },
-    {
-      "blanked": "Coforge independent director DK ______ resigns amid board tensions, cites ‘differences’",
-      "answer": "Singh",
-      "options": [
-        "Mercury",
-        "Putin",
-        "India",
-        "Singh"
-      ]
-    },
-    {
-      "blanked": "Neena ______ advises people how to react to body-shaming and personal questions like when are you getting",
-      "answer": "Gupta",
-      "options": [
-        "Asia",
-        "Solar",
-        "Gupta",
-        "Targets"
-      ]
-    },
-    {
-      "blanked": "Can your body remember obesity? Robotic surgeon explains why weight gain happens and when bariatric surgery is an option | ______",
-      "answer": "Health",
-      "options": [
-        "Saif",
-        "Africa",
-        "Health",
-        "Still"
-      ]
-    },
-    {
-      "blanked": "‘His time will come’: Ajinkya Rahane wants Vaibhav Sooryavanshi to wait as Sanju ______ returns",
-      "answer": "Samson",
+      "blanked": "Haiwaan Advance Booking: Akshay Kumar and Saif Ali Khan starrer sells 10,000 tickets in top National Chains for ______ 1",
+      "answer": "Day",
       "options": [
         "Samson",
-        "Issue",
-        "Missed",
-        "Modi"
+        "Sanju",
+        "Day",
+        "Yields"
+      ]
+    },
+    {
+      "blanked": "‘Want Kashmiris in jail?’: Omar ______ hits back at Congress over Vande Mataram advice",
+      "answer": "Abdullah",
+      "options": [
+        "Today",
+        "Illnesses",
+        "Abdullah",
+        "Cases"
+      ]
+    },
+    {
+      "blanked": "BRICS Summit 2026 ______ updates: PM Modi stresses need to protect navigation, seafarers in talks with Iran's Pezeshkian",
+      "answer": "LIVE",
+      "options": [
+        "Duo",
+        "Every",
+        "LIVE",
+        "Prevention"
+      ]
+    },
+    {
+      "blanked": "Pranay Reddy Vanga Challenges Critics Following Romanchakam ______",
+      "answer": "Performance",
+      "options": [
+        "Performance",
+        "Kitco",
+        "Cosmic",
+        "Africa"
       ]
     },
     {
       "blanked": "Trump shadow looms large over ______ as Modi hosts Putin and Xi in Delhi",
       "answer": "Brics",
       "options": [
-        "Series",
-        "Band",
-        "Every",
-        "Brics"
+        "Brics",
+        "National",
+        "Cosmic",
+        "Kumar"
       ]
     },
     {
-      "blanked": "IISc-Denmark Team Unveils Recombinant Nanobody Antivenom with Broad Protection Against ______ Cobra and King Cobra Venoms",
-      "answer": "Indian",
+      "blanked": "Stock Market Today: Indexes Jump After Key ______ Reading as Oil Prices, Treasury Yields Pull Back; Dow Adds 500 Points",
+      "answer": "Inflation",
       "options": [
-        "Brics",
-        "Indian",
-        "Jansen",
-        "Adult"
+        "Inflation",
+        "Photos",
+        "Shashi",
+        "Chidambaram"
+      ]
+    },
+    {
+      "blanked": "iPhone Duo’s photos could pass for Microsoft’s Surface Duo ads from ______",
+      "answer": "2020",
+      "options": [
+        "Pakistan",
+        "500",
+        "Rahane",
+        "2020"
+      ]
+    },
+    {
+      "blanked": "Can the Houthis close the Red ______ after seizing the Yemen coast?",
+      "answer": "Sea",
+      "options": [
+        "Sea",
+        "Performance",
+        "Points",
+        "Inshorts"
       ]
     }
   ]
