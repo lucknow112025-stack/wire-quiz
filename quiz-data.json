@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-09-12T09:18:24.134Z",
+  "generatedAt": "2026-09-12T12:58:17.977Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "BRICS Summit 2026 LIVE updates: Chinese President Xi arrives in Delhi",
-    "Trump’s ‘deepest, darkest China’ gets a Brics sequel with Iran's cameo as India walks tightrope",
+    "BRICS Summit 2026 LIVE updates: BRICS nations adopt New Delhi declaration",
+    "China's Xi lands in Delhi for BRICS summit and talks with Modi",
     "'Mother of all deals': EU Commission's crucial step advances India-EU free trade agreement | India News",
-    "Ex-Uttarakhand CM Harish Rawat Quits Congress Posts After Cash, Gold Recovered From Aide",
-    "Modi, Putin seek stronger ties as Russia calls for BRICS to counter West",
     "BRICS finance chiefs urge reform of global development financial institutions",
-    "How Delhi is managing 35 special aircraft, air traffic during the BRICS Summit",
-    "On Vande Mataram Row, Congress' 'Stand Upright' Retort To Omar Abdullah",
+    "Modi holds talks with Putin and Iran’s president before the BRICS summit of 11 nations",
+    "Houthi advance in Yemen is about more than just the Red Sea",
+    "India's Modi stresses need to protect navigation, seafarers in talks with Iran's Pezeshkian",
     "‘My gesture during Assembly speech was inadvertent, had no ulterior motive’: Tamil Nadu CM Vijay",
-    "Palghar hospital assault case: MLA Rajendra Gavit's son, 9 Govindas arrested",
+    "Delhi court denies anticipatory bail to lawyer accused in Satya Niketan building collapse",
+    "Balaghat child deaths: CJP convenor Dipke visits tribal villages, demands accountability",
+    "Indian-origin woman shot dead by stalker in California; mother says ‘system failed her’",
+    "European Troop Deployment In Ukraine Would Be \"War Against Russia\": Putin",
     "Ethiopia, Malaysia eye strong defence, business ties with India after Modi meet at BRICS | India News",
-    "Gulf, Muslim organizations rally behind Saudi Arabia after pipeline attack",
-    "BRICS Summit 2026 LIVE Updates: BRICS Agrees On New Delhi Declaration Amid Middle East Crisis",
-    "Kerala woman charged with two murders after friend stabbed, another run over in US",
-    "SEBI proposes changes to closing auction session, derivatives settlement",
+    "Drones from Iraq attack and set pipeline on fire in Saudi Arabia",
+    "SEBI Proposes Seven Key Changes To Closing Auction Session, Derivatives Settlement And Timings",
+    "HDFC Bank sends two names to RBI for MD, CEO post, appoints Jimmy Tata as whole-time director",
     "NSE IPO Live: GMP jumps after announcement of price band | Latest news, date of opening, other updates",
     "Stock Market LIVE Updates, Sensex Today: Sensex, Nifty Close Flat As Oil Crosses $108 Amid US-Iran War",
-    "Chairman OP Bhatt hid audit findings from board members, says Coforge",
-    "Apple intends to mainstream foldable smartphones using its installed base and brand power, says GlobalData",
-    "iPhone 17 Pro at Rs 69,990? Croma reveals what Indian iPhone buyers want",
+    "‘ChatGPT will glaze anyone regardless’: Some users say its sycophancy is as bad as ever — but my 5 tests told a different story",
+    "Un-Duo attention: Apple’s foldable iPhone sparks an online meme fest",
     "Deals: iPhone 18 Pro and Pro Max launch, Galaxy S26 and Pixel 11 series drop prices - GSMArena.com news",
-    "Can you put a case on Apple's new foldable iPhone? See the options.",
-    "Haiwaan Box Office Collection Day 1: Saif Ali Khan-Akshay Kumar's Film Off To A Slow Start Amid Mirzapur Film-Hanuman Ansh Wave",
-    "Bigg Boss 20: Uditi Singh reacts to Ex Karan Wahi’s possible wildcard entry; says 'Maine move on kar liya",
-    "Lady Gaga and Michael Polansky welcome first child together; make first appearance with newborn baby: PIC"
+    "iPhone 17 Pro at Rs 69,990? Croma reveals what Indian iPhone buyers want",
+    "Police scold Poonam Dhillon, Upasana Singh for ugly fight at film workers' body office: ‘Care about your reputation’ | Bollywood",
+    "Haiwaan Box Office Collections: Akshay Kumar and Saif Ali Khan starrer is a non-starter with Rs. 2.50 Cr first day",
+    "Tamil Nadu Chief Minister Vijay’s trip to U.K. was cleared by Ministry of External Affairs, says official"
   ],
   "quiz": [
     {
-      "blanked": "Trump’s ‘deepest, darkest China’ gets a ______ sequel with Iran's cameo as India walks tightrope",
-      "answer": "Brics",
+      "blanked": "Scientists Make Breakthrough in ______ for Dark Matter",
+      "answer": "Search",
       "options": [
-        "MLA",
-        "Ali",
-        "Brics",
-        "Stand"
+        "2026",
+        "Search",
+        "Prize",
+        "Weight"
+      ]
+    },
+    {
+      "blanked": "HDFC Bank sends two names to RBI for MD, CEO post, appoints Jimmy ______ as whole-time director",
+      "answer": "Tata",
+      "options": [
+        "Tata",
+        "Targets",
+        "CJP",
+        "Some"
+      ]
+    },
+    {
+      "blanked": "It's spin vs spin as ______ and Sri Lanka do battle for Asia Cup title",
+      "answer": "India",
+      "options": [
+        "Putin",
+        "Suriya",
+        "Sri",
+        "India"
+      ]
+    },
+    {
+      "blanked": "NSE IPO Live: ______ jumps after announcement of price band | Latest news, date of opening, other updates",
+      "answer": "GMP",
+      "options": [
+        "Dhillon",
+        "Seven",
+        "2.50",
+        "GMP"
+      ]
+    },
+    {
+      "blanked": "Modi holds talks with Putin and ______ president before the BRICS summit of 11 nations",
+      "answer": "Irans",
+      "options": [
+        "Warning",
+        "Tata",
+        "Irans",
+        "Pancreatic"
+      ]
+    },
+    {
+      "blanked": "'Have we produced a batter like Vaibhav Sooryavanshi?': ______ Akram questions Pakistan's batting crisis",
+      "answer": "Wasim",
+      "options": [
+        "69990",
+        "Derivatives",
+        "Wasim",
+        "Warns"
+      ]
+    },
+    {
+      "blanked": "Drones from Iraq attack and set pipeline on fire in Saudi ______",
+      "answer": "Arabia",
+      "options": [
+        "Arabia",
+        "Putin",
+        "Timings",
+        "Affairs"
       ]
     },
     {
       "blanked": "iPhone 17 ______ at Rs 69,990? Croma reveals what Indian iPhone buyers want",
       "answer": "Pro",
       "options": [
-        "Modi",
-        "Khan-Akshay",
+        "Pro",
+        "Dhillon",
+        "Dengue",
+        "Menon"
+      ]
+    },
+    {
+      "blanked": "WHO Prequalifies Multi-Dose ______ Vaccine Vial to Protect Infants",
+      "answer": "RSV",
+      "options": [
+        "Seven",
+        "RSV",
+        "Cause",
+        "Nifty"
+      ]
+    },
+    {
+      "blanked": "BRICS ______ 2026 LIVE updates: BRICS nations adopt New Delhi declaration",
+      "answer": "Summit",
+      "options": [
         "Putin",
-        "Pro"
+        "Deployment",
+        "Summit",
+        "Bank"
       ]
     },
     {
-      "blanked": "Palghar hospital assault case: MLA ______ Gavit's son, 9 Govindas arrested",
-      "answer": "Rajendra",
+      "blanked": "Delhi court denies anticipatory bail to lawyer accused in ______ Niketan building collapse",
+      "answer": "Satya",
       "options": [
-        "Rajendra",
-        "Day",
-        "Harish",
-        "Vaibhav"
-      ]
-    },
-    {
-      "blanked": "On Vande Mataram Row, Congress' 'Stand Upright' Retort To ______ Abdullah",
-      "answer": "Omar",
-      "options": [
-        "Gaga",
-        "Crosses",
-        "WHO",
-        "Omar"
-      ]
-    },
-    {
-      "blanked": "BRICS Summit 2026 LIVE Updates: BRICS Agrees On New Delhi Declaration Amid ______ East Crisis",
-      "answer": "Middle",
-      "options": [
-        "GlobalData",
-        "US-Iran",
-        "Middle",
-        "Muslim"
-      ]
-    },
-    {
-      "blanked": "Haiwaan Box Office Collection Day 1: Saif Ali ______ Kumar's Film Off To A Slow Start Amid Mirzapur Film-Hanuman Ansh Wave",
-      "answer": "Khan-Akshay",
-      "options": [
-        "2026",
-        "Close",
-        "Khan-Akshay",
-        "Commissions"
-      ]
-    },
-    {
-      "blanked": "Did you know: Solomon Pappaiah rejected ______ film offers after Rajinikanth’s ‘Sivaji’",
-      "answer": "200",
-      "options": [
-        "200",
-        "Omar",
-        "President",
-        "England"
-      ]
-    },
-    {
-      "blanked": "El Nino Could Cause A Surge In Dengue Cases, Heat Illnesses In ______ WHO Warns",
-      "answer": "India",
-      "options": [
-        "India",
-        "Reveal",
+        "Satya",
         "England",
-        "GMP"
+        "Targets",
+        "Vaccine"
       ]
     },
     {
-      "blanked": "'Have we produced a batter like Vaibhav ______ Wasim Akram questions Pakistan's batting crisis",
-      "answer": "Sooryavanshi",
+      "blanked": "Deals: iPhone 18 Pro and Pro Max launch, ______ S26 and Pixel 11 series drop prices - GSMArena.com news",
+      "answer": "Galaxy",
       "options": [
-        "Sooryavanshi",
-        "Pappaiah",
-        "Close",
-        "Modi"
-      ]
-    },
-    {
-      "blanked": "Apple intends to mainstream foldable smartphones using its installed base and brand power, says ______",
-      "answer": "GlobalData",
-      "options": [
-        "Wave",
-        "Dark",
-        "Asia",
-        "GlobalData"
-      ]
-    },
-    {
-      "blanked": "Can you put a case on Apple's new foldable iPhone? ______ the options.",
-      "answer": "See",
-      "options": [
-        "Make",
-        "Sana",
-        "See",
-        "Surge"
-      ]
-    },
-    {
-      "blanked": "Bigg Boss 20: Uditi Singh reacts to Ex ______ Wahi’s possible wildcard entry; says 'Maine move on kar liya",
-      "answer": "Karan",
-      "options": [
-        "Wave",
-        "Uditi",
-        "Karan",
-        "Ali"
+        "CEO",
+        "Galaxy",
+        "Signs",
+        "Saif"
       ]
     }
   ]
