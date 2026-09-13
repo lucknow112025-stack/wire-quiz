@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-09-12T22:35:39.000Z",
+  "generatedAt": "2026-09-13T00:20:12.037Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
     "BRICS issues New Delhi Declaration, as UAE and Iran back down from tough positions",
-    "Iran President, UAE Crown Prince meet on BRICS sidelines, back joint statement urging restraint in West Asia war | World News",
-    "PM Modi Holds Hands With Xi, Putin In Powerful Message At BRICS Summit",
+    "Modi and Xi seek to reset India-China ties on BRICS sidelines",
     "Don't let US use your territory to attack Iran, Pezeshkian urges Gulf states",
-    "Xi Jinping gets red carpet at Brics summit amid thaw in India-China relations",
-    "Houthi advance in Yemen puts U.S. in a new bind",
+    "Iran President, UAE Crown Prince meet on BRICS sidelines, back joint statement urging restraint in West Asia war | World News",
+    "BRICS leaders voice concern over Middle East, condemn unilateral sanctions at India summit",
+    "AirTag, Duplicate Key: Stalker Chases, Kills Indian-Origin Woman In California",
     "Slum settlement in south Delhi veiled for BRICS Summit",
     "‘My gesture during Assembly speech was inadvertent, had no ulterior motive’: Tamil Nadu CM Vijay",
     "India rules out Brics currency proposal, backs local currency trade settlements",
     "India and EU close to sealing trade deal, await nod from top Council in Brussels",
-    "Three killed in Russian air strikes on 10 regions of Ukraine",
-    "Drones from Iraq attack and set pipeline on fire in Saudi Arabia",
+    "Explosions Heard Off The Coast Of Iran's Qeshm Island",
+    "Russian attacks kill 10, injure dozens in Ukraine; Russia says it hits ships, plants",
     "Iran President Pezeshkian's daughter visits Prime Ministers' Museum amid BRICS Summit | Watch",
-    "Indian-origin woman shot dead by stalker in California; mother says ‘system failed her’",
+    "PM holds series of bilateral meetings, hails India-UAE ties as ‘symbol of stability’",
     "HDFC Bank sends two names to RBI for next MD & CEO",
     "India’s central bank tells Tata Sons to take conglomerate public",
     "Anthropic CEO urges AI companies to slow model development amid fears over misuse",
-    "SEBI Proposes Seven Key Changes To Closing Auction Session, Derivatives Settlement And Timings",
-    "Un-Duo attention: Apple’s foldable iPhone sparks an online meme fest",
+    "LIC may emerge top investor in anchor book of NSE IPO; ADIA, Carmignac may also bet big",
+    "Apple’s first foldable iPhone may cost more because of a $250 Samsung display",
+    "I rode Volkswagen's ‘world’s safest e-bike’ at IFA 2026 — I love the glasses and radar, but the helmet looks a bit silly doesn’t it",
     "Croma iPhone 17 Pro Max price drops to Rs 74,990 in Croma sale: here's how the deal, exchange bonus and...",
     "Deals: iPhone 18 Pro and Pro Max are on pre-order, iPhone Duo coming soon, here are the alternatives - GSMArena.com news",
-    "Samsung Galaxy S26 FE's India price leaks - GSMArena.com news",
     "Vijay and Ajith Kumar reunite at Silverstone; fans call it “biggest day for Tamil Cinema”",
     "Haiwaan Box Office Collections: Akshay Kumar and Saif Ali Khan starrer is a non-starter with Rs. 2.50 Cr first day",
     "Marvel’s Wolverine Review Roundup: A Linear Miss"
   ],
   "quiz": [
     {
-      "blanked": "Samsung Galaxy S26 FE's ______ price leaks - GSMArena.com news",
-      "answer": "India",
+      "blanked": "Alexander Zverev vs Ben ______ US Open 2026 final: Know head-to-head, match time and where to watch live in India",
+      "answer": "Shelton",
       "options": [
-        "India",
-        "Pezeshkian",
-        "Nadu",
-        "Conducted"
+        "Tata",
+        "Surge",
+        "Shelton",
+        "Zverev"
       ]
     },
     {
-      "blanked": "PM Modi Holds Hands With Xi, Putin In ______ Message At BRICS Summit",
-      "answer": "Powerful",
+      "blanked": "Explosions Heard Off The Coast Of Iran's ______ Island",
+      "answer": "Qeshm",
       "options": [
+        "Qeshm",
+        "Review",
+        "Summit",
+        "Gambhir"
+      ]
+    },
+    {
+      "blanked": "WHO ______ Asia Region commits to stronger action to end Tuberculosis",
+      "answer": "South-East",
+      "options": [
+        "Test",
         "Menon",
-        "Prime",
-        "Powerful",
-        "Know"
-      ]
-    },
-    {
-      "blanked": "India rules out ______ currency proposal, backs local currency trade settlements",
-      "answer": "Brics",
-      "options": [
-        "Dengue",
-        "WHO",
-        "Putin",
-        "Brics"
-      ]
-    },
-    {
-      "blanked": "Don't let US use your territory to attack Iran, ______ urges Gulf states",
-      "answer": "Pezeshkian",
-      "options": [
-        "Mexico",
-        "Conducted",
-        "Pezeshkian",
-        "Just"
-      ]
-    },
-    {
-      "blanked": "Major title changes hands on WWE ______ in Mexico City",
-      "answer": "SmackDown",
-      "options": [
-        "SmackDown",
-        "Ajith",
-        "Dengue",
-        "Pro"
-      ]
-    },
-    {
-      "blanked": "WHO South-East ______ Region commits to stronger action to end Tuberculosis",
-      "answer": "Asia",
-      "options": [
-        "News",
-        "Holds",
-        "Asia",
+        "Review",
         "South-East"
       ]
     },
     {
-      "blanked": "India administers 80 lakh ______ vaccine doses since February",
-      "answer": "HPV",
+      "blanked": "IBM and ______ release open-source AI model for lunar mapping",
+      "answer": "NASA",
       "options": [
-        "Sons",
-        "Conducted",
-        "WHO",
-        "HPV"
+        "South-East",
+        "NASA",
+        "Health",
+        "Checkups"
       ]
     },
     {
-      "blanked": "Indian-origin woman shot dead by stalker in ______ mother says ‘system failed her’",
+      "blanked": "BRICS issues New Delhi ______ as UAE and Iran back down from tough positions",
+      "answer": "Declaration",
+      "options": [
+        "Review",
+        "Declaration",
+        "Warns",
+        "IFA"
+      ]
+    },
+    {
+      "blanked": "Shreyas ______ breaks silence on relationship with Gautam Gambhir after 'tough start to captaincy' | Cricket",
+      "answer": "Iyer",
+      "options": [
+        "Key",
+        "Asia",
+        "Dengue",
+        "Iyer"
+      ]
+    },
+    {
+      "blanked": "Major title changes hands on ______ SmackDown in Mexico City",
+      "answer": "WWE",
+      "options": [
+        "Mexico",
+        "WWE",
+        "Strange",
+        "Dark"
+      ]
+    },
+    {
+      "blanked": "Croma iPhone 17 Pro Max price drops to Rs ______ in Croma sale: here's how the deal, exchange bonus and...",
+      "answer": "74990",
+      "options": [
+        "Ukraine",
+        "WWE",
+        "UAE",
+        "74990"
+      ]
+    },
+    {
+      "blanked": "Russian attacks kill 10, injure dozens in Ukraine; ______ says it hits ships, plants",
+      "answer": "Russia",
+      "options": [
+        "West",
+        "Duo",
+        "Russia",
+        "Key"
+      ]
+    },
+    {
+      "blanked": "AirTag, Duplicate Key: Stalker Chases, Kills Indian-Origin Woman In ______",
       "answer": "California",
       "options": [
         "California",
-        "Turned",
-        "Brics",
-        "Khan"
+        "Museum",
+        "HPV",
+        "Mexico"
       ]
     },
     {
-      "blanked": "'I definitely know how his mind works': Shreyas ______ on Gautam Gambhir",
-      "answer": "Iyer",
+      "blanked": "Anthropic ______ urges AI companies to slow model development amid fears over misuse",
+      "answer": "CEO",
       "options": [
-        "Ajith",
-        "Iyer",
-        "February",
-        "Into"
+        "Brussels",
+        "CEO",
+        "HPV",
+        "Crown"
       ]
     },
     {
-      "blanked": "Physicists Just Turned The Entire Planet Into a Dark Matter Detector – And Strange Signals ______ Turning Up",
-      "answer": "Kept",
+      "blanked": "Iran ______ Pezeshkian's daughter visits Prime Ministers' Museum amid BRICS Summit | Watch",
+      "answer": "President",
       "options": [
-        "Turning",
-        "Kept",
-        "Brics",
-        "Powerful"
-      ]
-    },
-    {
-      "blanked": "Un-Duo attention: ______ foldable iPhone sparks an online meme fest",
-      "answer": "Apples",
-      "options": [
-        "Khan",
-        "Apples",
-        "Bank",
-        "How"
-      ]
-    },
-    {
-      "blanked": "El ______ Could Cause A Surge In Dengue Cases, Heat Illnesses In India: WHO Warns",
-      "answer": "Nino",
-      "options": [
-        "Brics",
-        "Vijay",
-        "Nino",
-        "Ben"
+        "Detector",
+        "President",
+        "NASA",
+        "Crown"
       ]
     }
   ]
