@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-09-13T17:30:38.148Z",
+  "generatedAt": "2026-09-13T19:46:44.264Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
     "BRICS summit 2026: What are the key takeaways?",
-    "Iran, UAE's \"Turn The Page\" Bonhomie In Delhi, Trump \"Doesn't Care\"",
-    "Day after ‘all-vegetarian’ BRICS dinner, Rahul Gandhi’s ‘80%’ remark",
-    "'UCC Will Be Implemented In 21 States Before 2029': Amit Shah Makes Big Announcement | India News",
-    "Russia hits truck near Polish border in latest strike near NATO",
-    "Malaysian PM sings Kishore Kumar’s ‘Khwab Ho Tum’ during India visit for BRICS Summit | Trending",
-    "Xi Pitches His AI Vision at BRICS Summit as China Duels With US",
-    "Monsoon to visit: Heavy rainfall in store for these two states in coming days",
-    "Maratha agitation: Bombay High Court declines to halt Manoj Jarange's march to Mumbai",
-    "Trade, energy, critical minerals in focus as PM Modi meets South Africa, Nigeria, Kazakhstan leaders on...",
+    "UAE and Iran discuss easing tensions at BRICS summit",
+    "UCC in all 21 NDA-ruled States by 2029: Amit Shah",
+    "Russia hits passenger train on Ukraine's border with Poland, just misses 'diplomatic train'",
+    "India condemns attack on ship off Oman as seafarer remains missing; 13 Indian crew members rescued | India News",
+    "Live Cricket Score, Schedule, Latest News, Stats & Videos",
+    "Video: PM Modi Pauses BRICS Speech To Check On China's Xi Jinping",
+    "Opposition States Skip BRICS Meet, Six BJP Chief Ministers Join",
+    "The Security Council is paralysed, but the UN is not broken, says Guterres",
+    "‘India is just another country’: Humaiun says Bangladesh wants to reset ties",
     "\"Negative Forces\": Trump Slams AI Critics Day After Global Slowdown Call",
     "Vessel struck in Strait of Hormuz, UKMTO reports",
-    "Rs 4,49,00,000: What Israel Spent On Its PMs' Hair And Makeup Since 2019",
+    "Houthi projectile wounds two, damages mosque in Jazan region, Saudi says",
     "BRICS Summit 2026 Live Updates: PM Modi meets 15 world leaders on sidelines of BRICS Summit",
     "Sebi expiry-day overhaul: Experts say new rules could curb volatility, manipulation",
+    "'Do you think AI will kill all humans?' Anthropic CEO Dario Amodei answers",
+    "Is NSE IPO Overvalued or Undervalued?",
     "Weekly Market Outlook: Can Nifty find its footing as crude, Fed policy drive markets?",
-    "After Musk and Altman, Google DeepMind founder backs Anthropic CEO Dario Amodei amid alarm over AI | World News",
-    "Wall Street turns bullish on gold price ahead of the Fed, Main Street clings to slim bullish majority despite weekly slide",
     "Weekly poll: will you buy the iPhone Duo? What about the iPhone 18 Pro or iPhone 18 Pro Max? - GSMArena.com news",
-    "Deals: iPhone 18 Pro and Pro Max pre-order begins, Galaxy Z Fold8 and Galaxy S26 series get discounted - GSMArena.com news",
-    "Apple iPhone 17 sees strong demand as buyers rush to beat steep price rise",
+    "iPhone 18 Pro Max delivery slips to October: Check which models are still available",
+    "Motorola Edge 70 Neo shows up on Geekbench with Snapdragon 7-series mobile platform",
     "How One UI 9 transforms your Galaxy Z Flip 7 cover screen",
     "Trisha Krishnan Rocks Maroon Bomber Jacket, Denims As She Joins Vijay At Ajith Kumar's Silverstone Race",
     "Haiwaan Box Office Collections: Akshay Kumar and Saif Ali Khan starrer collects Rs 2.25 crore on Day 2",
-    "Bigg Boss 20: Salman Khan talks about Qazi Touqeer’s career struggle, gives examples of John Travolta and"
+    "Mahira Khan set to welcome second child at 41, makes TIFF debut with baby bump"
   ],
   "quiz": [
     {
-      "blanked": "Xi Pitches His AI Vision at BRICS Summit as ______ Duels With US",
-      "answer": "China",
+      "blanked": "Nepomniachtchi Beats ______ Tsolakidou Clinches For Ganges Grandmasters",
+      "answer": "Carlsen",
       "options": [
-        "Space",
-        "Shows",
-        "China",
-        "Call"
+        "Carlsen",
+        "Forces",
+        "Shelton",
+        "Ball"
       ]
     },
     {
-      "blanked": "Deals: iPhone 18 Pro and Pro Max pre-order begins, ______ Z Fold8 and Galaxy S26 series get discounted - GSMArena.com news",
-      "answer": "Galaxy",
+      "blanked": "How Rabies Virus Infection Triggers Fatal ______ Immune Failure",
+      "answer": "Brain",
       "options": [
-        "Dosanjh",
-        "Galaxy",
-        "Teen",
-        "Vaccination"
+        "Duo",
+        "Security",
+        "Max",
+        "Brain"
       ]
     },
     {
-      "blanked": "Astronaut Anil Menon Shows How Health ______ Are Conducted In Space",
-      "answer": "Checkups",
+      "blanked": "NASA and ______ put 30 data layers into one AI map of the Moon",
+      "answer": "IBM",
       "options": [
-        "Checkups",
-        "Junior",
-        "What",
-        "BRICS"
+        "Poland",
+        "CEO",
+        "IBM",
+        "Moon"
       ]
     },
     {
-      "blanked": "Bigg Boss 20: Salman Khan talks about Qazi ______ career struggle, gives examples of John Travolta and",
-      "answer": "Touqeers",
+      "blanked": "Weekly ______ Outlook: Can Nifty find its footing as crude, Fed policy drive markets?",
+      "answer": "Market",
       "options": [
-        "Office",
-        "2.25",
-        "Touqeers",
-        "Rabies"
+        "Failure",
+        "Market",
+        "TIFF",
+        "Summit"
+      ]
+    },
+    {
+      "blanked": "Opposition ______ Skip BRICS Meet, Six BJP Chief Ministers Join",
+      "answer": "States",
+      "options": [
+        "Infection",
+        "States",
+        "Hawaii",
+        "Carlsen"
+      ]
+    },
+    {
+      "blanked": "Live Cricket Score, Schedule, Latest News, ______ & Videos",
+      "answer": "Stats",
+      "options": [
+        "Afghanistan",
+        "Forces",
+        "Brain",
+        "Stats"
+      ]
+    },
+    {
+      "blanked": "BRICS Summit 2026 ______ Updates: PM Modi meets 15 world leaders on sidelines of BRICS Summit",
+      "answer": "Live",
+      "options": [
+        "Live",
+        "Experts",
+        "Forces",
+        "IPO"
+      ]
+    },
+    {
+      "blanked": "The Security Council is paralysed, but the UN is not broken, says ______",
+      "answer": "Guterres",
+      "options": [
+        "Guterres",
+        "Skip",
+        "Pauses",
+        "Dire"
+      ]
+    },
+    {
+      "blanked": "Mahira ______ set to welcome second child at 41, makes TIFF debut with baby bump",
+      "answer": "Khan",
+      "options": [
+        "TIFF",
+        "Khan",
+        "Check",
+        "NSE"
       ]
     },
     {
       "blanked": "How ______ UI 9 transforms your Galaxy Z Flip 7 cover screen",
       "answer": "One",
       "options": [
-        "One",
-        "Race",
-        "Triggers",
-        "Duo"
+        "Vaccination",
+        "Beats",
+        "Snapdragon",
+        "One"
       ]
     },
     {
-      "blanked": "Iran, UAE's \"Turn The Page\" Bonhomie In ______ Trump \"Doesn't Care\"",
-      "answer": "Delhi",
+      "blanked": "Houthi projectile wounds two, damages mosque in Jazan region, ______ says",
+      "answer": "Saudi",
       "options": [
-        "Amodei",
-        "ENSO",
-        "Duels",
-        "Delhi"
+        "Grandmasters",
+        "Saudi",
+        "How",
+        "IBM"
       ]
     },
     {
-      "blanked": "Wall ______ turns bullish on gold price ahead of the Fed, Main Street clings to slim bullish majority despite weekly slide",
-      "answer": "Street",
+      "blanked": "\"Negative ______ Trump Slams AI Critics Day After Global Slowdown Call",
+      "answer": "Forces",
       "options": [
-        "John",
-        "Street",
-        "Care",
-        "Hormuz"
-      ]
-    },
-    {
-      "blanked": "Rs ______ What Israel Spent On Its PMs' Hair And Makeup Since 2019",
-      "answer": "44900000",
-      "options": [
-        "Khan",
-        "Spent",
-        "Hockey",
-        "44900000"
-      ]
-    },
-    {
-      "blanked": "Day after ‘all-vegetarian’ BRICS dinner, Rahul Gandhi’s ______ remark",
-      "answer": "80%",
-      "options": [
-        "India",
-        "Qazi",
-        "Shows",
-        "80%"
-      ]
-    },
-    {
-      "blanked": "India bat and bring in ______ for Rawal; Gunaratne back for Sri Lanka",
-      "answer": "Kamalini",
-      "options": [
-        "Kamalini",
-        "Conducted",
-        "Shows",
-        "Critics"
-      ]
-    },
-    {
-      "blanked": "\"Negative Forces\": Trump Slams AI Critics Day After Global ______ Call",
-      "answer": "Slowdown",
-      "options": [
-        "Doesnt",
-        "Slowdown",
-        "Implemented",
-        "Joins"
-      ]
-    },
-    {
-      "blanked": "Sebi expiry-day overhaul: ______ say new rules could curb volatility, manipulation",
-      "answer": "Experts",
-      "options": [
-        "Khwab",
-        "Index",
-        "Spent",
-        "Experts"
+        "Chief",
+        "Forces",
+        "Slams",
+        "Kumars"
       ]
     }
   ]
