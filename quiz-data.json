@@ -1,43 +1,83 @@
 {
-  "generatedAt": "2026-09-15T19:57:44.678Z",
+  "generatedAt": "2026-09-15T22:44:07.175Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
     "What are ‘space weapons’, which US says it has deployed into orbit?",
     "'Our father being slowly killed': Imran Khan's sons accuse Pakistan's Asim Munir of vendetta",
-    "Ditched by Pakistan, Saudi Arabia rushes to Israel for help to fight Houthis",
+    "Saudi seeks Israel's help amid attacks by Iran-backed Houthis? Report says Riyadh sought intel aid | World News",
     "Gurugram biker hit-and-run case: Accused arrested after attempt-to-murder charge; police say he tried to escape on pretext of urinating",
-    "Knowledge Nugget | BRICS Summit 2026: New Delhi Declaration, key takeaways and what was left unsaid",
+    "Mecca Put On Air Raid Alert For First Time In History As Houthis Target Saudi",
     "India's UPI ends free era with fee on large merchant payments",
-    "Odisha rejects premature release of Dara Singh serving life for murder of Graham Staines, two sons",
-    "‘He had received two invitations’: India rejects confusion over Bangladesh PM’s Brics invite",
-    "Sachin Pilot, Warring, Channi join hands at Punjab Congress protest over Gulzar Singh’s death",
     "Meta to report child abuse material directly to Indian authorities",
+    "‘He had received two invitations’: India rejects confusion over Bangladesh PM’s Brics invite",
+    "Quietly, BRICS Starts Assembling a New Trade Finance System",
+    "Delhi-bound IndiGo flight diverted to Lucknow after smoke warning in cargo area",
     "Trump slams 3 justices he nominated after mail-voting setback: ‘Not the people I interviewed’",
-    "U.S. military says Iran war has led to munitions shortfall",
-    "Trump claims 'failing nation' Iran wants a deal ‘quickly and badly’, says he'll decide on US...",
     "India deeply concerned about blockades in Hormuz and Bab-el-Mandeb, says govt.",
-    "TCS, Tata Motors PV, Tata Chemicals: Tata Group shares surge up to 20%; here is why the stocks are surging",
-    "Stock Market Today Highlights, Sept 15: Sensex down over 777.94 pts, Nifty slips below 23,118 as Crude, Fed fears drag markets into red",
+    "Can the Houthis hold on to Yemen’s strategic western coast?",
+    "World News Today Live Updates: US watchdog tallies Iran war’s hit to weapons stockpiles, military bases",
+    "Tata Sons mulls split to avoid IPO after RBI rejects exemption from listing rules",
     "Bitcoin dips to $76.2k ahead of Clarity Act vote, Fed meeting",
-    "Indian Man At Oracle Laid Off After 12 Years, Wife's Emotional Note Viral: \"Worked Through Holi, Diwali\"",
+    "What a 5% US 10-year yield means for India: 6 factors to watch",
+    "Nifty Outlook for September 16: Recent swing lows back in focus with headwinds remaining stubborn",
     "iOS 27 now seeding, here are all the iPhones getting it - GSMArena.com news",
-    "Apple takes margin hit on iPhone 17 to keep India price competitive",
-    "Minecraft 26.3 Update Wilderness Bound is Now Live, Here’s What’s New",
-    "Live Q&A: Ask Me Your Questions About iPhone Duo, iOS 27, the New Siri and More",
+    "Did iPhone 18 Pro Just Beat The New Mac Mini? First M6 Benchmarks Leak",
+    "3D models of new iPhone Duo, iPhone 18 Pro and 18 Pro Max are now available in our database",
+    "Minecraft Wilderness Bound update patch notes: Dappled Forest, Abandoned Camps, and more",
     "Emmys 2026 Winners: Full List of Emmy Awards Winners",
     "\"Wife Does The Aarti\": Shah Rukh Khan Shares Details About Ganesh Chaturthi Celebrations At Home",
-    "Ahaana Krishna, Nimish Ravi make wedding official after weeks of speculation"
+    "'Mirzapur The Movie' box office collection Day 12 [LIVE]: Pankaj Tripathi, Ravi Kishan film inches toward"
   ],
   "quiz": [
     {
-      "blanked": "Emmys 2026 Winners: ______ List of Emmy Awards Winners",
-      "answer": "Full",
+      "blanked": "Bitcoin dips to $76.2k ahead of Clarity ______ vote, Fed meeting",
+      "answer": "Act",
       "options": [
-        "Emotional",
-        "Full",
-        "Kishan",
-        "Years"
+        "Report",
+        "Winners",
+        "India",
+        "Act"
+      ]
+    },
+    {
+      "blanked": "Emmys 2026 Winners: Full List of ______ Awards Winners",
+      "answer": "Emmy",
+      "options": [
+        "Emmy",
+        "IND",
+        "Iran",
+        "Acute"
+      ]
+    },
+    {
+      "blanked": "'Our father being slowly killed': Imran Khan's sons accuse Pakistan's Asim ______ of vendetta",
+      "answer": "Munir",
+      "options": [
+        "Munir",
+        "Leukaemia",
+        "Uzbekistan",
+        "Wilderness"
+      ]
+    },
+    {
+      "blanked": "Renshaw's maiden ______ ton and Ellis' five secure opening victory",
+      "answer": "ODI",
+      "options": [
+        "India",
+        "Recent",
+        "Alert",
+        "ODI"
+      ]
+    },
+    {
+      "blanked": "India deeply concerned about blockades in Hormuz and ______ says govt.",
+      "answer": "Bab-el-Mandeb",
+      "options": [
+        "Bab-el-Mandeb",
+        "UPI",
+        "IndiGo",
+        "First"
       ]
     },
     {
@@ -45,109 +85,69 @@
       "answer": "India",
       "options": [
         "India",
-        "Amyloidosis",
-        "Pankaj",
-        "Diwali"
+        "Israels",
+        "Fed",
+        "Alert"
       ]
     },
     {
-      "blanked": "Odisha rejects premature release of Dara Singh serving life for murder of Graham ______ two sons",
-      "answer": "Staines",
+      "blanked": "Mohsin Naqvi 'didn't object' to India refusing Women's Asia ______ trophy from him, says Rajeev Shukla",
+      "answer": "Cup",
       "options": [
-        "Staines",
-        "Khans",
-        "More",
-        "Patients"
+        "About",
+        "Cup",
+        "List",
+        "Accused"
       ]
     },
     {
-      "blanked": "\"Wife Does The Aarti\": Shah Rukh Khan Shares Details About Ganesh Chaturthi Celebrations At ______",
-      "answer": "Home",
+      "blanked": "Minecraft Wilderness Bound update patch notes: Dappled ______ Abandoned Camps, and more",
+      "answer": "Forest",
       "options": [
-        "Declaration",
-        "Home",
-        "Helen",
-        "About"
-      ]
-    },
-    {
-      "blanked": "Difficult-to-Manage Axial Spondyloarthritis: Rare, But ______ Burden",
-      "answer": "High",
-      "options": [
-        "High",
-        "Man",
-        "777.94",
-        "Lachmann"
-      ]
-    },
-    {
-      "blanked": "Leukemia And Lymphoma: New Treatments Offering Hope To ______",
-      "answer": "Patients",
-      "options": [
-        "Patients",
-        "Celebrations",
-        "Brics",
-        "Iran"
-      ]
-    },
-    {
-      "blanked": "Ditched by ______ Saudi Arabia rushes to Israel for help to fight Houthis",
-      "answer": "Pakistan",
-      "options": [
-        "Pakistan",
-        "Spondyloarthritis",
-        "Live",
-        "Congress"
-      ]
-    },
-    {
-      "blanked": "Meta to report child abuse material directly to ______ authorities",
-      "answer": "Indian",
-      "options": [
-        "Tata",
-        "Delhi",
-        "Indian",
-        "Ask"
+        "LIVE",
+        "Target",
+        "Samson",
+        "Forest"
       ]
     },
     {
       "blanked": "Trump slams 3 justices he nominated after mail-voting setback: ______ the people I interviewed’",
       "answer": "Not",
       "options": [
-        "Khan",
-        "Asian",
+        "Leukaemia",
+        "Raid",
         "Not",
-        "Through"
+        "Asim"
       ]
     },
     {
-      "blanked": "U.S. military says ______ war has led to munitions shortfall",
-      "answer": "Iran",
+      "blanked": "Gurugram biker hit-and-run case: ______ arrested after attempt-to-murder charge; police say he tried to escape on pretext of urinating",
+      "answer": "Accused",
       "options": [
-        "Iran",
-        "Afghanistan",
-        "AICF",
-        "Does"
+        "Imran",
+        "Accused",
+        "News",
+        "Time"
       ]
     },
     {
-      "blanked": "Stock Market Today Highlights, Sept 15: Sensex down over 777.94 pts, ______ slips below 23,118 as Crude, Fed fears drag markets into red",
-      "answer": "Nifty",
+      "blanked": "Leukemia And Lymphoma: New ______ Offering Hope To Patients",
+      "answer": "Treatments",
       "options": [
-        "Khans",
-        "Tata",
-        "PMs",
-        "Nifty"
+        "World",
+        "Treatments",
+        "Assembling",
+        "Air"
       ]
     },
     {
-      "blanked": "TCS, Tata Motors PV, Tata Chemicals: ______ Group shares surge up to 20%; here is why the stocks are surging",
-      "answer": "Tata",
+      "blanked": "World News Today ______ Updates: US watchdog tallies Iran war’s hit to weapons stockpiles, military bases",
+      "answer": "Live",
       "options": [
-        "Sanju",
-        "Tata",
-        "Israel",
-        "Your"
+        "Time",
+        "Lymphoma",
+        "Live",
+        "About"
       ]
     }
   ]
