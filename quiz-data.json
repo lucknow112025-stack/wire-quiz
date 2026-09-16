@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-09-16T18:53:14.343Z",
+  "generatedAt": "2026-09-16T21:50:03.201Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "Fed Meeting Today: Warsh, FOMC Raised Interest Rates by 0.25 Percentage Point — Live Updates",
-    "'Special significance to Muslims': India condemns Houthi drone attack near Saudi Arabia's Mecca",
     "Pakistan Navy vessel collides with Indian warship in Arabian Sea",
-    "Mystery Woman Enters Death Probe Of Sushant Singh's Ex-Manager Disha Salian",
-    "'No legal basis, completely unacceptable': India rejects 'so-called' Pakistan-China boundary joint commission | India News",
-    "Saudi Arabia promises to respond to Houthi attacks ‘firmly’",
-    "Union Cabinet approves raising EPFO wage ceiling to ₹25,000 per month",
+    "‘No aggressive element’: Pakistan on defence pact with Saudi Arabia amid Houthi strikes on Mecca | World News",
+    "‘Vacate Immediately’: India Tells Pakistan After It Operationalises Joint Boundary Commission With China",
+    "Houthis release video claiming to show Saudi F-15 jet shot down after alleged Mecca drone attack",
+    "\"Never Met\": Aaditya Thackeray Reacts To Sushant Rajput Ex-Manager Murder FIR Naming Him",
+    "Houthi blitz leaves Saudi Arabia exposed, Iran emboldened",
+    "When A Maoist Ambush Wiped Out Chhattisgarh Congress Leadership",
     "Heartbreaking: 6 Students Dead At Ganesh Nimarjan In Hyd!",
+    "BJP appeals to people to light 'Aashirwad ka Diya' on Modi's birthday",
     "How Much Land Does KCR Family Hold? Revanth Answers",
-    "Centre declares Shahzad Bhatti Network a terrorist group under UAPA",
     "India could face up to 100% US tariffs over Russian oil",
     "Russia says there is still time to stop an arms race in space after US orbital weapons admission",
-    "World News Today Live Updates: Persian Gulf oil flows hit pre-conflict levels amid Iran war, US says",
-    "Gaza building collapse kills at least 21, traps dozens under rubble",
+    "Why leverage over 'Gate of Tears' is Iran's big moment in war with US: 'An unprecedented achievement'",
+    "On Risk From Superintelligence, Top AI Expert's Chimpanzee-Nukes Analogy",
     "Plea In Supreme Court Challenges Centre's Decision To Introduce Charges On UPI Transactions Above ₹2,000",
     "India's NSE to launch IPO amid investor caution over derivatives-fuelled growth",
-    "Fed decision looms large; Zuckerberg on AI safety fears - what’s moving markets",
-    "Adidas lays off 50% workforce at Gurugram Tech Hub, calls it 'difficult decision'",
-    "Analyst Jeff Pu is not impressed with iPhone 18 Pro and 18 Pro Max pre-orders - GSMArena.com news",
+    "US Fed raises interest rates for first time in three years",
+    "Govt lowers export levies on petrol, diesel and aviation turbine fuel amid fortnightly review",
+    "Leaker Says AMD Has Its Own DLSS 5-Like Neural Rendering Coming with RDNA 5, Explains How He’d Rather It Worked",
+    "Samsung Finds Another Guy Named Tim Cook To Promote Galaxy Z Fold 8",
     "Yamaha unveils compact B200A soundbar for TVs and gaming with Dolby Atmos 3D sound",
-    "Redmi Note 17 Pro and Redmi Note 17 Pro Max land in India, here are the prices - GSMArena.com news",
-    "Hit refresh: Apple rolls out iOS 27 with a smarter, more capable Siri AI",
+    "3D models of new iPhone Duo, iPhone 18 Pro and 18 Pro Max are now available in our database",
     "Centre reconstitutes CBFC; Preity Zinta, Pankaj Tripathi among 18 members",
     "Anant Nag to receive Dadasaheb Phalke Award on Sept 22; PM Modi congratulates actor",
-    "'Mirzapur The Movie' box office collection Day 13 [LIVE]: Pankaj Tripathi, Ali Fazal and Ravi Kishan film"
+    "Hanuman Ansh Box Office Collection Day 40: Neem Karoli Baba Film Needs Rs 10 Crore More To Cross Rs 300 Crore Globally"
   ],
   "quiz": [
     {
-      "blanked": "'Special significance to Muslims': India condemns ______ drone attack near Saudi Arabia's Mecca",
-      "answer": "Houthi",
+      "blanked": "Houthis release video claiming to show Saudi F-15 jet shot down after alleged ______ drone attack",
+      "answer": "Mecca",
       "options": [
-        "Houthi",
-        "Early",
-        "Navy",
-        "Zinta"
+        "Crore",
+        "Nag",
+        "Mecca",
+        "Diya"
       ]
     },
     {
-      "blanked": "Fed decision looms large; ______ on AI safety fears - what’s moving markets",
-      "answer": "Zuckerberg",
+      "blanked": "Leaker Says AMD Has Its Own DLSS 5-Like Neural Rendering Coming with RDNA 5, Explains How ______ Rather It Worked",
+      "answer": "Hed",
       "options": [
-        "TVs",
-        "Zuckerberg",
-        "Holes",
-        "Aging"
+        "Hed",
+        "Dadasaheb",
+        "Jumps",
+        "Arabian"
       ]
     },
     {
-      "blanked": "Union Cabinet approves raising EPFO wage ceiling to ______ per month",
-      "answer": "25000",
+      "blanked": "India could face up to 100% US tariffs over ______ oil",
+      "answer": "Russian",
       "options": [
-        "Disha",
-        "Have",
-        "EPFO",
-        "25000"
+        "Atmos",
+        "Pro",
+        "Sanju",
+        "Russian"
       ]
     },
     {
-      "blanked": "Anant Nag to receive Dadasaheb ______ Award on Sept 22; PM Modi congratulates actor",
-      "answer": "Phalke",
+      "blanked": "Women’s cardiovascular changes may begin nearly 20 years before menopause: Study | India ______",
+      "answer": "News",
       "options": [
-        "ODI",
-        "Office",
-        "Nimarjan",
-        "Phalke"
+        "Much",
+        "News",
+        "Ganesh",
+        "Wiped"
       ]
     },
     {
-      "blanked": "AFG vs IND T20 2026: Sanju Samson leads another rapid chase as India win ______ series",
-      "answer": "Afghanistan",
+      "blanked": "AFG vs IND T20 2026: ______ Samson leads another rapid chase as India win Afghanistan series",
+      "answer": "Sanju",
       "options": [
-        "Afghanistan",
-        "Live",
-        "Early",
-        "Answers"
+        "CBFC",
+        "Sanju",
+        "Him",
+        "Guy"
+      ]
+    },
+    {
+      "blanked": "How Much Land ______ KCR Family Hold? Revanth Answers",
+      "answer": "Does",
+      "options": [
+        "Does",
+        "Film",
+        "Introduce",
+        "Hockey"
+      ]
+    },
+    {
+      "blanked": "3D models of new iPhone Duo, iPhone 18 ______ and 18 Pro Max are now available in our database",
+      "answer": "Pro",
+      "options": [
+        "Pro",
+        "Named",
+        "Proteomic",
+        "Supreme"
+      ]
+    },
+    {
+      "blanked": "Samsung Finds Another Guy ______ Tim Cook To Promote Galaxy Z Fold 8",
+      "answer": "Named",
+      "options": [
+        "Named",
+        "KCR",
+        "Supreme",
+        "Indies"
+      ]
+    },
+    {
+      "blanked": "‘No aggressive element’: Pakistan on defence pact with Saudi ______ amid Houthi strikes on Mecca | World News",
+      "answer": "Arabia",
+      "options": [
+        "Phalke",
+        "Olympiad",
+        "Risk",
+        "Arabia"
+      ]
+    },
+    {
+      "blanked": "Heartbreaking: 6 Students Dead At Ganesh ______ In Hyd!",
+      "answer": "Nimarjan",
+      "options": [
+        "Fold",
+        "Zinta",
+        "KCR",
+        "Nimarjan"
+      ]
+    },
+    {
+      "blanked": "Halting ______ Aging in HIV: How Early Treatment Restores Health",
+      "answer": "Proteomic",
+      "options": [
+        "Proteomic",
+        "Challenges",
+        "Treatment",
+        "Gate"
       ]
     },
     {
       "blanked": "India's NSE to launch ______ amid investor caution over derivatives-fuelled growth",
       "answer": "IPO",
       "options": [
-        "Dots",
+        "Students",
         "IPO",
-        "HIV",
-        "TVs"
-      ]
-    },
-    {
-      "blanked": "'No legal basis, completely unacceptable': India rejects 'so-called' Pakistan-China boundary joint commission | ______ News",
-      "answer": "India",
-      "options": [
-        "India",
-        "300",
-        "News",
-        "Atmos"
-      ]
-    },
-    {
-      "blanked": "Saudi ______ promises to respond to Houthi attacks ‘firmly’",
-      "answer": "Arabia",
-      "options": [
-        "Muslims",
-        "Planet",
-        "Arabia",
-        "Warsh"
-      ]
-    },
-    {
-      "blanked": "Halting Proteomic Aging in HIV: How ______ Treatment Restores Health",
-      "answer": "Early",
-      "options": [
-        "Warsh",
-        "Award",
-        "Early",
-        "Atmos"
-      ]
-    },
-    {
-      "blanked": "Massive Black Holes May Have Started as Little ______ Dots",
-      "answer": "Red",
-      "options": [
-        "Treatment",
-        "Globally",
-        "Kishan",
-        "Red"
-      ]
-    },
-    {
-      "blanked": "Yamaha unveils compact B200A soundbar for ______ and gaming with Dolby Atmos 3D sound",
-      "answer": "TVs",
-      "options": [
-        "EPFO",
-        "TVs",
-        "Tripathi",
-        "Siri"
-      ]
-    },
-    {
-      "blanked": "Heartbreaking: 6 Students ______ At Ganesh Nimarjan In Hyd!",
-      "answer": "Dead",
-      "options": [
-        "Dead",
-        "Red",
-        "NASA",
-        "How"
+        "Duo",
+        "Cross"
       ]
     }
   ]
