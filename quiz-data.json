@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-09-16T00:49:42.606Z",
+  "generatedAt": "2026-09-16T05:33:41.076Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "What are ‘space weapons’, which US says it has deployed into orbit?",
-    "U.S. lawmaker submits amendment naming India in Russia sanctions act",
-    "Saudi seeks Israel's help amid attacks by Iran-backed Houthis? Report says Riyadh sought intel aid | World News",
-    "India did not invite Bangladesh PM Rahman for BRICS; invite was for BIMSTEC Chair: Dhaka",
-    "BJP using ‘backdoor route’ to implement UCC, should legislate in Parliament: Omar Abdullah",
+    "U.S. House advances Russia sanctions Bill that seeks 100% tariffs on India, others; set for final vote",
     "Mecca Put On Air Raid Alert For First Time In History As Houthis Target Saudi",
-    "Meta to report child abuse material directly to Indian authorities",
-    "NEWSLETTER: Advantage China in New Delhi's BRICS summit?",
-    "Court Flags Gaps In Delhi Police Probe While Granting Interim Bail To Swatantra Bhardwaj, Bars Him From...",
-    "‘Bhaipo gang paid Rs 2 crore to contract killers’: Suvendu says Abhishek Banerjee behind Chandranath Rath murder",
-    "Trump slams 3 justices he nominated after mail-voting setback: ‘Not the people I interviewed’",
-    "Trump claims 'failing nation' Iran wants a deal ‘quickly and badly’, says he'll decide on US...",
-    "Yemen forces advance in Taiz; Houthis take key islands, attack Saudi Arabia",
-    "'Our father being slowly killed': Imran Khan's sons accuse Pakistan's Asim Munir of vendetta",
-    "India's UPI ends free era with fee on large merchant payments",
-    "Bitcoin adds to losses, falls nearly 4% after Clarity Act fails Senate vote",
-    "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
-    "What a 5% US 10-year yield means for India: 6 factors to watch",
-    "iOS 27 now seeding, here are all the iPhones getting it - GSMArena.com news",
-    "Mark your calendars: A Googlebook 'celebration' is happening next month",
-    "Did iPhone 18 Pro Just Beat The New Mac Mini? First M6 Benchmarks Leak",
-    "iQOO 16 officially confirmed to launch at the end of September: check launch date and official design here",
-    "Emmys 2026 Winners: Full List of Emmy Awards Winners",
-    "The Sequel: Suriya And Jyotika Renew Wedding Vows After 20 Years, Celebrate 'Love And War'",
-    "'Mirzapur The Movie' box office collection Day 12 [LIVE]: Pankaj Tripathi, Ravi Kishan film inches toward"
+    "Saudi-led coalition intercepts Houthi drone headed for Mecca",
+    "‘China values Modi’s statements’: Beijing hails India's independent foreign policy after PM-Xi meeting at BRICS | India News",
+    "‘Need a censor body’: RSS forms panel for curbs on OTT’s ‘cultural pollution’",
+    "Three Killed As TV News Helicopter Crashes During Live Coverage Of Los Angeles Bus Crash | Video",
+    "‘Modi tax’: Opposition slams Centre over UPI charges on merchant transactions; Rahul, Kharge target PM | India News",
+    "CBI Case In Sushant Singh's Ex-Manager's Death Creates Political Battle Lines",
+    "Kanpur millionaire murder: Shooter made 6 calls to victim's son from new SIM, cops probe role",
+    "Bangladesh PM was invited for Brics meet and bilateral visit: Govt",
+    "Trump Plans To Send 4,000 Mega-Powerful Bombs To Israel In Largest Sale In Years",
+    "Watch: Sepehran Airlines Boeing 737 cabin ceiling collapses during emergency in Iran",
+    "The Day 600 Men Lay Siege To Islam's Holiest Site And How They Were Gassed Out",
+    "Qatar warns against ‘catastrophic’ Bab Al-Mandab closure",
+    "Stock Market Today Highlights, Sept 15: Sensex down over 777.94 pts, Nifty slips below 23,118 as Crude, Fed fears drag markets into red",
+    "RBI files caveat after rejecting Tata Sons bid to avoid listing, source says",
+    "Indian rupee drops to weakest level in over a month on oil worries",
+    "NSE IPO draws 'unexpectedly large' demand, anchor book tops ₹6,000 cr: CEO",
+    "3D models of new iPhone Duo, iPhone 18 Pro and 18 Pro Max are now available in our database",
+    "Canon EOS R8 Mark II price, specifications and availability announced",
+    "Apple Bets on Siri AI to Win the Personal Assistant War",
+    "iPhone 17 Pro Max at ₹74,990: Apple India retailers offer attractive rates on flagship smartphones after pr...",
+    "Vijay's London Event Cancelled Over Safety Concerns",
+    "Salman Khan performs aarti at Khan family's Ganpati visarjan; joins Iulia Vantur to offer prayers to Bapp",
+    "Abhishek Banerjee wants film industry to note the success of Mirzapur The Movie, avoid tags like OTT and film actor | Bollywood"
   ],
   "quiz": [
     {
-      "blanked": "NEWSLETTER: ______ China in New Delhi's BRICS summit?",
-      "answer": "Advantage",
+      "blanked": "Kanpur millionaire murder: ______ made 6 calls to victim's son from new SIM, cops probe role",
+      "answer": "Shooter",
       "options": [
-        "Asim",
-        "Naqvi",
+        "Raid",
+        "Shooter",
+        "How",
+        "Russia"
+      ]
+    },
+    {
+      "blanked": "Abhishek Banerjee wants film industry to note the success of Mirzapur The Movie, avoid tags like OTT and film actor | ______",
+      "answer": "Bollywood",
+      "options": [
+        "Duo",
+        "Bollywood",
+        "Indian",
+        "Afghanistan"
+      ]
+    },
+    {
+      "blanked": "Vijay's London Event Cancelled Over ______ Concerns",
+      "answer": "Safety",
+      "options": [
+        "Gassed",
+        "Tata",
+        "Safety",
+        "Brics"
+      ]
+    },
+    {
+      "blanked": "CBI Case In Sushant ______ Ex-Manager's Death Creates Political Battle Lines",
+      "answer": "Singhs",
+      "options": [
+        "Years",
+        "OTTs",
         "IND",
-        "Advantage"
+        "Singhs"
       ]
     },
     {
-      "blanked": "Trump claims 'failing nation' ______ wants a deal ‘quickly and badly’, says he'll decide on US...",
-      "answer": "Iran",
+      "blanked": "Mecca Put On Air Raid ______ For First Time In History As Houthis Target Saudi",
+      "answer": "Alert",
       "options": [
-        "Iran",
-        "Celebrate",
-        "Advantage",
-        "Vows"
-      ]
-    },
-    {
-      "blanked": "Live Cricket Score, ______ Latest News, Stats & Videos",
-      "answer": "Schedule",
-      "options": [
-        "Schedule",
-        "Mac",
-        "She",
-        "Movie"
-      ]
-    },
-    {
-      "blanked": "‘No trophy, only heels on head’: Ex-Pakistan batter launches defence of ______ Naqvi, accuses India of ‘arrogance’ | Cricket",
-      "answer": "Mohsin",
-      "options": [
-        "Just",
-        "Mohsin",
-        "Mars",
-        "Sanju"
+        "Killed",
+        "Concerns",
+        "Alert",
+        "Bets"
       ]
     },
     {
       "blanked": "Planet of ______ next to moon in sky",
       "answer": "Venus",
       "options": [
-        "Pakistans",
+        "Sepehran",
+        "Beijing",
         "Venus",
-        "Supreme",
-        "Schedule"
+        "Ganpati"
       ]
     },
     {
-      "blanked": "KDIGO guidelines set fresh benchmarks for managing anaemia in ______ patients",
-      "answer": "CKD",
+      "blanked": "The Day 600 Men ______ Siege To Islam's Holiest Site And How They Were Gassed Out",
+      "answer": "Lay",
       "options": [
-        "Russia",
-        "Celebrate",
-        "CKD",
-        "Court"
+        "4000",
+        "Khan",
+        "News",
+        "Lay"
       ]
     },
     {
-      "blanked": "Actor Rajpal ______ Seeks More Time To Deposit ₹5 Crore In Supreme Court",
-      "answer": "Yadav",
+      "blanked": "Three Killed As TV News Helicopter Crashes During Live Coverage Of Los Angeles Bus Crash | ______",
+      "answer": "Video",
       "options": [
-        "Munir",
-        "Court",
-        "Target",
-        "Yadav"
+        "Beijing",
+        "Sooryavanshi",
+        "Saudi",
+        "Video"
       ]
     },
     {
-      "blanked": "India did not invite Bangladesh PM Rahman for BRICS; invite was for BIMSTEC ______ Dhaka",
-      "answer": "Chair",
+      "blanked": "‘China values Modi’s statements’: Beijing hails India's independent foreign policy after PM-Xi meeting at ______ | India News",
+      "answer": "BRICS",
       "options": [
-        "Israels",
-        "Chair",
-        "Renew",
-        "Saudi"
-      ]
-    },
-    {
-      "blanked": "Trump slams 3 justices he nominated after mail-voting setback: ______ the people I interviewed’",
-      "answer": "Not",
-      "options": [
-        "Benchmarks",
-        "Not",
-        "Senate",
+        "During",
+        "Sanju",
+        "OTT",
         "BRICS"
       ]
     },
     {
-      "blanked": "'Mirzapur The Movie' box office collection Day 12 [LIVE]: Pankaj Tripathi, Ravi ______ film inches toward",
-      "answer": "Kishan",
+      "blanked": "Bangladesh PM was invited for ______ meet and bilateral visit: Govt",
+      "answer": "Brics",
       "options": [
-        "2026",
-        "Iran",
-        "Offering",
-        "Kishan"
+        "Brics",
+        "Bapp",
+        "Assistant",
+        "Kharge"
       ]
     },
     {
-      "blanked": "AFG vs IND T20 2026: Sanju Samson leads another rapid chase as India win ______ series",
-      "answer": "Afghanistan",
+      "blanked": "Watch: ______ Airlines Boeing 737 cabin ceiling collapses during emergency in Iran",
+      "answer": "Sepehran",
       "options": [
-        "Afghanistan",
-        "Deposit",
-        "Day",
-        "Flags"
+        "Vantur",
+        "Men",
+        "Sepehran",
+        "Centre"
       ]
     },
     {
-      "blanked": "OpenAI, Anthropic, ______ have been in talks on AI safety for weeks",
-      "answer": "Google",
+      "blanked": "Qatar warns against ‘catastrophic’ ______ Al-Mandab closure",
+      "answer": "Bab",
       "options": [
-        "Chess",
-        "Rajpal",
-        "Rahman",
-        "Google"
+        "SIM",
+        "Bets",
+        "PM-Xi",
+        "Bab"
       ]
     }
   ]
