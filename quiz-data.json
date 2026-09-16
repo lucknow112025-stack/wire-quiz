@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-09-15T22:44:07.175Z",
+  "generatedAt": "2026-09-16T00:49:42.606Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
     "What are ‘space weapons’, which US says it has deployed into orbit?",
-    "'Our father being slowly killed': Imran Khan's sons accuse Pakistan's Asim Munir of vendetta",
+    "U.S. lawmaker submits amendment naming India in Russia sanctions act",
     "Saudi seeks Israel's help amid attacks by Iran-backed Houthis? Report says Riyadh sought intel aid | World News",
-    "Gurugram biker hit-and-run case: Accused arrested after attempt-to-murder charge; police say he tried to escape on pretext of urinating",
+    "India did not invite Bangladesh PM Rahman for BRICS; invite was for BIMSTEC Chair: Dhaka",
+    "BJP using ‘backdoor route’ to implement UCC, should legislate in Parliament: Omar Abdullah",
     "Mecca Put On Air Raid Alert For First Time In History As Houthis Target Saudi",
-    "India's UPI ends free era with fee on large merchant payments",
     "Meta to report child abuse material directly to Indian authorities",
-    "‘He had received two invitations’: India rejects confusion over Bangladesh PM’s Brics invite",
-    "Quietly, BRICS Starts Assembling a New Trade Finance System",
-    "Delhi-bound IndiGo flight diverted to Lucknow after smoke warning in cargo area",
+    "NEWSLETTER: Advantage China in New Delhi's BRICS summit?",
+    "Court Flags Gaps In Delhi Police Probe While Granting Interim Bail To Swatantra Bhardwaj, Bars Him From...",
+    "‘Bhaipo gang paid Rs 2 crore to contract killers’: Suvendu says Abhishek Banerjee behind Chandranath Rath murder",
     "Trump slams 3 justices he nominated after mail-voting setback: ‘Not the people I interviewed’",
-    "India deeply concerned about blockades in Hormuz and Bab-el-Mandeb, says govt.",
-    "Can the Houthis hold on to Yemen’s strategic western coast?",
-    "World News Today Live Updates: US watchdog tallies Iran war’s hit to weapons stockpiles, military bases",
-    "Tata Sons mulls split to avoid IPO after RBI rejects exemption from listing rules",
-    "Bitcoin dips to $76.2k ahead of Clarity Act vote, Fed meeting",
+    "Trump claims 'failing nation' Iran wants a deal ‘quickly and badly’, says he'll decide on US...",
+    "Yemen forces advance in Taiz; Houthis take key islands, attack Saudi Arabia",
+    "'Our father being slowly killed': Imran Khan's sons accuse Pakistan's Asim Munir of vendetta",
+    "India's UPI ends free era with fee on large merchant payments",
+    "Bitcoin adds to losses, falls nearly 4% after Clarity Act fails Senate vote",
+    "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
     "What a 5% US 10-year yield means for India: 6 factors to watch",
-    "Nifty Outlook for September 16: Recent swing lows back in focus with headwinds remaining stubborn",
     "iOS 27 now seeding, here are all the iPhones getting it - GSMArena.com news",
+    "Mark your calendars: A Googlebook 'celebration' is happening next month",
     "Did iPhone 18 Pro Just Beat The New Mac Mini? First M6 Benchmarks Leak",
-    "3D models of new iPhone Duo, iPhone 18 Pro and 18 Pro Max are now available in our database",
-    "Minecraft Wilderness Bound update patch notes: Dappled Forest, Abandoned Camps, and more",
+    "iQOO 16 officially confirmed to launch at the end of September: check launch date and official design here",
     "Emmys 2026 Winners: Full List of Emmy Awards Winners",
-    "\"Wife Does The Aarti\": Shah Rukh Khan Shares Details About Ganesh Chaturthi Celebrations At Home",
+    "The Sequel: Suriya And Jyotika Renew Wedding Vows After 20 Years, Celebrate 'Love And War'",
     "'Mirzapur The Movie' box office collection Day 12 [LIVE]: Pankaj Tripathi, Ravi Kishan film inches toward"
   ],
   "quiz": [
     {
-      "blanked": "Bitcoin dips to $76.2k ahead of Clarity ______ vote, Fed meeting",
-      "answer": "Act",
+      "blanked": "NEWSLETTER: ______ China in New Delhi's BRICS summit?",
+      "answer": "Advantage",
       "options": [
-        "Report",
-        "Winners",
-        "India",
-        "Act"
-      ]
-    },
-    {
-      "blanked": "Emmys 2026 Winners: Full List of ______ Awards Winners",
-      "answer": "Emmy",
-      "options": [
-        "Emmy",
+        "Asim",
+        "Naqvi",
         "IND",
-        "Iran",
-        "Acute"
+        "Advantage"
       ]
     },
     {
-      "blanked": "'Our father being slowly killed': Imran Khan's sons accuse Pakistan's Asim ______ of vendetta",
-      "answer": "Munir",
+      "blanked": "Trump claims 'failing nation' ______ wants a deal ‘quickly and badly’, says he'll decide on US...",
+      "answer": "Iran",
+      "options": [
+        "Iran",
+        "Celebrate",
+        "Advantage",
+        "Vows"
+      ]
+    },
+    {
+      "blanked": "Live Cricket Score, ______ Latest News, Stats & Videos",
+      "answer": "Schedule",
+      "options": [
+        "Schedule",
+        "Mac",
+        "She",
+        "Movie"
+      ]
+    },
+    {
+      "blanked": "‘No trophy, only heels on head’: Ex-Pakistan batter launches defence of ______ Naqvi, accuses India of ‘arrogance’ | Cricket",
+      "answer": "Mohsin",
+      "options": [
+        "Just",
+        "Mohsin",
+        "Mars",
+        "Sanju"
+      ]
+    },
+    {
+      "blanked": "Planet of ______ next to moon in sky",
+      "answer": "Venus",
+      "options": [
+        "Pakistans",
+        "Venus",
+        "Supreme",
+        "Schedule"
+      ]
+    },
+    {
+      "blanked": "KDIGO guidelines set fresh benchmarks for managing anaemia in ______ patients",
+      "answer": "CKD",
+      "options": [
+        "Russia",
+        "Celebrate",
+        "CKD",
+        "Court"
+      ]
+    },
+    {
+      "blanked": "Actor Rajpal ______ Seeks More Time To Deposit ₹5 Crore In Supreme Court",
+      "answer": "Yadav",
       "options": [
         "Munir",
-        "Leukaemia",
-        "Uzbekistan",
-        "Wilderness"
-      ]
-    },
-    {
-      "blanked": "Renshaw's maiden ______ ton and Ellis' five secure opening victory",
-      "answer": "ODI",
-      "options": [
-        "India",
-        "Recent",
-        "Alert",
-        "ODI"
-      ]
-    },
-    {
-      "blanked": "India deeply concerned about blockades in Hormuz and ______ says govt.",
-      "answer": "Bab-el-Mandeb",
-      "options": [
-        "Bab-el-Mandeb",
-        "UPI",
-        "IndiGo",
-        "First"
-      ]
-    },
-    {
-      "blanked": "‘He had received two invitations’: ______ rejects confusion over Bangladesh PM’s Brics invite",
-      "answer": "India",
-      "options": [
-        "India",
-        "Israels",
-        "Fed",
-        "Alert"
-      ]
-    },
-    {
-      "blanked": "Mohsin Naqvi 'didn't object' to India refusing Women's Asia ______ trophy from him, says Rajeev Shukla",
-      "answer": "Cup",
-      "options": [
-        "About",
-        "Cup",
-        "List",
-        "Accused"
-      ]
-    },
-    {
-      "blanked": "Minecraft Wilderness Bound update patch notes: Dappled ______ Abandoned Camps, and more",
-      "answer": "Forest",
-      "options": [
-        "LIVE",
+        "Court",
         "Target",
-        "Samson",
-        "Forest"
+        "Yadav"
+      ]
+    },
+    {
+      "blanked": "India did not invite Bangladesh PM Rahman for BRICS; invite was for BIMSTEC ______ Dhaka",
+      "answer": "Chair",
+      "options": [
+        "Israels",
+        "Chair",
+        "Renew",
+        "Saudi"
       ]
     },
     {
       "blanked": "Trump slams 3 justices he nominated after mail-voting setback: ______ the people I interviewed’",
       "answer": "Not",
       "options": [
-        "Leukaemia",
-        "Raid",
+        "Benchmarks",
         "Not",
-        "Asim"
+        "Senate",
+        "BRICS"
       ]
     },
     {
-      "blanked": "Gurugram biker hit-and-run case: ______ arrested after attempt-to-murder charge; police say he tried to escape on pretext of urinating",
-      "answer": "Accused",
+      "blanked": "'Mirzapur The Movie' box office collection Day 12 [LIVE]: Pankaj Tripathi, Ravi ______ film inches toward",
+      "answer": "Kishan",
       "options": [
-        "Imran",
-        "Accused",
-        "News",
-        "Time"
+        "2026",
+        "Iran",
+        "Offering",
+        "Kishan"
       ]
     },
     {
-      "blanked": "Leukemia And Lymphoma: New ______ Offering Hope To Patients",
-      "answer": "Treatments",
+      "blanked": "AFG vs IND T20 2026: Sanju Samson leads another rapid chase as India win ______ series",
+      "answer": "Afghanistan",
       "options": [
-        "World",
-        "Treatments",
-        "Assembling",
-        "Air"
+        "Afghanistan",
+        "Deposit",
+        "Day",
+        "Flags"
       ]
     },
     {
-      "blanked": "World News Today ______ Updates: US watchdog tallies Iran war’s hit to weapons stockpiles, military bases",
-      "answer": "Live",
+      "blanked": "OpenAI, Anthropic, ______ have been in talks on AI safety for weeks",
+      "answer": "Google",
       "options": [
-        "Time",
-        "Lymphoma",
-        "Live",
-        "About"
+        "Chess",
+        "Rajpal",
+        "Rahman",
+        "Google"
       ]
     }
   ]
