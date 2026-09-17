@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-09-17T18:25:09.229Z",
+  "generatedAt": "2026-09-17T21:34:20.023Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "U.S. House passes Russia sanctions Bill seeking to impose up to 100% tariffs on India, others",
-    "Trump Threatens EU With Tariffs Over Canada ‘Associate Member’ Offer",
-    "Lockdown-like curbs in Pakistan over fuel crisis: Ban on new cars, one dish at weddings",
-    "India and Pakistan summon diplomats after ships collide in international waters",
-    "Houthis release video claiming to show Saudi F-15 jet shot down after alleged Mecca drone attack",
-    "Rs 14 cr in 9 days in just 1 state: The ever-expanding Modi celebration machine",
+    "India warns new US tariffs over Russian oil could impact ties",
     "In Fight For Trinamool Name And Symbol, Poll Body's Freeze Ahead Of Bypolls",
-    "DUSU polls: Delhi HC directs DU, Police to act against hooligans by tomorrow or vote counting will be stayed",
-    "Supreme Court expresses shock over deaths in relief camps in Manipur, asks Chief Secretary to respond",
+    "Trump Threatens EU With Tariffs Over Canada ‘Associate Member’ Offer",
+    "Rs 14 cr in 9 days in just 1 state: The ever-expanding Modi celebration machine",
+    "Tata Sons board-room battle: Stalemate allowed chairman to vote on his own reappointment",
+    "India voices concern over attempted drone attack on Mecca",
+    "MEA notifies new rules: 36-page passports for children below 15 to be valid for five years",
+    "16-year-old girl gang-raped by 4 teens, found stabbed to death days later in Delhi | India News",
+    "Adoption of BRICS New Delhi Declaration shows world's trust in India: PM Modi",
     "'Health, energy & success': Italy PM Giorgia Meloni wishes 'friend' PM Modi on his birthday",
+    "US advances $24.3 billion Saudi F-35 deal despite concerns over kingdom's China ties",
+    "Poland's Tusk says Russia plans 'hybrid' missile and drone attacks on Kyiv's allies",
     "China, U.S. top diplomats discuss ‘high-level interactions’ in call, Beijing says",
-    "Pakistan Army’s undisclosed POWERUS drone order after $22.3 million US contract: What remains hidden in...",
-    "From Yanbu to Sohar: Tracking Saudi Arabia’s alternative oil routes",
-    "Trump’s rare gesture to Xi Jinping: US President to personally welcome Chinese leader at airport",
-    "How Venu Srinivasan defied SDTT’s move to stop him from voting on Tata Sons listing",
-    "India to impose controversial fee for UPI instant payments: Who benefits?",
+    "Trump claims direct talks with Iran: Is diplomacy picking up again?",
+    "Govt denies foreign pressure behind UPI MDR, says charge will help Indian UPI apps",
     "India reliable & prepared destination to meet new global manufacturing challenges, says PM Modi",
-    "Indian central bank likely intervenes to limit rupee's fall, traders say",
-    "Apple Watch Series 12 and Ultra 4 Reviews: Look Out, Oura Ring",
-    "Samsung Fans Are Thoroughly Unimpressed by Apple’s Foldable Phone",
-    "Apple’s Siri update highlights shift toward AI agents (AAPL:NASDAQ)",
-    "Galaxy Z Fold8 sales in Korea pick up after the announcement of the iPhone Duo - GSMArena.com news",
+    "IndiGo raises fees for excess baggage, infants, unaccompanied minors and Fast Forward",
+    "Tech leads Wall St to higher close as oil eases, Treasury yields dip",
+    "Hands-On: The Apple Watch Series 12 And Ultra 4",
+    "Apple Seeds First macOS Golden Gate 27.2 Beta to Developers",
+    "iPhone 18 Pro f/1.48 vs older iPhone cameras",
+    "Here is when the Galaxy S25 and Galaxy Z7 series will receive the One UI 9 update - GSMArena.com news",
     "Konkona Sen Sharma and Amol Parashar's relationship official? Actress' birthday reel for him sparks specu",
-    "Pak actor Ali Zafar schools trolls criticising Katrina Kaif: ‘What are these mental issues?’",
-    "Anant Nag, second Kannada star to win Dadasaheb Phalke"
+    "Amid Postpartum Weight Trolling, Katrina Kaif Shares What 'Looking Her Best' Means",
+    "Box Office: No Mohanlal Film In Kerala’s Top 3 Grossers For The First Time Since 1987"
   ],
   "quiz": [
     {
-      "blanked": "Rs 14 cr in 9 days in just 1 state: The ever-expanding ______ celebration machine",
-      "answer": "Modi",
+      "blanked": "Massive moon crater discovered after powerful ______ impact",
+      "answer": "2024",
       "options": [
-        "Armys",
-        "Freeze",
-        "Phalke",
-        "Modi"
+        "Keralas",
+        "2024",
+        "Could",
+        "Sons"
       ]
     },
     {
-      "blanked": "From Yanbu to Sohar: ______ Saudi Arabia’s alternative oil routes",
-      "answer": "Tracking",
+      "blanked": "Konkona ______ Sharma and Amol Parashar's relationship official? Actress' birthday reel for him sparks specu",
+      "answer": "Sen",
       "options": [
-        "CPR",
-        "Watch",
-        "Tracking",
-        "Siri"
-      ]
-    },
-    {
-      "blanked": "Trump Threatens EU With Tariffs Over Canada ‘Associate Member’ ______",
-      "answer": "Offer",
-      "options": [
-        "Indonesia",
-        "Meloni",
-        "India",
+        "Parashars",
+        "Series",
+        "Sen",
         "Offer"
       ]
     },
     {
-      "blanked": "Houthis release video claiming to show ______ F-15 jet shot down after alleged Mecca drone attack",
-      "answer": "Saudi",
+      "blanked": "India warns new US tariffs over ______ oil could impact ties",
+      "answer": "Russian",
       "options": [
-        "Giorgia",
-        "CPR",
-        "Saudi",
-        "Watch"
+        "Galaxy",
+        "24.3",
+        "Russian",
+        "Iran"
       ]
     },
     {
-      "blanked": "IND-W vs ______ Asian Games 2026 women's cricket quarter-final: Watch India vs Japan live streaming and telecast",
-      "answer": "JPN-W",
+      "blanked": "Gukesh Drops Under 2700 As India Beats ______",
+      "answer": "Indonesia",
       "options": [
-        "CPR",
-        "Bodys",
-        "JPN-W",
-        "Watch"
+        "Drops",
+        "Offer",
+        "Indonesia",
+        "Kannada"
       ]
     },
     {
-      "blanked": "Abhishek ______ smashes fastest T20I hundred by a Full Member batter",
-      "answer": "Sharma",
+      "blanked": "Anant Nag, second Kannada star to win Dadasaheb ______",
+      "answer": "Phalke",
       "options": [
-        "Box",
-        "What",
-        "Secretary",
-        "Sharma"
+        "27.2",
+        "Red",
+        "Abhishek",
+        "Phalke"
       ]
     },
     {
-      "blanked": "DUSU polls: Delhi HC directs DU, ______ to act against hooligans by tomorrow or vote counting will be stayed",
-      "answer": "Police",
+      "blanked": "Asian Games 2026: All Team ______ athletes competing in Aichi-Nagoya - full list",
+      "answer": "Singapore",
       "options": [
-        "Ban",
-        "Threatens",
-        "Modi",
-        "Police"
+        "Symbol",
+        "Singapore",
+        "Gate",
+        "Name"
       ]
     },
     {
-      "blanked": "Samsung Fans Are Thoroughly Unimpressed by Apple’s Foldable ______",
-      "answer": "Phone",
+      "blanked": "Tech leads ______ St to higher close as oil eases, Treasury yields dip",
+      "answer": "Wall",
       "options": [
+        "Wall",
         "2026",
-        "Stephen",
-        "You",
-        "Phone"
+        "Has",
+        "Developers"
       ]
     },
     {
-      "blanked": "India and ______ summon diplomats after ships collide in international waters",
-      "answer": "Pakistan",
+      "blanked": "16-year-old girl gang-raped by 4 teens, found stabbed to death days later in ______ | India News",
+      "answer": "Delhi",
       "options": [
-        "Thoroughly",
-        "Modi",
-        "HPV",
-        "Pakistan"
+        "News",
+        "Delhi",
+        "Bypolls",
+        "Beijing"
       ]
     },
     {
-      "blanked": "Quote of the day by ______ Hawking: 'We are just an advanced breed of monkeys on a minor planet of…'",
-      "answer": "Stephen",
+      "blanked": "Govt denies foreign pressure behind ______ MDR, says charge will help Indian UPI apps",
+      "answer": "UPI",
       "options": [
-        "Threatens",
-        "Doctor",
-        "Stephen",
-        "Foldable"
+        "UPI",
+        "Medicines",
+        "Has",
+        "BRICS"
       ]
     },
     {
-      "blanked": "China, U.S. top diplomats discuss ‘high-level interactions’ in call, ______ says",
-      "answer": "Beijing",
+      "blanked": "In Fight For Trinamool Name And Symbol, Poll Body's Freeze ______ Of Bypolls",
+      "answer": "Ahead",
       "options": [
-        "Beijing",
-        "Exposure",
-        "Case",
-        "Phone"
-      ]
-    },
-    {
-      "blanked": "'Health, energy & success': Italy PM Giorgia Meloni wishes 'friend' PM ______ on his birthday",
-      "answer": "Modi",
-      "options": [
+        "Golden",
         "Ahead",
         "Actress",
-        "Modi",
-        "2700"
+        "Treasury"
+      ]
+    },
+    {
+      "blanked": "'Health, energy & success': Italy PM Giorgia ______ wishes 'friend' PM Modi on his birthday",
+      "answer": "Meloni",
+      "options": [
+        "Phalke",
+        "Meloni",
+        "Developers",
+        "UPI"
+      ]
+    },
+    {
+      "blanked": "India reliable & prepared destination to meet new global manufacturing challenges, says PM ______",
+      "answer": "Modi",
+      "options": [
+        "What",
+        "Looking",
+        "Beta",
+        "Modi"
       ]
     }
   ]
