@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-09-17T04:36:03.526Z",
+  "generatedAt": "2026-09-17T09:39:27.298Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "U.S. House passes Russia sanctions bill seeking to impose up to 100% tariffs on India, others",
-    "India, Pakistan Warships Collide at Sea, Adding to Tensions",
-    "Oman pitches new port that could give India better access to Gulf energy",
-    "Houthi Threat Reaches Mecca, Pakistan Hides Behind 'Ops' To Avoid Saudi Fight",
-    "Oil prices extend losses as fears of Middle East supply disruptions ease",
-    "Quietly, BRICS Starts Assembling a New Trade Finance System",
-    "Death penalty for all 10 convicts in 2013 Jhiram Valley Maoist attack case",
-    "2 terrorists killed in late-night gunfight with security forces in J&K's Udhampur",
-    "India rejects Pakistan-China Boundary Joint Commission ‘which is without any legal basis’",
+    "India faces 100% tariff threat over Russian oil after US House vote",
+    "‘Fake alert’: MEA denies reports of world leaders falling sick after BRICS Summit | India News",
+    "India voices concern over attempted drone attack on Mecca",
+    "Rs 500 Crore Notice To Aaditya Thackeray In Sushant Singh's Ex-Manager Case",
+    "Plea In Supreme Court Challenges Centre's Decision To Introduce Charges On UPI Transactions Above ₹2,000",
+    "\"Remember Where Bin Laden Hid\": India Asks UN To See Reality Of Terror",
+    "PM Modi Turns 76, BJP Launches 'Seva Sankalp Abhiyan' To Mark His 25 Years In Service",
+    "India and Pakistan summon diplomats after ships collide in international waters",
     "Maratha activist Jarange Patil calls off 20-day fast, gives govt 3 months to consider demands",
+    "Graham Staines Murder : Dara Singh's Remission Plea Rejected, Odisha Govt Informs Supreme Court",
+    "'Hostile act': Trump livid as EU mulls making Canada its first 'associate member'",
+    "New book reveals what King Charles allegedly told Diana’s brother after Princess Diana’s death: ‘We’ll forget her soon enough’",
     "Russia says there is still time to stop an arms race in space after US orbital weapons admission",
-    "Here’s what one team of scientists thinks happened in Nepal’s deadly flood wave",
-    "‘No aggressive element’: Pakistan on defence pact with Saudi Arabia amid Houthi strikes on Mecca | World News",
-    "EU opens door for Canada amid trade war with Trump, proposes first-ever associate membership",
-    "Government functionary questions Rahul's criticism of UPI charges, says Congress MPs in panel gave nod",
-    "Fed raises rates for first time since 2023, Warsh says inflation still too high",
-    "India's NSE to launch IPO amid investor caution over derivatives-fuelled growth",
-    "Stock Market Today: Gift Nifty, US Fed Rate Hike To Trump Tariffs — Five Key Factors For Sensex, Nifty 50 On September 17",
+    "Australia cracks down on student and backpacker visas to curb migration",
+    "NSE IPO opens for subscription: From GMP to market cap & global comparison - top 10 things to know",
+    "PM Modi inaugurates SEMICON India 2026 in New Delhi",
+    "Why Tata Sons' ₹11.5-trillion portfolio may fetch a far lower IPO value",
+    "Fed takes hawkish turn after rate hike; BoE ahead - what’s moving markets",
+    "Analyst Jeff Pu is not impressed with iPhone 18 Pro and 18 Pro Max pre-orders - GSMArena.com news",
     "Hit refresh: Apple rolls out iOS 27 with a smarter, more capable Siri AI",
-    "Redmi Note 17 Pro and Redmi Note 17 Pro Max land in India, here are the prices - GSMArena.com news",
-    "Apple fans may have to wait longer for iPhone Duo, as here's what causing production slowdowns",
-    "Oppo teases Watch S2 ahead of September 22 launch",
+    "Awe, then shock: Apple’s new foldable iPhone wows Korea, but huge price gap with Samsung also turns heads",
+    "Redmi Note 17 Pro Series Price in India, Launch Date and Full Specifications",
+    "Hanuman Ansh Box Office Collection Day 41: Neem Karoli Baba Film On A Roll, Crosses Rs 300 Crore Mark Globally",
     "Anant Nag, second Kannada star to win Dadasaheb Phalke",
-    "‘Hanuman Ansh’ box office collections day 41: Vishal Chaturvedi’s film joins the Rs 300 crore club despit",
-    "Akshay Oberoi Says Yash \"Only Believes In Himself\", Addresses Toxic's Failure"
+    "Video: Nirmala Sitharaman Gets Emotional While Remembering MS Subbulakshmi"
   ],
   "quiz": [
     {
-      "blanked": "Quietly, BRICS Starts Assembling a New ______ Finance System",
-      "answer": "Trade",
+      "blanked": "'Hostile act': Trump livid as EU mulls making ______ its first 'associate member'",
+      "answer": "Canada",
       "options": [
-        "Trojan",
-        "Trade",
-        "Hides",
-        "September"
+        "Canada",
+        "Above",
+        "Venus",
+        "Film"
       ]
     },
     {
-      "blanked": "Houthi Threat Reaches Mecca, Pakistan Hides ______ 'Ops' To Avoid Saudi Fight",
-      "answer": "Behind",
+      "blanked": "New book reveals what King Charles allegedly told Diana’s brother after Princess ______ death: ‘We’ll forget her soon enough’",
+      "answer": "Dianas",
       "options": [
-        "Behind",
-        "Adding",
-        "National",
-        "Vishal"
+        "2026",
+        "Office",
+        "500",
+        "Dianas"
       ]
     },
     {
-      "blanked": "Dana-Farber’s Edward Chouchani, ______ selected as a 2026 Blavatnik National Award finalist | Newswise",
-      "answer": "PhD",
+      "blanked": "Why Tata ______ ₹11.5-trillion portfolio may fetch a far lower IPO value",
+      "answer": "Sons",
       "options": [
-        "PhD",
-        "Commission",
-        "Sea",
-        "UPI"
+        "Challenges",
+        "Sons",
+        "300",
+        "BJP"
+      ]
+    },
+    {
+      "blanked": "‘Fake alert’: MEA denies reports of world leaders falling sick after BRICS Summit | India ______",
+      "answer": "News",
+      "options": [
+        "News",
+        "Nirmala",
+        "Canada",
+        "Price"
+      ]
+    },
+    {
+      "blanked": "India name squads for white-ball series against ______ Indies",
+      "answer": "West",
+      "options": [
+        "Charges",
+        "Study",
+        "West",
+        "Delhi"
+      ]
+    },
+    {
+      "blanked": "India faces 100% tariff threat over ______ oil after US House vote",
+      "answer": "Russian",
+      "options": [
+        "Russian",
+        "Staines",
+        "Box",
+        "Crore"
+      ]
+    },
+    {
+      "blanked": "Rs 500 Crore Notice To Aaditya Thackeray In Sushant Singh's Ex-Manager ______",
+      "answer": "Case",
+      "options": [
+        "Centres",
+        "300",
+        "Mecca",
+        "Case"
+      ]
+    },
+    {
+      "blanked": "AFG vs IND T20 2026: ______ Samson leads another rapid chase as India win Afghanistan series",
+      "answer": "Sanju",
+      "options": [
+        "Sanju",
+        "Govt",
+        "Reality",
+        "ADHD"
       ]
     },
     {
       "blanked": "Hit refresh: Apple rolls out iOS 27 with a smarter, more capable ______ AI",
       "answer": "Siri",
       "options": [
-        "World",
-        "Meghna",
+        "Patil",
         "Siri",
-        "ODI"
+        "Moon",
+        "Box"
       ]
     },
     {
-      "blanked": "U.S. House passes Russia sanctions bill seeking to impose up to ______ tariffs on India, others",
-      "answer": "100%",
+      "blanked": "'We're nowhere near favourites': France's ______ Vachier-Lagrave says India not the only Chess Olympiad c",
+      "answer": "Maxime",
       "options": [
-        "Solar",
-        "Oberoi",
-        "100%",
-        "Daayra"
+        "Rejected",
+        "Launch",
+        "Centres",
+        "Maxime"
       ]
     },
     {
-      "blanked": "2 terrorists killed in late-night gunfight with security forces in J&K's ______",
-      "answer": "Udhampur",
+      "blanked": "Video: ______ Sitharaman Gets Emotional While Remembering MS Subbulakshmi",
+      "answer": "Nirmala",
       "options": [
-        "100%",
-        "EXCLUSIVE",
-        "Pro",
-        "Udhampur"
+        "Chess",
+        "Rejected",
+        "Afghanistan",
+        "Nirmala"
       ]
     },
     {
-      "blanked": "Oil prices extend losses as fears of Middle ______ supply disruptions ease",
-      "answer": "East",
-      "options": [
-        "Behind",
-        "House",
-        "Canada",
-        "East"
-      ]
-    },
-    {
-      "blanked": "EU opens door for Canada amid trade war with ______ proposes first-ever associate membership",
-      "answer": "Trump",
-      "options": [
-        "Boundary",
-        "Nag",
-        "Khan",
-        "Trump"
-      ]
-    },
-    {
-      "blanked": "Government functionary questions Rahul's criticism of UPI charges, says ______ MPs in panel gave nod",
-      "answer": "Congress",
-      "options": [
-        "Gulzar",
-        "Congress",
-        "Note",
-        "Watch"
-      ]
-    },
-    {
-      "blanked": "Fed raises rates for first time since ______ Warsh says inflation still too high",
-      "answer": "2023",
-      "options": [
-        "Jhiram",
-        "2023",
-        "Addresses",
-        "Hike"
-      ]
-    },
-    {
-      "blanked": "Simulations Show Black Holes Exceeding Expectations ______ To 10⁶ Solar Masses",
-      "answer": "Grew",
-      "options": [
-        "Solar",
-        "Oberoi",
-        "Grew",
-        "Gulf"
-      ]
-    },
-    {
-      "blanked": "Akshay ______ Says Yash \"Only Believes In Himself\", Addresses Toxic's Failure",
-      "answer": "Oberoi",
+      "blanked": "Analyst Jeff Pu is not impressed with iPhone 18 Pro and 18 ______ Max pre-orders - GSMArena.com news",
+      "answer": "Pro",
       "options": [
         "Pro",
-        "Houthi",
-        "Oberoi",
-        "Mars"
+        "Inequalities",
+        "West",
+        "Karoli"
       ]
     }
   ]
