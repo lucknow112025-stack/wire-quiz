@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-09-16T21:50:03.201Z",
+  "generatedAt": "2026-09-17T00:00:03.284Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
+    "100% tariff on India? Russia sanctions bill clears key hurdle, final House vote next",
     "Pakistan Navy vessel collides with Indian warship in Arabian Sea",
     "‘No aggressive element’: Pakistan on defence pact with Saudi Arabia amid Houthi strikes on Mecca | World News",
-    "‘Vacate Immediately’: India Tells Pakistan After It Operationalises Joint Boundary Commission With China",
-    "Houthis release video claiming to show Saudi F-15 jet shot down after alleged Mecca drone attack",
     "\"Never Met\": Aaditya Thackeray Reacts To Sushant Rajput Ex-Manager Murder FIR Naming Him",
-    "Houthi blitz leaves Saudi Arabia exposed, Iran emboldened",
+    "‘Vacate Immediately’: India Tells Pakistan After It Operationalises Joint Boundary Commission With China",
+    "Saudi-led coalition intercepts Houthi drone headed for Mecca",
     "When A Maoist Ambush Wiped Out Chhattisgarh Congress Leadership",
     "Heartbreaking: 6 Students Dead At Ganesh Nimarjan In Hyd!",
     "BJP appeals to people to light 'Aashirwad ka Diya' on Modi's birthday",
     "How Much Land Does KCR Family Hold? Revanth Answers",
-    "India could face up to 100% US tariffs over Russian oil",
     "Russia says there is still time to stop an arms race in space after US orbital weapons admission",
-    "Why leverage over 'Gate of Tears' is Iran's big moment in war with US: 'An unprecedented achievement'",
+    "Yemen offensive elevates enigmatic Houthi commander's standing",
     "On Risk From Superintelligence, Top AI Expert's Chimpanzee-Nukes Analogy",
+    "Weeks after Nepal flood, thousands still missing and most recovered bodies unidentified",
     "Plea In Supreme Court Challenges Centre's Decision To Introduce Charges On UPI Transactions Above ₹2,000",
+    "Fed raises rates for first time since 2023, Warsh says inflation still too high",
     "India's NSE to launch IPO amid investor caution over derivatives-fuelled growth",
-    "US Fed raises interest rates for first time in three years",
     "Govt lowers export levies on petrol, diesel and aviation turbine fuel amid fortnightly review",
     "Leaker Says AMD Has Its Own DLSS 5-Like Neural Rendering Coming with RDNA 5, Explains How He’d Rather It Worked",
-    "Samsung Finds Another Guy Named Tim Cook To Promote Galaxy Z Fold 8",
-    "Yamaha unveils compact B200A soundbar for TVs and gaming with Dolby Atmos 3D sound",
-    "3D models of new iPhone Duo, iPhone 18 Pro and 18 Pro Max are now available in our database",
-    "Centre reconstitutes CBFC; Preity Zinta, Pankaj Tripathi among 18 members",
-    "Anant Nag to receive Dadasaheb Phalke Award on Sept 22; PM Modi congratulates actor",
-    "Hanuman Ansh Box Office Collection Day 40: Neem Karoli Baba Film Needs Rs 10 Crore More To Cross Rs 300 Crore Globally"
+    "Redmi Note 17 Pro and Redmi Note 17 Pro Max land in India, here are the prices - GSMArena.com news",
+    "Hit refresh: Apple rolls out iOS 27 with a smarter, more capable Siri AI",
+    "Apple iPhone 18 Pro Max review: It’s what’s on the inside that counts",
+    "Anant Nag, second Kannada star to win Dadasaheb Phalke",
+    "Preity Zinta, Pankaj Tripathi among members as Centre reconstitutes film board",
+    "Pradhama Drishtiya Kuttukkar Box Office Day 4: Parvathy Starrer Jumps 135% From Opening Day As Positive WOM Takes Over"
   ],
   "quiz": [
     {
-      "blanked": "Houthis release video claiming to show Saudi F-15 jet shot down after alleged ______ drone attack",
-      "answer": "Mecca",
+      "blanked": "Fed raises rates for first time since ______ Warsh says inflation still too high",
+      "answer": "2023",
       "options": [
-        "Crore",
-        "Nag",
-        "Mecca",
-        "Diya"
+        "2023",
+        "Award",
+        "China",
+        "Centres"
       ]
     },
     {
-      "blanked": "Leaker Says AMD Has Its Own DLSS 5-Like Neural Rendering Coming with RDNA 5, Explains How ______ Rather It Worked",
-      "answer": "Hed",
+      "blanked": "Dana-Farber’s Edward Chouchani, ______ selected as a 2026 Blavatnik National Award finalist | Newswise",
+      "answer": "PhD",
       "options": [
-        "Hed",
-        "Dadasaheb",
-        "Jumps",
-        "Arabian"
+        "Prevail",
+        "PhD",
+        "Nimarjan",
+        "China"
       ]
     },
     {
-      "blanked": "India could face up to 100% US tariffs over ______ oil",
-      "answer": "Russian",
+      "blanked": "Saudi-led coalition intercepts ______ drone headed for Mecca",
+      "answer": "Houthi",
       "options": [
-        "Atmos",
-        "Pro",
-        "Sanju",
-        "Russian"
+        "Study",
+        "Houthi",
+        "Aaditya",
+        "Blavatnik"
       ]
     },
     {
-      "blanked": "Women’s cardiovascular changes may begin nearly 20 years before menopause: Study | India ______",
-      "answer": "News",
+      "blanked": "Anant Nag, second ______ star to win Dadasaheb Phalke",
+      "answer": "Kannada",
       "options": [
-        "Much",
-        "News",
-        "Ganesh",
-        "Wiped"
-      ]
-    },
-    {
-      "blanked": "AFG vs IND T20 2026: ______ Samson leads another rapid chase as India win Afghanistan series",
-      "answer": "Sanju",
-      "options": [
-        "CBFC",
-        "Sanju",
-        "Him",
-        "Guy"
-      ]
-    },
-    {
-      "blanked": "How Much Land ______ KCR Family Hold? Revanth Answers",
-      "answer": "Does",
-      "options": [
-        "Does",
-        "Film",
-        "Introduce",
-        "Hockey"
-      ]
-    },
-    {
-      "blanked": "3D models of new iPhone Duo, iPhone 18 ______ and 18 Pro Max are now available in our database",
-      "answer": "Pro",
-      "options": [
-        "Pro",
-        "Named",
-        "Proteomic",
-        "Supreme"
-      ]
-    },
-    {
-      "blanked": "Samsung Finds Another Guy ______ Tim Cook To Promote Galaxy Z Fold 8",
-      "answer": "Named",
-      "options": [
-        "Named",
-        "KCR",
-        "Supreme",
-        "Indies"
+        "Drishtiya",
+        "Kannada",
+        "Health",
+        "Hold"
       ]
     },
     {
       "blanked": "‘No aggressive element’: Pakistan on defence pact with Saudi ______ amid Houthi strikes on Mecca | World News",
       "answer": "Arabia",
       "options": [
+        "Arabia",
+        "HIV",
+        "Russia",
+        "Sea"
+      ]
+    },
+    {
+      "blanked": "On Risk From Superintelligence, ______ AI Expert's Chimpanzee-Nukes Analogy",
+      "answer": "Top",
+      "options": [
+        "Joint",
+        "Pro",
+        "Top",
+        "Drishtiya"
+      ]
+    },
+    {
+      "blanked": "100% tariff on ______ Russia sanctions bill clears key hurdle, final House vote next",
+      "answer": "India",
+      "options": [
+        "Diya",
+        "Leadership",
+        "India",
+        "Ex-Manager"
+      ]
+    },
+    {
+      "blanked": "Apple iPhone 18 ______ Max review: It’s what’s on the inside that counts",
+      "answer": "Pro",
+      "options": [
+        "135%",
+        "2026",
+        "DLSS",
+        "Pro"
+      ]
+    },
+    {
+      "blanked": "Hit refresh: Apple rolls out iOS 27 with a smarter, more capable ______ AI",
+      "answer": "Siri",
+      "options": [
+        "Decision",
+        "Worked",
+        "Joint",
+        "Siri"
+      ]
+    },
+    {
+      "blanked": "Plea In ______ Court Challenges Centre's Decision To Introduce Charges On UPI Transactions Above ₹2,000",
+      "answer": "Supreme",
+      "options": [
+        "Centre",
+        "Apple",
+        "Transactions",
+        "Supreme"
+      ]
+    },
+    {
+      "blanked": "Preity Zinta, ______ Tripathi among members as Centre reconstitutes film board",
+      "answer": "Pankaj",
+      "options": [
+        "Takes",
+        "Analogy",
         "Phalke",
-        "Olympiad",
-        "Risk",
-        "Arabia"
+        "Pankaj"
       ]
     },
     {
-      "blanked": "Heartbreaking: 6 Students Dead At Ganesh ______ In Hyd!",
-      "answer": "Nimarjan",
+      "blanked": "BJP appeals to people to light 'Aashirwad ka ______ on Modi's birthday",
+      "answer": "Diya",
       "options": [
-        "Fold",
-        "Zinta",
-        "KCR",
-        "Nimarjan"
-      ]
-    },
-    {
-      "blanked": "Halting ______ Aging in HIV: How Early Treatment Restores Health",
-      "answer": "Proteomic",
-      "options": [
-        "Proteomic",
-        "Challenges",
-        "Treatment",
-        "Gate"
-      ]
-    },
-    {
-      "blanked": "India's NSE to launch ______ amid investor caution over derivatives-fuelled growth",
-      "answer": "IPO",
-      "options": [
-        "Students",
-        "IPO",
-        "Duo",
-        "Cross"
+        "Diya",
+        "Phalke",
+        "Winners",
+        "Zinta"
       ]
     }
   ]
