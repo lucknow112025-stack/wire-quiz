@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-09-18T11:48:53.465Z",
+  "generatedAt": "2026-09-18T15:37:44.533Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "Mamata, Ritabrata Trinamool factions allotted new party names, symbols by ECI",
+    "Nandigram bypoll: Congress candidate Milan Pradhan arrested hours after getting Mamata’s support",
     "Man acquitted in gruesome India murder case found dead",
-    "Bomb attack at Pakistan mosque kills at least 15, injures 50",
-    "Teen Gang-Raped, Killed By 4, Including 3 Minors In Delhi, Body Eaten By Dogs",
-    "New tiger cat species identified in Bolivia, first in over a century",
-    "'Indian side has made clear...': MEA as Russia sanctions bill threatening 100% tariff clears US House | India News",
+    "Bomb attack at Pakistan mosque kills at least 27 people",
+    "Kolkata-class destroyer vs PNS Hunain: Pakistan picked wrong warship to mess with",
+    "What commodity markets can expect from the Trump-Xi summit",
+    "Russia sanctions bill: US analyst flags a risk for India, says Modi did what 'no non-western leader' could",
+    "Missing in Election Commission affidavit: Break-up of Bengal SIR appeals for inclusion, exclusion of names",
     "NEET-UG Paper Leak: Supreme Court Mulls Visiting NTA Office, Seeks Affidavit From Nilekani Committee On...",
-    "Over 37 lakh appeals pending after Bengal SIR: EC tells Supreme Court",
-    "Akhilesh Yadav's 'Angry Young Man' vs Yogi's Ajay Seth in Samajwadi Party's AI film",
-    "India-Pakistan navy ship collision sparks alarm over unintended escalation",
-    "Houthis, Saudis, Iran - and the future of Middle Eastern oil",
-    "Hyrox athlete who soiled herself during race in China apologises, forfeits win",
-    "Trump administration okays sale of F-35s to Saudi Arabia as part of $24.3B military package",
+    "Telangana HC sets aside Speaker’s order, declares Khairatabad MLA Danam Nagender disqualified as member of Legislative Assembly",
+    "Woman On Honeymoon Suffers Severe Burns During Barbecue At Bengal Homestay",
+    "‘Just ask Grok’: How ISIL is using Big Tech’s AI to build bombs",
     "His wife killed his 3 children. He defended her in court, then remarried",
+    "Florida Woman Admits Having Sex With Son 'Only About 100 Times', Husband Says He Was 'Little Suspicious'",
+    "Australia tightens visa rules for foreign students, restricts dependants: “The government supports immigr",
     "Shapoorji Pallonji Group supports Tata Sons listing, welcomes RBI’s decision",
-    "Stock Market Highlights: Nifty Settles Below 23,350, Sensex Ends Marginally Lower",
-    "India’s Chip Plan Investment Pledges Hit $12 Billion",
-    "NSE IPO Day 2: After 43% subscription on first day, GMP stands at 8%; what brokerages are saying",
-    "Midnight queues, early morning frenzy: Buyers throng Apple stores as iPhone 18 sales start",
+    "India finds Nestle baby food sample substandard, takes legal action",
+    "UPI Fees Won't Pass To Customers, No Extra GST Burden For Merchants: Sources",
+    "Stock Market Live: Nifty Above 23,300, Sensex Up 180 Points; Small Caps, Realty Shares Outperform",
+    "Apple iPhone 18 Pro series goes on sale - GSMArena.com news",
+    "Where to buy the new Apple Watches: Shop the best launch deals on the Series 12 and Ultra 4",
+    "'Reheating our leftovers': Rivals use iPhone Duo buzz in advertising",
     "Here’s when ColorOS 17 update is coming to your Oppo, OnePlus, or Realme phone",
-    "Ugreen's new iPhone case puts a screen on the back of the iPhone 18 Pro",
-    "Gen Z perspectives: Samsung turns up the heat on Apple’s big fold - Marketing-Interactive",
     "‘Lust Stories 3’ Movie Review: Third Time’s Almost A Charm",
-    "Daayra X Review: Kareena Kapoor Draws Cheer For A 'Full House', Others Call Prithviraj Sukumaran The 'OG'",
-    "Marathi Film Gondhal Is India’s Official Entry For Oscars 2027; Here’s What You Need To Know"
+    "Marathi Thriller Gondhal Is India's Official Entry To Oscars 2027",
+    "Vibe review: Kunal Kemmu's spy comedy is chaotic, charming and occasionally too much"
   ],
   "quiz": [
     {
-      "blanked": "Houthis, Saudis, Iran - and the future of Middle ______ oil",
-      "answer": "Eastern",
+      "blanked": "Florida Woman Admits Having Sex With Son 'Only About 100 Times', ______ Says He Was 'Little Suspicious'",
+      "answer": "Husband",
+      "options": [
+        "Congress",
+        "Husband",
+        "Hunain",
+        "Barbecue"
+      ]
+    },
+    {
+      "blanked": "Preity Zinta, Pankaj ______ among new members of film certification board",
+      "answer": "Tripathi",
+      "options": [
+        "Big",
+        "Japan",
+        "Burden",
+        "Tripathi"
+      ]
+    },
+    {
+      "blanked": "Stock Market Live: Nifty Above 23,300, Sensex Up 180 Points; Small ______ Realty Shares Outperform",
+      "answer": "Caps",
+      "options": [
+        "Pakistan",
+        "Gondhal",
+        "Caps",
+        "Assembly"
+      ]
+    },
+    {
+      "blanked": "Apple iPhone 18 ______ series goes on sale - GSMArena.com news",
+      "answer": "Pro",
+      "options": [
+        "How",
+        "MLA",
+        "Pro",
+        "Wont"
+      ]
+    },
+    {
+      "blanked": "Marathi ______ Gondhal Is India's Official Entry To Oscars 2027",
+      "answer": "Thriller",
+      "options": [
+        "Barbecue",
+        "Bengal",
+        "Honeymoon",
+        "Thriller"
+      ]
+    },
+    {
+      "blanked": "Where to buy the new Apple ______ Shop the best launch deals on the Series 12 and Ultra 4",
+      "answer": "Watches",
+      "options": [
+        "Nagender",
+        "Watches",
+        "Market",
+        "Testing"
+      ]
+    },
+    {
+      "blanked": "Man acquitted in gruesome ______ murder case found dead",
+      "answer": "India",
+      "options": [
+        "Office",
+        "India",
+        "Shree",
+        "SIR"
+      ]
+    },
+    {
+      "blanked": "Bomb attack at ______ mosque kills at least 27 people",
+      "answer": "Pakistan",
+      "options": [
+        "NTA",
+        "Supreme",
+        "Pakistan",
+        "Burden"
+      ]
+    },
+    {
+      "blanked": "In 1992, a fireball pierced a NY teen’s $400 ______ the warm 27.7-pound meteorite and wreck net her about",
+      "answer": "Chevy",
+      "options": [
+        "Chevy",
+        "Charm",
+        "Pathways",
+        "Realty"
+      ]
+    },
+    {
+      "blanked": "What commodity markets can expect from the ______ summit",
+      "answer": "Trump-Xi",
+      "options": [
+        "NTA",
+        "Trump-Xi",
+        "Sources",
+        "Series"
+      ]
+    },
+    {
+      "blanked": "Here’s when ColorOS 17 update is coming to your Oppo, OnePlus, or ______ phone",
+      "answer": "Realme",
+      "options": [
+        "Realme",
+        "Suspicious",
+        "2026",
+        "Danam"
+      ]
+    },
+    {
+      "blanked": "India finds ______ baby food sample substandard, takes legal action",
+      "answer": "Nestle",
       "options": [
         "Oscars",
-        "Eastern",
-        "Marketing-Interactive",
-        "Middle"
-      ]
-    },
-    {
-      "blanked": "Over 37 lakh appeals pending after ______ SIR: EC tells Supreme Court",
-      "answer": "Bengal",
-      "options": [
-        "Bengal",
-        "Scientists",
-        "RBIs",
-        "Pathways"
-      ]
-    },
-    {
-      "blanked": "Meet the youngest planet found: Scientists discover ‘newborn’ planet ______ 2-24 b",
-      "answer": "Elias",
-      "options": [
-        "Saudis",
-        "Elias",
-        "Minors",
-        "Bolivia"
-      ]
-    },
-    {
-      "blanked": "This snail can regrow its entire eye in a month: Scientists are studying how it works | Hindustan ______",
-      "answer": "Times",
-      "options": [
-        "Times",
-        "Investment",
-        "Minors",
-        "23350"
-      ]
-    },
-    {
-      "blanked": "Gen Z perspectives: Samsung turns up the heat on ______ big fold - Marketing-Interactive",
-      "answer": "Apples",
-      "options": [
-        "Official",
-        "100%",
-        "India",
-        "Apples"
-      ]
-    },
-    {
-      "blanked": "Teen Gang-Raped, Killed By 4, Including 3 Minors In Delhi, Body Eaten By ______",
-      "answer": "Dogs",
-      "options": [
-        "NTA",
-        "Games",
-        "Dogs",
-        "Full"
-      ]
-    },
-    {
-      "blanked": "New tiger cat species identified in ______ first in over a century",
-      "answer": "Bolivia",
-      "options": [
-        "Bolivia",
-        "Asian",
-        "IPO",
-        "ColorOS"
-      ]
-    },
-    {
-      "blanked": "Midnight queues, early morning frenzy: ______ throng Apple stores as iPhone 18 sales start",
-      "answer": "Buyers",
-      "options": [
-        "Bengal",
-        "Lung",
-        "NTA",
-        "Buyers"
-      ]
-    },
-    {
-      "blanked": "BCCI office bearers authorised to decide on selection committee amid ______ uncertainty",
-      "answer": "Agarkar",
-      "options": [
-        "Plan",
-        "Angry",
-        "Agarkar",
-        "Bolivia"
-      ]
-    },
-    {
-      "blanked": "Nagaland launches ‘Teeka Talk’ to boost ______ vaccination awareness",
-      "answer": "HPV",
-      "options": [
-        "HPV",
-        "Billion",
-        "Apples",
-        "Asian"
-      ]
-    },
-    {
-      "blanked": "India’s Chip Plan Investment ______ Hit $12 Billion",
-      "answer": "Pledges",
-      "options": [
-        "Ajay",
-        "Delhi",
-        "Pledges",
-        "Seth"
-      ]
-    },
-    {
-      "blanked": "IND-W vs ______ Asian Games 2026 cricket: Shree Charani stars in India’s quarter-final win over Japan",
-      "answer": "JPN-W",
-      "options": [
-        "AL-AWSAT",
-        "Official",
-        "Leak",
-        "JPN-W"
+        "Customers",
+        "Entry",
+        "Nestle"
       ]
     }
   ]
