@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-09-18T21:14:58.108Z",
+  "generatedAt": "2026-09-18T23:19:56.160Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "New US sanctions bill on Russia puts India's Modi in a bind",
+    "Trump signs Russia sanctions bill into law, gains authority to impose 100% tariff on India and China",
     "Mamata Banerjee, rebel Trinamool faction allotted new party names, symbols by ECI",
     "Oil Futures Fall for Third Day on Easing Supply Concerns",
     "Congress' Nandigram Pick Arrested After Mamata Banerjee Announces Support",
-    "Italy's Giorgia Meloni wishes PM Modi on his 76th birthday: ‘I wish you health, energy and success’ | India News",
-    "India-Pakistan navy ship collision sparks alarm over unintended escalation",
+    "Sonu Sood Takes A Dig At People Queuing Up For iPhone 18 In India: \"Real Upgrade Is A Better Society\"",
+    "Rs 14 cr in 9 days in just 1 state: The ever-expanding Modi celebration machine",
     "HAL hands over LCA FOC trainers, first HTT-40 ‘Ankur’ to IAF, 4 Dhruv-NG Choppers to Pawan Hans",
-    "Tirupati Laddu prasadam made from palm oil and chemicals, says ED; arrests ghee company owner",
     "Joint Parliamentary Committee on Foreign Contribution (Regulation) Amendment Bill to hold its first meeting in New Delhi today",
+    "Tirupati Laddu prasadam made from palm oil and chemicals, says ED; arrests ghee company owner",
     "West Bengal SIR | 37 Lakh Appeals Pending; Less Than 3% Disposed By Appellate Tribunals : ECI Tells...",
     "21 Killed In Suicide Bombing At Pak Mosque, Several Cops Among Victims",
-    "'Kill Switch' for AI: California Guv signs order to tighten oversight of AI companies",
     "'Reporting fake news': Trump bars CNN, MS NOW, Politico from White House; threatens more bans",
-    "Pakistan pledges full committment to defence of Saudi Arabia",
+    "'Kill Switch' for AI: California Guv signs order to tighten oversight of AI companies",
+    "US reaches deal with Denmark for ‘permanent security control’ over Greenland, says Donald Trump",
     "Tata Group stocks fall: Tata Chemicals, Tata Motors PV, TCS, among others tumble up to 8%; here is what happened",
-    "UPI Fees Won't Pass To Customers, No Extra GST Burden For Merchants: Sources",
+    "On India's Semiconductor Aspirations, Ashwini Vaishnaw's Progress Report",
+    "Govt preparing system to ensure UPI fee doesn't hit customers: Report | India News",
     "India finds Nestle baby food sample substandard, takes legal action",
-    "India’s Chip Plan Investment Pledges Hit $12 Billion",
-    "In India, the new iPhone can arrive faster than a pizza",
-    "OnePlus 16 Display Officially Tipped to Support 165Hz Refresh Rate",
-    "Here’s when ColorOS 17 update is coming to your Oppo, OnePlus, or Realme phone",
+    "Samsung Fans Are Thoroughly Unimpressed by Apple’s Foldable Phone",
     "Lenovo Legion 5i, Legion 5a and LOQ 15 launched in India with RTX 50 Series GPUs: Price, specs and more",
+    "Here’s when ColorOS 17 update is coming to your Oppo, OnePlus, or Realme phone",
+    "Control Resonant Is Almost a Picture Perfect PC Port",
     "Daayra box office collection day 1: Kareena Kapoor’s film records lowest opening of her career | Bollywood",
-    "‘Lust Stories 3’ Movie Review: Third Time’s Almost A Charm",
-    "Mirzapur The Movie Box Office Collections: Ali Fazal, Pankaj Tripathi, Divyenndu starrer has a good 2nd week, To cross Rs. 200 Cr today"
+    "Mirzapur The Movie Box Office Collections: Ali Fazal, Pankaj Tripathi, Divyenndu starrer has a good 2nd week, To cross Rs. 200 Cr today",
+    "‘Lust Stories 3’ Movie Review: Third Time’s Almost A Charm"
   ],
   "quiz": [
     {
-      "blanked": "India finds ______ baby food sample substandard, takes legal action",
-      "answer": "Nestle",
+      "blanked": "Vibe review: ______ Kemmu's spy comedy is chaotic, charming and occasionally too much",
+      "answer": "Kunal",
       "options": [
-        "Ceremony",
-        "Nestle",
-        "Kemmus",
-        "Pledges"
+        "Space",
+        "Collections",
+        "Kunal",
+        "Realme"
       ]
     },
     {
-      "blanked": "IND vs AUS, ______ highlights: Sehwag, Dravid, Yashbardhan contribute in India U-19's 7-run win over Australia U-19",
-      "answer": "Y-ODI",
+      "blanked": "Asian Games: ______ books separate accommodation for men's cricket team, women stay in Games facilities",
+      "answer": "BCCI",
       "options": [
-        "Indias",
-        "Y-ODI",
-        "Kemmus",
-        "2026"
+        "Denmark",
+        "Report",
+        "Mosque",
+        "BCCI"
       ]
     },
     {
-      "blanked": "Congress' Nandigram Pick Arrested After Mamata Banerjee ______ Support",
-      "answer": "Announces",
+      "blanked": "Mamata ______ rebel Trinamool faction allotted new party names, symbols by ECI",
+      "answer": "Banerjee",
       "options": [
-        "Announces",
-        "Motors",
-        "Roll",
-        "California"
+        "Banerjee",
+        "Several",
+        "Tribunals",
+        "Major"
       ]
     },
     {
-      "blanked": "21 Killed In Suicide Bombing At Pak Mosque, Several Cops Among ______",
-      "answer": "Victims",
+      "blanked": "Here’s when ______ 17 update is coming to your Oppo, OnePlus, or Realme phone",
+      "answer": "ColorOS",
       "options": [
-        "Trinamool",
-        "Victims",
-        "BCCI",
-        "Pending"
-      ]
-    },
-    {
-      "blanked": "Joint Parliamentary ______ on Foreign Contribution (Regulation) Amendment Bill to hold its first meeting in New Delhi today",
-      "answer": "Committee",
-      "options": [
-        "Easing",
-        "Committee",
-        "Roll",
-        "Merchants"
-      ]
-    },
-    {
-      "blanked": "‘Lust Stories 3’ Movie Review: Third Time’s Almost A ______",
-      "answer": "Charm",
-      "options": [
-        "Switch",
-        "Charm",
         "Games",
-        "Dsouza"
+        "Mamata",
+        "ColorOS",
+        "Victims"
+      ]
+    },
+    {
+      "blanked": "Control ______ Is Almost a Picture Perfect PC Port",
+      "answer": "Resonant",
+      "options": [
+        "Resonant",
+        "Denmark",
+        "California",
+        "Thoroughly"
+      ]
+    },
+    {
+      "blanked": "Meet the youngest planet found: ______ discover ‘newborn’ planet Elias 2-24 b",
+      "answer": "Scientists",
+      "options": [
+        "Perfect",
+        "Pending",
+        "Picture",
+        "Scientists"
+      ]
+    },
+    {
+      "blanked": "Pediatric Congenital ______ Face Major Follow-Up Gaps",
+      "answer": "Conditions",
+      "options": [
+        "Series",
+        "Kemmus",
+        "Picture",
+        "Conditions"
+      ]
+    },
+    {
+      "blanked": "Govt preparing system to ensure UPI fee doesn't hit customers: Report | ______ News",
+      "answer": "India",
+      "options": [
+        "India",
+        "Market",
+        "Fans",
+        "Congenital"
       ]
     },
     {
       "blanked": "NASA scan discovers new, ‘once in a century’ ______ crater",
       "answer": "Moon",
       "options": [
+        "Report",
         "Moon",
-        "Suicide",
-        "Ankur",
-        "Meloni"
+        "Oppo",
+        "Vaccine"
       ]
     },
     {
-      "blanked": "'Kill Switch' for AI: California ______ signs order to tighten oversight of AI companies",
-      "answer": "Guv",
+      "blanked": "India finds ______ baby food sample substandard, takes legal action",
+      "answer": "Nestle",
       "options": [
-        "White",
-        "BCCI",
-        "Guv",
-        "Cops"
+        "Nestle",
+        "Tripathi",
+        "Thoroughly",
+        "Donald"
       ]
     },
     {
-      "blanked": "Tata ______ stocks fall: Tata Chemicals, Tata Motors PV, TCS, among others tumble up to 8%; here is what happened",
-      "answer": "Group",
+      "blanked": "Dr Reddy's, Takeda Ink Deal to Launch ______ Vaccine QDENGA in India's Private Market in 2027",
+      "answer": "Dengue",
       "options": [
-        "Group",
-        "Price",
-        "200",
-        "Delhi"
-      ]
-    },
-    {
-      "blanked": "Italy's Giorgia Meloni wishes PM ______ on his 76th birthday: ‘I wish you health, energy and success’ | India News",
-      "answer": "Modi",
-      "options": [
-        "Congo",
-        "News",
-        "Conditions",
-        "Modi"
-      ]
-    },
-    {
-      "blanked": "'Reporting fake news': Trump bars CNN, MS NOW, Politico from ______ House; threatens more bans",
-      "answer": "White",
-      "options": [
-        "GST",
-        "Politico",
-        "Ebola",
-        "White"
-      ]
-    },
-    {
-      "blanked": "India’s Chip ______ Investment Pledges Hit $12 Billion",
-      "answer": "Plan",
-      "options": [
+        "Trump",
+        "Roman",
         "Dengue",
-        "Yashbardhan",
-        "Plan",
-        "OnePlus"
+        "Guv"
+      ]
+    },
+    {
+      "blanked": "Trump signs Russia sanctions bill into law, gains authority to impose 100% tariff on ______ and China",
+      "answer": "India",
+      "options": [
+        "Kareena",
+        "India",
+        "ColorOS",
+        "Trinamool"
       ]
     }
   ]
