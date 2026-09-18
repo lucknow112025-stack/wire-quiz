@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-09-17T23:40:54.352Z",
+  "generatedAt": "2026-09-18T01:30:23.536Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
     "India warns new US tariffs over Russian oil could impact ties",
-    "Rs 14 cr in 9 days in just 1 state: The ever-expanding Modi celebration machine",
+    "TMC vs TMC: EC bars both factions from using party symbol, name in West Bengal assembly bypolls",
+    "16-year-old girl raped by 4 teens, found stabbed to death days later in Delhi | India News",
     "Trump Threatens EU With Tariffs Over Canada ‘Associate Member’ Offer",
-    "Tata Sons extends Chandrasekaran's term as chairman but a battle looms",
-    "India voices concern over attempted drone attack on Mecca",
-    "India joins Ukraine, West Bank in ‘severely restricted’ academic freedom list; ranks above China",
-    "In Fight For Trinamool Name And Symbol, Poll Body's Freeze Ahead Of Bypolls",
-    "MEA notifies new rules: 36-page passports for children below 15 to be valid for five years",
+    "Rs 14 cr in 9 days in just 1 state: The ever-expanding Modi celebration machine",
+    "Tata Sons board-room battle: Stalemate allowed chairman to vote on his own reappointment",
     "Flowers at 10,600ft: World’s highest twin fields unveiled in Leh",
     "Adoption of BRICS New Delhi Declaration shows world's trust in India: PM Modi",
-    "US F-16 fighter jet crashes in Michigan, bursts into flames",
+    "Italy's Giorgia Meloni wishes PM Modi on his 76th birthday: ‘I wish you health, energy and success’ | India News",
+    "Allahabad HC sets man who voluntarily converted to Islam free from his Hindu family’s custody",
     "China, U.S. top diplomats discuss ‘high-level interactions’ in call, Beijing says",
-    "China to try and steal F-35 tech amid pending Saudi deal? Report says US intel issued warning | World News",
-    "North Korea says US-led arms buildup justifies expanding nuclear force",
-    "Govt denies foreign pressure behind UPI MDR, says charge will help Indian UPI apps",
+    "US F-16 fighter jet crashes in Michigan, bursts into flames",
+    "Why US plan to sell F-35 warplanes to Saudi Arabia is controversial",
+    "Veteran NBC anchor Robert Kovacik breaks down after learning colleagues Eliana Moreno and George Marciniw",
     "India reliable & prepared destination to meet new global manufacturing challenges, says PM Modi",
     "IndiGo raises fees for excess baggage, infants, unaccompanied minors and Fast Forward",
-    "Goldman's October hike call underscores renewed Fed tightening risks",
-    "iQOO 16 nears launch: Check expected India launch date, price, specs and more",
+    "Tech leads Wall St to higher close as oil eases, Treasury yields dip",
+    "Govt denies foreign pressure behind UPI MDR, says charge will help Indian UPI apps",
     "OPPO Announces ColorOS 17 Based on Android 17, Details Rollout Timeline, Supported Devices for China",
-    "Lenovo ends US patent lawsuit over Asus laptops",
     "iPhone 18 Pro and iPhone 18 Pro Max pre-orders in China eclipse the 2025 Pros - GSMArena.com news",
-    "Amid Postpartum Weight Trolling, Katrina Kaif Shares What 'Looking Her Best' Means",
-    "‘PM Modi removed nepotism, favouritism from film awards’: Anant Nag after being honoured with Dadasaheb Phalke Award | Hindustan Times",
-    "'Mirzapur The Movie' box office collection Day 14 [LIVE]: Pankaj Tripathi, Ali Fazal and Ravi Kishan film"
+    "Lenovo ends US patent lawsuit over Asus laptops",
+    "Awe, then shock: Apple’s new foldable iPhone wows Korea, but huge price gap with Samsung also turns heads",
+    "Mirzapur The Movie Box Office Collection Day 13: Pankaj Tripathi Film Faces Strong Competition From Hanuman Ansh, Misses Rs 200 Crore Mark In India",
+    "2026 Emmy Winners: Complete List",
+    "Ed Sheeran's US Tour Support Acts Quit After Macklemore Dropped Over Pro-Palestinian Remarks On Stage"
   ],
   "quiz": [
+    {
+      "blanked": "Thai IM ______ Indian Number-2 As Favorites Prevail",
+      "answer": "Upsets",
+      "options": [
+        "Russian",
+        "Forward",
+        "Timeline",
+        "Upsets"
+      ]
+    },
     {
       "blanked": "Rs 14 cr in 9 days in just 1 state: The ever-expanding ______ celebration machine",
       "answer": "Modi",
       "options": [
-        "China",
+        "Rollout",
         "Modi",
+        "USA",
+        "Hanuman"
+      ]
+    },
+    {
+      "blanked": "Allahabad HC sets man who voluntarily converted to ______ free from his Hindu family’s custody",
+      "answer": "Islam",
+      "options": [
+        "Forward",
+        "ColorOS",
+        "Islam",
+        "Box"
+      ]
+    },
+    {
+      "blanked": "Massive moon crater discovered after powerful ______ impact",
+      "answer": "2024",
+      "options": [
+        "Pros",
+        "2024",
+        "Macklemore",
+        "Collection"
+      ]
+    },
+    {
+      "blanked": "Astronomers discover youngest known planet ever: ______",
+      "answer": "Study",
+      "options": [
+        "Beijing",
+        "George",
         "Study",
-        "Reality"
+        "Offer"
       ]
     },
     {
-      "blanked": "China to try and steal F-35 tech amid pending Saudi deal? ______ says US intel issued warning | World News",
-      "answer": "Report",
+      "blanked": "Tata ______ board-room battle: Stalemate allowed chairman to vote on his own reappointment",
+      "answer": "Sons",
       "options": [
-        "Declaration",
+        "Samsung",
+        "Tariffs",
+        "Modi",
+        "Sons"
+      ]
+    },
+    {
+      "blanked": "Lenovo ends US patent lawsuit over ______ laptops",
+      "answer": "Asus",
+      "options": [
+        "Asus",
+        "Office",
+        "Meloni",
+        "Indian"
+      ]
+    },
+    {
+      "blanked": "US F-16 fighter jet crashes in ______ bursts into flames",
+      "answer": "Michigan",
+      "options": [
+        "Treasury",
+        "Tour",
+        "Michigan",
+        "Increased"
+      ]
+    },
+    {
+      "blanked": "India warns new US tariffs over ______ oil could impact ties",
+      "answer": "Russian",
+      "options": [
+        "Leh",
+        "Associate",
+        "Russian",
+        "Today"
+      ]
+    },
+    {
+      "blanked": "OPPO ______ ColorOS 17 Based on Android 17, Details Rollout Timeline, Supported Devices for China",
+      "answer": "Announces",
+      "options": [
+        "Announces",
+        "Pankaj",
         "India",
-        "Has",
-        "Report"
-      ]
-    },
-    {
-      "blanked": "In Fight For Trinamool Name And Symbol, Poll Body's Freeze ______ Of Bypolls",
-      "answer": "Ahead",
-      "options": [
-        "Ahead",
-        "Trolling",
-        "Joins",
-        "Details"
+        "Declaration"
       ]
     },
     {
       "blanked": "India reliable & prepared destination to meet new global manufacturing challenges, says PM ______",
       "answer": "Modi",
       "options": [
-        "US-led",
-        "Tripathi",
-        "Trolling",
-        "Modi"
+        "Modi",
+        "Declaration",
+        "Winners",
+        "Dropped"
       ]
     },
     {
-      "blanked": "Adoption of ______ New Delhi Declaration shows world's trust in India: PM Modi",
-      "answer": "BRICS",
+      "blanked": "Venus to reach peak brightness in Thailand’s western sky on ______ 22",
+      "answer": "Sept",
       "options": [
-        "BRICS",
-        "Abhishek",
-        "Threatens",
-        "US-led"
-      ]
-    },
-    {
-      "blanked": "Venus to reach peak brightness in ______ western sky on Sept 22",
-      "answer": "Thailands",
-      "options": [
-        "Hindustan",
-        "Reality",
-        "Japan",
-        "Thailands"
-      ]
-    },
-    {
-      "blanked": "IND-W vs JPN-W, Asian Games ______ women's cricket quarter-final: Watch India vs Japan live streaming and telecast",
-      "answer": "2026",
-      "options": [
-        "2026",
-        "Russian",
-        "Offer",
-        "Watch"
-      ]
-    },
-    {
-      "blanked": "iQOO 16 nears launch: Check expected ______ launch date, price, specs and more",
-      "answer": "India",
-      "options": [
-        "India",
-        "World",
-        "Arteries",
-        "Max"
-      ]
-    },
-    {
-      "blanked": "Infant memories: ______ but not gone?",
-      "answer": "Lost",
-      "options": [
-        "Lost",
-        "Japan",
-        "Left",
-        "Doctor"
-      ]
-    },
-    {
-      "blanked": "India joins ______ West Bank in ‘severely restricted’ academic freedom list; ranks above China",
-      "answer": "Ukraine",
-      "options": [
-        "Ukraine",
-        "Delhi",
-        "25000",
-        "Widen"
-      ]
-    },
-    {
-      "blanked": "North ______ says US-led arms buildup justifies expanding nuclear force",
-      "answer": "Korea",
-      "options": [
-        "Doctor",
-        "Katrina",
-        "Saudi",
-        "Korea"
-      ]
-    },
-    {
-      "blanked": "Amid Postpartum Weight Trolling, Katrina Kaif Shares What ______ Her Best' Means",
-      "answer": "Looking",
-      "options": [
-        "Android",
-        "Doctor",
-        "Looking",
-        "JPN-W"
+        "Robert",
+        "Sept",
+        "Box",
+        "Moreno"
       ]
     }
   ]
