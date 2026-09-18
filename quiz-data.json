@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-09-18T18:38:00.366Z",
+  "generatedAt": "2026-09-18T21:14:58.108Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "Venezuela, Iran, Russia — India has historically complied with Trump on cutting oil imports",
-    "Oil Retreat Slows on Saudi Supply Concerns",
-    "Mamata faction gets ‘Mamata All India Trinamool Congress’ name, football player symbol",
-    "Man acquitted in gruesome India murder case found dead",
-    "Rs 14 cr in 9 days in just 1 state: The ever-expanding Modi celebration machine",
+    "New US sanctions bill on Russia puts India's Modi in a bind",
+    "Mamata Banerjee, rebel Trinamool faction allotted new party names, symbols by ECI",
+    "Oil Futures Fall for Third Day on Easing Supply Concerns",
+    "Congress' Nandigram Pick Arrested After Mamata Banerjee Announces Support",
+    "Italy's Giorgia Meloni wishes PM Modi on his 76th birthday: ‘I wish you health, energy and success’ | India News",
+    "India-Pakistan navy ship collision sparks alarm over unintended escalation",
+    "HAL hands over LCA FOC trainers, first HTT-40 ‘Ankur’ to IAF, 4 Dhruv-NG Choppers to Pawan Hans",
+    "Tirupati Laddu prasadam made from palm oil and chemicals, says ED; arrests ghee company owner",
+    "Joint Parliamentary Committee on Foreign Contribution (Regulation) Amendment Bill to hold its first meeting in New Delhi today",
+    "West Bengal SIR | 37 Lakh Appeals Pending; Less Than 3% Disposed By Appellate Tribunals : ECI Tells...",
+    "21 Killed In Suicide Bombing At Pak Mosque, Several Cops Among Victims",
+    "'Kill Switch' for AI: California Guv signs order to tighten oversight of AI companies",
+    "'Reporting fake news': Trump bars CNN, MS NOW, Politico from White House; threatens more bans",
+    "Pakistan pledges full committment to defence of Saudi Arabia",
     "Tata Group stocks fall: Tata Chemicals, Tata Motors PV, TCS, among others tumble up to 8%; here is what happened",
-    "‘PNS Hunain violated maritime norms’: India rejects Pakistan’s ‘usual prevarication’ over naval collision",
-    "Telangana HC sets aside Speaker’s order, declares Khairatabad MLA Danam Nagender disqualified as member of Legislative Assembly",
-    "LCA delays, engine deals shape HAL’s growth roadmap: Ravi K, HAL CMD",
-    "West Bengal SIR: Over 37 lakh appeals stuck in Tribunals as Municipal polls draw near",
-    "Bomb attack at Pakistan mosque kills at least 27 people",
-    "North Korea's Nuclear Tests May Have Triggered 1,399 Earthquakes, Study Finds",
-    "UN report finds widespread sexual violence in Ukraine war, 89% of cases linked to Russia",
-    "\"God Helped Us, So Will AI\": How Boko Haram Used ChatGPT, Grok For Attacks",
     "UPI Fees Won't Pass To Customers, No Extra GST Burden For Merchants: Sources",
     "India finds Nestle baby food sample substandard, takes legal action",
-    "NSE's $2.3 billion IPO fully subscribed, spotlight shifts to Sept. 24 debut",
     "India’s Chip Plan Investment Pledges Hit $12 Billion",
     "In India, the new iPhone can arrive faster than a pizza",
+    "OnePlus 16 Display Officially Tipped to Support 165Hz Refresh Rate",
     "Here’s when ColorOS 17 update is coming to your Oppo, OnePlus, or Realme phone",
-    "OnePlus 16 launch teased, 165Hz system-wide refresh rate confirmed - GSMArena.com news",
     "Lenovo Legion 5i, Legion 5a and LOQ 15 launched in India with RTX 50 Series GPUs: Price, specs and more",
+    "Daayra box office collection day 1: Kareena Kapoor’s film records lowest opening of her career | Bollywood",
     "‘Lust Stories 3’ Movie Review: Third Time’s Almost A Charm",
-    "Daayra Review: Meghna Gulzar's Film Sees Kareena Kapoor And Prithviraj Sukumaran At Top Of Their Game",
     "Mirzapur The Movie Box Office Collections: Ali Fazal, Pankaj Tripathi, Divyenndu starrer has a good 2nd week, To cross Rs. 200 Cr today"
   ],
   "quiz": [
     {
-      "blanked": "Oil Retreat Slows on Saudi ______ Concerns",
-      "answer": "Supply",
-      "options": [
-        "Used",
-        "Price",
-        "Supply",
-        "Finds"
-      ]
-    },
-    {
-      "blanked": "VIBE Review: Kunal ______ ‘Bahumuliya Gadhas’ Is What Bollywood Needs The Most",
-      "answer": "Kemmus",
-      "options": [
-        "Tests",
-        "Kemmus",
-        "Kunal",
-        "First"
-      ]
-    },
-    {
-      "blanked": "Mamata faction gets ‘Mamata All India ______ Congress’ name, football player symbol",
-      "answer": "Trinamool",
-      "options": [
-        "Trinamool",
-        "Newly",
-        "Kapoor",
-        "Used"
-      ]
-    },
-    {
-      "blanked": "India star ______ urged to be patient by coach Gambhir",
-      "answer": "Sooryavanshi",
-      "options": [
-        "Box",
-        "Sees",
-        "Sooryavanshi",
-        "Most"
-      ]
-    },
-    {
-      "blanked": "Nagaland launches ‘Teeka Talk’ to boost ______ vaccination awareness",
-      "answer": "HPV",
-      "options": [
-        "HPV",
-        "What",
-        "Office",
-        "GST"
-      ]
-    },
-    {
-      "blanked": "West Bengal SIR: Over 37 lakh appeals stuck in Tribunals as ______ polls draw near",
-      "answer": "Municipal",
-      "options": [
-        "Municipal",
-        "Have",
-        "Ukraine",
-        "Legion"
-      ]
-    },
-    {
-      "blanked": "NASA Scientist Discovers ______ Newly Formed Crater On Moon",
-      "answer": "Largest",
-      "options": [
-        "Scientist",
-        "Ravi",
-        "Largest",
-        "Series"
-      ]
-    },
-    {
-      "blanked": "Pediatric Congenital Conditions Face Major Follow-Up ______",
-      "answer": "Gaps",
-      "options": [
-        "89%",
-        "Pakistan",
-        "Face",
-        "Gaps"
-      ]
-    },
-    {
       "blanked": "India finds ______ baby food sample substandard, takes legal action",
       "answer": "Nestle",
       "options": [
+        "Ceremony",
         "Nestle",
-        "Elias",
+        "Kemmus",
+        "Pledges"
+      ]
+    },
+    {
+      "blanked": "IND vs AUS, ______ highlights: Sehwag, Dravid, Yashbardhan contribute in India U-19's 7-run win over Australia U-19",
+      "answer": "Y-ODI",
+      "options": [
+        "Indias",
+        "Y-ODI",
+        "Kemmus",
+        "2026"
+      ]
+    },
+    {
+      "blanked": "Congress' Nandigram Pick Arrested After Mamata Banerjee ______ Support",
+      "answer": "Announces",
+      "options": [
+        "Announces",
+        "Motors",
+        "Roll",
+        "California"
+      ]
+    },
+    {
+      "blanked": "21 Killed In Suicide Bombing At Pak Mosque, Several Cops Among ______",
+      "answer": "Victims",
+      "options": [
+        "Trinamool",
+        "Victims",
+        "BCCI",
+        "Pending"
+      ]
+    },
+    {
+      "blanked": "Joint Parliamentary ______ on Foreign Contribution (Regulation) Amendment Bill to hold its first meeting in New Delhi today",
+      "answer": "Committee",
+      "options": [
+        "Easing",
+        "Committee",
+        "Roll",
+        "Merchants"
+      ]
+    },
+    {
+      "blanked": "‘Lust Stories 3’ Movie Review: Third Time’s Almost A ______",
+      "answer": "Charm",
+      "options": [
+        "Switch",
+        "Charm",
         "Games",
-        "Used"
+        "Dsouza"
       ]
     },
     {
-      "blanked": "Tata Group stocks fall: Tata Chemicals, Tata Motors PV, ______ among others tumble up to 8%; here is what happened",
-      "answer": "TCS",
+      "blanked": "NASA scan discovers new, ‘once in a century’ ______ crater",
+      "answer": "Moon",
       "options": [
-        "Danam",
-        "Agarkars",
-        "TCS",
-        "Nestle"
+        "Moon",
+        "Suicide",
+        "Ankur",
+        "Meloni"
       ]
     },
     {
-      "blanked": "UPI Fees Won't ______ To Customers, No Extra GST Burden For Merchants: Sources",
-      "answer": "Pass",
+      "blanked": "'Kill Switch' for AI: California ______ signs order to tighten oversight of AI companies",
+      "answer": "Guv",
       "options": [
-        "2027",
-        "Pass",
-        "Vaccine",
-        "Bengal"
+        "White",
+        "BCCI",
+        "Guv",
+        "Cops"
       ]
     },
     {
-      "blanked": "BCCI yet to take a call, but ______ tenure likely to end in 15 days",
-      "answer": "Agarkars",
+      "blanked": "Tata ______ stocks fall: Tata Chemicals, Tata Motors PV, TCS, among others tumble up to 8%; here is what happened",
+      "answer": "Group",
       "options": [
+        "Group",
         "Price",
-        "What",
-        "Triggered",
-        "Agarkars"
+        "200",
+        "Delhi"
+      ]
+    },
+    {
+      "blanked": "Italy's Giorgia Meloni wishes PM ______ on his 76th birthday: ‘I wish you health, energy and success’ | India News",
+      "answer": "Modi",
+      "options": [
+        "Congo",
+        "News",
+        "Conditions",
+        "Modi"
+      ]
+    },
+    {
+      "blanked": "'Reporting fake news': Trump bars CNN, MS NOW, Politico from ______ House; threatens more bans",
+      "answer": "White",
+      "options": [
+        "GST",
+        "Politico",
+        "Ebola",
+        "White"
+      ]
+    },
+    {
+      "blanked": "India’s Chip ______ Investment Pledges Hit $12 Billion",
+      "answer": "Plan",
+      "options": [
+        "Dengue",
+        "Yashbardhan",
+        "Plan",
+        "OnePlus"
       ]
     }
   ]
