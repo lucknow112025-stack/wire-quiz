@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-09-19T06:11:23.628Z",
+  "generatedAt": "2026-09-19T10:57:00.156Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
     "Trump signs Russia sanctions bill into law",
-    "\"Good For NATO, Europe\": Denmark PM Endorses Trump's Greenland Security Deal",
+    "Mamata Banerjee's Rejinagar Pick 'Back In Fight' Hours After Backing Out",
     "Second-year IIT-Bombay student dies by suicide after being caught using AI platform during exam",
-    "DUSU 2026 election results LIVE: Vote counting underway; ABVP's Yash Dabas, NSUI's Vijay Meena in presidential race | Hindustan Times",
-    "Surendra Koli, accused and acquitted in Nithari serial killings case, found hanging in Haridwar",
-    "Trump plans to greet Xi at airport on arrival, officials say",
-    "MHA cites internal security issues to defend FCRA tweak",
-    "Mamata moves Supreme Court against ECI’s freeze on Trinamool Congress symbol",
-    "Equal pay for equal work cannot be applied mechanically; experience must be considered: Supreme Court",
-    "Kerala High Court refuses interim bail to Reporter TV MD Anto Augustine",
+    "\"Good For NATO, Europe\": Denmark PM Endorses Trump's Greenland Security Deal",
     "Trump extends push for $100,000 H-1B visas by another year",
+    "Houthis accuse Saudi Arabia of launching 26 attacks in 24 hours",
+    "PM Modi flags climate inequality, says developed nations' carbon emissions six times more",
+    "Another Delhi-NCR shocker: Speeding car hits multiple people in Greater Noida, driver arrested",
+    "Murdered Delhi Man's Family Got His 'I'm Fine' Text. Killer Couple Sent It",
+    "‘Returning the bottle’: BJP’s Ravneet Bittu detained after protest near Mann’s convoy",
+    "'He's paying him back': Trump defends Russian oligarch funding his son's Bahamas wedding",
     "Trump bans media outlets CNN, MS NOW, Politico from White House",
-    "EXCLUSIVE: OpenAI's Sam Altman to brief UN Security Council next week",
-    "Bomb attack at Pakistan mosque kills at least 31 people",
+    "Shanakiyan urges urgent action over reported death sentence for Lankan in Saudi Arabia",
+    "Trump plans to greet Xi at airport on arrival, officials say",
     "Tata Sons: India's corporate crown braces for upheaval amid boardroom revolt",
-    "On India's Semiconductor Aspirations, Ashwini Vaishnaw's Progress Report",
-    "JPMorgan Gives Up Forecasting Iran War Endgame as Trump Tells Reporters ‘Anything Could Happen With Me’",
-    "Stock Market Highlights: Nifty Settles Below 23,350, Sensex Ends Marginally Lower",
+    "Fuel Pumps Warn They Won't Accept UPI Payments Above Rs 2,000 Over New Fee",
+    "Blackstone Sees India Nearing Tipping Point for Foreign Capital",
+    "What Fed rate hikes mean for gold prices in 2027, according to Goldman",
     "In India, the new iPhone can arrive faster than a pizza",
+    "'Reheating our leftovers': Rivals use iPhone Duo buzz in advertising",
     "Lenovo Legion 5i, Legion 5a and LOQ 15 launched in India with RTX 50 Series GPUs: Price, specs and more",
     "Remedy Honors the Late David Lynch in Control Resonant With Powerful Twin Peaks Quote",
-    "Fungus found evolving resistance to drug meant for humans",
-    "Daayra box office collection day 1: Kareena Kapoor’s film with Prithviraj Sukumaran opens to ₹90 lakh | Bollywood",
-    "Why 'Dhurandhar' lost to 'Gondhal' in Oscar race; jury member reveals Ranveer Singh starrer got just 4 vo",
-    "Hanuman Ansh Box Office Collections: Historic sixth week beating Dhurandhar by more than three times, Cruising to Rs. 300 Cr"
+    "Daayra Box Office Collection Day 1: Kareena Kapoor, Prithviraj Sukumaran Film Falls Flat Amid Hanuman Ansh Wave",
+    "Rohit Shetty confirms Golmaal 5 cast; reveals release date with a ‘whistle-worthy’ motion poster",
+    "Vibe Movie Box Office Collection Day 1"
   ],
   "quiz": [
     {
-      "blanked": "Bomb attack at ______ mosque kills at least 31 people",
-      "answer": "Pakistan",
+      "blanked": "Dr Reddy’s, Takeda ______ To Distribute First Approved Dengue Vaccine In India",
+      "answer": "Partner",
       "options": [
-        "Pakistan",
-        "Box",
-        "Sensex",
-        "Upset"
+        "NATO",
+        "Partner",
+        "Kapoor",
+        "White"
       ]
     },
     {
-      "blanked": "Trump bans media outlets CNN, MS NOW, Politico from White ______",
-      "answer": "House",
+      "blanked": "Lenovo Legion 5i, Legion 5a and LOQ 15 launched in India with ______ 50 Series GPUs: Price, specs and more",
+      "answer": "RTX",
       "options": [
-        "Semiconductor",
-        "Health",
+        "RTX",
+        "Backing",
+        "HIVAIDS",
+        "Price"
+      ]
+    },
+    {
+      "blanked": "Nagaland launches ______ vaccination awareness initiative for adolescent girls",
+      "answer": "HPV",
+      "options": [
+        "Takeda",
+        "HPV",
+        "Endorses",
+        "HIVAIDS"
+      ]
+    },
+    {
+      "blanked": "‘Returning the bottle’: BJP’s Ravneet Bittu detained after protest near ______ convoy",
+      "answer": "Manns",
+      "options": [
+        "Sent",
+        "Manns",
         "House",
+        "Nearing"
+      ]
+    },
+    {
+      "blanked": "Pediatric ______ Conditions Face Major Follow-Up Gaps",
+      "answer": "Congenital",
+      "options": [
+        "IIT-Bombay",
+        "Mans",
+        "Congenital",
+        "2027"
+      ]
+    },
+    {
+      "blanked": "Vibe ______ Box Office Collection Day 1",
+      "answer": "Movie",
+      "options": [
+        "Peaks",
+        "Congenital",
+        "Gas",
+        "Movie"
+      ]
+    },
+    {
+      "blanked": "Remedy Honors the Late David Lynch in ______ Resonant With Powerful Twin Peaks Quote",
+      "answer": "Control",
+      "options": [
+        "Control",
+        "Gondhal",
+        "Arabia",
+        "Ravneet"
+      ]
+    },
+    {
+      "blanked": "Astronomers Spot Youngest Known ______ Still Whirling In Dust And Gas",
+      "answer": "Planet",
+      "options": [
+        "Sent",
+        "Planet",
+        "Payments",
+        "Capital"
+      ]
+    },
+    {
+      "blanked": "\"Good For NATO, Europe\": Denmark PM Endorses ______ Greenland Security Deal",
+      "answer": "Trumps",
+      "options": [
+        "Vaccine",
+        "Opening",
+        "Trumps",
         "Deal"
       ]
     },
     {
-      "blanked": "Hanuman Ansh Box Office Collections: Historic sixth week beating ______ by more than three times, Cruising to Rs. 300 Cr",
-      "answer": "Dhurandhar",
+      "blanked": "Trump bans media outlets CNN, MS ______ Politico from White House",
+      "answer": "NOW",
       "options": [
-        "Politico",
-        "Dhurandhar",
-        "Collections",
-        "Ashwini"
+        "Powerful",
+        "Back",
+        "NOW",
+        "Twin"
       ]
     },
     {
-      "blanked": "DUSU 2026 election results LIVE: ______ counting underway; ABVP's Yash Dabas, NSUI's Vijay Meena in presidential race | Hindustan Times",
-      "answer": "Vote",
+      "blanked": "PM ______ flags climate inequality, says developed nations' carbon emissions six times more",
+      "answer": "Modi",
       "options": [
-        "Linked",
-        "Sons",
-        "Vote",
-        "Pranati"
+        "2027",
+        "Modi",
+        "Gondhal",
+        "Got"
       ]
     },
     {
-      "blanked": "Why 'Dhurandhar' lost to 'Gondhal' in Oscar race; jury member reveals ______ Singh starrer got just 4 vo",
-      "answer": "Ranveer",
+      "blanked": "Murdered Delhi ______ Family Got His 'I'm Fine' Text. Killer Couple Sent It",
+      "answer": "Mans",
       "options": [
-        "How",
-        "Oscar",
-        "Box",
-        "Ranveer"
-      ]
-    },
-    {
-      "blanked": "MHA cites internal security issues to defend ______ tweak",
-      "answer": "FCRA",
-      "options": [
-        "FCRA",
-        "Kemmus",
-        "Nifty",
-        "Astronomy"
-      ]
-    },
-    {
-      "blanked": "Giri Saves Netherlands; Argentina, Iran Upset ______ France In Women's",
-      "answer": "Ukraine",
-      "options": [
-        "Launch",
-        "NATO",
-        "Asian",
-        "Ukraine"
-      ]
-    },
-    {
-      "blanked": "Trump extends push for ______ H-1B visas by another year",
-      "answer": "100000",
-      "options": [
-        "QDENGA",
-        "Congress",
-        "Historic",
-        "100000"
-      ]
-    },
-    {
-      "blanked": "Trump signs ______ sanctions bill into law",
-      "answer": "Russia",
-      "options": [
-        "Russia",
-        "MASLD",
-        "Gaps",
-        "Koli"
-      ]
-    },
-    {
-      "blanked": "Pediatric Congenital Conditions ______ Major Follow-Up Gaps",
-      "answer": "Face",
-      "options": [
-        "2026",
-        "Face",
-        "Lower",
-        "Greenland"
-      ]
-    },
-    {
-      "blanked": "Daayra box office collection day 1: ______ Kapoor’s film with Prithviraj Sukumaran opens to ₹90 lakh | Bollywood",
-      "answer": "Kareena",
-      "options": [
-        "Learning",
-        "Follow-Up",
-        "Cruising",
-        "Kareena"
-      ]
-    },
-    {
-      "blanked": "\"Good For NATO, Europe\": Denmark PM ______ Trump's Greenland Security Deal",
-      "answer": "Endorses",
-      "options": [
-        "Follow-Up",
-        "Ceremony",
-        "Honors",
-        "Endorses"
+        "Twin",
+        "Fight",
+        "Mans",
+        "Denmark"
       ]
     }
   ]
