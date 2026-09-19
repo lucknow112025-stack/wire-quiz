@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-09-19T01:21:12.791Z",
+  "generatedAt": "2026-09-19T06:11:23.628Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
     "Trump signs Russia sanctions bill into law",
-    "Congress' Nandigram Pick Arrested After Mamata Banerjee Announces Support",
-    "Mamata Banerjee loses symbol, party name, gains Congress support, CJP sympathy",
-    "Oil Futures Fall for Third Day on Easing Supply Concerns",
-    "Rs 14 cr in 9 days in just 1 state: The ever-expanding Modi celebration machine",
-    "Sonu Sood Takes A Dig At People Queuing Up For iPhone 18 In India: \"Real Upgrade Is A Better Society\"",
-    "Rajnath hails HAL for delivering 'three aviation platforms from one stage'",
-    "Joint Parliamentary Committee on Foreign Contribution (Regulation) Amendment Bill to hold its first meeting in New Delhi today",
-    "'Saw Dogs Eating Her': How Decomposed Body Of Delhi Rape Victim Was Found",
-    "Happy to see Gen Z discussing 'dharm': RSS chief Mohan Bhagwat",
-    "21 Killed In Suicide Bombing At Pak Mosque, Several Cops Among Victims",
-    "'Kill Switch' for AI: California Guv signs order to tighten oversight of AI companies",
-    "Five killed as Saudi Arabia and Yemen’s Houthis trade attacks",
-    "'Reporting fake news': Trump bars CNN, MS NOW, Politico from White House; threatens more bans",
+    "\"Good For NATO, Europe\": Denmark PM Endorses Trump's Greenland Security Deal",
+    "Second-year IIT-Bombay student dies by suicide after being caught using AI platform during exam",
+    "DUSU 2026 election results LIVE: Vote counting underway; ABVP's Yash Dabas, NSUI's Vijay Meena in presidential race | Hindustan Times",
+    "Surendra Koli, accused and acquitted in Nithari serial killings case, found hanging in Haridwar",
+    "Trump plans to greet Xi at airport on arrival, officials say",
+    "MHA cites internal security issues to defend FCRA tweak",
+    "Mamata moves Supreme Court against ECI’s freeze on Trinamool Congress symbol",
+    "Equal pay for equal work cannot be applied mechanically; experience must be considered: Supreme Court",
+    "Kerala High Court refuses interim bail to Reporter TV MD Anto Augustine",
+    "Trump extends push for $100,000 H-1B visas by another year",
+    "Trump bans media outlets CNN, MS NOW, Politico from White House",
+    "EXCLUSIVE: OpenAI's Sam Altman to brief UN Security Council next week",
+    "Bomb attack at Pakistan mosque kills at least 31 people",
     "Tata Sons: India's corporate crown braces for upheaval amid boardroom revolt",
     "On India's Semiconductor Aspirations, Ashwini Vaishnaw's Progress Report",
-    "India finds Nestle baby food sample substandard, takes legal action",
-    "NSE's $2.3 billion IPO fully subscribed, spotlight shifts to Sept. 24 debut",
+    "JPMorgan Gives Up Forecasting Iran War Endgame as Trump Tells Reporters ‘Anything Could Happen With Me’",
+    "Stock Market Highlights: Nifty Settles Below 23,350, Sensex Ends Marginally Lower",
+    "In India, the new iPhone can arrive faster than a pizza",
     "Lenovo Legion 5i, Legion 5a and LOQ 15 launched in India with RTX 50 Series GPUs: Price, specs and more",
-    "'Reheating our leftovers': Rivals use iPhone Duo buzz in advertising",
     "Remedy Honors the Late David Lynch in Control Resonant With Powerful Twin Peaks Quote",
-    "I Got the Inside Scoop on Apple’s New Health App, Now in Developer Beta",
-    "‘Lust Stories 3’ Movie Review: Third Time’s Almost A Charm",
-    "Daayra box office collection day 1: Kareena Kapoor’s film records lowest opening of her career | Bollywood",
-    "Mirzapur The Movie Box Office Collections: Ali Fazal, Pankaj Tripathi, Divyenndu starrer has a good 2nd week, To cross Rs. 200 Cr today"
+    "Fungus found evolving resistance to drug meant for humans",
+    "Daayra box office collection day 1: Kareena Kapoor’s film with Prithviraj Sukumaran opens to ₹90 lakh | Bollywood",
+    "Why 'Dhurandhar' lost to 'Gondhal' in Oscar race; jury member reveals Ranveer Singh starrer got just 4 vo",
+    "Hanuman Ansh Box Office Collections: Historic sixth week beating Dhurandhar by more than three times, Cruising to Rs. 300 Cr"
   ],
   "quiz": [
     {
-      "blanked": "India finds ______ baby food sample substandard, takes legal action",
-      "answer": "Nestle",
+      "blanked": "Bomb attack at ______ mosque kills at least 31 people",
+      "answer": "Pakistan",
       "options": [
-        "Nestle",
-        "Gen",
-        "Decomposed",
-        "Preview"
+        "Pakistan",
+        "Box",
+        "Sensex",
+        "Upset"
       ]
     },
     {
-      "blanked": "'Reheating our leftovers': Rivals use iPhone ______ buzz in advertising",
-      "answer": "Duo",
-      "options": [
-        "Vaishnaws",
-        "Now",
-        "Duo",
-        "Times"
-      ]
-    },
-    {
-      "blanked": "NSE's ______ billion IPO fully subscribed, spotlight shifts to Sept. 24 debut",
-      "answer": "2.3",
-      "options": [
-        "2.3",
-        "Ink",
-        "Inside",
-        "Foreign"
-      ]
-    },
-    {
-      "blanked": "NASA’s ______ Space Telescope could last more than twice as long as planned",
-      "answer": "Roman",
-      "options": [
-        "Ali",
-        "Face",
-        "Russia",
-        "Roman"
-      ]
-    },
-    {
-      "blanked": "Sonu ______ Takes A Dig At People Queuing Up For iPhone 18 In India: \"Real Upgrade Is A Better Society\"",
-      "answer": "Sood",
-      "options": [
-        "House",
-        "Twin",
-        "2026",
-        "Sood"
-      ]
-    },
-    {
-      "blanked": "Head's blazing century sets up series win for ______",
-      "answer": "Australia",
-      "options": [
-        "House",
-        "Pankaj",
-        "Announces",
-        "Australia"
-      ]
-    },
-    {
-      "blanked": "'Reporting fake news': ______ bars CNN, MS NOW, Politico from White House; threatens more bans",
-      "answer": "Trump",
-      "options": [
-        "House",
-        "Trump",
-        "Mohan",
-        "Third"
-      ]
-    },
-    {
-      "blanked": "Five killed as Saudi Arabia and ______ Houthis trade attacks",
-      "answer": "Yemens",
+      "blanked": "Trump bans media outlets CNN, MS NOW, Politico from White ______",
+      "answer": "House",
       "options": [
         "Semiconductor",
-        "Debut",
-        "Powerful",
-        "Yemens"
+        "Health",
+        "House",
+        "Deal"
       ]
     },
     {
-      "blanked": "Tata Sons: ______ corporate crown braces for upheaval amid boardroom revolt",
-      "answer": "Indias",
+      "blanked": "Hanuman Ansh Box Office Collections: Historic sixth week beating ______ by more than three times, Cruising to Rs. 300 Cr",
+      "answer": "Dhurandhar",
       "options": [
-        "Several",
-        "Pick",
-        "Indias",
-        "Semiconductor"
+        "Politico",
+        "Dhurandhar",
+        "Collections",
+        "Ashwini"
       ]
     },
     {
-      "blanked": "On ______ Semiconductor Aspirations, Ashwini Vaishnaw's Progress Report",
-      "answer": "Indias",
+      "blanked": "DUSU 2026 election results LIVE: ______ counting underway; ABVP's Yash Dabas, NSUI's Vijay Meena in presidential race | Hindustan Times",
+      "answer": "Vote",
       "options": [
-        "Indias",
-        "Takeda",
-        "Queuing",
-        "App"
+        "Linked",
+        "Sons",
+        "Vote",
+        "Pranati"
       ]
     },
     {
-      "blanked": "Asian ______ 2026 India schedule today, September 19: Opening Ceremony, Quimcy Dsouza in teqball on agenda",
-      "answer": "Games",
+      "blanked": "Why 'Dhurandhar' lost to 'Gondhal' in Oscar race; jury member reveals ______ Singh starrer got just 4 vo",
+      "answer": "Ranveer",
       "options": [
-        "Cops",
-        "Mohan",
-        "Games",
-        "Rivals"
+        "How",
+        "Oscar",
+        "Box",
+        "Ranveer"
       ]
     },
     {
-      "blanked": "21 Killed In Suicide Bombing At Pak ______ Several Cops Among Victims",
-      "answer": "Mosque",
+      "blanked": "MHA cites internal security issues to defend ______ tweak",
+      "answer": "FCRA",
       "options": [
-        "Mohan",
-        "David",
-        "Mosque",
-        "BCCI"
+        "FCRA",
+        "Kemmus",
+        "Nifty",
+        "Astronomy"
+      ]
+    },
+    {
+      "blanked": "Giri Saves Netherlands; Argentina, Iran Upset ______ France In Women's",
+      "answer": "Ukraine",
+      "options": [
+        "Launch",
+        "NATO",
+        "Asian",
+        "Ukraine"
+      ]
+    },
+    {
+      "blanked": "Trump extends push for ______ H-1B visas by another year",
+      "answer": "100000",
+      "options": [
+        "QDENGA",
+        "Congress",
+        "Historic",
+        "100000"
+      ]
+    },
+    {
+      "blanked": "Trump signs ______ sanctions bill into law",
+      "answer": "Russia",
+      "options": [
+        "Russia",
+        "MASLD",
+        "Gaps",
+        "Koli"
+      ]
+    },
+    {
+      "blanked": "Pediatric Congenital Conditions ______ Major Follow-Up Gaps",
+      "answer": "Face",
+      "options": [
+        "2026",
+        "Face",
+        "Lower",
+        "Greenland"
+      ]
+    },
+    {
+      "blanked": "Daayra box office collection day 1: ______ Kapoor’s film with Prithviraj Sukumaran opens to ₹90 lakh | Bollywood",
+      "answer": "Kareena",
+      "options": [
+        "Learning",
+        "Follow-Up",
+        "Cruising",
+        "Kareena"
+      ]
+    },
+    {
+      "blanked": "\"Good For NATO, Europe\": Denmark PM ______ Trump's Greenland Security Deal",
+      "answer": "Endorses",
+      "options": [
+        "Follow-Up",
+        "Ceremony",
+        "Honors",
+        "Endorses"
       ]
     }
   ]
