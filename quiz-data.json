@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-09-19T14:11:09.151Z",
+  "generatedAt": "2026-09-19T17:16:25.970Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "DUSU 2026 election results LIVE: ABVP sweeps DUSU polls, secures 3 posts, Independent Deepanshu Shokeen wins VP seat | Hindustan Times",
+    "Trump signs H-1B order targeting employers that lay off Americans, tighten scrutiny of foreign hires | Hindustan Times",
+    "Arvind Kejriwal Missing From Delhi Voter List, Claims AAP. Poll Body Official Responds",
+    "IIT Bombay student found dead in hostel; institute says had been caught using mobile phone during exam",
     "Trump signs Russia sanctions bill authorising up to 100% tariffs on India, China",
-    "Trump extends push for $100,000 H-1B visas by another year",
-    "Nandigram bypoll: Congress candidate facing 19-year-old murder, rioting cases to be produced in court",
-    "Houthis accuse Saudi Arabia of launching 26 attacks in 24 hours",
+    "ABVP wins 3 DUSU posts; independent candidate Deepanshu Shokeen gets vice-president’s position",
     "\"Good For NATO, Europe\": Denmark PM Endorses Trump's Greenland Security Deal",
-    "Supreme Court Is A Banyan Tree Of Environmental Justice, Roots Deep In Civilisation & Branches Protecting ...",
-    "Bengaluru East Corporation orders urgent pothole fixes on Gunjur, Varthur roads",
-    "‘Will take body to campus, won’t leave’: Father demands arrests in IIT-Bombay student suicide",
-    "Another Delhi-NCR shocker: Speeding car hits multiple people in Greater Noida, driver arrested",
-    "Smoke at Riyadh airport as Saudi capital issues first air raid alert amid renewed Yemen fighting",
-    "'Reporting fake news': Trump bars CNN, MS NOW, Politico from White House; threatens more bans",
-    "'He's paying him back': Trump defends Russian oligarch funding his son's Bahamas wedding",
-    "Trump plans to greet Xi at airport on arrival, officials say",
-    "\"UPI Payment Will Not Be Accepted\": Ghaziabad Traders Put Up Notices Over MDR",
-    "Country To Get Its First Precision Manufacturing Institute, Announces Ashwini Vaishnaw",
+    "Burden Of Carbon Emissions Unfairly Put On Developing Countries : PM Modi",
+    "Amit Shah skips KLE Hospital inauguration ceremony due to ill health",
+    "'I knew this was the end of my career': Ajit Doval recalls when his agents were captured by China",
+    "‘Jhooth Ki Goonj’ posters surface in Indore ahead of Rahul Gandhi’s student event",
+    "US-China talks: Trade truce, AI, Iran, rare earths in focus ahead of Trump-Xi summit",
+    "Russia should respond to US sanctions with 'military deterrence': Dmitry Medvedev",
+    "US clears way for $2.7 billion sale to Ukraine of air-defense development upgrades",
+    "Trump bans media outlets CNN, MS NOW, Politico from White House",
+    "LPG Aadhaar rule from October 1: Authentication mandatory for subsidised gas refills; how to complete pro",
     "Maruti Finally Introduces AMT With CNG In Baleno, Swift & Dzire!",
-    "Blackstone Sees India Nearing Tipping Point for Foreign Capital",
+    "Dalal Street Week Ahead: Can Nifty defend the 23,000 support zone?",
+    "‘They called it a gift, then I sat with the gazette’: Prakash Raj on UPI fee",
     "In India, the new iPhone can arrive faster than a pizza",
-    "Lenovo Legion 5i, Legion 5a and LOQ 15 launched in India with RTX 50 Series GPUs: Price, specs and more",
+    "Battery Replacement Has Gotten Pricier for Apple’s Latest iPhone 18 Pro Models",
+    "Lenovo Launches Amazon Japan-Exclusive Desktop PC with RTX 5060 Ti, Outperforming Official Store Models",
     "Remedy Honors the Late David Lynch in Control Resonant With Powerful Twin Peaks Quote",
-    "OnePlus 16 shows up on Geekbench 7 with Snapdragon 8 Elite Gen 6 Pro chipset - GSMArena.com news",
     "Daayra Box Office Collection Day 1: Kareena Kapoor, Prithviraj Sukumaran Film Falls Flat Amid Hanuman Ansh Wave",
-    "Deepika Padukone and Ranveer Singh's temple visit sparks buzz about 'Baby no 2 coming soon'; fans wish ac",
-    "Marathi film 'Gondhal' is India's pick for Oscars 2027"
+    "Deepika Padukone, Ranveer Singh become parents for second time, welcome baby girl",
+    "Cine star Manju Warrier files defamation suit against filmmaker Sanal Kumar Sasidharan"
   ],
   "quiz": [
     {
-      "blanked": "Another ______ shocker: Speeding car hits multiple people in Greater Noida, driver arrested",
-      "answer": "Delhi-NCR",
+      "blanked": "\"Good For NATO, ______ Denmark PM Endorses Trump's Greenland Security Deal",
+      "answer": "Europe",
       "options": [
-        "Quote",
-        "Delhi-NCR",
-        "Gunjur",
-        "Hindustan"
+        "Europe",
+        "Authentication",
+        "Nifty",
+        "NATO"
       ]
     },
     {
-      "blanked": "Asian Games ______ India schedule today, September 19: Opening Ceremony, Quimcy Dsouza in teqball on agenda",
-      "answer": "2026",
+      "blanked": "Amit Shah skips KLE ______ inauguration ceremony due to ill health",
+      "answer": "Hospital",
       "options": [
-        "Boss",
+        "Put",
         "Finally",
-        "Series",
-        "2026"
+        "Responds",
+        "Hospital"
       ]
     },
     {
-      "blanked": "'Reporting fake news': Trump bars CNN, MS NOW, ______ from White House; threatens more bans",
-      "answer": "Politico",
+      "blanked": "Deepika Padukone, Ranveer ______ become parents for second time, welcome baby girl",
+      "answer": "Singh",
       "options": [
-        "Notices",
-        "Politico",
-        "Nearing",
+        "Singh",
+        "Trumps",
+        "Control",
         "Day"
       ]
     },
     {
-      "blanked": "Measles: Death toll reaches ______ as 5 more children die in 24 hours",
-      "answer": "1053",
+      "blanked": "Nagaland launches ______ vaccination awareness initiative for adolescent girls",
+      "answer": "HPV",
       "options": [
-        "Arabia",
-        "Bayern",
-        "Control",
-        "1053"
-      ]
-    },
-    {
-      "blanked": "Aneurysm Treatment Timing ______ to Show Clear Benefit",
-      "answer": "Fails",
-      "options": [
-        "Semi-Finals",
-        "Resonant",
-        "Fails",
-        "Twin"
-      ]
-    },
-    {
-      "blanked": "Match ______ from Bayern Munich’s 7-0 obliteration of Union Berlin",
-      "answer": "Awards",
-      "options": [
-        "Protecting",
-        "ABVP",
-        "Loses",
-        "Awards"
-      ]
-    },
-    {
-      "blanked": "70-year-old loggerhead Turtle rescued after swimming in circles off Florida Keys: ______ left her...",
-      "answer": "What",
-      "options": [
-        "Put",
-        "What",
-        "Boss",
+        "HPV",
+        "Gotten",
+        "Ahead",
         "100%"
       ]
     },
     {
-      "blanked": "Daayra Box Office Collection Day 1: Kareena Kapoor, Prithviraj Sukumaran Film Falls Flat Amid Hanuman Ansh ______",
-      "answer": "Wave",
+      "blanked": "Asian Games ______ highlights: Japan’s Emperor opens edition in colourful opening ceremony",
+      "answer": "2026",
       "options": [
-        "Wave",
         "2026",
-        "Flat",
-        "Price"
-      ]
-    },
-    {
-      "blanked": "Houthis accuse Saudi ______ of launching 26 attacks in 24 hours",
-      "answer": "Arabia",
-      "options": [
-        "Union",
-        "Russia",
-        "Yemen",
-        "Arabia"
-      ]
-    },
-    {
-      "blanked": "Blackstone Sees India Nearing Tipping ______ for Foreign Capital",
-      "answer": "Point",
-      "options": [
-        "Point",
-        "Precision",
-        "Introduces",
-        "East"
-      ]
-    },
-    {
-      "blanked": "Remedy Honors the Late David Lynch in ______ Resonant With Powerful Twin Peaks Quote",
-      "answer": "Control",
-      "options": [
-        "Treatment",
-        "White",
-        "Clear",
+        "CNG",
+        "Dzire",
         "Control"
       ]
     },
     {
-      "blanked": "Marathi film 'Gondhal' is India's pick for Oscars ______",
-      "answer": "2027",
+      "blanked": "Trump signs Russia sanctions bill authorising up to 100% tariffs on India, ______",
+      "answer": "China",
       "options": [
-        "Kapoor",
-        "Independent",
-        "2027",
-        "Wave"
+        "China",
+        "Indian",
+        "Week",
+        "CNG"
+      ]
+    },
+    {
+      "blanked": "US-China talks: Trade truce, AI, ______ rare earths in focus ahead of Trump-Xi summit",
+      "answer": "Iran",
+      "options": [
+        "Official",
+        "Missing",
+        "Hospital",
+        "Iran"
+      ]
+    },
+    {
+      "blanked": "Trump signs H-1B order targeting employers that lay off ______ tighten scrutiny of foreign hires | Hindustan Times",
+      "answer": "Americans",
+      "options": [
+        "Ahead",
+        "Falls",
+        "Americans",
+        "Flat"
+      ]
+    },
+    {
+      "blanked": "‘They called it a gift, then I sat with the gazette’: Prakash ______ on UPI fee",
+      "answer": "Raj",
+      "options": [
+        "Raj",
+        "Russian",
+        "RTX",
+        "Bombay"
+      ]
+    },
+    {
+      "blanked": "‘Jhooth Ki ______ posters surface in Indore ahead of Rahul Gandhi’s student event",
+      "answer": "Goonj",
+      "options": [
+        "5060",
+        "Denmark",
+        "Goonj",
+        "2027"
+      ]
+    },
+    {
+      "blanked": "Russia should respond to US sanctions with 'military deterrence': ______ Medvedev",
+      "answer": "Dmitry",
+      "options": [
+        "Keys",
+        "Ranveer",
+        "Dmitry",
+        "Khan"
+      ]
+    },
+    {
+      "blanked": "Salman Khan removes his hat and jacket during Bigg Boss 20, lashes out at troll culture: ‘What is this mentality?’ | ______",
+      "answer": "Bollywood",
+      "options": [
+        "Indian",
+        "Bollywood",
+        "Reddys",
+        "Deal"
       ]
     }
   ]
