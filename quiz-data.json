@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-09-19T19:26:30.231Z",
+  "generatedAt": "2026-09-19T21:35:41.352Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
+    "IIT Bombay faculty member booked for caste abuse, suicide abetment",
+    "Trump says he will appoint a new AI adviser, without providing details",
+    "Trump signs H-1B order targeting employers that lay off Americans, tighten scrutiny of foreign hires | Hindustan Times",
     "ABVP wins 3 DUSU posts; independent candidate Deepanshu Shokeen gets vice-president’s position",
-    "Trump says he will create 'AI Force,' name AI czar",
-    "\"He Was Harassed, Killed\": Mother Of IIT Bombay Student Who Died By Suicide",
     "Arvind Kejriwal Missing From Delhi Voter List, Claims AAP. Poll Body Official Responds",
-    "'Major problems' at Riyadh airport, with flights cancelled, delayed: Flightradar24",
     "\"Good For NATO, Europe\": Denmark PM Endorses Trump's Greenland Security Deal",
-    "‘Jhooth Ki Goonj’ posters surface in Indore ahead of Rahul Gandhi’s student event",
+    "‘Six people run the system’: Rahul Gandhi targets PM Modi, Amit Shah, Ajit Doval at at Indore student event",
     "'I knew this was the end of my career': Ajit Doval recalls when his agents were captured by China",
-    "Why Hilsa Breeding Grounds Are Shifting From Bengal To Gujarat",
+    "FTAs creating new markets, career opportunities for India's youth, says PM Modi",
     "Burden Of Carbon Emissions Unfairly Put On Developing Countries : PM Modi",
-    "Trump Extends H-1B Visa Restrictions, $100,000 Fee Plan By Another Year",
-    "US clears way for $2.7 billion sale to Ukraine of air-defense development upgrades",
-    "Trump signs Russia sanctions bill authorising up to 100% tariffs on India, China",
-    "'Reporting fake news': Trump bars CNN, MS NOW, Politico from White House; threatens more bans",
+    "After Fire Near Riyadh Airport, Houthis Say They Targeted \"Sensitive Sites\"",
+    "Israeli attacks kill four Palestinians including son of Gaza’s health chief",
+    "'No one can afford this': Exporters flag concern over possible 100% US tariffs on India",
+    "Iran gives US 3 conditions to restart talks, says ‘Trump’s threats will not achieve results’",
     "LPG Aadhaar rule from October 1: Authentication mandatory for subsidised gas refills; how to complete pro",
     "Dalal Street Week Ahead: Can Nifty defend the 23,000 support zone?",
     "Tata Board Mutiny Leaves Patriarch Little Choice But to Litigate",
     "What Should Young India Look Forward To In 5 Years? Ashwini Vaishnaw Answers",
-    "Deals: the iPhone 18 Pros are now available, but iPhone 17 Pro and Galaxy S26 models are cheaper - GSMArena.com news",
-    "Here’s how much iPhone 18 Pro and Pro Max repairs will cost you",
+    "Apple iPhone 18 Pro models see launch-day frenzy; fans loosen purse strings",
     "Lenovo Launches Amazon Japan-Exclusive Desktop PC with RTX 5060 Ti, Outperforming Official Store Models",
     "The ‘Control Resonant’ Metacritic Review Score Has Finalized With GOTY Potential",
-    "Angry Salman Khan removes shirt during Bigg Boss 20, shuts down trolls commenting on his age: ‘Pehle apne aap ko dekho’ | Bollywood",
+    "Active Garena Free Fire MAX Redeem Codes for September 19, 2026: Here is your weekend supply drop",
+    "Salman Khan lashes out at internet trolls amid Katrina Kaif’s postpartum weight comments; says ‘Kisi Ke M",
     "Deepika Padukone, Ranveer Singh become parents for second time, welcome baby girl",
     "Daayra Box Office Collection Day 1: Kareena Kapoor, Prithviraj Sukumaran Film Falls Flat Amid Hanuman Ansh Wave"
   ],
   "quiz": [
     {
-      "blanked": "Trump signs Russia sanctions bill authorising up to 100% tariffs on India, ______",
-      "answer": "China",
+      "blanked": "Aneurysm Treatment Timing ______ to Show Clear Benefit",
+      "answer": "Fails",
       "options": [
-        "2026",
-        "Developing",
-        "Delhi",
-        "China"
-      ]
-    },
-    {
-      "blanked": "LPG Aadhaar rule from ______ 1: Authentication mandatory for subsidised gas refills; how to complete pro",
-      "answer": "October",
-      "options": [
-        "October",
-        "Look",
-        "Claims",
-        "Models"
-      ]
-    },
-    {
-      "blanked": "Arvind Kejriwal Missing From Delhi Voter ______ Claims AAP. Poll Body Official Responds",
-      "answer": "List",
-      "options": [
+        "Hanuman",
         "Fails",
-        "Indore",
-        "List",
+        "Near",
+        "September"
+      ]
+    },
+    {
+      "blanked": "In 2018, a ______ bioprinter made human cartilage tissue in orbit; years later, NASA printed human heart",
+      "answer": "Russian",
+      "options": [
+        "23000",
+        "Trophy",
+        "Russian",
+        "Voter"
+      ]
+    },
+    {
+      "blanked": "ABVP wins 3 ______ posts; independent candidate Deepanshu Shokeen gets vice-president’s position",
+      "answer": "DUSU",
+      "options": [
+        "Exporters",
+        "Black",
+        "DUSU",
+        "Sukumaran"
+      ]
+    },
+    {
+      "blanked": "What Should Young ______ Look Forward To In 5 Years? Ashwini Vaishnaw Answers",
+      "answer": "India",
+      "options": [
+        "Claims",
+        "India",
+        "Rahul",
         "Treatment"
       ]
     },
     {
-      "blanked": "Curtin ______ Finds A Black Hole’s ‘burp’ Timing Doesn’t Depend On Size.",
-      "answer": "University",
+      "blanked": "Dalal Street ______ Ahead: Can Nifty defend the 23,000 support zone?",
+      "answer": "Week",
       "options": [
-        "Galaxy",
-        "First",
-        "Rahul",
-        "University"
-      ]
-    },
-    {
-      "blanked": "IOA acknowledges clothing issue as Indian men's cricketers face setback ahead of departure for Asian Games: Report | ______",
-      "answer": "Cricket",
-      "options": [
-        "Modi",
-        "Cricket",
-        "Kareena",
-        "Died"
-      ]
-    },
-    {
-      "blanked": "Trump ______ H-1B Visa Restrictions, $100,000 Fee Plan By Another Year",
-      "answer": "Extends",
-      "options": [
-        "Extends",
+        "DUSU",
         "Young",
-        "Film",
-        "5060"
+        "Week",
+        "Shokeen"
       ]
     },
     {
-      "blanked": "Why Hilsa ______ Grounds Are Shifting From Bengal To Gujarat",
-      "answer": "Breeding",
+      "blanked": "Active Garena Free Fire MAX Redeem ______ for September 19, 2026: Here is your weekend supply drop",
+      "answer": "Codes",
       "options": [
-        "Years",
-        "Breeding",
-        "Responds",
+        "Codes",
+        "Board",
+        "Hindustan",
+        "Cricket"
+      ]
+    },
+    {
+      "blanked": "Salman Khan lashes out at internet trolls amid Katrina ______ postpartum weight comments; says ‘Kisi Ke M",
+      "answer": "Kaifs",
+      "options": [
+        "Endorses",
+        "Authentication",
+        "Desktop",
+        "Kaifs"
+      ]
+    },
+    {
+      "blanked": "Arvind Kejriwal Missing From Delhi Voter List, Claims AAP. Poll ______ Official Responds",
+      "answer": "Body",
+      "options": [
+        "Body",
+        "University",
+        "Official",
+        "Hindustan"
+      ]
+    },
+    {
+      "blanked": "Daayra Box Office Collection Day 1: Kareena Kapoor, Prithviraj ______ Film Falls Flat Amid Hanuman Ansh Wave",
+      "answer": "Sukumaran",
+      "options": [
+        "Sukumaran",
+        "Desktop",
+        "Houthis",
         "Amazon"
       ]
     },
     {
-      "blanked": "England bowl first in bid for series clean sweep against Sri ______",
-      "answer": "Lanka",
+      "blanked": "FTAs creating new markets, career opportunities for India's youth, says PM ______",
+      "answer": "Modi",
       "options": [
-        "Litigate",
-        "Lanka",
-        "Launches",
-        "Greenland"
+        "Modi",
+        "Riyadh",
+        "MAX",
+        "Here"
       ]
     },
     {
-      "blanked": "Angry Salman Khan removes shirt during Bigg Boss 20, shuts down trolls commenting on his age: ______ apne aap ko dekho’ | Bollywood",
-      "answer": "Pehle",
+      "blanked": "After Fire Near Riyadh Airport, Houthis Say ______ Targeted \"Sensitive Sites\"",
+      "answer": "They",
       "options": [
+        "Patriarch",
+        "They",
+        "Shah",
+        "Singh"
+      ]
+    },
+    {
+      "blanked": "Iran gives US 3 conditions to restart talks, says ______ threats will not achieve results’",
+      "answer": "Trumps",
+      "options": [
+        "Should",
         "Trumps",
-        "House",
-        "Greenland",
-        "Pehle"
-      ]
-    },
-    {
-      "blanked": "'We all waited for like 6 hours to get a room': D Gukesh explains why ______ Erigaisi lost in Chess Olympi",
-      "answer": "Arjun",
-      "options": [
-        "Galaxy",
-        "Finalized",
-        "Arjun",
-        "Treatment"
-      ]
-    },
-    {
-      "blanked": "Trump says he will create 'AI ______ name AI czar",
-      "answer": "Force",
-      "options": [
-        "Board",
-        "Gukesh",
-        "Force",
-        "Answers"
-      ]
-    },
-    {
-      "blanked": "The ‘Control Resonant’ Metacritic ______ Score Has Finalized With GOTY Potential",
-      "answer": "Review",
-      "options": [
-        "Plan",
-        "Bengal",
-        "Can",
-        "Review"
+        "Aadhaar",
+        "Put"
       ]
     }
   ]
