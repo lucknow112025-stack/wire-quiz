@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-09-19T17:16:25.970Z",
+  "generatedAt": "2026-09-19T19:26:30.231Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "Trump signs H-1B order targeting employers that lay off Americans, tighten scrutiny of foreign hires | Hindustan Times",
-    "Arvind Kejriwal Missing From Delhi Voter List, Claims AAP. Poll Body Official Responds",
-    "IIT Bombay student found dead in hostel; institute says had been caught using mobile phone during exam",
-    "Trump signs Russia sanctions bill authorising up to 100% tariffs on India, China",
     "ABVP wins 3 DUSU posts; independent candidate Deepanshu Shokeen gets vice-president’s position",
+    "Trump says he will create 'AI Force,' name AI czar",
+    "\"He Was Harassed, Killed\": Mother Of IIT Bombay Student Who Died By Suicide",
+    "Arvind Kejriwal Missing From Delhi Voter List, Claims AAP. Poll Body Official Responds",
+    "'Major problems' at Riyadh airport, with flights cancelled, delayed: Flightradar24",
     "\"Good For NATO, Europe\": Denmark PM Endorses Trump's Greenland Security Deal",
-    "Burden Of Carbon Emissions Unfairly Put On Developing Countries : PM Modi",
-    "Amit Shah skips KLE Hospital inauguration ceremony due to ill health",
-    "'I knew this was the end of my career': Ajit Doval recalls when his agents were captured by China",
     "‘Jhooth Ki Goonj’ posters surface in Indore ahead of Rahul Gandhi’s student event",
-    "US-China talks: Trade truce, AI, Iran, rare earths in focus ahead of Trump-Xi summit",
-    "Russia should respond to US sanctions with 'military deterrence': Dmitry Medvedev",
+    "'I knew this was the end of my career': Ajit Doval recalls when his agents were captured by China",
+    "Why Hilsa Breeding Grounds Are Shifting From Bengal To Gujarat",
+    "Burden Of Carbon Emissions Unfairly Put On Developing Countries : PM Modi",
+    "Trump Extends H-1B Visa Restrictions, $100,000 Fee Plan By Another Year",
     "US clears way for $2.7 billion sale to Ukraine of air-defense development upgrades",
-    "Trump bans media outlets CNN, MS NOW, Politico from White House",
+    "Trump signs Russia sanctions bill authorising up to 100% tariffs on India, China",
+    "'Reporting fake news': Trump bars CNN, MS NOW, Politico from White House; threatens more bans",
     "LPG Aadhaar rule from October 1: Authentication mandatory for subsidised gas refills; how to complete pro",
-    "Maruti Finally Introduces AMT With CNG In Baleno, Swift & Dzire!",
     "Dalal Street Week Ahead: Can Nifty defend the 23,000 support zone?",
-    "‘They called it a gift, then I sat with the gazette’: Prakash Raj on UPI fee",
-    "In India, the new iPhone can arrive faster than a pizza",
-    "Battery Replacement Has Gotten Pricier for Apple’s Latest iPhone 18 Pro Models",
+    "Tata Board Mutiny Leaves Patriarch Little Choice But to Litigate",
+    "What Should Young India Look Forward To In 5 Years? Ashwini Vaishnaw Answers",
+    "Deals: the iPhone 18 Pros are now available, but iPhone 17 Pro and Galaxy S26 models are cheaper - GSMArena.com news",
+    "Here’s how much iPhone 18 Pro and Pro Max repairs will cost you",
     "Lenovo Launches Amazon Japan-Exclusive Desktop PC with RTX 5060 Ti, Outperforming Official Store Models",
-    "Remedy Honors the Late David Lynch in Control Resonant With Powerful Twin Peaks Quote",
-    "Daayra Box Office Collection Day 1: Kareena Kapoor, Prithviraj Sukumaran Film Falls Flat Amid Hanuman Ansh Wave",
+    "The ‘Control Resonant’ Metacritic Review Score Has Finalized With GOTY Potential",
+    "Angry Salman Khan removes shirt during Bigg Boss 20, shuts down trolls commenting on his age: ‘Pehle apne aap ko dekho’ | Bollywood",
     "Deepika Padukone, Ranveer Singh become parents for second time, welcome baby girl",
-    "Cine star Manju Warrier files defamation suit against filmmaker Sanal Kumar Sasidharan"
+    "Daayra Box Office Collection Day 1: Kareena Kapoor, Prithviraj Sukumaran Film Falls Flat Amid Hanuman Ansh Wave"
   ],
   "quiz": [
-    {
-      "blanked": "\"Good For NATO, ______ Denmark PM Endorses Trump's Greenland Security Deal",
-      "answer": "Europe",
-      "options": [
-        "Europe",
-        "Authentication",
-        "Nifty",
-        "NATO"
-      ]
-    },
-    {
-      "blanked": "Amit Shah skips KLE ______ inauguration ceremony due to ill health",
-      "answer": "Hospital",
-      "options": [
-        "Put",
-        "Finally",
-        "Responds",
-        "Hospital"
-      ]
-    },
-    {
-      "blanked": "Deepika Padukone, Ranveer ______ become parents for second time, welcome baby girl",
-      "answer": "Singh",
-      "options": [
-        "Singh",
-        "Trumps",
-        "Control",
-        "Day"
-      ]
-    },
-    {
-      "blanked": "Nagaland launches ______ vaccination awareness initiative for adolescent girls",
-      "answer": "HPV",
-      "options": [
-        "HPV",
-        "Gotten",
-        "Ahead",
-        "100%"
-      ]
-    },
-    {
-      "blanked": "Asian Games ______ highlights: Japan’s Emperor opens edition in colourful opening ceremony",
-      "answer": "2026",
-      "options": [
-        "2026",
-        "CNG",
-        "Dzire",
-        "Control"
-      ]
-    },
     {
       "blanked": "Trump signs Russia sanctions bill authorising up to 100% tariffs on India, ______",
       "answer": "China",
       "options": [
-        "China",
-        "Indian",
-        "Week",
-        "CNG"
+        "2026",
+        "Developing",
+        "Delhi",
+        "China"
       ]
     },
     {
-      "blanked": "US-China talks: Trade truce, AI, ______ rare earths in focus ahead of Trump-Xi summit",
-      "answer": "Iran",
+      "blanked": "LPG Aadhaar rule from ______ 1: Authentication mandatory for subsidised gas refills; how to complete pro",
+      "answer": "October",
       "options": [
-        "Official",
-        "Missing",
-        "Hospital",
-        "Iran"
+        "October",
+        "Look",
+        "Claims",
+        "Models"
       ]
     },
     {
-      "blanked": "Trump signs H-1B order targeting employers that lay off ______ tighten scrutiny of foreign hires | Hindustan Times",
-      "answer": "Americans",
+      "blanked": "Arvind Kejriwal Missing From Delhi Voter ______ Claims AAP. Poll Body Official Responds",
+      "answer": "List",
       "options": [
-        "Ahead",
-        "Falls",
-        "Americans",
-        "Flat"
+        "Fails",
+        "Indore",
+        "List",
+        "Treatment"
       ]
     },
     {
-      "blanked": "‘They called it a gift, then I sat with the gazette’: Prakash ______ on UPI fee",
-      "answer": "Raj",
+      "blanked": "Curtin ______ Finds A Black Hole’s ‘burp’ Timing Doesn’t Depend On Size.",
+      "answer": "University",
       "options": [
-        "Raj",
-        "Russian",
-        "RTX",
-        "Bombay"
+        "Galaxy",
+        "First",
+        "Rahul",
+        "University"
       ]
     },
     {
-      "blanked": "‘Jhooth Ki ______ posters surface in Indore ahead of Rahul Gandhi’s student event",
-      "answer": "Goonj",
+      "blanked": "IOA acknowledges clothing issue as Indian men's cricketers face setback ahead of departure for Asian Games: Report | ______",
+      "answer": "Cricket",
       "options": [
-        "5060",
-        "Denmark",
-        "Goonj",
-        "2027"
+        "Modi",
+        "Cricket",
+        "Kareena",
+        "Died"
       ]
     },
     {
-      "blanked": "Russia should respond to US sanctions with 'military deterrence': ______ Medvedev",
-      "answer": "Dmitry",
+      "blanked": "Trump ______ H-1B Visa Restrictions, $100,000 Fee Plan By Another Year",
+      "answer": "Extends",
       "options": [
-        "Keys",
-        "Ranveer",
-        "Dmitry",
-        "Khan"
+        "Extends",
+        "Young",
+        "Film",
+        "5060"
       ]
     },
     {
-      "blanked": "Salman Khan removes his hat and jacket during Bigg Boss 20, lashes out at troll culture: ‘What is this mentality?’ | ______",
-      "answer": "Bollywood",
+      "blanked": "Why Hilsa ______ Grounds Are Shifting From Bengal To Gujarat",
+      "answer": "Breeding",
       "options": [
-        "Indian",
-        "Bollywood",
-        "Reddys",
-        "Deal"
+        "Years",
+        "Breeding",
+        "Responds",
+        "Amazon"
+      ]
+    },
+    {
+      "blanked": "England bowl first in bid for series clean sweep against Sri ______",
+      "answer": "Lanka",
+      "options": [
+        "Litigate",
+        "Lanka",
+        "Launches",
+        "Greenland"
+      ]
+    },
+    {
+      "blanked": "Angry Salman Khan removes shirt during Bigg Boss 20, shuts down trolls commenting on his age: ______ apne aap ko dekho’ | Bollywood",
+      "answer": "Pehle",
+      "options": [
+        "Trumps",
+        "House",
+        "Greenland",
+        "Pehle"
+      ]
+    },
+    {
+      "blanked": "'We all waited for like 6 hours to get a room': D Gukesh explains why ______ Erigaisi lost in Chess Olympi",
+      "answer": "Arjun",
+      "options": [
+        "Galaxy",
+        "Finalized",
+        "Arjun",
+        "Treatment"
+      ]
+    },
+    {
+      "blanked": "Trump says he will create 'AI ______ name AI czar",
+      "answer": "Force",
+      "options": [
+        "Board",
+        "Gukesh",
+        "Force",
+        "Answers"
+      ]
+    },
+    {
+      "blanked": "The ‘Control Resonant’ Metacritic ______ Score Has Finalized With GOTY Potential",
+      "answer": "Review",
+      "options": [
+        "Plan",
+        "Bengal",
+        "Can",
+        "Review"
       ]
     }
   ]
