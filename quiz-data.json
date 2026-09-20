@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-09-20T16:20:40.612Z",
+  "generatedAt": "2026-09-20T18:56:23.002Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "Video: Massive Ukrainian Drone Barrage On Moscow Amid Elections In Russia",
-    "What are Iran’s latest conditions to end its war with the US?",
-    "Turkish FM says ready to meet Saudi defence needs – what does that mean?",
-    "Vulgar, crude circus: BJP tears into Rahul Gandhi over comedian's PM Modi skit",
+    "SIR notices to Jaishankar, Election Commissioner Sandhu, former CECs",
+    "‘When do I blow entire nation up?' Trump's ultimatum after Iran warns of 'decisive war'",
     "Iran raises military preparedness to highest level",
-    "CM Rekha Gupta, former CM Kejriwal among those to get notices amid Delhi SIR",
+    "At least three killed in Ukrainian drone attack on Moscow, says Russia",
+    "'Uncouth, Foul-Mouthed': BJP On Rahul Gandhi's \"Maa\" Remarks With Comic",
+    "Iran sends 7 conditions to US via Qatar to restart talks, warns of ‘decisive war’",
     "Rahul Gandhi flags lack of hostels for female students, seeks answers from PM Modi",
-    "ST certificate cancelled 40 years later: Retired employee loses claim to full pension benefits, what Madras HC said",
-    "NSUI rebellion in DUSU polls not the first. It was a test of the Kanhaiya Kumar experiment",
+    "‘Doesn't seem like suicide’: Surendra Koli’s brother files complaint, seeks high-level probe into 'suspicious' death | India News",
+    "Telangana businesswoman claims CM's aide called her to guest house for meet",
     "India, Japan Air Force Chiefs fly the Tejas during Exercise 'Veer Guardian-2026' in Jodhpur",
     "Saudi, Gulf stocks fall after Houthis claim Riyadh attacks",
-    "U.S. fears rapid escalation in West Asia after Houthis attack Riyadh",
-    "Trump-Xi showdown casts a shadow over the global economy",
+    "Meloni promises to ban burqas, niqabs in Italy’s schools",
     "Ex-Pakistan PM Imran Khan's sister Aleema arrested in Lahore ahead of Sept 27 PTI march",
+    "U.S. fears rapid escalation in West Asia after Houthis attack Riyadh",
     "Tata Trusts denies any deadlock at September 17 Board meeting, disputes casting vote mandate",
-    "Will Nifty extend gains to 4th session on Monday? US sanctions on Russia among factors to decide D-Street",
-    "Titan open to buying smaller watch brands to expand premium, luxury portfolio",
+    "Volvo Cars appoints Skoda chief Klaus Zellmer as new CEO",
     "ASML begins India operations, links scaling-up plan with success of Tata Electronics, govt ambition",
+    "Titan open to buying smaller watch brands to expand premium, luxury portfolio",
     "Deals: iPhone 18 Pros launch, refurbished iPhone 17 Pros are expensive, Galaxy Z8 foldables discounted - GSMArena.com news",
-    "Meta's Camera-Free Luna Glasses Solve the Bystander Problem, Not the Data One",
+    "Meta’s next smart glasses may be coming soon and this time they are going camera-free",
     "Free Fire MAX redeem codes today (20.09.2026): Codes, rewards and how to claim",
-    "Hideo Kojima explains the surprise split with Sony",
-    "‘Come on, troll me now’: Salman Khan takes off T-shirt on Bigg Boss 20 to confront haters",
+    "Prediction: Even With the $1,999 Price Tag, Apple's Foldable iPhone Duo Will Be a Hit and Apple Will Join Nvidia in the $5 Trillion Club.",
     "Ed Sheeran Cries On Stage Over Tour Controversy, Doesn't Mention Israel",
-    "Kangana Ranaut HITS BACK at people trolling Maithili Thakur for arriving in Rolls-Royce at Lalbaugcha Raj"
+    "Kangana Ranaut HITS BACK at people trolling Maithili Thakur for arriving in Rolls-Royce at Lalbaugcha Raj",
+    "Deepika Padukone, Ranveer Singh become parents for second time, welcome baby girl"
   ],
   "quiz": [
     {
-      "blanked": "Saudi, Gulf stocks fall after ______ claim Riyadh attacks",
-      "answer": "Houthis",
+      "blanked": "Satellites show Earth lost more than 12 trillion tons of ice from Greenland, ______ in 47 years",
+      "answer": "Antarctica",
       "options": [
-        "Linked",
-        "Salman",
-        "Houthis",
-        "EXCLUSIVE"
+        "Prenatal",
+        "Antarctica",
+        "Join",
+        "Electronics"
       ]
     },
     {
-      "blanked": "Asian Games 2026 medal tally: ______ wins two silver medals",
+      "blanked": "Telangana businesswoman claims ______ aide called her to guest house for meet",
+      "answer": "CMs",
+      "options": [
+        "BJP",
+        "Imran",
+        "Even",
+        "CMs"
+      ]
+    },
+    {
+      "blanked": "From muscle to menopause: ______ creatine is finding a new audience in women",
+      "answer": "Why",
+      "options": [
+        "Why",
+        "Commissioner",
+        "Air",
+        "Antarctica"
+      ]
+    },
+    {
+      "blanked": "Study Finds No Neurodevelopmental Risk in Prenatal COVID-19, ______ Speech",
+      "answer": "Except",
+      "options": [
+        "Sept",
+        "Codes",
+        "Sandhu",
+        "Except"
+      ]
+    },
+    {
+      "blanked": "'Uncouth, Foul-Mouthed': BJP On Rahul ______ \"Maa\" Remarks With Comic",
+      "answer": "Gandhis",
+      "options": [
+        "India",
+        "Nvidia",
+        "Raj",
+        "Gandhis"
+      ]
+    },
+    {
+      "blanked": "Asian Games 2026 hockey: Dilpreet Singh's four-goal blitz powers ______ past Indonesia in Pool A opener",
       "answer": "India",
       "options": [
-        "Fire",
+        "Board",
         "India",
         "BACK",
-        "PTI"
+        "News"
       ]
     },
     {
-      "blanked": "NSUI rebellion in DUSU polls not the first. It was a test of the Kanhaiya ______ experiment",
-      "answer": "Kumar",
+      "blanked": "‘When do I blow entire nation up?' ______ ultimatum after Iran warns of 'decisive war'",
+      "answer": "Trumps",
       "options": [
-        "Khans",
-        "Modi",
-        "Kumar",
-        "Bangladesh"
+        "Khan",
+        "170",
+        "Bachchan",
+        "Trumps"
       ]
     },
     {
-      "blanked": "NASA discovers huge moon crater larger than ______ Colosseum",
-      "answer": "Roman",
+      "blanked": "HIV injections keep virus suppressed better than daily pills: ______",
+      "answer": "Study",
       "options": [
-        "Doesnt",
-        "Thakur",
-        "Roman",
-        "Heart"
+        "Iran",
+        "Study",
+        "Even",
+        "Earth"
       ]
     },
     {
-      "blanked": "Hideo Kojima explains the surprise split with ______",
-      "answer": "Sony",
+      "blanked": "Ellis and Inglis break ______ hearts to secure one-wicket thriller",
+      "answer": "Zimbabwe",
       "options": [
-        "Damage",
-        "Sony",
-        "September",
-        "2026"
+        "Stage",
+        "Even",
+        "Zimbabwe",
+        "Rolls-Royce"
       ]
     },
     {
-      "blanked": "What are ______ latest conditions to end its war with the US?",
-      "answer": "Irans",
+      "blanked": "Chronic Inflammation ______ To Silent Heart Damage, Study Says",
+      "answer": "Linked",
       "options": [
-        "Irans",
-        "Pros",
-        "Kejriwal",
-        "Gulf"
-      ]
-    },
-    {
-      "blanked": "‘Dua has a baby sister!’: Kriti Sanon, ______ Dhar and more congratulate Ranveer Singh, Deepika Padukone on second baby | Bollywood",
-      "answer": "Aditya",
-      "options": [
-        "Aditya",
-        "Deepika",
-        "Bigg",
-        "20.09.2026"
-      ]
-    },
-    {
-      "blanked": "Ed Sheeran Cries On Stage Over Tour Controversy, Doesn't Mention ______",
-      "answer": "Israel",
-      "options": [
-        "Israel",
-        "Monday",
-        "Ukrainian",
-        "Gandhi"
-      ]
-    },
-    {
-      "blanked": "CM Rekha Gupta, former CM Kejriwal among those to get notices amid Delhi ______",
-      "answer": "SIR",
-      "options": [
-        "Tata",
-        "SIR",
+        "Fire",
         "Sept",
-        "Mandhana"
+        "Linked",
+        "Antarctica"
       ]
     },
     {
-      "blanked": "ASML begins ______ operations, links scaling-up plan with success of Tata Electronics, govt ambition",
-      "answer": "India",
+      "blanked": "India, Japan Air ______ Chiefs fly the Tejas during Exercise 'Veer Guardian-2026' in Jodhpur",
+      "answer": "Force",
       "options": [
-        "Doesnt",
-        "India",
-        "Ombudsmans",
-        "Sheeran"
+        "20.09.2026",
+        "Alexander",
+        "Force",
+        "Doesnt"
       ]
     },
     {
-      "blanked": "Astrophysics study suggests ______ may have swallowed its moon",
-      "answer": "Venus",
+      "blanked": "Deepika Padukone, Ranveer ______ become parents for second time, welcome baby girl",
+      "answer": "Singh",
       "options": [
-        "Ombudsmans",
-        "Doesnt",
-        "Ranaut",
-        "Venus"
-      ]
-    },
-    {
-      "blanked": "Video: ______ Ukrainian Drone Barrage On Moscow Amid Elections In Russia",
-      "answer": "Massive",
-      "options": [
-        "Not",
-        "Massive",
-        "Suns",
-        "Colosseum"
+        "Singh",
+        "Sheeran",
+        "Cries",
+        "Lalbaugcha"
       ]
     }
   ]
