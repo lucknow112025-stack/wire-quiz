@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-09-20T21:09:24.789Z",
+  "generatedAt": "2026-09-20T23:14:04.477Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
     "‘When do I blow entire nation up?' Trump's ultimatum after Iran warns of 'decisive war'",
     "Iran raises military preparedness to highest level",
     "Bibek Debroy, who passed away in 2024, flagged for notice in Delhi SIR; Jaishankar, Advani also in list",
+    "Meloni promises to ban burqas, niqabs in Italy’s schools",
     "Double standards in US sanctions law: No Russian oil for others, exception for own uranium imports",
-    "Praise for Yoga, ‘super delicious’ curry: Japanese airmen on India experience during joint military drills | India News",
-    "At least three killed in Ukrainian drone attack on Moscow, says Russia",
+    "Iran sends 7 conditions to US via Qatar to restart talks, warns of ‘decisive war’",
+    "Landslide, flash flood kill 6 in Kerala amid heavy rain alert - video",
     "Comedian lampoons PM Modi on stage at Rahul Gandhi's event, BJP slams ‘third-rate antics’",
-    "'25,000 CCTVs, 0 Arrests': Faridabad Man Seeks Answers After Father's Death",
     "Punjab Man Consumes Poison Over Drug Inaction, Sparks Political Row",
-    "NSUI rebellion in DUSU polls not the first. It was a test of the Kanhaiya Kumar experiment",
-    "Saudi, Gulf stocks fall after Houthis claim Riyadh attacks",
-    "Italy to limit foreign students, ban burqa and hijab in schools",
+    "India, Japan Air Force Chiefs fly the Tejas during Exercise 'Veer Guardian-2026' in Jodhpur",
     "‘Threatens Peace And Security’: North Korea Fires Two Missiles In 3 Hours, Seoul Condemns",
-    "U.S. fears rapid escalation in West Asia after Houthis attack Riyadh",
-    "Tata Trusts calls N Chandrasekaran's reappointment legally invalid",
+    "Saudi, Gulf stocks fall after Houthis claim Riyadh attacks",
+    "Saudi-Houthi Conflict Live Updates: US Embassy in Israel issues security alert amid Houthi attacks on Saudi targets",
+    "Russia Ukraine War Video: Massive Ukrainian Drone Barrage On Moscow Amid Elections In Russia",
+    "Tata Trusts denies any deadlock at September 17 Board meeting, disputes casting vote mandate",
     "Volvo Cars appoints Skoda chief Klaus Zellmer as new CEO",
-    "ASML begins India operations, links scaling-up plan with success of Tata Electronics, govt ambition",
-    "NSE IPO GMP Today: Rs 111 premium signals 6.22% listing gain - Check price band, subscription dates and other details",
+    "NSE, Hero Motors, Jindal Supreme IPO GMPs surge up to 35% - Check grey market premiums of all 5 IPOs today",
+    "Will Nifty extend gains to 4th session on Monday? US sanctions on Russia among factors to decide D-Street",
     "Apple Watch Series 12 heart rate nearly matched a chest strap in a new test",
-    "iPhone 18 Pro deals you can grab to buy it cheaper",
+    "Deals: iPhone 18 Pros launch, refurbished iPhone 17 Pros are expensive, Galaxy Z8 foldables discounted - GSMArena.com news",
     "Free Fire MAX redeem codes today (20.09.2026): Codes, rewards and how to claim",
     "MIT Optical Project Gives Robot Dexterity A Shot In The Arm",
     "Ed Sheeran Cries On Stage Over Tour Controversy, Doesn't Mention Israel",
-    "Vidya Balan commands as Kantha in Jailer 2, has a face-off with Rajinikanth in first look. Watch | Hindustan Times",
-    "Kangana Ranaut HITS BACK at people trolling Maithili Thakur for arriving in Rolls-Royce at Lalbaugcha Raj"
+    "Bigg Boss 20: Rohed Khan gets evicted from the reality show; Rhiti Tiwari, Aasif Khan get emotional",
+    "Daayra box office collection day 3: Kareena Kapoor, Prithviraj Sukumaran film holds steady, crosses ₹4 crore | Bollywood"
   ],
   "quiz": [
     {
-      "blanked": "HIV injections keep virus suppressed better than daily pills: ______",
-      "answer": "Study",
+      "blanked": "Satellites show Earth lost more than 12 trillion tons of ice from ______ Antarctica in 47 years",
+      "answer": "Greenland",
       "options": [
-        "Missiles",
-        "Poison",
-        "Study",
-        "Thakur"
-      ]
-    },
-    {
-      "blanked": "At least three killed in Ukrainian drone attack on ______ says Russia",
-      "answer": "Moscow",
-      "options": [
+        "Stage",
+        "Greenland",
         "North",
-        "CEO",
-        "Moscow",
-        "Alexander"
+        "Hero"
       ]
     },
     {
-      "blanked": "From muscle to menopause: ______ creatine is finding a new audience in women",
-      "answer": "Why",
+      "blanked": "Free Fire MAX redeem codes today ______ Codes, rewards and how to claim",
+      "answer": "20.09.2026",
       "options": [
-        "Saturday",
-        "Consumes",
-        "Why",
-        "Tata"
-      ]
-    },
-    {
-      "blanked": "Praise for Yoga, ‘super delicious’ curry: Japanese airmen on ______ experience during joint military drills | India News",
-      "answer": "India",
-      "options": [
-        "Fire",
+        "Modi",
+        "20.09.2026",
         "India",
-        "Codes",
-        "Two"
+        "Greenland"
       ]
     },
     {
-      "blanked": "Study Finds No Neurodevelopmental Risk in ______ COVID-19, Except Speech",
-      "answer": "Prenatal",
+      "blanked": "Apple ______ Series 12 heart rate nearly matched a chest strap in a new test",
+      "answer": "Watch",
       "options": [
-        "SIR",
-        "Speech",
-        "Prenatal",
-        "Consumes"
+        "Delhi",
+        "Houthis",
+        "Watch",
+        "Drone"
+      ]
+    },
+    {
+      "blanked": "MIT Optical ______ Gives Robot Dexterity A Shot In The Arm",
+      "answer": "Project",
+      "options": [
+        "35%",
+        "Missiles",
+        "Drone",
+        "Project"
+      ]
+    },
+    {
+      "blanked": "Iran sends 7 conditions to US via ______ to restart talks, warns of ‘decisive war’",
+      "answer": "Qatar",
+      "options": [
+        "Moscow",
+        "Qatar",
+        "Player",
+        "Fire"
+      ]
+    },
+    {
+      "blanked": "Meloni promises to ban burqas, niqabs in ______ schools",
+      "answer": "Italys",
+      "options": [
+        "Force",
+        "Peace",
+        "Italys",
+        "Prithviraj"
       ]
     },
     {
       "blanked": "‘When do I blow entire nation up?' ______ ultimatum after Iran warns of 'decisive war'",
       "answer": "Trumps",
       "options": [
-        "Post-Traumatic",
-        "Finds",
+        "Pros",
         "Trumps",
-        "Tour"
+        "Riyadh",
+        "Rohed"
       ]
     },
     {
-      "blanked": "'25,000 CCTVs, 0 Arrests': Faridabad Man Seeks Answers After ______ Death",
-      "answer": "Fathers",
+      "blanked": "India, Japan Air Force ______ fly the Tejas during Exercise 'Veer Guardian-2026' in Jodhpur",
+      "answer": "Chiefs",
       "options": [
-        "Dilpreet",
-        "Fathers",
-        "Russia",
-        "Fire"
+        "Chiefs",
+        "Earth",
+        "2026",
+        "Mention"
       ]
     },
     {
-      "blanked": "Tata ______ calls N Chandrasekaran's reappointment legally invalid",
-      "answer": "Trusts",
+      "blanked": "HIV injections keep virus suppressed better than daily pills: ______",
+      "answer": "Study",
       "options": [
-        "Trusts",
-        "Maithili",
-        "Inglis",
-        "Faridabad"
+        "Study",
+        "Qatar",
+        "Greenland",
+        "Player"
       ]
     },
     {
-      "blanked": "NSE IPO GMP ______ Rs 111 premium signals 6.22% listing gain - Check price band, subscription dates and other details",
-      "answer": "Today",
+      "blanked": "NSE, Hero Motors, Jindal Supreme IPO ______ surge up to 35% - Check grey market premiums of all 5 IPOs today",
+      "answer": "GMPs",
       "options": [
-        "Today",
-        "Thakur",
-        "Pool",
-        "Speech"
+        "GMPs",
+        "Drone",
+        "Sunderland",
+        "Prithviraj"
       ]
     },
     {
-      "blanked": "Vidya ______ commands as Kantha in Jailer 2, has a face-off with Rajinikanth in first look. Watch | Hindustan Times",
-      "answer": "Balan",
+      "blanked": "Will ______ extend gains to 4th session on Monday? US sanctions on Russia among factors to decide D-Street",
+      "answer": "Nifty",
       "options": [
-        "Balan",
-        "Hours",
-        "Cars",
-        "Alexander"
+        "Nifty",
+        "Video",
+        "Kareena",
+        "MAX"
       ]
     },
     {
-      "blanked": "U.S. fears rapid escalation in ______ Asia after Houthis attack Riyadh",
-      "answer": "West",
+      "blanked": "Ellis and Inglis break ______ hearts to secure one-wicket thriller",
+      "answer": "Zimbabwe",
       "options": [
-        "Fathers",
-        "Concussion",
-        "170",
-        "West"
-      ]
-    },
-    {
-      "blanked": "ASML begins India operations, links scaling-up plan with success of ______ Electronics, govt ambition",
-      "answer": "Tata",
-      "options": [
-        "Tata",
-        "Sukumaran",
-        "Russia",
-        "Optical"
+        "War",
+        "Tour",
+        "Codes",
+        "Zimbabwe"
       ]
     }
   ]
