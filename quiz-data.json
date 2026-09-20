@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-09-20T01:38:32.044Z",
+  "generatedAt": "2026-09-20T07:00:41.393Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "Saudi Arabia issues Riyadh alert as Iran sends war terms via Qatar",
-    "IIT Bombay faculty member booked for caste abuse, suicide abetment",
     "'Negotiate or face decisive war': Iran conveys terms to US for restarting talks, sets 7 conditions",
-    "Trump says he will appoint a new AI adviser, without providing details",
-    "DUSU 2026 election results highlights: Amit Shah says ABVP’s DUSU victory a message to ‘anti-national forces’ | Hindustan Times",
-    "\"Good For NATO, Europe\": Denmark PM Endorses Trump's Greenland Security Deal",
-    "‘Six people run the system’: Rahul Gandhi targets PM Modi, Amit Shah, Ajit Doval at at Indore student event",
-    "Burden Of Carbon Emissions Unfairly Put On Developing Countries : PM Modi",
-    "Arvind Kejriwal Missing From Delhi Voter List, Claims AAP. Poll Body Official Responds",
-    "\"Bharat is not a geography; it is responsibility\": CDS General Raja Subramani shares ‘Dhara’ vision at IIT Roorkee convocation",
-    "Trump extends $100,000 H-1B visa fee: What it means for Indian workers",
-    "‘Bully’ must be resisted, Modi-Trump personal chemistry ‘exposed’: Opposition slams Modi govt over US tariffs",
-    "My name on building or I’ll demolish it: How Trump is taking plaque politics too far",
-    "Israeli attacks kill four Palestinians including son of Gaza’s health chief",
-    "UPI MDR is coming: Can a Rs 6,000 bill be split into three Rs 2,000 payments to avoid charges? For now, N",
-    "Aadhaar authentication mandatory for subsidised LPG refills from October 1; 27.43 crore consumers already",
-    "Tata Board Mutiny Leaves Patriarch Little Choice But to Litigate",
-    "Ten days that changed the course of AI",
+    "Trump signs Russia sanction bill into law giving him power to impose 100% tariffs on India",
+    "ABVP wins 3 DUSU posts; independent candidate Deepanshu Shokeen gets vice-president’s position",
+    "Trump abruptly cuts short Camp David retreat after F-16 intercepted aircraft violating airspace",
+    "31 Conditions On Rahul Gandhi's Indore Event, Rajiv Gandhi Killing Cited",
+    "Saudi Arabia issues Riyadh alert as Iran sends war terms via Qatar",
+    "3 youths killed, 1 critical after speeding BMW crashes on Mumbai's Coastal Road, plunges off bridge",
+    "Pune Murder Accused Siya Goyal Made Fake Instagram ID To Lure Husband To Fort",
+    "CM faces ex-aides’ anger in Nandigram over bypoll candidate Milan Pradhan’s arrest",
+    "IIT Bombay faculty member booked for caste abuse, suicide abetment",
+    "Greenland, Denmark say Trump deal won't compromise sovereignty",
+    "On Camera, Yemeni Man Assaults Sikh Driver, Steals His Bus, Rams Vehicles In UK",
+    "Something big brewing? Trump abruptly leaves Camp David, returns to White House",
+    "A ‘ban on the free press’: White House bars journalists from three outlets",
+    "MP petrol pump dealers to stop accepting UPI payments above Rs 2,000 from Oct 16 over MDR charges",
+    "Tata tangle splits legal eagles: Chandrachud, Salve differ over Chandrasekaran’s reappointment",
+    "Country To Get Its First Precision Manufacturing Institute, Announces Ashwini Vaishnaw",
+    "Govt makes Aadhaar biometric authentication mandatory for subsidised refills of LPG cylinders from 1st Oct",
     "Deals: iPhone 18 Pros launch, refurbished iPhone 17 Pros are expensive, Galaxy Z8 foldables discounted - GSMArena.com news",
     "Lenovo Launches Amazon Japan-Exclusive Desktop PC with RTX 5060 Ti, Outperforming Official Store Models",
-    "The ‘Control Resonant’ Metacritic Review Score Has Finalized With GOTY Potential",
-    "Active Garena Free Fire MAX Redeem Codes for September 19, 2026: Here is your weekend supply drop",
-    "Deepika Padukone, Ranveer Singh become parents for second time, welcome baby girl",
-    "Salman Khan lashes out at internet trolls amid Katrina Kaif’s postpartum weight comments; says ‘Kisi Ke M",
-    "Salman Khan denies health issues after Bigg Boss 20 concern"
+    "CONTROL Resonant Release Date, Price, Pre-Order Info And 10 Things To Know",
+    "Unfair iPhone, the rise of tennis ball cricket, and more...",
+    "Bigg Boss 20: Salman Khan breaks silence after promo sparks health concerns; says ‘Nothing Is Wrong, I Ap",
+    "'Everyone Puts On Weight': Salman Khan Calls Out Post-Pregnancy Body-Shaming Amid Katrina Kaif's Trolling",
+    "Ed Sheeran calls Gaza situation ‘unjustifiable’ after Palestine controversy"
   ],
   "quiz": [
     {
-      "blanked": "Trump extends $100,000 H-1B visa fee: ______ it means for Indian workers",
-      "answer": "What",
+      "blanked": "Deepika Padukone, Ranveer ______ become parents for second time, welcome baby girl",
+      "answer": "Singh",
       "options": [
-        "2000",
-        "Debacle",
-        "What",
-        "RTX"
+        "5060",
+        "Singh",
+        "Vaishnaw",
+        "Get"
       ]
     },
     {
-      "blanked": "What could the ______ look like in 1,000 years? | Some simulations collapsed in just 200 years | Inshorts",
-      "answer": "Earth",
+      "blanked": "Saudi Arabia issues Riyadh alert as ______ sends war terms via Qatar",
+      "answer": "Iran",
       "options": [
-        "Earth",
-        "Drops",
-        "Qatar",
-        "Launches"
-      ]
-    },
-    {
-      "blanked": "Burden Of Carbon Emissions Unfairly Put On Developing Countries : PM ______",
-      "answer": "Modi",
-      "options": [
-        "Cancer",
-        "Openers",
-        "Modi",
-        "Potential"
-      ]
-    },
-    {
-      "blanked": "IIT ______ faculty member booked for caste abuse, suicide abetment",
-      "answer": "Bombay",
-      "options": [
-        "Bombay",
-        "Debacle",
-        "List",
-        "October"
-      ]
-    },
-    {
-      "blanked": "Salman Khan denies health issues after ______ Boss 20 concern",
-      "answer": "Bigg",
-      "options": [
-        "Cancer",
-        "Galaxy",
-        "Hindustan",
-        "Bigg"
-      ]
-    },
-    {
-      "blanked": "All of Ed Sheeran’s Openers Abandon ______ After Macklemore Debacle",
-      "answer": "Tour",
-      "options": [
-        "Holes",
-        "Tour",
-        "2018",
-        "200"
-      ]
-    },
-    {
-      "blanked": "Lenovo Launches Amazon Japan-Exclusive Desktop PC with ______ 5060 Ti, Outperforming Official Store Models",
-      "answer": "RTX",
-      "options": [
-        "2000",
-        "RTX",
-        "Has",
-        "Missing"
-      ]
-    },
-    {
-      "blanked": "WHO Flags Six Essential Childhood Cancer Medicines ______ Critical Access Gaps",
-      "answer": "Facing",
-      "options": [
-        "Lanka",
-        "Facing",
-        "Garena",
-        "Deal"
-      ]
-    },
-    {
-      "blanked": "Active Garena Free Fire MAX Redeem Codes for September 19, ______ Here is your weekend supply drop",
-      "answer": "2026",
-      "options": [
+        "Iran",
         "2026",
-        "Mutiny",
-        "Redeem",
-        "Carbon"
+        "Ashwini",
+        "Rajasthan"
       ]
     },
     {
-      "blanked": "England bowl first in bid for series clean sweep against ______ Lanka",
-      "answer": "Sri",
+      "blanked": "In 2018, a ______ bioprinter made human cartilage tissue in orbit; years later, NASA printed human heart",
+      "answer": "Russian",
       "options": [
-        "CDS",
-        "Gandhi",
-        "2026",
-        "Sri"
+        "Wrong",
+        "Weight",
+        "Russian",
+        "Ranveer"
       ]
     },
     {
-      "blanked": "\"Good For NATO, Europe\": Denmark PM ______ Trump's Greenland Security Deal",
-      "answer": "Endorses",
+      "blanked": "Pune Murder Accused Siya Goyal ______ Fake Instagram ID To Lure Husband To Fort",
+      "answer": "Made",
       "options": [
-        "Endorses",
-        "Some",
-        "Can",
-        "Inshorts"
+        "Bus",
+        "Singh",
+        "Made",
+        "Husband"
       ]
     },
     {
-      "blanked": "Aneurysm Treatment Timing Fails to Show Clear ______",
-      "answer": "Benefit",
+      "blanked": "Suchika Tariyal scripts history, assures India of first ______ Games medal in MMA debut",
+      "answer": "Asian",
       "options": [
-        "Benefit",
-        "Cancer",
-        "Show",
-        "Lanka"
+        "Asian",
+        "Vehicles",
+        "Instagram",
+        "Rajasthan"
+      ]
+    },
+    {
+      "blanked": "Bigg ______ 20: Salman Khan breaks silence after promo sparks health concerns; says ‘Nothing Is Wrong, I Ap",
+      "answer": "Boss",
+      "options": [
+        "Boss",
+        "Khan",
+        "Iran",
+        "1000"
+      ]
+    },
+    {
+      "blanked": "Something big brewing? ______ abruptly leaves Camp David, returns to White House",
+      "answer": "Trump",
+      "options": [
+        "Tariyal",
+        "Mumbais",
+        "Trump",
+        "Nothing"
+      ]
+    },
+    {
+      "blanked": "MP petrol pump dealers to stop accepting UPI payments above Rs 2,000 from ______ 16 over MDR charges",
+      "answer": "Oct",
+      "options": [
+        "Desktop",
+        "5060",
+        "Models",
+        "Oct"
+      ]
+    },
+    {
+      "blanked": "Trump abruptly cuts short ______ David retreat after F-16 intercepted aircraft violating airspace",
+      "answer": "Camp",
+      "options": [
+        "House",
+        "Iran",
+        "First",
+        "Camp"
+      ]
+    },
+    {
+      "blanked": "S&T based community initiative improves detection and control of TB in ______",
+      "answer": "Rajasthan",
+      "options": [
+        "Risk",
+        "Chandrachud",
+        "Cricket",
+        "Rajasthan"
+      ]
+    },
+    {
+      "blanked": "Country To Get Its First ______ Manufacturing Institute, Announces Ashwini Vaishnaw",
+      "answer": "Precision",
+      "options": [
+        "Precision",
+        "Weight",
+        "Sikh",
+        "Store"
+      ]
+    },
+    {
+      "blanked": "Ed Sheeran calls Gaza situation ‘unjustifiable’ after ______ controversy",
+      "answer": "Palestine",
+      "options": [
+        "Nandigram",
+        "Accused",
+        "Palestine",
+        "Murder"
       ]
     }
   ]
