@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-09-21T18:40:05.645Z",
+  "generatedAt": "2026-09-21T22:13:29.598Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "CNN, Politico, MS Now to sue Trump administration over 'ban' from White House, President cites ‘fake news’ | Hindustan Times",
-    "IIT-Bombay removes Doolla as Dean; students seek suspension as Professor",
-    "How Trump and Xi went from tariff war to trade truce",
-    "Teen Groped In Bihar's Jamui, 3 Arrested After Disturbing Video Surfaces",
-    "China expels two top generals from party and military, alleging disloyalty and corruption",
-    "India-New Zealand FTA ratified, to come into effect on October 20",
-    "Notice to Election Commissioner SS Sandhu in SIR due to \"Discrepancy in Name\"; entry validated: Delhi Cantt ERO",
+    "US Networks Boycott Trump Coverage In Revolt Over White House Ban",
+    "Minor girl, her friend harassed in Bihar’s Jamui; culprits in police custody, political slugfest ensues",
+    "Houthis push for control of Yemen highlands as Trump is said to have called off strikes",
+    "China expels two top ‘disloyal’ military leaders from Communist Party",
+    "Student suicide: IIT Bombay apologises for earlier statement, suspends deanship of professor",
+    "With no opposition, Putin’s United Russia party wins record 355 seats in elections",
+    "Low Pressure Over BoB To Become Depression: Very Heavy Rainfall over Odisha, Andhra Pradesh, Telangana",
     "Ram Temple donations theft case: SIT report finds 105 instances of unauthorised currency removal",
-    "Kartarpur Corridor reopening: Sikh sangat from India, Pakistan to hold special ardas at Zero Line",
-    "57-year-old dairy operator killed after speeding Thar hits scooter from behind in Jaipur",
-    "Russia's ruling pro-Putin party wins wartime election with over 57% of vote, near-complete results show",
-    "US threatens to ground Iranian airlines worldwide from Wednesday",
-    "Iran warns US ships in Indian Ocean ‘will be attacked’ if war resumes, says ‘totally prepared’ for naval confrontation | World News",
-    "Pakistan jails sisters of Imran Khan before protest seeking his release",
-    "Tata Sons Listing: Even a shareholder having just one Tata Sons share may become a crorepati — Here's how",
+    "India news Highlights, 21 September 2026: Naga teenager shot dead by suspected militants in Manipur’s Tamenglong",
+    "India-New Zealand FTA ratified, to come into effect on October 20",
+    "US says all Iran airlines to be shutdown worldwide from Sept 23",
+    "'We'll change geography of war': Iran warns US of new weapons, targets",
+    "Is it a missile? Is it a drone? What’s the Pelican used by Ukraine?",
+    "New U.S. Sanctions Will Harm Ukraine Peace Talks and Bilateral Ties, Kremlin Says",
+    "Tata-Mistry verdict explained: Why Tata Trusts’ voting rights are central to the Tata Sons power struggle",
     "India's NSE IPO draws over $10 billion, traders eye modest listing pop",
-    "Sensex jumps 690 pts intraday, Nifty tops 23,400: 4 factors behind mkt rise",
     "Bank strike from September 28 to 30: SBI issues advisory, which banking services will be available?",
-    "JPMorgan Delivers Bullish Message For Apple Stock Fans",
+    "Trade Setup For Sept 22: Nifty Bulls Eye 23,550 Breakout As Sub-$100 Oil Flips Sentiment | Check Key Levels",
+    "Vodafone Greece opens pre-orders for Apple iPhone 18 lineup",
+    "KAIST Extends Lifespan of Graphite-Free Anode-Free Batteries That Could Make EV Batteries Smaller and Lighter | Newswise",
     "More Android phones in US, EU could finally get huge batteries, thanks to Apple",
-    "Can Apple Beat Android’s Benchmarks in Foldable Phones?",
-    "Google opens pre-orders for $899 Googlebook laptops built around Gemini AI - Euronext Markets: Real-time Stock Market Data | live",
+    "Google opens pre-orders for AI-powered Googlebook laptops",
     "Cindy Crawford’s son Presley Gerber was ‘absolutely terrified’ before controversial ibogaine treatment in",
     "Radha accuses sister Ambika of ‘stealing cheques’ to claim Rs 46 cr, files complaint",
-    "Shah Rukh Khan offers prayers at Lalbaugcha Raja, Gauri Khan and Suhana Khan join him for aarti. Watch | Bollywood"
+    "Watch: Shah Rukh Khan Visits Lalbaugcha Raja With Gauri And Suhana Khan"
   ],
   "quiz": [
     {
-      "blanked": "India-New Zealand ______ ratified, to come into effect on October 20",
-      "answer": "FTA",
+      "blanked": "Watch: Shah Rukh ______ Visits Lalbaugcha Raja With Gauri And Suhana Khan",
+      "answer": "Khan",
       "options": [
-        "Name",
-        "Rukh",
-        "President",
-        "FTA"
+        "India",
+        "Khan",
+        "Raina",
+        "Ambika"
       ]
     },
     {
-      "blanked": "Ram ______ donations theft case: SIT report finds 105 instances of unauthorised currency removal",
-      "answer": "Temple",
+      "blanked": "Cindy Crawford’s son ______ Gerber was ‘absolutely terrified’ before controversial ibogaine treatment in",
+      "answer": "Presley",
       "options": [
+        "Sept",
         "Presley",
-        "Doolla",
-        "President",
-        "Temple"
+        "Women",
+        "Talks"
       ]
     },
     {
-      "blanked": "US threatens to ground Iranian airlines worldwide from ______",
-      "answer": "Wednesday",
+      "blanked": "Robert Pattinson plays former 'To Catch a Predator' host Chris ______ in 'Showtime.' A24",
+      "answer": "Hansen",
       "options": [
-        "Phones",
-        "Wednesday",
-        "October",
-        "Pills"
+        "Blunders",
+        "Hansen",
+        "Sanctions",
+        "Injections"
       ]
     },
     {
-      "blanked": "How ______ and Xi went from tariff war to trade truce",
+      "blanked": "Trade Setup For Sept 22: Nifty Bulls Eye 23,550 Breakout As Sub-$100 Oil Flips ______ | Check Key Levels",
+      "answer": "Sentiment",
+      "options": [
+        "Batteries",
+        "Sentiment",
+        "White",
+        "Girlfriend"
+      ]
+    },
+    {
+      "blanked": "Bank strike from September 28 to 30: ______ issues advisory, which banking services will be available?",
+      "answer": "SBI",
+      "options": [
+        "Setup",
+        "Anode-Free",
+        "Reacts",
+        "SBI"
+      ]
+    },
+    {
+      "blanked": "US says all Iran airlines to be shutdown worldwide from ______ 23",
+      "answer": "Sept",
+      "options": [
+        "Games",
+        "Blunders",
+        "Sept",
+        "Oil"
+      ]
+    },
+    {
+      "blanked": "Tata-Mistry verdict explained: Why ______ Trusts’ voting rights are central to the Tata Sons power struggle",
+      "answer": "Tata",
+      "options": [
+        "Communist",
+        "IIT",
+        "Latent",
+        "Tata"
+      ]
+    },
+    {
+      "blanked": "Minor girl, her friend harassed in ______ Jamui; culprits in police custody, political slugfest ensues",
+      "answer": "Bihars",
+      "options": [
+        "Injections",
+        "Bihars",
+        "Iran",
+        "House"
+      ]
+    },
+    {
+      "blanked": "Can extreme exercise ever backfire? ______ an expert wants you to know before starting high-intensity workouts | Health",
+      "answer": "What",
+      "options": [
+        "Mukesh",
+        "Rainfall",
+        "Hill",
+        "What"
+      ]
+    },
+    {
+      "blanked": "'We'll change geography of war': ______ warns US of new weapons, targets",
+      "answer": "Iran",
+      "options": [
+        "Iran",
+        "Sentiment",
+        "Pattinson",
+        "Flips"
+      ]
+    },
+    {
+      "blanked": "Radha accuses sister ______ of ‘stealing cheques’ to claim Rs 46 cr, files complaint",
+      "answer": "Ambika",
+      "options": [
+        "Ambika",
+        "Revolt",
+        "Injections",
+        "Catch"
+      ]
+    },
+    {
+      "blanked": "Houthis push for control of Yemen highlands as ______ is said to have called off strikes",
       "answer": "Trump",
       "options": [
-        "Hindustan",
-        "105",
+        "Ties",
+        "Suhana",
         "Trump",
-        "Markets"
-      ]
-    },
-    {
-      "blanked": "Asian ______ 2026 kabaddi - all scores, match results, points table and medal winners",
-      "answer": "Games",
-      "options": [
-        "Sons",
-        "Games",
-        "Wednesday",
-        "FTA"
-      ]
-    },
-    {
-      "blanked": "ESC 2026 ______ Joseph A. Hill",
-      "answer": "Interview",
-      "options": [
-        "Thriller",
-        "Interview",
-        "White",
-        "Virus"
-      ]
-    },
-    {
-      "blanked": "Typhoon Dujuan forces India to miss training ahead of Japan T20I; Shreyas ______ says ‘don’t know condition",
-      "answer": "Iyer",
-      "options": [
-        "Temple",
-        "Iyer",
-        "Stock",
-        "Hansen"
-      ]
-    },
-    {
-      "blanked": "Kartarpur Corridor reopening: ______ sangat from India, Pakistan to hold special ardas at Zero Line",
-      "answer": "Sikh",
-      "options": [
-        "Phones",
-        "Virus",
-        "Sikh",
-        "Kapoor-Prithvirajs"
-      ]
-    },
-    {
-      "blanked": "Cindy ______ son Presley Gerber was ‘absolutely terrified’ before controversial ibogaine treatment in",
-      "answer": "Crawfords",
-      "options": [
-        "News-Medical",
-        "Crawfords",
-        "Virus",
-        "Alzheimers"
-      ]
-    },
-    {
-      "blanked": "JPMorgan ______ Bullish Message For Apple Stock Fans",
-      "answer": "Delivers",
-      "options": [
-        "Delivers",
-        "Interview",
-        "Disturbing",
-        "Data"
-      ]
-    },
-    {
-      "blanked": "CSK bring in Zaheer Khan as head coach for IPL ______",
-      "answer": "2027",
-      "options": [
-        "RGCB",
-        "2027",
-        "Nifty",
-        "World"
-      ]
-    },
-    {
-      "blanked": "Can Apple Beat Android’s Benchmarks in ______ Phones?",
-      "answer": "Foldable",
-      "options": [
-        "Daily",
-        "Foldable",
-        "SIT",
-        "House"
+        "Become"
       ]
     }
   ]
