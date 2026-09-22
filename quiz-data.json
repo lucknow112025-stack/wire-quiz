@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-09-22T10:21:10.100Z",
+  "generatedAt": "2026-09-22T15:05:23.743Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "‘Dangerous for our Country’: Trump slams CNN, Politico, MS NOW over White House lawsuit",
-    "Class 10 girl and boy returning from coaching groped and assaulted in Bihar’s Jamui, sparking a political row",
+    "IIT Bombay To Swap Ceiling Fans With Wall-Mounted Ones After Student's Suicide",
     "'We Expect No Criminal Consequences On Person Not Singing Vande Mataram For Religious Reasons' : Supreme...",
-    "Teen Gang-Raped By 3 Men Posing As Cops In Delhi Park",
-    "Student suicide: IIT Bombay apologises for earlier statement, suspends deanship of professor",
-    "Xi rolls into Trump summit with China's trade engine roaring",
-    "3 Infants Killed As AC Blast Triggers Fire At Telangana Hospital",
-    "Ayodhya court rejects bail pleas of three accused in Ram temple donation theft case",
-    "91-year-old woman dies after monkey attacks, pushes her in Karnataka",
-    "Tamil Nadu CM Vijay launches expanded Perunthalaivar Kamarajar Breakfast Scheme for govt. school students",
-    "Torrential rains brought by Japan typhoon kill four, NHK says",
+    "Delhi SIR | 'Notices Seem To Be Mechanically Issued, Logical Discrepancy Needs Clarification': Supreme...",
+    "Iran ready to reopen Strait of Hormuz if US eases military pressure and lifts blockade",
+    "Delhi gang rape: 17-year-old gang-raped on birthday at Astha Kunj Park by men posing as policemen",
+    "Pakistan says it killed 28 militants, Afghan Taliban and UN report three civilian deaths",
+    "Bihar molestation case: India outrage after assault of teen girl and her friend in Jamui",
+    "I cannot be held responsible for all social media posts by DMK handles, functionaries: Stalin tells Madras High Court",
+    "ED findings provide grounds for corruption case against Pinarayi Vijayan, Riyas, Veena",
+    "HM Amit Shah inaugurates National Conference of Anti-Narcotics Task Force Heads in New Delhi",
+    "Sri Lanka court convicts 14 over deadly Easter bombings",
+    "US-Iran War Live News Updates: Iran deal after midterm elections, Trump says at UNGA",
     "US plans to reopen two military sites in Greenland: Report",
-    "Trump praises Mamdani after meeting in New York",
-    "Oil falls 1% after reports suggest Iran could reopen Hormuz within seven days",
+    "U.S. television networks halt Trump coverage in revolt over White House ban",
     "Investors rush into India’s National Stock Exchange IPO at valuation multiple above Nasdaq",
-    "Sensex, Nifty prediction today: How Asian markets, crude will impact Indian markets? GIFT Nifty, KOSPI, Taiwan signals",
-    "Noel Tata proposes splitting Tata Sons as alternative to RBI-mandated listing",
+    "Stock Market Today Highlights, Sept 22: Sensex falls 330 pts, Nifty closes at 23,329; oil slips to $98.9 ahead of potential US-Iran talks",
+    "Stocks to Watch for September 23: Adani Firms, Tata Stocks, HDFC Bank, Persistent Systems and more",
     "\"When Decisions Are Made...\": In Boardroom Battle, Tata Trusts Gets Sharad Pawar's Backing",
-    "Airtel adds Apple TV, Apple Arcade to ₹999+ family postpaid plans",
-    "Honor launches its 8100mAh battery budget phone globally",
-    "Googlebook is finally official with 5 flagship Android-powered laptops starting at $899",
-    "E& UAE starts sales of iPhone 18 Pro phones",
+    "Beats taps multiple Kendall Jenners to promote customizable headphones",
+    "iOS 27.2—Here’s What To Expect From Apple’s October iPhone Update",
+    "Airtel bundles Apple services with family postpaid plans priced Rs 999 and above",
+    "Amazfit Introduces T-Rex Dual Solar, the First AMOLED Smartwatch with Dual-Sided Solar Charging",
     "President Droupadi Murmu to present 72nd National Film Awards in Gujarat today",
-    "Rani Mukerji's Mother Krishna Mukerji Dies At 75, Family Seeks Privacy",
-    "'Hanuman Ansh' box office collection day 46: Shobhinaw Satyaa, Chandan Anand film reaches Rs 352.30 cr wo"
+    "Rani Mukerji's mother's funeral: Shah Rukh Khan, Alia Bhatt, Karan Johar, Anil Kapoor arrive to pay last respects",
+    "Veteran Actor Anant Nag, 78, Receives Dadasaheb Phalke Award At 72nd National Film Awards"
   ],
   "quiz": [
     {
-      "blanked": "91-year-old woman dies after monkey attacks, pushes her in ______",
-      "answer": "Karnataka",
+      "blanked": "US plans to reopen two military sites in Greenland: ______",
+      "answer": "Report",
       "options": [
-        "Updates",
-        "Karnataka",
-        "Telangana",
-        "Time"
+        "DMK",
+        "Report",
+        "What",
+        "CRISPR"
       ]
     },
     {
-      "blanked": "IND vs JPN one-off T20I ______ live scorecard, toss winner, winning probability, weather forecast, result and highlights from Sano",
-      "answer": "2026",
+      "blanked": "IMA, Abbott Launch ______ Immunization Week To Strengthen Influenza Protection",
+      "answer": "Indian",
       "options": [
-        "Men",
-        "2026",
-        "Mukerji",
-        "Bombay"
+        "Kapoor",
+        "Emotions",
+        "Indian",
+        "Stock"
       ]
     },
     {
-      "blanked": "Astronomers Detect Radio Signals Coming Directly From an Exoplanet For The First ______",
-      "answer": "Time",
+      "blanked": "Rani Mukerji's mother's funeral: Shah ______ Khan, Alia Bhatt, Karan Johar, Anil Kapoor arrive to pay last respects",
+      "answer": "Rukh",
       "options": [
-        "Day",
-        "Time",
-        "Health",
-        "Sano"
+        "Trolls",
+        "Discrepancy",
+        "Rukh",
+        "Not"
       ]
     },
     {
-      "blanked": "3 Infants Killed As AC Blast Triggers Fire At ______ Hospital",
-      "answer": "Telangana",
+      "blanked": "HM Amit Shah inaugurates National Conference of ______ Task Force Heads in New Delhi",
+      "answer": "Anti-Narcotics",
       "options": [
-        "Updates",
-        "Telangana",
-        "Breakfast",
-        "Mataram"
+        "Dadasaheb",
+        "Alzheimers",
+        "US-Iran",
+        "Anti-Narcotics"
       ]
     },
     {
-      "blanked": "Tamil Nadu CM Vijay launches expanded Perunthalaivar ______ Breakfast Scheme for govt. school students",
-      "answer": "Kamarajar",
+      "blanked": "‘The brain is two organs’: What ______ scientists discovered about how it develops",
+      "answer": "Stanford",
       "options": [
-        "Gets",
-        "Vijay",
+        "Stanford",
+        "Sharad",
+        "Stock",
+        "Khan"
+      ]
+    },
+    {
+      "blanked": "India women win Asian ______ 2026 cricket tournament for first gold medal of Aichi-Nagoya",
+      "answer": "Games",
+      "options": [
+        "CRISPR",
+        "Emotions",
+        "Games",
+        "Hormuz"
+      ]
+    },
+    {
+      "blanked": "\"When Decisions Are Made...\": In Boardroom ______ Tata Trusts Gets Sharad Pawar's Backing",
+      "answer": "Battle",
+      "options": [
+        "Watch",
+        "National",
+        "Force",
+        "Battle"
+      ]
+    },
+    {
+      "blanked": "Iran ready to reopen Strait of ______ if US eases military pressure and lifts blockade",
+      "answer": "Hormuz",
+      "options": [
+        "Stocks",
+        "Afghan",
         "Hormuz",
-        "Kamarajar"
+        "Needs"
       ]
     },
     {
-      "blanked": "Student suicide: ______ Bombay apologises for earlier statement, suspends deanship of professor",
-      "answer": "IIT",
+      "blanked": "Pakistan says it killed 28 militants, Afghan ______ and UN report three civilian deaths",
+      "answer": "Taliban",
       "options": [
-        "Krishna",
-        "IIT",
-        "Trump",
-        "Blast"
+        "Khan",
+        "Notices",
+        "Taliban",
+        "Launch"
       ]
     },
     {
-      "blanked": "Oil falls 1% after reports suggest ______ could reopen Hormuz within seven days",
-      "answer": "Iran",
+      "blanked": "Radio signals detected from a planet beyond our ______ System. Landmark discovery could help us search for habitable worlds",
+      "answer": "Solar",
       "options": [
-        "Iran",
-        "Wife",
-        "Mother",
-        "Time"
+        "Nasdaq",
+        "Mechanically",
+        "Solar",
+        "Madras"
       ]
     },
     {
-      "blanked": "Scientists convert everyday plastic waste into gasoline with ______ yield",
-      "answer": "60%",
+      "blanked": "President Droupadi Murmu to present 72nd National Film Awards in ______ today",
+      "answer": "Gujarat",
       "options": [
-        "60%",
         "Awards",
-        "Park",
-        "Indian"
+        "Gujarat",
+        "Task",
+        "Swap"
       ]
     },
     {
-      "blanked": "Asian Games 2026 Kabaddi Day 2 Live Updates | Scores, ______ and Schedule",
-      "answer": "Results",
+      "blanked": "Amazfit Introduces T-Rex Dual Solar, the First AMOLED Smartwatch with Dual-Sided ______ Charging",
+      "answer": "Solar",
       "options": [
-        "Radio",
-        "Scores",
-        "Results",
-        "2026"
-      ]
-    },
-    {
-      "blanked": "Asian Games 2026 live, ______ 22: Know India scores, updates and results from Day 3",
-      "answer": "September",
-      "options": [
-        "Tata",
-        "IIT",
-        "September",
-        "FMD"
-      ]
-    },
-    {
-      "blanked": "President Droupadi Murmu to present 72nd National ______ Awards in Gujarat today",
-      "answer": "Film",
-      "options": [
-        "Film",
-        "KOSPI",
-        "Scheme",
-        "Vande"
-      ]
-    },
-    {
-      "blanked": "Teen Gang-Raped By 3 Men Posing As Cops In Delhi ______",
-      "answer": "Park",
-      "options": [
-        "Park",
-        "Criminal",
-        "Fire",
-        "KOSPI"
+        "Solar",
+        "Johar",
+        "Bank",
+        "Persistent"
       ]
     }
   ]
