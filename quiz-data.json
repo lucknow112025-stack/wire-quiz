@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-09-22T18:52:19.405Z",
+  "generatedAt": "2026-09-22T21:44:37.637Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "Trump to tout deals, defend war with Iran in UN speech",
+    "Deciding between deal or driving Iran ‘into hell’, says Trump at UN General Assembly",
+    "'Made a mistake by telling him to tolerate it': Grieving parents demand arrests in IIT Bombay student sui",
     "Delhi SIR | 'Notices Seem To Be Mechanically Issued, Logical Discrepancy Needs Clarification': Supreme...",
-    "IIT Bombay To Swap Ceiling Fans With Wall-Mounted Ones After Student's Suicide",
     "Cyclone ‘Arnab’ threat: Which states will be affected as Bay of Bengal weather system nears coast | India News",
-    "Sri Lanka court convicts 15 men over deadly Easter Sunday bombings",
     "Trump's White House media ban faces long odds in court, legal experts say",
+    "‘Partners for Multilateralism’: India to attend new non-superpower grouping’s inaugural session at UN",
     "Macho reels, dancers & ‘Yadav pride’—social media profile of key accused in Bihar groping case",
     "Dr Muralidhar Objects To Solicitor General's 'Naxalite' Remark During Vande Mataram Hearing",
-    "Packed schedule for Jaishankar at UN as India campaigns for Security Council election",
     "IMD update: Very heavy rain for south Odisha, north Andhra Pradesh coasts from Wednesday",
-    "US-Iran War Live News Updates: Trump, Greenland, and Denmark sign US Security deal,",
-    "India’s Oil Buyers May Cut Russian Cargoes in Wake of US Threats",
-    "Trump Renames AI To \"Super Intelligence\", Says \"Artificial\" Sounds \"Fake\"",
-    "Kremlin says UN Security Council should add new permanent members, keep veto power that Erdogan urged scrapping",
-    "Stock Market Today Highlights, Sept 22: Sensex falls 330 pts, Nifty closes at 23,329; oil slips to $98.9 ahead of potential US-Iran talks",
+    "3 Infants Killed As AC Blast Triggers Fire At Telangana Hospital",
+    "Iran Ready To Open Hormuz In 7 Days If US Lifts Blockade, Rubio Open To Talks",
+    "From tariff overlord to tarmac man, Donald Trump to roll out red carpet for Xi Jinping",
+    "‘If necessary’: Trump warns he’ll use new Russia tariff powers to end Ukraine war",
+    "\"World Is Bigger Than 5\": After India, Turkey Calls For UN Security Council Reforms",
     "NSE IPO allotment: Status finalised; steps to check online on National Stock Exchange, BSE, MUFG Intime India; listing date, time revealed",
-    "After Hindenburg: 5 Adani group companies settle disclosure violation case with Sebi",
-    "Tata Trusts vs Tata Sons: Why A Supreme Court's 2021 Ruling In Cyrus Mistry Case Is Back In Focus",
-    "Beats launches 360 headphones with interchangeable cushions",
-    "Apple Intelligence on iOS 27: Top features to boost productivity at work",
-    "OpenAI launches ChatGPT for Microsoft Word, expanding native integration across Office suite",
-    "Oppo Find X10 Pro Max launches with three 200MP rear cameras, Dimensity 9600 Pro SoC - GSMArena.com news",
-    "Yami Gautam And Aditya Dhar Twin In Black As They Receive National Awards For Article 370",
+    "Tata Sons board lacked quorum to take up Chandrasekaran's reappointment, says Singhvi",
+    "Who is Dinesh Thakkar? Tycoon who bought Mumbai tower for ₹711 crore in record home deal | India News",
+    "Stock Market Today Highlights, Sept 22: Sensex falls 330 pts, Nifty closes at 23,329; oil slips to $98.9 ahead of potential US-Iran talks",
+    "Beats 360 Headphones Review: Best-Performing Beats Yet, and They’re Modular",
+    "Motorola debuts premium Signature 27 flagship with brand-new Snapdragon 8 Elite Extreme",
+    "iPhone 18 Pro ₹38,000 cheaper in Dubai than in India: You’ll still save money after flight and visa costs; ...",
+    "Google Rolls Out ‘Googlebook’ AI Laptops With Hardware Partners",
+    "72nd National Film Awards: Dadasaheb Phalke honour for Anant Nag; Mammootty, Kartik Aaryan, Yami Gautam receive Best Actor awards",
     "Rani Mukerji’s mother Krishna Mukerji passes away at 75; Aditya Chopra's production house issues official",
-    "Paramount Clears Major Hurdle In Warner Bros. Discovery Takeover With Multi-State Settlement"
+    "Paramount just won its $110 billion Warner Bros battle, here's what it had to give up"
   ],
   "quiz": [
     {
-      "blanked": "Beats launches ______ headphones with interchangeable cushions",
-      "answer": "360",
+      "blanked": "Before ______ there might have been VIPR. It could be a new gene-editing tool",
+      "answer": "CRISPR",
       "options": [
-        "360",
-        "Pradesh",
-        "Artificial",
-        "Mechanically"
+        "Memory",
+        "Launches",
+        "Grieving",
+        "CRISPR"
       ]
     },
     {
-      "blanked": "Apple ______ on iOS 27: Top features to boost productivity at work",
-      "answer": "Intelligence",
+      "blanked": "Who is Dinesh Thakkar? Tycoon who bought Mumbai tower for ______ crore in record home deal | India News",
+      "answer": "711",
       "options": [
-        "Chopras",
-        "Clarification",
-        "Dimensity",
-        "Intelligence"
+        "Pro",
+        "Memory",
+        "711",
+        "World"
       ]
     },
     {
-      "blanked": "Packed schedule for Jaishankar at UN as India campaigns for Security ______ election",
-      "answer": "Council",
+      "blanked": "DDCA terms reports of corruption in ______ as unverified and unsubstantiated",
+      "answer": "DPL",
       "options": [
-        "Back",
-        "World",
-        "Stanford",
-        "Council"
+        "DPL",
+        "330",
+        "Generals",
+        "Lifts"
       ]
     },
     {
-      "blanked": "India’s Oil Buyers May ______ Russian Cargoes in Wake of US Threats",
-      "answer": "Cut",
+      "blanked": "Motorola debuts premium Signature 27 flagship with brand-new Snapdragon 8 Elite ______",
+      "answer": "Extreme",
       "options": [
-        "Students",
-        "Intelligence",
+        "Lifts",
+        "Function",
+        "Extreme",
+        "Rex"
+      ]
+    },
+    {
+      "blanked": "Cyclone ‘Arnab’ threat: Which states will be affected as Bay of Bengal weather system nears coast | ______ News",
+      "answer": "India",
+      "options": [
+        "Nag",
+        "India",
+        "Status",
+        "98.9"
+      ]
+    },
+    {
+      "blanked": "Macho reels, dancers & ‘Yadav pride’—social media profile of key accused in ______ groping case",
+      "answer": "Bihar",
+      "options": [
+        "Chandrasekarans",
+        "Bihar",
+        "White",
+        "Warner"
+      ]
+    },
+    {
+      "blanked": "‘Partners for ______ India to attend new non-superpower grouping’s inaugural session at UN",
+      "answer": "Multilateralism",
+      "options": [
         "23329",
-        "Cut"
+        "BSE",
+        "Multilateralism",
+        "Changes"
       ]
     },
     {
-      "blanked": "Oppo Find X10 Pro Max launches with three 200MP rear cameras, Dimensity 9600 Pro ______ - GSMArena.com news",
-      "answer": "SoC",
+      "blanked": "CDSCO Advises Responsible Use of Painkillers and Antibiotics to Reduce Risk of Kidney ______",
+      "answer": "Disease",
       "options": [
-        "SoC",
-        "Solicitor",
-        "Sensex",
+        "White",
+        "Disease",
+        "Fire",
+        "Risk"
+      ]
+    },
+    {
+      "blanked": "How ______ ended up with two films in the Oscar race for best international feature",
+      "answer": "India",
+      "options": [
+        "Remark",
+        "House",
+        "Day",
         "India"
       ]
     },
     {
-      "blanked": "Trump ______ AI To \"Super Intelligence\", Says \"Artificial\" Sounds \"Fake\"",
-      "answer": "Renames",
+      "blanked": "Paramount just won its ______ billion Warner Bros battle, here's what it had to give up",
+      "answer": "110",
       "options": [
-        "Renames",
-        "Sons",
-        "IPO",
-        "Highlights"
+        "Ukraine",
+        "110",
+        "Phalke",
+        "Very"
       ]
     },
     {
-      "blanked": "Tata Trusts vs ______ Sons: Why A Supreme Court's 2021 Ruling In Cyrus Mistry Case Is Back In Focus",
-      "answer": "Tata",
+      "blanked": "‘If necessary’: ______ warns he’ll use new Russia tariff powers to end Ukraine war",
+      "answer": "Trump",
       "options": [
-        "Tata",
-        "Students",
-        "Mukerji",
-        "National"
-      ]
-    },
-    {
-      "blanked": "Kremlin says UN ______ Council should add new permanent members, keep veto power that Erdogan urged scrapping",
-      "answer": "Security",
-      "options": [
-        "Krishna",
-        "Multi-State",
-        "Games",
-        "Security"
-      ]
-    },
-    {
-      "blanked": "In ______ NASA put seeds from 11 crops aboard an experimental spaceplane; after months in orbit, scientists",
-      "answer": "2020",
-      "options": [
-        "2020",
-        "Security",
-        "Sounds",
-        "Intime"
-      ]
-    },
-    {
-      "blanked": "Gleneagles Mumbai ______ Multidisciplinary Memory Clinic On World Alzheimer’s Day",
-      "answer": "Launches",
-      "options": [
-        "Salman",
-        "Multi-State",
-        "Hindenburg",
-        "Launches"
-      ]
-    },
-    {
-      "blanked": "Richa Chadha praises Salman ______ for speaking against body-shaming on Bigg Boss 20: “Trolls cannot exist without us”",
-      "answer": "Khan",
-      "options": [
-        "House",
-        "Khan",
-        "Council",
-        "370"
-      ]
-    },
-    {
-      "blanked": "After Hindenburg: 5 Adani group companies settle disclosure violation case with ______",
-      "answer": "Sebi",
-      "options": [
-        "Chadha",
-        "World",
         "Memory",
-        "Sebi"
+        "Trump",
+        "Elite",
+        "Out"
+      ]
+    },
+    {
+      "blanked": "'Made a mistake by telling him to tolerate it': Grieving parents demand arrests in ______ Bombay student sui",
+      "answer": "IIT",
+      "options": [
+        "NASA",
+        "Council",
+        "IIT",
+        "DPL"
       ]
     }
   ]
