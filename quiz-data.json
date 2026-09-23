@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-09-23T08:11:17.683Z",
+  "generatedAt": "2026-09-23T13:37:42.904Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "US, Iran hold mediated UNGA talks on ending war, opening Strait of Hormuz",
-    "Huge Row After Report Flags 2 Election Commissioners Objected To Poll Panel Steps",
-    "UP man accused of killing wife, 2 priests shot dead after 7-hour standoff; 3 children held hostage rescue",
-    "US-Iran War Live News Updates: Trump, Greenland, and Denmark sign US Security deal,",
-    "Astha Kunj Park gang-rape: LSR suspends classes; students consider leaving Delhi amid safety fears",
-    "White House to roll out the red carpet for historic Xi Jinping visit",
-    "IIT Bombay Professor Suryanarayana Doolla, At Centre Of Student's Suicide Row, Sent On Leave",
-    "Woman allegedly chased, harassed, pushed off scooter by bike-borne men near Panchsheel Park Metro station in Delhi | India News",
-    "Pakistan must act against cross-border terrorism before world believes it would do what it says: MEA",
-    "6 sent to judicial custody over killing of soldier in Mizoram",
-    "Volodymyr Zelensky’s pitch for peace",
-    "'You should not be here': Trump tells CNN at UN as standoff with media outlets persists",
-    "France rebukes world over Gaza as Canada, UK back Palestinian state at UNGA",
-    "What Are the United Nations and the General Assembly?",
-    "Sensex up 200 pts, Nifty above 23,350: Positive global cues among key factors behind market rise",
-    "S&P Global Ratings upgrades India’s FY27 growth forecast to 7% from 6.6%",
-    "Sensex, Nifty 50 prediction today: How Asian markets, crude will impact Indian markets? Gift Nifty, Kospi, Taiwan signal",
-    "Noel Tata proposes Tata Sons split as alternative to RBI-mandated listing: Report",
-    "Here's when the vivo X500 series is launching in Europe - GSMArena.com news",
-    "Qualcomm announces Snapdragon 8 Elite Extreme Gen 6 and Snapdragon 8 Elite Gen 6",
-    "Microsoft layoffs extend to Xbox as 268 employees lose jobs",
-    "Vivo officially reveals new V series phone with Zeiss cameras",
-    "72nd National Film Awards: Dadasaheb Phalke honour for Anant Nag; Mammootty, Kartik Aaryan, Yami Gautam receive Best Actor awards",
-    "Govinda SPOTTED with Komal Rani Swarnkar at Lalbaugcha Raja, amid row with wife Ssunita Ahuja - PICS",
-    "Hanuman Ansh Box Office Collection Day 47: No Signs Of Slowing Down For Neem Karoli Baba Film"
+    "Election Commission dissent sparks Opposition call for CEC Gyanesh Kumar’s removal",
+    "‘Annihilate’ vs ‘crushing’ attacks: Why Iran, US up rhetoric amid talks",
+    "BREAKING| Supreme Court Refers Pleas Challenging ECI Law To Constitution Bench; Justice Datta Questions...",
+    "Xi skips UN address to show China as equal to rival US",
+    "Delhi's Lady Shri Ram Shifts Classes Online After Rape-Encounter Near College",
+    "Election Commissioners knocked on Cabinet Secretary’s door over voter software integrity",
+    "'Go counsel Pakistan': India hits back at OIC over Kashmir remarks | India News",
+    "Cyclone Arnab on the way? Deep depression lashes Odisha, forces school closures and evacuation prep in 11",
+    "Sahil Wakode suicide: IIT Bombay professor Suryanarayana Doolla, removed as dean, now sent on leave",
+    "Security guard held for allegedly kissing techie in Hyderabad",
+    "'White House access privilege, not right': DOJ cites national security behind Trump barring reporters",
+    "Watch: Syrian President busy scrolling Instagram reels as leaders speak at UNGA",
+    "'MBS will not forget this': Ex-US official warns of Trump-Saudi rift over Houthi strikes",
+    "Easter Sunday blasts case: Sri Lanka High Court convicts 14",
+    "NSE IPO listing in focus: Can 2026's biggest issue deliver big gains?",
+    "Sensex settles 300 pts higher, Nifty ends above 23,450: Positive global cues among key factors behind...",
+    "Banks to remain open on Sunday for customers’ convenience in view of proposed nationwide strike",
+    "Gautam Adani reclaims top spot as India’s richest, edges out Mukesh Ambani: Hurun Rich List",
+    "Vivo X500 Series Gets an Official Global Launch Date",
+    "Microsoft layoffs extend to Xbox as 268 employees lose jobs - People Matters",
+    "Qualcomm launches two new smartphone chips with emphasis on AI",
+    "Apple’s iPhone 18 Pro Is Great for Anyone Who’s Not Ready for the Duo",
+    "Hanuman Ansh Box Office Collection Day 47: No Signs Of Slowing Down For Neem Karoli Baba Film",
+    "Actress Savithri Sreedharan passes away; 'Sudani from Nigeria' actress rose from theatre to national reco",
+    "Nani wishes to watch ‘The Paradise’ premiere with fans in Hyderabad"
   ],
   "quiz": [
     {
-      "blanked": "Govinda SPOTTED with Komal Rani Swarnkar at Lalbaugcha Raja, amid row with wife Ssunita ______ - PICS",
-      "answer": "Ahuja",
+      "blanked": "Sahil Wakode suicide: IIT Bombay professor ______ Doolla, removed as dean, now sent on leave",
+      "answer": "Suryanarayana",
       "options": [
-        "Box",
-        "Srinagar",
-        "Ahuja",
-        "Nifty"
+        "News",
+        "Suryanarayana",
+        "Rich",
+        "Arnab"
       ]
     },
     {
-      "blanked": "In 2021, ______ sent 11 types of crop seeds outside the space station for 8 months; after their return, scie",
+      "blanked": "Delhi High Court: Actor Rakesh Bedi Files Personality Rights Suit Seeking Protection Of His ______ Voice And Likeness Against Misuse",
+      "answer": "Name",
+      "options": [
+        "Indias",
+        "Bedi",
+        "Sri",
+        "Name"
+      ]
+    },
+    {
+      "blanked": "Painkillers, Antibiotics ______ To Kidney Disease Risk: CDSCO",
+      "answer": "Linked",
+      "options": [
+        "Xbox",
+        "Linked",
+        "Arnab",
+        "Court"
+      ]
+    },
+    {
+      "blanked": "Gautam ______ reclaims top spot as India’s richest, edges out Mukesh Ambani: Hurun Rich List",
+      "answer": "Adani",
+      "options": [
+        "Adani",
+        "Instagram",
+        "Urge",
+        "Xbox"
+      ]
+    },
+    {
+      "blanked": "SpaceX's next astronaut launch for ______ now set for Oct. 1 after delay",
       "answer": "NASA",
       "options": [
+        "President",
         "NASA",
-        "Down",
-        "War",
-        "200"
+        "Series",
+        "Burden"
       ]
     },
     {
-      "blanked": "US, Iran hold mediated UNGA talks on ending war, opening Strait of ______",
-      "answer": "Hormuz",
+      "blanked": "'White House access privilege, not right': DOJ cites national security behind ______ barring reporters",
+      "answer": "Trump",
+      "options": [
+        "Scores",
+        "Launch",
+        "Voice",
+        "Trump"
+      ]
+    },
+    {
+      "blanked": "Watch: Syrian President busy scrolling Instagram reels as leaders speak at ______",
+      "answer": "UNGA",
       "options": [
         "Neem",
-        "Europe",
-        "Hormuz",
-        "Take"
+        "Spaces",
+        "Doolla",
+        "UNGA"
       ]
     },
     {
-      "blanked": "White ______ to roll out the red carpet for historic Xi Jinping visit",
-      "answer": "House",
+      "blanked": "'MBS will not forget this': Ex-US official warns of ______ rift over Houthi strikes",
+      "answer": "Trump-Saudi",
       "options": [
-        "Asian",
-        "Suryanarayana",
-        "Ministry",
-        "House"
+        "Fortis",
+        "Ready",
+        "Trump-Saudi",
+        "Global"
       ]
     },
     {
-      "blanked": "Asian ______ 2026 LIVE | Mirabai Chanu wins silver in women’s 48kg weightlifting",
-      "answer": "Games",
+      "blanked": "Nani wishes to watch ‘The ______ premiere with fans in Hyderabad",
+      "answer": "Paradise",
       "options": [
-        "Nations",
-        "Best",
-        "Lalbaugcha",
-        "Games"
-      ]
-    },
-    {
-      "blanked": "Volodymyr ______ pitch for peace",
-      "answer": "Zelenskys",
-      "options": [
-        "Renal",
-        "Hospitals",
-        "Ansh",
-        "Zelenskys"
-      ]
-    },
-    {
-      "blanked": "Woman allegedly chased, harassed, pushed off scooter by bike-borne men near Panchsheel ______ Metro station in Delhi | India News",
-      "answer": "Park",
-      "options": [
-        "Snapdragon",
-        "Park",
-        "Baba",
+        "Against",
+        "Paradise",
+        "Mukesh",
         "Indias"
       ]
     },
     {
-      "blanked": "S&P Global Ratings upgrades India’s FY27 growth forecast to 7% from ______",
-      "answer": "6.6%",
+      "blanked": "Cyclone Arnab on the way? Deep depression lashes ______ forces school closures and evacuation prep in 11",
+      "answer": "Odisha",
       "options": [
-        "6.6%",
-        "Hormuz",
-        "Xbox",
-        "Face"
+        "Syrian",
+        "IPO",
+        "Odisha",
+        "Rich"
       ]
     },
     {
-      "blanked": "Sensex, Nifty 50 prediction today: How Asian markets, crude will impact Indian markets? Gift Nifty, ______ Taiwan signal",
-      "answer": "Kospi",
+      "blanked": "Asian Games 2026 shooting: Scores, schedule and ______ results",
+      "answer": "India",
       "options": [
-        "Taiwan",
-        "War",
-        "Kospi",
-        "6.6%"
+        "India",
+        "Subtle",
+        "Bangladesh",
+        "Scores"
       ]
     },
     {
-      "blanked": "What Are the United Nations and the ______ Assembly?",
-      "answer": "General",
+      "blanked": "The Subtle ______ Spaces:",
+      "answer": "Missing",
       "options": [
-        "Steps",
-        "General",
-        "RIMS",
-        "Park"
-      ]
-    },
-    {
-      "blanked": "Huge Row After Report Flags 2 Election Commissioners ______ To Poll Panel Steps",
-      "answer": "Objected",
-      "options": [
-        "Objected",
-        "Ssunita",
-        "Xbox",
-        "Kartik"
-      ]
-    },
-    {
-      "blanked": "Astha Kunj ______ gang-rape: LSR suspends classes; students consider leaving Delhi amid safety fears",
-      "answer": "Park",
-      "options": [
-        "Park",
-        "Sons",
-        "Function",
-        "Delhi"
+        "Neem",
+        "Nifty",
+        "Office",
+        "Missing"
       ]
     }
   ]
