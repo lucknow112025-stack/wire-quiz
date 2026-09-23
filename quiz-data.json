@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-09-23T21:12:14.937Z",
+  "generatedAt": "2026-09-23T23:41:51.132Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
+    "News Analysis: With Trump-Xi truce, China looks to reshape Asian order",
     "‘Gyanesh, it’s done bro’: Election Commission row becomes meme fodder on social media",
-    "Iran, US still far apart in peace talks, Iranian official says; Pezeshkian vows no surrender",
-    "Trump plans grand spectacle for potentially tense Xi talks",
-    "Indian Seafarer Killed, 19 Rescued After Torpedoes Strike Ship Off Oman Coast",
+    "Zelenskiy warns of painful winter for Russia if energy truce talks fail",
     "IIT-Bombay suicide case: New CCTV footage shows Sahil Wakode’s movements before he left exam hall",
-    "Questions Over Listing Of Noida DM Medha Roopam's Plea Before Supreme Court",
-    "India categorically rejects OIC Contact Group’s remarks on Kashmir",
+    "‘Annihilate’ vs ‘crushing’ attacks: Why Iran, US up rhetoric amid talks",
+    "Speaker Expected To Expediously Decide Disqualification Petitions Against Trinamool Rebel MPs : Supreme...",
     "Ram Temple ‘fund theft’ case: Charge-sheet filed in court amid ruckus by lawyers, no mention of Champat Rai",
-    "Supreme Court Judges Urge CJI To Consider Constituting Permanent Constitution Bench, Flag Years-Long...",
-    "Allahabad High Court Acquits Mother Sentenced To Death For Killing 3 Children, Finds Child Witness's...",
-    "US-Iran talks: What was discussed in Trump's 'good meeting' on the sidelines of UNGA",
+    "One Indian killed in attack on ship off Oman; Centre condemns attack",
+    "Odisha, Andhra weather alert LIVE: Deep depression crosses coast, landfall process underway, IMD says | Hindustan Times",
+    "‘No locus standi’: India rejects OIC remarks on Jammu & Kashmir",
+    "Iranians Have Been \"Victims Of Terrorism\" By US: Pezeshkian at UN",
     "AI leaders warn UN of security risks as systems grow more powerful",
-    "Scientists warn super El Nino could cause 450,000 deaths: Should we worry?",
     "In meeting with Rubio, Jaishankar raises India’s concerns about sanctions Act",
+    "India news: El Nino heat could kill 15,800 by Feb — report",
     "Central government salary and pension to be paid on 25 September ahead of three-day bank strike",
+    "India cuts edible oil import duty to lower prices ahead of festivals",
     "Tata Trusts, Tata Sons board unaware of N Chandrasekaran family’s TVS link",
-    "Wall Street falls as oil rebounds, Middle East tensions simmer",
-    "Indian global ETF crash 20%: Why a 235% premium is suddenly disappearing",
+    "Treasury yields soar, 10-yr at highest since July 2007 on hot U.S. data, Fedspeak",
     "Beats 360 announced with interchangeable headband and cushions, and IPX4 rating - GSMArena.com news",
-    "Microsoft’s New Surface Devices Are Faster, Brighter, and More Efficient",
-    "Apple’s iPhone 18 Pro Is Great for Anyone Who’s Not Ready for the Duo",
-    "XMG says DDR5 SO-DIMM costs increased nearly sixfold, announces €100 to €300 laptop price hikes",
+    "Reliance Digital brings iPhone 17 Pro price down to Rs 56,990 with exchange bonus, in-store discount and...",
+    "Microsoft releases new 13-inch laptop with 25% brighter display and up to 18 hours battery life",
+    "Chrome Patches 108 Vulnerabilities Including Crticial Flaws that Enable Code Execution Attacks",
     "Aditya Dhar’s ‘Article 370’ sweeps 3 National Awards, director calls the win ‘deeply special’; Yami Gauta",
     "The Paradise North America Box Office Premiere: Final Pre-Sales Cross $1M, All Set To Enter Tollywood’s Top 10 Premieres Ever",
     "World News Live Updates: Harvey Weinstein sentenced to 15 years in jail for sex crime after retrial"
   ],
   "quiz": [
     {
-      "blanked": "Questions Over Listing Of Noida DM Medha Roopam's Plea Before Supreme ______",
-      "answer": "Court",
+      "blanked": "Aditya Dhar’s ‘Article ______ sweeps 3 National Awards, director calls the win ‘deeply special’; Yami Gauta",
+      "answer": "370",
       "options": [
-        "Captain",
-        "Seafarer",
+        "America",
         "Final",
-        "Court"
+        "370",
+        "IMD"
       ]
     },
     {
-      "blanked": "IPL 2027 auction to be held in ______ in December",
-      "answer": "Goa",
+      "blanked": "Zelenskiy warns of painful winter for ______ if energy truce talks fail",
+      "answer": "Russia",
       "options": [
-        "Off",
-        "Goa",
-        "Pre-Sales",
-        "Judges"
+        "Russia",
+        "Champat",
+        "Oman",
+        "Patches"
       ]
     },
     {
-      "blanked": "CDSCO advisory: ______ with painkillers is a concern among kidney patients, say nephrologists",
-      "answer": "Self-medication",
+      "blanked": "World News Live ______ Harvey Weinstein sentenced to 15 years in jail for sex crime after retrial",
+      "answer": "Updates",
       "options": [
-        "Slowing",
-        "OIC",
-        "Ready",
-        "Self-medication"
-      ]
-    },
-    {
-      "blanked": "Iran, US still far apart in peace talks, Iranian official says; ______ vows no surrender",
-      "answer": "Pezeshkian",
-      "options": [
-        "Act",
-        "Pezeshkian",
-        "Risks",
-        "Kashmir"
-      ]
-    },
-    {
-      "blanked": "Indian Seafarer Killed, 19 Rescued After Torpedoes Strike ______ Off Oman Coast",
-      "answer": "Ship",
-      "options": [
-        "Water",
-        "Plea",
-        "Box",
-        "Ship"
-      ]
-    },
-    {
-      "blanked": "Supreme ______ Judges Urge CJI To Consider Constituting Permanent Constitution Bench, Flag Years-Long...",
-      "answer": "Court",
-      "options": [
-        "Court",
-        "Mother",
-        "Anyone",
-        "300"
-      ]
-    },
-    {
-      "blanked": "Benefits of ______ immunisation for adolescent health",
-      "answer": "HPV",
-      "options": [
-        "Rubio",
-        "SpaceX",
-        "HPV",
+        "Infection",
+        "56990",
+        "Updates",
         "Ever"
       ]
     },
     {
-      "blanked": "Psoriasis Treatments Show ______ Infection Risks",
-      "answer": "Distinct",
+      "blanked": "Tata Trusts, Tata Sons board unaware of N Chandrasekaran family’s ______ link",
+      "answer": "TVS",
       "options": [
-        "Distinct",
-        "Supreme",
-        "Player",
-        "Indias"
+        "TVS",
+        "Jaishankar",
+        "Have",
+        "Awards"
       ]
     },
     {
-      "blanked": "NASA, ______ target Oct. 1 for Crew-13 launch to space station",
-      "answer": "SpaceX",
+      "blanked": "News Analysis: With ______ truce, China looks to reshape Asian order",
+      "answer": "Trump-Xi",
       "options": [
-        "450000",
+        "Trump-Xi",
+        "Execution",
+        "Decide",
+        "All"
+      ]
+    },
+    {
+      "blanked": "Odisha, Andhra weather alert ______ Deep depression crosses coast, landfall process underway, IMD says | Hindustan Times",
+      "answer": "LIVE",
+      "options": [
         "SpaceX",
-        "Constituting",
-        "Permanent"
+        "LIVE",
+        "Rubio",
+        "Observatory"
       ]
     },
     {
-      "blanked": "Indian global ETF crash 20%: Why a ______ premium is suddenly disappearing",
-      "answer": "235%",
+      "blanked": "‘No locus standi’: India rejects OIC remarks on ______ & Kashmir",
+      "answer": "Jammu",
       "options": [
-        "Selection",
-        "National",
-        "December",
-        "235%"
+        "Election",
+        "Mars",
+        "America",
+        "Jammu"
       ]
     },
     {
-      "blanked": "Allahabad High ______ Acquits Mother Sentenced To Death For Killing 3 Children, Finds Child Witness's...",
-      "answer": "Court",
+      "blanked": "NIT Srinagar ______ for Astronomy and Astrophysics",
+      "answer": "Observatory",
       "options": [
-        "Collection",
-        "Court",
-        "100",
-        "Mars"
+        "Sons",
+        "Have",
+        "Observatory",
+        "Jammu"
       ]
     },
     {
-      "blanked": "India's Asian Games 2026 schedule today, ______ 24: Athletics campaign kicks off, Anahat Singh begins bid for LA 2028 berth",
-      "answer": "September",
+      "blanked": "Speaker Expected To Expediously Decide Disqualification ______ Against Trinamool Rebel MPs : Supreme...",
+      "answer": "Petitions",
       "options": [
-        "East",
-        "Commission",
-        "September",
-        "Rai"
+        "Execution",
+        "Nino",
+        "Petitions",
+        "Suriyas"
+      ]
+    },
+    {
+      "blanked": "‘Gyanesh, it’s done bro’: ______ Commission row becomes meme fodder on social media",
+      "answer": "Election",
+      "options": [
+        "Election",
+        "Including",
+        "Charge-sheet",
+        "Decide"
+      ]
+    },
+    {
+      "blanked": "India news: El ______ heat could kill 15,800 by Feb — report",
+      "answer": "Nino",
+      "options": [
+        "Trusts",
+        "Nino",
+        "Petitions",
+        "Ancient"
+      ]
+    },
+    {
+      "blanked": "India's Asian Games ______ schedule today, September 24: Athletics campaign kicks off, Anahat Singh begins bid for LA 2028 berth",
+      "answer": "2026",
+      "options": [
+        "Expediously",
+        "Petitions",
+        "2026",
+        "Water"
       ]
     }
   ]
