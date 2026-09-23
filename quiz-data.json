@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-09-23T13:37:42.904Z",
+  "generatedAt": "2026-09-23T17:57:53.237Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "Election Commission dissent sparks Opposition call for CEC Gyanesh Kumar’s removal",
-    "‘Annihilate’ vs ‘crushing’ attacks: Why Iran, US up rhetoric amid talks",
-    "BREAKING| Supreme Court Refers Pleas Challenging ECI Law To Constitution Bench; Justice Datta Questions...",
-    "Xi skips UN address to show China as equal to rival US",
-    "Delhi's Lady Shri Ram Shifts Classes Online After Rape-Encounter Near College",
-    "Election Commissioners knocked on Cabinet Secretary’s door over voter software integrity",
-    "'Go counsel Pakistan': India hits back at OIC over Kashmir remarks | India News",
-    "Cyclone Arnab on the way? Deep depression lashes Odisha, forces school closures and evacuation prep in 11",
-    "Sahil Wakode suicide: IIT Bombay professor Suryanarayana Doolla, removed as dean, now sent on leave",
-    "Security guard held for allegedly kissing techie in Hyderabad",
-    "'White House access privilege, not right': DOJ cites national security behind Trump barring reporters",
-    "Watch: Syrian President busy scrolling Instagram reels as leaders speak at UNGA",
-    "'MBS will not forget this': Ex-US official warns of Trump-Saudi rift over Houthi strikes",
-    "Easter Sunday blasts case: Sri Lanka High Court convicts 14",
-    "NSE IPO listing in focus: Can 2026's biggest issue deliver big gains?",
-    "Sensex settles 300 pts higher, Nifty ends above 23,450: Positive global cues among key factors behind...",
+    "Pezeshkian says Iran won't surrender, after Trump's annihilation threat",
+    "‘Gyanesh, it’s done bro’: Election Commission row becomes meme fodder on social media",
+    "Supreme Court Judges Urge CJI To Consider Constituting Permanent Constitution Bench, Flag Years-Long...",
+    "Trump plans grand spectacle for potentially tense Xi talks",
+    "Jamie Dimon Says US Shouldn’t Punish India Over Russian Oil: CNBC TV18",
+    "Hours Before Death, IIT Bombay Student Told Friend He \"Made A Mistake\": Sources",
+    "India categorically rejects OIC Contact Group’s remarks on Kashmir",
+    "Aaditya Thackeray's 25-Page Reply To Disha Salian Father's Rs 500-Crore Defamation Notice",
+    "Lady Shri Ram College shifts to online classes after gangrape at DDA park near college back gate | Latest News Delhi",
+    "Indian sailor killed in attack on ship MV Cape Dao near Oman, 18 others among crew",
+    "Explosions Near Hormuz As Trump Says \"Had Good Talks\" With Iranian Delegation",
+    "'International system broken': Rubio's stark message amid UNGA, says US interests above world order",
+    "Powerful El Nino could cause more than 450,000 deaths, scientists say",
+    "Easter Sunday blasts case: Sri Lankan court sentences each convict to 220 years in prison; all 15 to appeal against verdict",
     "Banks to remain open on Sunday for customers’ convenience in view of proposed nationwide strike",
-    "Gautam Adani reclaims top spot as India’s richest, edges out Mukesh Ambani: Hurun Rich List",
-    "Vivo X500 Series Gets an Official Global Launch Date",
-    "Microsoft layoffs extend to Xbox as 268 employees lose jobs - People Matters",
-    "Qualcomm launches two new smartphone chips with emphasis on AI",
+    "NSE IPO listing in focus: Can 2026's biggest issue deliver big gains?",
+    "Sebi considering margin rationalisation for longer-tenure derivatives: Tuhin Kanta Pandey",
+    "Who is Venu Srinivasan? TVS Group veteran headlining the Tata Sons row",
+    "Kendall Jenner stars opposite herself in new Beats 360 headphones ad",
     "Apple’s iPhone 18 Pro Is Great for Anyone Who’s Not Ready for the Duo",
-    "Hanuman Ansh Box Office Collection Day 47: No Signs Of Slowing Down For Neem Karoli Baba Film",
-    "Actress Savithri Sreedharan passes away; 'Sudani from Nigeria' actress rose from theatre to national reco",
-    "Nani wishes to watch ‘The Paradise’ premiere with fans in Hyderabad"
+    "Chrome Patches 108 Vulnerabilities Including Crticial Flaws that Enable Code Execution Attacks",
+    "Qualcomm Snapdragon 8 Elite Gen 6 chips launched for AI smartphones",
+    "The Paradise North America Box Office Premiere: Final Pre-Sales Cross $1M, All Set To Enter Tollywood’s Top 10 Premieres Ever",
+    "World News Live Updates: Harvey Weinstein sentenced to 15 years in jail for sex crime after retrial",
+    "FIR actor Ishwar Thakur hospitalised again, family forced to sell home for his treatment"
   ],
   "quiz": [
     {
-      "blanked": "Sahil Wakode suicide: IIT Bombay professor ______ Doolla, removed as dean, now sent on leave",
-      "answer": "Suryanarayana",
+      "blanked": "Asian Games 2026 Kabaddi Day 3 Live ______ India Women Face Iran, Men Take On Bangladesh",
+      "answer": "Updates",
+      "options": [
+        "Great",
+        "Day",
+        "Flaws",
+        "Updates"
+      ]
+    },
+    {
+      "blanked": "Udta Teer Trailer: Ayushmann Khurrana Plays Pakistani 'Dhurandhar' With ______",
+      "answer": "Amnesia",
+      "options": [
+        "Complex",
+        "Amnesia",
+        "Dao",
+        "450000"
+      ]
+    },
+    {
+      "blanked": "Pezeshkian says Iran won't surrender, after ______ annihilation threat",
+      "answer": "Trumps",
+      "options": [
+        "Trumps",
+        "Salian",
+        "College",
+        "Gen"
+      ]
+    },
+    {
+      "blanked": "Apple’s iPhone 18 Pro Is Great for Anyone Who’s Not ______ for the Duo",
+      "answer": "Ready",
+      "options": [
+        "December",
+        "108",
+        "Ready",
+        "Hormuz"
+      ]
+    },
+    {
+      "blanked": "Explosions Near ______ As Trump Says \"Had Good Talks\" With Iranian Delegation",
+      "answer": "Hormuz",
+      "options": [
+        "Hormuz",
+        "Punish",
+        "Duo",
+        "HPV"
+      ]
+    },
+    {
+      "blanked": "Supreme Court Judges ______ CJI To Consider Constituting Permanent Constitution Bench, Flag Years-Long...",
+      "answer": "Urge",
+      "options": [
+        "Urge",
+        "Sources",
+        "Enable",
+        "OIC"
+      ]
+    },
+    {
+      "blanked": "Indian sailor killed in attack on ship MV Cape Dao near ______ 18 others among crew",
+      "answer": "Oman",
+      "options": [
+        "Oman",
+        "Flaws",
+        "HPV",
+        "Kanta"
+      ]
+    },
+    {
+      "blanked": "Easter Sunday blasts case: Sri ______ court sentences each convict to 220 years in prison; all 15 to appeal against verdict",
+      "answer": "Lankan",
+      "options": [
+        "Lankan",
+        "Take",
+        "Flag",
+        "Election"
+      ]
+    },
+    {
+      "blanked": "Asian Games 2026 shooting: Skeet shooters strike double bronze; Manu ______ misses out on medal",
+      "answer": "Bhaker",
+      "options": [
+        "Court",
+        "Bhaker",
+        "IIT",
+        "Cape"
+      ]
+    },
+    {
+      "blanked": "Benefits of ______ immunisation for adolescent health",
+      "answer": "HPV",
       "options": [
         "News",
-        "Suryanarayana",
-        "Rich",
-        "Arnab"
+        "Shri",
+        "College",
+        "HPV"
       ]
     },
     {
-      "blanked": "Delhi High Court: Actor Rakesh Bedi Files Personality Rights Suit Seeking Protection Of His ______ Voice And Likeness Against Misuse",
-      "answer": "Name",
+      "blanked": "Asian ______ 2026 LIVE | Indian men's badminton team settles for bronze after 1-3 loss to China",
+      "answer": "Games",
       "options": [
-        "Indias",
-        "Bedi",
-        "Sri",
-        "Name"
-      ]
-    },
-    {
-      "blanked": "Painkillers, Antibiotics ______ To Kidney Disease Risk: CDSCO",
-      "answer": "Linked",
-      "options": [
-        "Xbox",
-        "Linked",
-        "Arnab",
-        "Court"
-      ]
-    },
-    {
-      "blanked": "Gautam ______ reclaims top spot as India’s richest, edges out Mukesh Ambani: Hurun Rich List",
-      "answer": "Adani",
-      "options": [
-        "Adani",
-        "Instagram",
-        "Urge",
-        "Xbox"
-      ]
-    },
-    {
-      "blanked": "SpaceX's next astronaut launch for ______ now set for Oct. 1 after delay",
-      "answer": "NASA",
-      "options": [
-        "President",
-        "NASA",
-        "Series",
-        "Burden"
-      ]
-    },
-    {
-      "blanked": "'White House access privilege, not right': DOJ cites national security behind ______ barring reporters",
-      "answer": "Trump",
-      "options": [
-        "Scores",
-        "Launch",
-        "Voice",
-        "Trump"
-      ]
-    },
-    {
-      "blanked": "Watch: Syrian President busy scrolling Instagram reels as leaders speak at ______",
-      "answer": "UNGA",
-      "options": [
-        "Neem",
-        "Spaces",
-        "Doolla",
-        "UNGA"
-      ]
-    },
-    {
-      "blanked": "'MBS will not forget this': Ex-US official warns of ______ rift over Houthi strikes",
-      "answer": "Trump-Saudi",
-      "options": [
+        "Bombay",
         "Fortis",
-        "Ready",
-        "Trump-Saudi",
-        "Global"
+        "Games",
+        "Tyrannosaurus"
       ]
     },
     {
-      "blanked": "Nani wishes to watch ‘The ______ premiere with fans in Hyderabad",
-      "answer": "Paradise",
+      "blanked": "NSE IPO listing in focus: ______ 2026's biggest issue deliver big gains?",
+      "answer": "Can",
       "options": [
-        "Against",
-        "Paradise",
-        "Mukesh",
-        "Indias"
-      ]
-    },
-    {
-      "blanked": "Cyclone Arnab on the way? Deep depression lashes ______ forces school closures and evacuation prep in 11",
-      "answer": "Odisha",
-      "options": [
-        "Syrian",
-        "IPO",
-        "Odisha",
-        "Rich"
-      ]
-    },
-    {
-      "blanked": "Asian Games 2026 shooting: Scores, schedule and ______ results",
-      "answer": "India",
-      "options": [
-        "India",
-        "Subtle",
-        "Bangladesh",
-        "Scores"
-      ]
-    },
-    {
-      "blanked": "The Subtle ______ Spaces:",
-      "answer": "Missing",
-      "options": [
-        "Neem",
-        "Nifty",
-        "Office",
-        "Missing"
+        "Khurrana",
+        "Can",
+        "Defamation",
+        "Oman"
       ]
     }
   ]
