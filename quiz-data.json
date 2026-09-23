@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-09-23T17:57:53.237Z",
+  "generatedAt": "2026-09-23T21:12:14.937Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "Pezeshkian says Iran won't surrender, after Trump's annihilation threat",
     "‘Gyanesh, it’s done bro’: Election Commission row becomes meme fodder on social media",
-    "Supreme Court Judges Urge CJI To Consider Constituting Permanent Constitution Bench, Flag Years-Long...",
+    "Iran, US still far apart in peace talks, Iranian official says; Pezeshkian vows no surrender",
     "Trump plans grand spectacle for potentially tense Xi talks",
-    "Jamie Dimon Says US Shouldn’t Punish India Over Russian Oil: CNBC TV18",
-    "Hours Before Death, IIT Bombay Student Told Friend He \"Made A Mistake\": Sources",
+    "Indian Seafarer Killed, 19 Rescued After Torpedoes Strike Ship Off Oman Coast",
+    "IIT-Bombay suicide case: New CCTV footage shows Sahil Wakode’s movements before he left exam hall",
+    "Questions Over Listing Of Noida DM Medha Roopam's Plea Before Supreme Court",
     "India categorically rejects OIC Contact Group’s remarks on Kashmir",
-    "Aaditya Thackeray's 25-Page Reply To Disha Salian Father's Rs 500-Crore Defamation Notice",
-    "Lady Shri Ram College shifts to online classes after gangrape at DDA park near college back gate | Latest News Delhi",
-    "Indian sailor killed in attack on ship MV Cape Dao near Oman, 18 others among crew",
-    "Explosions Near Hormuz As Trump Says \"Had Good Talks\" With Iranian Delegation",
-    "'International system broken': Rubio's stark message amid UNGA, says US interests above world order",
-    "Powerful El Nino could cause more than 450,000 deaths, scientists say",
-    "Easter Sunday blasts case: Sri Lankan court sentences each convict to 220 years in prison; all 15 to appeal against verdict",
-    "Banks to remain open on Sunday for customers’ convenience in view of proposed nationwide strike",
-    "NSE IPO listing in focus: Can 2026's biggest issue deliver big gains?",
-    "Sebi considering margin rationalisation for longer-tenure derivatives: Tuhin Kanta Pandey",
-    "Who is Venu Srinivasan? TVS Group veteran headlining the Tata Sons row",
-    "Kendall Jenner stars opposite herself in new Beats 360 headphones ad",
+    "Ram Temple ‘fund theft’ case: Charge-sheet filed in court amid ruckus by lawyers, no mention of Champat Rai",
+    "Supreme Court Judges Urge CJI To Consider Constituting Permanent Constitution Bench, Flag Years-Long...",
+    "Allahabad High Court Acquits Mother Sentenced To Death For Killing 3 Children, Finds Child Witness's...",
+    "US-Iran talks: What was discussed in Trump's 'good meeting' on the sidelines of UNGA",
+    "AI leaders warn UN of security risks as systems grow more powerful",
+    "Scientists warn super El Nino could cause 450,000 deaths: Should we worry?",
+    "In meeting with Rubio, Jaishankar raises India’s concerns about sanctions Act",
+    "Central government salary and pension to be paid on 25 September ahead of three-day bank strike",
+    "Tata Trusts, Tata Sons board unaware of N Chandrasekaran family’s TVS link",
+    "Wall Street falls as oil rebounds, Middle East tensions simmer",
+    "Indian global ETF crash 20%: Why a 235% premium is suddenly disappearing",
+    "Beats 360 announced with interchangeable headband and cushions, and IPX4 rating - GSMArena.com news",
+    "Microsoft’s New Surface Devices Are Faster, Brighter, and More Efficient",
     "Apple’s iPhone 18 Pro Is Great for Anyone Who’s Not Ready for the Duo",
-    "Chrome Patches 108 Vulnerabilities Including Crticial Flaws that Enable Code Execution Attacks",
-    "Qualcomm Snapdragon 8 Elite Gen 6 chips launched for AI smartphones",
+    "XMG says DDR5 SO-DIMM costs increased nearly sixfold, announces €100 to €300 laptop price hikes",
+    "Aditya Dhar’s ‘Article 370’ sweeps 3 National Awards, director calls the win ‘deeply special’; Yami Gauta",
     "The Paradise North America Box Office Premiere: Final Pre-Sales Cross $1M, All Set To Enter Tollywood’s Top 10 Premieres Ever",
-    "World News Live Updates: Harvey Weinstein sentenced to 15 years in jail for sex crime after retrial",
-    "FIR actor Ishwar Thakur hospitalised again, family forced to sell home for his treatment"
+    "World News Live Updates: Harvey Weinstein sentenced to 15 years in jail for sex crime after retrial"
   ],
   "quiz": [
     {
-      "blanked": "Asian Games 2026 Kabaddi Day 3 Live ______ India Women Face Iran, Men Take On Bangladesh",
-      "answer": "Updates",
+      "blanked": "Questions Over Listing Of Noida DM Medha Roopam's Plea Before Supreme ______",
+      "answer": "Court",
       "options": [
-        "Great",
-        "Day",
-        "Flaws",
-        "Updates"
+        "Captain",
+        "Seafarer",
+        "Final",
+        "Court"
       ]
     },
     {
-      "blanked": "Udta Teer Trailer: Ayushmann Khurrana Plays Pakistani 'Dhurandhar' With ______",
-      "answer": "Amnesia",
+      "blanked": "IPL 2027 auction to be held in ______ in December",
+      "answer": "Goa",
       "options": [
-        "Complex",
-        "Amnesia",
-        "Dao",
-        "450000"
+        "Off",
+        "Goa",
+        "Pre-Sales",
+        "Judges"
       ]
     },
     {
-      "blanked": "Pezeshkian says Iran won't surrender, after ______ annihilation threat",
-      "answer": "Trumps",
+      "blanked": "CDSCO advisory: ______ with painkillers is a concern among kidney patients, say nephrologists",
+      "answer": "Self-medication",
       "options": [
-        "Trumps",
-        "Salian",
-        "College",
-        "Gen"
-      ]
-    },
-    {
-      "blanked": "Apple’s iPhone 18 Pro Is Great for Anyone Who’s Not ______ for the Duo",
-      "answer": "Ready",
-      "options": [
-        "December",
-        "108",
+        "Slowing",
+        "OIC",
         "Ready",
-        "Hormuz"
+        "Self-medication"
       ]
     },
     {
-      "blanked": "Explosions Near ______ As Trump Says \"Had Good Talks\" With Iranian Delegation",
-      "answer": "Hormuz",
+      "blanked": "Iran, US still far apart in peace talks, Iranian official says; ______ vows no surrender",
+      "answer": "Pezeshkian",
       "options": [
-        "Hormuz",
-        "Punish",
-        "Duo",
-        "HPV"
+        "Act",
+        "Pezeshkian",
+        "Risks",
+        "Kashmir"
       ]
     },
     {
-      "blanked": "Supreme Court Judges ______ CJI To Consider Constituting Permanent Constitution Bench, Flag Years-Long...",
-      "answer": "Urge",
+      "blanked": "Indian Seafarer Killed, 19 Rescued After Torpedoes Strike ______ Off Oman Coast",
+      "answer": "Ship",
       "options": [
-        "Urge",
-        "Sources",
-        "Enable",
-        "OIC"
+        "Water",
+        "Plea",
+        "Box",
+        "Ship"
       ]
     },
     {
-      "blanked": "Indian sailor killed in attack on ship MV Cape Dao near ______ 18 others among crew",
-      "answer": "Oman",
-      "options": [
-        "Oman",
-        "Flaws",
-        "HPV",
-        "Kanta"
-      ]
-    },
-    {
-      "blanked": "Easter Sunday blasts case: Sri ______ court sentences each convict to 220 years in prison; all 15 to appeal against verdict",
-      "answer": "Lankan",
-      "options": [
-        "Lankan",
-        "Take",
-        "Flag",
-        "Election"
-      ]
-    },
-    {
-      "blanked": "Asian Games 2026 shooting: Skeet shooters strike double bronze; Manu ______ misses out on medal",
-      "answer": "Bhaker",
+      "blanked": "Supreme ______ Judges Urge CJI To Consider Constituting Permanent Constitution Bench, Flag Years-Long...",
+      "answer": "Court",
       "options": [
         "Court",
-        "Bhaker",
-        "IIT",
-        "Cape"
+        "Mother",
+        "Anyone",
+        "300"
       ]
     },
     {
       "blanked": "Benefits of ______ immunisation for adolescent health",
       "answer": "HPV",
       "options": [
-        "News",
-        "Shri",
-        "College",
-        "HPV"
+        "Rubio",
+        "SpaceX",
+        "HPV",
+        "Ever"
       ]
     },
     {
-      "blanked": "Asian ______ 2026 LIVE | Indian men's badminton team settles for bronze after 1-3 loss to China",
-      "answer": "Games",
+      "blanked": "Psoriasis Treatments Show ______ Infection Risks",
+      "answer": "Distinct",
       "options": [
-        "Bombay",
-        "Fortis",
-        "Games",
-        "Tyrannosaurus"
+        "Distinct",
+        "Supreme",
+        "Player",
+        "Indias"
       ]
     },
     {
-      "blanked": "NSE IPO listing in focus: ______ 2026's biggest issue deliver big gains?",
-      "answer": "Can",
+      "blanked": "NASA, ______ target Oct. 1 for Crew-13 launch to space station",
+      "answer": "SpaceX",
       "options": [
-        "Khurrana",
-        "Can",
-        "Defamation",
-        "Oman"
+        "450000",
+        "SpaceX",
+        "Constituting",
+        "Permanent"
+      ]
+    },
+    {
+      "blanked": "Indian global ETF crash 20%: Why a ______ premium is suddenly disappearing",
+      "answer": "235%",
+      "options": [
+        "Selection",
+        "National",
+        "December",
+        "235%"
+      ]
+    },
+    {
+      "blanked": "Allahabad High ______ Acquits Mother Sentenced To Death For Killing 3 Children, Finds Child Witness's...",
+      "answer": "Court",
+      "options": [
+        "Collection",
+        "Court",
+        "100",
+        "Mars"
+      ]
+    },
+    {
+      "blanked": "India's Asian Games 2026 schedule today, ______ 24: Athletics campaign kicks off, Anahat Singh begins bid for LA 2028 berth",
+      "answer": "September",
+      "options": [
+        "East",
+        "Commission",
+        "September",
+        "Rai"
       ]
     }
   ]
