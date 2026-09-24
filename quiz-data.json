@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-09-24T06:44:52.159Z",
+  "generatedAt": "2026-09-24T12:16:50.436Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "Xi Jinping Lands In US For Key State Visit, Trump Receives Him",
-    "Petition Seeks Contempt Action Against CEC Gyanesh Kumar For Alleged Violation Of Supreme Court Judgments",
-    "Judge lifts Trump's White House ban on CNN, MS NOW and Politico",
-    "In Another Bihar Horror, Teen Sexually Assaulted By Group Of Men On Camera",
-    "Veeramani sex abuse case: Tamil Nadu Congress leader says he told Chennai Police about scandal two years ago",
-    "IIT-Bombay suicide case: New CCTV footage shows Sahil Wakode’s movements before he left exam hall",
-    "At least nine killed as sleeper bus catches fire on Yamuna Expressway; driver, conductor arrested for culpable homicide",
-    "Punjab ED searches: High Court appoints Warrant Officer to monitor operations",
-    "Heavy Rain Alert for Arunachal, Assam, Meghalaya and Sikkim on September 23",
-    "One Indian killed in attack on ship off Oman; Centre condemns attack",
-    "Australia says OpenAI agent hacked Medicare portal",
-    "Iran President Pezeshkian calls out Trump by name at UN: ‘We did not bend the knee’",
-    "Eight US Navy sailors in USS Abraham Lincoln strike group attempted suicide during Iran war deployment",
-    "International System Broken, Can't Address Conflicts Like India-Pakistan: US",
-    "National Stock Exchange IPO Listing: What Makes It A Rare Moment For Indian Markets",
-    "Sensex down 600 pts, Nifty below 23,250: Rising bond yields among key factors behind market decline",
-    "N Chandrasekaran's real vote test: Tata Sons AGM, not boardroom",
-    "Ministry of Finance says all public sector, regional rural banks to remain open on September 27",
-    "Mark Zuckerberg debuts $1,299 Meta VR Glasses and Muse Charm pendant as part of AI agent push",
-    "Nikon unveils Z5IIC camera, aimed at making photography less intimidating",
-    "Reliance Digital brings iPhone 17 Pro price down to Rs 56,990 with exchange bonus, in-store discount and...",
-    "Chrome Patches 108 Vulnerabilities Including Crticial Flaws that Enable Code Execution Attacks",
-    "The Paradise North America Box Office Premiere: Final Pre-Sales Cross $1M, All Set To Enter Tollywood’s Top 10 Premieres Ever",
-    "Real Kashmir Football Club Makes It To International Emmy Nominations, Third Time For Vir Das",
-    "Kashmera Shah Shares Cryptic Note After Govinda, Komal Rani’s Public Appearance: ‘Stop Glorifying Homebre"
+    "Election Commission row LIVE: CJP demands resignation of CEC Gyanesh Kumar within 48 hours",
+    "Trump and Xi summit will focus on ‘stalibising’ ties, experts say",
+    "Judge blocks Trump's White House media ban, orders access to be restored",
+    "TN Cong leader tells TNM he alerted Chennai cop on Veeramani in November 2024",
+    "Greater Noida Bus On Fire, Driver Told Passengers \"Won't Stop, Don't Care If You Die\"",
+    "Supreme Court Dismisses Danam Nagender's Plea Challenging Telangana HC Judgment Disqualifying Him As MLA For Defection",
+    "IIT-Bombay suicide case: Sahil Wakode's father detained on way to campus to begin hunger strike",
+    "Supreme Court Collegium recommends appointment of Justice Subhash Upadhyay as permanent Uttarakhand High Court judge",
+    "Another teen sexually harassed in Bihar's Samastipur after Jamui horror; 4 arrested | India News",
+    "BJP spent more in Bengal poll than Cong did across 5 state polls",
+    "'Obviously unacceptable': Australia accuses OpenAI of breaching government website",
+    "Iran may extend war to Indian Ocean if US attacks again: Khamenei's adviser | World News",
+    "Unplanned Pit Stop, Diversion: How US-Bound F-35 Parts Ended Up In China",
+    "Saudi Issues Another \"Potential Danger\" Warning For Mecca, 2nd Time In A Month",
+    "Stock Market Today Highlights, Sept 24: Dalal Street hit by crude fire, US yield surge, Nifty closes 1.64% lower at 23,063, Sensex lost 1247 points",
+    "India's NSE lists after decade-long wait; valued at $48 billion",
+    "PB Fintech stock crashes 34%: This September put contract turned Rs 20,000 investment into Rs 75 lakh in...",
+    "Brent Holds Above $102 as Iran Talks Stall Over Hormuz Conditions",
+    "Meta Unveils Muse Charm Handheld Device and Expands AI Agent Features",
+    "Meta Brings FDA-Cleared Hearing Enhancement To Its Smart Glasses",
+    "Avatar items from the adidas | Pokémon collection are coming to Pokémon GO!",
+    "I benchmarked Snapdragon 8 Elite Extreme Gen 6 against Apple’s A20 Pro and Google’s Tensor G6, and one clearly loses",
+    "The Paradise Box Office Day 1 Advance Booking (Final): Tollywood's 2nd Best Pre-Sales Of 2026 After Peddi!",
+    "'You Stood Beside Me Through Every Chapter': Yami Gautam Thanks Aditya Dhar After National Award Win",
+    "BREAKING: Love & War to release in IMAX; Sanjay Leela Bhansali returns to the format 9 years after Padmaavat"
   ],
   "quiz": [
     {
-      "blanked": "Kashmera Shah Shares Cryptic Note After Govinda, Komal Rani’s Public ______ ‘Stop Glorifying Homebre",
-      "answer": "Appearance",
+      "blanked": "Nature study suggests European origin of bats — ______ Mail",
+      "answer": "Cyprus",
       "options": [
-        "Hanuman",
-        "Appearance",
-        "Execution",
-        "Vir"
+        "Chapter",
+        "Sept",
+        "White",
+        "Cyprus"
       ]
     },
     {
-      "blanked": "Sensex down ______ pts, Nifty below 23,250: Rising bond yields among key factors behind market decline",
-      "answer": "600",
+      "blanked": "Iran may extend war to Indian Ocean if US attacks again: Khamenei's adviser | ______ News",
+      "answer": "World",
       "options": [
-        "600",
-        "India-Pakistan",
-        "Kumar",
-        "Roshibina"
+        "Bengal",
+        "Wont",
+        "Danam",
+        "World"
       ]
     },
     {
-      "blanked": "Heavy Rain Alert for Arunachal, Assam, ______ and Sikkim on September 23",
-      "answer": "Meghalaya",
+      "blanked": "Judge blocks Trump's White ______ media ban, orders access to be restored",
+      "answer": "House",
       "options": [
-        "Meghalaya",
-        "Alzheimers",
-        "Uzbekistan",
-        "Glasses"
+        "Bronze",
+        "How",
+        "House",
+        "Brings"
       ]
     },
     {
-      "blanked": "At least nine killed as sleeper bus catches fire on Yamuna ______ driver, conductor arrested for culpable homicide",
-      "answer": "Expressway",
+      "blanked": "'You Stood Beside Me Through Every ______ Yami Gautam Thanks Aditya Dhar After National Award Win",
+      "answer": "Chapter",
       "options": [
-        "600",
-        "Glasses",
-        "Expressway",
-        "Moment"
+        "CJP",
+        "Weekend",
+        "Chapter",
+        "European"
       ]
     },
     {
-      "blanked": "Gul, ______ spin Afghanistan to victory over Japan in Asian Games opener",
-      "answer": "Kharote",
+      "blanked": "Who is Jessica Watkins? NASA astronaut set to command SpaceX Crew 13 mission to International Space Station | ______ Times",
+      "answer": "Hindustan",
       "options": [
-        "IPO",
-        "Kharote",
-        "Top",
-        "Treatments"
+        "Harvest",
+        "Chinese",
+        "Sept",
+        "Hindustan"
       ]
     },
     {
-      "blanked": "Mark Zuckerberg debuts $1,299 Meta VR Glasses and Muse ______ pendant as part of AI agent push",
-      "answer": "Charm",
+      "blanked": "Another teen sexually harassed in Bihar's Samastipur after Jamui horror; 4 arrested | India ______",
+      "answer": "News",
       "options": [
-        "Uncovers",
-        "Charm",
-        "Electrolytes",
-        "Nadu"
-      ]
-    },
-    {
-      "blanked": "NASA Rover Spectroscopy Uncovers Complex Water ______ on Ancient Mars",
-      "answer": "Systems",
-      "options": [
-        "Systems",
-        "Final",
-        "Indian",
-        "Camera"
-      ]
-    },
-    {
-      "blanked": "International System Broken, Can't ______ Conflicts Like India-Pakistan: US",
-      "answer": "Address",
-      "options": [
-        "Charm",
-        "Code",
-        "Rising",
-        "Address"
-      ]
-    },
-    {
-      "blanked": "Asian Games 2026 LIVE: Roshibina Devi bags second Asian ______ silver in wushu",
-      "answer": "Games",
-      "options": [
-        "Pezeshkian",
-        "Supreme",
-        "Ansh",
+        "News",
+        "1.64%",
+        "Tensor",
         "Games"
       ]
     },
     {
-      "blanked": "‘We are not scared’: ______ Ansh producer on Drishyam 3’s impact on its box office run",
-      "answer": "Hanuman",
+      "blanked": "Supreme Court Collegium recommends appointment of Justice ______ Upadhyay as permanent Uttarakhand High Court judge",
+      "answer": "Subhash",
       "options": [
-        "Hanuman",
-        "Club",
-        "Associated",
-        "Camera"
+        "Through",
+        "Subhash",
+        "Tollywoods",
+        "Cong"
       ]
     },
     {
-      "blanked": "In Another Bihar Horror, Teen Sexually Assaulted By Group Of Men On ______",
-      "answer": "Camera",
+      "blanked": "The ______ ‘Harvest Moon’ Rises This Weekend — Why This One Is Different",
+      "answer": "Full",
       "options": [
-        "Violation",
-        "Public",
-        "Crticial",
-        "Camera"
+        "Broadcast",
+        "2026",
+        "Peddi",
+        "Full"
       ]
     },
     {
-      "blanked": "N Chandrasekaran's real vote test: Tata Sons ______ not boardroom",
-      "answer": "AGM",
+      "blanked": "MENA Broadcast, Media Technology & Satellite ______",
+      "answer": "News",
       "options": [
-        "Meta",
-        "Gambhir",
-        "CEC",
-        "AGM"
+        "Commission",
+        "News",
+        "Station",
+        "European"
+      ]
+    },
+    {
+      "blanked": "I benchmarked Snapdragon 8 Elite Extreme Gen 6 against Apple’s A20 Pro and Google’s ______ G6, and one clearly loses",
+      "answer": "Tensor",
+      "options": [
+        "Issues",
+        "Tensor",
+        "102",
+        "Aditya"
+      ]
+    },
+    {
+      "blanked": "Maternal Hepatitis B Linked to ______ Birth After IVF",
+      "answer": "Preterm",
+      "options": [
+        "Gyanesh",
+        "Preterm",
+        "Potential",
+        "Beside"
+      ]
+    },
+    {
+      "blanked": "Surrey and Sussex Cancer ______ launches HPV vaccine campaign",
+      "answer": "Alliance",
+      "options": [
+        "Pokmon",
+        "Day",
+        "Alliance",
+        "September"
       ]
     }
   ]
