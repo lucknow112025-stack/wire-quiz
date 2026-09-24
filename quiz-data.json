@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-09-24T01:39:16.729Z",
+  "generatedAt": "2026-09-24T06:44:52.159Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "Xi arrives in Washington, kicking off his state visit with rare planeside welcome from Trump",
-    "‘Gyanesh, it’s done bro’: Election Commission row becomes meme fodder on social media",
-    "US, China agree to extend trade truce by two months, work on bigger deal, Bessent says",
+    "Xi Jinping Lands In US For Key State Visit, Trump Receives Him",
+    "Petition Seeks Contempt Action Against CEC Gyanesh Kumar For Alleged Violation Of Supreme Court Judgments",
+    "Judge lifts Trump's White House ban on CNN, MS NOW and Politico",
+    "In Another Bihar Horror, Teen Sexually Assaulted By Group Of Men On Camera",
+    "Veeramani sex abuse case: Tamil Nadu Congress leader says he told Chennai Police about scandal two years ago",
     "IIT-Bombay suicide case: New CCTV footage shows Sahil Wakode’s movements before he left exam hall",
-    "‘Annihilate’ vs ‘crushing’ attacks: Why Iran, US up rhetoric amid talks",
-    "Speaker Expected To Expediously Decide Disqualification Petitions Against Trinamool Rebel MPs : Supreme...",
+    "At least nine killed as sleeper bus catches fire on Yamuna Expressway; driver, conductor arrested for culpable homicide",
+    "Punjab ED searches: High Court appoints Warrant Officer to monitor operations",
+    "Heavy Rain Alert for Arunachal, Assam, Meghalaya and Sikkim on September 23",
     "One Indian killed in attack on ship off Oman; Centre condemns attack",
-    "Doomed BMW was 'speeding at 120kmph', Mumbai coastal road has 80kmph speed limit | India News",
-    "'Cyclone Arnab' Has Taken Social Media By Storm, And Yet It Does Not Even Exist: Here's Why",
-    "Heavy To Extremely Heavy Rainfall Alert For Several States IMD Issues 7-Day Forecast",
-    "Iranians Have Been \"Victims Of Terrorism\" By US: Pezeshkian at UN",
-    "Sam Altman, Dario Amodei urge UN Security Council to adopt international AI standards",
-    "In meeting with Rubio, Jaishankar raises India’s concerns about sanctions Act",
-    "Zelenskiy warns of painful winter for Russia if energy truce talks fail",
+    "Australia says OpenAI agent hacked Medicare portal",
+    "Iran President Pezeshkian calls out Trump by name at UN: ‘We did not bend the knee’",
+    "Eight US Navy sailors in USS Abraham Lincoln strike group attempted suicide during Iran war deployment",
+    "International System Broken, Can't Address Conflicts Like India-Pakistan: US",
+    "National Stock Exchange IPO Listing: What Makes It A Rare Moment For Indian Markets",
+    "Sensex down 600 pts, Nifty below 23,250: Rising bond yields among key factors behind market decline",
     "N Chandrasekaran's real vote test: Tata Sons AGM, not boardroom",
-    "Central government salary and pension to be paid on 25 September ahead of three-day bank strike",
-    "Why Global Credit Agencies Are Suddenly Raising India's GDP Growth Outlook",
-    "Treasury yields soar, 10-yr at highest since July 2007 on hot U.S. data, Fedspeak",
-    "Mark Zuckerberg debuts $1,299 Meta VR Glasses and Muse Charm pendant amid AI agent push",
-    "Beats 360 announced with interchangeable headband and cushions, and IPX4 rating - GSMArena.com news",
+    "Ministry of Finance says all public sector, regional rural banks to remain open on September 27",
+    "Mark Zuckerberg debuts $1,299 Meta VR Glasses and Muse Charm pendant as part of AI agent push",
+    "Nikon unveils Z5IIC camera, aimed at making photography less intimidating",
     "Reliance Digital brings iPhone 17 Pro price down to Rs 56,990 with exchange bonus, in-store discount and...",
     "Chrome Patches 108 Vulnerabilities Including Crticial Flaws that Enable Code Execution Attacks",
-    "Aditya Dhar’s ‘Article 370’ sweeps 3 National Awards, director calls the win ‘deeply special’; Yami Gauta",
     "The Paradise North America Box Office Premiere: Final Pre-Sales Cross $1M, All Set To Enter Tollywood’s Top 10 Premieres Ever",
-    "Vir Das Gets Third International Emmy Nomination For 'Fool Volume'"
+    "Real Kashmir Football Club Makes It To International Emmy Nominations, Third Time For Vir Das",
+    "Kashmera Shah Shares Cryptic Note After Govinda, Komal Rani’s Public Appearance: ‘Stop Glorifying Homebre"
   ],
   "quiz": [
     {
-      "blanked": "Beats ______ announced with interchangeable headband and cushions, and IPX4 rating - GSMArena.com news",
-      "answer": "360",
+      "blanked": "Kashmera Shah Shares Cryptic Note After Govinda, Komal Rani’s Public ______ ‘Stop Glorifying Homebre",
+      "answer": "Appearance",
       "options": [
-        "September",
-        "Trinamool",
-        "Cross",
-        "360"
-      ]
-    },
-    {
-      "blanked": "Chrome Patches 108 Vulnerabilities Including Crticial Flaws that Enable ______ Execution Attacks",
-      "answer": "Code",
-      "options": [
-        "Self-medication",
-        "Against",
-        "Victims",
-        "Code"
-      ]
-    },
-    {
-      "blanked": "Iranians Have Been \"Victims Of ______ By US: Pezeshkian at UN",
-      "answer": "Terrorism",
-      "options": [
-        "Study",
-        "Several",
-        "Media",
-        "Terrorism"
-      ]
-    },
-    {
-      "blanked": "Sam Altman, ______ Amodei urge UN Security Council to adopt international AI standards",
-      "answer": "Dario",
-      "options": [
-        "Awards",
-        "Extremely",
-        "Dario",
-        "Lungs"
-      ]
-    },
-    {
-      "blanked": "Treasury yields soar, 10-yr at highest since July ______ on hot U.S. data, Fedspeak",
-      "answer": "2007",
-      "options": [
-        "Rover",
-        "Has",
-        "2007",
-        "Gets"
-      ]
-    },
-    {
-      "blanked": "N Chandrasekaran's real vote test: Tata ______ AGM, not boardroom",
-      "answer": "Sons",
-      "options": [
+        "Hanuman",
+        "Appearance",
         "Execution",
-        "Sons",
-        "MPs",
-        "Enable"
+        "Vir"
       ]
     },
     {
-      "blanked": "NIT Srinagar Observatory for ______ and Astrophysics",
-      "answer": "Astronomy",
+      "blanked": "Sensex down ______ pts, Nifty below 23,250: Rising bond yields among key factors behind market decline",
+      "answer": "600",
       "options": [
+        "600",
+        "India-Pakistan",
+        "Kumar",
+        "Roshibina"
+      ]
+    },
+    {
+      "blanked": "Heavy Rain Alert for Arunachal, Assam, ______ and Sikkim on September 23",
+      "answer": "Meghalaya",
+      "options": [
+        "Meghalaya",
+        "Alzheimers",
+        "Uzbekistan",
+        "Glasses"
+      ]
+    },
+    {
+      "blanked": "At least nine killed as sleeper bus catches fire on Yamuna ______ driver, conductor arrested for culpable homicide",
+      "answer": "Expressway",
+      "options": [
+        "600",
+        "Glasses",
+        "Expressway",
+        "Moment"
+      ]
+    },
+    {
+      "blanked": "Gul, ______ spin Afghanistan to victory over Japan in Asian Games opener",
+      "answer": "Kharote",
+      "options": [
+        "IPO",
+        "Kharote",
+        "Top",
+        "Treatments"
+      ]
+    },
+    {
+      "blanked": "Mark Zuckerberg debuts $1,299 Meta VR Glasses and Muse ______ pendant as part of AI agent push",
+      "answer": "Charm",
+      "options": [
+        "Uncovers",
+        "Charm",
         "Electrolytes",
-        "CCTV",
-        "Astronomy",
-        "Mars"
+        "Nadu"
       ]
     },
     {
-      "blanked": "Mark Zuckerberg debuts $1,299 ______ VR Glasses and Muse Charm pendant amid AI agent push",
-      "answer": "Meta",
+      "blanked": "NASA Rover Spectroscopy Uncovers Complex Water ______ on Ancient Mars",
+      "answer": "Systems",
       "options": [
-        "Fedspeak",
-        "Meta",
-        "Indians",
-        "MPs"
-      ]
-    },
-    {
-      "blanked": "‘Gyanesh, it’s done bro’: ______ Commission row becomes meme fodder on social media",
-      "answer": "Election",
-      "options": [
-        "Election",
+        "Systems",
+        "Final",
         "Indian",
-        "Several",
+        "Camera"
+      ]
+    },
+    {
+      "blanked": "International System Broken, Can't ______ Conflicts Like India-Pakistan: US",
+      "answer": "Address",
+      "options": [
+        "Charm",
+        "Code",
+        "Rising",
+        "Address"
+      ]
+    },
+    {
+      "blanked": "Asian Games 2026 LIVE: Roshibina Devi bags second Asian ______ silver in wushu",
+      "answer": "Games",
+      "options": [
+        "Pezeshkian",
+        "Supreme",
+        "Ansh",
         "Games"
       ]
     },
     {
-      "blanked": "One ______ killed in attack on ship off Oman; Centre condemns attack",
-      "answer": "Indian",
+      "blanked": "‘We are not scared’: ______ Ansh producer on Drishyam 3’s impact on its box office run",
+      "answer": "Hanuman",
       "options": [
-        "Indian",
-        "Sons",
-        "Mumbai",
-        "News"
+        "Hanuman",
+        "Club",
+        "Associated",
+        "Camera"
       ]
     },
     {
-      "blanked": "Why Global Credit Agencies Are Suddenly ______ India's GDP Growth Outlook",
-      "answer": "Raising",
+      "blanked": "In Another Bihar Horror, Teen Sexually Assaulted By Group Of Men On ______",
+      "answer": "Camera",
       "options": [
-        "Imaging",
-        "Rubio",
-        "India",
-        "Raising"
+        "Violation",
+        "Public",
+        "Crticial",
+        "Camera"
       ]
     },
     {
-      "blanked": "US, China agree to extend trade truce by two months, work on bigger deal, ______ says",
-      "answer": "Bessent",
+      "blanked": "N Chandrasekaran's real vote test: Tata Sons ______ not boardroom",
+      "answer": "AGM",
       "options": [
-        "Pro",
-        "Dhars",
-        "Bessent",
-        "Asthmas"
+        "Meta",
+        "Gambhir",
+        "CEC",
+        "AGM"
       ]
     }
   ]
