@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-09-24T17:25:13.855Z",
+  "generatedAt": "2026-09-24T20:37:34.695Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "U.S., China have ‘historic responsibility’ to further human development, says Xi at White House",
-    "‘Jantar Mantar 2’: CJP threatens protests if Gyanesh Kumar doesn’t resign in 48 hours",
-    "'Inappropriate to ask': Years before Sahil Wakode's death, IIT-Bombay professor warned students against c",
-    "Judge blocks Trump's White House media ban, orders access to be restored",
-    "Supreme Court Dismisses Danam Nagender's Plea Challenging Telangana HC Judgment Disqualifying Him As MLA For Defection",
-    "How an OpenAI ‘agent’ hacked Australia’s Medicare and what that means",
-    "P&H High Court Holds Late-Night WhatsApp Hearing On Punjab Govt's Plea Alleging ED Detained Top...",
-    "Greater Noida Bus On Fire, Driver Told Passengers \"Won't Stop, Don't Care If You Die\"",
-    "Calcutta High Court pulls up State for arresting Nandigram Congress candidate in yet another 2007 case",
-    "'No anti-incumbency against BJP?' Party counters Rahul Gandhi with Tamil Nadu, Bengal poll history",
-    "Unplanned Pit Stop, Diversion: How US-Bound F-35 Parts Ended Up In China",
-    "US Deploying Laser Weapons In Hormuz That Can Be Operated With Xbox Console: Report",
-    "Why is Iran threatening regional airports, and what could be the impact?",
+    "CJP warns of ‘Jantar Mantar 2.0’ if CEC Gyanesh Kumar does not resign",
+    "Trump-Xi Jinping LIVE Updates: Trump Says He Had A \"Great Meeting\" With Xi Jinping",
+    "TN Cong leader tells TNM he alerted Chennai cop on Veeramani in November 2024",
+    "Election Commissioners knocked on Cabinet Secretary’s door over voter software integrity",
+    "Politico Barred From White House Despite Judge Overturning Ban",
+    "Iran, US still far apart in peace talks, Iranian official says; Pezeshkian vows no surrender",
+    "Noida bus fire: passengers warned driver of burning smell; 17 challans worth ₹1.59 lakh pending against vehicle",
+    "Supreme Court Lays Down Safeguards To Prevent Misuse Of POCSO Act In Child Custody Cases, Quashes False...",
+    "P&H High Court holds late-night hearing via WhatsApp after Punjab claims ED detained top bureaucrats",
+    "Supreme Court Collegium recommends appointment of 12 additional judges as permanent judges in four High Courts",
+    "UN delegations walk out on Netanyahu; Israeli PM calls them moral cowards",
+    "8 suicide bids on USS Abraham Lincoln amid Iran deployment scrutiny, Navy confirms | World News",
     "Why Pakistan’s military cannot solve its Imran Khan problem",
-    "NSE Share Price Updates: NSE shares end with 2% listing gain, India's largest stock exchange enters D-Street",
-    "UPI merchant payment row: Banks to ensure merchants don’t pass charges to consumers, say govt sources",
-    "Tata Feud Tests Limits of Modi Government’s Influence",
-    "PB Fintech crashes 36%, Turtlemint 20% as IRDAI proposes new insurance distribution rules",
-    "Meta announces new VR Glasses and camera-free Ray-Ban Meta Audio - GSMArena.com news",
+    "Afghanistan vows to respond after Pakistani air strikes kill four",
+    "Stock Market Today Highlights, Sept 24: Dalal Street hit by crude fire, US yield surge, Nifty closes 1.64% lower at 23,063, Sensex lost 1247 points",
+    "SEBI approves new PMS rules, opens door to IPOs, foreign securities and MF investments",
+    "PB Fintech shares fall over 30% after IRDAI proposes lower insurance commissions",
+    "Indian conglomerate Tata Sons rejects controlling charities' illegality claims in letter, sources say",
+    "Dyson V16 Piston Animal vacuum launched as company’s most powerful model with all in one cleaner head and",
+    "Meta is trying VR glasses (again), this time with more IMAX",
+    "The Forbes Vetted Smart Home Awards Are Here: Shop 50 Top-Performing Products To Level Up Your Living Space",
     "FiiO Launches New CD Player As Sales Of Silver Discs Make A Comeback",
-    "Microsoft confirms Windows 11 quietly stopped backing up your files due to a new bug in September 2026 update",
-    "GTA 6 Physical Cases Already Spotted in Stores Before November 19 Launch",
     "Bollywood actor Mushtaq Khan dies after battle with cancer",
     "Alia Bhatt gives shout-out to Ranbir Kapoor after 'Love And War' first-look release: 'Hey handsome'",
-    "Hanuman Ansh Producer Says Nobody Agreed To Invest In The 'Small-Budget' Film: 'They Thought It Would Come And Go'"
+    "'Kya Dusre Ki Biwi Ko Le Ke Ghoom Rahe Ho?' Rakhi Sawant Calls Out Govinda For Visiting Lalbaugcha Raja With Komal Rani"
   ],
   "quiz": [
     {
-      "blanked": "Meta announces new VR Glasses and camera-free ______ Meta Audio - GSMArena.com news",
-      "answer": "Ray-Ban",
+      "blanked": "Trump-Xi Jinping LIVE Updates: Trump Says He Had A \"Great ______ With Xi Jinping",
+      "answer": "Meeting",
       "options": [
-        "WhatsApp",
-        "Discs",
-        "Ray-Ban",
-        "CJP"
+        "Gyanesh",
+        "Ranbir",
+        "Meeting",
+        "Secretarys"
+      ]
+    },
+    {
+      "blanked": "Supreme Court Lays Down Safeguards To Prevent Misuse Of POCSO Act In Child Custody ______ Quashes False...",
+      "answer": "Cases",
+      "options": [
+        "Love",
+        "Sawant",
+        "Cases",
+        "Rakhi"
+      ]
+    },
+    {
+      "blanked": "Dyson V16 ______ Animal vacuum launched as company’s most powerful model with all in one cleaner head and",
+      "answer": "Piston",
+      "options": [
+        "Living",
+        "Piston",
+        "Punjab",
+        "Sawant"
+      ]
+    },
+    {
+      "blanked": "Supreme Court Collegium recommends appointment of 12 additional judges as permanent judges in four High ______",
+      "answer": "Courts",
+      "options": [
+        "Navy",
+        "Courts",
+        "Bhatt",
+        "Home"
+      ]
+    },
+    {
+      "blanked": "Bollywood actor ______ Khan dies after battle with cancer",
+      "answer": "Mushtaq",
+      "options": [
+        "Dalal",
+        "Updates",
+        "Mushtaq",
+        "Abraham"
       ]
     },
     {
       "blanked": "NASA announces new ______ billion far-infrared telescope to uncover secrets of the universe",
       "answer": "1.2",
       "options": [
-        "Womens",
+        "Hey",
+        "1.64%",
         "1.2",
-        "Small-Budget",
-        "Dasara"
+        "Here"
       ]
     },
     {
-      "blanked": "Goa Becomes First Indian State to Roll Out Comprehensive ______ Vaccination Policy",
-      "answer": "Adult",
+      "blanked": "FiiO Launches New CD Player As Sales Of ______ Discs Make A Comeback",
+      "answer": "Silver",
       "options": [
-        "Watkins",
-        "Adult",
-        "Bengal",
-        "Bhatt"
+        "Jinping",
+        "Raja",
+        "Giant",
+        "Silver"
       ]
     },
     {
-      "blanked": "Asian Games 2026 Day 5 Live: Roshibina Devi bags second ______ Games silver in Wushu",
-      "answer": "Asian",
+      "blanked": "Alia Bhatt gives shout-out to Ranbir Kapoor after ______ And War' first-look release: 'Hey handsome'",
+      "answer": "Love",
       "options": [
-        "Asian",
-        "September",
-        "Pit",
-        "Weapons"
+        "High",
+        "IVF",
+        "2024",
+        "Love"
       ]
     },
     {
-      "blanked": "Alia ______ gives shout-out to Ranbir Kapoor after 'Love And War' first-look release: 'Hey handsome'",
-      "answer": "Bhatt",
+      "blanked": "Asian Games 2026 Day 5 highlights: ______ wins bronze in women's 10,000m final; 4x400m mixed relay team wins silver",
+      "answer": "Seema",
       "options": [
-        "Wont",
-        "Bhatt",
-        "Dismisses",
-        "IIT-Bombay"
+        "Court",
+        "Ghoom",
+        "Kumar",
+        "Seema"
       ]
     },
     {
-      "blanked": "How an OpenAI ‘agent’ hacked Australia’s ______ and what that means",
-      "answer": "Medicare",
+      "blanked": "Politico Barred From ______ House Despite Judge Overturning Ban",
+      "answer": "White",
       "options": [
+        "Kapoor",
+        "Septembers",
+        "White",
+        "November"
+      ]
+    },
+    {
+      "blanked": "Who is ______ Watkins? NASA astronaut set to command SpaceX Crew 13 mission to International Space Station | Hindustan Times",
+      "answer": "Jessica",
+      "options": [
+        "Times",
+        "Station",
         "Jessica",
-        "Medicare",
-        "Preterm",
-        "Streak"
+        "Raja"
       ]
     },
     {
-      "blanked": "FiiO Launches New CD Player As Sales Of Silver Discs ______ A Comeback",
-      "answer": "Make",
+      "blanked": "Indian conglomerate Tata ______ rejects controlling charities' illegality claims in letter, sources say",
+      "answer": "Sons",
       "options": [
-        "Rahul",
-        "Out",
-        "Make",
-        "Hey"
-      ]
-    },
-    {
-      "blanked": "Tata Feud Tests Limits of Modi ______ Influence",
-      "answer": "Governments",
-      "options": [
-        "Governments",
-        "Pit",
-        "Windows",
-        "Already"
-      ]
-    },
-    {
-      "blanked": "The Paradise box office collection day 1 (updated live): Nani film beats Dasara, HIT 3 opening at ₹34.51 crore | ______ Times",
-      "answer": "Hindustan",
-      "options": [
-        "Ended",
-        "Pakistans",
-        "Hindustan",
-        "Hormuz"
-      ]
-    },
-    {
-      "blanked": "Who is Jessica ______ NASA astronaut set to command SpaceX Crew 13 mission to International Space Station | Hindustan Times",
-      "answer": "Watkins",
-      "options": [
-        "Watkins",
-        "Gyanesh",
-        "NSE",
-        "Acid"
-      ]
-    },
-    {
-      "blanked": "GTA 6 Physical ______ Already Spotted in Stores Before November 19 Launch",
-      "answer": "Cases",
-      "options": [
-        "Danam",
-        "Price",
-        "Cases",
-        "Defection"
-      ]
-    },
-    {
-      "blanked": "Bollywood actor Mushtaq ______ dies after battle with cancer",
-      "answer": "Khan",
-      "options": [
-        "Savitha",
-        "Launches",
-        "Khan",
-        "Launch"
+        "Sons",
+        "POCSO",
+        "Lays",
+        "23063"
       ]
     }
   ]
