@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-09-24T12:16:50.436Z",
+  "generatedAt": "2026-09-24T17:25:13.855Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "Election Commission row LIVE: CJP demands resignation of CEC Gyanesh Kumar within 48 hours",
-    "Trump and Xi summit will focus on ‘stalibising’ ties, experts say",
+    "U.S., China have ‘historic responsibility’ to further human development, says Xi at White House",
+    "‘Jantar Mantar 2’: CJP threatens protests if Gyanesh Kumar doesn’t resign in 48 hours",
+    "'Inappropriate to ask': Years before Sahil Wakode's death, IIT-Bombay professor warned students against c",
     "Judge blocks Trump's White House media ban, orders access to be restored",
-    "TN Cong leader tells TNM he alerted Chennai cop on Veeramani in November 2024",
-    "Greater Noida Bus On Fire, Driver Told Passengers \"Won't Stop, Don't Care If You Die\"",
     "Supreme Court Dismisses Danam Nagender's Plea Challenging Telangana HC Judgment Disqualifying Him As MLA For Defection",
-    "IIT-Bombay suicide case: Sahil Wakode's father detained on way to campus to begin hunger strike",
-    "Supreme Court Collegium recommends appointment of Justice Subhash Upadhyay as permanent Uttarakhand High Court judge",
-    "Another teen sexually harassed in Bihar's Samastipur after Jamui horror; 4 arrested | India News",
-    "BJP spent more in Bengal poll than Cong did across 5 state polls",
-    "'Obviously unacceptable': Australia accuses OpenAI of breaching government website",
-    "Iran may extend war to Indian Ocean if US attacks again: Khamenei's adviser | World News",
+    "How an OpenAI ‘agent’ hacked Australia’s Medicare and what that means",
+    "P&H High Court Holds Late-Night WhatsApp Hearing On Punjab Govt's Plea Alleging ED Detained Top...",
+    "Greater Noida Bus On Fire, Driver Told Passengers \"Won't Stop, Don't Care If You Die\"",
+    "Calcutta High Court pulls up State for arresting Nandigram Congress candidate in yet another 2007 case",
+    "'No anti-incumbency against BJP?' Party counters Rahul Gandhi with Tamil Nadu, Bengal poll history",
     "Unplanned Pit Stop, Diversion: How US-Bound F-35 Parts Ended Up In China",
-    "Saudi Issues Another \"Potential Danger\" Warning For Mecca, 2nd Time In A Month",
-    "Stock Market Today Highlights, Sept 24: Dalal Street hit by crude fire, US yield surge, Nifty closes 1.64% lower at 23,063, Sensex lost 1247 points",
-    "India's NSE lists after decade-long wait; valued at $48 billion",
-    "PB Fintech stock crashes 34%: This September put contract turned Rs 20,000 investment into Rs 75 lakh in...",
-    "Brent Holds Above $102 as Iran Talks Stall Over Hormuz Conditions",
-    "Meta Unveils Muse Charm Handheld Device and Expands AI Agent Features",
-    "Meta Brings FDA-Cleared Hearing Enhancement To Its Smart Glasses",
-    "Avatar items from the adidas | Pokémon collection are coming to Pokémon GO!",
-    "I benchmarked Snapdragon 8 Elite Extreme Gen 6 against Apple’s A20 Pro and Google’s Tensor G6, and one clearly loses",
-    "The Paradise Box Office Day 1 Advance Booking (Final): Tollywood's 2nd Best Pre-Sales Of 2026 After Peddi!",
-    "'You Stood Beside Me Through Every Chapter': Yami Gautam Thanks Aditya Dhar After National Award Win",
-    "BREAKING: Love & War to release in IMAX; Sanjay Leela Bhansali returns to the format 9 years after Padmaavat"
+    "US Deploying Laser Weapons In Hormuz That Can Be Operated With Xbox Console: Report",
+    "Why is Iran threatening regional airports, and what could be the impact?",
+    "Why Pakistan’s military cannot solve its Imran Khan problem",
+    "NSE Share Price Updates: NSE shares end with 2% listing gain, India's largest stock exchange enters D-Street",
+    "UPI merchant payment row: Banks to ensure merchants don’t pass charges to consumers, say govt sources",
+    "Tata Feud Tests Limits of Modi Government’s Influence",
+    "PB Fintech crashes 36%, Turtlemint 20% as IRDAI proposes new insurance distribution rules",
+    "Meta announces new VR Glasses and camera-free Ray-Ban Meta Audio - GSMArena.com news",
+    "FiiO Launches New CD Player As Sales Of Silver Discs Make A Comeback",
+    "Microsoft confirms Windows 11 quietly stopped backing up your files due to a new bug in September 2026 update",
+    "GTA 6 Physical Cases Already Spotted in Stores Before November 19 Launch",
+    "Bollywood actor Mushtaq Khan dies after battle with cancer",
+    "Alia Bhatt gives shout-out to Ranbir Kapoor after 'Love And War' first-look release: 'Hey handsome'",
+    "Hanuman Ansh Producer Says Nobody Agreed To Invest In The 'Small-Budget' Film: 'They Thought It Would Come And Go'"
   ],
   "quiz": [
     {
-      "blanked": "Nature study suggests European origin of bats — ______ Mail",
-      "answer": "Cyprus",
+      "blanked": "Meta announces new VR Glasses and camera-free ______ Meta Audio - GSMArena.com news",
+      "answer": "Ray-Ban",
       "options": [
-        "Chapter",
-        "Sept",
-        "White",
-        "Cyprus"
+        "WhatsApp",
+        "Discs",
+        "Ray-Ban",
+        "CJP"
       ]
     },
     {
-      "blanked": "Iran may extend war to Indian Ocean if US attacks again: Khamenei's adviser | ______ News",
-      "answer": "World",
+      "blanked": "NASA announces new ______ billion far-infrared telescope to uncover secrets of the universe",
+      "answer": "1.2",
       "options": [
+        "Womens",
+        "1.2",
+        "Small-Budget",
+        "Dasara"
+      ]
+    },
+    {
+      "blanked": "Goa Becomes First Indian State to Roll Out Comprehensive ______ Vaccination Policy",
+      "answer": "Adult",
+      "options": [
+        "Watkins",
+        "Adult",
         "Bengal",
+        "Bhatt"
+      ]
+    },
+    {
+      "blanked": "Asian Games 2026 Day 5 Live: Roshibina Devi bags second ______ Games silver in Wushu",
+      "answer": "Asian",
+      "options": [
+        "Asian",
+        "September",
+        "Pit",
+        "Weapons"
+      ]
+    },
+    {
+      "blanked": "Alia ______ gives shout-out to Ranbir Kapoor after 'Love And War' first-look release: 'Hey handsome'",
+      "answer": "Bhatt",
+      "options": [
         "Wont",
-        "Danam",
-        "World"
+        "Bhatt",
+        "Dismisses",
+        "IIT-Bombay"
       ]
     },
     {
-      "blanked": "Judge blocks Trump's White ______ media ban, orders access to be restored",
-      "answer": "House",
+      "blanked": "How an OpenAI ‘agent’ hacked Australia’s ______ and what that means",
+      "answer": "Medicare",
       "options": [
-        "Bronze",
-        "How",
-        "House",
-        "Brings"
+        "Jessica",
+        "Medicare",
+        "Preterm",
+        "Streak"
       ]
     },
     {
-      "blanked": "'You Stood Beside Me Through Every ______ Yami Gautam Thanks Aditya Dhar After National Award Win",
-      "answer": "Chapter",
+      "blanked": "FiiO Launches New CD Player As Sales Of Silver Discs ______ A Comeback",
+      "answer": "Make",
       "options": [
-        "CJP",
-        "Weekend",
-        "Chapter",
-        "European"
+        "Rahul",
+        "Out",
+        "Make",
+        "Hey"
       ]
     },
     {
-      "blanked": "Who is Jessica Watkins? NASA astronaut set to command SpaceX Crew 13 mission to International Space Station | ______ Times",
+      "blanked": "Tata Feud Tests Limits of Modi ______ Influence",
+      "answer": "Governments",
+      "options": [
+        "Governments",
+        "Pit",
+        "Windows",
+        "Already"
+      ]
+    },
+    {
+      "blanked": "The Paradise box office collection day 1 (updated live): Nani film beats Dasara, HIT 3 opening at ₹34.51 crore | ______ Times",
       "answer": "Hindustan",
       "options": [
-        "Harvest",
-        "Chinese",
-        "Sept",
-        "Hindustan"
+        "Ended",
+        "Pakistans",
+        "Hindustan",
+        "Hormuz"
       ]
     },
     {
-      "blanked": "Another teen sexually harassed in Bihar's Samastipur after Jamui horror; 4 arrested | India ______",
-      "answer": "News",
+      "blanked": "Who is Jessica ______ NASA astronaut set to command SpaceX Crew 13 mission to International Space Station | Hindustan Times",
+      "answer": "Watkins",
       "options": [
-        "News",
-        "1.64%",
-        "Tensor",
-        "Games"
-      ]
-    },
-    {
-      "blanked": "Supreme Court Collegium recommends appointment of Justice ______ Upadhyay as permanent Uttarakhand High Court judge",
-      "answer": "Subhash",
-      "options": [
-        "Through",
-        "Subhash",
-        "Tollywoods",
-        "Cong"
-      ]
-    },
-    {
-      "blanked": "The ______ ‘Harvest Moon’ Rises This Weekend — Why This One Is Different",
-      "answer": "Full",
-      "options": [
-        "Broadcast",
-        "2026",
-        "Peddi",
-        "Full"
-      ]
-    },
-    {
-      "blanked": "MENA Broadcast, Media Technology & Satellite ______",
-      "answer": "News",
-      "options": [
-        "Commission",
-        "News",
-        "Station",
-        "European"
-      ]
-    },
-    {
-      "blanked": "I benchmarked Snapdragon 8 Elite Extreme Gen 6 against Apple’s A20 Pro and Google’s ______ G6, and one clearly loses",
-      "answer": "Tensor",
-      "options": [
-        "Issues",
-        "Tensor",
-        "102",
-        "Aditya"
-      ]
-    },
-    {
-      "blanked": "Maternal Hepatitis B Linked to ______ Birth After IVF",
-      "answer": "Preterm",
-      "options": [
+        "Watkins",
         "Gyanesh",
-        "Preterm",
-        "Potential",
-        "Beside"
+        "NSE",
+        "Acid"
       ]
     },
     {
-      "blanked": "Surrey and Sussex Cancer ______ launches HPV vaccine campaign",
-      "answer": "Alliance",
+      "blanked": "GTA 6 Physical ______ Already Spotted in Stores Before November 19 Launch",
+      "answer": "Cases",
       "options": [
-        "Pokmon",
-        "Day",
-        "Alliance",
-        "September"
+        "Danam",
+        "Price",
+        "Cases",
+        "Defection"
+      ]
+    },
+    {
+      "blanked": "Bollywood actor Mushtaq ______ dies after battle with cancer",
+      "answer": "Khan",
+      "options": [
+        "Savitha",
+        "Launches",
+        "Khan",
+        "Launch"
       ]
     }
   ]
