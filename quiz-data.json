@@ -1,123 +1,113 @@
 {
-  "generatedAt": "2026-09-23T23:41:51.132Z",
+  "generatedAt": "2026-09-24T01:39:16.729Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "News Analysis: With Trump-Xi truce, China looks to reshape Asian order",
+    "Xi arrives in Washington, kicking off his state visit with rare planeside welcome from Trump",
     "‘Gyanesh, it’s done bro’: Election Commission row becomes meme fodder on social media",
-    "Zelenskiy warns of painful winter for Russia if energy truce talks fail",
+    "US, China agree to extend trade truce by two months, work on bigger deal, Bessent says",
     "IIT-Bombay suicide case: New CCTV footage shows Sahil Wakode’s movements before he left exam hall",
     "‘Annihilate’ vs ‘crushing’ attacks: Why Iran, US up rhetoric amid talks",
     "Speaker Expected To Expediously Decide Disqualification Petitions Against Trinamool Rebel MPs : Supreme...",
-    "Ram Temple ‘fund theft’ case: Charge-sheet filed in court amid ruckus by lawyers, no mention of Champat Rai",
     "One Indian killed in attack on ship off Oman; Centre condemns attack",
-    "Odisha, Andhra weather alert LIVE: Deep depression crosses coast, landfall process underway, IMD says | Hindustan Times",
-    "‘No locus standi’: India rejects OIC remarks on Jammu & Kashmir",
+    "Doomed BMW was 'speeding at 120kmph', Mumbai coastal road has 80kmph speed limit | India News",
+    "'Cyclone Arnab' Has Taken Social Media By Storm, And Yet It Does Not Even Exist: Here's Why",
+    "Heavy To Extremely Heavy Rainfall Alert For Several States IMD Issues 7-Day Forecast",
     "Iranians Have Been \"Victims Of Terrorism\" By US: Pezeshkian at UN",
-    "AI leaders warn UN of security risks as systems grow more powerful",
+    "Sam Altman, Dario Amodei urge UN Security Council to adopt international AI standards",
     "In meeting with Rubio, Jaishankar raises India’s concerns about sanctions Act",
-    "India news: El Nino heat could kill 15,800 by Feb — report",
+    "Zelenskiy warns of painful winter for Russia if energy truce talks fail",
+    "N Chandrasekaran's real vote test: Tata Sons AGM, not boardroom",
     "Central government salary and pension to be paid on 25 September ahead of three-day bank strike",
-    "India cuts edible oil import duty to lower prices ahead of festivals",
-    "Tata Trusts, Tata Sons board unaware of N Chandrasekaran family’s TVS link",
+    "Why Global Credit Agencies Are Suddenly Raising India's GDP Growth Outlook",
     "Treasury yields soar, 10-yr at highest since July 2007 on hot U.S. data, Fedspeak",
+    "Mark Zuckerberg debuts $1,299 Meta VR Glasses and Muse Charm pendant amid AI agent push",
     "Beats 360 announced with interchangeable headband and cushions, and IPX4 rating - GSMArena.com news",
     "Reliance Digital brings iPhone 17 Pro price down to Rs 56,990 with exchange bonus, in-store discount and...",
-    "Microsoft releases new 13-inch laptop with 25% brighter display and up to 18 hours battery life",
     "Chrome Patches 108 Vulnerabilities Including Crticial Flaws that Enable Code Execution Attacks",
     "Aditya Dhar’s ‘Article 370’ sweeps 3 National Awards, director calls the win ‘deeply special’; Yami Gauta",
     "The Paradise North America Box Office Premiere: Final Pre-Sales Cross $1M, All Set To Enter Tollywood’s Top 10 Premieres Ever",
-    "World News Live Updates: Harvey Weinstein sentenced to 15 years in jail for sex crime after retrial"
+    "Vir Das Gets Third International Emmy Nomination For 'Fool Volume'"
   ],
   "quiz": [
     {
-      "blanked": "Aditya Dhar’s ‘Article ______ sweeps 3 National Awards, director calls the win ‘deeply special’; Yami Gauta",
-      "answer": "370",
+      "blanked": "Beats ______ announced with interchangeable headband and cushions, and IPX4 rating - GSMArena.com news",
+      "answer": "360",
       "options": [
-        "America",
-        "Final",
-        "370",
-        "IMD"
+        "September",
+        "Trinamool",
+        "Cross",
+        "360"
       ]
     },
     {
-      "blanked": "Zelenskiy warns of painful winter for ______ if energy truce talks fail",
-      "answer": "Russia",
+      "blanked": "Chrome Patches 108 Vulnerabilities Including Crticial Flaws that Enable ______ Execution Attacks",
+      "answer": "Code",
       "options": [
-        "Russia",
-        "Champat",
-        "Oman",
-        "Patches"
+        "Self-medication",
+        "Against",
+        "Victims",
+        "Code"
       ]
     },
     {
-      "blanked": "World News Live ______ Harvey Weinstein sentenced to 15 years in jail for sex crime after retrial",
-      "answer": "Updates",
+      "blanked": "Iranians Have Been \"Victims Of ______ By US: Pezeshkian at UN",
+      "answer": "Terrorism",
       "options": [
-        "Infection",
-        "56990",
-        "Updates",
-        "Ever"
+        "Study",
+        "Several",
+        "Media",
+        "Terrorism"
       ]
     },
     {
-      "blanked": "Tata Trusts, Tata Sons board unaware of N Chandrasekaran family’s ______ link",
-      "answer": "TVS",
+      "blanked": "Sam Altman, ______ Amodei urge UN Security Council to adopt international AI standards",
+      "answer": "Dario",
       "options": [
-        "TVS",
-        "Jaishankar",
-        "Have",
-        "Awards"
+        "Awards",
+        "Extremely",
+        "Dario",
+        "Lungs"
       ]
     },
     {
-      "blanked": "News Analysis: With ______ truce, China looks to reshape Asian order",
-      "answer": "Trump-Xi",
+      "blanked": "Treasury yields soar, 10-yr at highest since July ______ on hot U.S. data, Fedspeak",
+      "answer": "2007",
       "options": [
-        "Trump-Xi",
+        "Rover",
+        "Has",
+        "2007",
+        "Gets"
+      ]
+    },
+    {
+      "blanked": "N Chandrasekaran's real vote test: Tata ______ AGM, not boardroom",
+      "answer": "Sons",
+      "options": [
         "Execution",
-        "Decide",
-        "All"
-      ]
-    },
-    {
-      "blanked": "Odisha, Andhra weather alert ______ Deep depression crosses coast, landfall process underway, IMD says | Hindustan Times",
-      "answer": "LIVE",
-      "options": [
-        "SpaceX",
-        "LIVE",
-        "Rubio",
-        "Observatory"
-      ]
-    },
-    {
-      "blanked": "‘No locus standi’: India rejects OIC remarks on ______ & Kashmir",
-      "answer": "Jammu",
-      "options": [
-        "Election",
-        "Mars",
-        "America",
-        "Jammu"
-      ]
-    },
-    {
-      "blanked": "NIT Srinagar ______ for Astronomy and Astrophysics",
-      "answer": "Observatory",
-      "options": [
         "Sons",
-        "Have",
-        "Observatory",
-        "Jammu"
+        "MPs",
+        "Enable"
       ]
     },
     {
-      "blanked": "Speaker Expected To Expediously Decide Disqualification ______ Against Trinamool Rebel MPs : Supreme...",
-      "answer": "Petitions",
+      "blanked": "NIT Srinagar Observatory for ______ and Astrophysics",
+      "answer": "Astronomy",
       "options": [
-        "Execution",
-        "Nino",
-        "Petitions",
-        "Suriyas"
+        "Electrolytes",
+        "CCTV",
+        "Astronomy",
+        "Mars"
+      ]
+    },
+    {
+      "blanked": "Mark Zuckerberg debuts $1,299 ______ VR Glasses and Muse Charm pendant amid AI agent push",
+      "answer": "Meta",
+      "options": [
+        "Fedspeak",
+        "Meta",
+        "Indians",
+        "MPs"
       ]
     },
     {
@@ -125,29 +115,39 @@
       "answer": "Election",
       "options": [
         "Election",
-        "Including",
-        "Charge-sheet",
-        "Decide"
+        "Indian",
+        "Several",
+        "Games"
       ]
     },
     {
-      "blanked": "India news: El ______ heat could kill 15,800 by Feb — report",
-      "answer": "Nino",
+      "blanked": "One ______ killed in attack on ship off Oman; Centre condemns attack",
+      "answer": "Indian",
       "options": [
-        "Trusts",
-        "Nino",
-        "Petitions",
-        "Ancient"
+        "Indian",
+        "Sons",
+        "Mumbai",
+        "News"
       ]
     },
     {
-      "blanked": "India's Asian Games ______ schedule today, September 24: Athletics campaign kicks off, Anahat Singh begins bid for LA 2028 berth",
-      "answer": "2026",
+      "blanked": "Why Global Credit Agencies Are Suddenly ______ India's GDP Growth Outlook",
+      "answer": "Raising",
       "options": [
-        "Expediously",
-        "Petitions",
-        "2026",
-        "Water"
+        "Imaging",
+        "Rubio",
+        "India",
+        "Raising"
+      ]
+    },
+    {
+      "blanked": "US, China agree to extend trade truce by two months, work on bigger deal, ______ says",
+      "answer": "Bessent",
+      "options": [
+        "Pro",
+        "Dhars",
+        "Bessent",
+        "Asthmas"
       ]
     }
   ]
