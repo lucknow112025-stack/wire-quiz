@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-09-25T12:13:47.246Z",
+  "generatedAt": "2026-09-25T17:13:35.780Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "Plea in Supreme Court says CEC Gyanesh Kumar can be probed and tried like an ‘ordinary accused’",
-    "From Athens to Washington: What is the ‘Thucydides Trap’ Chinese President Xi keeps invoking",
-    "Delhi High Court Directs Police To Protect Woman Alleging CJP Leaders Circulated Deepfake Image With PM...",
-    "Birthday Ended In Horror At Delhi Park: What Gang-Rape Survivor Told Cops",
-    "On Camera, 6 Men Assault Woman With Slippers At Tourist Site In Bihar",
-    "Politico Barred From White House Despite Judge Overturning Ban",
-    "Ganesh immersion 2026 LIVE: Khairatabad Ganesh idol immersion concludes; traffic curbs across central Hyderabad till September 26",
-    "EC may order SSR of rolls in Oct for poll-bound states",
-    "‘One Ukraine Firm Makes 100 Missiles A Month, India Can’t Make Just 200-300 A Year’: Defence Secy At News18",
-    "Father-son duo among four Naga civilians reportedly killed in Kamjong border area",
+    "Election Commission row highlights: Congress hold protests across the country seeking CEC resignations; AISA's Neha among those detained amid Jantar Mantar agitation",
+    "Trump to wrap up Xi summit with a tour of US archives",
+    "Nepal’s leader labels devastating flood a ‘warning to the world’",
+    "Madras High Court bars videos linked to POCSO case against GEM Granites founder R Veeramani",
     "Pakistani forces kill Afghan Taliban fighters in border escalation",
+    "Delhi High Court Directs Police To Protect Woman Alleging CJP Leaders Circulated Deepfake Image With PM...",
+    "‘Attacks on civilian shipping simply indefensible’: Jaishankar's strong message at UNGA | India News",
+    "Air India pilot found tipsy just before operating Zurich-Delhi flight, suspended",
+    "Not Just Gyanesh Kumar, Sack All Involved: Samajwadi Party Backs Congress Move",
+    "BrahMos, AK-203 made in UP giving Pakistan ‘sleepless nights’: Amit Shah in Greater Noida | India News",
+    "Iran pitches seven-day roadmap to end conflict with US",
+    "UAE bars Iranian airlines as US sanctions squeeze Iran’s aviation sector",
     "Meloni government bans burqas, caps foreign students in Italian schools",
-    "Nepal PM Balendra Shah's India-China Balancing Act In UN Climate Pitch",
-    "Swedish, Finnish fighter jets intercept group of Russian military aircraft",
-    "PB Fintech extends losses, falls another 5%; key concall takeaways, how insurance stocks are faring",
-    "Government, banks to decide subsidy amount for UPI that will continue after MDR comes in",
-    "Stock Market LIVE Updates, Sensex Today: Sensex, Nifty Trade Flat Amid Mixed Global Cues",
+    "Saudi Arabia reports fresh Houthi attacks as France offers military support to protect Yanbu",
     "Central govt employees to get salary in advance on Sep 25 in view of 3-day bank strike - People Matters",
-    "Meta launches keychain-sized Muse Charm with new smart glasses",
-    "Google’s AI Found 500 Security Bugs. The Apps Built Properly Had Two",
-    "Google Releases Chrome 154 Stable: Standardizes iframe Auto-Resize and HTTP Connection Prompts",
-    "How Vaseline Became Fluent in Internet Speak",
+    "Government, banks to decide subsidy amount for UPI that will continue after MDR comes in",
+    "PB Fintech extends losses, falls another 5%; key concall takeaways, how insurance stocks are faring",
+    "Supreme Court refuses to halt forensic audit of Fortis transactions in Daiichi-Singh brothers dispute",
+    "Ray-Ban Meta (Gen 3) arrive with longer battery life, upgraded mics, and Dolby Atmos video recording",
+    "How Ace Combat 8: Wings of Theve Brings High Flying Drama to XBOX Series X|S",
+    "Play EA SPORTS FC 27 now",
+    "Workday Moves Toward Agentic Contract Lifecycle Management With New Workflow Agent",
+    "'Hanuman Ansh' director Vishal Chaturvedi reveals Mushtaq Khan was set to star in his next film, mourns a",
     "The Vvaan Final Advance Booking: Sidharth Malhotra and Tamannaah Bhatia starrer set to surprise; Aims Rs 7 crore on Day 1",
-    "The Paradise Box Office Collection Day 1: Nani's Film Is Now His Biggest Opener Of His Career, Earns Rs 76 Crore",
-    "Alia Bhatt Goes Bold With Sequins, Statement Rings, And Emerald Heels At Don't Be Shy Screening"
+    "Raghubir Yadav says playing godman Baapji accused of sexual abuse in Aneet Padda starrer ‘Hunkkaar’ felt"
   ],
   "quiz": [
     {
-      "blanked": "Pakistani forces kill ______ Taliban fighters in border escalation",
-      "answer": "Afghan",
+      "blanked": "Ranveer Singh Makes First ______ After Welcoming Second Baby With Deepika Padukone, Fans Say \"He Looks So Fine\"",
+      "answer": "Appearance",
       "options": [
-        "Afghan",
-        "Internet",
-        "Gang-Rape",
-        "Properly"
+        "Makes",
+        "Appearance",
+        "Jantar",
+        "Gen"
       ]
     },
     {
-      "blanked": "On Camera, 6 Men Assault Woman With ______ At Tourist Site In Bihar",
-      "answer": "Slippers",
+      "blanked": "The harvest moon pairs up with ______ for a 2-for-1 celestial display",
+      "answer": "Saturn",
       "options": [
-        "Prompts",
-        "Updates",
-        "Slippers",
-        "Aneet"
+        "Sep",
+        "Cervical",
+        "Your",
+        "Saturn"
       ]
     },
     {
-      "blanked": "Meta launches keychain-sized ______ Charm with new smart glasses",
-      "answer": "Muse",
+      "blanked": "With PRIMA, ______ will try to build a billion-dollar space telescope in record time",
+      "answer": "NASA",
       "options": [
-        "What",
-        "CEC",
-        "Shahs",
-        "Muse"
+        "Baranica",
+        "NASA",
+        "Final",
+        "UPI"
       ]
     },
     {
-      "blanked": "Pakistan records surge in ______ cases among children; expert shares warning signs",
-      "answer": "HIV",
+      "blanked": "'Hanuman Ansh' director Vishal Chaturvedi reveals Mushtaq ______ was set to star in his next film, mourns a",
+      "answer": "Khan",
       "options": [
-        "Test",
-        "Shah",
-        "Pilot",
-        "HIV"
+        "Khan",
+        "Asian",
+        "Appearance",
+        "Fortis"
       ]
     },
     {
-      "blanked": "Ganesh immersion 2026 LIVE: Khairatabad Ganesh idol immersion concludes; traffic curbs across central ______ till September 26",
-      "answer": "Hyderabad",
+      "blanked": "The Vvaan Final ______ Booking: Sidharth Malhotra and Tamannaah Bhatia starrer set to surprise; Aims Rs 7 crore on Day 1",
+      "answer": "Advance",
       "options": [
-        "Hyderabad",
-        "Paradise",
-        "Speak",
-        "Urged"
-      ]
-    },
-    {
-      "blanked": "WHO South-East ______ immunization experts meet focuses on measles outbreaks, closing immunity gaps",
-      "answer": "Asia",
-      "options": [
-        "Bhatt",
         "Advance",
-        "Asia",
-        "Paradise"
+        "Diya",
+        "Vishal",
+        "Neha"
       ]
     },
     {
-      "blanked": "EC may order ______ of rolls in Oct for poll-bound states",
-      "answer": "SSR",
+      "blanked": "Play EA ______ FC 27 now",
+      "answer": "SPORTS",
       "options": [
-        "Speak",
-        "Sensex",
-        "SSR",
-        "Bold"
+        "Irans",
+        "SPORTS",
+        "PAN",
+        "Taliban"
       ]
     },
     {
-      "blanked": "Bats first originated in ______ 65 million years ago, scientists say",
-      "answer": "Europe",
+      "blanked": "Europe Urged to Reform ______ Cancer Surveillance",
+      "answer": "Liver",
       "options": [
-        "Afghan",
-        "Europe",
-        "Chinese",
-        "Film"
+        "Iran",
+        "Liver",
+        "Management",
+        "Mushtaq"
       ]
     },
     {
-      "blanked": "From Athens to Washington: What is the ‘Thucydides ______ Chinese President Xi keeps invoking",
-      "answer": "Trap",
+      "blanked": "Asian ______ India's medal tally hits 20; Manush Shah, Diya Chitale win mixed doubles table tennis bronze",
+      "answer": "Games",
       "options": [
-        "Trap",
-        "Missiles",
-        "Secy",
-        "Naga"
+        "Games",
+        "Padukone",
+        "Deaths",
+        "Test"
       ]
     },
     {
-      "blanked": "Politico Barred From White ______ Despite Judge Overturning Ban",
-      "answer": "House",
+      "blanked": "Meloni government bans burqas, caps foreign students in ______ schools",
+      "answer": "Italian",
       "options": [
-        "House",
-        "Cuts",
-        "Shahs",
-        "Delhi"
+        "Move",
+        "Drama",
+        "Italian",
+        "Cervical"
       ]
     },
     {
-      "blanked": "Plea in Supreme Court says CEC ______ Kumar can be probed and tried like an ‘ordinary accused’",
-      "answer": "Gyanesh",
+      "blanked": "Saudi Arabia reports fresh ______ attacks as France offers military support to protect Yanbu",
+      "answer": "Houthi",
       "options": [
-        "Gyanesh",
+        "CJP",
+        "Challenge",
+        "Japan",
+        "Houthi"
+      ]
+    },
+    {
+      "blanked": "Can Smoking Raise ______ Blood Pressure? Doctors Explain What Happens",
+      "answer": "Your",
+      "options": [
+        "Inshorts",
+        "Your",
+        "Sidharth",
+        "Panama"
+      ]
+    },
+    {
+      "blanked": "Pancreatic Cancer Mortality ______ Unequal Across Japan",
+      "answer": "Remains",
+      "options": [
+        "Mens",
+        "Houthi",
         "High",
-        "Next",
-        "Europe"
-      ]
-    },
-    {
-      "blanked": "When is the Harvest Moon? From ______ to Tokyo to New York, key timings for the full Moon this weekend",
-      "answer": "London",
-      "options": [
-        "Hyderabad",
-        "Image",
-        "Cant",
-        "London"
+        "Remains"
       ]
     }
   ]
