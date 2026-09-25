@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-09-25T06:39:14.421Z",
+  "generatedAt": "2026-09-25T12:13:47.246Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "Why Trump gave Xi an ornate bald eagle statue at the state dinner",
-    "BREAKING | Plea In Bombay High Court To Quash 14 Orders Passed By CEC Gyanesh Kumar Despite Objections Of ...",
-    "Netanyahu Attacks UK, France, Turkey In Fiery UN Speech",
-    "Woman thrashed, sexually harassed by 6 men on camera at Bihar tourist spot",
-    "US and Iran discuss phased deal to reopen Hormuz and end US blockade, sources say",
+    "Plea in Supreme Court says CEC Gyanesh Kumar can be probed and tried like an ‘ordinary accused’",
+    "From Athens to Washington: What is the ‘Thucydides Trap’ Chinese President Xi keeps invoking",
+    "Delhi High Court Directs Police To Protect Woman Alleging CJP Leaders Circulated Deepfake Image With PM...",
+    "Birthday Ended In Horror At Delhi Park: What Gang-Rape Survivor Told Cops",
+    "On Camera, 6 Men Assault Woman With Slippers At Tourist Site In Bihar",
     "Politico Barred From White House Despite Judge Overturning Ban",
-    "‘Foreign occupation’: India shreds Pakistan at UN, asks it vacate part of J&K that it ‘occupies’ | India News",
+    "Ganesh immersion 2026 LIVE: Khairatabad Ganesh idol immersion concludes; traffic curbs across central Hyderabad till September 26",
+    "EC may order SSR of rolls in Oct for poll-bound states",
     "‘One Ukraine Firm Makes 100 Missiles A Month, India Can’t Make Just 200-300 A Year’: Defence Secy At News18",
-    "American VanDyke, 6 Ukrainians held by NIA in terror case to leave India, return home for a month",
-    "Spirit of service is greatest driving force for country’s progress: PM Modi during Seva Yatra interaction",
-    "Nepal PM Balendra Shah's India-China Balancing Act In UN Climate Pitch",
+    "Father-son duo among four Naga civilians reportedly killed in Kamjong border area",
     "Pakistani forces kill Afghan Taliban fighters in border escalation",
-    "Grilled at UN over Hafiz Saeed and harbouring terrorism, Pak PM Sharif walks away | Watch | World News",
-    "Saudi, Turkish, Pakistani chiefs plan urgent talks amid Yemen fighting",
+    "Meloni government bans burqas, caps foreign students in Italian schools",
+    "Nepal PM Balendra Shah's India-China Balancing Act In UN Climate Pitch",
+    "Swedish, Finnish fighter jets intercept group of Russian military aircraft",
+    "PB Fintech extends losses, falls another 5%; key concall takeaways, how insurance stocks are faring",
+    "Government, banks to decide subsidy amount for UPI that will continue after MDR comes in",
     "Stock Market LIVE Updates, Sensex Today: Sensex, Nifty Trade Flat Amid Mixed Global Cues",
-    "PB Fintech shares crash another 7% today, extend yesterday's 36% fall as regulatory worries persist",
-    "Sensex gains 300 pts from day's low, Nifty above 23,100: Value buying among key factors behind market rise",
-    "12 years of ‘Make in India’ in 12 metrics — Low and patchy impact on growth, employment & global share",
-    "Meta made a Tamagotchi-like wearable for its Muse AI agent",
-    "Sarvam AI launches Saaras V4 speech recognition model for multilingual voice applications",
-    "iPhone 18 Pro users report display lines and unexpected restarts within days of launch",
-    "Xiaomi releases Pocket Guitar to transform Xiaomi 18 Pro and iPhones into musical instruments",
+    "Central govt employees to get salary in advance on Sep 25 in view of 3-day bank strike - People Matters",
+    "Meta launches keychain-sized Muse Charm with new smart glasses",
+    "Google’s AI Found 500 Security Bugs. The Apps Built Properly Had Two",
+    "Google Releases Chrome 154 Stable: Standardizes iframe Auto-Resize and HTTP Connection Prompts",
+    "How Vaseline Became Fluent in Internet Speak",
     "The Vvaan Final Advance Booking: Sidharth Malhotra and Tamannaah Bhatia starrer set to surprise; Aims Rs 7 crore on Day 1",
-    "'The Paradise' box office collection Day 1 [LIVE]: Nani, Raghav Juyal and Kayadu Lohar starrer action dra",
-    "Box Office: 'Avengers: Endgame: Encore' & 'Primetime' Lead Previews With $3M Apiece"
+    "The Paradise Box Office Collection Day 1: Nani's Film Is Now His Biggest Opener Of His Career, Earns Rs 76 Crore",
+    "Alia Bhatt Goes Bold With Sequins, Statement Rings, And Emerald Heels At Don't Be Shy Screening"
   ],
   "quiz": [
     {
-      "blanked": "PB ______ shares crash another 7% today, extend yesterday's 36% fall as regulatory worries persist",
-      "answer": "Fintech",
+      "blanked": "Pakistani forces kill ______ Taliban fighters in border escalation",
+      "answer": "Afghan",
       "options": [
-        "Septembers",
-        "Fintech",
-        "France",
-        "Apiece"
+        "Afghan",
+        "Internet",
+        "Gang-Rape",
+        "Properly"
       ]
     },
     {
-      "blanked": "Sarvam AI launches ______ V4 speech recognition model for multilingual voice applications",
-      "answer": "Saaras",
+      "blanked": "On Camera, 6 Men Assault Woman With ______ At Tourist Site In Bihar",
+      "answer": "Slippers",
       "options": [
-        "Doctors",
-        "Potential",
-        "Lohar",
-        "Saaras"
-      ]
-    },
-    {
-      "blanked": "Xiaomi releases ______ Guitar to transform Xiaomi 18 Pro and iPhones into musical instruments",
-      "answer": "Pocket",
-      "options": [
-        "Pocket",
-        "Quash",
-        "Court",
-        "India-China"
-      ]
-    },
-    {
-      "blanked": "Examining The Potential Of P-tau217 To Provide Earlier Diagnosis Of ______",
-      "answer": "Alzheimers",
-      "options": [
+        "Prompts",
         "Updates",
-        "Bihar",
-        "Alzheimers",
-        "Hormuz"
+        "Slippers",
+        "Aneet"
       ]
     },
     {
-      "blanked": "Woman thrashed, sexually harassed by 6 men on camera at ______ tourist spot",
-      "answer": "Bihar",
+      "blanked": "Meta launches keychain-sized ______ Charm with new smart glasses",
+      "answer": "Muse",
       "options": [
-        "NIA",
-        "Know",
-        "Makes",
-        "Bihar"
+        "What",
+        "CEC",
+        "Shahs",
+        "Muse"
       ]
     },
     {
-      "blanked": "A high school student was scanning free NASA-ESA images when he spotted a tiny dot near the ______ which...",
-      "answer": "Sun",
+      "blanked": "Pakistan records surge in ______ cases among children; expert shares warning signs",
+      "answer": "HIV",
       "options": [
-        "Sun",
-        "Ukrainians",
-        "Inshorts",
-        "Doctors"
+        "Test",
+        "Shah",
+        "Pilot",
+        "HIV"
       ]
     },
     {
-      "blanked": "Politico Barred From White House Despite Judge ______ Ban",
-      "answer": "Overturning",
+      "blanked": "Ganesh immersion 2026 LIVE: Khairatabad Ganesh idol immersion concludes; traffic curbs across central ______ till September 26",
+      "answer": "Hyderabad",
       "options": [
-        "Day",
-        "Moon",
-        "Overturning",
-        "SpaceX"
+        "Hyderabad",
+        "Paradise",
+        "Speak",
+        "Urged"
       ]
     },
     {
-      "blanked": "Love & War: Ranbir Kapoor's Blood-Soaked Arm In First Look Poster ______ Frenzy",
-      "answer": "Sparks",
+      "blanked": "WHO South-East ______ immunization experts meet focuses on measles outbreaks, closing immunity gaps",
+      "answer": "Asia",
       "options": [
-        "Thailand",
-        "Cues",
-        "Sparks",
-        "Doctors"
+        "Bhatt",
+        "Advance",
+        "Asia",
+        "Paradise"
       ]
     },
     {
-      "blanked": "Pakistani forces kill Afghan ______ fighters in border escalation",
-      "answer": "Taliban",
+      "blanked": "EC may order ______ of rolls in Oct for poll-bound states",
+      "answer": "SSR",
       "options": [
-        "India",
-        "Taliban",
-        "Know",
-        "Ukraine"
+        "Speak",
+        "Sensex",
+        "SSR",
+        "Bold"
       ]
     },
     {
-      "blanked": "Asian Games 2026 kabaddi semifinals LIVE score: India playing Thailand in men's competition - IND 23-14 THA; India in women's final after Nepal win (IND 48-24 ______",
-      "answer": "NEP",
+      "blanked": "Bats first originated in ______ 65 million years ago, scientists say",
+      "answer": "Europe",
       "options": [
-        "NEP",
-        "Make",
-        "Quash",
-        "Malhotra"
+        "Afghan",
+        "Europe",
+        "Chinese",
+        "Film"
       ]
     },
     {
-      "blanked": "US and ______ discuss phased deal to reopen Hormuz and end US blockade, sources say",
-      "answer": "Iran",
+      "blanked": "From Athens to Washington: What is the ‘Thucydides ______ Chinese President Xi keeps invoking",
+      "answer": "Trap",
       "options": [
-        "September",
-        "Iran",
-        "NASA-ESA",
-        "THA"
+        "Trap",
+        "Missiles",
+        "Secy",
+        "Naga"
       ]
     },
     {
-      "blanked": "Saudi, Turkish, Pakistani chiefs plan urgent talks amid ______ fighting",
-      "answer": "Yemen",
+      "blanked": "Politico Barred From White ______ Despite Judge Overturning Ban",
+      "answer": "House",
       "options": [
-        "Ranbir",
-        "Muse",
-        "White",
-        "Yemen"
+        "House",
+        "Cuts",
+        "Shahs",
+        "Delhi"
+      ]
+    },
+    {
+      "blanked": "Plea in Supreme Court says CEC ______ Kumar can be probed and tried like an ‘ordinary accused’",
+      "answer": "Gyanesh",
+      "options": [
+        "Gyanesh",
+        "High",
+        "Next",
+        "Europe"
+      ]
+    },
+    {
+      "blanked": "When is the Harvest Moon? From ______ to Tokyo to New York, key timings for the full Moon this weekend",
+      "answer": "London",
+      "options": [
+        "Hyderabad",
+        "Image",
+        "Cant",
+        "London"
       ]
     }
   ]
