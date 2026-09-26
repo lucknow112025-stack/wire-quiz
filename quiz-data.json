@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-09-26T01:48:55.496Z",
+  "generatedAt": "2026-09-26T06:57:24.381Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
+    "Iran suggests deal to reopen Strait of Hormuz in seven days; Trump rejects proposal",
     "\"Terrorist Country Asking Me?\" S Jaishankar Rips Into Pak Journalist's Question",
-    "Trump hosts Xi for state dinner as pomp masks tensions",
-    "Which countries walked out of Netanyahu's UNGA speech? Israeli PM reacts as delegates leave in dozens | World News",
-    "Ganesh immersion 2026 highlights: Khairatabad Ganesh idol immersion concludes",
-    "Iran will make no nuclear concessions, Iranian official says",
     "Plea In Supreme Court Seeks Prosecution Of CEC Gyanesh Kumar, SIT Inquiry Into SIR Voter Deletions",
-    "AAI Chairman transferred to Rural Development Department",
-    "PM Modi says Viksit Bharat can be realised only with contribution of everyone; Interacts with Seva Yatris under Seva Sankalp Abhiyan",
-    "‘Attacks on civilian shipping simply indefensible’: Jaishankar's strong message at UNGA | India News",
-    "Marking 'VIPs' routine, was part of SSR even before SIR: Officials",
-    "14 killed in Congo plane crash, two senior military officials among dead",
-    "\"When Will You Prosecute Hafiz Saeed?\" Pak's Shehbaz Sharif Confronted At UN",
-    "Could China get a waiver under the US-Russia sanctions law while India faces tariff risk?",
-    "Trump warns Xi over Chinese support for Iran, receives assurances, US envoy says",
-    "Central govt employees to get salary in advance on Sep 25 in view of 3-day bank strike - People Matters",
-    "Centre to borrow Rs 7.86 lakh crore in H2FY27; full-year borrowing below Budget estimate",
-    "PB Fintech extends losses, falls another 5%; key concall takeaways, how insurance stocks are faring",
-    "Stocks to buy: UBS picks 4 NBFC shares with upside potential of up to 36%",
-    "Google Health App Adds Passive Blood Pressure, Metabolic Tracking For Pixel Watch Users",
+    "Grilled at UN over Hafiz Saeed and harbouring terrorism, Pak PM Sharif walks away | Watch | World News",
+    "Trump hosts Xi for state dinner as pomp masks tensions",
+    "Nepal’s leader labels devastating flood a ‘warning to the world’",
+    "2 held for 'harassing' Hindu College students in Delhi's Mukherjee Nagar; SUV seized",
+    "PM Modi attends ‘bhajan clubbing’ on Deendayal Upadhyaya's birth anniversary: Video | India News",
+    "'Regionalist, Not Racist': Bengaluru CEO To NDTV On Hiring Ban On Men From 4 States",
+    "Election Commission Unanimous In All Orders On Voter List Revision: Sources",
+    "Saudi coalition says it intercepts Houthi missiles, drones",
+    "Russia sanctions act: ‘Taken note of India’s warning that new US tariffs could impact ties’ | World News",
+    "Pakistan PM Shebaz Sharif raises Kashmir issue at UNGA, credits Trump for 'timely intervention' during India's Op Sindoor",
+    "Pakistan govt puts Islamabad on lockdown as Imran Khan’s party pushes ahead with march",
+    "No commitment given to bank unions on five-day work week by Finance Ministry: report",
+    "OpenAI’s ‘Rogue AI’ Problem Is Bigger Than It Let On",
+    "PB Fintech share price target cut to half: HSBC, Motilal Oswal cautious on regulatory overhang after 36%...",
+    "Inside Tata Sons' power struggle: Tata Trusts, Chandrasekaran and the battle over control",
     "Meta’s Muse Charm: The Biometric AI Keychain Agent",
+    "Today’s NYT Strands Hints, Spangram, Answers: Saturday, September 19 (A Breath Of Fresh Air)",
     "Ace Combat 8 Wings of Theve launches on Xbox next week: New aircraft, customisation and story revealed",
     "Play EA SPORTS FC™ 27 now!",
-    "'Avengers Endgame: Encore' re-release: Indian fans celebrate, light fireworks inside Chennai theatre duri",
-    "‘Unabomber’ Review: A Portrait of the Terrorist as a Young Man, Given a Hokey TV-Movie Gloss",
-    "The Paradise: Nani responds to negative reactions about action thriller, says ‘Heartwarmed by the way audience owned film’"
+    "Alia Bhatt dazzles as cabaret dancer in first look from Sanjay Leela Bhansali’s ‘Love and War’",
+    "The Paradise: Nani responds to negative reactions about action thriller, says ‘Heartwarmed by the way audience owned film’",
+    "Kriti Sanon likes post questioning outrage over her outfit in Raksha Bandhan ad amid uproar over Delhi rape case | Bollywood"
   ],
   "quiz": [
     {
-      "blanked": "Europe Urged to ______ Liver Cancer Surveillance",
-      "answer": "Reform",
+      "blanked": "\"Terrorist Country Asking Me?\" S Jaishankar ______ Into Pak Journalist's Question",
+      "answer": "Rips",
+      "options": [
+        "NYT",
+        "Rips",
+        "Tilottama",
+        "Kashmir"
+      ]
+    },
+    {
+      "blanked": "PB Fintech share price target cut to half: HSBC, Motilal ______ cautious on regulatory overhang after 36%...",
+      "answer": "Oswal",
+      "options": [
+        "Indias",
+        "Lung",
+        "Moon",
+        "Oswal"
+      ]
+    },
+    {
+      "blanked": "Gambhir prioritises player fitness for ______ CWC27",
+      "answer": "ICC",
+      "options": [
+        "ICC",
+        "Games",
+        "Sanjay",
+        "Pattinsons"
+      ]
+    },
+    {
+      "blanked": "Plea In Supreme Court ______ Prosecution Of CEC Gyanesh Kumar, SIT Inquiry Into SIR Voter Deletions",
+      "answer": "Seeks",
+      "options": [
+        "Seeks",
+        "UNGA",
+        "Let",
+        "Heartwarmed"
+      ]
+    },
+    {
+      "blanked": "Primetime Review: Robert Pattinson's Slimy Thriller Is Gut-Churning & ______",
+      "answer": "Sinister",
+      "options": [
+        "Inshorts",
+        "Sinister",
+        "Biometric",
+        "Fintech"
+      ]
+    },
+    {
+      "blanked": "Saudi coalition says it intercepts ______ missiles, drones",
+      "answer": "Houthi",
+      "options": [
+        "War",
+        "Know",
+        "Mukherjee",
+        "Houthi"
+      ]
+    },
+    {
+      "blanked": "Pakistan PM Shebaz Sharif raises Kashmir issue at ______ credits Trump for 'timely intervention' during India's Op Sindoor",
+      "answer": "UNGA",
       "options": [
         "Fintech",
-        "Reform",
-        "Journalists",
-        "Confronted"
-      ]
-    },
-    {
-      "blanked": "Ganesh immersion 2026 highlights: Khairatabad ______ idol immersion concludes",
-      "answer": "Ganesh",
-      "options": [
-        "US-Russia",
-        "How",
-        "Court",
-        "Ganesh"
-      ]
-    },
-    {
-      "blanked": "‘Attacks on civilian shipping simply indefensible’: Jaishankar's strong message at UNGA | ______ News",
-      "answer": "India",
-      "options": [
-        "Tap",
-        "NBFC",
-        "India",
-        "Bharat"
-      ]
-    },
-    {
-      "blanked": "‘Unabomber’ Review: A Portrait of the Terrorist as a Young ______ Given a Hokey TV-Movie Gloss",
-      "answer": "Man",
-      "options": [
-        "Prosecution",
-        "Asking",
-        "Man",
-        "114"
-      ]
-    },
-    {
-      "blanked": "Ace Combat 8 ______ of Theve launches on Xbox next week: New aircraft, customisation and story revealed",
-      "answer": "Wings",
-      "options": [
-        "Williams",
-        "Tap",
-        "Wings",
-        "Nani"
-      ]
-    },
-    {
-      "blanked": "\"When Will You Prosecute Hafiz ______ Pak's Shehbaz Sharif Confronted At UN",
-      "answer": "Saeed",
-      "options": [
-        "Batwara",
-        "Bhatias",
-        "Users",
-        "Saeed"
-      ]
-    },
-    {
-      "blanked": "Bats first originated in ______ 65 million years ago, scientists say",
-      "answer": "Europe",
-      "options": [
-        "Officials",
-        "How",
-        "Europe",
-        "Moon"
-      ]
-    },
-    {
-      "blanked": "The Vvaan box office collection day 1: Sidharth Malhotra, Tamannaah Bhatia's film mints ₹8 crore, beats ______ 1947 | Bollywood",
-      "answer": "Batwara",
-      "options": [
-        "Combat",
-        "Batwara",
-        "Cancer",
-        "Gyanesh"
-      ]
-    },
-    {
-      "blanked": "Some dementia patients grow lucid near the end. ______ hope it’s a clue.",
-      "answer": "Scientists",
-      "options": [
-        "Reform",
+        "Hindu",
         "Inquiry",
-        "Scientists",
-        "PRIMA"
+        "UNGA"
       ]
     },
     {
-      "blanked": "Centre to borrow Rs 7.86 lakh crore in H2FY27; full-year borrowing below ______ estimate",
-      "answer": "Budget",
+      "blanked": "Kriti Sanon likes post questioning outrage over her outfit in Raksha Bandhan ad amid uproar over Delhi rape case | ______",
+      "answer": "Bollywood",
       "options": [
-        "Seva",
-        "Budget",
-        "Into",
-        "Karkera"
+        "Bollywood",
+        "Racist",
+        "Sawan",
+        "TAVR"
       ]
     },
     {
-      "blanked": "Trump warns Xi over ______ support for Iran, receives assurances, US envoy says",
-      "answer": "Chinese",
+      "blanked": "Young, fit non-smoker had lung cancer: ______ screening can miss patients",
+      "answer": "Why",
       "options": [
-        "Paks",
-        "Chinese",
-        "Pilot",
-        "Agent"
+        "Wings",
+        "Bigger",
+        "Why",
+        "Air"
       ]
     },
     {
-      "blanked": "India vs Panama football friendly ______ ends in 1-1 draw with Ryan Williams’ goal",
-      "answer": "2026",
+      "blanked": "Grilled at UN over Hafiz Saeed and harbouring terrorism, Pak PM Sharif walks away | ______ | World News",
+      "answer": "Watch",
       "options": [
-        "2026",
-        "League",
-        "Scientists",
-        "Confronted"
+        "Racist",
+        "Unanimous",
+        "Sanjay",
+        "Watch"
+      ]
+    },
+    {
+      "blanked": "NASA Test Pilot Luke Delaney set for ______ Crew-13 launch | Tap to know more | Inshorts",
+      "answer": "SpaceX",
+      "options": [
+        "Bandhan",
+        "Raksha",
+        "SpaceX",
+        "NDTV"
+      ]
+    },
+    {
+      "blanked": "PM Modi attends ‘bhajan clubbing’ on Deendayal Upadhyaya's birth anniversary: Video | India ______",
+      "answer": "News",
+      "options": [
+        "Muse",
+        "News",
+        "Orders",
+        "Tata"
       ]
     }
   ]
