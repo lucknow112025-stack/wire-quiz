@@ -1,133 +1,73 @@
 {
-  "generatedAt": "2026-09-26T12:04:26.119Z",
+  "generatedAt": "2026-09-26T16:20:36.631Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
     "Trump ‘rejects’ Iran’s seven-day ceasefire proposal. What’s next?",
-    "'No Basis': Ex-Attorney General Mukul Rohatgi To NDTV On Gyanesh Kumar Impeachment Move",
-    "How declaration accompanying Form 6 changed since SIR began",
-    "A terrorist country is asking me? Jaishankar blasts Pakistani reporter",
-    "Trump hosts Xi for state dinner as pomp masks tensions",
-    "PM Modi Joins Gen Z For Bhajan Clubbing, Vibes To Hanuman Ansh's Song Parvati",
-    "'Padma Bhushan small thing, make him PM': Cong mocks BJP Bengal chief's praise for CEC",
-    "19 people die over 2 days after drinking spurious liquor in Nagaland, SIT formed",
-    "India News Live Updates, 26 September 2026: Mamata Banerjee alleges ‘house arrest’ of TMC leaders",
-    "Bihar 'Cop' Throws Man Off Train Over Rs 20,000 'Fine' For Smoking",
-    "Disaster zone declared across Bangkok as heavy rain triggers flooding",
-    "'No hard feelings': US downplays India's warning over Russia Sanctions Act | World News",
-    "11 killed, 30 injured in blast in Pakistan's Dera Ismail Khan",
-    "Pakistan govt puts Islamabad on lockdown as Imran Khan’s party pushes ahead with march",
-    "Sensex & Nifty fall for 7 consecutive weeks in longest such streak since 2008 crisis | Sensex is at 73,895.74, Nifty 50 at 23,140.50 | Inshorts",
-    "Explainer: Tata Sons: the rules, the rift and what happens next",
+    "‘Gyanesh uncle abhi resign mat karo’: CJP’s ‘Jantar Mantar 2.0’ threat sparks ‘Protest Season 2’ frenzy online",
+    "Gyanesh Kumar, Election Commissioners Meet, Poll Body Issues Clarifications",
+    "Suicide bombing in Pakistan’s Dera Ismail Khan kills at least 12 people",
+    "‘Padma Bhushan Is A Small Thing, Make Him PM’: Pawan Khera’s Dig At Bengal BJP Chief Over Gyanesh Kumar Praise",
+    "Former Kerala Chief Secretary says Gyanesh Kumar asked him to contest on a BJP seat",
+    "Guwahati student found dead at homestay, boyfriend detained; claims she died by suicide",
+    "Watch: Eggs hurled, car window smashed as Kunal Ghosh heads to Mamata rally",
+    "Air India AI-171 crash: Pilots' body seeks representation on panel reviewing draft final probe report | India News",
+    "India criticises Pakistan’s ‘falsehoods’ and ‘deceit’ at UN; warns terrorism will have consequences",
+    "China, US to open AI ‘communication channel’ after summit, White House says",
+    "\"Gonna Be A F***ing Bloodbath\": How FBI Uncovered Plot To Attack Trump Event",
+    "Venezuela president returns from US visit with no deals, no firm election date",
+    "Bangladesh jewellery shop owner's body found inside floating drum; Hindu credit union token in pocket",
+    "India can grow at over 10%, Sitharaman says. Here’s what it will take",
     "No commitment given to bank unions on five-day work week by Finance Ministry: report",
-    "India’s Rs 1.27 lakh cr chip push needs more than fabs. 2 stocks supplying the missing pieces",
-    "From AirPods to the skincare gadget of your dreams: The new tech launches worth the money",
-    "Meta’s Muse Charm: The Biometric AI Keychain Agent",
+    "Nifty logs 7th straight weekly loss for the first time in 6 years: Time to be fearful, or can bulls pull o",
+    "Info Edge loses Rs 4,100 crore in PB Fintech after IRDAI shock: Here's why stock's under pressure",
+    "Zuckerberg takes a swing at Vision Pro with $1,299 glasses",
+    "I walked 10,000 steps with the Apple Watch Ultra 4 vs Garmin Fenix 9 Pro — and I was not expecting this",
+    "T-Mobile is giving away the new Apple iPhone 18 Pro for free — how to claim",
     "Today’s NYT Strands Hints, Spangram, Answers: Saturday, September 19 (A Breath Of Fresh Air)",
-    "Apple iPhone 18 Pro review: New smartphone makes advances but feels like a place holder",
-    "Love & War: Vicky Kaushal's Intense First Look Will Set The Screen On Fire",
-    "‘My home is falling apart’: Sunita Ahuja seeks Gen Z support amid Govinda affair rumours",
-    "Bigg Boss 20: Mahhi Vij Questions Isha Rikhi's \"Trauma\" Claims, Says This Is Badshah's \"Character Assassination\""
+    "The Paradise Box Office Collections: Nani starrer holds decently on Friday, gross Rs. 67 Cr in India in 2 days",
+    "Komal Rani Hits Back At Sunita Ahuja Amid Affair Rumours With Govinda: \"Stop Using My Name To Serve Your Agenda\"",
+    "Raza Murad questions Bollywood stars’ absence at Mushtaq Khan’s funeral: “Koi bada chehra nahin aaya”"
   ],
   "quiz": [
     {
-      "blanked": "Pakistan govt puts Islamabad on lockdown as Imran ______ party pushes ahead with march",
-      "answer": "Khans",
+      "blanked": "‘Gyanesh uncle abhi resign mat karo’: CJP’s ______ Mantar 2.0’ threat sparks ‘Protest Season 2’ frenzy online",
+      "answer": "Jantar",
       "options": [
-        "Kohli",
-        "Mahhi",
-        "Khans",
-        "Basis"
+        "Jantar",
+        "Make",
+        "Event",
+        "Edge"
       ]
     },
     {
-      "blanked": "Who is Sawan ______ Himachal man busts marathon misconception to win Asian Games silver",
-      "answer": "Barwal",
+      "blanked": "Suicide bombing in Pakistan’s Dera Ismail ______ kills at least 12 people",
+      "answer": "Khan",
       "options": [
-        "Nagaland",
-        "Cup",
-        "September",
-        "Barwal"
-      ]
-    },
-    {
-      "blanked": "Love & War: Vicky Kaushal's Intense First Look Will ______ The Screen On Fire",
-      "answer": "Set",
-      "options": [
-        "India-Iran",
-        "Set",
-        "Asia",
-        "2026"
-      ]
-    },
-    {
-      "blanked": "India vs Japan hockey Highlights, Asian Games: ______ Harmanpreet score as India beat Japan 2-0 to qualify for semis | Hindustan Times",
-      "answer": "Abhishek",
-      "options": [
-        "Abhishek",
-        "Look",
-        "Questions",
-        "SIT"
-      ]
-    },
-    {
-      "blanked": "Trump ‘rejects’ Iran’s seven-day ceasefire proposal. ______ next?",
-      "answer": "Whats",
-      "options": [
-        "Whats",
-        "Bhatia",
+        "Trump",
         "2026",
-        "Rhinitis"
+        "Murad",
+        "Khan"
       ]
     },
     {
-      "blanked": "'Padma Bhushan small thing, make him PM': Cong mocks ______ Bengal chief's praise for CEC",
-      "answer": "BJP",
+      "blanked": "The Paradise Box ______ Collections: Nani starrer holds decently on Friday, gross Rs. 67 Cr in India in 2 days",
+      "answer": "Office",
       "options": [
-        "Europe",
-        "Kumar",
-        "Govinda",
-        "BJP"
+        "Watch",
+        "Eggs",
+        "Hindustan",
+        "Office"
       ]
     },
     {
-      "blanked": "India ______ Live Updates, 26 September 2026: Mamata Banerjee alleges ‘house arrest’ of TMC leaders",
-      "answer": "News",
+      "blanked": "Asian Games 2026 kabaddi: ______ men beat Iran to win gold medal; become nine-time champions",
+      "answer": "India",
       "options": [
-        "Ahuja",
-        "Vicky",
-        "News",
-        "Isha"
-      ]
-    },
-    {
-      "blanked": "Asian Games 2026 LIVE | ______ men's kabaddi gold clash underway",
-      "answer": "India-Iran",
-      "options": [
-        "Khans",
-        "NASA",
-        "India-Iran",
-        "Form"
-      ]
-    },
-    {
-      "blanked": "Disaster zone declared across ______ as heavy rain triggers flooding",
-      "answer": "Bangkok",
-      "options": [
-        "73895.74",
-        "Sanctions",
-        "Bangkok",
-        "Jaishankar"
-      ]
-    },
-    {
-      "blanked": "Sensex & Nifty fall for 7 consecutive weeks in longest such streak since 2008 crisis | Sensex is at 73,895.74, ______ 50 at 23,140.50 | Inshorts",
-      "answer": "Nifty",
-      "options": [
-        "Nifty",
-        "Hints",
-        "Health",
-        "Tata"
+        "Murad",
+        "India",
+        "Inshorts",
+        "Bhushan"
       ]
     },
     {
@@ -135,19 +75,79 @@
       "answer": "X-ray",
       "options": [
         "X-ray",
-        "Whats",
-        "Imran",
-        "Pulmonologist"
+        "Issues",
+        "Stop",
+        "Dera"
       ]
     },
     {
-      "blanked": "From ______ to the skincare gadget of your dreams: The new tech launches worth the money",
-      "answer": "AirPods",
+      "blanked": "Nifty logs 7th straight weekly loss for the first time in 6 years: ______ to be fearful, or can bulls pull o",
+      "answer": "Time",
       "options": [
-        "News",
-        "Cong",
-        "AirPods",
-        "India-Iran"
+        "Khan",
+        "Body",
+        "Time",
+        "Singh"
+      ]
+    },
+    {
+      "blanked": "HPV Vaccine: ______ Shot or Two? What Current Guidelines Say",
+      "answer": "One",
+      "options": [
+        "One",
+        "Mantar",
+        "Clarifications",
+        "How"
+      ]
+    },
+    {
+      "blanked": "Watch: Eggs hurled, car window smashed as ______ Ghosh heads to Mamata rally",
+      "answer": "Kunal",
+      "options": [
+        "Mushtaq",
+        "Strands",
+        "Kunal",
+        "Games"
+      ]
+    },
+    {
+      "blanked": "Info Edge loses Rs 4,100 crore in PB Fintech after ______ shock: Here's why stock's under pressure",
+      "answer": "IRDAI",
+      "options": [
+        "IRDAI",
+        "Hombale",
+        "Sleeper",
+        "Break"
+      ]
+    },
+    {
+      "blanked": "‘Padma Bhushan Is A Small Thing, Make Him PM’: Pawan Khera’s Dig At Bengal BJP Chief Over Gyanesh ______ Praise",
+      "answer": "Kumar",
+      "options": [
+        "10000",
+        "Magnum",
+        "Kumar",
+        "Pawan"
+      ]
+    },
+    {
+      "blanked": "Former Kerala Chief Secretary says ______ Kumar asked him to contest on a BJP seat",
+      "answer": "Gyanesh",
+      "options": [
+        "Using",
+        "Gyanesh",
+        "Bengal",
+        "Trump"
+      ]
+    },
+    {
+      "blanked": "Air India AI-171 crash: ______ body seeks representation on panel reviewing draft final probe report | India News",
+      "answer": "Pilots",
+      "options": [
+        "Pilots",
+        "Answers",
+        "Pro",
+        "Ismail"
       ]
     }
   ]
