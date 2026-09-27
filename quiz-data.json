@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-09-27T19:15:58.292Z",
+  "generatedAt": "2026-09-27T22:25:04.404Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "Unions to go on 3-day nationwide bank strike from September 28, services to be impacted",
-    "‘Better deal’: What’s behind Trump’s rejection of Iran’s truce offer?",
-    "Students Climb Atop MiG-23, Tank As Dramatic Scenes Unfold At Punjab's LPU",
-    "Floods, landslides kill 56 in India and 14 in Nepal",
-    "Is ECI Correct In Saying Supreme Court Upheld Its New Form 6 Declaration?",
-    "Vijay govt revokes RTI exemption for law and order department after backlash",
-    "M.A. Baby meets Kejriwal ahead of INDIA bloc meeting on Election Commission",
-    "'Oye maar kaise raha hai': Delhi minister Parvesh Verma slaps man during road inspection; AAP shares vide",
-    "Rowdy raj: After Jadavpur University, campus unrest reaches Kolkata's film and television institute over RSS-linked event",
-    "IndiGo Flight Suffers Tail Strike In Bengaluru, Airline Blames Weather",
-    "27 killed in two separate mass shootings near South Africa’s biggest cities",
-    "10 Missing After Avalanche Hits Himlung Himal Base Camp In Nepal",
+    "Punjab’s LPU student protesters block NH-44, clash with police after alleged rape of female student",
+    "IndiGo A321 suffers tail strike during go around at Bangalore; plane lands safely in second attempt",
     "Police evacuate homes near U.S. air base in England, detain men on suspected explosives offences",
+    "‘They have no money coming in, dying’: Donald Trump claims Iran ready to reopen Strait of Hormuz | World News",
+    "Is ECI Correct In Saying Supreme Court Upheld Its New Form 6 Declaration?",
+    "3-Day Bank Strike Deferred After Meeting Between Association, Unions",
+    "M.A. Baby meets Kejriwal ahead of INDIA bloc meeting on Election Commission",
+    "'Zero-Tolerance Against Terrorism': PM Hails India’s Resolve, Recalls Surgical Strike Against Pakistan",
+    "Suvendu Adhikari planned to move his parents to Odisha if BJP failed in Bengal polls",
+    "Floods and landslides kill at least 56 people in India, 12 in Nepal",
     "'American terrorist army': Iran claims second US submarine seized in Hormuz",
-    "Trade Setup for September 28: Top 15 things to know before the opening bell",
+    "The takeaways from Trump-Xi summit: Plenty of show, little of substance — and worries for India",
+    "Thailand declares two-day civil service holiday due to floods",
+    "Russia hits Ukraine's largest mobile provider, strikes data centres",
     "A Storied Indian Business Empire Is Being Torn Apart by Infighting",
-    "High motor insurance commissions | IRDAI calls for more transparency - Team-BHP",
+    "Boeing flags 737 MAX glitch that may turn off auto pilot",
     "Stock market prediction: Experts see more pain ahead but see bottom in Oct 2026 amid Nifty, Sensex poor show — 3 reasons",
+    "Trade Setup for September 28: Top 15 things to know before the opening bell",
+    "Today’s NYT Strands Hints, Answers and Help for Sept. 28, #939",
     "Meta’s VR Glasses Are What the Apple Vision Pro Should Have Been",
-    "Apple's Code Indicates New HomePod mini, iPad mini 8, and Apple TV 4K Could Land Before 2027",
-    "Why The iPhone Duo Could Be Beneficial For Samsung's Galaxy Z Fold 8",
-    "Today’s NYT Strands Hints, Spangram, Answers: Sunday, September 27 (It’s Skin Deep)",
-    "The Vvaan Box Office Collections: Sidharth Malhotra and Tamannaah Bhatia starrer grows well on Day 2, nets Rs 17 crore in two days",
+    "Fortnite x Five Nights at Freddy's collaboration: Release date, skins, and more",
+    "iPhone 17 Discounts Are Disappearing As Apple Price Rises Spread",
     "'Avengers: Endgame Encore' Scores Massive $86 Million Globally",
-    "'Hanuman Ansh' box office collection Day 52 [LIVE]: Neem Karoli Baba film earned net of Rs 3.03 crore so"
+    "Bigg Boss 20: Isha Rikhi gets evicted from the reality show; Kanika Mann breaks down emotionally",
+    "\"It's A Huge Thing\": Fatima Sana Shaikh Lauds Salman Khan For Taking A Stand Against Trolls"
   ],
   "quiz": [
     {
-      "blanked": "Students ______ Atop MiG-23, Tank As Dramatic Scenes Unfold At Punjab's LPU",
-      "answer": "Climb",
+      "blanked": "'American terrorist army': Iran claims second US submarine seized in ______",
+      "answer": "Hormuz",
       "options": [
-        "Delhi",
-        "2027",
-        "Climb",
-        "Disease"
+        "Hormuz",
+        "Should",
+        "England",
+        "Nifty"
       ]
     },
     {
-      "blanked": "'American terrorist army': ______ claims second US submarine seized in Hormuz",
-      "answer": "Iran",
+      "blanked": "Bigg Boss 20: Isha ______ gets evicted from the reality show; Kanika Mann breaks down emotionally",
+      "answer": "Rikhi",
       "options": [
-        "South",
-        "Verma",
-        "Iran",
+        "Rikhi",
+        "Boss",
+        "Scores",
+        "Bowel"
+      ]
+    },
+    {
+      "blanked": "Asian Games 2026 highlights: ______ gets overall 4 gold, 14 silver and 17 bronze medals as the day concludes",
+      "answer": "India",
+      "options": [
+        "NYT",
+        "Help",
+        "India",
+        "Massive"
+      ]
+    },
+    {
+      "blanked": "The Paradise box office collection day 3: Nani film barely recovers on Saturday after a huge drop, collects ₹76 crore | ______ Times",
+      "answer": "Hindustan",
+      "options": [
+        "MAX",
+        "Bank",
+        "Nitroglycerin",
+        "Hindustan"
+      ]
+    },
+    {
+      "blanked": "Stats - ______ Kohli fastest to 15,000 ODI runs",
+      "answer": "Virat",
+      "options": [
+        "Hormuz",
+        "Sinonasal",
+        "Virat",
         "What"
       ]
     },
     {
-      "blanked": "Transplant Immunosuppression Regimens Affect ______ Disease",
-      "answer": "Sinonasal",
+      "blanked": "'Avengers: Endgame Encore' Scores Massive $86 Million ______",
+      "answer": "Globally",
       "options": [
-        "Have",
-        "Airline",
-        "Delhi",
-        "Sinonasal"
+        "Bowel",
+        "Globally",
+        "Price",
+        "Resolve"
       ]
     },
     {
-      "blanked": "Stock market prediction: Experts see more pain ahead but see bottom in ______ 2026 amid Nifty, Sensex poor show — 3 reasons",
-      "answer": "Oct",
+      "blanked": "Fortnite x ______ Nights at Freddy's collaboration: Release date, skins, and more",
+      "answer": "Five",
       "options": [
-        "Box",
-        "India",
-        "Experts",
-        "Oct"
+        "Correct",
+        "Five",
+        "Odisha",
+        "Strait"
       ]
     },
     {
-      "blanked": "Floods, landslides kill 56 in ______ and 14 in Nepal",
-      "answer": "India",
+      "blanked": "IndiGo A321 suffers tail strike during go around at ______ plane lands safely in second attempt",
+      "answer": "Bangalore",
       "options": [
-        "India",
-        "Commission",
-        "Business",
-        "Endgame"
-      ]
-    },
-    {
-      "blanked": "Mars Had Water On At Least 3 Occasions, NASA’s ______ Finds In Jezero Crater",
-      "answer": "Perseverance",
-      "options": [
-        "Perseverance",
-        "Kejriwal",
-        "Tank",
-        "NASAs"
-      ]
-    },
-    {
-      "blanked": "'Oye maar kaise raha hai': Delhi minister Parvesh Verma slaps man during road inspection; ______ shares vide",
-      "answer": "AAP",
-      "options": [
-        "Full",
-        "AAP",
-        "Could",
-        "Inflammatory"
+        "Rikhi",
+        "Adhikari",
+        "England",
+        "Bangalore"
       ]
     },
     {
       "blanked": "Police evacuate homes near U.S. air base in ______ detain men on suspected explosives offences",
       "answer": "England",
       "options": [
-        "Court",
-        "Dramatic",
-        "IRDAI",
-        "England"
+        "Symptoms",
+        "England",
+        "Salman",
+        "News"
       ]
     },
     {
-      "blanked": "India vs West Indies 1st ODI Match - Live Cricket Score, ______ Scorecard",
-      "answer": "Full",
+      "blanked": "3-Day ______ Strike Deferred After Meeting Between Association, Unions",
+      "answer": "Bank",
       "options": [
-        "Bowel",
-        "Full",
-        "Sensex",
-        "Vision"
+        "Paradise",
+        "Bank",
+        "Lauds",
+        "Hints"
       ]
     },
     {
-      "blanked": "Today’s NYT ______ Hints, Spangram, Answers: Sunday, September 27 (It’s Skin Deep)",
-      "answer": "Strands",
+      "blanked": "Meta’s VR Glasses Are What the Apple ______ Pro Should Have Been",
+      "answer": "Vision",
       "options": [
-        "Strands",
-        "Airline",
-        "Delhi",
-        "Kolkatas"
+        "Vision",
+        "Fatima",
+        "Should",
+        "Pakistan"
       ]
     },
     {
-      "blanked": "Three matches in 24 hours! PV Sindhu criticises ______ Games badminton schedule",
-      "answer": "Asian",
+      "blanked": "Real-life ______ by the 2030s? Scientists plan to bring back the Ice Age giant with AI",
+      "answer": "Mammoths",
       "options": [
-        "Camp",
-        "2026",
-        "Suffers",
-        "Asian"
-      ]
-    },
-    {
-      "blanked": "Vijay govt revokes ______ exemption for law and order department after backlash",
-      "answer": "RTI",
-      "options": [
-        "RTI",
-        "Sinonasal",
-        "ECI",
-        "Storied"
+        "Boss",
+        "Alzheimers",
+        "Martian",
+        "Mammoths"
       ]
     }
   ]
