@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-09-27T15:38:57.545Z",
+  "generatedAt": "2026-09-27T19:15:58.292Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "‘Better deal’: What’s behind Trump’s rejection of Iran’s truce offer?",
-    "After backlash, Tamil Nadu government withdraws G.O. exempting Public (Law and Order) Department from RTI Act",
-    "Students Climb Atop MiG-23, Tank As Dramatic Scenes Unfold At Punjab's LPU",
-    "‘He raised his hand against me’: Youth seen being slapped by Parvesh Verma recounts road-inspection row",
-    "Floods and landslides kill at least 56 people in India, 12 in Nepal",
-    "From farm goods to toys: US, China finalise $30 billion tariff deal | World News",
-    "Amit Shah flags off India's first LNG train in Gujarat, launches Rs 1,542 crore railway projects",
-    "Surgical strikes presented bold example of India's counter-terrorism policy: PM Modi",
-    "May Allah book his ticket: Bengal leader Humayun Kabir wishes Suvendu Adhikari ahead of bypoll",
-    "'Attempts To Undermine Global Confidence': BJP Hits Back At Opposition After ECI Meeting",
-    "Police evacuate homes near U.S. air base in England, detain men on suspected explosives offences",
-    "Thailand declares two-day civil service holiday due to floods",
-    "'Don't go back like this': Pakistan minister's throat-cut gesture to Afghan journalist backfires - video",
-    "Iran's Supreme Leader Mojtaba Khamenei 'pulled from rubble' after Tehran hospital strike: Report",
     "Unions to go on 3-day nationwide bank strike from September 28, services to be impacted",
+    "‘Better deal’: What’s behind Trump’s rejection of Iran’s truce offer?",
+    "Students Climb Atop MiG-23, Tank As Dramatic Scenes Unfold At Punjab's LPU",
+    "Floods, landslides kill 56 in India and 14 in Nepal",
+    "Is ECI Correct In Saying Supreme Court Upheld Its New Form 6 Declaration?",
+    "Vijay govt revokes RTI exemption for law and order department after backlash",
+    "M.A. Baby meets Kejriwal ahead of INDIA bloc meeting on Election Commission",
+    "'Oye maar kaise raha hai': Delhi minister Parvesh Verma slaps man during road inspection; AAP shares vide",
+    "Rowdy raj: After Jadavpur University, campus unrest reaches Kolkata's film and television institute over RSS-linked event",
+    "IndiGo Flight Suffers Tail Strike In Bengaluru, Airline Blames Weather",
+    "27 killed in two separate mass shootings near South Africa’s biggest cities",
+    "10 Missing After Avalanche Hits Himlung Himal Base Camp In Nepal",
+    "Police evacuate homes near U.S. air base in England, detain men on suspected explosives offences",
+    "'American terrorist army': Iran claims second US submarine seized in Hormuz",
+    "Trade Setup for September 28: Top 15 things to know before the opening bell",
+    "A Storied Indian Business Empire Is Being Torn Apart by Infighting",
+    "High motor insurance commissions | IRDAI calls for more transparency - Team-BHP",
     "Stock market prediction: Experts see more pain ahead but see bottom in Oct 2026 amid Nifty, Sensex poor show — 3 reasons",
-    "Boeing finds software glitch that may disable landing guidance on some 737 MAX jets",
-    "ACs, TVs, other electronics to become up to 8% costlier from October: Report | Some fear hike could affect festive demand | Inshorts",
     "Meta’s VR Glasses Are What the Apple Vision Pro Should Have Been",
-    "Here's the Apple HomePod Mini 2 in all its colors - GSMArena.com news",
-    "Apple (AAPL) Took a Different Pricing Approach with its New iPhones in China",
+    "Apple's Code Indicates New HomePod mini, iPad mini 8, and Apple TV 4K Could Land Before 2027",
+    "Why The iPhone Duo Could Be Beneficial For Samsung's Galaxy Z Fold 8",
     "Today’s NYT Strands Hints, Spangram, Answers: Sunday, September 27 (It’s Skin Deep)",
-    "Kashmera Shah stands by Sunita Ahuja, questions Komal Rani's allegations amid Govinda affair rumours",
-    "The Vvaan Box Office Collection Day 2: Sidharth Malhotra Film Earns Rs 11 Crore",
-    "'Salman Khan and I do very difficult steps': Ajay Devgn takes hilarious dig at his and Bhaijaan's dancin"
+    "The Vvaan Box Office Collections: Sidharth Malhotra and Tamannaah Bhatia starrer grows well on Day 2, nets Rs 17 crore in two days",
+    "'Avengers: Endgame Encore' Scores Massive $86 Million Globally",
+    "'Hanuman Ansh' box office collection Day 52 [LIVE]: Neem Karoli Baba film earned net of Rs 3.03 crore so"
   ],
   "quiz": [
     {
-      "blanked": "The Vvaan Box Office Collection Day 2: ______ Malhotra Film Earns Rs 11 Crore",
-      "answer": "Sidharth",
+      "blanked": "Students ______ Atop MiG-23, Tank As Dramatic Scenes Unfold At Punjab's LPU",
+      "answer": "Climb",
       "options": [
-        "Strands",
-        "737",
-        "Dhir",
-        "Sidharth"
+        "Delhi",
+        "2027",
+        "Climb",
+        "Disease"
       ]
     },
     {
-      "blanked": "Boeing finds software glitch that may disable landing guidance on some ______ MAX jets",
-      "answer": "737",
+      "blanked": "'American terrorist army': ______ claims second US submarine seized in Hormuz",
+      "answer": "Iran",
       "options": [
-        "Department",
-        "Son",
-        "2026",
-        "737"
+        "South",
+        "Verma",
+        "Iran",
+        "What"
       ]
     },
     {
-      "blanked": "Asian Games 2026 highlights: ______ gets overall 4 gold, 14 silver and 17 bronze medals as the day concludes",
+      "blanked": "Transplant Immunosuppression Regimens Affect ______ Disease",
+      "answer": "Sinonasal",
+      "options": [
+        "Have",
+        "Airline",
+        "Delhi",
+        "Sinonasal"
+      ]
+    },
+    {
+      "blanked": "Stock market prediction: Experts see more pain ahead but see bottom in ______ 2026 amid Nifty, Sensex poor show — 3 reasons",
+      "answer": "Oct",
+      "options": [
+        "Box",
+        "India",
+        "Experts",
+        "Oct"
+      ]
+    },
+    {
+      "blanked": "Floods, landslides kill 56 in ______ and 14 in Nepal",
       "answer": "India",
       "options": [
-        "2026",
         "India",
-        "Jezero",
-        "Ahuja"
+        "Commission",
+        "Business",
+        "Endgame"
       ]
     },
     {
-      "blanked": "Paediatric Inflammatory Bowel Disease Shows Frequent ______",
-      "answer": "Malnutrition",
+      "blanked": "Mars Had Water On At Least 3 Occasions, NASA’s ______ Finds In Jezero Crater",
+      "answer": "Perseverance",
       "options": [
-        "Uzbekistan",
-        "Games",
-        "Malnutrition",
-        "Report"
+        "Perseverance",
+        "Kejriwal",
+        "Tank",
+        "NASAs"
       ]
     },
     {
-      "blanked": "'Attempts To Undermine Global Confidence': ______ Hits Back At Opposition After ECI Meeting",
-      "answer": "BJP",
+      "blanked": "'Oye maar kaise raha hai': Delhi minister Parvesh Verma slaps man during road inspection; ______ shares vide",
+      "answer": "AAP",
       "options": [
-        "Finds",
-        "Improves",
-        "BJP",
-        "Kabir"
+        "Full",
+        "AAP",
+        "Could",
+        "Inflammatory"
       ]
     },
     {
-      "blanked": "Iran's ______ Leader Mojtaba Khamenei 'pulled from rubble' after Tehran hospital strike: Report",
-      "answer": "Supreme",
+      "blanked": "Police evacuate homes near U.S. air base in ______ detain men on suspected explosives offences",
+      "answer": "England",
       "options": [
-        "Law",
-        "MAX",
-        "Nepal",
-        "Supreme"
+        "Court",
+        "Dramatic",
+        "IRDAI",
+        "England"
       ]
     },
     {
-      "blanked": "Unions to go on 3-day nationwide bank strike from ______ 28, services to be impacted",
-      "answer": "September",
+      "blanked": "India vs West Indies 1st ODI Match - Live Cricket Score, ______ Scorecard",
+      "answer": "Full",
       "options": [
-        "Mammoths",
-        "Glasses",
-        "September",
-        "Regimens"
+        "Bowel",
+        "Full",
+        "Sensex",
+        "Vision"
       ]
     },
     {
-      "blanked": "Immunosuppression ______ Influence Sinonasal Disease Post Transplant",
-      "answer": "Regimens",
+      "blanked": "Today’s NYT ______ Hints, Spangram, Answers: Sunday, September 27 (It’s Skin Deep)",
+      "answer": "Strands",
       "options": [
-        "Trumps",
-        "Undermine",
-        "Regimens",
-        "Ahead"
+        "Strands",
+        "Airline",
+        "Delhi",
+        "Kolkatas"
       ]
     },
     {
-      "blanked": "'Don't go back like this': Pakistan minister's throat-cut gesture to ______ journalist backfires - video",
-      "answer": "Afghan",
+      "blanked": "Three matches in 24 hours! PV Sindhu criticises ______ Games badminton schedule",
+      "answer": "Asian",
       "options": [
-        "Afghan",
-        "Experts",
-        "Had",
-        "LNG"
+        "Camp",
+        "2026",
+        "Suffers",
+        "Asian"
       ]
     },
     {
-      "blanked": "Apple (AAPL) Took a ______ Pricing Approach with its New iPhones in China",
-      "answer": "Different",
+      "blanked": "Vijay govt revokes ______ exemption for law and order department after backlash",
+      "answer": "RTI",
       "options": [
-        "Release",
-        "Testing",
-        "Different",
-        "Youth"
-      ]
-    },
-    {
-      "blanked": "Real-life ______ by the 2030s? Scientists plan to bring back the Ice Age giant with AI",
-      "answer": "Mammoths",
-      "options": [
-        "Mammoths",
-        "Frequent",
-        "Law",
-        "Confidence"
-      ]
-    },
-    {
-      "blanked": "Surgical strikes presented bold example of ______ counter-terrorism policy: PM Modi",
-      "answer": "Indias",
-      "options": [
-        "Approach",
-        "Indias",
-        "China",
-        "West"
+        "RTI",
+        "Sinonasal",
+        "ECI",
+        "Storied"
       ]
     }
   ]
