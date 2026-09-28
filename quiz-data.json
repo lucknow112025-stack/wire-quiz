@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-09-28T06:31:47.299Z",
+  "generatedAt": "2026-09-28T14:28:22.225Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "Lovely Professional University on the boil: What has led to the students’ protest in Punjab?",
-    "Tear Gas, Lathi Charge In Protesters vs Cops Over Ujjain Mosque Removal",
-    "BREAKING | Rape Cases In Delhi-NCR Show Systematic Failure Of Police & Administration : Supreme Court...",
-    "‘Will win very soon’: Trump hints at possible pre-midterm strikes on Iran",
-    "Egypt Warned Netanyahu of Impending Attack on Israel Before Oct. 7",
-    "GIFT Nifty falls, signals weak start for Sensex, Nifty; oil rebounds above $106 on US-Iran tensions",
-    "Man slapped by Delhi minister Parvesh Verma was out on bail in MCD worker abduction, assault case",
-    "Weather Tomorrow: Heavy Rain Forecast In Parts Of Uttarakhand, UP, Bihar, Assam, Meghalaya",
-    "'Ghost', 'Rape' And 'Suicide': Why Punjab's LPU And Chitkara Universities Saw Unrest Within 48 Hours",
+    "Delhi announces vehicle curbs, work-from-home, construction bans for winter pollution",
+    "Protests in Ujjain over demolition of portion of mosque for road-widening project",
+    "Supreme Court Asks ECI To Decide Trinamool Election Symbol Dispute Within 4 Months",
+    "Plea In Supreme Court To Suspend Gyanesh Kumar As CEC, Declare ECI Decisions Cannot Be Taken Unilaterally",
+    "Afghanistan says 28 fighters killed as Islamabad, Kabul trade accusations",
+    "China to cut tariffs on U.S. farm goods, but soybeans excluded",
+    "Indian university suspends classes amid violent protests over alleged rape",
+    "\"If He's Guilty, Punish Him\": Mother Of Guwahati Mystery Death Case Accused",
+    "Private part cut, grinder found: Mystery over Premanand Maharaj's disciple's death",
     "Balakot to Sindoor, India gave befitting reply: PM Modi on Pakistan terror",
-    "US Diplomat Reveals Why Trump Rejected Iran's New Truce Plan",
+    "Video: UK Police Robot Fires At Vans Near Airbase Used By US In 'Terror' Act",
     "Drugged, Raped 'For Hours' After 'Free-P***y' Text: Ex-Student Sues Cornell",
-    "Iran claims second US drone seized in Strait of Hormuz, identifies it as Mk 18 Kingfish",
-    "U.K. police arrest five for preparing ‘terrorist act’ as incident near air base probed",
-    "Proposed three-day nationwide bank strike deferred",
-    "Tata companies face a tough call on Chandra vote at AGM",
-    "Oil heads higher as US-Iran peace talks in stalemate",
-    "Chartist Talk: Nifty’s 23,000 support at risk next week? SBI Securities flags key levels, 2 stocks to...",
-    "Today’s NYT Strands Hints, Spangram, Answers: Monday, September 28 (A Form Of Art)",
-    "Unity Adds Support for Meta VR Glasses Development Environment",
-    "Apple (AAPL)’s Premium iPhone Strategy Faces a Test Beyond Early Adopters",
-    "Lava Virat Curve vs Poco M8 Power vs Vivo T5 Lite: Price in India, Specifications and Features Compared",
-    "Slayyyter, Taylor Swift, LISA & More Rock the 2026 MTV VMAs Red Carpet: See the Best Photos",
-    "Sushant Singh Rajput's sister Shweta Singh Kirti reveals post-mortem details; alleges 'Stun gun was used,",
-    "The Paradise Box Office Collection Day 4: Nani's Big-Ticket Film Is On Its Way To Enter Rs 100 Crore Club In India"
+    "'Would like to buy some?': Trump offered Xi US weapons as Washington sought to downplay Taiwan arms sale",
+    "US Iran War News LIVE Updates: Trump says US will ‘win’ Iran war soon, warns fresh strikes possible",
+    "Supreme Court Asks Centre To Explain Decision To Levy Charges On UPI Transactions, Refuses Stay",
+    "SENSEX, NIFTY50 plunge, NIFTY Bank drops over 1,000 pts; 5 factors behind Monday’s market crash",
+    "Tata Trusts propose Tata Sons rejig to move away from financial company status | Business News",
+    "Gold tumbles below $4,200 as oil, Fed hike bets weigh on bullion",
+    "Discord reportedly testing new performance-focused feature",
+    "Piyush Mishra’s Biggest Regret Drives Flipkart’s iPhone Campaign for Big Billion Days",
+    "Oppo F35 Series Launch: Date, Expected Price, Camera, Battery And Other Details",
+    "God of War Laufey PS5 Editions Revealed, Pre-Order Tomorrow",
+    "Adnan Sami responds to Pakistani spy joke on 'India's Got Latent 2' with Ayushmann Khurrana as panellist:",
+    "On Ranbir Kapoor's 44th Birthday, Only Love And No War From Alia Bhatt, Vicky Kaushal And Sanjay Leela Bhansali",
+    "'Zyada toh nahi lagi?' Shehzad Poonawalla's Rise & Fall thrashing by Siwet Tomar sparks reactions | India News"
   ],
   "quiz": [
+    {
+      "blanked": "Plea In Supreme ______ To Suspend Gyanesh Kumar As CEC, Declare ECI Decisions Cannot Be Taken Unilaterally",
+      "answer": "Court",
+      "options": [
+        "1000",
+        "Court",
+        "Space",
+        "Used"
+      ]
+    },
+    {
+      "blanked": "On Ranbir Kapoor's 44th ______ Only Love And No War From Alia Bhatt, Vicky Kaushal And Sanjay Leela Bhansali",
+      "answer": "Birthday",
+      "options": [
+        "Prevention",
+        "Kapoors",
+        "Decisions",
+        "Birthday"
+      ]
+    },
     {
       "blanked": "Balakot to ______ India gave befitting reply: PM Modi on Pakistan terror",
       "answer": "Sindoor",
       "options": [
-        "Neeru",
+        "Rise",
         "Sindoor",
-        "Why",
-        "Answers"
+        "Decide",
+        "Tomar"
       ]
     },
     {
-      "blanked": "Apple (AAPL)’s Premium iPhone Strategy Faces a Test Beyond ______ Adopters",
-      "answer": "Early",
+      "blanked": "'Would like to buy some?': Trump offered Xi US weapons as ______ sought to downplay Taiwan arms sale",
+      "answer": "Washington",
       "options": [
-        "Photos",
-        "Unrest",
-        "Early",
-        "Professional"
+        "Series",
+        "Washington",
+        "Drives",
+        "Suspend"
       ]
     },
     {
-      "blanked": "Tobacco consumption in ______",
-      "answer": "India",
+      "blanked": "Video: UK ______ Robot Fires At Vans Near Airbase Used By US In 'Terror' Act",
+      "answer": "Police",
       "options": [
-        "Rain",
-        "Singh",
-        "India",
-        "Niftys"
+        "Regret",
+        "Days",
+        "Rabies",
+        "Police"
       ]
     },
     {
-      "blanked": "Transplant Immunosuppression Regimens ______ Sinonasal Disease",
-      "answer": "Affect",
+      "blanked": "Oppo F35 Series Launch: Date, ______ Price, Camera, Battery And Other Details",
+      "answer": "Expected",
       "options": [
-        "Early",
-        "Sindoor",
-        "Within",
-        "Affect"
+        "Kumar",
+        "News-Medical",
+        "Expected",
+        "Other"
       ]
     },
     {
-      "blanked": "Tear Gas, Lathi Charge In Protesters vs Cops Over Ujjain ______ Removal",
-      "answer": "Mosque",
+      "blanked": "God of ______ Laufey PS5 Editions Revealed, Pre-Order Tomorrow",
+      "answer": "War",
       "options": [
-        "Premium",
-        "LISA",
-        "Mosque",
-        "Chitkara"
-      ]
-    },
-    {
-      "blanked": "Unity Adds Support for Meta VR Glasses ______ Environment",
-      "answer": "Development",
-      "options": [
-        "Premium",
-        "Bhaker",
-        "LPU",
-        "Development"
-      ]
-    },
-    {
-      "blanked": "‘Will win very soon’: Trump hints at possible pre-midterm strikes on ______",
-      "answer": "Iran",
-      "options": [
-        "Trump",
-        "West",
-        "JEE",
-        "Iran"
-      ]
-    },
-    {
-      "blanked": "Kuldeep reels West Indies in, ______ and Kohli tons knock them out",
-      "answer": "Gill",
-      "options": [
-        "Film",
-        "MCD",
-        "Gill",
-        "Delhi-NCR"
-      ]
-    },
-    {
-      "blanked": "Sagittarius Horoscope Today: September 28, ______",
-      "answer": "2026",
-      "options": [
-        "Strategy",
-        "2026",
-        "Cases",
-        "2004"
-      ]
-    },
-    {
-      "blanked": "Lovely Professional University on the boil: ______ has led to the students’ protest in Punjab?",
-      "answer": "What",
-      "options": [
-        "Answers",
-        "What",
-        "Adopters",
-        "Early"
-      ]
-    },
-    {
-      "blanked": "Iran claims second US drone seized in Strait of ______ identifies it as Mk 18 Kingfish",
-      "answer": "Hormuz",
-      "options": [
-        "Hormuz",
-        "Film",
-        "Charge",
-        "Impending"
-      ]
-    },
-    {
-      "blanked": "SpaceX aims to put ______ in orbit for the first time",
-      "answer": "Starship",
-      "options": [
-        "Parts",
+        "Symptoms",
         "Starship",
-        "Manu",
-        "Hints"
+        "War",
+        "Police"
+      ]
+    },
+    {
+      "blanked": "Afghanistan says 28 fighters killed as ______ Kabul trade accusations",
+      "answer": "Islamabad",
+      "options": [
+        "Laufey",
+        "Hes",
+        "Text",
+        "Islamabad"
+      ]
+    },
+    {
+      "blanked": "Supreme Court Asks Centre To Explain Decision To Levy Charges On ______ Transactions, Refuses Stay",
+      "answer": "UPI",
+      "options": [
+        "Pincky",
+        "Text",
+        "September",
+        "UPI"
+      ]
+    },
+    {
+      "blanked": "Childhood cancer survivors face severe mental health challenges as adults - ______",
+      "answer": "News-Medical",
+      "options": [
+        "Esha",
+        "Linked",
+        "News-Medical",
+        "Police"
+      ]
+    },
+    {
+      "blanked": "Access to cancer genetic testing unequal worldwide: New Lancet ______",
+      "answer": "Commission",
+      "options": [
+        "Earths",
+        "Harman",
+        "Mother",
+        "Commission"
+      ]
+    },
+    {
+      "blanked": "SENSEX, NIFTY50 plunge, NIFTY Bank drops over ______ pts; 5 factors behind Monday’s market crash",
+      "answer": "1000",
+      "options": [
+        "Fed",
+        "Singh",
+        "4200",
+        "1000"
       ]
     }
   ]
