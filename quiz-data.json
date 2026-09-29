@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-09-29T18:24:47.831Z",
+  "generatedAt": "2026-09-29T22:29:14.185Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "Four CISF personnel killed in fratricide incident in Kathua; accused held",
-    "ECI Row : Supreme Court To Hear Next Week Plea Against CEC Gyanesh Kumar & SIR Decisions",
-    "The Modi-Doval doctrine versus General Beg doctrine",
-    "‘When we go, you will come’: Rahul Gandhi says PM told him only Congress can defeat BJP",
+    "Supreme Court agrees to list next week plea to suspend CEC Gyanesh Kumar from office",
+    "Jawan Opens Fire, Kills 4 Colleagues, Including An Officer In J&K's Kathua",
+    "Trump says US will win Iran war 'very soon'",
     "Indian firm building $15bn Trump-announced steel mill has deep Russia ties",
-    "Indian shares extend losing run on elevated oil, bond yields",
-    "Assam Rifles Jawan Killed In Action After Patrol Team Attacked In Arunachal",
-    "India pursues Xinjiang air route with China to mitigate Pakistan airspace ban: Aviation minister Ram Mohan Naidu | India News",
-    "He bought land in Kashmir. Six years later, someone else was building house on it",
-    "'Lover' Ashiq Ali arrested in GU student Nimisha Thakuria death case on murder, gang rape charges",
-    "Eiffel Tower chief to step down after female staff excluded during Hindu group's visit",
+    "J&K bureaucrats write to Speaker seeking disallowance of statehood resolution",
+    "At CWC meet, Rahul says Modi told him: ‘When we go, you will come'",
+    "'Who Heads NCPCR? How Can They Be So Indifferent?' Supreme Court Rebukes NCPCR Over 25% RTE Quota...",
+    "Budgam encounter: Army kills LeT terrorist in fierce gunfight in Yousmarg",
+    "Tamil Nadu CM Vijay launches Thaimaaman Thanga Mothiram Thittam at Madurai",
+    "Assam Rifles jawan dead, 4 others injured in militant attack in Arunachal Pradesh: Police | India News",
     "Trump ‘surprised’ U.K. air base terror suspects out on bail",
-    "Faced with US ban, Canadian booze makers see yet more hurdles at home",
-    "‘Technical issue’: Pakistan denies airspace to Russian nuclear fuel shipment flight to Bangladesh's Rooppur | World News",
-    "Tata Trusts proposes Tata Sons revamp to prevent listing driven by India's central bank",
+    "Drugged, Raped 'For Hours' After 'Free-P***y' Text: Ex-Student Sues Cornell",
+    "Mountain collapses into river in Nepal, terrifying video captures chaos",
+    "'Technical issue': Pakistan blocks airspace for Russian flight carrying uranium for Bangladesh nuclear pl",
+    "Tata Trusts within right to seek merger, but Tata Sons can challenge: Lawyer",
+    "Anthropic warns AI may pose 'existential risks to humanity' in IPO filing",
+    "OpenAI launches Dots, its bubbly agentic avatar",
     "20% More Creators Earning Over 7 Figures: YouTube India MD To NDTV",
-    "Billions of loss, rising computing expenses and more in Anthropic's IPO 'warning list'; comes as CEO Dari",
-    "Ten years on, still struggling to execute foreign arbitral award: Daiichi tells Supreme Court",
-    "Sunday Reboot: Big Whoop and more Apple Watch nagging",
-    "Diabetes May Affect Prostate Cancer Survival in Smokers",
-    "iQOO 16 launches with Snapdragon 8 Elite Extreme Gen 6, 8,400 mAh battery - GSMArena.com news",
-    "Nothing Headphone (1) Pro have three drivers, 46dB noise cancellation, and an unusual studio mode",
+    "Apple Watch Series 12: Will it finally fix Apple Watch Ultra envy?",
+    "Minecraft 26.4 Snapshot 2 Adds a Cleaner F3 Debug Screen and Improves Fog",
+    "Minecraft Dungeons 2 Deluxe Edition launched: What does the extra $20 really buy and here's what's include",
+    "GTA 6: All the Major New Details Revealed Today, Including Animal Species, Side Activities, and Fast Travel",
+    "\"Not On My Bingo Card\": Internet Reacts To Mira Rajput's Unexpected Appearance On Kareena Kapoor's Show",
     "'I Had To Be My Own Father': Rahul Bhatt Opens Up About His 'Fractured' Relationship With Dad Mahesh Bhatt",
-    "Ayushmann Khurrana says more small-budget movies like Hanuman Ansh and Obsession should be made | Bollywood",
-    "Aishwarya Rai Bachchan walks the ramp at Paris Fashion Week 2026 with Kendall Jenner, Simone Ashley; fans"
+    "A first look at Jonathan Anderson’s Dior spring 2027 collection"
   ],
   "quiz": [
     {
-      "blanked": "Ayushmann ______ says more small-budget movies like Hanuman Ansh and Obsession should be made | Bollywood",
-      "answer": "Khurrana",
+      "blanked": "Supreme Court agrees to list next week plea to suspend CEC Gyanesh ______ from office",
+      "answer": "Kumar",
       "options": [
-        "Khurrana",
-        "Killed",
-        "Action",
-        "Affect"
+        "Indifferent",
+        "Complex",
+        "Jipmer",
+        "Kumar"
       ]
     },
     {
-      "blanked": "Faced with US ban, ______ booze makers see yet more hurdles at home",
-      "answer": "Canadian",
+      "blanked": "Apple Watch Series 12: Will it finally fix Apple Watch ______ envy?",
+      "answer": "Ultra",
       "options": [
-        "Team",
-        "NDTV",
-        "Hindu",
-        "Canadian"
+        "Earth",
+        "Ultra",
+        "Creators",
+        "Andersons"
       ]
     },
     {
-      "blanked": "Premier ______ set for long wait as Man City face prospect of sanctions",
+      "blanked": "Boeing's Calamity Capsule gets another shot at the ______ taxi business",
+      "answer": "ISS",
+      "options": [
+        "Jipmer",
+        "Police",
+        "Complex",
+        "ISS"
+      ]
+    },
+    {
+      "blanked": "'I ______ To Be My Own Father': Rahul Bhatt Opens Up About His 'Fractured' Relationship With Dad Mahesh Bhatt",
+      "answer": "Had",
+      "options": [
+        "Had",
+        "LeT",
+        "Fast",
+        "Ultra"
+      ]
+    },
+    {
+      "blanked": "Drugged, ______ 'For Hours' After 'Free-P***y' Text: Ex-Student Sues Cornell",
+      "answer": "Raped",
+      "options": [
+        "Activities",
+        "Raped",
+        "LeT",
+        "Indies"
+      ]
+    },
+    {
+      "blanked": "OpenAI launches ______ its bubbly agentic avatar",
+      "answer": "Dots",
+      "options": [
+        "Raghav",
+        "Ex-Student",
+        "Lawyer",
+        "Dots"
+      ]
+    },
+    {
+      "blanked": "India vs ______ Indies, 2nd ODI Preview: India out to resume batting range and frenzy in Guwahati",
+      "answer": "West",
+      "options": [
+        "Andersons",
+        "Side",
+        "Arunachal",
+        "West"
+      ]
+    },
+    {
+      "blanked": "Asian Games 2026: ______ 400m relay quartet ends wait for athletics gold",
+      "answer": "Womens",
+      "options": [
+        "Speaker",
+        "About",
+        "Relationship",
+        "Womens"
+      ]
+    },
+    {
+      "blanked": "Beyond diet and exercise: ______ modern urban lifestyles are changing the heart-health conversation",
+      "answer": "How",
+      "options": [
+        "India",
+        "How",
+        "Nani",
+        "Womens"
+      ]
+    },
+    {
+      "blanked": "Man City guilty of using 'sham' deals to distort finances, Premier ______ says",
       "answer": "League",
       "options": [
-        "Bangladesh",
-        "Modi-Doval",
+        "Mahesh",
         "League",
-        "Patrol"
+        "Unexpected",
+        "Court"
       ]
     },
     {
-      "blanked": "SpaceX's supersized ______ launches into orbit for the first time but flight ends early",
-      "answer": "Starship",
+      "blanked": "\"Not On My Bingo Card\": Internet Reacts To Mira Rajput's Unexpected ______ On Kareena Kapoor's Show",
+      "answer": "Appearance",
       "options": [
-        "Starship",
-        "Indias",
-        "Fashion",
-        "Emerges"
+        "Cleaner",
+        "Appearance",
+        "Rajputs",
+        "PAD"
       ]
     },
     {
-      "blanked": "Smartwatch AI Reaches 91% Accuracy in Heart Rhythm ______ With Important Trade-Offs",
-      "answer": "Study",
+      "blanked": "A first look at Jonathan Anderson’s Dior spring ______ collection",
+      "answer": "2027",
       "options": [
-        "Sidharth",
-        "Games",
-        "Study",
-        "Trusts"
-      ]
-    },
-    {
-      "blanked": "The ______ doctrine versus General Beg doctrine",
-      "answer": "Modi-Doval",
-      "options": [
-        "Ashiq",
-        "Modi-Doval",
-        "General",
-        "Rifles"
-      ]
-    },
-    {
-      "blanked": "World Heart ______ observed with awareness programme at GBP Hospital in Tripura",
-      "answer": "Day",
-      "options": [
-        "Simone",
-        "Obsession",
-        "Reboot",
-        "Day"
-      ]
-    },
-    {
-      "blanked": "Eiffel Tower chief to step down after female staff excluded during ______ group's visit",
-      "answer": "Hindu",
-      "options": [
-        "About",
-        "Jenner",
-        "Hindu",
-        "Russia"
-      ]
-    },
-    {
-      "blanked": "He bought land in Kashmir. ______ years later, someone else was building house on it",
-      "answer": "Six",
-      "options": [
-        "Thakuria",
-        "Six",
-        "Bachchan",
-        "Row"
-      ]
-    },
-    {
-      "blanked": "Asian ______ 2026: Neeru clinches historic gold in trap shooting",
-      "answer": "Games",
-      "options": [
-        "Games",
-        "Aviation",
-        "Tamannaah",
-        "Monday"
-      ]
-    },
-    {
-      "blanked": "NASA announces new missions for Boeing ______ spacecraft",
-      "answer": "Starliner",
-      "options": [
-        "Juice",
-        "Starliner",
-        "Headphone",
-        "Man"
-      ]
-    },
-    {
-      "blanked": "Screen Time Tied to Poorer Grades, ______ Distress in Kids",
-      "answer": "More",
-      "options": [
-        "Earning",
-        "Six",
-        "More",
-        "Rhythm"
+        "2027",
+        "Creators",
+        "Tata",
+        "Internet"
       ]
     }
   ]
