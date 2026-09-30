@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-09-30T07:05:44.680Z",
+  "generatedAt": "2026-09-30T13:39:56.539Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "Gyanesh Kumar: India's election chief at the centre of a growing political storm",
-    "‘Bigger than internet’: Trump officially renames AI as ‘super intelligence’",
-    "Lashkar Terrorist Gunned Down During Encounter With Security Forces In J&K",
-    "J&K bureaucrats write to Speaker seeking disallowance of statehood resolution",
-    "Asian Games 2026 LIVE: India wins women’s compound gold, edges past South Korea in shoot-off for mixed team gold",
-    "CISF jawan kills four colleagues with AK-47 in suspected fratricide in J&K's Kathua, arrested | India News",
-    "EAM Jaishankar warns of ‘major food crisis’ in coming months",
-    "Before Pune Fort Murder, Ketan Agarwal Tattooed Siya Goyal's Name As Surprise",
+    "Plane bound for Israel lands in Saudi Arabia after pilots fight",
+    "INDIA bloc meeting updates: Opposition announces march to Election Commission office on October 6",
+    "Trump Signs Executive Order Renaming AI To ‘Super Intelligence’—Here’s What It Changes",
+    "Mangaluru: Blast reported at MRPL premises, thick smoke engulfs surrounding areas",
+    "From Pahalgam To Pir Panjal: How Pakistan-Based LeT Commander Hashim Moosa Was Hunted Down",
+    "Indian firm building $15bn Trump-announced steel mill has deep Russia ties",
     "₹3,000 crore drugs seized from Iranian boat in Arabian Sea; 5 Pakistan nationals detained",
-    "Why Tamil Nadu Cannot Find Land For Its Own Government",
-    "Tennessee set to execute a woman for the first time in two centuries",
-    "'She Said It Was Consensual': US District Attorney's Shocker In Cornell Case",
-    "US Supreme Court allows Trump to continue third-country deportations",
-    "Trump ‘surprised’ U.K. air base terror suspects out on bail",
-    "Sensex rises 300 pts from day's low, Nifty above 22,700: Value buying among key factors behind market gain",
-    "Apple Pay finally launches in India after years on the sidelines",
-    "Tata Trusts within right to seek merger, but Tata Sons can challenge: Lawyer",
-    "CAFE III fuel efficiency norms notified for cars: 3x credit for battery EVs, no special benefit for small",
-    "Minecraft Dungeons II, Ace Combat 8: Wings of Theve on Xbox X/S, PlayStation 5, Switch, PC: New Gameplay,",
-    "Minecraft 26.4 Snapshot 2 Adds a Cleaner F3 Debug Screen and Improves Fog",
-    "Apple will sell 6 million iPhone duos in 2026, Counterpoint says",
-    "NYT Strands hints, answers for September 29, 2026",
-    "Aishwarya Rai Bachchan returns home after stealing the spotlight at Paris Fashion Week - PICS",
-    "Vashu Bhagnani hospitalised in London days after reported IT searches over alleged film funding irregularities | Bollywood",
-    "Salman Khan patches up with Paparazzi? Actor poses with shutterbugs after Bigg Boss outburst — WATCH"
+    "4 held for making obscene remarks at Israeli tourist in Rajasthan",
+    "Namo Bharat Travel Gets Easier as NCRTC Introduces Trip Pass for NCMC Users",
+    "Jawan Who Killed 4 Colleagues In J&K Had Argued Over Bringing Child To Office",
+    "Somali pirates killed five crew members on hijacked tanker, officials say",
+    "Netanyahu’s secret UAE visit: Why Israel PM met Sheikh Mohamed bin Zayed amid October 7 warning row",
+    "Iran Receives US Feedback On Seven-Day Trust-Building Plan",
+    "Russia warns Nato of 'direct confrontation' if Kaliningrad is cut off from Russia",
+    "Stock Market Highlights: Sensex Ends Flat, Nifty At 22,620; Pharma Top Drag, Realty Outperforms",
+    "Rupee lingers around bottom of Asia FX pile as global headwinds deepen",
+    "Venu Srinivasan seeks inquiry into Tata Trusts governance, questions Noel Tata’s appointments: Report",
+    "Traders withdraw October 2 'No UPI Day' call after meeting FM Sitharaman",
+    "Samsung launches Galaxy S12 series, and the base model is nowhere to be found",
+    "Amazon Debuts Faster Fire TV Stick 4K With Sleeker Remote",
+    "Influencers see Meta VR Glasses as potential gamechanger for virtual reality and spatial computing, says GlobalData",
+    "Apple expected to sell 6 million iPhone Duo foldables",
+    "Koffee With Karan Season 9: Karan Johar announces end of his iconic talk show that ‘nearly put an end to careers’ | Web Series",
+    "The Paradise Box Office Collections: Nani starrer comes down on weekdays significantly, Gross Rs. 113 Cr in 6 days",
+    "Prahaar Trailer: Rajkummar Rao's Ujjwal Nikam Takes On The 26/11 Kasab Trial"
   ],
   "quiz": [
     {
-      "blanked": "SpaceX's Starship launches on first orbital mission from ______",
-      "answer": "Texas",
+      "blanked": "Prahaar Trailer: Rajkummar Rao's Ujjwal ______ Takes On The 26/11 Kasab Trial",
+      "answer": "Nikam",
       "options": [
-        "Agarwal",
-        "AIIMS",
+        "Nikam",
+        "Interview",
+        "Penny",
+        "Arabia"
+      ]
+    },
+    {
+      "blanked": "Mangaluru: ______ reported at MRPL premises, thick smoke engulfs surrounding areas",
+      "answer": "Blast",
+      "options": [
+        "Next",
+        "Blast",
+        "Era",
+        "Had"
+      ]
+    },
+    {
+      "blanked": "Trump Signs Executive ______ Renaming AI To ‘Super Intelligence’—Here’s What It Changes",
+      "answer": "Order",
+      "options": [
+        "Order",
+        "Travel",
+        "Season",
+        "Earths"
+      ]
+    },
+    {
+      "blanked": "Amazon Debuts Faster Fire TV ______ 4K With Sleeker Remote",
+      "answer": "Stick",
+      "options": [
+        "Stick",
+        "1000",
+        "Care",
+        "NCRTC"
+      ]
+    },
+    {
+      "blanked": "Namo Bharat Travel Gets Easier as NCRTC Introduces ______ Pass for NCMC Users",
+      "answer": "Trip",
+      "options": [
+        "1000",
+        "Trip",
+        "World",
+        "Series"
+      ]
+    },
+    {
+      "blanked": "Russia warns ______ of 'direct confrontation' if Kaliningrad is cut off from Russia",
+      "answer": "Nato",
+      "options": [
+        "Noel",
+        "Kasab",
+        "Debuts",
+        "Nato"
+      ]
+    },
+    {
+      "blanked": "Case by Case: Where Phototherapy Fits in the Treatment ______",
+      "answer": "Algorithm",
+      "options": [
+        "Meta",
         "Texas",
-        "Lifeline"
-      ]
-    },
-    {
-      "blanked": "Minecraft 26.4 Snapshot 2 Adds a ______ F3 Debug Screen and Improves Fog",
-      "answer": "Cleaner",
-      "options": [
-        "Day",
-        "Paradise",
-        "Cleaner",
-        "Fog"
-      ]
-    },
-    {
-      "blanked": "Thoubal observes World Rabies ______ : 30th sep26 - e-pao.net",
-      "answer": "Day",
-      "options": [
-        "Encounter",
-        "Day",
-        "Land",
-        "Court"
-      ]
-    },
-    {
-      "blanked": "Tata Trusts within right to seek merger, but Tata ______ can challenge: Lawyer",
-      "answer": "Sons",
-      "options": [
-        "Bachchan",
-        "Strands",
         "Jupiter",
-        "Sons"
+        "Algorithm"
       ]
     },
     {
-      "blanked": "NYT Strands hints, answers for September 29, ______",
-      "answer": "2026",
+      "blanked": "Samsung launches ______ S12 series, and the base model is nowhere to be found",
+      "answer": "Galaxy",
       "options": [
-        "AIIMS",
-        "Sons",
-        "2026",
-        "Xbox"
+        "22620",
+        "Galaxy",
+        "2029",
+        "Johar"
       ]
     },
     {
-      "blanked": "Salman Khan patches up with Paparazzi? Actor poses with shutterbugs after ______ Boss outburst — WATCH",
-      "answer": "Bigg",
+      "blanked": "Nabi handed debut as India field; ______ Indies make four changes",
+      "answer": "West",
       "options": [
-        "Games",
-        "Bigg",
-        "Encounter",
-        "Cleaner"
+        "Renaming",
+        "Stats",
+        "News",
+        "West"
       ]
     },
     {
-      "blanked": "Lashkar Terrorist Gunned Down During Encounter With ______ Forces In J&K",
-      "answer": "Security",
+      "blanked": "How sugar from outer space became one of the backbones of life on ______ | Hindustan Times",
+      "answer": "Earth",
       "options": [
-        "Snapshot",
-        "League",
-        "Security",
-        "300"
+        "Plan",
+        "Earth",
+        "Faster",
+        "Down"
       ]
     },
     {
-      "blanked": "CISF jawan kills four colleagues with AK-47 in suspected fratricide in J&K's ______ arrested | India News",
-      "answer": "Kathua",
+      "blanked": "Venu Srinivasan seeks inquiry into ______ Trusts governance, questions Noel Tata’s appointments: Report",
+      "answer": "Tata",
       "options": [
-        "Jupiter",
-        "Kathua",
-        "Lifeline",
-        "Shocker"
+        "Commission",
+        "Hindustan",
+        "Tata",
+        "Faster"
       ]
     },
     {
-      "blanked": "Gyanesh Kumar: ______ election chief at the centre of a growing political storm",
-      "answer": "Indias",
+      "blanked": "Netanyahu’s secret UAE visit: Why Israel PM met Sheikh ______ bin Zayed amid October 7 warning row",
+      "answer": "Mohamed",
       "options": [
-        "Speaker",
-        "Indias",
-        "RajaSaab",
-        "Supreme"
-      ]
-    },
-    {
-      "blanked": "Why Tamil Nadu Cannot ______ Land For Its Own Government",
-      "answer": "Find",
-      "options": [
-        "Week",
-        "Attorneys",
-        "Million",
-        "Find"
-      ]
-    },
-    {
-      "blanked": "Vashu ______ hospitalised in London days after reported IT searches over alleged film funding irregularities | Bollywood",
-      "answer": "Bhagnani",
-      "options": [
-        "Wings",
-        "Rai",
-        "Bhagnani",
-        "Tollywoods"
-      ]
-    },
-    {
-      "blanked": "Minecraft Dungeons II, Ace Combat 8: ______ of Theve on Xbox X/S, PlayStation 5, Switch, PC: New Gameplay,",
-      "answer": "Wings",
-      "options": [
-        "Top",
-        "Week",
-        "Dhanda",
-        "Wings"
+        "Web",
+        "Arabian",
+        "Takes",
+        "Mohamed"
       ]
     }
   ]
