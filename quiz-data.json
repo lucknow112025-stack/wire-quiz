@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-09-29T22:29:14.185Z",
+  "generatedAt": "2026-09-30T01:26:54.845Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
     "Supreme Court agrees to list next week plea to suspend CEC Gyanesh Kumar from office",
-    "Jawan Opens Fire, Kills 4 Colleagues, Including An Officer In J&K's Kathua",
+    "Lashkar Terrorist Gunned Down During Encounter With Security Forces In J&K",
+    "CISF jawan kills four colleagues with AK-47 in suspected fratricide in J&K's Kathua, arrested | India News",
     "Trump says US will win Iran war 'very soon'",
     "Indian firm building $15bn Trump-announced steel mill has deep Russia ties",
-    "J&K bureaucrats write to Speaker seeking disallowance of statehood resolution",
     "At CWC meet, Rahul says Modi told him: ‘When we go, you will come'",
-    "'Who Heads NCPCR? How Can They Be So Indifferent?' Supreme Court Rebukes NCPCR Over 25% RTE Quota...",
-    "Budgam encounter: Army kills LeT terrorist in fierce gunfight in Yousmarg",
+    "Stringent curbs for Delhi as pollution season approaches; No fuel for vehicles without valid PUCC from October 1 | Latest News Delhi",
     "Tamil Nadu CM Vijay launches Thaimaaman Thanga Mothiram Thittam at Madurai",
-    "Assam Rifles jawan dead, 4 others injured in militant attack in Arunachal Pradesh: Police | India News",
+    "'Who Heads NCPCR? How Can They Be So Indifferent?' Supreme Court Rebukes NCPCR Over 25% RTE Quota...",
+    "Goyal-Greer meet: Can India still secure a tariff edge over rivals as Russia sanctions add uncertainty?",
+    "Trump renames AI ‘superintelligence’, tech giants sign morally binding safety pact",
+    "‘Bigger than internet’: Trump officially renames AI as ‘super intelligence’",
     "Trump ‘surprised’ U.K. air base terror suspects out on bail",
     "Drugged, Raped 'For Hours' After 'Free-P***y' Text: Ex-Student Sues Cornell",
-    "Mountain collapses into river in Nepal, terrifying video captures chaos",
-    "'Technical issue': Pakistan blocks airspace for Russian flight carrying uranium for Bangladesh nuclear pl",
     "Tata Trusts within right to seek merger, but Tata Sons can challenge: Lawyer",
+    "Equities end slightly lower as bond yields hold near multi-decade highs",
     "Anthropic warns AI may pose 'existential risks to humanity' in IPO filing",
-    "OpenAI launches Dots, its bubbly agentic avatar",
-    "20% More Creators Earning Over 7 Figures: YouTube India MD To NDTV",
-    "Apple Watch Series 12: Will it finally fix Apple Watch Ultra envy?",
+    "Investor alert! Nifty cracks below key 200-week moving average for the first time since Covid",
     "Minecraft 26.4 Snapshot 2 Adds a Cleaner F3 Debug Screen and Improves Fog",
     "Minecraft Dungeons 2 Deluxe Edition launched: What does the extra $20 really buy and here's what's include",
     "GTA 6: All the Major New Details Revealed Today, Including Animal Species, Side Activities, and Fast Travel",
-    "\"Not On My Bingo Card\": Internet Reacts To Mira Rajput's Unexpected Appearance On Kareena Kapoor's Show",
-    "'I Had To Be My Own Father': Rahul Bhatt Opens Up About His 'Fractured' Relationship With Dad Mahesh Bhatt",
+    "Nothing Headphone (1) Pro unveiled with triple drivers, improved ANC, and premium build - GSMArena.com news",
+    "Prahaar Trailer: Rajkummar Rao's Ujjwal Nikam Takes On The 26/11 Kasab Trial",
+    "Mira Rajput to join Kareena Kapoor Khan on 'What Women Want'; fans call it a collaboration that 'was NOT",
     "A first look at Jonathan Anderson’s Dior spring 2027 collection"
   ],
   "quiz": [
     {
-      "blanked": "Supreme Court agrees to list next week plea to suspend CEC Gyanesh ______ from office",
-      "answer": "Kumar",
+      "blanked": "AH&VS Observes World ______ Day with the Theme ‘Stronger Together’",
+      "answer": "Rabies",
       "options": [
-        "Indifferent",
-        "Complex",
-        "Jipmer",
-        "Kumar"
+        "Can",
+        "NOT",
+        "Rabies",
+        "GBP"
       ]
     },
     {
-      "blanked": "Apple Watch Series 12: Will it finally fix Apple Watch ______ envy?",
-      "answer": "Ultra",
+      "blanked": "‘Bigger than internet’: ______ officially renames AI as ‘super intelligence’",
+      "answer": "Trump",
       "options": [
-        "Earth",
-        "Ultra",
-        "Creators",
-        "Andersons"
+        "Russia",
+        "Trump",
+        "2611",
+        "Modi"
       ]
     },
     {
-      "blanked": "Boeing's Calamity Capsule gets another shot at the ______ taxi business",
-      "answer": "ISS",
+      "blanked": "GTA 6: All the Major New Details Revealed ______ Including Animal Species, Side Activities, and Fast Travel",
+      "answer": "Today",
       "options": [
-        "Jipmer",
-        "Police",
-        "Complex",
-        "ISS"
+        "Today",
+        "Rahul",
+        "Kareena",
+        "Supreme"
       ]
     },
     {
-      "blanked": "'I ______ To Be My Own Father': Rahul Bhatt Opens Up About His 'Fractured' Relationship With Dad Mahesh Bhatt",
-      "answer": "Had",
+      "blanked": "Stringent curbs for Delhi as pollution season approaches; No fuel for vehicles without valid ______ from October 1 | Latest News Delhi",
+      "answer": "PUCC",
       "options": [
-        "Had",
-        "LeT",
-        "Fast",
-        "Ultra"
+        "ANC",
+        "Stronger",
+        "PUCC",
+        "Heads"
       ]
     },
     {
-      "blanked": "Drugged, ______ 'For Hours' After 'Free-P***y' Text: Ex-Student Sues Cornell",
-      "answer": "Raped",
+      "blanked": "Minecraft Dungeons 2 Deluxe Edition launched: ______ does the extra $20 really buy and here's what's include",
+      "answer": "What",
       "options": [
-        "Activities",
-        "Raped",
-        "LeT",
-        "Indies"
+        "Free-Py",
+        "Can",
+        "What",
+        "Security"
       ]
     },
     {
-      "blanked": "OpenAI launches ______ its bubbly agentic avatar",
-      "answer": "Dots",
+      "blanked": "Anthropic warns AI may pose 'existential risks to humanity' in ______ filing",
+      "answer": "IPO",
       "options": [
-        "Raghav",
-        "Ex-Student",
-        "Lawyer",
-        "Dots"
+        "IPO",
+        "City",
+        "Modi",
+        "Dungeons"
       ]
     },
     {
-      "blanked": "India vs ______ Indies, 2nd ODI Preview: India out to resume batting range and frenzy in Guwahati",
-      "answer": "West",
+      "blanked": "Indian firm building $15bn ______ steel mill has deep Russia ties",
+      "answer": "Trump-announced",
       "options": [
-        "Andersons",
-        "Side",
-        "Arunachal",
-        "West"
+        "Premier",
+        "Trump-announced",
+        "Major",
+        "GBP"
       ]
     },
     {
       "blanked": "Asian Games 2026: ______ 400m relay quartet ends wait for athletics gold",
       "answer": "Womens",
       "options": [
-        "Speaker",
-        "About",
-        "Relationship",
+        "Cornell",
+        "Gyanesh",
+        "Iran",
         "Womens"
       ]
     },
     {
-      "blanked": "Beyond diet and exercise: ______ modern urban lifestyles are changing the heart-health conversation",
-      "answer": "How",
+      "blanked": "Lashkar Terrorist Gunned ______ During Encounter With Security Forces In J&K",
+      "answer": "Down",
       "options": [
-        "India",
-        "How",
-        "Nani",
-        "Womens"
+        "Observes",
+        "Jupiter",
+        "Down",
+        "Top"
       ]
     },
     {
-      "blanked": "Man City guilty of using 'sham' deals to distort finances, Premier ______ says",
-      "answer": "League",
+      "blanked": "Investor alert! Nifty cracks below key 200-week moving average for the first time since ______",
+      "answer": "Covid",
       "options": [
-        "Mahesh",
-        "League",
-        "Unexpected",
-        "Court"
-      ]
-    },
-    {
-      "blanked": "\"Not On My Bingo Card\": Internet Reacts To Mira Rajput's Unexpected ______ On Kareena Kapoor's Show",
-      "answer": "Appearance",
-      "options": [
-        "Cleaner",
-        "Appearance",
-        "Rajputs",
-        "PAD"
-      ]
-    },
-    {
-      "blanked": "A first look at Jonathan Anderson’s Dior spring ______ collection",
-      "answer": "2027",
-      "options": [
-        "2027",
-        "Creators",
+        "Including",
         "Tata",
-        "Internet"
+        "Down",
+        "Covid"
+      ]
+    },
+    {
+      "blanked": "Asian ______ 2026 India schedule today, September 30: Olympic quota at stake in archery, women’s hockey eye finals, wrestling starts",
+      "answer": "Games",
+      "options": [
+        "Covid",
+        "Games",
+        "Indifferent",
+        "Ranji"
+      ]
+    },
+    {
+      "blanked": "CISF jawan kills four colleagues with AK-47 in suspected fratricide in ______ Kathua, arrested | India News",
+      "answer": "JKs",
+      "options": [
+        "JKs",
+        "Juice",
+        "Animal",
+        "Nadu"
       ]
     }
   ]
