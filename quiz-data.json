@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-09-30T13:39:56.539Z",
+  "generatedAt": "2026-09-30T18:33:47.043Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "Plane bound for Israel lands in Saudi Arabia after pilots fight",
-    "INDIA bloc meeting updates: Opposition announces march to Election Commission office on October 6",
+    "Pilot attacked in flydubai altercation Indian, say sources",
+    "Gyanesh Kumar: India's election chief at the centre of a growing political storm",
+    "Modi, Trump discuss bilateral cooperation in trade, defence, energy, critical technologies",
+    "Actionable intelligence led to killing of most-wanted LeT terrorist Hashim Moosa | India News",
+    "No Public Interest In Disclosing Prime Minister's Educational Qualification, Degree Is Personal...",
     "Trump Signs Executive Order Renaming AI To ‘Super Intelligence’—Here’s What It Changes",
-    "Mangaluru: Blast reported at MRPL premises, thick smoke engulfs surrounding areas",
-    "From Pahalgam To Pir Panjal: How Pakistan-Based LeT Commander Hashim Moosa Was Hunted Down",
-    "Indian firm building $15bn Trump-announced steel mill has deep Russia ties",
-    "₹3,000 crore drugs seized from Iranian boat in Arabian Sea; 5 Pakistan nationals detained",
-    "4 held for making obscene remarks at Israeli tourist in Rajasthan",
-    "Namo Bharat Travel Gets Easier as NCRTC Introduces Trip Pass for NCMC Users",
-    "Jawan Who Killed 4 Colleagues In J&K Had Argued Over Bringing Child To Office",
-    "Somali pirates killed five crew members on hijacked tanker, officials say",
-    "Netanyahu’s secret UAE visit: Why Israel PM met Sheikh Mohamed bin Zayed amid October 7 warning row",
-    "Iran Receives US Feedback On Seven-Day Trust-Building Plan",
-    "Russia warns Nato of 'direct confrontation' if Kaliningrad is cut off from Russia",
-    "Stock Market Highlights: Sensex Ends Flat, Nifty At 22,620; Pharma Top Drag, Realty Outperforms",
-    "Rupee lingers around bottom of Asia FX pile as global headwinds deepen",
-    "Venu Srinivasan seeks inquiry into Tata Trusts governance, questions Noel Tata’s appointments: Report",
-    "Traders withdraw October 2 'No UPI Day' call after meeting FM Sitharaman",
-    "Samsung launches Galaxy S12 series, and the base model is nowhere to be found",
-    "Amazon Debuts Faster Fire TV Stick 4K With Sleeker Remote",
+    "Avoid ‘dangerous path’ of travelling to Russia to join army: MEA",
+    "Poll Panel Drops Added Declaration From New Voter Form For Non-SIR States",
+    "Blue drum case: Meerut court convicts wife, lover for husband’s murder",
+    "R. Veeramani booked for abetting suicide of minor in 2004",
+    "Macron Says \"Welcome Back\" After UK PM Floats Idea Of Rejoining European Union",
+    "Cornell University gang-rape case: DA reveals new disturbing details as investigation reopens",
+    "World News Live Updates: US Court halts execution of Christa Gail Pike for Tennessee murder she committed at 18",
+    "Iran gets formal US response on war-end plan after Trump rejected Tehran proposal: What happens next?",
+    "Stock Market Close: Sensex ends volatile trade flat, Nifty at 22,620; bank and realty shares shine",
+    "Apple Pay goes live in India with Axis Bank-issued Visa and Mastercard cards",
+    "Govt. notifies CAFE-3 norms; 3x BEV credits, no small car benefits - Team-BHP",
+    "Indian money going abroad is RBI's call, not ours, says SEBI chief",
+    "Apple makes the AirPods 5 slightly less hostile to repair",
     "Influencers see Meta VR Glasses as potential gamechanger for virtual reality and spatial computing, says GlobalData",
     "Apple expected to sell 6 million iPhone Duo foldables",
-    "Koffee With Karan Season 9: Karan Johar announces end of his iconic talk show that ‘nearly put an end to careers’ | Web Series",
+    "Best camera phone under Rs 30,000 to buy in September 2026",
     "The Paradise Box Office Collections: Nani starrer comes down on weekdays significantly, Gross Rs. 113 Cr in 6 days",
-    "Prahaar Trailer: Rajkummar Rao's Ujjwal Nikam Takes On The 26/11 Kasab Trial"
+    "Yami Gautam's 'Nayyi Navelli' trailer out: Mohini's arrival as new bahu turns the Awasthi family's world",
+    "BREAKING: Shoot of Vicky Kaushals Mahavatar to commence in January 2027; Stree 3 goes on floors in 2027-end; horror comedy expected to release on Independence Day or Christmas 2028"
   ],
   "quiz": [
     {
-      "blanked": "Prahaar Trailer: Rajkummar Rao's Ujjwal ______ Takes On The 26/11 Kasab Trial",
-      "answer": "Nikam",
+      "blanked": "Govt. notifies CAFE-3 norms; 3x ______ credits, no small car benefits - Team-BHP",
+      "answer": "BEV",
       "options": [
-        "Nikam",
-        "Interview",
-        "Penny",
-        "Arabia"
+        "Panel",
+        "Live",
+        "RBIs",
+        "BEV"
       ]
     },
     {
-      "blanked": "Mangaluru: ______ reported at MRPL premises, thick smoke engulfs surrounding areas",
-      "answer": "Blast",
+      "blanked": "Sugar found in meteorites may have helped secure its own survival on early ______",
+      "answer": "Earth",
       "options": [
-        "Next",
-        "Blast",
-        "Era",
-        "Had"
+        "Union",
+        "Indian",
+        "Earth",
+        "Christmas"
       ]
     },
     {
-      "blanked": "Trump Signs Executive ______ Renaming AI To ‘Super Intelligence’—Here’s What It Changes",
-      "answer": "Order",
+      "blanked": "Stock Market Close: Sensex ends volatile trade flat, Nifty at ______ bank and realty shares shine",
+      "answer": "22620",
       "options": [
-        "Order",
-        "Travel",
-        "Season",
+        "22620",
+        "States",
+        "India",
+        "Meta"
+      ]
+    },
+    {
+      "blanked": "Influencers see ______ VR Glasses as potential gamechanger for virtual reality and spatial computing, says GlobalData",
+      "answer": "Meta",
+      "options": [
+        "Ministers",
+        "Voter",
+        "Kumar",
+        "Meta"
+      ]
+    },
+    {
+      "blanked": "Yami Gautam's ______ Navelli' trailer out: Mohini's arrival as new bahu turns the Awasthi family's world",
+      "answer": "Nayyi",
+      "options": [
+        "Nayyi",
+        "Cancer",
+        "Court",
+        "Axis"
+      ]
+    },
+    {
+      "blanked": "Trump Signs Executive Order Renaming AI To ______ Intelligence’—Here’s What It Changes",
+      "answer": "Super",
+      "options": [
+        "Super",
+        "Nifty",
+        "World",
         "Earths"
       ]
     },
     {
-      "blanked": "Amazon Debuts Faster Fire TV ______ 4K With Sleeker Remote",
-      "answer": "Stick",
+      "blanked": "Cornell ______ gang-rape case: DA reveals new disturbing details as investigation reopens",
+      "answer": "University",
       "options": [
-        "Stick",
-        "1000",
-        "Care",
-        "NCRTC"
+        "University",
+        "Court",
+        "Moosa",
+        "Mahavatar"
       ]
     },
     {
-      "blanked": "Namo Bharat Travel Gets Easier as NCRTC Introduces ______ Pass for NCMC Users",
-      "answer": "Trip",
-      "options": [
-        "1000",
-        "Trip",
-        "World",
-        "Series"
-      ]
-    },
-    {
-      "blanked": "Russia warns ______ of 'direct confrontation' if Kaliningrad is cut off from Russia",
-      "answer": "Nato",
-      "options": [
-        "Noel",
-        "Kasab",
-        "Debuts",
-        "Nato"
-      ]
-    },
-    {
-      "blanked": "Case by Case: Where Phototherapy Fits in the Treatment ______",
-      "answer": "Algorithm",
-      "options": [
-        "Meta",
-        "Texas",
-        "Jupiter",
-        "Algorithm"
-      ]
-    },
-    {
-      "blanked": "Samsung launches ______ S12 series, and the base model is nowhere to be found",
-      "answer": "Galaxy",
-      "options": [
-        "22620",
-        "Galaxy",
-        "2029",
-        "Johar"
-      ]
-    },
-    {
-      "blanked": "Nabi handed debut as India field; ______ Indies make four changes",
-      "answer": "West",
-      "options": [
-        "Renaming",
-        "Stats",
-        "News",
-        "West"
-      ]
-    },
-    {
-      "blanked": "How sugar from outer space became one of the backbones of life on ______ | Hindustan Times",
+      "blanked": "Europe's Juice spacecraft uses Earth's gravity to boost speed on journey to Jupiter | It will conduct another ______ flyby in 2029 | Inshorts",
       "answer": "Earth",
       "options": [
-        "Plan",
+        "Qualification",
         "Earth",
-        "Faster",
-        "Down"
+        "Heart",
+        "Rejoining"
       ]
     },
     {
-      "blanked": "Venu Srinivasan seeks inquiry into ______ Trusts governance, questions Noel Tata’s appointments: Report",
-      "answer": "Tata",
+      "blanked": "No Public Interest In Disclosing ______ Minister's Educational Qualification, Degree Is Personal...",
+      "answer": "Prime",
       "options": [
-        "Commission",
-        "Hindustan",
-        "Tata",
-        "Faster"
+        "Cancer",
+        "Prime",
+        "Indias",
+        "Shoot"
       ]
     },
     {
-      "blanked": "Netanyahu’s secret UAE visit: Why Israel PM met Sheikh ______ bin Zayed amid October 7 warning row",
-      "answer": "Mohamed",
+      "blanked": "Avoid ‘dangerous path’ of travelling to ______ to join army: MEA",
+      "answer": "Russia",
       "options": [
-        "Web",
-        "Arabian",
-        "Takes",
-        "Mohamed"
+        "Christmas",
+        "Interview",
+        "Russia",
+        "News"
+      ]
+    },
+    {
+      "blanked": "The Paradise Box Office Collections: Nani starrer comes down on weekdays significantly, Gross Rs. ______ Cr in 6 days",
+      "answer": "113",
+      "options": [
+        "ODI",
+        "Public",
+        "113",
+        "Penny"
+      ]
+    },
+    {
+      "blanked": "Macron Says \"Welcome Back\" After UK PM Floats Idea Of ______ European Union",
+      "answer": "Rejoining",
+      "options": [
+        "Rejoining",
+        "Rohit",
+        "India",
+        "Live"
       ]
     }
   ]
