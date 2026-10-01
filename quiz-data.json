@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-09-30T22:37:22.749Z",
+  "generatedAt": "2026-10-01T01:34:09.444Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "Israeli PM hails Indian pilot wounded in diverted flydubai flight",
-    "Gyanesh Kumar: India's election chief at the centre of a growing political storm",
+    "Trump says flydubai pilot 'a hero', plumber steadied plunging aircraft",
     "EC removes Form 6 change two Commissioners had called ‘illegal’",
+    "Gyanesh Kumar: India's election chief at the centre of a growing political storm",
     "Trump Signs Executive Order Renaming AI To ‘Super Intelligence’—Here’s What It Changes",
-    "Stats - 811 runs, five centurions, and records galore in Guwahati",
-    "Iran receives US feedback on seven-day trust-building plan",
+    "'This is not cricket, this is only batting' - Gambhir after India's record ODI chase",
+    "Iran indicates it received official US response to latest offer on ending war",
+    "'Lewd Remarks Against Woman': Tamil Nadu Bypoll Candidate Tears Up, Vijay Consoles Her",
     "Modi speaks with Trump as India seeks interim deal with US",
-    "‘Dangerous path’: MEA urges Indians to stay away from Russian military recruitment",
-    "Bengaluru shocker: 19-year-old BCom student called out of class, stabbed to death",
+    "Who is Dhanraj Nathwani: Reliance executive, who succeeded Amit Shah as GCA president is Samajwadi Party'",
     "Amit Shahs Punjab visit: Give one chance to BJP, will make Punjab chitta-free by 2029-end, vows Home Minister",
-    "Macron Says \"Welcome Back\" After UK PM Floats Idea Of Rejoining European Union",
-    "Days after India-Pakistan sparring at UN, senior Indian official visits Islamabad for SCO planning meet",
-    "US To Double Immigrant Investor Visa Fees From November 30",
-    "How does Iraq’s security change after US forces withdraw?",
-    "Gold loses momentum as the initial reaction to softer US PCE inflation fades",
-    "Govt cuts windfall tax on diesel, ATF exports; petrol duty unchanged",
-    "Govt. notifies CAFE-3 norms; 3x BEV credits, no small car benefits - Team-BHP",
-    "Nifty nears longest losing streak in 25 years. Can bulls stop the 8th consecutive weekly selloff?",
-    "Apple makes the AirPods 5 slightly less hostile to repair",
-    "Apple expected to sell 6 million iPhone Duo foldables",
+    "World News Live Updates: US Court halts execution of Christa Gail Pike for Tennessee murder she committed at 18",
+    "Full re-entry into EU is an option for U.K., says PM Burnham",
+    "Trump on Iranian leaders: Maybe you blow them up. Blow them up or make a deal. The time is coming",
+    "US Forces Exit Iraq Amid Rising Fears Of ISIS Resurgence",
+    "Gold price could have a ‘shinier Q4’ despite 20-year highs in bond yields - FOREX.com’s Razaqzada",
+    "US long-bond yields renew 24-year high on resilient US spending",
+    "Venu Srinivasan questions Noel Tata's appointment as Tata Trusts chairman, writes to Charity Commissioner",
+    "Apple Pay goes live in India with Axis Bank-issued Visa and Mastercard cards",
     "Best camera phone under Rs 30,000 to buy in September 2026",
-    "Influencers see Meta VR Glasses as potential gamechanger for virtual reality and spatial computing, says GlobalData",
-    "Amitabh Bachchan slips, suffers knee injury during shoot, the actor shares, 'I do my monologue standing a",
-    "The Paradise Box Office Collections: Nani starrer comes down on weekdays significantly, Gross Rs. 113 Cr in 6 days",
+    "Apple expected to sell 6 million iPhone Duo foldables",
+    "Samsung Galaxy Tab S12 Ultra and Galaxy Tab S12+ debut - GSMArena.com news",
+    "Minecraft 26.4 Snapshot 2 Adds a Cleaner F3 Debug Screen and Improves Fog",
+    "Nayyi Navelli trailer: Yami Gautam might be a daayan-in-disguise as the new bride of the house. Watch | Bollywood",
+    "The Vvaan Box Office Collections: Sidharth Malhotra and Tamannaah Bhatia continues to be on a HIT trend, Nets Rs. 42 Cr in 5 days",
     "Drishyam 3 Box Office: Ajay Devgn vs Ajay Devgn! Vijay Salgaonkar needs just Rs. 201.60 cr. to dethrone Singham from Top 10 franchises"
   ],
   "quiz": [
     {
-      "blanked": "Modi speaks with ______ as India seeks interim deal with US",
-      "answer": "Trump",
-      "options": [
-        "Trump",
-        "India",
-        "Care",
-        "Stree"
-      ]
-    },
-    {
-      "blanked": "Amit Shahs Punjab visit: Give one chance to ______ will make Punjab chitta-free by 2029-end, vows Home Minister",
-      "answer": "BJP",
+      "blanked": "Can Infections ______ Cancer? Lancet Study Links 1 In 8 Cancer Cases To Viruses",
+      "answer": "Cause",
       "options": [
         "Cause",
-        "BJP",
-        "201.60",
-        "113"
-      ]
-    },
-    {
-      "blanked": "Stats - 811 runs, five centurions, and records galore in ______",
-      "answer": "Guwahati",
-      "options": [
-        "113",
-        "Cause",
-        "Double",
-        "Guwahati"
-      ]
-    },
-    {
-      "blanked": "Heart health: ______ diet quality matters more than individual foods",
-      "answer": "Overall",
-      "options": [
-        "Cases",
-        "Infections",
-        "Overall",
-        "201.60"
-      ]
-    },
-    {
-      "blanked": "Govt. notifies CAFE-3 norms; 3x BEV credits, no small car benefits - ______",
-      "answer": "Team-BHP",
-      "options": [
-        "Kaushals",
-        "Form",
-        "Games",
-        "Team-BHP"
-      ]
-    },
-    {
-      "blanked": "Gyanesh ______ India's election chief at the centre of a growing political storm",
-      "answer": "Kumar",
-      "options": [
-        "Kumar",
-        "Rohit",
-        "Infections",
-        "Collections"
-      ]
-    },
-    {
-      "blanked": "Apple expected to sell 6 million iPhone ______ foldables",
-      "answer": "Duo",
-      "options": [
-        "Changes",
-        "India-Pakistan",
-        "Duo",
-        "GlobalData"
-      ]
-    },
-    {
-      "blanked": "Will ______ Ronaldo retire from international football after his crisis with Jesus?",
-      "answer": "Cristiano",
-      "options": [
-        "Cristiano",
-        "Welcome",
-        "BCom",
-        "Office"
-      ]
-    },
-    {
-      "blanked": "The Paradise Box ______ Collections: Nani starrer comes down on weekdays significantly, Gross Rs. 113 Cr in 6 days",
-      "answer": "Office",
-      "options": [
-        "Office",
-        "Care",
-        "Tendulkar",
-        "SCO"
-      ]
-    },
-    {
-      "blanked": "Apple makes the ______ 5 slightly less hostile to repair",
-      "answer": "AirPods",
-      "options": [
         "ISS",
-        "AirPods",
-        "113",
-        "Commissioners"
+        "Cleaner",
+        "Srinivasan"
       ]
     },
     {
-      "blanked": "RIMS, IHI talk ______ Care on World Heart Day 'Heart diseases claim 10,00 lives annually in Manipur' - e-pao.net",
+      "blanked": "RIMS, IHI talk Heart Care on World Heart Day ______ diseases claim 10,00 lives annually in Manipur' - e-pao.net",
       "answer": "Heart",
       "options": [
-        "Welcome",
-        "Independence",
+        "Critics",
         "Heart",
-        "India"
+        "Court",
+        "Cleaner"
       ]
     },
     {
-      "blanked": "Israeli PM hails ______ pilot wounded in diverted flydubai flight",
-      "answer": "Indian",
+      "blanked": "Full re-entry into EU is an option for U.K., says PM ______",
+      "answer": "Burnham",
       "options": [
-        "Welcome",
-        "Paradise",
-        "Day",
-        "Indian"
+        "Remarks",
+        "Snapshot",
+        "Burnham",
+        "Changes"
+      ]
+    },
+    {
+      "blanked": "Asian ______ 2026: India sweep compound archery team gold medals; secure mixed team LA 2028 Olympics quota",
+      "answer": "Games",
+      "options": [
+        "26.4",
+        "Games",
+        "Cases",
+        "Samajwadi"
+      ]
+    },
+    {
+      "blanked": "Apple Pay goes live in India with Axis ______ Visa and Mastercard cards",
+      "answer": "Bank-issued",
+      "options": [
+        "Changes",
+        "Pakistan",
+        "201.60",
+        "Bank-issued"
+      ]
+    },
+    {
+      "blanked": "Minecraft 26.4 Snapshot 2 Adds a Cleaner F3 ______ Screen and Improves Fog",
+      "answer": "Debug",
+      "options": [
+        "Woman",
+        "Reliance",
+        "Live",
+        "Debug"
+      ]
+    },
+    {
+      "blanked": "'This is not cricket, this is only batting' - Gambhir after India's record ______ chase",
+      "answer": "ODI",
+      "options": [
+        "Yami",
+        "Screen",
+        "ODI",
+        "News-Medical"
+      ]
+    },
+    {
+      "blanked": "Trump Signs ______ Order Renaming AI To ‘Super Intelligence’—Here’s What It Changes",
+      "answer": "Executive",
+      "options": [
+        "Executive",
+        "Tab",
+        "Viruses",
+        "GCA"
+      ]
+    },
+    {
+      "blanked": "Gold price could have a ‘shinier Q4’ despite 20-year highs in bond yields - FOREX.com’s ______",
+      "answer": "Razaqzada",
+      "options": [
+        "Razaqzada",
+        "Updates",
+        "Commissioners",
+        "Things"
+      ]
+    },
+    {
+      "blanked": "'Lewd Remarks Against Woman': Tamil Nadu Bypoll Candidate Tears Up, ______ Consoles Her",
+      "answer": "Vijay",
+      "options": [
+        "Give",
+        "Vijay",
+        "Srinivasan",
+        "Christa"
+      ]
+    },
+    {
+      "blanked": "India to face Pakistan in men’s volleyball quarterfinals in Asian ______ 2026",
+      "answer": "Games",
+      "options": [
+        "Candidate",
+        "Form",
+        "Games",
+        "BJP"
+      ]
+    },
+    {
+      "blanked": "Modi speaks with Trump as ______ seeks interim deal with US",
+      "answer": "India",
+      "options": [
+        "India",
+        "Super",
+        "Changes",
+        "Woman"
       ]
     }
   ]
