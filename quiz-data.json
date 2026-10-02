@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-10-02T05:15:46.185Z",
+  "generatedAt": "2026-10-02T11:12:54.171Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "Flydubai co-pilot ‘assaulted’ captain before landing: Initial Saudi probe",
-    "He saved us from a 9/11: PM Modi leads praise for Indian pilot Smit Machchhar",
-    "Second judge blocks Trump's $100,000 fee for new H-1B worker visas",
-    "SIR: Filled Form-7 targeting Muslim voters surface in Belagavi",
-    "Gujarat govt compulsorily retires two IAS officers under ‘Operation Gangajal’",
-    "CJP announces ‘morcha’ in Goa, Bengaluru, Kolkata ‘until Gyanesh Kumar resigns’",
-    "‘Left out’ voters: Election Commission orders special drive in 20 states where SIR over",
-    "‘A million mutinies’ on Gandhi Jayanti: Jantar Mantar to Shivaji Park, protests against Gyanesh Kumar loom",
-    "India-US trade deal in ‘short strokes’ but nothing imminent, USTR Greer says",
-    "Post-Monsoon Weather: Less Rain In October, But Winter May Bring Relief",
-    "'He has good ideas': Putin lauds PM Modi's peace push to end Russia-Ukraine war",
+    "PM Modi speaks to flydubai pilot Captain Smit Machchaar",
+    "Hundreds detained by Delhi police from near Jantar Mantar during protest against CEC Gyanesh Kumar; security tightened at Mumbai's Shivaji Park | LIVE",
+    "CJP Mumbai protest today: Why Dipke zeroed in on Mumbai – There’s a Rahul Gandhi link",
+    "U.S. trade representative Greer says deal with India not 'imminent' after Modi-Trump call",
+    "After 13 crore names dropped from draft rolls, EC orders ‘left out’ voter drive",
+    "About 400 French schools closed as some student protests turn violent",
+    "Father Of The Nation? Responsible For Partition? Let Bhagat Singh Die? 7 Myths Fact-Checked On Gandhi Jayan",
+    "Phantom jams, traffic that moves like fluid, forced merges: The physics behind Barapullah Phase-III gridlock | HT Explainers",
+    "‘Better to die with self-respect’: Ex-Rajasthan minister walks out of Congress",
+    "'One Nation, One Election' Committee's Proposed Meeting With Supreme Court Judges Raises Questions",
     "Christa Pike botched execution: How lethal injection is used in death penalty",
-    "UK says Iran may be linked to alleged RAF Fairford plot, drawing denial",
-    "Putin warns Nato of nuclear response if Russia's Kaliningrad comes under attack",
-    "Stock Market Highlights, Oct 1: Sensex falls 571 points, Nifty slips 0.88% as auto stocks drag markets",
-    "September Auto Sales: Who Sold The Most Vehicles? Tata Motors, Eicher, Bajaj, Maruti To M&M, Here's The List",
-    "HDFC Bank appoints Anup Bagchi as MD, CEO for three years - People Matters",
-    "Venu, Vijay Singh query Noel's merger plan to avoid Tata Sons IPO",
-    "Best camera phone under Rs 30,000 to buy in September 2026",
+    "JD Vance Says H-1B Visa Programme ‘Completely Broken’, Should Be Scrapped: 'We Have To...'",
+    "Thousands stranded in UAE as Israeli rescue flights cancelled over landing clearance",
+    "US sanctions target Iran's auto, rail sectors as blockade chokes ship lanes",
+    "Market crash wipes out Rs 26 lakh cr in 8 weeks! Why soaring bond yields may hurt Sensex, Nifty more than",
+    "Banks bet on Bengali bosses as Anup Bagchi, Anup Saha take charge at HDFC, Kotak",
+    "Asia stocks mixed ahead of U.S. jobs data; Hong Kong shares drop 3%",
+    "Suzuki asks India suppliers to shorten production week in push for quality, sources say",
+    "Best Camera Phones to Buy in India Under Rs 30,000, Rs 50,000 and Rs 75,000 in October 2026",
+    "Redmi 17C 5G lands in India, here are the prices - GSMArena.com news",
+    "OpenAI takes on Google with ChatGPT's new virtual try-on feature",
     "Apple’s foldable iPhone Duo is reportedly facing production hurdles ahead of October launch",
-    "Samsung Galaxy Tab S12 Ultra priced from Rs 1,49,999 in India, Tab S12+ from Rs 1,29,999",
-    "Price alert: Samsung raises the prices of Galaxy S26 phones, the US, Europe and India affected - GSMArena.com news",
-    "Drishyam 3 Advance Box Office Update: Ajay Devgn starrer cross 2.40 lakh tickets at national chains, On course to Rs. 50 Cr Day one",
-    "Bigg Boss 20: Rhiti Tiwari gets eliminated in a shocking mid-week eviction",
-    "Swara Bhasker and Shehzad Poonawalla’s rivalry takes an unexpected turn on Rise and Fall season 2; 'Dushm"
+    "Drishyam 3 X Review: Internet Says 'Ajay Devgn Better Than Mohanlal', Picks Jaideep Ahlawat Over Akshaye Khanna",
+    "Nushrratt Bharuccha To Undergo Spine Surgery In Mumbai After Bali Accident, Says Publicist",
+    "Divya Khossla questions Govinda's rumoured girlfriend Komal Rani Swarnkar's 'sindoor' during Lalbaughcha"
   ],
   "quiz": [
     {
-      "blanked": "Drishyam 3 ______ Box Office Update: Ajay Devgn starrer cross 2.40 lakh tickets at national chains, On course to Rs. 50 Cr Day one",
-      "answer": "Advance",
+      "blanked": "‘She was constantly burping’: ______ recalls unusual heart attack case",
+      "answer": "Cardiologist",
       "options": [
-        "Neem",
-        "Advance",
-        "0.88%",
-        "30000"
-      ]
-    },
-    {
-      "blanked": "NASA, SpaceX launch 4 astronauts to ______",
-      "answer": "ISS",
-      "options": [
+        "Cardiologist",
         "ISS",
-        "Metabolic",
-        "Putin",
-        "Galaxy"
+        "China",
+        "Bhagat"
       ]
     },
     {
-      "blanked": "Manchester City sponsor Etihad threatens legal action against Premier ______",
-      "answer": "League",
+      "blanked": "Asia stocks mixed ahead of U.S. jobs data; ______ Kong shares drop 3%",
+      "answer": "Hong",
       "options": [
-        "Ansh",
-        "League",
-        "Comes",
-        "2026"
+        "Programme",
+        "Hong",
+        "50000",
+        "Komal"
       ]
     },
     {
-      "blanked": "UK says Iran may be linked to alleged ______ Fairford plot, drawing denial",
-      "answer": "RAF",
+      "blanked": "Redmi 17C 5G lands in ______ here are the prices - GSMArena.com news",
+      "answer": "India",
       "options": [
-        "RAF",
-        "Vijay",
-        "Month",
-        "30000"
+        "Final",
+        "Komal",
+        "India",
+        "Let"
       ]
     },
     {
-      "blanked": "He saved us from a 9/11: PM ______ leads praise for Indian pilot Smit Machchhar",
-      "answer": "Modi",
+      "blanked": "Predicting Persistent Breast Symptoms in Breast ______",
+      "answer": "Cancer",
       "options": [
+        "Games",
+        "Cancer",
         "Modi",
-        "Trumps",
-        "Rise",
-        "Skywatching"
+        "Phase-III"
       ]
     },
     {
-      "blanked": "Samsung Galaxy Tab S12 ______ priced from Rs 1,49,999 in India, Tab S12+ from Rs 1,29,999",
-      "answer": "Ultra",
+      "blanked": "OpenAI takes on Google with ______ new virtual try-on feature",
+      "answer": "ChatGPTs",
       "options": [
-        "Afford",
-        "Eicher",
-        "Heres",
-        "Ultra"
+        "Raises",
+        "Completely",
+        "ChatGPTs",
+        "Proposed"
       ]
     },
     {
-      "blanked": "Flydubai co-pilot ‘assaulted’ captain before landing: ______ Saudi probe",
-      "answer": "Initial",
+      "blanked": "Digger movie review: After 30 years of defying gravity, ______ Cruise takes his biggest leap",
+      "answer": "Tom",
       "options": [
-        "September",
-        "Auto",
-        "Initial",
-        "Tiwari"
+        "Have",
+        "Make",
+        "Meeting",
+        "Tom"
       ]
     },
     {
-      "blanked": "Will 'Hanuman Ansh 2' be made on a budget of Rs 15-20 crore? Producer of the film inspired by ______ Karoli",
-      "answer": "Neem",
+      "blanked": "U.S. trade representative Greer says deal with India not 'imminent' after ______ call",
+      "answer": "Modi-Trump",
       "options": [
-        "Russia-Ukraine",
-        "Machchhar",
-        "Neem",
-        "Highlights"
+        "Games",
+        "Pike",
+        "Today",
+        "Modi-Trump"
       ]
     },
     {
-      "blanked": "Gujarat govt compulsorily retires two IAS officers under ______ Gangajal’",
-      "answer": "Operation",
+      "blanked": "Divya Khossla questions Govinda's rumoured girlfriend Komal Rani Swarnkar's 'sindoor' during ______",
+      "answer": "Lalbaughcha",
       "options": [
-        "Confidant",
-        "Cup",
-        "Shehzad",
-        "Operation"
+        "Scrapped",
+        "Khossla",
+        "Lalbaughcha",
+        "Games"
       ]
     },
     {
-      "blanked": "Breast Cancer Awareness Month Shines a Light on Detection. New Book Tackles What ______ Next",
-      "answer": "Comes",
+      "blanked": "How sugar from outer space may have helped build life on ______ study finds ribose kept boron dissolved i",
+      "answer": "Earth",
       "options": [
-        "Awareness",
-        "Hospital",
-        "Comes",
-        "Noels"
+        "Earth",
+        "Review",
+        "30000",
+        "Scrapped"
       ]
     },
     {
-      "blanked": "Apple’s foldable iPhone ______ is reportedly facing production hurdles ahead of October launch",
-      "answer": "Duo",
+      "blanked": "Market crash wipes out Rs 26 lakh cr in 8 weeks! Why soaring bond yields may hurt Sensex, ______ more than",
+      "answer": "Nifty",
       "options": [
-        "Duo",
-        "Eicher",
-        "League",
-        "Dushm"
+        "Hong",
+        "Friday",
+        "50000",
+        "Nifty"
       ]
     },
     {
-      "blanked": "'He has good ideas': Putin lauds PM Modi's peace push to end ______ war",
-      "answer": "Russia-Ukraine",
+      "blanked": "Asian ______ Lovlina Borgohain clinches gold medal in women’s boxing 75kg category; Total medal tally rises to 72, including 12 gold",
+      "answer": "Games",
       "options": [
-        "0.88%",
-        "Gold",
-        "Greer",
-        "Russia-Ukraine"
+        "Machchaar",
+        "October",
+        "Games",
+        "Committees"
+      ]
+    },
+    {
+      "blanked": "Viral Sequencing Helps Identify Hidden ______ C - EMJ",
+      "answer": "Hepatitis",
+      "options": [
+        "Hepatitis",
+        "Google",
+        "Mumbais",
+        "Raises"
       ]
     }
   ]
