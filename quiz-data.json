@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-10-02T16:38:15.239Z",
+  "generatedAt": "2026-10-02T20:57:52.551Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
     "12 minutes of madness: How Flydubai pilot, passengers saved plane midfall",
-    "Thousands turn up for CJP protest in Mumbai seeking CEC's resignation; CPI(M) condemns detention of youngsters in Delhi | ECI protest LIVE",
-    "'Channi Saheb Won': Raja Warring Meets Rahul Gandhi After Exit As Punjab Congress Chief",
+    "Thousands turn up for CJP protest in Mumbai seeking CEC's resignation; CPI(M) condemns detention of youngsters in Delhi | ECI protest updates",
+    "Hockey Legend Pargat Singh Named Punjab Congress Chief After Raja Warring Quits",
+    "'Everyone Trains, This Took Courage': Smit Machchhar's Ex-Colleague On His Heroics",
     "U.S. trade representative Greer says deal with India not 'imminent' after Modi-Trump call",
-    "CJP Mumbai protest today: Why Dipke zeroed in on Mumbai – There’s a Rahul Gandhi link",
-    "Putin warns Nato of nuclear response if Russia's Kaliningrad comes under attack",
-    "Ankush Panghal Wins India's First Gold In Men's Boxing At Asian Games 2026",
-    "India news: Delhi protesters turn up heat on election chief, police tightens security",
+    "Hundreds of French schools remain closed as riot police clash with student protesters",
     "'May Bapu’s timeless message keep guiding us': PM Modi pays tribute to Mahatma Gandhi, attends prayer mee",
-    "Mohammad Deepak arrested for 'assaulting' businessman in Uttarakhand",
-    "'Fake News': Saudi On 'Suicide Bomber' Video From Mecca Mosque",
+    "CJP Mumbai protest today: Why Dipke zeroed in on Mumbai – There’s a Rahul Gandhi link",
+    "India news: Delhi protesters turn up heat on election chief, police tightens security",
+    "Months Ahead Of State Polls, Congress Names New Chiefs For Punjab, UP",
+    "Christa Pike Execution Fails After 2 Lethal Injections: How Pentobarbital Works, Impacts The Body",
+    "‘I want the truth’: NY governor appoints prosecutor in Cornell rape case",
+    "Nepal plans to drain four glacial lakes after deadly floods",
     "JD Vance calls for end to H-1B visa programme, says it is ‘completely broken’",
-    "Cornell sexual assault case: Snapchat records, police transcript prompt fresh probe",
-    "Christa Pike botched execution: How lethal injection is used in death penalty",
-    "G7 nations agree to release 100 million barrels of oil, including diesel day after Trump threatened expor",
+    "Why are oil prices falling? Trump makes major announcement on ‘100 mn of barrels of diesel, crude’ amid global shortage | Hindustan Times",
     "Market pain deepens, brokerages flag FII selling, crude, global yields as key risks",
-    "Market crash wipes out Rs 26 lakh cr in 8 weeks! Why soaring bond yields may hurt Sensex, Nifty more than",
+    "India's ICICI Life Insurance appoints ICICI bank veteran Sidharatha Mishra as MD, CEO",
     "Banks bet on Bengali bosses as Anup Bagchi, Anup Saha take charge at HDFC, Kotak",
     "Pixel 11 Pro vs. iPhone 18 Pro: Copy-copy-paste or just copy-paste [Video]",
     "Best Camera Phones to Buy in India Under Rs 30,000, Rs 50,000 and Rs 75,000 in October 2026",
     "Flipkart Big Billion Days sale: Nothing announces offers discount on Nothing Phone (4a), Nothing Phone (4",
-    "Gurnoor Brar has been expensive, but India happy to pay the price for now",
-    "Drishyam The Conclusion Opening Box Office Report: Ajay Devgn starrer takes an Excellent start, 2nd Biggest of the year after Dhurandhar 2",
-    "Nushrratt Bharuccha To Undergo Spine Surgery In Mumbai After Bali Accident, Says Publicist",
-    "Aksharaa Haasan says she's a high school dropout; parents Kamal-Sarika never pressured her or Shruti to act: ‘Took weight off our shoulders’ | Hindustan Times"
+    "Gurnoor Brar has been expensive, but India are happy to pay the price for now",
+    "Drishyam The Conclusion Box Office Early Trends: Ajay Devgn starrer on course to a massive Rs. 60 Cr first day in India",
+    "David Ellison says combined Paramount and Warner Bros Discovery will be named Skydance",
+    "‘Verity’ to ‘Perfect Liars’, 5 thriller book-to-screen adaptations we can’t wait to watch"
   ],
   "quiz": [
     {
-      "blanked": "Viral Sequencing Helps Identify ______ Hepatitis C - EMJ",
-      "answer": "Hidden",
+      "blanked": "‘Verity’ to ______ Liars’, 5 thriller book-to-screen adaptations we can’t wait to watch",
+      "answer": "Perfect",
       "options": [
-        "Mulani",
-        "Mecca",
-        "Hidden",
-        "Publicist"
+        "Pentobarbital",
+        "How",
+        "IND",
+        "Perfect"
       ]
     },
     {
-      "blanked": "Thousands turn up for CJP protest in Mumbai seeking CEC's resignation; CPI(M) condemns detention of youngsters in Delhi | ______ protest LIVE",
-      "answer": "ECI",
+      "blanked": "Flipkart Big Billion Days sale: Nothing announces offers discount on Nothing Phone (4a), Nothing ______ (4",
+      "answer": "Phone",
       "options": [
-        "ECI",
-        "Watch",
-        "Snapchat",
-        "Awareness"
+        "Pike",
+        "Phone",
+        "Today",
+        "Shams"
       ]
     },
     {
-      "blanked": "Putin warns Nato of nuclear response if Russia's ______ comes under attack",
-      "answer": "Kaliningrad",
+      "blanked": "U.S. trade representative Greer says deal with ______ not 'imminent' after Modi-Trump call",
+      "answer": "India",
       "options": [
-        "Kaliningrad",
-        "CJP",
-        "Copy-copy-paste",
-        "Lalremsiami"
+        "2026",
+        "Bagchi",
+        "India",
+        "Sara"
       ]
     },
     {
-      "blanked": "Aksharaa ______ says she's a high school dropout; parents Kamal-Sarika never pressured her or Shruti to act: ‘Took weight off our shoulders’ | Hindustan Times",
-      "answer": "Haasan",
+      "blanked": "Christa Pike Execution ______ After 2 Lethal Injections: How Pentobarbital Works, Impacts The Body",
+      "answer": "Fails",
       "options": [
-        "Vance",
-        "ECI",
-        "Australia",
-        "Haasan"
+        "Early",
+        "Fails",
+        "ICICI",
+        "October"
       ]
     },
     {
-      "blanked": "G7 nations agree to release 100 million barrels of oil, including diesel day after ______ threatened expor",
-      "answer": "Trump",
+      "blanked": "Hockey Legend Pargat Singh Named Punjab Congress ______ After Raja Warring Quits",
+      "answer": "Chief",
       "options": [
-        "Bomber",
-        "WHO",
-        "Trump",
-        "Sensex"
+        "Video",
+        "Today",
+        "Chief",
+        "Asia"
       ]
     },
     {
-      "blanked": "U.S. trade representative Greer says deal with India not 'imminent' after ______ call",
-      "answer": "Modi-Trump",
+      "blanked": "CJP Mumbai protest today: Why Dipke zeroed in on ______ – There’s a Rahul Gandhi link",
+      "answer": "Mumbai",
       "options": [
-        "Undergo",
-        "Conclusion",
-        "Modi-Trump",
-        "Persistent"
+        "Injections",
+        "Mumbai",
+        "Pargat",
+        "Pentobarbital"
+      ]
+    },
+    {
+      "blanked": "India vs Brazil football ______ Know where to watch IND vs BRA friendly match live streaming and telecast",
+      "answer": "2026",
+      "options": [
+        "Took",
+        "2026",
+        "Asia",
+        "Bros"
+      ]
+    },
+    {
+      "blanked": "Cricket match held in ______ to raise awareness of dengue prevention",
+      "answer": "Coimbatore",
+      "options": [
+        "State",
+        "ICICI",
+        "Rathod",
+        "Coimbatore"
+      ]
+    },
+    {
+      "blanked": "SpaceX Dragon spacecraft carrying four astronauts docks with ______",
+      "answer": "ISS",
+      "options": [
+        "Highlights",
+        "ISS",
+        "Raja",
+        "Modi"
       ]
     },
     {
       "blanked": "Nutribray Marks Breast Cancer Awareness ______ 2026, Highlights Women’s Health, Nutrition and Family Wellbeing",
       "answer": "Month",
       "options": [
-        "Conclusion",
-        "Trump",
-        "Month",
-        "Pike"
+        "Devgn",
+        "Sara",
+        "CEO",
+        "Month"
       ]
     },
     {
-      "blanked": "Market crash wipes out Rs 26 lakh cr in 8 weeks! Why soaring bond yields may hurt ______ Nifty more than",
-      "answer": "Sensex",
+      "blanked": "Ayushmann Khurrana and Sara Ali Khan's 'Udta ______ postponed amid 'Gondhal' previews?: 'Giving it a clean",
+      "answer": "Teer",
       "options": [
-        "Sigma",
-        "Bali",
-        "Day",
-        "Sensex"
+        "Teer",
+        "Khans",
+        "Family",
+        "Breast"
       ]
     },
     {
-      "blanked": "Christa ______ botched execution: How lethal injection is used in death penalty",
-      "answer": "Pike",
+      "blanked": "Drishyam The Conclusion Box Office Early Trends: Ajay ______ starrer on course to a massive Rs. 60 Cr first day in India",
+      "answer": "Devgn",
       "options": [
-        "Pike",
-        "Deepak",
-        "Symptoms",
-        "Australia"
-      ]
-    },
-    {
-      "blanked": "Jason Sanjay's Mother Sangeetha And Sister Divya Saasha Arrive To Watch Early Show Of Sigma In ______",
-      "answer": "Chennai",
-      "options": [
-        "Mecca",
-        "Flydubai",
-        "Shruti",
-        "Chennai"
-      ]
-    },
-    {
-      "blanked": "India vs Pakistan cricket: Asian ______ gold medal final – all to know",
-      "answer": "Games",
-      "options": [
-        "Watch",
-        "Days",
-        "Games",
-        "Accident"
-      ]
-    },
-    {
-      "blanked": "Nushrratt Bharuccha To Undergo Spine Surgery In Mumbai After Bali Accident, Says ______",
-      "answer": "Publicist",
-      "options": [
-        "Publicist",
-        "Divya",
-        "Buy",
-        "Russias"
+        "Bapus",
+        "Devgn",
+        "Skydance",
+        "Impacts"
       ]
     }
   ]
