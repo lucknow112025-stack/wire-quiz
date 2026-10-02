@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-10-02T00:00:04.490Z",
+  "generatedAt": "2026-10-02T05:15:46.185Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "Saudi Arabia says flydubai co-pilot who tried to crash Israel-bound jet transferred to UAE; Trump alleges copilot linked to Iran",
-    "Motionless bodies, desperate hands: Heartbreaking scenes at Diveagar beach as locals fight to save Pune s",
+    "Flydubai co-pilot ‘assaulted’ captain before landing: Initial Saudi probe",
+    "He saved us from a 9/11: PM Modi leads praise for Indian pilot Smit Machchhar",
+    "Second judge blocks Trump's $100,000 fee for new H-1B worker visas",
+    "SIR: Filled Form-7 targeting Muslim voters surface in Belagavi",
+    "Gujarat govt compulsorily retires two IAS officers under ‘Operation Gangajal’",
     "CJP announces ‘morcha’ in Goa, Bengaluru, Kolkata ‘until Gyanesh Kumar resigns’",
-    "'One Nation, One Election' Committee's Proposed Meeting With Supreme Court Judges Raises Questions",
-    "Pakistan launches deadly air attacks on Afghanistan",
-    "How does Trump’s White House AI accord work?",
-    "Amrinder Singh Raja Warring 'quits' as Punjab Congress chief amid factional feud, changes X bio",
-    "Srinagar Police bust narcotics network, 8 arrested; Rs 1.07 Cr frozen, properties attached: SSP",
-    "Bottlenecks, abrupt 90-degree angle: Design flaws behind Barapullah Phase-III lead to traffic chaos across Delhi | Latest News Delhi",
-    "Piyush Goyal gets a ‘trade minister for life’ tag from US trade chief at G20",
-    "U.K. PM says 'strong indications' Iran involved in airbase incident",
-    "Schools torched, teacher doused in petrol: France student protests spiral into riots",
-    "'For 21st century & beyond': US launches 'Project Meridian' to prepare for future wars",
-    "Cornell Student Said, \"I Was Raped\". Cops Left It Out Of Her Statement",
+    "‘Left out’ voters: Election Commission orders special drive in 20 states where SIR over",
+    "‘A million mutinies’ on Gandhi Jayanti: Jantar Mantar to Shivaji Park, protests against Gyanesh Kumar loom",
+    "India-US trade deal in ‘short strokes’ but nothing imminent, USTR Greer says",
+    "Post-Monsoon Weather: Less Rain In October, But Winter May Bring Relief",
+    "'He has good ideas': Putin lauds PM Modi's peace push to end Russia-Ukraine war",
+    "Christa Pike botched execution: How lethal injection is used in death penalty",
+    "UK says Iran may be linked to alleged RAF Fairford plot, drawing denial",
+    "Putin warns Nato of nuclear response if Russia's Kaliningrad comes under attack",
     "Stock Market Highlights, Oct 1: Sensex falls 571 points, Nifty slips 0.88% as auto stocks drag markets",
+    "September Auto Sales: Who Sold The Most Vehicles? Tata Motors, Eicher, Bajaj, Maruti To M&M, Here's The List",
     "HDFC Bank appoints Anup Bagchi as MD, CEO for three years - People Matters",
-    "Accenture's forecast eases AI disruption fears, lifts battered IT services stocks",
-    "Kotak Mahindra Bank Appoints Anup Kumar Saha As MD & CEO",
-    "Amazon's Kindle just got a major upgrade: faster speeds, aluminum shell, and a long-awaited page turner",
-    "Today’s NYT Strands Hints, Spangram, Answers: Thursday, October 1 (Things Fall Apart)",
+    "Venu, Vijay Singh query Noel's merger plan to avoid Tata Sons IPO",
+    "Best camera phone under Rs 30,000 to buy in September 2026",
     "Apple’s foldable iPhone Duo is reportedly facing production hurdles ahead of October launch",
     "Samsung Galaxy Tab S12 Ultra priced from Rs 1,49,999 in India, Tab S12+ from Rs 1,29,999",
+    "Price alert: Samsung raises the prices of Galaxy S26 phones, the US, Europe and India affected - GSMArena.com news",
     "Drishyam 3 Advance Box Office Update: Ajay Devgn starrer cross 2.40 lakh tickets at national chains, On course to Rs. 50 Cr Day one",
-    "The Paradise box office collection day 7: Nani film trails The Raja Saab, earns ₹104 crore in first week amid mixed reviews | Hindustan Times",
-    "‘Baththa’ movie review: Balaji Tharaneetharan returns with a delightfully funny, moving comedy-drama"
+    "Bigg Boss 20: Rhiti Tiwari gets eliminated in a shocking mid-week eviction",
+    "Swara Bhasker and Shehzad Poonawalla’s rivalry takes an unexpected turn on Rise and Fall season 2; 'Dushm"
   ],
   "quiz": [
     {
-      "blanked": "U.K. PM says 'strong indications' ______ involved in airbase incident",
-      "answer": "Iran",
+      "blanked": "Drishyam 3 ______ Box Office Update: Ajay Devgn starrer cross 2.40 lakh tickets at national chains, On course to Rs. 50 Cr Day one",
+      "answer": "Advance",
       "options": [
-        "Mutational",
-        "Goa",
-        "Iran",
-        "Devgn"
+        "Neem",
+        "Advance",
+        "0.88%",
+        "30000"
       ]
     },
     {
-      "blanked": "Kotak Mahindra Bank ______ Anup Kumar Saha As MD & CEO",
-      "answer": "Appoints",
+      "blanked": "NASA, SpaceX launch 4 astronauts to ______",
+      "answer": "ISS",
       "options": [
-        "Anup",
-        "UAE",
-        "Goa",
-        "Appoints"
+        "ISS",
+        "Metabolic",
+        "Putin",
+        "Galaxy"
+      ]
+    },
+    {
+      "blanked": "Manchester City sponsor Etihad threatens legal action against Premier ______",
+      "answer": "League",
+      "options": [
+        "Ansh",
+        "League",
+        "Comes",
+        "2026"
+      ]
+    },
+    {
+      "blanked": "UK says Iran may be linked to alleged ______ Fairford plot, drawing denial",
+      "answer": "RAF",
+      "options": [
+        "RAF",
+        "Vijay",
+        "Month",
+        "30000"
+      ]
+    },
+    {
+      "blanked": "He saved us from a 9/11: PM ______ leads praise for Indian pilot Smit Machchhar",
+      "answer": "Modi",
+      "options": [
+        "Modi",
+        "Trumps",
+        "Rise",
+        "Skywatching"
+      ]
+    },
+    {
+      "blanked": "Samsung Galaxy Tab S12 ______ priced from Rs 1,49,999 in India, Tab S12+ from Rs 1,29,999",
+      "answer": "Ultra",
+      "options": [
+        "Afford",
+        "Eicher",
+        "Heres",
+        "Ultra"
+      ]
+    },
+    {
+      "blanked": "Flydubai co-pilot ‘assaulted’ captain before landing: ______ Saudi probe",
+      "answer": "Initial",
+      "options": [
+        "September",
+        "Auto",
+        "Initial",
+        "Tiwari"
+      ]
+    },
+    {
+      "blanked": "Will 'Hanuman Ansh 2' be made on a budget of Rs 15-20 crore? Producer of the film inspired by ______ Karoli",
+      "answer": "Neem",
+      "options": [
+        "Russia-Ukraine",
+        "Machchhar",
+        "Neem",
+        "Highlights"
+      ]
+    },
+    {
+      "blanked": "Gujarat govt compulsorily retires two IAS officers under ______ Gangajal’",
+      "answer": "Operation",
+      "options": [
+        "Confidant",
+        "Cup",
+        "Shehzad",
+        "Operation"
+      ]
+    },
+    {
+      "blanked": "Breast Cancer Awareness Month Shines a Light on Detection. New Book Tackles What ______ Next",
+      "answer": "Comes",
+      "options": [
+        "Awareness",
+        "Hospital",
+        "Comes",
+        "Noels"
       ]
     },
     {
       "blanked": "Apple’s foldable iPhone ______ is reportedly facing production hurdles ahead of October launch",
       "answer": "Duo",
       "options": [
-        "Iran",
-        "Tharaneetharan",
-        "Appoints",
-        "Duo"
+        "Duo",
+        "Eicher",
+        "League",
+        "Dushm"
       ]
     },
     {
-      "blanked": "India's Asian Games ______ schedule today, October 2: Gold and LA 2028 quotas on offer in hockey, archery",
-      "answer": "2026",
+      "blanked": "'He has good ideas': Putin lauds PM Modi's peace push to end ______ war",
+      "answer": "Russia-Ukraine",
       "options": [
-        "Nation",
-        "Questions",
-        "October",
-        "2026"
-      ]
-    },
-    {
-      "blanked": "Samsung Galaxy Tab S12 Ultra priced from Rs 1,49,999 in India, Tab S12+ from Rs ______",
-      "answer": "129999",
-      "options": [
-        "129999",
-        "Meeting",
-        "Tackles",
-        "Times"
-      ]
-    },
-    {
-      "blanked": "Amazon's ______ just got a major upgrade: faster speeds, aluminum shell, and a long-awaited page turner",
-      "answer": "Kindle",
-      "options": [
-        "Committees",
-        "NYT",
-        "Punjab",
-        "Kindle"
-      ]
-    },
-    {
-      "blanked": "SpaceX launches 4 astronauts to International ______ Station",
-      "answer": "Space",
-      "options": [
-        "Space",
-        "Afghanistan",
-        "Questions",
-        "Sensex"
-      ]
-    },
-    {
-      "blanked": "Pakistan launches deadly air attacks on ______",
-      "answer": "Afghanistan",
-      "options": [
-        "Afghanistan",
-        "Project",
-        "Bank",
-        "Tips"
-      ]
-    },
-    {
-      "blanked": "Amrinder Singh Raja Warring 'quits' as ______ Congress chief amid factional feud, changes X bio",
-      "answer": "Punjab",
-      "options": [
-        "Israel-bound",
-        "Book",
-        "Tackles",
-        "Punjab"
-      ]
-    },
-    {
-      "blanked": "New study highlights heavy chewing tobacco burden in ______ Asia - news-medical.net",
-      "answer": "South",
-      "options": [
-        "2026",
-        "Goyal",
-        "TKI",
-        "South"
-      ]
-    },
-    {
-      "blanked": "Srinagar Police bust narcotics network, 8 arrested; Rs 1.07 Cr frozen, properties attached: ______",
-      "answer": "SSP",
-      "options": [
-        "2.40",
-        "Iran",
-        "SSP",
-        "Heartbreaking"
-      ]
-    },
-    {
-      "blanked": "The Paradise box office collection day 7: Nani film trails The Raja Saab, earns ₹104 crore in first week amid mixed reviews | ______ Times",
-      "answer": "Hindustan",
-      "options": [
-        "Tab",
-        "Awareness",
-        "Hindustan",
-        "Nation"
+        "0.88%",
+        "Gold",
+        "Greer",
+        "Russia-Ukraine"
       ]
     }
   ]
