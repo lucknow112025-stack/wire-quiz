@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-10-03T00:11:41.723Z",
+  "generatedAt": "2026-10-03T05:17:43.883Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "12 minutes of madness: How Flydubai pilot, passengers saved plane midfall",
-    "Thousands turn up for CJP protest in Mumbai seeking CEC's resignation; CPI(M) condemns detention of youngsters in Delhi | ECI protest updates",
+    "FlyDubai co-pilot who nearly crashed plane was barred from flying by Oman over extremism concerns",
+    "5 Indian seafarers safely rescued after Kuwait-flagged tanker struck by projectile in Strait of Hormuz",
     "Hockey Legend Pargat Singh Named Punjab Congress Chief After Raja Warring Quits",
     "U.S. trade representative Greer says deal with India not 'imminent' after Modi-Trump call",
-    "Hundreds of French schools remain closed as riot police clash with student protesters",
-    "CJP Mumbai protest today: Why Dipke zeroed in on Mumbai – There’s a Rahul Gandhi link",
-    "Congress appoints Aradhna Mishra Mona as new UP chief, Imran Masood as working president ahead of 2027 polls | India News",
-    "Police clampdown in Delhi on Mahatma Gandhi’s birthday draws ‘Godse’ barbs at Modi government",
-    "'May Bapu’s timeless message keep guiding us': PM Modi pays tribute to Mahatma Gandhi, attends prayer mee",
-    "SIR: ECI asks BLOs to revisit deleted list, ensure those eligible but left out are re-enrolled within a month",
-    "G7 nations agree to release 100 million barrels of oil, including diesel, boost for Trump",
+    "Protest against CEC Gyanesh Kumar LIVE: Demonstration to resume in Delhi",
+    "India’s Cockroach movement launches new protests over changes to voter roll",
+    "Shabana Azmi, Naseeruddin Shah and Vishal Dadlani join protest at Mumbai's Shivaji Park - Report",
+    "EC launches special drive to re-enrol omitted voters, register new electors as SIR row heats up",
+    "To counter China, India formally puts Gogra, Hot Spring & others on map",
+    "IIT Bombay student begin hunger strike demanding accountability over student Sahil Wakode’s death",
     "How Christa Pike's Failed Execution In US Played Out, Minute By Painful Minute",
-    "Nepal plans to drain four glacial lakes after deadly floods",
-    "JD Vance calls for end to H-1B visa programme, says it is ‘completely broken’",
-    "India's ICICI Life Insurance appoints ICICI bank veteran Sidharatha Mishra as MD, CEO",
-    "Market pain deepens, brokerages flag FII selling, crude, global yields as key risks",
-    "Final touch underway for Jio Platforms IPO; latest GMP, expected launch date, size, valuation, shareholders quota",
+    "Why are French students protesting | Explained",
+    "G7 countries agree on release of diesel and oil stocks after US pressure By Reuters",
+    "Saudi Arabia readies 100,000 Yemeni troops for Houthi assault: Can fragmented Yemeni forces retake Bab el",
+    "SBI-led lenders say Vijay Mallya owes Rs 8,752 crore more",
+    "Banks bet on Bengali bosses as Anup Bagchi, Anup Saha take charge at HDFC, Kotak",
+    "The battle to control the Tata Group -- 7 questions behind the power struggle",
     "Market crash wipes out Rs 26 lakh cr in 8 weeks! Why soaring bond yields may hurt Sensex, Nifty more than",
-    "Neurable Debuts $499 Brain-Tracking Headphones Built Entirely In-House",
-    "5 Reasons To Buy An iPhone 18 Pro Max Over A Galaxy S26 Ultra",
     "Best Camera Phones to Buy in India Under Rs 30,000, Rs 50,000 and Rs 75,000 in October 2026",
+    "Samsung Galaxy A08 with 6,000mAh battery goes official in India: Price details",
     "Zomato founder Deepinder Goyal teases six colours for Temple device, pre-orders may begin next week",
+    "Apple’s foldable iPhone Duo is reportedly facing production hurdles ahead of October launch",
     "Drishyam The Conclusion Box Office Early Trends: Ajay Devgn starrer on course to a massive Rs. 60 Cr first day in India",
-    "David Ellison says combined Paramount and Warner Bros Discovery will be named Skydance",
-    "Nushrratt Bharuccha fractures spine in Bali, to return to Mumbai by air ambulance"
+    "Nushrratt Bharuccha airlifted to Mumbai after Bali accident; Netizens pray for speedy recovery: ‘Please g",
+    "EXCLUSIVE: BIG BREAKTHROUGH for Salman Khan’s Maatrubhumi as it gets government clearance; revised film shows India-China ties in a positive light"
   ],
   "quiz": [
     {
-      "blanked": "5 Reasons To Buy An iPhone 18 ______ Max Over A Galaxy S26 Ultra",
-      "answer": "Pro",
+      "blanked": "Protest against ______ Gyanesh Kumar LIVE: Demonstration to resume in Delhi",
+      "answer": "CEC",
       "options": [
-        "Pro",
-        "French",
-        "Insurance",
-        "Pikes"
+        "Record",
+        "Venus",
+        "CEC",
+        "Earth"
+      ]
+    },
+    {
+      "blanked": "Life ______ Almost Back To Pre-Covid Levels, Says WHO",
+      "answer": "Expectancy",
+      "options": [
+        "Crew",
+        "Nifty",
+        "Cockroach",
+        "Expectancy"
+      ]
+    },
+    {
+      "blanked": "Hockey Legend ______ Singh Named Punjab Congress Chief After Raja Warring Quits",
+      "answer": "Pargat",
+      "options": [
+        "Naseeruddin",
+        "Early",
+        "Pargat",
+        "Mumbais"
+      ]
+    },
+    {
+      "blanked": "Asian Games 2026 ______ Archer Kumkum wins historic recurve gold at Asian Games, earns Olympic quota",
+      "answer": "LIVE",
+      "options": [
+        "LIVE",
+        "Yemeni",
+        "Vijay",
+        "Named"
+      ]
+    },
+    {
+      "blanked": "Best Camera Phones to ______ in India Under Rs 30,000, Rs 50,000 and Rs 75,000 in October 2026",
+      "answer": "Buy",
+      "options": [
+        "Buy",
+        "World",
+        "Hot",
+        "Park"
+      ]
+    },
+    {
+      "blanked": "Top campaigns bringing heart health closer to communities: ______ Heart Day 2026",
+      "answer": "World",
+      "options": [
+        "Group",
+        "Punjab",
+        "Bab",
+        "World"
+      ]
+    },
+    {
+      "blanked": "EC launches special drive to re-enrol omitted voters, register new electors as ______ row heats up",
+      "answer": "SIR",
+      "options": [
+        "Legend",
+        "SIR",
+        "CEC",
+        "Levels"
       ]
     },
     {
       "blanked": "Ebola outbreak in DR Congo claims over ______ lives, 8,300 confirmed cases reported",
       "answer": "4000",
       "options": [
-        "Execution",
-        "Awareness",
-        "Godse",
-        "4000"
-      ]
-    },
-    {
-      "blanked": "India's ______ Life Insurance appoints ICICI bank veteran Sidharatha Mishra as MD, CEO",
-      "answer": "ICICI",
-      "options": [
-        "Trends",
-        "ICICI",
-        "Mona",
-        "Mars"
-      ]
-    },
-    {
-      "blanked": "The Sky Today on ______ October 2: Venus stands still",
-      "answer": "Friday",
-      "options": [
-        "Anne",
-        "FII",
-        "Painful",
-        "Friday"
-      ]
-    },
-    {
-      "blanked": "Police clampdown in ______ on Mahatma Gandhi’s birthday draws ‘Godse’ barbs at Modi government",
-      "answer": "Delhi",
-      "options": [
-        "Delhi",
-        "Today",
-        "Sensex",
-        "Womens"
-      ]
-    },
-    {
-      "blanked": "How Christa Pike's Failed Execution In US ______ Out, Minute By Painful Minute",
-      "answer": "Played",
-      "options": [
-        "Played",
-        "Breast",
-        "All",
-        "ECI"
-      ]
-    },
-    {
-      "blanked": "SIR: ECI asks ______ to revisit deleted list, ensure those eligible but left out are re-enrolled within a month",
-      "answer": "BLOs",
-      "options": [
-        "Greer",
-        "BLOs",
-        "Mars",
-        "Friday"
-      ]
-    },
-    {
-      "blanked": "Asian ______ 2026 women's hockey: Lalremsiami goal helps India beat China to secure gold and Olympic berth",
-      "answer": "Games",
-      "options": [
-        "Office",
-        "Warner",
-        "Phones",
-        "Games"
-      ]
-    },
-    {
-      "blanked": "Neurable Debuts $499 ______ Headphones Built Entirely In-House",
-      "answer": "Brain-Tracking",
-      "options": [
-        "Punjab",
-        "Brain-Tracking",
-        "Execution",
-        "Greer"
-      ]
-    },
-    {
-      "blanked": "12 minutes of madness: How ______ pilot, passengers saved plane midfall",
-      "answer": "Flydubai",
-      "options": [
-        "2026",
-        "Warner",
-        "Flydubai",
-        "Month"
-      ]
-    },
-    {
-      "blanked": "JD ______ calls for end to H-1B visa programme, says it is ‘completely broken’",
-      "answer": "Vance",
-      "options": [
-        "Month",
-        "How",
-        "CEO",
-        "Vance"
-      ]
-    },
-    {
-      "blanked": "Global life expectancy nearly back to pre-Covid levels, but healthy years lag: ______",
-      "answer": "WHO",
-      "options": [
-        "Station",
-        "WHO",
         "4000",
-        "Imran"
+        "Spring",
+        "Docks",
+        "Singh"
+      ]
+    },
+    {
+      "blanked": "India’s ______ movement launches new protests over changes to voter roll",
+      "answer": "Cockroach",
+      "options": [
+        "Vishal",
+        "Failed",
+        "Cockroach",
+        "Almost"
+      ]
+    },
+    {
+      "blanked": "Why are French students protesting | ______",
+      "answer": "Explained",
+      "options": [
+        "Explained",
+        "Discovery",
+        "Mumbai",
+        "ISS"
+      ]
+    },
+    {
+      "blanked": "FlyDubai co-pilot who nearly crashed plane was barred from flying by ______ over extremism concerns",
+      "answer": "Oman",
+      "options": [
+        "Oman",
+        "Time",
+        "Box",
+        "Azmi"
+      ]
+    },
+    {
+      "blanked": "Samsung Galaxy A08 with 6,000mAh battery goes official in India: ______ details",
+      "answer": "Price",
+      "options": [
+        "Price",
+        "Crew",
+        "Cockroach",
+        "Gyanesh"
       ]
     }
   ]
