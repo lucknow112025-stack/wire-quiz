@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-10-02T20:57:52.551Z",
+  "generatedAt": "2026-10-03T00:11:41.723Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
     "12 minutes of madness: How Flydubai pilot, passengers saved plane midfall",
     "Thousands turn up for CJP protest in Mumbai seeking CEC's resignation; CPI(M) condemns detention of youngsters in Delhi | ECI protest updates",
     "Hockey Legend Pargat Singh Named Punjab Congress Chief After Raja Warring Quits",
-    "'Everyone Trains, This Took Courage': Smit Machchhar's Ex-Colleague On His Heroics",
     "U.S. trade representative Greer says deal with India not 'imminent' after Modi-Trump call",
     "Hundreds of French schools remain closed as riot police clash with student protesters",
-    "'May Bapu’s timeless message keep guiding us': PM Modi pays tribute to Mahatma Gandhi, attends prayer mee",
     "CJP Mumbai protest today: Why Dipke zeroed in on Mumbai – There’s a Rahul Gandhi link",
-    "India news: Delhi protesters turn up heat on election chief, police tightens security",
-    "Months Ahead Of State Polls, Congress Names New Chiefs For Punjab, UP",
-    "Christa Pike Execution Fails After 2 Lethal Injections: How Pentobarbital Works, Impacts The Body",
-    "‘I want the truth’: NY governor appoints prosecutor in Cornell rape case",
+    "Congress appoints Aradhna Mishra Mona as new UP chief, Imran Masood as working president ahead of 2027 polls | India News",
+    "Police clampdown in Delhi on Mahatma Gandhi’s birthday draws ‘Godse’ barbs at Modi government",
+    "'May Bapu’s timeless message keep guiding us': PM Modi pays tribute to Mahatma Gandhi, attends prayer mee",
+    "SIR: ECI asks BLOs to revisit deleted list, ensure those eligible but left out are re-enrolled within a month",
+    "G7 nations agree to release 100 million barrels of oil, including diesel, boost for Trump",
+    "How Christa Pike's Failed Execution In US Played Out, Minute By Painful Minute",
     "Nepal plans to drain four glacial lakes after deadly floods",
     "JD Vance calls for end to H-1B visa programme, says it is ‘completely broken’",
-    "Why are oil prices falling? Trump makes major announcement on ‘100 mn of barrels of diesel, crude’ amid global shortage | Hindustan Times",
-    "Market pain deepens, brokerages flag FII selling, crude, global yields as key risks",
     "India's ICICI Life Insurance appoints ICICI bank veteran Sidharatha Mishra as MD, CEO",
-    "Banks bet on Bengali bosses as Anup Bagchi, Anup Saha take charge at HDFC, Kotak",
-    "Pixel 11 Pro vs. iPhone 18 Pro: Copy-copy-paste or just copy-paste [Video]",
+    "Market pain deepens, brokerages flag FII selling, crude, global yields as key risks",
+    "Final touch underway for Jio Platforms IPO; latest GMP, expected launch date, size, valuation, shareholders quota",
+    "Market crash wipes out Rs 26 lakh cr in 8 weeks! Why soaring bond yields may hurt Sensex, Nifty more than",
+    "Neurable Debuts $499 Brain-Tracking Headphones Built Entirely In-House",
+    "5 Reasons To Buy An iPhone 18 Pro Max Over A Galaxy S26 Ultra",
     "Best Camera Phones to Buy in India Under Rs 30,000, Rs 50,000 and Rs 75,000 in October 2026",
-    "Flipkart Big Billion Days sale: Nothing announces offers discount on Nothing Phone (4a), Nothing Phone (4",
-    "Gurnoor Brar has been expensive, but India are happy to pay the price for now",
+    "Zomato founder Deepinder Goyal teases six colours for Temple device, pre-orders may begin next week",
     "Drishyam The Conclusion Box Office Early Trends: Ajay Devgn starrer on course to a massive Rs. 60 Cr first day in India",
     "David Ellison says combined Paramount and Warner Bros Discovery will be named Skydance",
-    "‘Verity’ to ‘Perfect Liars’, 5 thriller book-to-screen adaptations we can’t wait to watch"
+    "Nushrratt Bharuccha fractures spine in Bali, to return to Mumbai by air ambulance"
   ],
   "quiz": [
     {
-      "blanked": "‘Verity’ to ______ Liars’, 5 thriller book-to-screen adaptations we can’t wait to watch",
-      "answer": "Perfect",
+      "blanked": "5 Reasons To Buy An iPhone 18 ______ Max Over A Galaxy S26 Ultra",
+      "answer": "Pro",
       "options": [
-        "Pentobarbital",
-        "How",
-        "IND",
-        "Perfect"
+        "Pro",
+        "French",
+        "Insurance",
+        "Pikes"
       ]
     },
     {
-      "blanked": "Flipkart Big Billion Days sale: Nothing announces offers discount on Nothing Phone (4a), Nothing ______ (4",
-      "answer": "Phone",
+      "blanked": "Ebola outbreak in DR Congo claims over ______ lives, 8,300 confirmed cases reported",
+      "answer": "4000",
       "options": [
-        "Pike",
-        "Phone",
+        "Execution",
+        "Awareness",
+        "Godse",
+        "4000"
+      ]
+    },
+    {
+      "blanked": "India's ______ Life Insurance appoints ICICI bank veteran Sidharatha Mishra as MD, CEO",
+      "answer": "ICICI",
+      "options": [
+        "Trends",
+        "ICICI",
+        "Mona",
+        "Mars"
+      ]
+    },
+    {
+      "blanked": "The Sky Today on ______ October 2: Venus stands still",
+      "answer": "Friday",
+      "options": [
+        "Anne",
+        "FII",
+        "Painful",
+        "Friday"
+      ]
+    },
+    {
+      "blanked": "Police clampdown in ______ on Mahatma Gandhi’s birthday draws ‘Godse’ barbs at Modi government",
+      "answer": "Delhi",
+      "options": [
+        "Delhi",
         "Today",
-        "Shams"
+        "Sensex",
+        "Womens"
       ]
     },
     {
-      "blanked": "U.S. trade representative Greer says deal with ______ not 'imminent' after Modi-Trump call",
-      "answer": "India",
+      "blanked": "How Christa Pike's Failed Execution In US ______ Out, Minute By Painful Minute",
+      "answer": "Played",
+      "options": [
+        "Played",
+        "Breast",
+        "All",
+        "ECI"
+      ]
+    },
+    {
+      "blanked": "SIR: ECI asks ______ to revisit deleted list, ensure those eligible but left out are re-enrolled within a month",
+      "answer": "BLOs",
+      "options": [
+        "Greer",
+        "BLOs",
+        "Mars",
+        "Friday"
+      ]
+    },
+    {
+      "blanked": "Asian ______ 2026 women's hockey: Lalremsiami goal helps India beat China to secure gold and Olympic berth",
+      "answer": "Games",
+      "options": [
+        "Office",
+        "Warner",
+        "Phones",
+        "Games"
+      ]
+    },
+    {
+      "blanked": "Neurable Debuts $499 ______ Headphones Built Entirely In-House",
+      "answer": "Brain-Tracking",
+      "options": [
+        "Punjab",
+        "Brain-Tracking",
+        "Execution",
+        "Greer"
+      ]
+    },
+    {
+      "blanked": "12 minutes of madness: How ______ pilot, passengers saved plane midfall",
+      "answer": "Flydubai",
       "options": [
         "2026",
-        "Bagchi",
-        "India",
-        "Sara"
-      ]
-    },
-    {
-      "blanked": "Christa Pike Execution ______ After 2 Lethal Injections: How Pentobarbital Works, Impacts The Body",
-      "answer": "Fails",
-      "options": [
-        "Early",
-        "Fails",
-        "ICICI",
-        "October"
-      ]
-    },
-    {
-      "blanked": "Hockey Legend Pargat Singh Named Punjab Congress ______ After Raja Warring Quits",
-      "answer": "Chief",
-      "options": [
-        "Video",
-        "Today",
-        "Chief",
-        "Asia"
-      ]
-    },
-    {
-      "blanked": "CJP Mumbai protest today: Why Dipke zeroed in on ______ – There’s a Rahul Gandhi link",
-      "answer": "Mumbai",
-      "options": [
-        "Injections",
-        "Mumbai",
-        "Pargat",
-        "Pentobarbital"
-      ]
-    },
-    {
-      "blanked": "India vs Brazil football ______ Know where to watch IND vs BRA friendly match live streaming and telecast",
-      "answer": "2026",
-      "options": [
-        "Took",
-        "2026",
-        "Asia",
-        "Bros"
-      ]
-    },
-    {
-      "blanked": "Cricket match held in ______ to raise awareness of dengue prevention",
-      "answer": "Coimbatore",
-      "options": [
-        "State",
-        "ICICI",
-        "Rathod",
-        "Coimbatore"
-      ]
-    },
-    {
-      "blanked": "SpaceX Dragon spacecraft carrying four astronauts docks with ______",
-      "answer": "ISS",
-      "options": [
-        "Highlights",
-        "ISS",
-        "Raja",
-        "Modi"
-      ]
-    },
-    {
-      "blanked": "Nutribray Marks Breast Cancer Awareness ______ 2026, Highlights Women’s Health, Nutrition and Family Wellbeing",
-      "answer": "Month",
-      "options": [
-        "Devgn",
-        "Sara",
-        "CEO",
+        "Warner",
+        "Flydubai",
         "Month"
       ]
     },
     {
-      "blanked": "Ayushmann Khurrana and Sara Ali Khan's 'Udta ______ postponed amid 'Gondhal' previews?: 'Giving it a clean",
-      "answer": "Teer",
+      "blanked": "JD ______ calls for end to H-1B visa programme, says it is ‘completely broken’",
+      "answer": "Vance",
       "options": [
-        "Teer",
-        "Khans",
-        "Family",
-        "Breast"
+        "Month",
+        "How",
+        "CEO",
+        "Vance"
       ]
     },
     {
-      "blanked": "Drishyam The Conclusion Box Office Early Trends: Ajay ______ starrer on course to a massive Rs. 60 Cr first day in India",
-      "answer": "Devgn",
+      "blanked": "Global life expectancy nearly back to pre-Covid levels, but healthy years lag: ______",
+      "answer": "WHO",
       "options": [
-        "Bapus",
-        "Devgn",
-        "Skydance",
-        "Impacts"
+        "Station",
+        "WHO",
+        "4000",
+        "Imran"
       ]
     }
   ]
