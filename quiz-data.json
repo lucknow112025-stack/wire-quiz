@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-10-04T15:58:47.505Z",
+  "generatedAt": "2026-10-04T19:19:17.013Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
+    "What are the five questions being asked regarding the Flydubai attack?",
     "Protests intensify in India over demands for election chief to quit",
-    "Netanyahu invites ‘true hero’ Indian flydubai captain to Israel",
-    "Protest against CEC Gyanesh Kumar: Delhi police detains AISA president Neha Bora",
-    "‘Evil America will end’: Al Qaeda calls for copycat attacks, praises flydubai incident",
-    "Keralam govt. orders anti-corruption enquiry against CEC Gyanesh Kumar over 2006 graft allegations",
+    "Any Process Taking Away Voting Rights Of Millions Of Citizens Is Unjustifiable, No Court Can Condone It:...",
     "India is going ‘beyond advocacy’ on the Russia-Ukraine conflict: Jaishankar",
-    "3 Women Journalists Allege Cops Sexually Harassed Them During Delhi Protest",
-    "Koel Mallick becomes BJP’s pick for Rajya Sabha from West Bengal two months after TMC exit: Who is she? | India News",
-    "'Not a single post, statement': BJP launches blistering attack on Congress over Captain Smit Machchhar",
-    "Lucknow Man Electrocutes Drinking Partner To Steal Rs 2,250 From His Pocket",
+    "Jantar Mantar stir: Delay in filing FIR stokes row as journalists allege sexual harassment by Delhi police personnel",
+    "Georgia shooting: 2 dead, up to 35 injured at homecoming party as police investigate | Hindustan Times",
+    "AISA Claims Neha Bora Detained During Protest, Released Without Phone, Bag",
+    "IIT Delhi scholar dies at AIIMS 46 days after he was found unconscious at rented house; abetment of suicide case registered | India News",
+    "ECI Row : Supreme Court To Hear Tomorrow Petitions Against CEC Gyanesh Kumar Over SIR Decisions",
+    "‘Love jihad’, ‘land jihad’ laws in six months: Suvendu Adhikari also vows UCC in Bengal",
     "Trump announces 'Super Intelligence Force' to keep US ahead in AI race",
-    "Yemen leader announces major military operations against Iran-backed Houthis",
+    "Al-Alimi announces launch of military operations against Houthi militias",
     "Trump defiant about midterm chances as he rallies for Republicans in Ohio",
-    "Are Houthis making Pakistan nervous? Mecca pact tested as Saudis get hammered",
+    "Pakistan braces for showdown as talks collapse, Imran Khan’s party pushes ahead with march",
     "India’s resilience is not accidental, built on mutually reinforcing reforms: Shaktikanta Das",
-    "DLF’s The Aureva luxury project in Gurugram fully sold out, records ₹1,985 crore in sales",
-    "Reliance Jio IPO Update in October 2026: One Month Away",
-    "Stock market prediction for tomorrow, 5 Oct Monday: Sensex, Nifty outlook; Dow Jones, Nasdaq, Kospi, Nikkei, Taiwan cues",
+    "IPO bonanza: 29 companies to list this week; GMPs signal returns of up to 59%",
+    "Noel Tata seeks Tata Sons meeting video, minutes; questions legal opinions on Chandrasekaran reappointment",
+    "Sebi gets 3,500+ comments on Closing Auction Session rules: Circular likely soon, says Tuhin Kanta Pandey",
     "Apple iPhone 18 Pro Max gaming test shows up to 69% less performance loss than iPhone 17 Pro Max",
     "Google Caps Free Gemini at Flash-Lite Starting October 9",
-    "Windows 11 26H2 Update: Which PCs Get the Enablement Package",
+    "Amazon Great Indian Festival sale 2026: Smartphone deals and prices announced",
     "Today’s NYT Strands Hints, Answers and Help for Oct. 4, #945",
     "Drishyam The Conclusion Box Office Collections: Ajay Devgn starrer rakes in Rs. 52 Cr on its 2nd day in India",
-    "Chiranjeevi To Discuss Jr NTR-Janhvi Kapoor's Morphed Chuttamalle Video With Telugu Film Bodies",
-    "Rachita Ram taken aback as fan pulls her cheek after clicking selfie, internet says actor handled it well but fans must respect boundaries | Hindustan Times"
+    "The ‘Digger’ Defense Squad Is Out in Force",
+    "Vijay Deverakonda condemns the AI-morphed video of Janhvi Kapoor; calls it the ‘digital equivalent of s*xual assault’"
   ],
   "quiz": [
     {
-      "blanked": "Windows 11 26H2 Update: Which PCs ______ the Enablement Package",
-      "answer": "Get",
+      "blanked": "Protests intensify in ______ over demands for election chief to quit",
+      "answer": "India",
       "options": [
-        "Study",
-        "Get",
-        "Monday",
-        "Month"
+        "Suvendu",
+        "Closing",
+        "India",
+        "Process"
       ]
     },
     {
-      "blanked": "Koel Mallick becomes BJP’s pick for Rajya Sabha from West Bengal two months after TMC exit: Who is she? | India ______",
-      "answer": "News",
+      "blanked": "Amazon Great ______ Festival sale 2026: Smartphone deals and prices announced",
+      "answer": "Indian",
       "options": [
-        "News",
-        "Hindustan",
-        "Congress",
-        "69%"
+        "Indian",
+        "CEC",
+        "Row",
+        "Taking"
       ]
     },
     {
-      "blanked": "Infections linked to 2.3m cancer cases globally in 2024 – ______",
-      "answer": "Study",
+      "blanked": "AISA Claims Neha Bora Detained During Protest, Released Without ______ Bag",
+      "answer": "Phone",
       "options": [
-        "Study",
-        "Bengal",
-        "Pre-Pandemic",
-        "Moon"
+        "Phone",
+        "Answers",
+        "Drives",
+        "Kanta"
+      ]
+    },
+    {
+      "blanked": "New space race: Superpowers look to set up ______ on the Moon",
+      "answer": "N-reactors",
+      "options": [
+        "Petitions",
+        "IFA",
+        "Canarinho",
+        "N-reactors"
+      ]
+    },
+    {
+      "blanked": "Sebi gets 3,500+ comments on Closing Auction Session rules: Circular likely soon, says ______ Kanta Pandey",
+      "answer": "Tuhin",
+      "options": [
+        "Tuhin",
+        "Circular",
+        "945",
+        "Process"
+      ]
+    },
+    {
+      "blanked": "India is going ‘beyond advocacy’ on the ______ conflict: Jaishankar",
+      "answer": "Russia-Ukraine",
+      "options": [
+        "Pro",
+        "Russia-Ukraine",
+        "Imran",
+        "Conditions"
       ]
     },
     {
       "blanked": "India’s resilience is not accidental, built on mutually reinforcing reforms: ______ Das",
       "answer": "Shaktikanta",
       "options": [
-        "Images",
         "Shaktikanta",
-        "Games",
-        "Bengal"
+        "Highlights",
+        "NYT",
+        "Russia-Ukraine"
       ]
     },
     {
-      "blanked": "India vs ______ football 2026: Blue Tigers fall 4-0 as Canarinho sing in Kolkata friendly",
-      "answer": "Brazil",
+      "blanked": "What are the five questions being asked regarding the ______ attack?",
+      "answer": "Flydubai",
       "options": [
-        "Out",
-        "Brazil",
-        "Pocket",
-        "Steal"
+        "Process",
+        "Flydubai",
+        "Six",
+        "Neha"
       ]
     },
     {
-      "blanked": "Trump announces ______ Intelligence Force' to keep US ahead in AI race",
-      "answer": "Super",
+      "blanked": "Drishyam The ______ Box Office Collections: Ajay Devgn starrer rakes in Rs. 52 Cr on its 2nd day in India",
+      "answer": "Conclusion",
       "options": [
-        "Machchhar",
-        "Sexually",
-        "Super",
-        "Risk"
+        "Delay",
+        "Free",
+        "Conclusion",
+        "Office"
       ]
     },
     {
-      "blanked": "Keralam govt. orders anti-corruption enquiry against CEC Gyanesh ______ over 2006 graft allegations",
-      "answer": "Kumar",
+      "blanked": "Jantar Mantar stir: ______ in filing FIR stokes row as journalists allege sexual harassment by Delhi police personnel",
+      "answer": "Delay",
       "options": [
-        "Kumar",
-        "Das",
-        "Sensex",
-        "PCs"
+        "Tigers",
+        "Delay",
+        "October",
+        "News"
       ]
     },
     {
-      "blanked": "Crew‑13 Docks in Record Time as ISS Crew Swells to 11 Ahead of Crew‑12 ______",
-      "answer": "Departure",
-      "options": [
-        "Returns",
-        "Born",
-        "Drinking",
-        "Departure"
-      ]
-    },
-    {
-      "blanked": "Protest against CEC Gyanesh Kumar: ______ police detains AISA president Neha Bora",
-      "answer": "Delhi",
-      "options": [
-        "Smit",
-        "Bengal",
-        "One",
-        "Delhi"
-      ]
-    },
-    {
-      "blanked": "No handshakes and a delayed ceremony as ______ beat Pakistan at Asian Games",
+      "blanked": "Asian Games 2026: ______ finishes fourth with 85 medals, late gold rush seals campaign",
       "answer": "India",
       "options": [
-        "India",
-        "Crew",
-        "Devgn",
-        "Gurugram"
-      ]
-    },
-    {
-      "blanked": "Reliance Jio IPO Update in ______ 2026: One Month Away",
-      "answer": "October",
-      "options": [
-        "October",
-        "Six",
+        "Bengal",
         "Punjab",
-        "Bengal"
+        "India",
+        "Conclusion"
       ]
     },
     {
       "blanked": "Pembrolizumab-Olaparib Delays Ovarian ______ Progression",
       "answer": "Cancer",
       "options": [
-        "Canarinho",
         "Cancer",
-        "Reactors",
-        "Flash-Lite"
+        "UCC",
+        "Hindustan",
+        "Srinivasa"
       ]
     }
   ]
