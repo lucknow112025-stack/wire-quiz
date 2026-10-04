@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-10-04T19:19:17.013Z",
+  "generatedAt": "2026-10-04T22:24:17.874Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
     "What are the five questions being asked regarding the Flydubai attack?",
-    "Protests intensify in India over demands for election chief to quit",
+    "Hundreds, including Neha, woman journalist who alleged sexual harassment by cop, detained as Delhi protest demanding Gyanesh Kumar’s removal enters third day",
+    "India is discussing agreements on grains and maritime safety with Moscow and Kyiv: Jaishankar",
     "Any Process Taking Away Voting Rights Of Millions Of Citizens Is Unjustifiable, No Court Can Condone It:...",
-    "India is going ‘beyond advocacy’ on the Russia-Ukraine conflict: Jaishankar",
-    "Jantar Mantar stir: Delay in filing FIR stokes row as journalists allege sexual harassment by Delhi police personnel",
+    "Trump announces 'Super Intelligence Force' with top US officials to lead AI push",
     "Georgia shooting: 2 dead, up to 35 injured at homecoming party as police investigate | Hindustan Times",
-    "AISA Claims Neha Bora Detained During Protest, Released Without Phone, Bag",
-    "IIT Delhi scholar dies at AIIMS 46 days after he was found unconscious at rented house; abetment of suicide case registered | India News",
     "ECI Row : Supreme Court To Hear Tomorrow Petitions Against CEC Gyanesh Kumar Over SIR Decisions",
-    "‘Love jihad’, ‘land jihad’ laws in six months: Suvendu Adhikari also vows UCC in Bengal",
-    "Trump announces 'Super Intelligence Force' to keep US ahead in AI race",
-    "Al-Alimi announces launch of military operations against Houthi militias",
-    "Trump defiant about midterm chances as he rallies for Republicans in Ohio",
-    "Pakistan braces for showdown as talks collapse, Imran Khan’s party pushes ahead with march",
-    "India’s resilience is not accidental, built on mutually reinforcing reforms: Shaktikanta Das",
-    "IPO bonanza: 29 companies to list this week; GMPs signal returns of up to 59%",
-    "Noel Tata seeks Tata Sons meeting video, minutes; questions legal opinions on Chandrasekaran reappointment",
-    "Sebi gets 3,500+ comments on Closing Auction Session rules: Circular likely soon, says Tuhin Kanta Pandey",
+    "Scrap SIR, EVMs: Thackeray Cousins Lead Mumbai Protest Against Poll Body Chief",
+    "Muslim youths set up BJP office in Nandigram after CM Suvendu Adhikari's ‘friendship’ appeal",
+    "IIT Delhi scholar dies at AIIMS 46 days after he was found unconscious at rented house; abetment of suicide case registered | India News",
+    "Yemeni government launches offensive to seize all areas from Iran-backed Houthis",
+    "Ukraine ready for US-backed talks with Russia: Zelenskyy",
+    "Explained: Why Are Students Protesting In France",
+    "Iran says Strait of Hormuz will not reopen until conditions are met, says reports",
+    "Another big development in Tata Boardroom Battle; Noel Tata seeks video recording and minutes of Sept 17 meeting",
+    "Reliance Jio IPO Update in October 2026: One Month Away",
+    "SEBI receives 20,000 comments on Closing Auction Session, market timings consultation paper",
+    "Will Nifty, Sensex plunge for 9th straight week? TCS Q2, RBI MPC among 4 factors to drive Dalal Street fro",
     "Apple iPhone 18 Pro Max gaming test shows up to 69% less performance loss than iPhone 17 Pro Max",
-    "Google Caps Free Gemini at Flash-Lite Starting October 9",
+    "Today’s NYT Strands Hints, Answers and Help for Oct. 5, #946",
     "Amazon Great Indian Festival sale 2026: Smartphone deals and prices announced",
-    "Today’s NYT Strands Hints, Answers and Help for Oct. 4, #945",
+    "Deepinder Goyal teases six Temple variants: Full list of colours, launch date, pre-order details and more",
     "Drishyam The Conclusion Box Office Collections: Ajay Devgn starrer rakes in Rs. 52 Cr on its 2nd day in India",
-    "The ‘Digger’ Defense Squad Is Out in Force",
-    "Vijay Deverakonda condemns the AI-morphed video of Janhvi Kapoor; calls it the ‘digital equivalent of s*xual assault’"
+    "Khatron Ke Khiladi 15 Winner: Avinash Mishra lifts the trophy; takes home Rs 20 lakh cash prize",
+    "'It Was A Scripted Conversation': Sanjay Dutt Clarifies Remarks On Shekhar Suman's Show"
   ],
   "quiz": [
     {
-      "blanked": "Protests intensify in ______ over demands for election chief to quit",
-      "answer": "India",
+      "blanked": "Hundreds, including ______ woman journalist who alleged sexual harassment by cop, detained as Delhi protest demanding Gyanesh Kumar’s removal enters third day",
+      "answer": "Neha",
       "options": [
-        "Suvendu",
-        "Closing",
-        "India",
-        "Process"
+        "Neha",
+        "Home",
+        "Dalal",
+        "Risk"
       ]
     },
     {
-      "blanked": "Amazon Great ______ Festival sale 2026: Smartphone deals and prices announced",
-      "answer": "Indian",
+      "blanked": "ECI Row : ______ Court To Hear Tomorrow Petitions Against CEC Gyanesh Kumar Over SIR Decisions",
+      "answer": "Supreme",
       "options": [
-        "Indian",
-        "CEC",
-        "Row",
-        "Taking"
+        "Tomorrow",
+        "Supreme",
+        "SIR",
+        "Thackeray"
       ]
     },
     {
-      "blanked": "AISA Claims Neha Bora Detained During Protest, Released Without ______ Bag",
-      "answer": "Phone",
+      "blanked": "Amazon Great Indian ______ sale 2026: Smartphone deals and prices announced",
+      "answer": "Festival",
       "options": [
-        "Phone",
-        "Answers",
-        "Drives",
-        "Kanta"
+        "Rights",
+        "Intelligence",
+        "Festival",
+        "Delhi"
       ]
     },
     {
-      "blanked": "New space race: Superpowers look to set up ______ on the Moon",
-      "answer": "N-reactors",
+      "blanked": "Asian Games ______ India finishes fourth with 85 medals, late gold rush seals campaign",
+      "answer": "2026",
       "options": [
-        "Petitions",
-        "IFA",
-        "Canarinho",
-        "N-reactors"
+        "Conditions",
+        "2026",
+        "Devgn",
+        "Reveals"
       ]
     },
     {
-      "blanked": "Sebi gets 3,500+ comments on Closing Auction Session rules: Circular likely soon, says ______ Kanta Pandey",
-      "answer": "Tuhin",
+      "blanked": "Earth And Mars Were ______ Together. New Study Reveals Why They Became So Different",
+      "answer": "Born",
       "options": [
-        "Tuhin",
-        "Circular",
-        "945",
-        "Process"
+        "One",
+        "Eliza",
+        "Born",
+        "Cause"
       ]
     },
     {
-      "blanked": "India is going ‘beyond advocacy’ on the ______ conflict: Jaishankar",
-      "answer": "Russia-Ukraine",
+      "blanked": "Pembrolizumab-Olaparib Delays ______ Cancer Progression",
+      "answer": "Ovarian",
       "options": [
-        "Pro",
-        "Russia-Ukraine",
-        "Imran",
-        "Conditions"
+        "Protesting",
+        "Eight",
+        "Ovarian",
+        "Hints"
       ]
     },
     {
-      "blanked": "India’s resilience is not accidental, built on mutually reinforcing reforms: ______ Das",
-      "answer": "Shaktikanta",
+      "blanked": "SpaceX reaches orbit as ______ Musk sets bigger Starship goal",
+      "answer": "Elon",
       "options": [
-        "Shaktikanta",
-        "Highlights",
-        "NYT",
-        "Russia-Ukraine"
-      ]
-    },
-    {
-      "blanked": "What are the five questions being asked regarding the ______ attack?",
-      "answer": "Flydubai",
-      "options": [
-        "Process",
-        "Flydubai",
-        "Six",
-        "Neha"
-      ]
-    },
-    {
-      "blanked": "Drishyam The ______ Box Office Collections: Ajay Devgn starrer rakes in Rs. 52 Cr on its 2nd day in India",
-      "answer": "Conclusion",
-      "options": [
-        "Delay",
-        "Free",
+        "Elon",
+        "Battle",
         "Conclusion",
-        "Office"
+        "Savita"
       ]
     },
     {
-      "blanked": "Jantar Mantar stir: ______ in filing FIR stokes row as journalists allege sexual harassment by Delhi police personnel",
-      "answer": "Delay",
+      "blanked": "Explained: Why Are ______ Protesting In France",
+      "answer": "Students",
       "options": [
-        "Tigers",
-        "Delay",
-        "October",
-        "News"
+        "Indias",
+        "Students",
+        "Risk",
+        "Dalal"
       ]
     },
     {
-      "blanked": "Asian Games 2026: ______ finishes fourth with 85 medals, late gold rush seals campaign",
-      "answer": "India",
+      "blanked": "Another big development in Tata Boardroom ______ Noel Tata seeks video recording and minutes of Sept 17 meeting",
+      "answer": "Battle",
       "options": [
-        "Bengal",
-        "Punjab",
-        "India",
-        "Conclusion"
+        "Sanjay",
+        "Battle",
+        "Hormuz",
+        "Mars"
       ]
     },
     {
-      "blanked": "Pembrolizumab-Olaparib Delays Ovarian ______ Progression",
-      "answer": "Cancer",
+      "blanked": "Deepinder Goyal teases six ______ variants: Full list of colours, launch date, pre-order details and more",
+      "answer": "Temple",
       "options": [
-        "Cancer",
-        "UCC",
-        "Hindustan",
-        "Srinivasa"
+        "Avinash",
+        "Temple",
+        "Zelenskyy",
+        "Process"
+      ]
+    },
+    {
+      "blanked": "India is discussing agreements on grains and maritime safety with ______ and Kyiv: Jaishankar",
+      "answer": "Moscow",
+      "options": [
+        "Moscow",
+        "RBI",
+        "20000",
+        "Thackeray"
+      ]
+    },
+    {
+      "blanked": "Apple iPhone 18 Pro Max gaming test shows up to 69% less performance loss than iPhone 17 Pro ______",
+      "answer": "Max",
+      "options": [
+        "One",
+        "Max",
+        "Tomorrow",
+        "Month"
       ]
     }
   ]
