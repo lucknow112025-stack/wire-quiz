@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-10-04T22:24:17.874Z",
+  "generatedAt": "2026-10-05T01:05:12.039Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
     "What are the five questions being asked regarding the Flydubai attack?",
-    "Hundreds, including Neha, woman journalist who alleged sexual harassment by cop, detained as Delhi protest demanding Gyanesh Kumar’s removal enters third day",
-    "India is discussing agreements on grains and maritime safety with Moscow and Kyiv: Jaishankar",
     "Any Process Taking Away Voting Rights Of Millions Of Citizens Is Unjustifiable, No Court Can Condone It:...",
-    "Trump announces 'Super Intelligence Force' with top US officials to lead AI push",
-    "Georgia shooting: 2 dead, up to 35 injured at homecoming party as police investigate | Hindustan Times",
-    "ECI Row : Supreme Court To Hear Tomorrow Petitions Against CEC Gyanesh Kumar Over SIR Decisions",
+    "Hundreds, including Neha, woman journalist who alleged sexual harassment by cop, detained as Delhi protest demanding Gyanesh Kumar’s removal enters third day",
+    "India’s Russia-Ukraine ceasefire proposal ‘broadest’ among four on table, says Kyiv",
+    "Protest against CEC Gyanesh Kumar: AISA president Neha released at Narela Industrial Area police station",
+    "Al-Alimi announces launch of military operations against Houthi militia",
+    "Indian police accused of sexual harassment against journalists at protest",
     "Scrap SIR, EVMs: Thackeray Cousins Lead Mumbai Protest Against Poll Body Chief",
-    "Muslim youths set up BJP office in Nandigram after CM Suvendu Adhikari's ‘friendship’ appeal",
-    "IIT Delhi scholar dies at AIIMS 46 days after he was found unconscious at rented house; abetment of suicide case registered | India News",
-    "Yemeni government launches offensive to seize all areas from Iran-backed Houthis",
+    "Right to vote in great peril: Justice Rohinton Nariman flags executive interference in Election Commission",
+    "India to build domestic capacity in import-dependent sectors, rare-earth magnets in focus: Shaktikanta Das",
+    "Violent clashes, schools shut: Why are students protesting across France?",
     "Ukraine ready for US-backed talks with Russia: Zelenskyy",
-    "Explained: Why Are Students Protesting In France",
     "Iran says Strait of Hormuz will not reopen until conditions are met, says reports",
-    "Another big development in Tata Boardroom Battle; Noel Tata seeks video recording and minutes of Sept 17 meeting",
+    "Georgia shooting: 2 dead, up to 35 injured at homecoming party as police investigate | Hindustan Times",
     "Reliance Jio IPO Update in October 2026: One Month Away",
     "SEBI receives 20,000 comments on Closing Auction Session, market timings consultation paper",
+    "Another big development in Tata Boardroom Battle; Noel Tata seeks video recording and minutes of Sept 17 meeting",
     "Will Nifty, Sensex plunge for 9th straight week? TCS Q2, RBI MPC among 4 factors to drive Dalal Street fro",
     "Apple iPhone 18 Pro Max gaming test shows up to 69% less performance loss than iPhone 17 Pro Max",
     "Today’s NYT Strands Hints, Answers and Help for Oct. 5, #946",
     "Amazon Great Indian Festival sale 2026: Smartphone deals and prices announced",
-    "Deepinder Goyal teases six Temple variants: Full list of colours, launch date, pre-order details and more",
-    "Drishyam The Conclusion Box Office Collections: Ajay Devgn starrer rakes in Rs. 52 Cr on its 2nd day in India",
-    "Khatron Ke Khiladi 15 Winner: Avinash Mishra lifts the trophy; takes home Rs 20 lakh cash prize",
-    "'It Was A Scripted Conversation': Sanjay Dutt Clarifies Remarks On Shekhar Suman's Show"
+    "Does Temple 'stick to your skin'? Can you bathe with it, swim with it? Eternal's Deepinder Goyal answers",
+    "Drishyam 3 Worldwide Opening Weekend Box Office: Ajay Devgn starrer storms to Rs 266 crore globally in 3 days - Emerges BLOCKBUSTER",
+    "'It Was A Scripted Conversation': Sanjay Dutt Clarifies Remarks On Shekhar Suman's Show",
+    "Khatron Ke Khiladi 15 Winner: Avinash Mishra lifts the trophy; takes home Rs 20 lakh cash prize"
   ],
   "quiz": [
+    {
+      "blanked": "Al-Alimi announces launch of military operations against ______ militia",
+      "answer": "Houthi",
+      "options": [
+        "Houthi",
+        "Away",
+        "Emerges",
+        "Boras"
+      ]
+    },
+    {
+      "blanked": "COVID-19 Linked to Increased Risk of Six Allergic ______",
+      "answer": "Conditions",
+      "options": [
+        "Delays",
+        "Conditions",
+        "Battle",
+        "Gyanesh"
+      ]
+    },
+    {
+      "blanked": "Does Temple 'stick to your skin'? ______ you bathe with it, swim with it? Eternal's Deepinder Goyal answers",
+      "answer": "Can",
+      "options": [
+        "They",
+        "Can",
+        "Sensex",
+        "RBI"
+      ]
+    },
+    {
+      "blanked": "Apple iPhone 18 Pro Max gaming test shows up to 69% less performance loss than iPhone 17 ______ Max",
+      "answer": "Pro",
+      "options": [
+        "Pro",
+        "Mantar",
+        "Neha",
+        "Ovarian"
+      ]
+    },
+    {
+      "blanked": "Georgia shooting: 2 dead, up to 35 injured at homecoming party as police investigate | Hindustan ______",
+      "answer": "Times",
+      "options": [
+        "Times",
+        "Mantar",
+        "Kumars",
+        "2026"
+      ]
+    },
+    {
+      "blanked": "Asian Games 2026: ______ finishes fourth with 85 medals, late gold rush seals campaign",
+      "answer": "India",
+      "options": [
+        "Allergic",
+        "India",
+        "Deeply",
+        "Boras"
+      ]
+    },
+    {
+      "blanked": "Scrap SIR, EVMs: Thackeray Cousins Lead Mumbai Protest Against ______ Body Chief",
+      "answer": "Poll",
+      "options": [
+        "Session",
+        "Rohinton",
+        "Poll",
+        "Mantar"
+      ]
+    },
+    {
+      "blanked": "Right to vote in great peril: Justice Rohinton ______ flags executive interference in Election Commission",
+      "answer": "Nariman",
+      "options": [
+        "Globally",
+        "Protest",
+        "Blue",
+        "Nariman"
+      ]
+    },
+    {
+      "blanked": "'It Was A Scripted Conversation': Sanjay Dutt Clarifies ______ On Shekhar Suman's Show",
+      "answer": "Remarks",
+      "options": [
+        "Allergic",
+        "Scripted",
+        "Remarks",
+        "Asian"
+      ]
+    },
+    {
+      "blanked": "ISS Welcomes Crew-13 as Crew-12 ______ for Journey Home",
+      "answer": "Prepares",
+      "options": [
+        "EVMs",
+        "Can",
+        "AI-Altered",
+        "Prepares"
+      ]
+    },
+    {
+      "blanked": "Pembrolizumab-Olaparib ______ Ovarian Cancer Progression",
+      "answer": "Delays",
+      "options": [
+        "Africa",
+        "Increased",
+        "Delays",
+        "Times"
+      ]
+    },
     {
       "blanked": "Hundreds, including ______ woman journalist who alleged sexual harassment by cop, detained as Delhi protest demanding Gyanesh Kumar’s removal enters third day",
       "answer": "Neha",
       "options": [
         "Neha",
-        "Home",
-        "Dalal",
-        "Risk"
-      ]
-    },
-    {
-      "blanked": "ECI Row : ______ Court To Hear Tomorrow Petitions Against CEC Gyanesh Kumar Over SIR Decisions",
-      "answer": "Supreme",
-      "options": [
-        "Tomorrow",
-        "Supreme",
-        "SIR",
-        "Thackeray"
-      ]
-    },
-    {
-      "blanked": "Amazon Great Indian ______ sale 2026: Smartphone deals and prices announced",
-      "answer": "Festival",
-      "options": [
-        "Rights",
-        "Intelligence",
-        "Festival",
-        "Delhi"
-      ]
-    },
-    {
-      "blanked": "Asian Games ______ India finishes fourth with 85 medals, late gold rush seals campaign",
-      "answer": "2026",
-      "options": [
-        "Conditions",
-        "2026",
-        "Devgn",
-        "Reveals"
-      ]
-    },
-    {
-      "blanked": "Earth And Mars Were ______ Together. New Study Reveals Why They Became So Different",
-      "answer": "Born",
-      "options": [
-        "One",
-        "Eliza",
-        "Born",
-        "Cause"
-      ]
-    },
-    {
-      "blanked": "Pembrolizumab-Olaparib Delays ______ Cancer Progression",
-      "answer": "Ovarian",
-      "options": [
-        "Protesting",
-        "Eight",
-        "Ovarian",
-        "Hints"
-      ]
-    },
-    {
-      "blanked": "SpaceX reaches orbit as ______ Musk sets bigger Starship goal",
-      "answer": "Elon",
-      "options": [
-        "Elon",
-        "Battle",
-        "Conclusion",
-        "Savita"
-      ]
-    },
-    {
-      "blanked": "Explained: Why Are ______ Protesting In France",
-      "answer": "Students",
-      "options": [
-        "Indias",
-        "Students",
-        "Risk",
-        "Dalal"
-      ]
-    },
-    {
-      "blanked": "Another big development in Tata Boardroom ______ Noel Tata seeks video recording and minutes of Sept 17 meeting",
-      "answer": "Battle",
-      "options": [
-        "Sanjay",
-        "Battle",
-        "Hormuz",
-        "Mars"
-      ]
-    },
-    {
-      "blanked": "Deepinder Goyal teases six ______ variants: Full list of colours, launch date, pre-order details and more",
-      "answer": "Temple",
-      "options": [
-        "Avinash",
-        "Temple",
-        "Zelenskyy",
-        "Process"
-      ]
-    },
-    {
-      "blanked": "India is discussing agreements on grains and maritime safety with ______ and Kyiv: Jaishankar",
-      "answer": "Moscow",
-      "options": [
-        "Moscow",
+        "Mars",
         "RBI",
-        "20000",
-        "Thackeray"
-      ]
-    },
-    {
-      "blanked": "Apple iPhone 18 Pro Max gaming test shows up to 69% less performance loss than iPhone 17 Pro ______",
-      "answer": "Max",
-      "options": [
-        "One",
-        "Max",
-        "Tomorrow",
-        "Month"
+        "Khiladi"
       ]
     }
   ]
