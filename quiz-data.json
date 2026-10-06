@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-10-06T15:55:58.206Z",
+  "generatedAt": "2026-10-06T20:45:25.838Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "How the world is looking at protests against Election Commission under Gyanesh Kumar",
+    "Rahul calls SIR ‘treason’ as INDIA unites against ECI; MPs detained",
     "Israel prepared to shoot down FlyDubai plane after cockpit attack: CBS",
-    "Delhi Cop Vivek Bhagat's Promotion Withheld Amid Sexual Harassment Allegation",
+    "4.9-magnitude earthquake hits Uttarakhand, tremors felt in Delhi-NCR",
+    "Yemen forces claim key gains near Bab al-Mandeb: What’s the latest?",
     "CEC & Election Commissioners Enjoy Greater Legal Immunity Than Even Judges, Remarks Supreme Court",
-    "SIR: Telangana Poll Chief Orders Action Against Bulk Form 7 For Voter Deletions",
-    "Three injured in attacks on Najran and Jazan airports: Saudi aviation authority",
-    "Supreme Court Gets 3 Women Judges With Justice Sunita Agarwal's Elevation",
-    "Air Marshal Ashutosh Dixit is the next Chief of Air Staff",
-    "DRDO successfully tests HAPS at 21 km altitude: What is India's high-altitude airship and why does it...",
+    "Nobel Medicine Prize Goes To 3 Scientists For Research Into Brain Activity",
     "Byelections 2026 highlights: Bypolls to five Assembly seats, one LS seat conclude with high voter turnout; minor incidents reported",
-    "Burning cars, clashes and mass arrests: France’s student protests spread across the country - videos",
-    "Former German spy chief arrested on suspicion of attempted treason, obtaining state secrets",
-    "France tests upgraded nuclear missile against backdrop of Russia tensions",
-    "Physics Nobel 2026 goes to Francis Halzen for discovery of high-energy neutrinos of astrophysical origin",
-    "RBI likely to hike rates for the first time since February 2023 in battle against inflation",
+    "Punjab Govt Moves Supreme Court Against HC Order For CBI Probe Into Corruption Allegations Linked To...",
+    "Police must create fear in minds of goons: Supreme Court in suo motu case on women's safety",
     "Centre to propose five-pronged reform plan at GST Council meeting on October 8",
+    "France tests upgraded nuclear missile against backdrop of Russia tensions",
+    "Student protests France: Students, teachers march in France on biggest day of school protests",
+    "Attack on oil tanker leaves 12 injured, Indian ministry says",
+    "Saudi Arabia says three wounded in attacks on airports near Yemen border",
     "Indian shares extend gains ahead of RBI rate decision",
+    "Exclusive | Relief for airlines: Govt defers 265 flights cut proposal at Mumbai T2",
+    "British Airways Unveils Largest Business Class Seats in the World on A380",
     "'10 Lakh Livelihoods At Risk': IBAI Opposes IRDAI's Proposed Distribution Reforms; Seeks PM Modi's Intervention",
-    "vivo V80 debuts with a 6.59-inch display, a 7,200mAh battery - GSMArena.com news",
-    "5 Features to Look Out for in The New OriginOS 7: A Smarter, Smoother Way to Get Things Done",
-    "JBL's PartyBox 720 launches in more markets: 800W output with dual XLR inputs and 15-hour battery",
-    "iPhone 17 Pro deal: Reliance Digital offers up to Rs 77,910 in benefits with exchange and cashback: Check...",
+    "Garmin releases new smartwatch globally with ECG, flashlight and AMOLED display",
+    "vivo S2 FE arrives with a massive 10,000mAh battery",
+    "Vivo OriginOS 7 India Rollout Schedule Out: Full List Of Eligible Phones, Update Timeline",
+    "Minecraft 26.4 Snapshot 4 patch notes: Ice Caves Biome, Frostbite Mob, and more",
     "Drishyam The Conclusion Box Office Collections: Ajay Devgn starrer holds well on Monday, Nets Rs. 192 Cr in four days in India",
-    "Delhi High Court sends notice to Salman Khan, seeks response on plea seeking stay on ‘Kala Hiran’ release",
-    "Qazi Touqeer's Team On Reports Of His Exit From Bigg Boss 20: \"He Has Been Dealing With Fever\""
+    "Aishwarya Lekshmi says she's at peace a year after quitting social media: ‘Better place in life’ | Hindustan Times",
+    "Legendary movie director, writer Singeetham Srinivasa Rao passes away"
   ],
   "quiz": [
     {
-      "blanked": "Higher BMI ______ to Pregnancy Risks in Type 2 Diabetes",
-      "answer": "Linked",
+      "blanked": "Garmin releases new smartwatch globally with ______ flashlight and AMOLED display",
+      "answer": "ECG",
       "options": [
-        "How",
-        "Linked",
-        "Probe",
-        "Distribution"
+        "2026",
+        "Medicine",
+        "Election",
+        "ECG"
       ]
     },
     {
-      "blanked": "Israel prepared to shoot down FlyDubai plane after cockpit attack: ______",
-      "answer": "CBS",
+      "blanked": "Centre to propose five-pronged reform plan at ______ Council meeting on October 8",
+      "answer": "GST",
       "options": [
-        "High",
-        "OTT",
-        "Dealing",
-        "CBS"
+        "GST",
+        "Bhuvneshwar",
+        "Seats",
+        "Lekshmi"
       ]
     },
     {
-      "blanked": "Broadly Protective Influenza ______ Could Blunt Pandemics",
-      "answer": "Vaccines",
-      "options": [
-        "Vaccines",
-        "Immunity",
-        "Dealing",
-        "Withheld"
-      ]
-    },
-    {
-      "blanked": "SIR: Telangana Poll Chief Orders Action ______ Bulk Form 7 For Voter Deletions",
+      "blanked": "Punjab Govt Moves Supreme Court ______ HC Order For CBI Probe Into Corruption Allegations Linked To...",
       "answer": "Against",
       "options": [
+        "Probe",
+        "Whats",
         "Against",
-        "Labs",
-        "February",
-        "Fever"
+        "Immunity"
       ]
     },
     {
-      "blanked": "New ______ declares disaster emergency over measles outbreak",
-      "answer": "York",
+      "blanked": "Vivo OriginOS 7 India Rollout Schedule ______ Full List Of Eligible Phones, Update Timeline",
+      "answer": "Out",
       "options": [
-        "York",
-        "Collections",
-        "Form",
-        "Than"
+        "Osteoarthritis",
+        "Corruption",
+        "Now",
+        "Out"
       ]
     },
     {
-      "blanked": "RBI likely to hike rates for the first time since ______ 2023 in battle against inflation",
-      "answer": "February",
+      "blanked": "4.9-magnitude earthquake hits ______ tremors felt in Delhi-NCR",
+      "answer": "Uttarakhand",
       "options": [
-        "February",
-        "Blunt",
-        "Commissioners",
-        "IBAI"
+        "Box",
+        "Linked",
+        "Uttarakhand",
+        "INDIA"
       ]
     },
     {
-      "blanked": "India vs Uruguay LIVE score: ______ Nunez in starting lineup; Williams, Edmund set to start for Blue Tigers",
-      "answer": "Darwin",
+      "blanked": "Police must create fear in minds of goons: ______ Court in suo motu case on women's safety",
+      "answer": "Supreme",
       "options": [
-        "Way",
-        "Darwin",
-        "Legal",
-        "PartyBox"
-      ]
-    },
-    {
-      "blanked": "How the world is looking at protests against ______ Commission under Gyanesh Kumar",
-      "answer": "Election",
-      "options": [
-        "Done",
-        "Enjoy",
-        "PartyBox",
-        "Election"
-      ]
-    },
-    {
-      "blanked": "Physics ______ 2026 goes to Francis Halzen for discovery of high-energy neutrinos of astrophysical origin",
-      "answer": "Nobel",
-      "options": [
-        "Devgn",
-        "Nobel",
-        "Kala",
-        "OriginOS"
+        "Business",
+        "RBI",
+        "Russia",
+        "Supreme"
       ]
     },
     {
       "blanked": "Byelections 2026 highlights: Bypolls to five ______ seats, one LS seat conclude with high voter turnout; minor incidents reported",
       "answer": "Assembly",
       "options": [
-        "Bigg",
+        "France",
         "Assembly",
-        "Agarwals",
-        "Voter"
+        "Indies",
+        "Ice"
       ]
     },
     {
-      "blanked": "Drishyam The Conclusion Box Office Collections: Ajay Devgn starrer holds well on Monday, ______ Rs. 192 Cr in four days in India",
-      "answer": "Nets",
+      "blanked": "'10 Lakh Livelihoods At Risk': IBAI ______ IRDAI's Proposed Distribution Reforms; Seeks PM Modi's Intervention",
+      "answer": "Opposes",
       "options": [
-        "Orders",
-        "Nets",
-        "Kumar",
-        "Tube"
+        "France",
+        "Ellison",
+        "Opposes",
+        "Unveils"
       ]
     },
     {
-      "blanked": "Delhi ______ Vivek Bhagat's Promotion Withheld Amid Sexual Harassment Allegation",
-      "answer": "Cop",
+      "blanked": "Minecraft 26.4 Snapshot 4 patch notes: ______ Caves Biome, Frostbite Mob, and more",
+      "answer": "Ice",
       "options": [
-        "German",
-        "Cop",
-        "Things",
-        "CBS"
+        "Immunity",
+        "Corruption",
+        "Devgn",
+        "Ice"
+      ]
+    },
+    {
+      "blanked": "Yemen forces claim key gains near Bab al-Mandeb: ______ the latest?",
+      "answer": "Whats",
+      "options": [
+        "Ice",
+        "Whats",
+        "Mob",
+        "Students"
+      ]
+    },
+    {
+      "blanked": "Harmanpreet ______ steps down as India captain",
+      "answer": "Kaur",
+      "options": [
+        "West",
+        "Hayashi",
+        "Kaur",
+        "Linked"
+      ]
+    },
+    {
+      "blanked": "Drishyam The Conclusion ______ Office Collections: Ajay Devgn starrer holds well on Monday, Nets Rs. 192 Cr in four days in India",
+      "answer": "Box",
+      "options": [
+        "Rao",
+        "IRDAIs",
+        "World",
+        "Box"
       ]
     }
   ]
