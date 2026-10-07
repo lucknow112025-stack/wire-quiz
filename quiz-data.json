@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-10-07T06:15:30.103Z",
+  "generatedAt": "2026-10-07T13:41:00.455Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "RBI MPC meeting LIVE updates: Repo rate hiked by 25 basis points to 5.50%; real GDP growth for FY27 projected at 7.1%",
-    "Gyanesh Kumar: Police detain opposition leaders in Delhi demanding election commission chief's resignation",
-    "Russia says tanker crew rescued in Black Sea after attack set ship ablaze",
-    "Politicians slam Trump’s suggestion that Iran ‘take’ San Diego, Los Angeles",
-    "FlyDubai Attacker Was Part of Pilot Hiring Spree at Fast-Growing Airline",
-    "Christa Pike lawyers say she is speaking one week after failed execution",
-    "Bhuj Earthquake, Covid, Media: PM Modi On Lessons Learnt During 25-Year Journey",
+    "CEC row LIVE: INDIA Bloc MPs head to Jantar Mantar to protest against CEC Gyanesh Kumar",
+    "Nobel chemistry prize goes to pair who solved mystery of 'mirror image' molecules",
+    "Justice Sharma Didn't Disclose Son's Link To ECI During CEC Appointment Case Hearing : Petitioner To...",
+    "CBI now, ED next: Punjab CM Bhagwant Mann hits out at BJP after office raid",
+    "‘We’re short of resources’: France’s student protesters, in their own words",
+    "The Relentless 45-Minute Fight By Dentist To Save flydubai's Hero Pilot",
+    "PM Modi Visits Shri Vinayak Mandir In Delhi To Mark 25 Years In Public Office",
+    "4-storey building collapses in Delhi's Seemapuri, several feared trapped",
     "India proposes 3-part truce amid Russia-Ukraine war to keep grain, energy flowing | India News",
-    "CEC Gyanesh Kumar’s Chhattisgarh visit postponed",
-    "Punjab Govt Moves Supreme Court Against HC Order For CBI Probe Into Corruption Allegations Linked To...",
-    "\"Nobody Seems To Care\": Russian City Shrugs Off Plague Reports",
-    "EXCLUSIVE: Vance says Iran must cut enrichment to end war",
-    "How Did flydubai Plane Survive 17,000-Foot Dive? Veteran Pilot Explains",
-    "Student protests France: Students, teachers march in France on biggest day of school protests",
-    "Indian shares trim losses after hawkish RBI rate hike as financials rebound",
-    "IRDAI rules out glide path for commission caps; open to blended commissions; wants insurance to be bought,...",
-    "Gulf Oil Exports Recover to 81% of Pre-War Levels",
-    "India’s motorbike billionaire steering the tussle at Tata",
-    "NYT Strands hints, answers for October 6, 2026",
-    "Vivo V80 launched with 7200mAh battery, 50MP ZEISS camera and 10x optical zoom; price starts at Rs 62,999",
-    "Minecraft 26.4 Snapshot 3 Adds Ice Caves, Frostbite, and More Winter Drop Features",
-    "Vivo OriginOS 7 India Rollout Schedule Out: Full List Of Eligible Phones, Update Timeline",
-    "‘Drishyam 3’ box office collection day 5: Ajay Devgn and Tabu's film crosses Rs 216 crore on Tuesday; inc",
-    "Qazi Touqeer's Team On Reports Of His Exit From Bigg Boss 20: \"He Has Been Dealing With Fever\"",
-    "Madhuri Dixit Channels Her Inner Diva On Kaun Banega Crorepati, Amitabh Bachchan In Awe"
+    "How did a Pakistan-linked spy network target Navy’s Eastern Command, and how was it cracked? | Explained",
+    "How three years of Israel’s genocidal war have changed Gaza",
+    "Seven Stabbed At High School In Poland, 19-Year-Old Arrested",
+    "Iran rejects JD Vance’s nuclear demands, says US must meet its conditions first: ‘We will never give...",
+    "Houthis hit Yemen's Aden airport, claim attacks on Saudi Arabia",
+    "RBI MPC meeting highlights: Repo rate hiked to 5.5%; rate cuts off the table in near term, Governor Sanjay Malhotra says",
+    "Indian shares decline as RBI rate hike signals tighter policy",
+    "India’s $110 Billion HDFC Bank Faces Upheaval With Outsider CEO Anup Bagchi",
+    "Oil prices rise amid concerns over Mideast, U.S. supply disruptions",
+    "vivo V80, X Fold6 and S2 FE Launched in India: Price, Specs and Everything Announced at vivo NEXT 2026",
+    "NYT Strands Hints, Clues And Answer For Wednesday October 7 (Color For The Cure)",
+    "Flipkart Big Billion Days sale starts tonight: iPhone 17, Galaxy S25, iPhone 15 and more deals to check...",
+    "Minecraft 26.4 Snapshot 4 patch notes: Ice Caves Biome, Frostbite Mob, and more",
+    "'Our Hearts Are Full Of Love': Kiara Advani And Sidharth Malhotra Announce Second Pregnancy",
+    "Drishyam The Conclusion Box Office Collections: Ajay Devgn starrer does well on Tuesday, Nets Rs. 210 Cr in 5 days",
+    "Arun Govil returns to 'Ramayana' universe as King Dashrath; new poster from Ranbir Kapoor - Nitesh Tiwari"
   ],
   "quiz": [
     {
-      "blanked": "Politicians slam Trump’s suggestion that ______ ‘take’ San Diego, Los Angeles",
-      "answer": "Iran",
+      "blanked": "4-storey building collapses in ______ Seemapuri, several feared trapped",
+      "answer": "Delhis",
       "options": [
-        "Seven",
-        "Iran",
-        "Exit",
-        "Devgn"
-      ]
-    },
-    {
-      "blanked": "India vs New ______ Bhuvneshwar Kumar returns to India's T20I squad",
-      "answer": "Zealand",
-      "options": [
-        "City",
-        "Airline",
-        "Zealand",
-        "Exports"
-      ]
-    },
-    {
-      "blanked": "How Did flydubai Plane Survive 17,000-Foot Dive? Veteran Pilot ______",
-      "answer": "Explains",
-      "options": [
-        "Explains",
-        "Order",
-        "Hiring",
-        "Moves"
-      ]
-    },
-    {
-      "blanked": "EXCLUSIVE: Vance says ______ must cut enrichment to end war",
-      "answer": "Iran",
-      "options": [
-        "Iran",
-        "Fibrosis",
-        "Recover",
-        "Bigg"
-      ]
-    },
-    {
-      "blanked": "India’s motorbike billionaire steering the tussle at ______",
-      "answer": "Tata",
-      "options": [
-        "Tata",
-        "Thalassaemia",
-        "Inner",
-        "Levels"
-      ]
-    },
-    {
-      "blanked": "Bhuj Earthquake, Covid, Media: PM ______ On Lessons Learnt During 25-Year Journey",
-      "answer": "Modi",
-      "options": [
-        "Linked",
-        "Iran",
-        "Modi",
-        "7.1%"
-      ]
-    },
-    {
-      "blanked": "FlyDubai ______ Was Part of Pilot Hiring Spree at Fast-Growing Airline",
-      "answer": "Attacker",
-      "options": [
-        "Attacker",
-        "GDP",
-        "Benin",
-        "7.1%"
-      ]
-    },
-    {
-      "blanked": "India vs Uruguay football 2026: Lightning breaks Blue ______ rhythm as Forlan’s boys bag 6-1 win",
-      "answer": "Tigers",
-      "options": [
-        "Dixit",
-        "Tigers",
         "News",
-        "Devgn"
+        "Clues",
+        "Appear",
+        "Delhis"
       ]
     },
     {
-      "blanked": "New York declares first US measles disaster emergency since ______ surge",
-      "answer": "2025",
+      "blanked": "Indian shares decline as ______ rate hike signals tighter policy",
+      "answer": "RBI",
       "options": [
-        "Diva",
-        "Indias",
-        "Plague",
-        "2025"
+        "Specs",
+        "Clues",
+        "RBI",
+        "Mark"
       ]
     },
     {
-      "blanked": "India name new captain after ______ Kaur steps down",
-      "answer": "Harmanpreet",
+      "blanked": "‘We’re short of resources’: ______ student protesters, in their own words",
+      "answer": "Frances",
       "options": [
-        "Rollout",
-        "7.1%",
-        "Eligible",
-        "Harmanpreet"
+        "Mandir",
+        "Launched",
+        "BJP",
+        "Frances"
       ]
     },
     {
-      "blanked": "RBI MPC meeting LIVE updates: ______ rate hiked by 25 basis points to 5.50%; real GDP growth for FY27 projected at 7.1%",
-      "answer": "Repo",
+      "blanked": "‘History will be kinder to you’: Gautam Gambhir bids farewell to Ajit ______",
+      "answer": "Agarkar",
       "options": [
-        "Repo",
-        "216",
+        "Relentless",
+        "Cancer",
+        "2036",
+        "Agarkar"
+      ]
+    },
+    {
+      "blanked": "The Man Who Broke Reality: Niels Bohr and the Making of Modern ______",
+      "answer": "Physics",
+      "options": [
+        "Physics",
+        "Mantar",
         "News",
-        "Corruption"
+        "Big"
       ]
     },
     {
-      "blanked": "Targeting the Disease Mechanism in PFIC, With ______ Hayashi, PhD",
-      "answer": "Hisamitsu",
+      "blanked": "NYT Strands Hints, Clues And Answer For Wednesday October 7 ______ For The Cure)",
+      "answer": "Color",
       "options": [
-        "Hisamitsu",
-        "Forlans",
-        "Inshorts",
-        "Lessons"
+        "Modern",
+        "Color",
+        "Heart",
+        "Advani"
+      ]
+    },
+    {
+      "blanked": "Measles Cases Surge In New York, Statewide Emergency Declared: Symptoms, Prevention And ______ Cases Are Rising",
+      "answer": "Why",
+      "options": [
+        "Sidharth",
+        "Why",
+        "Sanon",
+        "Modi"
+      ]
+    },
+    {
+      "blanked": "Houthis hit Yemen's Aden airport, claim attacks on Saudi ______",
+      "answer": "Arabia",
+      "options": [
+        "Biome",
+        "Arabia",
+        "Heart",
+        "Specs"
+      ]
+    },
+    {
+      "blanked": "Flipkart Big Billion Days sale starts tonight: iPhone 17, ______ S25, iPhone 15 and more deals to check...",
+      "answer": "Galaxy",
+      "options": [
+        "Malhotra",
+        "Galaxy",
+        "Man",
+        "26.4"
+      ]
+    },
+    {
+      "blanked": "India tour of New Zealand: ______ ODI squad announcement was delayed",
+      "answer": "Why",
+      "options": [
+        "Earth",
+        "Why",
+        "Jantar",
+        "School"
+      ]
+    },
+    {
+      "blanked": "Why Can Heart Damage Appear Years After Cancer ______",
+      "answer": "Treatment",
+      "options": [
+        "RBI",
+        "Treatment",
+        "Aden",
+        "India"
+      ]
+    },
+    {
+      "blanked": "Seven Stabbed At High School In Poland, 19-Year-Old ______",
+      "answer": "Arrested",
+      "options": [
+        "Khan",
+        "Symptoms",
+        "Bloc",
+        "Arrested"
       ]
     }
   ]
