@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-10-07T00:18:01.800Z",
+  "generatedAt": "2026-10-07T06:15:30.103Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "Rahul calls SIR ‘treason’ as INDIA unites against ECI; MPs detained",
-    "Israel prepared to shoot down FlyDubai plane after cockpit attack: CBS",
-    "4.9-magnitude earthquake hits Uttarakhand, tremors felt in Delhi-NCR",
-    "Punjab & Haryana High Court Directs CBI To Register Corruption Case Against Punjab CM Bhagwant Mann's Close Aide",
-    "Yemen forces claim key gains near Bab al-Mandeb: What’s the latest?",
-    "CJI Surya Kant: Any modified Form 6 not approved by Supreme Court",
-    "By-Election 2026 Live Updates: Humayun Kabir Arrested Over Allegations Of Trying To Influence Voters",
-    "Cabinet Adopts Resolution On PM Modi's Achievements In Last 25 Years",
-    "Rajnath launches India’s first fleet support ship ‘Surya’ at Visakhapatnam; witnesses delivery of 2,000th",
-    "Explainer: Why have India-US trade talks stalled again and what's next?",
-    "Pneumonic plague: As fear grips after Siberia lab accident, Delhi NCR doctor explains how the plague spre",
-    "Two lethal doses failed to kill Christa Pike. The science behind a botched US execution",
-    "France tests upgraded nuclear missile against backdrop of Russia tensions",
+    "RBI MPC meeting LIVE updates: Repo rate hiked by 25 basis points to 5.50%; real GDP growth for FY27 projected at 7.1%",
+    "Gyanesh Kumar: Police detain opposition leaders in Delhi demanding election commission chief's resignation",
+    "Russia says tanker crew rescued in Black Sea after attack set ship ablaze",
+    "Politicians slam Trump’s suggestion that Iran ‘take’ San Diego, Los Angeles",
+    "FlyDubai Attacker Was Part of Pilot Hiring Spree at Fast-Growing Airline",
+    "Christa Pike lawyers say she is speaking one week after failed execution",
+    "Bhuj Earthquake, Covid, Media: PM Modi On Lessons Learnt During 25-Year Journey",
+    "India proposes 3-part truce amid Russia-Ukraine war to keep grain, energy flowing | India News",
+    "CEC Gyanesh Kumar’s Chhattisgarh visit postponed",
+    "Punjab Govt Moves Supreme Court Against HC Order For CBI Probe Into Corruption Allegations Linked To...",
+    "\"Nobody Seems To Care\": Russian City Shrugs Off Plague Reports",
+    "EXCLUSIVE: Vance says Iran must cut enrichment to end war",
+    "How Did flydubai Plane Survive 17,000-Foot Dive? Veteran Pilot Explains",
     "Student protests France: Students, teachers march in France on biggest day of school protests",
-    "Centre to propose five-pronged reform plan at GST Council meeting on October 8",
-    "Exclusive | Relief for airlines: Govt defers 265 flights cut proposal at Mumbai T2",
-    "Trading Plan: Can Nifty 50, Bank Nifty surpass Monday’s high and extend their uptrend for another...",
-    "'10 Lakh Livelihoods At Risk': IBAI Opposes IRDAI's Proposed Distribution Reforms; Seeks PM Modi's Intervention",
-    "Apple Tightens Consent Controls on Mac Full Disk Access as AI Agents Raise Privacy Risks",
-    "Minecraft 26.4 Snapshot 4 patch notes: Ice Caves Biome, Frostbite Mob, and more",
-    "Today’s NYT Strands Hints, Answers and Help for Oct. 7, #948",
-    "Watch the vivo V80 announcement live here",
-    "Drishyam The Conclusion Box Office Collections: Ajay Devgn starrer holds well on Monday, Nets Rs. 192 Cr in four days in India",
-    "Paramount takes over Warner Bros after winning battle with Netflix | Skydance will also own 2 streaming services | Inshorts",
-    "WWE Money in the Bank Google Searches Down 60% From 2025"
+    "Indian shares trim losses after hawkish RBI rate hike as financials rebound",
+    "IRDAI rules out glide path for commission caps; open to blended commissions; wants insurance to be bought,...",
+    "Gulf Oil Exports Recover to 81% of Pre-War Levels",
+    "India’s motorbike billionaire steering the tussle at Tata",
+    "NYT Strands hints, answers for October 6, 2026",
+    "Vivo V80 launched with 7200mAh battery, 50MP ZEISS camera and 10x optical zoom; price starts at Rs 62,999",
+    "Minecraft 26.4 Snapshot 3 Adds Ice Caves, Frostbite, and More Winter Drop Features",
+    "Vivo OriginOS 7 India Rollout Schedule Out: Full List Of Eligible Phones, Update Timeline",
+    "‘Drishyam 3’ box office collection day 5: Ajay Devgn and Tabu's film crosses Rs 216 crore on Tuesday; inc",
+    "Qazi Touqeer's Team On Reports Of His Exit From Bigg Boss 20: \"He Has Been Dealing With Fever\"",
+    "Madhuri Dixit Channels Her Inner Diva On Kaun Banega Crorepati, Amitabh Bachchan In Awe"
   ],
   "quiz": [
     {
-      "blanked": "Centre to propose five-pronged reform plan at GST Council meeting on ______ 8",
-      "answer": "October",
+      "blanked": "Politicians slam Trump’s suggestion that ______ ‘take’ San Diego, Los Angeles",
+      "answer": "Iran",
       "options": [
-        "Full",
-        "October",
-        "Register",
-        "2026"
+        "Seven",
+        "Iran",
+        "Exit",
+        "Devgn"
       ]
     },
     {
-      "blanked": "Minecraft 26.4 Snapshot 4 patch notes: ______ Caves Biome, Frostbite Mob, and more",
-      "answer": "Ice",
+      "blanked": "India vs New ______ Bhuvneshwar Kumar returns to India's T20I squad",
+      "answer": "Zealand",
       "options": [
-        "Adopts",
-        "Court",
-        "Ice",
-        "Bhuvneshwar"
+        "City",
+        "Airline",
+        "Zealand",
+        "Exports"
       ]
     },
     {
-      "blanked": "Apple Tightens Consent Controls on ______ Full Disk Access as AI Agents Raise Privacy Risks",
-      "answer": "Mac",
+      "blanked": "How Did flydubai Plane Survive 17,000-Foot Dive? Veteran Pilot ______",
+      "answer": "Explains",
       "options": [
-        "GST",
-        "Controls",
-        "Mac",
-        "Access"
+        "Explains",
+        "Order",
+        "Hiring",
+        "Moves"
       ]
     },
     {
-      "blanked": "Punjab & Haryana High Court Directs CBI To Register Corruption Case Against Punjab CM Bhagwant Mann's Close ______",
-      "answer": "Aide",
+      "blanked": "EXCLUSIVE: Vance says ______ must cut enrichment to end war",
+      "answer": "Iran",
       "options": [
-        "Aide",
-        "Corruption",
-        "Caves",
-        "Russia"
+        "Iran",
+        "Fibrosis",
+        "Recover",
+        "Bigg"
       ]
     },
     {
-      "blanked": "WWE Money in the Bank Google ______ Down 60% From 2025",
-      "answer": "Searches",
+      "blanked": "India’s motorbike billionaire steering the tussle at ______",
+      "answer": "Tata",
       "options": [
-        "Devgn",
-        "Blunt",
-        "Searches",
-        "Agents"
+        "Tata",
+        "Thalassaemia",
+        "Inner",
+        "Levels"
       ]
     },
     {
-      "blanked": "Broadly Protective Influenza ______ Could Blunt Pandemics",
-      "answer": "Vaccines",
+      "blanked": "Bhuj Earthquake, Covid, Media: PM ______ On Lessons Learnt During 25-Year Journey",
+      "answer": "Modi",
       "options": [
-        "MPs",
-        "948",
-        "Collections",
-        "Vaccines"
+        "Linked",
+        "Iran",
+        "Modi",
+        "7.1%"
       ]
     },
     {
-      "blanked": "New ______ declares disaster emergency over measles outbreak",
-      "answer": "York",
+      "blanked": "FlyDubai ______ Was Part of Pilot Hiring Spree at Fast-Growing Airline",
+      "answer": "Attacker",
       "options": [
-        "Govt",
-        "Christa",
-        "York",
-        "Directs"
+        "Attacker",
+        "GDP",
+        "Benin",
+        "7.1%"
       ]
     },
     {
-      "blanked": "Student protests France: Students, teachers march in ______ on biggest day of school protests",
-      "answer": "France",
+      "blanked": "India vs Uruguay football 2026: Lightning breaks Blue ______ rhythm as Forlan’s boys bag 6-1 win",
+      "answer": "Tigers",
       "options": [
-        "France",
-        "Manns",
-        "Intervention",
-        "Bank"
+        "Dixit",
+        "Tigers",
+        "News",
+        "Devgn"
       ]
     },
     {
-      "blanked": "Trading Plan: Can Nifty 50, Bank ______ surpass Monday’s high and extend their uptrend for another...",
-      "answer": "Nifty",
+      "blanked": "New York declares first US measles disaster emergency since ______ surge",
+      "answer": "2025",
       "options": [
-        "Directs",
-        "948",
-        "Form",
-        "Nifty"
+        "Diva",
+        "Indias",
+        "Plague",
+        "2025"
       ]
     },
     {
-      "blanked": "Exclusive | ______ for airlines: Govt defers 265 flights cut proposal at Mumbai T2",
-      "answer": "Relief",
+      "blanked": "India name new captain after ______ Kaur steps down",
+      "answer": "Harmanpreet",
       "options": [
-        "Register",
-        "Uttarakhand",
-        "Relief",
-        "Bank"
+        "Rollout",
+        "7.1%",
+        "Eligible",
+        "Harmanpreet"
       ]
     },
     {
-      "blanked": "India squad for New Zealand T20 ______ Bhuvneshwar Kumar returns after nearly four years",
-      "answer": "2026",
+      "blanked": "RBI MPC meeting LIVE updates: ______ rate hiked by 25 basis points to 5.50%; real GDP growth for FY27 projected at 7.1%",
+      "answer": "Repo",
       "options": [
-        "2026",
-        "Repair",
-        "Seeks",
-        "Answers"
+        "Repo",
+        "216",
+        "News",
+        "Corruption"
       ]
     },
     {
-      "blanked": "Yemen forces claim key gains near Bab al-Mandeb: ______ the latest?",
-      "answer": "Whats",
+      "blanked": "Targeting the Disease Mechanism in PFIC, With ______ Hayashi, PhD",
+      "answer": "Hisamitsu",
       "options": [
-        "Tightens",
-        "Pandemics",
-        "Plan",
-        "Whats"
+        "Hisamitsu",
+        "Forlans",
+        "Inshorts",
+        "Lessons"
       ]
     }
   ]
