@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-10-08T17:53:01.783Z",
+  "generatedAt": "2026-10-08T22:44:12.167Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "Trump says US will not attack Iran before midterm elections in November",
-    "Three killed, 36 injured in Houthi attacks on Saudi airports, Riyadh says",
     "CEC-SIR row highlights on October 8: Opposition leaders say will continue protest against CEC, ‘vote chori’",
     "GST Council meet highlights: GST Council reforms to kick in from April 2027",
-    "42 Former Judges Write Open Letter, Warn Against Vote Theft Allegations",
+    "Plane damaged at Riyadh airport as Houthis escalate attacks, sources say",
     "As Munir's military takes on Gulf role, Pakistan's parliament is not involved",
-    "Delhi Police on CEC protests: ‘Wrongful influence’ misleading youth, gatherings under Section 163 illegal",
-    "Cancer drugs prices could fall by 70% as government plans profit margin caps",
+    "Trump says US will not attack Iran before midterm elections in November",
+    "French students keep up protest pressure with some demonstrations hit by violence",
     "Supreme Court Adjourns Punjab Plea Challenging CBI Probe Against CM Bhagwant Mann's OSD Till Tomorrow",
-    "Delhi Weather Tomorrow: Rain Forecast and IMD Alert",
-    "Nobel Prize in Literature goes to Canadian author Anne Carson",
-    "Russian attack on buses in Ukraine’s Kramatorsk kills at least 30 people",
-    "7 Things Nobel Laureates Get Besides Medal And Money",
+    "Watch: Rat found swimming in gulab jamun container at Bhiwandi sweet shop; FDA orders closure",
+    "G20-like security for CJP protest, 12,000 paramilitary personnel airlifted to Delhi",
+    "SIR Judgment Must Be Recalled As ECI Played Fraud On Supreme Court By Misrepresenting Facts : Ex-SC Judge ...",
+    "Saudi Arabia launches air safety probe into flydubai incident: Report",
+    "Putin In Talks With Iran's Pezeshkian: Russia Is Ready To Undertake All Measures To End Iran Conflict",
     "El Nino Will Intensify, Then Peak In December, United Nations Warns",
-    "Sensex falls over 1,000 points, Nifty at lowest level in nearly 18 months",
-    "US suspends Microsoft, Infosys, TCS, Wipro, Cognizant from green card programme over alleged H-1B abuse",
-    "Elon Musk questions Ambani’s influence as Starlink India launch stalls",
-    "TCS Q2 results: Net profit rises 15% to ₹13,884 crore, revenue up 11.2%",
-    "Amazon unveils new Alexa tablets with Alexa+ and Google Play Store access",
-    "Apple TV announces major F1 broadcast upgrade for United States Grand Prix",
-    "Amazon Great Indian Festival Sale 2026: Get up to 46% off on laptops from Lenovo, Asus, HP and more",
-    "Google Chrome Update Fixes Massive 247 Vulnerabilities, Including 4 Code Execution Flaws",
-    "Outspoken Indian actor Nana Patekar dies suddenly at 75",
-    "'Drishyam 3: The Conclusion' box office collection day 6: Ajay Devgn and Tabu's film earns Rs 15.50 cr an",
-    "Thai stars Gemini Norawit and Fourth Nattawat hit with backlash and 'racism' allegations over 'Bollywood"
+    "Venezuela’s Nicolas Maduro and his wife charged over torture allegations",
+    "Cognizant, Infosys, Tata, Wipro and HCL among IT firms suspended from U.S. green card programme",
+    "International Growth and Strategic Wins Underpin TCS’ Q2",
+    "Stock Market Today Highlights, Oct 8: Sensex tanks 1,045 pts, Nifty sheds 371 pts to close lower",
+    "Markets News, Oct. 8, 2026: AI Stock Selloff Pills Nasdaq, S&P 500 Lower; Oil Prices Surge on Middle East, Hurricane Worries",
+    "Amazon's new Alexa Tablets use the Google Play Store and are more capable than Fire tablets - GSMArena.com news",
+    "Apple Product Launch Announced for October 13: 'Welcome Home'",
+    "Amazon Great India Festival opens with 100 per cent y-o-y growth in order volume",
+    "Oppo Find X10 and Find X10 Pro Max to launch globally on October 21 - GSMArena.com news",
+    "Nana Patekar laid to rest with full state honours in Pune, Eknath Shinde, Tukaram Mundhe, Jackie Shroff a",
+    "Nobel Prize in Literature goes to Canadian author Anne Carson",
+    "Jailer 2 Trailer Impact At Box Office Day 1: Rajinikanth’s Magnum Opus Likely To Score Kollywood’s Biggest Opening Ever In India!"
   ],
   "quiz": [
     {
-      "blanked": "'Drishyam 3: The Conclusion' box office collection day 6: Ajay Devgn and Tabu's film earns Rs ______ cr an",
-      "answer": "15.50",
+      "blanked": "G20-like security for CJP protest, ______ paramilitary personnel airlifted to Delhi",
+      "answer": "12000",
       "options": [
-        "15.50",
-        "Prize",
-        "Ends",
-        "Kumars"
+        "Ex-SC",
+        "Bank",
+        "1045",
+        "12000"
       ]
     },
     {
-      "blanked": "CEC-SIR row highlights on October 8: Opposition leaders say will continue protest against ______ ‘vote chori’",
-      "answer": "CEC",
+      "blanked": "Asian Games 2026, India's Medal ______ | Full List",
+      "answer": "Tally",
       "options": [
-        "Starlink",
-        "Things",
-        "Vardhan",
-        "CEC"
+        "Fraud",
+        "Mariners",
+        "Tally",
+        "Maduro"
       ]
     },
     {
-      "blanked": "Amazon unveils new Alexa tablets with Alexa+ and ______ Play Store access",
-      "answer": "Google",
+      "blanked": "World ______ Championship final rematch could shape next year's decider",
+      "answer": "Test",
       "options": [
-        "Lights",
-        "Bhagwant",
-        "Google",
-        "Harsha"
-      ]
-    },
-    {
-      "blanked": "7 Things Nobel ______ Get Besides Medal And Money",
-      "answer": "Laureates",
-      "options": [
-        "Laureates",
-        "Vote",
-        "Canadian",
-        "India"
-      ]
-    },
-    {
-      "blanked": "Google Chrome Update Fixes Massive 247 Vulnerabilities, Including 4 Code ______ Flaws",
-      "answer": "Execution",
-      "options": [
-        "Subclinical",
-        "Ends",
-        "Obesity",
-        "Execution"
-      ]
-    },
-    {
-      "blanked": "Delhi Police on CEC protests: ‘Wrongful influence’ misleading youth, gatherings under ______ 163 illegal",
-      "answer": "Section",
-      "options": [
-        "Manns",
-        "Section",
-        "Telugu",
-        "Probe"
-      ]
-    },
-    {
-      "blanked": "Change lifestyle before giving children weight loss medication, ______ says",
-      "answer": "WHO",
-      "options": [
-        "IFA",
-        "Riyadh",
-        "Thursday",
-        "WHO"
-      ]
-    },
-    {
-      "blanked": "Trump says US will not attack ______ before midterm elections in November",
-      "answer": "Iran",
-      "options": [
-        "Tissue",
-        "World",
-        "Iran",
-        "Win"
-      ]
-    },
-    {
-      "blanked": "US suspends Microsoft, ______ TCS, Wipro, Cognizant from green card programme over alleged H-1B abuse",
-      "answer": "Infosys",
-      "options": [
-        "Cognizant",
-        "Infosys",
-        "2027",
-        "Plea"
-      ]
-    },
-    {
-      "blanked": "Three killed, 36 injured in ______ attacks on Saudi airports, Riyadh says",
-      "answer": "Houthi",
-      "options": [
-        "Council",
-        "Gulf",
-        "Houthi",
-        "TCS"
-      ]
-    },
-    {
-      "blanked": "TCS Q2 results: ______ profit rises 15% to ₹13,884 crore, revenue up 11.2%",
-      "answer": "Net",
-      "options": [
-        "Obesity",
-        "Theft",
-        "Net",
-        "Mariners"
-      ]
-    },
-    {
-      "blanked": "Thai stars Gemini Norawit and Fourth ______ hit with backlash and 'racism' allegations over 'Bollywood",
-      "answer": "Nattawat",
-      "options": [
-        "Microsoft",
-        "Nattawat",
+        "Plea",
         "Test",
-        "Kumars"
+        "Ends",
+        "Pills"
+      ]
+    },
+    {
+      "blanked": "A conversation about the cycle of ADHD and sleep problems in children, with Alison ______ Ph.D.",
+      "answer": "Pritchard",
+      "options": [
+        "Irans",
+        "Lower",
+        "Nobel",
+        "Pritchard"
+      ]
+    },
+    {
+      "blanked": "CEC-SIR row highlights on ______ 8: Opposition leaders say will continue protest against CEC, ‘vote chori’",
+      "answer": "October",
+      "options": [
+        "Likely",
+        "Report",
+        "October",
+        "371"
+      ]
+    },
+    {
+      "blanked": "Where the northern lights are heading in the U.S. and ______ tonight, and how to catch them",
+      "answer": "Canada",
+      "options": [
+        "Supreme",
+        "Bhiwandi",
+        "Championship",
+        "Canada"
+      ]
+    },
+    {
+      "blanked": "NCCN collaborates with global organizations to launch tailored cancer guidelines for Philippines - ______",
+      "answer": "News-Medical",
+      "options": [
+        "News-Medical",
+        "Rat",
+        "Probe",
+        "Opus"
+      ]
+    },
+    {
+      "blanked": "East ______ vs Mohun Bagan Highlights: Zeljkovic grabs winner as Mariners win IFA Shield 2026",
+      "answer": "Bengal",
+      "options": [
+        "Day",
+        "Tukaram",
+        "Bengal",
+        "Surge"
+      ]
+    },
+    {
+      "blanked": "Amazon's new Alexa Tablets use the Google Play ______ and are more capable than Fire tablets - GSMArena.com news",
+      "answer": "Store",
+      "options": [
+        "Nino",
+        "Anne",
+        "Store",
+        "Earth"
+      ]
+    },
+    {
+      "blanked": "Saudi Arabia launches air safety probe into flydubai incident: ______",
+      "answer": "Report",
+      "options": [
+        "End",
+        "Report",
+        "November",
+        "Shroff"
+      ]
+    },
+    {
+      "blanked": "Venezuela’s Nicolas ______ and his wife charged over torture allegations",
+      "answer": "Maduro",
+      "options": [
+        "Bengal",
+        "Patekar",
+        "Office",
+        "Maduro"
+      ]
+    },
+    {
+      "blanked": "Watch: ______ found swimming in gulab jamun container at Bhiwandi sweet shop; FDA orders closure",
+      "answer": "Rat",
+      "options": [
+        "ECI",
+        "Opposition",
+        "Rat",
+        "Ends"
       ]
     }
   ]
