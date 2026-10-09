@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-10-08T22:44:12.167Z",
+  "generatedAt": "2026-10-09T02:34:45.672Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
+    "Flydubai cockpit attack: Israel to honour Indian pilot Smit Machchhar with top civilian bravery award",
     "CEC-SIR row highlights on October 8: Opposition leaders say will continue protest against CEC, ‘vote chori’",
     "GST Council meet highlights: GST Council reforms to kick in from April 2027",
-    "Plane damaged at Riyadh airport as Houthis escalate attacks, sources say",
-    "As Munir's military takes on Gulf role, Pakistan's parliament is not involved",
     "Trump says US will not attack Iran before midterm elections in November",
+    "Three killed, 36 injured in Houthi attacks on Saudi airports, Riyadh says",
     "French students keep up protest pressure with some demonstrations hit by violence",
-    "Supreme Court Adjourns Punjab Plea Challenging CBI Probe Against CM Bhagwant Mann's OSD Till Tomorrow",
-    "Watch: Rat found swimming in gulab jamun container at Bhiwandi sweet shop; FDA orders closure",
-    "G20-like security for CJP protest, 12,000 paramilitary personnel airlifted to Delhi",
-    "SIR Judgment Must Be Recalled As ECI Played Fraud On Supreme Court By Misrepresenting Facts : Ex-SC Judge ...",
-    "Saudi Arabia launches air safety probe into flydubai incident: Report",
+    "Bypoll results LIVE: Vote counting to start soon for five Assembly seats, one Lok Sabha constituency",
+    "Supreme Court Questions Jharkhand DGP Appointment Rule, Asks Amicus To Examine Validity Of Other States'...",
+    "From 19 havai sepoys to a formidable air force in the world, IAF celebrates its 94-year-old glorious jour",
+    "Democracy should function under Constitution, elections should be fair: Murli Manohar Joshi",
+    "US to livestream execution of Fort Hood mass shooter Nidal Hasan on December 3",
+    "Russian attack on buses in Ukraine’s Kramatorsk kills at least 30 people",
+    "'Operation Economic Outcast': US sanctions two Mumbai firms, five Indians over alleged Iran oil trade",
     "Putin In Talks With Iran's Pezeshkian: Russia Is Ready To Undertake All Measures To End Iran Conflict",
-    "El Nino Will Intensify, Then Peak In December, United Nations Warns",
-    "Venezuela’s Nicolas Maduro and his wife charged over torture allegations",
     "Cognizant, Infosys, Tata, Wipro and HCL among IT firms suspended from U.S. green card programme",
-    "International Growth and Strategic Wins Underpin TCS’ Q2",
-    "Stock Market Today Highlights, Oct 8: Sensex tanks 1,045 pts, Nifty sheds 371 pts to close lower",
-    "Markets News, Oct. 8, 2026: AI Stock Selloff Pills Nasdaq, S&P 500 Lower; Oil Prices Surge on Middle East, Hurricane Worries",
-    "Amazon's new Alexa Tablets use the Google Play Store and are more capable than Fire tablets - GSMArena.com news",
-    "Apple Product Launch Announced for October 13: 'Welcome Home'",
+    "Stock Market Today: Nasdaq, S&P 500 Sink as AI Stocks Sell Off; Oil Prices Surge on Middle East, Hurricane Worries",
+    "India rate hike will not stem outflows, leaving central bank in a bind",
+    "Stock Market Crash Highlights: Nifty 50 Hits 18-Month Low; Sensex Tanks 1,100 Points; ITC, IndiGo Among Top Losers",
+    "Microsoft makes Windows work better with AI agents, launches Surface Laptop Ultra with 128GB RAM",
+    "Today’s NYT Strands Hints, Spangram and Answers for Friday, Oct. 9, #950",
     "Amazon Great India Festival opens with 100 per cent y-o-y growth in order volume",
-    "Oppo Find X10 and Find X10 Pro Max to launch globally on October 21 - GSMArena.com news",
-    "Nana Patekar laid to rest with full state honours in Pune, Eknath Shinde, Tukaram Mundhe, Jackie Shroff a",
+    "Oppo Find X10 series with ColorOS 17 to make global debut next week",
+    "Veteran Actor Nana Patekar Cremated With State Honours At Pune Farmhouse",
     "Nobel Prize in Literature goes to Canadian author Anne Carson",
-    "Jailer 2 Trailer Impact At Box Office Day 1: Rajinikanth’s Magnum Opus Likely To Score Kollywood’s Biggest Opening Ever In India!"
+    "Rajkummar Rao responds to criticism for poster of Sourav Ganguly biopic Dada: ‘Ones who made it learnt their lesson’ | Bollywood"
   ],
   "quiz": [
     {
-      "blanked": "G20-like security for CJP protest, ______ paramilitary personnel airlifted to Delhi",
-      "answer": "12000",
+      "blanked": "GST Council meet highlights: GST Council reforms to kick in from ______ 2027",
+      "answer": "April",
       "options": [
-        "Ex-SC",
-        "Bank",
-        "1045",
-        "12000"
+        "April",
+        "Off",
+        "Hits",
+        "CEC"
       ]
     },
     {
-      "blanked": "Asian Games 2026, India's Medal ______ | Full List",
-      "answer": "Tally",
+      "blanked": "Asian Games 2026, ______ Medal Tally | Full List",
+      "answer": "Indias",
       "options": [
-        "Fraud",
-        "Mariners",
-        "Tally",
-        "Maduro"
+        "1100",
+        "Highlights",
+        "India",
+        "Indias"
       ]
     },
     {
-      "blanked": "World ______ Championship final rematch could shape next year's decider",
-      "answer": "Test",
+      "blanked": "From 19 havai sepoys to a formidable air force in the world, ______ celebrates its 94-year-old glorious jour",
+      "answer": "IAF",
       "options": [
-        "Plea",
-        "Test",
-        "Ends",
-        "Pills"
+        "IAF",
+        "2026",
+        "Amicus",
+        "All"
       ]
     },
     {
-      "blanked": "A conversation about the cycle of ADHD and sleep problems in children, with Alison ______ Ph.D.",
-      "answer": "Pritchard",
+      "blanked": "WWE Women's ______ In The Bank 2026: Who Should Win? (POLL)",
+      "answer": "Money",
       "options": [
-        "Irans",
-        "Lower",
-        "Nobel",
-        "Pritchard"
+        "Money",
+        "India",
+        "Sooryavanshis",
+        "Oil"
       ]
     },
     {
-      "blanked": "CEC-SIR row highlights on ______ 8: Opposition leaders say will continue protest against CEC, ‘vote chori’",
-      "answer": "October",
+      "blanked": "Veteran Actor Nana Patekar ______ With State Honours At Pune Farmhouse",
+      "answer": "Cremated",
       "options": [
-        "Likely",
-        "Report",
-        "October",
-        "371"
+        "Low",
+        "Cremated",
+        "Losers",
+        "HCL"
       ]
     },
     {
-      "blanked": "Where the northern lights are heading in the U.S. and ______ tonight, and how to catch them",
-      "answer": "Canada",
+      "blanked": "'Dude! No way!' Scientists jump for joy over ______ II moon science results",
+      "answer": "Artemis",
       "options": [
-        "Supreme",
-        "Bhiwandi",
-        "Championship",
-        "Canada"
+        "NYT",
+        "Artemis",
+        "ColorOS",
+        "Sell"
       ]
     },
     {
-      "blanked": "NCCN collaborates with global organizations to launch tailored cancer guidelines for Philippines - ______",
-      "answer": "News-Medical",
+      "blanked": "Oppo ______ X10 series with ColorOS 17 to make global debut next week",
+      "answer": "Find",
       "options": [
-        "News-Medical",
-        "Rat",
-        "Probe",
-        "Opus"
+        "Iran",
+        "Find",
+        "Full",
+        "Prices"
       ]
     },
     {
-      "blanked": "East ______ vs Mohun Bagan Highlights: Zeljkovic grabs winner as Mariners win IFA Shield 2026",
-      "answer": "Bengal",
+      "blanked": "Change lifestyle before giving children weight loss medication, ______ says",
+      "answer": "WHO",
       "options": [
-        "Day",
-        "Tukaram",
-        "Bengal",
-        "Surge"
+        "Market",
+        "WHO",
+        "GST",
+        "Assembly"
       ]
     },
     {
-      "blanked": "Amazon's new Alexa Tablets use the Google Play ______ and are more capable than Fire tablets - GSMArena.com news",
-      "answer": "Store",
+      "blanked": "Democracy should function under Constitution, elections should be fair: Murli Manohar ______",
+      "answer": "Joshi",
       "options": [
-        "Nino",
         "Anne",
-        "Store",
-        "Earth"
+        "Ukraines",
+        "NASAs",
+        "Joshi"
       ]
     },
     {
-      "blanked": "Saudi Arabia launches air safety probe into flydubai incident: ______",
-      "answer": "Report",
+      "blanked": "Russian attack on buses in ______ Kramatorsk kills at least 30 people",
+      "answer": "Ukraines",
       "options": [
-        "End",
-        "Report",
-        "November",
-        "Shroff"
+        "Appointment",
+        "Should",
+        "Ukraines",
+        "Ones"
       ]
     },
     {
-      "blanked": "Venezuela’s Nicolas ______ and his wife charged over torture allegations",
-      "answer": "Maduro",
+      "blanked": "Flydubai cockpit attack: Israel to honour Indian pilot ______ Machchhar with top civilian bravery award",
+      "answer": "Smit",
       "options": [
-        "Bengal",
-        "Patekar",
-        "Office",
-        "Maduro"
+        "Mumbai",
+        "Smit",
+        "IndiGo",
+        "Today"
       ]
     },
     {
-      "blanked": "Watch: ______ found swimming in gulab jamun container at Bhiwandi sweet shop; FDA orders closure",
-      "answer": "Rat",
+      "blanked": "Today’s NYT Strands Hints, ______ and Answers for Friday, Oct. 9, #950",
+      "answer": "Spangram",
       "options": [
-        "ECI",
+        "Win",
         "Opposition",
-        "Rat",
-        "Ends"
+        "Sourav",
+        "Spangram"
       ]
     }
   ]
