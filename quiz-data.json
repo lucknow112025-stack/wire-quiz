@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-10-10T18:00:34.427Z",
+  "generatedAt": "2026-10-10T21:40:24.148Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "Anti-CEC protest LIVE updates: 'We still don't know where they are', CJP members allege they have no information on detained CJP leaders' whereabouts",
+    "Anti-CEC protest LIVE updates: CJP calls for another protest at Jantar Mantar on Sunday; UNHRC demands immediate release of demonstrators | LIVE",
     "BREAKING| Supreme Court To Hold Sunday Sitting To Hear Contempt Plea Over Closure Of Metro Stations &...",
-    "Delhi protest: Arvind Kejriwal detained by Delhi Police while marching to Jantar Mantar",
-    "Riyadh’s King Khalid International Airport has come under another attack, reports say",
-    "Flydubai co-pilot planned suicide attack in Israel inspired by 9/11",
-    "'India Is Not A Banana Republic': BJP Attacks Congress, CJP Amid Protest Crackdown",
-    "'Suspicion Is Not Proof': 124 Ex-Bureaucrats Defend Election Commission",
-    "Delhi Riots: Court convicts Tahir Hussain for abetment",
-    "Computer scientist, IT pro, former AAP: Meet Ajinkya Shinde, new CJP leader in-charge of October 10 protest",
+    "Several injured after attack on Saudi Arabia's Riyadh airport",
+    "'Fight should be face-to-face': CM Yogi accepts Akhilesh's Ayodhya challenge",
+    "'Time for Ukraine to get a new president': Trump targets Zelenskyy as US eases Russian diesel curbs",
+    "Delhi protest: Stopped at police barricades, daily-wage workers lose day’s earnings",
+    "PM Modi’s Chennai visit: traffic diversions on October 11",
+    "CEC Protest: CJP Member Moves Supreme Court Seeking Release of Abhijeet Dipke, Saurav Das & Others Over...",
     "IAF chief says US has made no official offer for F-35: 'Your people don’t let us near the aircraft' | India News",
-    "Why Zelenskyy slammed Trump's Russian diesel deal after deadly strikes on Ukraine",
-    "Trump says Norway has 'indelible stain' for not awarding him Nobel Peace Prize",
-    "World News Today Live Updates: Tennessee’s Christa Pike, who survived execution attempt, discharged from hospital",
-    "Hurricane Isaias Shuts In 71% of U.S. Gulf Oil Production",
+    "4.2-Magnitude Earthquake Hits Uttarakhand's Uttarkashi",
+    "Christa Pike discharged from hospital and returned to Tennessee prison",
+    "Pregnant woman & 2 children among 9 killed in Pennsylvania shooting; gunman dies by suicide",
+    "Kamala Harris faces pushback over 2028 presidential bid as husband, Democratic donors express doubts: Rep",
+    "Flydubai co-pilot planned suicide attack in Israel inspired by 9/11",
     "SEBI to issue CAS guidelines in a week, says chief Tuhin Kanta Pandey",
-    "India’s central bank tries to shore up rupee as it nears record lows",
     "Elon Musk intensifies attack on Ambani over Starlink India launch delay",
-    "DMart’s Q2FY27 net profit rises 8.5% to Rs 743 crore, revenue grows 17.8%",
-    "Reliance Digital back with Festival of Electronics: Deals on iPhone 17 Pro & Appliances",
-    "Today’s NYT Strands Hints, Spangram and Answers for Saturday, Oct. 10, #951",
-    "Amazon Great Indian Festival Deals: Top Noise-Cancelling Wireless Headphones And Earbuds Under Rs. 4,000",
-    "Amazon, Flipkart see strong start to 2026 festive sales",
-    "Drishyam The Conclusion Box Office Collections: Ajay Devgn starrer surpass Rs. 250 Cr with a very good 2nd Friday in India",
+    "Philips wins Dutch court battle with shareholders over recall",
+    "India’s central bank tries to shore up rupee as it nears record lows",
+    "Today’s NYT Strands Hints, Spangram and Answers for Sunday, Oct. 11, #952",
+    "Amazon washing machine deals: 5 AI-powered models with prices starting at just ₹20,990 | Technology News\n(HT Tech)",
+    "iQOO 16 confirmed for India, to feature Snapdragon 8 Elite Extreme Gen 6 chip",
+    "E-commerce festive sales kick off with strong demand from smaller towns, premium buys gain traction",
+    "'Drishyam 3 The Conclusion' box office collection Day 9 [LIVE]: Ajay Devgn film heads into second weekend",
     "Nushrratt Bharuccha shares FIRST post after Bali spine injury, tells fans she has not lost hope and wants",
-    "Mr Faisu gets married in Medina, shares wedding photos: ‘Blessing beyond words’"
+    "Tanushree Dutta says Nana Patekar made her life “hell”, \"troubled\" her even in death"
   ],
   "quiz": [
     {
-      "blanked": "Delhi Riots: ______ convicts Tahir Hussain for abetment",
-      "answer": "Court",
+      "blanked": "'Drishyam 3 The ______ box office collection Day 9 [LIVE]: Ajay Devgn film heads into second weekend",
+      "answer": "Conclusion",
       "options": [
-        "Spangram",
+        "Australia",
+        "ASHARQ",
+        "Conclusion",
+        "INDCH"
+      ]
+    },
+    {
+      "blanked": "Philips wins ______ court battle with shareholders over recall",
+      "answer": "Dutch",
+      "options": [
+        "Metro",
+        "1968",
+        "Snapdragon",
+        "Dutch"
+      ]
+    },
+    {
+      "blanked": "iQOO 16 confirmed for ______ to feature Snapdragon 8 Elite Extreme Gen 6 chip",
+      "answer": "India",
+      "options": [
+        "Award",
+        "190",
         "Hold",
-        "Trumps",
-        "Court"
-      ]
-    },
-    {
-      "blanked": "India, West Indies brace for another run-fest in ______",
-      "answer": "Indore",
-      "options": [
-        "Duck",
-        "911",
-        "Indore",
-        "Risk"
-      ]
-    },
-    {
-      "blanked": "Francis Halsen's ______ Nobel Award has an India connection",
-      "answer": "Physics",
-      "options": [
-        "Departs",
-        "Physics",
-        "Inshorts",
-        "Diabetes"
-      ]
-    },
-    {
-      "blanked": "Mr ______ gets married in Medina, shares wedding photos: ‘Blessing beyond words’",
-      "answer": "Faisu",
-      "options": [
-        "Lee",
-        "Sclerosis",
-        "Faisu",
-        "Congress"
-      ]
-    },
-    {
-      "blanked": "Nushrratt Bharuccha shares ______ post after Bali spine injury, tells fans she has not lost hope and wants",
-      "answer": "FIRST",
-      "options": [
-        "FIRST",
-        "Prize",
-        "Plea",
-        "Departs"
+        "India"
       ]
     },
     {
       "blanked": "SEBI to issue CAS guidelines in a week, says chief Tuhin ______ Pandey",
       "answer": "Kanta",
       "options": [
-        "Kanta",
-        "Pike",
         "2026",
-        "Live"
-      ]
-    },
-    {
-      "blanked": "World News Today Live Updates: ______ Christa Pike, who survived execution attempt, discharged from hospital",
-      "answer": "Tennessees",
-      "options": [
-        "Not",
-        "AAP",
-        "Halsens",
-        "Tennessees"
-      ]
-    },
-    {
-      "blanked": "Amazon Great Indian Festival Deals: Top ______ Wireless Headphones And Earbuds Under Rs. 4,000",
-      "answer": "Noise-Cancelling",
-      "options": [
-        "2026",
-        "Arvind",
-        "Noise-Cancelling",
-        "Bharuccha"
-      ]
-    },
-    {
-      "blanked": "IAF chief says US has made no official offer for F-35: 'Your people don’t let us near the aircraft' | ______ News",
-      "answer": "India",
-      "options": [
-        "India",
-        "Digital",
-        "Faisu",
-        "Norway"
-      ]
-    },
-    {
-      "blanked": "Multiple Sclerosis Knowledge Gaps Persist in Primary ______",
-      "answer": "Care",
-      "options": [
-        "Care",
-        "LIVE",
-        "743",
-        "FIRST"
-      ]
-    },
-    {
-      "blanked": "Anti-CEC protest ______ updates: 'We still don't know where they are', CJP members allege they have no information on detained CJP leaders' whereabouts",
-      "answer": "LIVE",
-      "options": [
-        "LIVE",
-        "Answers",
-        "Isaias",
-        "Nobel"
-      ]
-    },
-    {
-      "blanked": "Type 2 Diabetes with Celiac Disease ______ Higher Complication Risk",
-      "answer": "Shows",
-      "options": [
-        "Shows",
-        "Crackdown",
+        "1986",
         "Jantar",
-        "Spangram"
+        "Kanta"
+      ]
+    },
+    {
+      "blanked": "'No Divisions, No Borders', French Astronaut Says of Seeing Earth - ASHARQ AL-AWSAT ______",
+      "answer": "English",
+      "options": [
+        "Award",
+        "Elite",
+        "English",
+        "Hits"
+      ]
+    },
+    {
+      "blanked": "Severe Type 1 Diabetes Onset Linked to ______ Complications",
+      "answer": "Later",
+      "options": [
+        "Later",
+        "Harris",
+        "CAS",
+        "Africa"
+      ]
+    },
+    {
+      "blanked": "PM Modi’s Chennai visit: traffic diversions on ______ 11",
+      "answer": "October",
+      "options": [
+        "October",
+        "Encounter",
+        "Uttarkashi",
+        "Australia"
+      ]
+    },
+    {
+      "blanked": "Portugal suspends ______ Ronaldo and initiates disciplinary proceedings after walkout",
+      "answer": "Cristiano",
+      "options": [
+        "Moves",
+        "Cristiano",
+        "Live",
+        "October"
+      ]
+    },
+    {
+      "blanked": "SACH 198/6 (18.5) vs INDCH 196/8 (Hardus Viljoen 9(4) ______ Parnell 12(8)) | India Champions vs South Africa Champions, 11th Match, World Championship of Legends 2026 Live Cricket Stream, live scores, ball-by-ball commentary, highlights, videos, new",
+      "answer": "Wayne",
+      "options": [
+        "Wayne",
+        "World",
+        "20990",
+        "Cricket"
+      ]
+    },
+    {
+      "blanked": "Several injured after attack on Saudi Arabia's ______ airport",
+      "answer": "Riyadh",
+      "options": [
+        "News",
+        "Ahn",
+        "Riyadh",
+        "Tech"
+      ]
+    },
+    {
+      "blanked": "Renshaw ______ lifts Australia to 390 before Hazlewood strikes",
+      "answer": "190",
+      "options": [
+        "Tense",
+        "French",
+        "190",
+        "Sunday"
+      ]
+    },
+    {
+      "blanked": "Francis ______ Physics Nobel Award has an India connection",
+      "answer": "Halsens",
+      "options": [
+        "Halsens",
+        "Closure",
+        "Nobel",
+        "Uttarkashi"
       ]
     }
   ]
