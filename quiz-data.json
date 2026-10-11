@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-10-11T06:14:44.201Z",
+  "generatedAt": "2026-10-11T12:55:21.801Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "CJP member moves Supreme Court on whereabouts of Dipke, Das, Ranka",
-    "Contempt Petition Filed In Supreme Court Against Delhi Police Commissioner Over Alleged Violence Against...",
-    "World condemns deadly Houthi attack on Saudi Arabia’s Riyadh airport",
-    "Former IAS, IFS officers defend Election Commission and SIR in an open letter",
-    "US forces disable ship ‘attempting to run’ Iran blockade in Gulf of Oman",
-    "Delhi protest: Stopped at police barricades, daily-wage workers lose day’s earnings",
-    "India: UN rights office urges release of ‘arbitrarily detained’ protesters",
-    "PM Modi to launch Chennai Metro Rail Phase 2, to share ride with Tamil Nadu CM Vijay",
-    "2010-batch IAS officer appointed Deputy Election Commissioner",
-    "‘Will be compelled to consider fast or march’: Wangchuk seeks release of detainees",
-    "Nepal urges villagers to evacuate after flood triggered by landslide",
-    "\"Think It's Time For Ukraine To Get New President\": Trump Rips Into Zelensky",
-    "Trump says Norway has 'indelible stain' for not awarding him Nobel Peace Prize",
-    "Nepal cuts 12 year wait, to declare those missing in flood 'dead' after 45 days",
-    "'Ambani won't go out of business': Elon Musk says Starlink competition would benefit Indians",
-    "India’s central bank tries to shore up rupee as it nears record lows",
-    "US immigration crackdown: How Indian IT giants have long prepared for this moment",
-    "Sensex Today Rallies 879 Points | Nifty Above 22,500 | 6 Reasons Why Indian Share Markets Are Rising",
+    "India’s ‘Cockroach’ leaders released from detention after police crackdown",
+    "Saudi Arabia threatens 'decisive' response after Riyadh airport strike kills at least 12",
+    "PM Modi in Chennai updates | Prime Minister inaugurates Metro Rail's Phase 2 stretch, ₹13000-crore worth development projects",
+    "Delhi Police release video of informing Dipke of grandmother’s death in detention - watch",
+    "Keralam Rajya Sabha MP John Brittas allegedly assaulted by CRPF personnel; SFI activists suffer injuries",
+    "Trump says Ukraine should get new President as he blames Zelenskyy for U.S. diesel prices",
+    "Anti-CEC protest LIVE: CJP leaders vow to protest till CEC resigns, urge all parties to unite ahead of INDIA bloc march",
+    "RJD MP Manoj Jha Moves Supreme Court Against Delhi Police Actions During Protests Against CEC Gyanesh...",
+    "Parliamentary panel indicts NTA; hope ‘arrogant’ Modi government takes it seriously: Congress",
+    "Daughter Of Telangana Scientist Found Dead, CCTV Shows Guard Following Her",
+    "Pakistan President declares emergency in Khyber Pakhtunkhwa, provincial government ceases to exist",
+    "Houses, Bridges Swept Away In Nepal Flash Flood Months After Deadly Disaster",
+    "How A Series Of Mistakes Pulled Saudi Arabia Back Into Yemen War",
+    "Omani Co-Pilot May Have Shut Off flydubai Plane's Engines: Report",
+    "Musk vows ‘affordable’ Starlink in India as he escalates feud with Ambani",
+    "Infosys sees no material impact from US suspension of PERM applications",
+    "Stock Market Crash, Sensex Today: Investors Lose Rs 10 Lakh Crore As Sensex Tanks 1,000 Points",
+    "FIIs dump Indian stocks for eight straight weeks: Is a reversal on the cards or more pain ahead?",
     "Today’s NYT Strands Hints, Spangram and Answers for Sunday, Oct. 11, #952",
     "Amazon Great Indian Festival Deals: Top Noise-Cancelling Wireless Headphones And Earbuds Under Rs. 4,000",
     "OnePlus 16 gets a sword-themed gift box based on A Record of a Mortal’s Journey to Immortality",
-    "iQOO 16 confirmed for India, to feature Snapdragon 8 Elite Extreme Gen 6 chip",
-    "‘Bollywood is not bigger than Nana’: Pravin Tarde slams Bollywood’s absence at Nana Patekar’s funeral, sa",
-    "Nushrratt Bharuccha shares FIRST post after Bali spine injury, tells fans she has not lost hope and wants",
-    "Jailer 2 Day 1 Advance Booking: Rajinikanth Film Sees 100 Housefull Shows Ahead Of Release"
+    "E-commerce festive sales kick off with strong demand from smaller towns, premium buys gain traction",
+    "'A Few Thousand Farmers Attended': Pravin Tarde Calls Out Bollywood's Absence From Nana Patekar's Funeral",
+    "'Drishyam 3: The Conclusion' box office collection Day 10 [LIVE]: Ajay Devgn and Jaideep Ahlawat starrer",
+    "Here’s What Billionaires Musk And Altman Think About Their Movie Portrayals"
   ],
   "quiz": [
     {
-      "blanked": "Nushrratt ______ shares FIRST post after Bali spine injury, tells fans she has not lost hope and wants",
-      "answer": "Bharuccha",
+      "blanked": "Keralam Rajya Sabha MP John Brittas allegedly assaulted by ______ personnel; SFI activists suffer injuries",
+      "answer": "CRPF",
       "options": [
-        "Tarde",
-        "Rallies",
-        "Bharuccha",
-        "Out"
+        "CRPF",
+        "Off",
+        "Seal",
+        "Moves"
       ]
     },
     {
-      "blanked": "Drishyam The Conclusion Box Office Early Trends: Ajay Devgn starrer sees business surge on 2nd Saturday, nets Rs. 25 Cr in ______",
+      "blanked": "Ice Fishing for Cosmic ______",
+      "answer": "Neutrinos",
+      "options": [
+        "Complications",
+        "Think",
+        "Tanks",
+        "Neutrinos"
+      ]
+    },
+    {
+      "blanked": "Anti-CEC protest ______ CJP leaders vow to protest till CEC resigns, urge all parties to unite ahead of INDIA bloc march",
+      "answer": "LIVE",
+      "options": [
+        "Festival",
+        "Series",
+        "Court",
+        "LIVE"
+      ]
+    },
+    {
+      "blanked": "Delhi ______ release video of informing Dipke of grandmother’s death in detention - watch",
+      "answer": "Police",
+      "options": [
+        "Actions",
+        "Police",
+        "Shares",
+        "Prime"
+      ]
+    },
+    {
+      "blanked": "Severe Type 1 Diabetes Onset Linked to Later ______",
+      "answer": "Complications",
+      "options": [
+        "Ahlawat",
+        "Complications",
+        "ODI",
+        "Devgn"
+      ]
+    },
+    {
+      "blanked": "India lose half their bowling strength without Jasprit Bumrah? ______ reveal startling truth",
+      "answer": "Numbers",
+      "options": [
+        "Mortals",
+        "Numbers",
+        "Telangana",
+        "Physicist"
+      ]
+    },
+    {
+      "blanked": "Northern Lights Could Return Sunday To 28 States After Epic ______",
+      "answer": "Displays",
+      "options": [
+        "Universes",
+        "Calls",
+        "Against",
+        "Displays"
+      ]
+    },
+    {
+      "blanked": "India and ______ Indies head to Indore for potential run-fest with series level",
+      "answer": "West",
+      "options": [
+        "Indian",
+        "Suryansh",
+        "West",
+        "Have"
+      ]
+    },
+    {
+      "blanked": "Infosys sees no material impact from US suspension of ______ applications",
+      "answer": "PERM",
+      "options": [
+        "Attended",
+        "Immortality",
+        "PERM",
+        "You"
+      ]
+    },
+    {
+      "blanked": "FIIs dump ______ stocks for eight straight weeks: Is a reversal on the cards or more pain ahead?",
+      "answer": "Indian",
+      "options": [
+        "Nepal",
+        "Indian",
+        "Movie",
+        "Cancer"
+      ]
+    },
+    {
+      "blanked": "Musk vows ‘affordable’ Starlink in ______ as he escalates feud with Ambani",
       "answer": "India",
       "options": [
-        "Above",
+        "Metro",
+        "Films",
         "India",
-        "Cancer",
-        "Rallies"
+        "Today"
       ]
     },
     {
-      "blanked": "India A vs Australia A ______ Streaming, 3rd Unofficial ODI: When And Where To Watch Live Telecast",
-      "answer": "Live",
+      "blanked": "Daughter Of Telangana ______ Found Dead, CCTV Shows Guard Following Her",
+      "answer": "Scientist",
       "options": [
-        "Great",
-        "Shows",
-        "Live",
-        "Cosmic"
-      ]
-    },
-    {
-      "blanked": "'Ambani won't go out of business': Elon ______ says Starlink competition would benefit Indians",
-      "answer": "Musk",
-      "options": [
-        "Day",
-        "Points",
-        "ODIs",
-        "Musk"
-      ]
-    },
-    {
-      "blanked": "Matt Renshaw, finally at home in ______ cricket",
-      "answer": "Test",
-      "options": [
-        "Bali",
-        "Type",
-        "Patekars",
-        "Test"
-      ]
-    },
-    {
-      "blanked": "Severe Type 1 ______ Onset Linked to Later Complications",
-      "answer": "Diabetes",
-      "options": [
-        "Sunday",
-        "Video",
-        "Diabetes",
-        "Shares"
-      ]
-    },
-    {
-      "blanked": "2010-batch ______ officer appointed Deputy Election Commissioner",
-      "answer": "IAS",
-      "options": [
-        "Artemis",
-        "Dipke",
-        "IAS",
-        "Mortals"
-      ]
-    },
-    {
-      "blanked": "Lionel Messi Scores Two Spectacular Goals, First Time ______ International Retirement. Watch",
-      "answer": "Since",
-      "options": [
-        "Scores",
-        "Since",
-        "Oman",
-        "Police"
-      ]
-    },
-    {
-      "blanked": "Combating ______ among women",
-      "answer": "Cancer",
-      "options": [
-        "Cancer",
-        "Gulf",
-        "Dragon",
-        "Where"
-      ]
-    },
-    {
-      "blanked": "‘Bollywood is not bigger than Nana’: Pravin Tarde slams Bollywood’s absence at Nana ______ funeral, sa",
-      "answer": "Patekars",
-      "options": [
-        "Sunday",
-        "Patekars",
-        "Snapdragon",
-        "Menon"
-      ]
-    },
-    {
-      "blanked": "Ice Fishing for ______ Neutrinos",
-      "answer": "Cosmic",
-      "options": [
-        "Deputy",
-        "Goals",
-        "Cosmic",
-        "Why"
-      ]
-    },
-    {
-      "blanked": "Amazon Great Indian Festival Deals: Top Noise-Cancelling Wireless Headphones And Earbuds Under Rs. ______",
-      "answer": "4000",
-      "options": [
-        "Arabias",
-        "4000",
-        "Bollywoods",
-        "FIRST"
+        "Scientist",
+        "Vipraj",
+        "Anil",
+        "Altman"
       ]
     }
   ]
