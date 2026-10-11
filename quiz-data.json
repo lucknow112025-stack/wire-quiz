@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-10-10T21:40:24.148Z",
+  "generatedAt": "2026-10-11T00:29:01.213Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "Anti-CEC protest LIVE updates: CJP calls for another protest at Jantar Mantar on Sunday; UNHRC demands immediate release of demonstrators | LIVE",
-    "BREAKING| Supreme Court To Hold Sunday Sitting To Hear Contempt Plea Over Closure Of Metro Stations &...",
-    "Several injured after attack on Saudi Arabia's Riyadh airport",
+    "‘Will come back tomorrow’: youth groups vow to continue protest till Gyanesh Kumar resigns",
+    "Saudi Arabia: 12 killed, hundreds injured in Riyadh strike",
     "'Fight should be face-to-face': CM Yogi accepts Akhilesh's Ayodhya challenge",
-    "'Time for Ukraine to get a new president': Trump targets Zelenskyy as US eases Russian diesel curbs",
-    "Delhi protest: Stopped at police barricades, daily-wage workers lose day’s earnings",
+    "Anti-CEC protest LIVE updates: CJP calls for another protest at Jantar Mantar on Sunday; UNHRC demands immediate release of demonstrators | LIVE",
+    "BREAKING| Menaka Guruswamy Files Habeas Petition In Supreme Court Against Detention Of Political Leaders...",
+    "Trump calls for new leadership in Ukraine, slams Zelenskyy over Russia refinery strikes",
     "PM Modi’s Chennai visit: traffic diversions on October 11",
-    "CEC Protest: CJP Member Moves Supreme Court Seeking Release of Abhijeet Dipke, Saurav Das & Others Over...",
-    "IAF chief says US has made no official offer for F-35: 'Your people don’t let us near the aircraft' | India News",
     "4.2-Magnitude Earthquake Hits Uttarakhand's Uttarkashi",
-    "Christa Pike discharged from hospital and returned to Tennessee prison",
+    "IAF chief says US has made no official offer for F-35: 'Your people don’t let us near the aircraft' | India News",
+    "BJP calls Jantar Mantar protest a flop show, accuses Opposition, CJP of anarchy, foreign collusion",
+    "US death row inmate Christa Pike returns to prison from hospital after surviving lethal injection executi",
+    "2 Killed, 8 Lakh Left Without Power In 3 US States As Hurricane Makes Landfall",
     "Pregnant woman & 2 children among 9 killed in Pennsylvania shooting; gunman dies by suicide",
     "Kamala Harris faces pushback over 2028 presidential bid as husband, Democratic donors express doubts: Rep",
-    "Flydubai co-pilot planned suicide attack in Israel inspired by 9/11",
-    "SEBI to issue CAS guidelines in a week, says chief Tuhin Kanta Pandey",
-    "Elon Musk intensifies attack on Ambani over Starlink India launch delay",
-    "Philips wins Dutch court battle with shareholders over recall",
     "India’s central bank tries to shore up rupee as it nears record lows",
+    "SEBI to issue CAS guidelines in a week, says chief Tuhin Kanta Pandey",
+    "Philips wins Dutch court battle with shareholders over recall",
+    "Elon Musk shares reports on Reliance-linked firm's BJP donations amid Starlink row",
     "Today’s NYT Strands Hints, Spangram and Answers for Sunday, Oct. 11, #952",
-    "Amazon washing machine deals: 5 AI-powered models with prices starting at just ₹20,990 | Technology News\n(HT Tech)",
-    "iQOO 16 confirmed for India, to feature Snapdragon 8 Elite Extreme Gen 6 chip",
-    "E-commerce festive sales kick off with strong demand from smaller towns, premium buys gain traction",
-    "'Drishyam 3 The Conclusion' box office collection Day 9 [LIVE]: Ajay Devgn film heads into second weekend",
-    "Nushrratt Bharuccha shares FIRST post after Bali spine injury, tells fans she has not lost hope and wants",
-    "Tanushree Dutta says Nana Patekar made her life “hell”, \"troubled\" her even in death"
+    "OnePlus 16 teams up with A Record of a Mortal’s Journey to Immortality for a sword-themed gift box",
+    "Amazon Great Indian Festival Deals: Top Noise-Cancelling Wireless Headphones And Earbuds Under Rs. 4,000",
+    "IMC 2026: iQOO 16 and Motorola Signature 27 to run Snapdragon 8 Elite Extreme Gen 6 SoC, Xiaomi 18 Pro will use Snapdragon 8 Elite Gen 6 chip",
+    "WWE Money In The Bank 2026: Full Match Card, Start Time And How To Watch",
+    "‘Jate Jate Bhi...’: Tanushree Dutta Makes Big Black Magic Claims Against Nana Patekar After His Death | Vid",
+    "Nushrratt Bharuccha shares FIRST post after Bali spine injury, tells fans she has not lost hope and wants"
   ],
   "quiz": [
     {
-      "blanked": "'Drishyam 3 The ______ box office collection Day 9 [LIVE]: Ajay Devgn film heads into second weekend",
-      "answer": "Conclusion",
+      "blanked": "SEBI to issue CAS guidelines in a week, says chief Tuhin Kanta ______",
+      "answer": "Pandey",
       "options": [
-        "Australia",
-        "ASHARQ",
-        "Conclusion",
-        "INDCH"
+        "Astronaut",
+        "Full",
+        "Pandey",
+        "Claims"
+      ]
+    },
+    {
+      "blanked": "‘Jate Jate Bhi...’: Tanushree Dutta Makes Big Black Magic Claims Against ______ Patekar After His Death | Vid",
+      "answer": "Nana",
+      "options": [
+        "Nana",
+        "Rep",
+        "Black",
+        "Gyanesh"
+      ]
+    },
+    {
+      "blanked": "Earth expected to be hit by powerful solar storm tomorrow | 2 eruptions left the Sun on October 7 and 8 | ______",
+      "answer": "Inshorts",
+      "options": [
+        "World",
+        "Type",
+        "Inshorts",
+        "Spangram"
+      ]
+    },
+    {
+      "blanked": "Amazon Great Indian Festival Deals: Top Noise-Cancelling Wireless Headphones And ______ Under Rs. 4,000",
+      "answer": "Earbuds",
+      "options": [
+        "Highlights",
+        "Gyanesh",
+        "Power",
+        "Earbuds"
+      ]
+    },
+    {
+      "blanked": "US death row inmate Christa ______ returns to prison from hospital after surviving lethal injection executi",
+      "answer": "Pike",
+      "options": [
+        "250",
+        "Pike",
+        "2026",
+        "Trends"
+      ]
+    },
+    {
+      "blanked": "‘Will come back tomorrow’: youth groups vow to continue protest till ______ Kumar resigns",
+      "answer": "Gyanesh",
+      "options": [
+        "Gyanesh",
+        "WCL",
+        "NYT",
+        "Guruswamy"
+      ]
+    },
+    {
+      "blanked": "Gautam ______ sympathises with Indian bowlers after West Indies chase down 250 in Ranchi T20I: ‘Their careers are also at stake’ | Cricket",
+      "answer": "Gambhir",
+      "options": [
+        "Complications",
+        "Gambhir",
+        "Hurricane",
+        "Sets"
+      ]
+    },
+    {
+      "blanked": "Francis Halsen's Physics Nobel ______ has an India connection",
+      "answer": "Award",
+      "options": [
+        "Award",
+        "190",
+        "Ukraine",
+        "Hurricane"
+      ]
+    },
+    {
+      "blanked": "Nushrratt Bharuccha shares ______ post after Bali spine injury, tells fans she has not lost hope and wants",
+      "answer": "FIRST",
+      "options": [
+        "Extreme",
+        "Higher",
+        "Devgn",
+        "FIRST"
       ]
     },
     {
       "blanked": "Philips wins ______ court battle with shareholders over recall",
       "answer": "Dutch",
       "options": [
-        "Metro",
-        "1968",
-        "Snapdragon",
-        "Dutch"
+        "Pro",
+        "250",
+        "Dutch",
+        "Detention"
       ]
     },
     {
-      "blanked": "iQOO 16 confirmed for ______ to feature Snapdragon 8 Elite Extreme Gen 6 chip",
-      "answer": "India",
+      "blanked": "Kamala Harris faces pushback over 2028 presidential bid as husband, ______ donors express doubts: Rep",
+      "answer": "Democratic",
       "options": [
-        "Award",
-        "190",
-        "Hold",
-        "India"
+        "Motorola",
+        "Democratic",
+        "Landfall",
+        "News"
       ]
     },
     {
-      "blanked": "SEBI to issue CAS guidelines in a week, says chief Tuhin ______ Pandey",
-      "answer": "Kanta",
+      "blanked": "Drishyam The Conclusion Box Office Early Trends: ______ Devgn starrer sees business surge on 2nd Saturday, nets Rs. 25 Cr in India",
+      "answer": "Ajay",
       "options": [
-        "2026",
-        "1986",
-        "Jantar",
-        "Kanta"
-      ]
-    },
-    {
-      "blanked": "'No Divisions, No Borders', French Astronaut Says of Seeing Earth - ASHARQ AL-AWSAT ______",
-      "answer": "English",
-      "options": [
-        "Award",
-        "Elite",
-        "English",
-        "Hits"
-      ]
-    },
-    {
-      "blanked": "Severe Type 1 Diabetes Onset Linked to ______ Complications",
-      "answer": "Later",
-      "options": [
-        "Later",
-        "Harris",
-        "CAS",
-        "Africa"
-      ]
-    },
-    {
-      "blanked": "PM Modi’s Chennai visit: traffic diversions on ______ 11",
-      "answer": "October",
-      "options": [
-        "October",
-        "Encounter",
-        "Uttarkashi",
-        "Australia"
-      ]
-    },
-    {
-      "blanked": "Portugal suspends ______ Ronaldo and initiates disciplinary proceedings after walkout",
-      "answer": "Cristiano",
-      "options": [
-        "Moves",
-        "Cristiano",
-        "Live",
-        "October"
-      ]
-    },
-    {
-      "blanked": "SACH 198/6 (18.5) vs INDCH 196/8 (Hardus Viljoen 9(4) ______ Parnell 12(8)) | India Champions vs South Africa Champions, 11th Match, World Championship of Legends 2026 Live Cricket Stream, live scores, ball-by-ball commentary, highlights, videos, new",
-      "answer": "Wayne",
-      "options": [
-        "Wayne",
-        "World",
-        "20990",
-        "Cricket"
-      ]
-    },
-    {
-      "blanked": "Several injured after attack on Saudi Arabia's ______ airport",
-      "answer": "Riyadh",
-      "options": [
-        "News",
-        "Ahn",
-        "Riyadh",
-        "Tech"
-      ]
-    },
-    {
-      "blanked": "Renshaw ______ lifts Australia to 390 before Hazlewood strikes",
-      "answer": "190",
-      "options": [
-        "Tense",
-        "French",
-        "190",
-        "Sunday"
-      ]
-    },
-    {
-      "blanked": "Francis ______ Physics Nobel Award has an India connection",
-      "answer": "Halsens",
-      "options": [
-        "Halsens",
-        "Closure",
-        "Nobel",
-        "Uttarkashi"
+        "Ajay",
+        "AL-AWSAT",
+        "Democratic",
+        "CAS"
       ]
     }
   ]
