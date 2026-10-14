@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-10-14T16:19:11.298Z",
+  "generatedAt": "2026-10-14T20:16:05.277Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "Anti-CEC protest LIVE: IYC files plea in Delhi High Court against de-notification of Jantar Mantar as designated protest site",
-    "Rahul & Priyanka meet Ankita Bhandari's parents at India Gate; all about 2022 Uttarakhand murder case",
     "Meerut ‘blue drum’ murder case: Court sentences victim’s wife Muskan Rastogi and her partner to death",
-    "Air India Frankfurt-Delhi flight hijack alert turns out to be false alarm",
-    "Lawyer moves Supreme Court challenging de-notification of Jantar Mantar as protest site",
-    "Fresh setback for H-1B workers: US ends 540-day automatic work permit extension, impact on Indians explained | Hindustan Times",
-    "‘An act of cowardice’: Rahul Gandhi condemns CJP leaders’ five-day custody, Dipke alleges ‘unofficial Emergency’",
-    "\"Sherni\", Man With \"Lathi Of Love\" At Rahul Gandhi's Delhi Briefing",
-    "Won't accept lame excuses, produce it: Supreme Court slams ECI for claiming it lost 2023 Karnataka vote-counting video",
-    "“They don't take this seriously?” Supreme Court on Centre's failure to respond to plea for strict age checks at liquor outlets",
-    "Container ship sinks near Hormuz after being hit by projectile",
-    "Live: Blasts rock Riyadh as Houthis vow to continue striking Saudi airports, oil facilities",
-    "Saudi Supreme Court sets aside Sri Lankan migrant worker’s death penalty",
-    "Russian diesel not for us, but for world markets: Trump",
-    "Mukesh Ambani's Jio to launch record India IPO on October 21",
-    "Largest-ever FDI in India’s financial sector: Cabinet approves sale of IDBI Bank to Fairfax for ₹52,878 crore",
-    "Wholesale inflation surges to 11.39% in September as fuel, food and manufacturing prices climb",
-    "Rupee volatility in focus as Sitharaman signals more RBI action, weighs LTCG tax debate",
+    "Rahul & Priyanka meet Ankita Bhandari's parents at India Gate; all about 2022 Uttarakhand murder case",
+    "Musk’s Starlink disrupts Ukrainian military operations: Drone connections drop, missions cancelled",
+    "3 Indians Killed In Germany Building Fire, Man Arrested For Suspected Murder",
+    "What happens after Delhi Police detains you? I saw it first hand",
+    "Saudi Arabia overturns death sentence for man over Facebook comment, Sri Lanka says",
+    "'Murdering democracy': Opposition slams Centre for the arrest of CJP leaders; Dipke extends gratitude",
+    "Delhi Court Issues Fresh Summons To YouTuber Dhruv Rathee In 2018 Defamation Case",
+    "Medical Store Owner Who Shot Dead Punjab Anti-Drug Activist Arrested",
+    "Supreme Court may list a plea that de-notifying Jantar Mantar pushes dissent ‘out of sight, out of mind’",
+    "Iran Plans New Tactics To Strike Ships In Hormuz To Sway US Elections: Report",
+    "Yemen's Houthis vow more attacks on Saudi airports, oil facilities after Aramco HQ hit",
+    "Saudi-led coalition intercepts Houthi missile launched towards Riyadh",
+    "Who Is Najmeh Amini? 23-Year-Old Iranian Student Sentenced To Death For Blasphemy Over Online Post",
+    "Mukesh Ambani's Jio seeks $108 billion valuation in record Indian IPO",
+    "Fairfax Financial Buying Majority Stake in India’s IDBI Bank",
+    "South Korean carmaker Hyundai plans 'strategic' investment of $15.5 billion in India by 2032",
+    "Reliance starts new rivalry with ITC, Amul & others with a Rs 20 drink",
+    "CERT-In flags critical Google Chrome vulnerabilities; Google releases security update, users urged to...",
     "Apple Home Collection launches with LG and Schneider cameras, thermostats, and sensors - GSMArena.com news",
-    "Chrome Patches 37 Vulnerabilities Including 7 'Critical' Flaws — Update Now",
     "OnePlus 16R said to offer a triple 50MP rear camera setup - GSMArena.com news",
-    "Sarvam AI Launches Bulbul V4 Flash for Real-Time Speech in 11 Indian Languages",
-    "Bigg Boss 20: Nakul Dhull evicted after physical fight with Gullu? Here's what we know | Hindustan Times",
-    "Salman Khan, 60, Admits He Wants Kids On Koffee With Karan Season 9 Premiere",
-    "Honey Singh Summoned Over Viral Delhi Concert Clip, Asked To Appear On October 16"
+    "Today’s NYT Strands answers, clues, and hints on October 14 (puzzle #955)",
+    "'Drishyam 3’ director Abhishek Pathak rules out ‘Drishyam 4’, says Ajay Devgn, Shriya Saran and Tabu star",
+    "Salman Khan avoided talking about dating life because the same person could marry somebody else; says he is happy for Aamir Khan's third marriage | Bollywood",
+    "Jailer 2 Box Office Day 1 Advance Booking (1 Day To Go): Records Kollywood’s 4th Highest Opening Day Pre-Sales In The Post-COVID Era!"
   ],
   "quiz": [
     {
-      "blanked": "Anti-CEC protest LIVE: IYC files plea in ______ High Court against de-notification of Jantar Mantar as designated protest site",
-      "answer": "Delhi",
+      "blanked": "'Murdering democracy': ______ slams Centre for the arrest of CJP leaders; Dipke extends gratitude",
+      "answer": "Opposition",
       "options": [
-        "Sitharaman",
-        "Stroke",
-        "Mars",
-        "Delhi"
-      ]
-    },
-    {
-      "blanked": "A Trip to Mars Could Break Your Heart - ______",
-      "answer": "Literally",
-      "options": [
-        "RBI",
-        "Lathi",
-        "Literally",
-        "Gandhis"
-      ]
-    },
-    {
-      "blanked": "Rupee volatility in focus as ______ signals more RBI action, weighs LTCG tax debate",
-      "answer": "Sitharaman",
-      "options": [
-        "Mandanna",
-        "Sitharaman",
-        "Indians",
-        "Heart"
+        "Opposition",
+        "Exoplanets",
+        "Student",
+        "Jantar"
       ]
     },
     {
       "blanked": "Apple Home ______ launches with LG and Schneider cameras, thermostats, and sensors - GSMArena.com news",
       "answer": "Collection",
       "options": [
-        "Clip",
-        "Collection",
-        "Centres",
-        "Cabinet"
+        "Delhi",
+        "Schneider",
+        "Google",
+        "Collection"
       ]
     },
     {
-      "blanked": "Sarvam AI ______ Bulbul V4 Flash for Real-Time Speech in 11 Indian Languages",
-      "answer": "Launches",
+      "blanked": "Integrated ______ Platform Enhances Cardiovascular Research",
+      "answer": "Registry",
       "options": [
-        "Launches",
-        "Dipke",
-        "Court",
-        "Delhi"
+        "Registry",
+        "Elections",
+        "Khans",
+        "Activist"
       ]
     },
     {
-      "blanked": "‘An act of cowardice’: Rahul Gandhi condemns CJP leaders’ five-day custody, ______ alleges ‘unofficial Emergency’",
-      "answer": "Dipke",
+      "blanked": "Yemen's ______ vow more attacks on Saudi airports, oil facilities after Aramco HQ hit",
+      "answer": "Houthis",
       "options": [
-        "Emergency",
-        "Ambanis",
-        "Congress",
-        "Dipke"
-      ]
-    },
-    {
-      "blanked": "Air India ______ flight hijack alert turns out to be false alarm",
-      "answer": "Frankfurt-Delhi",
-      "options": [
-        "Frankfurt-Delhi",
-        "Uttarakhand",
-        "2026",
-        "52878"
-      ]
-    },
-    {
-      "blanked": "Rahul & Priyanka meet Ankita Bhandari's parents at India ______ all about 2022 Uttarakhand murder case",
-      "answer": "Gate",
-      "options": [
-        "Stroke",
-        "Gate",
-        "Rastogi",
-        "RBI"
-      ]
-    },
-    {
-      "blanked": "Chrome Patches 37 Vulnerabilities ______ 7 'Critical' Flaws — Update Now",
-      "answer": "Including",
-      "options": [
-        "LIVE",
-        "Saudi",
-        "Including",
-        "Lankan"
+        "Houthis",
+        "Dead",
+        "Bank",
+        "Houthi"
       ]
     },
     {
       "blanked": "BFI suspends secretary general ______ Kumar over alleged financial irregularities",
       "answer": "Pramod",
       "options": [
-        "D-rex",
-        "Times",
+        "Era",
         "Pramod",
-        "Delhi"
+        "Arabia",
+        "Jatayu"
       ]
     },
     {
-      "blanked": "South Africa need 'singlebloodymindedness': ______ after Durban defeat",
-      "answer": "Conrad",
+      "blanked": "Musk’s Starlink disrupts ______ military operations: Drone connections drop, missions cancelled",
+      "answer": "Ukrainian",
       "options": [
-        "Durban",
-        "Sri",
-        "Conrad",
-        "Mantar"
+        "Box",
+        "Ukrainian",
+        "Africa",
+        "Store"
       ]
     },
     {
-      "blanked": "\"Sherni\", Man With \"Lathi Of ______ At Rahul Gandhi's Delhi Briefing",
-      "answer": "Love",
+      "blanked": "Salman ______ avoided talking about dating life because the same person could marry somebody else; says he is happy for Aamir Khan's third marriage | Bollywood",
+      "answer": "Khan",
       "options": [
-        "Delhi",
-        "Love",
-        "52878",
-        "Ambanis"
+        "D-rex",
+        "Ajay",
+        "Khan",
+        "Ankita"
+      ]
+    },
+    {
+      "blanked": "Who Is Najmeh Amini? 23-Year-Old ______ Student Sentenced To Death For Blasphemy Over Online Post",
+      "answer": "Iranian",
+      "options": [
+        "Iranian",
+        "2026",
+        "Nadu",
+        "Kashmir"
+      ]
+    },
+    {
+      "blanked": "What happens after Delhi ______ detains you? I saw it first hand",
+      "answer": "Police",
+      "options": [
+        "Uttarakhand",
+        "Post-COVID",
+        "Police",
+        "Conrad"
+      ]
+    },
+    {
+      "blanked": "The Technological Zone is Closer to Stars Than ______ Exoplanets",
+      "answer": "Superhabitable",
+      "options": [
+        "Sway",
+        "Anupam",
+        "Cardiology",
+        "Superhabitable"
+      ]
+    },
+    {
+      "blanked": "Jailer 2 Box Office Day 1 Advance ______ (1 Day To Go): Records Kollywood’s 4th Highest Opening Day Pre-Sales In The Post-COVID Era!",
+      "answer": "Booking",
+      "options": [
+        "Booking",
+        "Kumar",
+        "Ships",
+        "Facebook"
+      ]
+    },
+    {
+      "blanked": "Medical Store Owner Who Shot Dead Punjab ______ Activist Arrested",
+      "answer": "Anti-Drug",
+      "options": [
+        "Amini",
+        "Summons",
+        "Anti-Drug",
+        "Nadu"
       ]
     }
   ]
