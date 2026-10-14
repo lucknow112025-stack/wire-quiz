@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-10-14T20:16:05.277Z",
+  "generatedAt": "2026-10-14T23:20:21.940Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
+    "Ukraine's Zelenskiy says it is 'painful' when Trump chooses a different side",
     "Meerut ‘blue drum’ murder case: Court sentences victim’s wife Muskan Rastogi and her partner to death",
-    "Rahul & Priyanka meet Ankita Bhandari's parents at India Gate; all about 2022 Uttarakhand murder case",
-    "Musk’s Starlink disrupts Ukrainian military operations: Drone connections drop, missions cancelled",
     "3 Indians Killed In Germany Building Fire, Man Arrested For Suspected Murder",
-    "What happens after Delhi Police detains you? I saw it first hand",
+    "Delhi Protest Highlights: Amit Shah says Congress needs ‘serious introspection’, highlights BJP bypoll wins",
+    "Palestinian father of six killed in Riyadh airport attack was returning home in Jeddah",
     "Saudi Arabia overturns death sentence for man over Facebook comment, Sri Lanka says",
-    "'Murdering democracy': Opposition slams Centre for the arrest of CJP leaders; Dipke extends gratitude",
-    "Delhi Court Issues Fresh Summons To YouTuber Dhruv Rathee In 2018 Defamation Case",
     "Medical Store Owner Who Shot Dead Punjab Anti-Drug Activist Arrested",
-    "Supreme Court may list a plea that de-notifying Jantar Mantar pushes dissent ‘out of sight, out of mind’",
+    "Canada races to seal India trade pact by year-end, deepen EU ties",
+    "CJP's Saurav Das, Ashutosh Ranka: India's 'cockroach' leaders jailed after holding protest",
+    "Amid Confusion, Babu Smoothens TDP-JSP Seat Sharing Formula?",
     "Iran Plans New Tactics To Strike Ships In Hormuz To Sway US Elections: Report",
-    "Yemen's Houthis vow more attacks on Saudi airports, oil facilities after Aramco HQ hit",
-    "Saudi-led coalition intercepts Houthi missile launched towards Riyadh",
-    "Who Is Najmeh Amini? 23-Year-Old Iranian Student Sentenced To Death For Blasphemy Over Online Post",
+    "Ukraine's Starlink scare - a cautionary note for India?",
+    "Blasts rock Riyadh as Houthis vow to continue striking Saudi airports, oil facilities",
+    "Houthis Building Missiles With Chinese Parts, Can Target Saudi, Israel: Report",
     "Mukesh Ambani's Jio seeks $108 billion valuation in record Indian IPO",
     "Fairfax Financial Buying Majority Stake in India’s IDBI Bank",
     "South Korean carmaker Hyundai plans 'strategic' investment of $15.5 billion in India by 2032",
-    "Reliance starts new rivalry with ITC, Amul & others with a Rs 20 drink",
+    "Trading Plan: Can Nifty 50 hold 22,600, Bank Nifty defend 55,100 after a strong rally?",
+    "Apple makes fresh push into smart homes market",
+    "I'm in Love With My Kindle Aluminum, but It’s Not Worth the Price Tag",
     "CERT-In flags critical Google Chrome vulnerabilities; Google releases security update, users urged to...",
-    "Apple Home Collection launches with LG and Schneider cameras, thermostats, and sensors - GSMArena.com news",
-    "OnePlus 16R said to offer a triple 50MP rear camera setup - GSMArena.com news",
-    "Today’s NYT Strands answers, clues, and hints on October 14 (puzzle #955)",
-    "'Drishyam 3’ director Abhishek Pathak rules out ‘Drishyam 4’, says Ajay Devgn, Shriya Saran and Tabu star",
-    "Salman Khan avoided talking about dating life because the same person could marry somebody else; says he is happy for Aamir Khan's third marriage | Bollywood",
-    "Jailer 2 Box Office Day 1 Advance Booking (1 Day To Go): Records Kollywood’s 4th Highest Opening Day Pre-Sales In The Post-COVID Era!"
+    "Today’s NYT Strands Hints, Spangram and Answers for Thursday, Oct. 15, #956",
+    "Salman Khan talks about having 'kids someday' and why he doesn’t discuss RELATIONSHIPS on 'Koffee with Karan' Season 9: 'That person goes ahead and gets married to somebody else'",
+    "Drishyam The Conclusion Box Office Collections: Ajay Devgn starrer grows on 2nd Tuesday, Nets Rs. 313 Cr in 12 days",
+    "Jailer 2 Box Office Preview: Superstar Rajinikanth starrer rakes in big advance, Set for Rs. 100 Cr plus opening day"
   ],
   "quiz": [
     {
-      "blanked": "'Murdering democracy': ______ slams Centre for the arrest of CJP leaders; Dipke extends gratitude",
-      "answer": "Opposition",
+      "blanked": "Drishyam The Conclusion ______ Office Collections: Ajay Devgn starrer grows on 2nd Tuesday, Nets Rs. 313 Cr in 12 days",
+      "answer": "Box",
       "options": [
-        "Opposition",
-        "Exoplanets",
-        "Student",
-        "Jantar"
-      ]
-    },
-    {
-      "blanked": "Apple Home ______ launches with LG and Schneider cameras, thermostats, and sensors - GSMArena.com news",
-      "answer": "Collection",
-      "options": [
-        "Delhi",
-        "Schneider",
-        "Google",
-        "Collection"
-      ]
-    },
-    {
-      "blanked": "Integrated ______ Platform Enhances Cardiovascular Research",
-      "answer": "Registry",
-      "options": [
-        "Registry",
-        "Elections",
-        "Khans",
-        "Activist"
-      ]
-    },
-    {
-      "blanked": "Yemen's ______ vow more attacks on Saudi airports, oil facilities after Aramco HQ hit",
-      "answer": "Houthis",
-      "options": [
-        "Houthis",
-        "Dead",
-        "Bank",
-        "Houthi"
-      ]
-    },
-    {
-      "blanked": "BFI suspends secretary general ______ Kumar over alleged financial irregularities",
-      "answer": "Pramod",
-      "options": [
-        "Era",
-        "Pramod",
-        "Arabia",
-        "Jatayu"
-      ]
-    },
-    {
-      "blanked": "Musk’s Starlink disrupts ______ military operations: Drone connections drop, missions cancelled",
-      "answer": "Ukrainian",
-      "options": [
+        "Massive",
+        "Aluminum",
         "Box",
-        "Ukrainian",
-        "Africa",
-        "Store"
+        "Parts"
       ]
     },
     {
-      "blanked": "Salman ______ avoided talking about dating life because the same person could marry somebody else; says he is happy for Aamir Khan's third marriage | Bollywood",
-      "answer": "Khan",
+      "blanked": "Saudi Arabia overturns death sentence for man over Facebook comment, Sri ______ says",
+      "answer": "Lanka",
       "options": [
-        "D-rex",
-        "Ajay",
-        "Khan",
-        "Ankita"
+        "Lanka",
+        "Day",
+        "Technological",
+        "Plan"
       ]
     },
     {
-      "blanked": "Who Is Najmeh Amini? 23-Year-Old ______ Student Sentenced To Death For Blasphemy Over Online Post",
-      "answer": "Iranian",
+      "blanked": "Amid Confusion, Babu Smoothens TDP-JSP Seat Sharing ______",
+      "answer": "Formula",
       "options": [
-        "Iranian",
-        "2026",
-        "Nadu",
-        "Kashmir"
+        "Aluminum",
+        "Formula",
+        "Korean",
+        "Himachal"
       ]
     },
     {
-      "blanked": "What happens after Delhi ______ detains you? I saw it first hand",
-      "answer": "Police",
+      "blanked": "CJP's Saurav Das, Ashutosh Ranka: ______ 'cockroach' leaders jailed after holding protest",
+      "answer": "Indias",
       "options": [
-        "Uttarakhand",
-        "Post-COVID",
-        "Police",
-        "Conrad"
+        "Singh",
+        "22600",
+        "Enhances",
+        "Indias"
       ]
     },
     {
-      "blanked": "The Technological Zone is Closer to Stars Than ______ Exoplanets",
-      "answer": "Superhabitable",
+      "blanked": "The Technological ______ is Closer to Stars Than Superhabitable Exoplanets",
+      "answer": "Zone",
       "options": [
-        "Sway",
-        "Anupam",
-        "Cardiology",
-        "Superhabitable"
+        "Korean",
+        "Zone",
+        "Fungus",
+        "Aluminum"
       ]
     },
     {
-      "blanked": "Jailer 2 Box Office Day 1 Advance ______ (1 Day To Go): Records Kollywood’s 4th Highest Opening Day Pre-Sales In The Post-COVID Era!",
-      "answer": "Booking",
+      "blanked": "Ukraine's Zelenskiy says it is 'painful' when ______ chooses a different side",
+      "answer": "Trump",
       "options": [
-        "Booking",
-        "Kumar",
-        "Ships",
-        "Facebook"
+        "Trump",
+        "Prehistoric",
+        "About",
+        "Fungus"
       ]
     },
     {
-      "blanked": "Medical Store Owner Who Shot Dead Punjab ______ Activist Arrested",
-      "answer": "Anti-Drug",
+      "blanked": "Canada races to seal ______ trade pact by year-end, deepen EU ties",
+      "answer": "India",
       "options": [
-        "Amini",
-        "Summons",
-        "Anti-Drug",
-        "Nadu"
+        "Uncovered",
+        "Kindle",
+        "Platform",
+        "India"
+      ]
+    },
+    {
+      "blanked": "Hope ton, ______ five-for help West Indies level series 2-2",
+      "answer": "Paul",
+      "options": [
+        "Technological",
+        "Indian",
+        "Paul",
+        "Confusion"
+      ]
+    },
+    {
+      "blanked": "Fairfax Financial Buying ______ Stake in India’s IDBI Bank",
+      "answer": "Majority",
+      "options": [
+        "Uncovered",
+        "Majority",
+        "Strike",
+        "Shah"
+      ]
+    },
+    {
+      "blanked": "All About 'D-rex', The Massive ______ Fungus Uncovered In China's Forests",
+      "answer": "Prehistoric",
+      "options": [
+        "West",
+        "Prehistoric",
+        "Ambanis",
+        "Arabia"
+      ]
+    },
+    {
+      "blanked": "I'm in Love With My Kindle Aluminum, but It’s ______ Worth the Price Tag",
+      "answer": "Not",
+      "options": [
+        "Sri",
+        "Thursday",
+        "Nifty",
+        "Not"
+      ]
+    },
+    {
+      "blanked": "Integrated Registry Platform ______ Cardiovascular Research",
+      "answer": "Enhances",
+      "options": [
+        "Enhances",
+        "Elections",
+        "Paul",
+        "Israel"
       ]
     }
   ]
