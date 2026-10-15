@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-10-15T01:37:19.307Z",
+  "generatedAt": "2026-10-15T06:26:38.864Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
+    "Actor Imran Khan Is US Citizen. 2 Sections Invoked Asking Him To Leave India",
+    "US Teen Goes To Hindu Temple For 'Mass Shooting', Jammed Rifle Stops Him",
+    "In shift on CJP, Congress sent invite to Abhijeet Dipke for Rahul Gandhi’s high tea",
+    "Ankita Bhandari case: 'VIP' question brings her parents to India Gate; Uttarakhand government reacts",
+    "Supreme Court Hearing On Delhi CEC Protest Crackdown [Live Updates]",
     "3 Indians Killed In Germany Building Fire, Man Arrested For Suspected Murder",
-    "Delhi Protest Highlights: Amit Shah says Congress needs ‘serious introspection’, highlights BJP bypoll wins",
-    "‘My president, I mean my husband’: Trump's new press secretary Katie Zacharia's first briefing goes off the rails in 14 minutes",
-    "Rubio to visit India next week as Jaishankar says trade talks near landing point",
-    "Ukraine's Zelenskiy says it is 'painful' when Trump chooses a different side",
-    "Air India Frankfurt-Delhi flight hijack alert turns out to be false alarm",
-    "Rahul, Priyanka Gandhi meet murdered Ankita Bhandari’s parents as they protest Sikkim Governor appointment",
-    "Medical Store Owner Who Shot Dead Punjab Anti-Drug Activist Arrested",
-    "Meerut ‘blue drum’ murder case: Court sentences victim’s wife Muskan Rastogi and her partner to death",
-    "‘An act of cowardice’: Rahul Gandhi condemns CJP leaders’ five-day custody, Dipke alleges ‘unofficial Emergency’",
-    "Iran Plans New Tactics To Strike Ships In Hormuz To Sway US Elections: Report",
-    "Saudi-led coalition intercepts Houthi missile launched towards Riyadh",
-    "Fire at Aramco headquarters in Saudi Arabia after Houthi strike",
-    "Ukraine's Starlink scare - a cautionary note for India?",
-    "Inside India newsletter: Billionaire Ambani’s mega-IPO faces a valuation reality check amid Musk spat",
+    "Pak Drone Drop: Rajasthan Cops Suspected Drugs, Found Ready-To-Use Bomb",
+    "'Shocked': Odisha governor's 'will work for BJP' remark sparks political row",
+    "Rahul Gandhi & Others v Election Commission of India : Live Updates From Supreme Court",
+    "Supreme Court Must Revisit Verdict Upholding SIR: Justice Abhay Oka",
+    "Lawyer Or Not? New White House Press Secretary's Law Degree In Question",
+    "Ukraine's drone ops slow after Musk's Starlink curbs as Trump warms to Putin",
+    "Yemen's Houthis seek to build missiles with Chinese parts amid rising tensions with Saudi, Israel: Report",
+    "Another blow to H-1B workers in US: Trump admin ends 540-day automatic work permit extension for immigrants",
+    "Stock Market LIVE Updates, Sensex Today: Markets Likely To Open Flat Amid Mixed Global Cues",
+    "Meta- and Google-backed Jio Platforms to raise up to $3.2 billion in historic IPO in India",
     "Fairfax Financial Buying Majority Stake in India’s IDBI Bank",
-    "Hyundai India New Pune Plant - Rs 11,000 Cr Investment, Hybrid Production Planned",
-    "Trading Plan: Can Nifty 50 hold 22,600, Bank Nifty defend 55,100 after a strong rally?",
-    "4 Of The Coolest New Kindle Accessories Available In 2026",
-    "Apple HomeView price in India is ₹39,900: Apple TV 4K and HomePod mini 2 also launched",
+    "Indian shares end lower as higher oil prices, foreign outflows dent appetite",
+    "Apple makes fresh push into smart homes market",
     "CERT-In flags critical Google Chrome vulnerabilities; Google releases security update, users urged to...",
+    "Leaked OnePlus Ace 7 schematic shows its dual-airflow cooling setup - GSMArena.com news",
     "Today’s NYT Strands Hints, Spangram and Answers for Thursday, Oct. 15, #956",
-    "Salman Khan opens up about being in a bad shape after 'Sultan' on 'Koffee with Karan 9': 'My head was bro",
-    "Jailer 2 Box Office Preview: Superstar Rajinikanth starrer rakes in big advance, Set for Rs. 100 Cr plus opening day",
-    "Drishyam 3 box office collection day 12: Ajay Devgn’s crime thriller witnesses 41% jump on second Tuesday, crosses ₹323 crore | Bollywood"
+    "Salman Khan Kicks Off KWK 9 With A Bang: From calling Karisma Kapoor his longest affair to desire for Kids - Top 7 Revelations",
+    "Jailer 2 Movie Review Live Updates: ‘Peak Rajinikanth experience, Hrithik Roshan impress,’ say early reviews; Latha Rajinikanth, Dhanush watch film",
+    "Bigg Boss 20: Mahhi Vij hits Nakul Dhull during his physical clash with Gullu aka Kushal Tanwar; Netizens"
   ],
   "quiz": [
     {
-      "blanked": "Jailer 2 Box Office Preview: ______ Rajinikanth starrer rakes in big advance, Set for Rs. 100 Cr plus opening day",
-      "answer": "Superstar",
+      "blanked": "3 Indians Killed In Germany Building Fire, Man ______ For Suspected Murder",
+      "answer": "Arrested",
       "options": [
-        "Murder",
-        "Sooryavanshi",
-        "Hormuz",
-        "Superstar"
+        "Likely",
+        "Abhijeet",
+        "Arrested",
+        "Uttarakhand"
       ]
     },
     {
-      "blanked": "Ukraine's ______ scare - a cautionary note for India?",
-      "answer": "Starlink",
+      "blanked": "Supreme Court Hearing On Delhi CEC ______ Crackdown [Live Updates]",
+      "answer": "Protest",
       "options": [
-        "Starlink",
-        "Durban",
-        "Arabia",
-        "Investment"
+        "Protest",
+        "News-Medical",
+        "Majority",
+        "Asking"
       ]
     },
     {
-      "blanked": "Medical Store ______ Who Shot Dead Punjab Anti-Drug Activist Arrested",
-      "answer": "Owner",
+      "blanked": "Jailer 2 Movie Review Live ______ ‘Peak Rajinikanth experience, Hrithik Roshan impress,’ say early reviews; Latha Rajinikanth, Dhanush watch film",
+      "answer": "Updates",
       "options": [
-        "Sikkim",
-        "Chris",
-        "Activist",
-        "Owner"
+        "Dipke",
+        "Updates",
+        "Law",
+        "Rifle"
       ]
     },
     {
-      "blanked": "Unchanged India bowl first in bid to win series, West ______ make two changes",
-      "answer": "Indies",
+      "blanked": "Pak Drone Drop: Rajasthan Cops Suspected Drugs, ______ Ready-To-Use Bomb",
+      "answer": "Found",
       "options": [
-        "Indies",
-        "CJP",
-        "Rajinikanth",
-        "Report"
+        "Found",
+        "Hindu",
+        "Platforms",
+        "Closer"
       ]
     },
     {
-      "blanked": "Fairfax Financial Buying Majority Stake in ______ IDBI Bank",
-      "answer": "Indias",
-      "options": [
-        "Rohini",
-        "Plans",
-        "Indias",
-        "Diego"
-      ]
-    },
-    {
-      "blanked": "Integrated Registry ______ Enhances Cardiovascular Research",
-      "answer": "Platform",
-      "options": [
-        "Sooryavanshi",
-        "Planned",
-        "Platform",
-        "55100"
-      ]
-    },
-    {
-      "blanked": "Rubio to visit India next week as ______ says trade talks near landing point",
-      "answer": "Jaishankar",
-      "options": [
-        "Tactics",
-        "Jaishankar",
-        "Zelenskiy",
-        "Box"
-      ]
-    },
-    {
-      "blanked": "3 ______ Killed In Germany Building Fire, Man Arrested For Suspected Murder",
-      "answer": "Indians",
-      "options": [
-        "11000",
-        "Cardiovascular",
-        "Exoplanets",
-        "Indians"
-      ]
-    },
-    {
-      "blanked": "Iran Plans New Tactics To Strike Ships In Hormuz To Sway US ______ Report",
-      "answer": "Elections",
-      "options": [
-        "Elections",
-        "Financial",
-        "39900",
-        "Shot"
-      ]
-    },
-    {
-      "blanked": "Delhi Protest Highlights: Amit Shah says Congress needs ‘serious introspection’, highlights ______ bypoll wins",
+      "blanked": "'Shocked': Odisha governor's 'will work for ______ remark sparks political row",
       "answer": "BJP",
       "options": [
-        "Pune",
-        "Platform",
-        "Diego",
-        "BJP"
+        "Stake",
+        "Israel",
+        "BJP",
+        "News-Medical"
       ]
     },
     {
-      "blanked": "Inside ______ newsletter: Billionaire Ambani’s mega-IPO faces a valuation reality check amid Musk spat",
+      "blanked": "Stock ______ LIVE Updates, Sensex Today: Markets Likely To Open Flat Amid Mixed Global Cues",
+      "answer": "Market",
+      "options": [
+        "Himachal",
+        "India",
+        "Market",
+        "October"
+      ]
+    },
+    {
+      "blanked": "Ukraine's drone ops slow after Musk's ______ curbs as Trump warms to Putin",
+      "answer": "Starlink",
+      "options": [
+        "IDBI",
+        "Starlink",
+        "Invoked",
+        "Team"
+      ]
+    },
+    {
+      "blanked": "Salman ______ Kicks Off KWK 9 With A Bang: From calling Karisma Kapoor his longest affair to desire for Kids - Top 7 Revelations",
+      "answer": "Khan",
+      "options": [
+        "Himachal",
+        "Khan",
+        "Hindu",
+        "Rajinikanth"
+      ]
+    },
+    {
+      "blanked": "Rahul Gandhi & Others v Election Commission of ______ : Live Updates From Supreme Court",
       "answer": "India",
       "options": [
-        "Saudi",
+        "Bank",
         "India",
-        "Conrad",
-        "Jadhav"
+        "Law",
+        "Upholding"
       ]
     },
     {
-      "blanked": "NASA rover breaks ______ record after slow-mo 28-mile trek",
-      "answer": "Mars",
+      "blanked": "Meta- and Google-backed Jio Platforms to raise up to ______ billion in historic IPO in India",
+      "answer": "3.2",
       "options": [
-        "Sultan",
-        "Mars",
+        "Google",
+        "3.2",
+        "NYT",
+        "Kushal"
+      ]
+    },
+    {
+      "blanked": "In shift on CJP, Congress sent invite to Abhijeet ______ for Rahul Gandhi’s high tea",
+      "answer": "Dipke",
+      "options": [
+        "Found",
+        "Jio",
+        "Dipke",
+        "Odisha"
+      ]
+    },
+    {
+      "blanked": "As Ebola spreads in eastern ______ mothers and children shun vital care",
+      "answer": "Congo",
+      "options": [
+        "Flat",
+        "Congo",
         "Indias",
-        "Indians"
+        "Oka"
       ]
     }
   ]
