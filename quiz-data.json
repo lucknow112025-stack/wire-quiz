@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-10-14T23:20:21.940Z",
+  "generatedAt": "2026-10-15T01:37:19.307Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "Ukraine's Zelenskiy says it is 'painful' when Trump chooses a different side",
-    "Meerut ‘blue drum’ murder case: Court sentences victim’s wife Muskan Rastogi and her partner to death",
     "3 Indians Killed In Germany Building Fire, Man Arrested For Suspected Murder",
     "Delhi Protest Highlights: Amit Shah says Congress needs ‘serious introspection’, highlights BJP bypoll wins",
-    "Palestinian father of six killed in Riyadh airport attack was returning home in Jeddah",
-    "Saudi Arabia overturns death sentence for man over Facebook comment, Sri Lanka says",
+    "‘My president, I mean my husband’: Trump's new press secretary Katie Zacharia's first briefing goes off the rails in 14 minutes",
+    "Rubio to visit India next week as Jaishankar says trade talks near landing point",
+    "Ukraine's Zelenskiy says it is 'painful' when Trump chooses a different side",
+    "Air India Frankfurt-Delhi flight hijack alert turns out to be false alarm",
+    "Rahul, Priyanka Gandhi meet murdered Ankita Bhandari’s parents as they protest Sikkim Governor appointment",
     "Medical Store Owner Who Shot Dead Punjab Anti-Drug Activist Arrested",
-    "Canada races to seal India trade pact by year-end, deepen EU ties",
-    "CJP's Saurav Das, Ashutosh Ranka: India's 'cockroach' leaders jailed after holding protest",
-    "Amid Confusion, Babu Smoothens TDP-JSP Seat Sharing Formula?",
+    "Meerut ‘blue drum’ murder case: Court sentences victim’s wife Muskan Rastogi and her partner to death",
+    "‘An act of cowardice’: Rahul Gandhi condemns CJP leaders’ five-day custody, Dipke alleges ‘unofficial Emergency’",
     "Iran Plans New Tactics To Strike Ships In Hormuz To Sway US Elections: Report",
+    "Saudi-led coalition intercepts Houthi missile launched towards Riyadh",
+    "Fire at Aramco headquarters in Saudi Arabia after Houthi strike",
     "Ukraine's Starlink scare - a cautionary note for India?",
-    "Blasts rock Riyadh as Houthis vow to continue striking Saudi airports, oil facilities",
-    "Houthis Building Missiles With Chinese Parts, Can Target Saudi, Israel: Report",
-    "Mukesh Ambani's Jio seeks $108 billion valuation in record Indian IPO",
+    "Inside India newsletter: Billionaire Ambani’s mega-IPO faces a valuation reality check amid Musk spat",
     "Fairfax Financial Buying Majority Stake in India’s IDBI Bank",
-    "South Korean carmaker Hyundai plans 'strategic' investment of $15.5 billion in India by 2032",
+    "Hyundai India New Pune Plant - Rs 11,000 Cr Investment, Hybrid Production Planned",
     "Trading Plan: Can Nifty 50 hold 22,600, Bank Nifty defend 55,100 after a strong rally?",
-    "Apple makes fresh push into smart homes market",
-    "I'm in Love With My Kindle Aluminum, but It’s Not Worth the Price Tag",
+    "4 Of The Coolest New Kindle Accessories Available In 2026",
+    "Apple HomeView price in India is ₹39,900: Apple TV 4K and HomePod mini 2 also launched",
     "CERT-In flags critical Google Chrome vulnerabilities; Google releases security update, users urged to...",
     "Today’s NYT Strands Hints, Spangram and Answers for Thursday, Oct. 15, #956",
-    "Salman Khan talks about having 'kids someday' and why he doesn’t discuss RELATIONSHIPS on 'Koffee with Karan' Season 9: 'That person goes ahead and gets married to somebody else'",
-    "Drishyam The Conclusion Box Office Collections: Ajay Devgn starrer grows on 2nd Tuesday, Nets Rs. 313 Cr in 12 days",
-    "Jailer 2 Box Office Preview: Superstar Rajinikanth starrer rakes in big advance, Set for Rs. 100 Cr plus opening day"
+    "Salman Khan opens up about being in a bad shape after 'Sultan' on 'Koffee with Karan 9': 'My head was bro",
+    "Jailer 2 Box Office Preview: Superstar Rajinikanth starrer rakes in big advance, Set for Rs. 100 Cr plus opening day",
+    "Drishyam 3 box office collection day 12: Ajay Devgn’s crime thriller witnesses 41% jump on second Tuesday, crosses ₹323 crore | Bollywood"
   ],
   "quiz": [
     {
-      "blanked": "Drishyam The Conclusion ______ Office Collections: Ajay Devgn starrer grows on 2nd Tuesday, Nets Rs. 313 Cr in 12 days",
-      "answer": "Box",
+      "blanked": "Jailer 2 Box Office Preview: ______ Rajinikanth starrer rakes in big advance, Set for Rs. 100 Cr plus opening day",
+      "answer": "Superstar",
       "options": [
-        "Massive",
-        "Aluminum",
-        "Box",
-        "Parts"
+        "Murder",
+        "Sooryavanshi",
+        "Hormuz",
+        "Superstar"
       ]
     },
     {
-      "blanked": "Saudi Arabia overturns death sentence for man over Facebook comment, Sri ______ says",
-      "answer": "Lanka",
+      "blanked": "Ukraine's ______ scare - a cautionary note for India?",
+      "answer": "Starlink",
       "options": [
-        "Lanka",
-        "Day",
-        "Technological",
-        "Plan"
+        "Starlink",
+        "Durban",
+        "Arabia",
+        "Investment"
       ]
     },
     {
-      "blanked": "Amid Confusion, Babu Smoothens TDP-JSP Seat Sharing ______",
-      "answer": "Formula",
+      "blanked": "Medical Store ______ Who Shot Dead Punjab Anti-Drug Activist Arrested",
+      "answer": "Owner",
       "options": [
-        "Aluminum",
-        "Formula",
-        "Korean",
-        "Himachal"
+        "Sikkim",
+        "Chris",
+        "Activist",
+        "Owner"
       ]
     },
     {
-      "blanked": "CJP's Saurav Das, Ashutosh Ranka: ______ 'cockroach' leaders jailed after holding protest",
+      "blanked": "Unchanged India bowl first in bid to win series, West ______ make two changes",
+      "answer": "Indies",
+      "options": [
+        "Indies",
+        "CJP",
+        "Rajinikanth",
+        "Report"
+      ]
+    },
+    {
+      "blanked": "Fairfax Financial Buying Majority Stake in ______ IDBI Bank",
       "answer": "Indias",
       "options": [
-        "Singh",
-        "22600",
-        "Enhances",
-        "Indias"
+        "Rohini",
+        "Plans",
+        "Indias",
+        "Diego"
       ]
     },
     {
-      "blanked": "The Technological ______ is Closer to Stars Than Superhabitable Exoplanets",
-      "answer": "Zone",
+      "blanked": "Integrated Registry ______ Enhances Cardiovascular Research",
+      "answer": "Platform",
       "options": [
-        "Korean",
-        "Zone",
-        "Fungus",
-        "Aluminum"
+        "Sooryavanshi",
+        "Planned",
+        "Platform",
+        "55100"
       ]
     },
     {
-      "blanked": "Ukraine's Zelenskiy says it is 'painful' when ______ chooses a different side",
-      "answer": "Trump",
+      "blanked": "Rubio to visit India next week as ______ says trade talks near landing point",
+      "answer": "Jaishankar",
       "options": [
-        "Trump",
-        "Prehistoric",
-        "About",
-        "Fungus"
+        "Tactics",
+        "Jaishankar",
+        "Zelenskiy",
+        "Box"
       ]
     },
     {
-      "blanked": "Canada races to seal ______ trade pact by year-end, deepen EU ties",
+      "blanked": "3 ______ Killed In Germany Building Fire, Man Arrested For Suspected Murder",
+      "answer": "Indians",
+      "options": [
+        "11000",
+        "Cardiovascular",
+        "Exoplanets",
+        "Indians"
+      ]
+    },
+    {
+      "blanked": "Iran Plans New Tactics To Strike Ships In Hormuz To Sway US ______ Report",
+      "answer": "Elections",
+      "options": [
+        "Elections",
+        "Financial",
+        "39900",
+        "Shot"
+      ]
+    },
+    {
+      "blanked": "Delhi Protest Highlights: Amit Shah says Congress needs ‘serious introspection’, highlights ______ bypoll wins",
+      "answer": "BJP",
+      "options": [
+        "Pune",
+        "Platform",
+        "Diego",
+        "BJP"
+      ]
+    },
+    {
+      "blanked": "Inside ______ newsletter: Billionaire Ambani’s mega-IPO faces a valuation reality check amid Musk spat",
       "answer": "India",
       "options": [
-        "Uncovered",
-        "Kindle",
-        "Platform",
-        "India"
+        "Saudi",
+        "India",
+        "Conrad",
+        "Jadhav"
       ]
     },
     {
-      "blanked": "Hope ton, ______ five-for help West Indies level series 2-2",
-      "answer": "Paul",
+      "blanked": "NASA rover breaks ______ record after slow-mo 28-mile trek",
+      "answer": "Mars",
       "options": [
-        "Technological",
-        "Indian",
-        "Paul",
-        "Confusion"
-      ]
-    },
-    {
-      "blanked": "Fairfax Financial Buying ______ Stake in India’s IDBI Bank",
-      "answer": "Majority",
-      "options": [
-        "Uncovered",
-        "Majority",
-        "Strike",
-        "Shah"
-      ]
-    },
-    {
-      "blanked": "All About 'D-rex', The Massive ______ Fungus Uncovered In China's Forests",
-      "answer": "Prehistoric",
-      "options": [
-        "West",
-        "Prehistoric",
-        "Ambanis",
-        "Arabia"
-      ]
-    },
-    {
-      "blanked": "I'm in Love With My Kindle Aluminum, but It’s ______ Worth the Price Tag",
-      "answer": "Not",
-      "options": [
-        "Sri",
-        "Thursday",
-        "Nifty",
-        "Not"
-      ]
-    },
-    {
-      "blanked": "Integrated Registry Platform ______ Cardiovascular Research",
-      "answer": "Enhances",
-      "options": [
-        "Enhances",
-        "Elections",
-        "Paul",
-        "Israel"
+        "Sultan",
+        "Mars",
+        "Indias",
+        "Indians"
       ]
     }
   ]
