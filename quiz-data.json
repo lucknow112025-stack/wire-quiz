@@ -1,123 +1,63 @@
 {
-  "generatedAt": "2026-10-16T05:25:08.281Z",
+  "generatedAt": "2026-10-16T10:01:10.447Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "CJP, Abhijeet Dipke: India's 'cockroach' protesters set to return despite police crackdown",
-    "Three children and a teacher killed by 16-year-old at Oregon primary school",
+    "CJP Tiranga protest LIVE | Massive security for CJP’s ‘Tiranga’ march; SC refuses urgent hearing on Central Park closure",
+    "Imran Khan's Partner Lekha Washington's First Reaction After He Was Asked To Leave India Over Attending CJP Protest",
     "Mass shooting plot at Hindu temple in US foiled after rifle jams",
-    "Read what magistrate said while sending CJP's Saurav Das, Ashutosh Ranka to jail",
-    "Crucial to give Ukraine all means needed to defend population, infrastructure, France's Macron says",
-    "Houthi strikes mark the end of Saudi Arabia's Yemen 'containment strategy'",
-    "PM Modi to visit Canada on December 11-12 as countries seek to boost ties | India News",
-    "Special Parliament Session Likely This Month To Pass Women's Quota, Delimitation Bills",
-    "Bollywood actor Imran Khan asked to leave India after participating in protest, media says",
-    "Influencer Accused Of Killing Lover Threatens To Die By Suicide In New Video",
+    "India says first phase of US trade deal nearly done, insists on edge over rivals",
+    "J&K IAS officer Rajeev Ranjan's video abusing woman colleague goes viral: 'I can always talk to you like this'",
+    "\"Ready To Go To Jail\": CJP's Abhijeet Dipke Ahead Of Protest In Delhi, Mumbai",
+    "PM Modi to visit to Canada on December 11 and 12",
+    "A mothership for drones, a testbed for weapons: What INS Samarthak brings to Indian Navy",
+    "Wife Of Medical Shop Owner Who Shot Punjab Anti-Drug Activist Arrested",
+    "Rajnath Singh attacks Congress over anti-CEC protests: ‘Conspiracy to grab power’ | India News",
+    "Earthquake Of Magnitude 7 Strikes Russia, Japan Mistakenly Issues 9.9 Warning",
     "'We’re done': Zelenskyy defies Trump after Putin attacks Ukraine, says will keep hitting Russian refineri",
-    "Go home: Dressed in all black, UK vigilantes bar Indian students from park",
-    "Trump administration aims to strip Rep. Ilhan Omar of US citizenship: Report",
-    "Photos: China and North Korea open new border bridge amid deepening ties",
-    "Stock Market Rally, Sensex Today: Sensex Closes 1,500 Points Higher Despite Negative Global Cues",
-    "'Never feared competition': Reliance Industries after Elon Musk's remarks on Starlink's India entry | India News",
-    "India raises windfall tax on petrol, cuts duty on diesel",
-    "YES Bank examining SC ruling on Rs 8,415 crore AT1 bond write-off",
-    "Amazon launches Bee Frontier AI wearable and Bee Eclipse phone attachment - GSMArena.com news",
+    "Argentine students protest on campus over Milei’s austerity",
+    "\"Time For Zelensky To Go\": Elon Musk On Recent Strikes On Ukraine",
+    "Indian shares recover from muted start; IT leads gains",
+    "CAS review: Sebi announces last 30-minute VWAP method for settlement",
+    "RBI Was Mere Bystander When YES Bank Carried Out Business Clandestinely : Supreme Court",
+    "Tesla launches flying Roadster concept car",
+    "Korean operators promote iPhone Duo with trade-in discounts and subscriptions",
     "CERT-In Warns Google Chrome Users of Critical Flaws That Could Allow Cyberattacks",
+    "Indian Lab Sthanika's AI Model Takes Second Place on Jev Decision Index",
     "This 3,000-square-foot apartment in Thane makes neutrals fun again",
-    "NYT Strands hints, answers for October 15, 2026",
     "Ranabaali Advance Bookings Raise Concern As Jailer 2 Dominates Box Office Buzz",
-    "‘Ramayana: Rise of a Legend’ gets PG-13 rating in the US; Ranbir Kapoor and Yash’s film clocks 3 hours an",
-    "Indus Creed guitarist and pioneer of Indian rock, Mahesh Tinaikar, dies"
+    "What Makes Ranbir Kapoor's Rs 78 Lakh Watch Special At Ramayana Event In Bengaluru",
+    "Box Office: Nayyi Navelli sells 11,000 tickets in top national Chains, Prahaar trails with 8,500 admissions"
   ],
   "quiz": [
     {
-      "blanked": "Team India Sent Reminder Of ______ T20 Specialist Amid Struggles Against West Indies",
-      "answer": "Forgotten",
+      "blanked": "Wife Of Medical Shop Owner ______ Shot Punjab Anti-Drug Activist Arrested",
+      "answer": "Who",
       "options": [
-        "Oregon",
-        "Points",
-        "Forgotten",
-        "Rally"
+        "Who",
+        "Chrome",
+        "Delhi",
+        "Conspiracy"
       ]
     },
     {
-      "blanked": "CJP, Abhijeet Dipke: ______ 'cockroach' protesters set to return despite police crackdown",
-      "answer": "Indias",
+      "blanked": "This 3,000-square-foot apartment in ______ makes neutrals fun again",
+      "answer": "Thane",
       "options": [
-        "Imran",
-        "Rally",
-        "Sooryavanshis",
-        "Indias"
+        "Congress",
+        "10%",
+        "Punjab",
+        "Thane"
       ]
     },
     {
-      "blanked": "CERT-In ______ Google Chrome Users of Critical Flaws That Could Allow Cyberattacks",
-      "answer": "Warns",
+      "blanked": "CAS review: ______ announces last 30-minute VWAP method for settlement",
+      "answer": "Sebi",
       "options": [
-        "Warns",
-        "Early",
-        "Abhijeet",
-        "Likely"
-      ]
-    },
-    {
-      "blanked": "Go home: Dressed in all black, UK vigilantes bar ______ students from park",
-      "answer": "Indian",
-      "options": [
-        "Bookings",
-        "CJPs",
-        "Indian",
-        "Elon"
-      ]
-    },
-    {
-      "blanked": "Stock Market Rally, Sensex Today: Sensex Closes ______ Points Higher Despite Negative Global Cues",
-      "answer": "1500",
-      "options": [
-        "Shed",
-        "1500",
-        "Sensex",
-        "Specialist"
-      ]
-    },
-    {
-      "blanked": "Congo ______ outbreak spreads to new province bordering Central African Republic By Reuters",
-      "answer": "Ebola",
-      "options": [
-        "Ebola",
-        "Dipke",
-        "Bank",
-        "Could"
-      ]
-    },
-    {
-      "blanked": "Three children and a teacher killed by 16-year-old at ______ primary school",
-      "answer": "Oregon",
-      "options": [
-        "Abhijeet",
-        "Negative",
-        "Oregon",
-        "Dipke"
-      ]
-    },
-    {
-      "blanked": "KZNCU to launch 'thorough internal review' into poor attendance in Durban ______",
-      "answer": "Test",
-      "options": [
-        "Test",
-        "Dipke",
-        "Russian",
-        "Despite"
-      ]
-    },
-    {
-      "blanked": "Read what magistrate said while sending CJP's ______ Das, Ashutosh Ranka to jail",
-      "answer": "Saurav",
-      "options": [
-        "Session",
-        "Frances",
-        "Saurav",
-        "Saudi"
+        "Magnitude",
+        "What",
+        "Sebi",
+        "Rukh"
       ]
     },
     {
@@ -125,29 +65,89 @@
       "answer": "Ukraine",
       "options": [
         "Ukraine",
-        "Test",
-        "Oregon",
-        "Evolution"
+        "Dominates",
+        "10%",
+        "Canada"
       ]
     },
     {
-      "blanked": "YES ______ examining SC ruling on Rs 8,415 crore AT1 bond write-off",
-      "answer": "Bank",
+      "blanked": "J&K IAS officer Rajeev ______ video abusing woman colleague goes viral: 'I can always talk to you like this'",
+      "answer": "Ranjans",
       "options": [
-        "Delimitation",
-        "News-Medical",
-        "Bank",
-        "Saurav"
+        "Chrome",
+        "Trump",
+        "Ranjans",
+        "Ukraine"
       ]
     },
     {
-      "blanked": "Scientists discover water-triggered reactions that may explain microplastic harm - ______",
-      "answer": "News-Medical",
+      "blanked": "IND vs WI, 5th T20I: Bhuvneshwar ______ added to India squad for Bengaluru decider",
+      "answer": "Kumar",
       "options": [
-        "Vaibhav",
-        "News-Medical",
-        "Shed",
-        "Hope"
+        "Nayyi",
+        "Kumar",
+        "11000",
+        "Rover"
+      ]
+    },
+    {
+      "blanked": "Congo ______ outbreak spreads to new province bordering Central African Republic By Reuters",
+      "answer": "Ebola",
+      "options": [
+        "Russian",
+        "Ahead",
+        "Shah",
+        "Ebola"
+      ]
+    },
+    {
+      "blanked": "'Reel ke chakkar mein thuk jaoge': Vaibhav Sooryavanshi's warning to paps goes viral - ______",
+      "answer": "Watch",
+      "options": [
+        "Mars",
+        "Watch",
+        "Issues",
+        "Thane"
+      ]
+    },
+    {
+      "blanked": "CERT-In Warns Google Chrome Users of Critical Flaws That Could Allow ______",
+      "answer": "Cyberattacks",
+      "options": [
+        "Lekha",
+        "Central",
+        "Mars",
+        "Cyberattacks"
+      ]
+    },
+    {
+      "blanked": "Ranabaali Advance Bookings Raise ______ As Jailer 2 Dominates Box Office Buzz",
+      "answer": "Concern",
+      "options": [
+        "CJP",
+        "Special",
+        "Standards",
+        "Concern"
+      ]
+    },
+    {
+      "blanked": "Suryakumar ______ buys luxury home in Dubai, becomes Shah Rukh Khan's neighbour",
+      "answer": "Yadav",
+      "options": [
+        "Trump",
+        "Yadav",
+        "Watch",
+        "Concern"
+      ]
+    },
+    {
+      "blanked": "Tesla launches flying ______ concept car",
+      "answer": "Roadster",
+      "options": [
+        "Russian",
+        "Bengaluru",
+        "Balan",
+        "Roadster"
       ]
     }
   ]
