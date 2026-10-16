@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-10-15T22:50:06.813Z",
+  "generatedAt": "2026-10-16T00:56:28.356Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "'One Petitioner Has To Explain His Conduct': Supreme Court Issues Notice On INDIA Bloc Leaders' Petition...",
-    "Anti-CEC protest highlights | Delhi Police says can allow small gathering at 'suitable place' ahead of CJP's 'Tiranga' protest; CP Central Park shut",
-    "First Tranche Of India-US Trade Deal Finalised, Draft To Be Out Soon",
-    "Actor Imran Khan ordered to leave India after participating in protest",
+    "4 Killed In Shooting At Oregon Elementary School In US, Shooter Dead: Report",
     "Mass shooting plot at Hindu temple in US foiled after rifle jams",
+    "Anti-CEC protest highlights | Delhi Police says can allow small gathering at 'suitable place' ahead of CJP's 'Tiranga' protest; CP Central Park shut",
+    "India says first phase of US trade deal nearly done, insists on edge over rivals",
+    "'One Petitioner Has To Explain His Conduct': Supreme Court Issues Notice On INDIA Bloc Leaders' Petition Against ECI Over SIR",
     "Houthi strikes mark the end of Saudi Arabia's Yemen 'containment strategy'",
     "‘Her misconceptions’: India rejects US Congresswoman Pramila Jayapal’s remarks on voter rolls",
+    "Bollywood actor Imran Khan asked to leave India after participating in protest, media says",
     "30-Foot 'Cockroach' Effigy To Be Burned Alongside Ravan At Delhi Ramlila",
     "CJP leaders Saurav Das, Ashutosh Ranka in custody: Can entering public land amount to trespass?",
-    "Ankita Bhandari murder case: Timeline of events",
-    "Yemen's Houthis hit palace in Aden, coalition details attacks on Saudi infrastructure",
-    "What is the ‘Mother of All Bombs’ US could use in Iran?",
-    "Peshawar: At least 33 pupils and teacher killed after Pakistan school roof collapses",
     "Photos: China and North Korea open new border bridge amid deepening ties",
-    "Ambani's Jio set for listing pop, analysts say ahead of record IPO",
-    "India’s IDBI Bank falls 7% as government announces $5.5 billion stake sale to Canada's Fairfax",
+    "Houthis fire missiles at Yemen palace in bid to wipe out Saudi-backed govt, 4 killed",
+    "Two Bangladeshis executed in Saudi Arabia",
+    "Iran reports cargo ship sinks after hitting mine in Strait of Hormuz",
+    "Fairfax expects IDBI Bank transaction to complete by Q1 2027, says CEO Prem Watsa",
+    "India's top court voids Yes Bank's $880 million AT-1 bond write-off",
+    "Sebi revises CAS rules, changes derivatives expiry settlement methodology",
     "Stock Market Highlights, Oct 15: Sensex jumps over 1,500 points, Nifty nears 23,000; rupee extends gains",
-    "RBI Was Mere Bystander When YES Bank Carried Out Business Clandestinely : Supreme Court",
-    "Amazon Launches Two Wearable AI Products Under Bee Brand",
-    "2026 Kindle review: Amazon nearly perfects its budget e-reader",
-    "iPhone Duo Pre-Orders Begin Tomorrow: Price, Time, How To Book",
+    "Amazon debuts two new AI wearable devices that can listen to conversations and help you shop",
+    "4 Of The Coolest New Kindle Accessories Available In 2026",
     "CERT-In Warns Google Chrome Users of Critical Flaws That Could Allow Cyberattacks",
+    "Schneider and Apple Bring Energy Intelligence to Smart Homes",
     "‘Ramayana: Rise of a Legend’ gets PG-13 rating in the US; Ranbir Kapoor and Yash’s film clocks 3 hours an",
-    "Drishyam 3 Box Office Collection Day 13: Ajay Devgn's Film Is At Rs 328.75 Crore And Counting In India",
-    "Jailer 2 Box Office Early Trends: Superstar Rajinikanth delivers Rs. 100 Cr plus opening day worldwide"
+    "Jailer 2 Box Office Early Trends: Superstar Rajinikanth delivers Rs. 100 Cr plus opening day worldwide",
+    "'They Give Husband-Wife Vibes': Internet Wants Salman Khan And Karisma Kapoor To \"Marry\" After Koffee With Karan Reunion"
   ],
   "quiz": [
     {
-      "blanked": "Ambani's Jio set for listing pop, analysts say ahead of record ______",
-      "answer": "IPO",
+      "blanked": "Punam ______ retires from international cricket",
+      "answer": "Raut",
       "options": [
-        "Launches",
-        "Central",
-        "All",
-        "IPO"
+        "Raut",
+        "IDBI",
+        "Links",
+        "SIR"
       ]
     },
     {
-      "blanked": "CERT-In Warns Google Chrome Users of Critical Flaws That Could Allow ______",
-      "answer": "Cyberattacks",
+      "blanked": "Fairfax expects IDBI Bank transaction to complete by Q1 ______ says CEO Prem Watsa",
+      "answer": "2027",
       "options": [
-        "Unmissable",
+        "Adding",
+        "Vibes",
+        "2027",
+        "880"
+      ]
+    },
+    {
+      "blanked": "4 Killed In ______ At Oregon Elementary School In US, Shooter Dead: Report",
+      "answer": "Shooting",
+      "options": [
+        "Shooting",
+        "PHOTOS",
+        "Intelligence",
+        "Indias"
+      ]
+    },
+    {
+      "blanked": "Photos: China and ______ Korea open new border bridge amid deepening ties",
+      "answer": "North",
+      "options": [
+        "North",
+        "Hormuz",
+        "Congresswoman",
+        "Central"
+      ]
+    },
+    {
+      "blanked": "'One Petitioner Has To Explain His Conduct': Supreme Court Issues Notice On INDIA Bloc Leaders' Petition Against ECI Over ______",
+      "answer": "SIR",
+      "options": [
+        "Raut",
+        "SIR",
+        "Congresswoman",
+        "Cyberattacks"
+      ]
+    },
+    {
+      "blanked": "CERT-In Warns Google Chrome Users of ______ Flaws That Could Allow Cyberattacks",
+      "answer": "Critical",
+      "options": [
+        "Pramila",
+        "Available",
+        "Critical",
+        "Lower"
+      ]
+    },
+    {
+      "blanked": "Two Bangladeshis executed in Saudi ______",
+      "answer": "Arabia",
+      "options": [
+        "Arabia",
+        "Pain",
+        "Arabias",
+        "Effigy"
+      ]
+    },
+    {
+      "blanked": "Stock Market Highlights, ______ 15: Sensex jumps over 1,500 points, Nifty nears 23,000; rupee extends gains",
+      "answer": "Oct",
+      "options": [
         "Hospitals",
-        "Cyberattacks",
-        "Tomorrow"
-      ]
-    },
-    {
-      "blanked": "Actor Imran ______ ordered to leave India after participating in protest",
-      "answer": "Khan",
-      "options": [
-        "Lower",
-        "Haunt",
-        "Khan",
-        "Nifty"
-      ]
-    },
-    {
-      "blanked": "CJP leaders Saurav Das, Ashutosh Ranka in custody: ______ entering public land amount to trespass?",
-      "answer": "Can",
-      "options": [
-        "Tranche",
-        "Can",
-        "Finalised",
-        "She"
-      ]
-    },
-    {
-      "blanked": "Could Ozempic Protect The Brain? Study Finds Links To Lower ______ And Alzheimer’s Risk",
-      "answer": "Stroke",
-      "options": [
-        "Business",
-        "Ravan",
-        "YES",
-        "Stroke"
-      ]
-    },
-    {
-      "blanked": "Astronomers discover the 1st ever green star, a cosmic zombie just in time for ______",
-      "answer": "Halloween",
-      "options": [
-        "Mere",
-        "Kindle",
-        "Lower",
-        "Halloween"
-      ]
-    },
-    {
-      "blanked": "2026 ______ review: Amazon nearly perfects its budget e-reader",
-      "answer": "Kindle",
-      "options": [
-        "Kindle",
-        "Nifty",
-        "Tiranga",
-        "Now"
-      ]
-    },
-    {
-      "blanked": "RBI Was Mere Bystander When YES Bank ______ Out Business Clandestinely : Supreme Court",
-      "answer": "Carried",
-      "options": [
-        "Body",
-        "INDIA",
-        "Carried",
-        "Patekars"
-      ]
-    },
-    {
-      "blanked": "Stock Market Highlights, Oct 15: ______ jumps over 1,500 points, Nifty nears 23,000; rupee extends gains",
-      "answer": "Sensex",
-      "options": [
-        "YES",
-        "Rise",
-        "CARE",
-        "Sensex"
-      ]
-    },
-    {
-      "blanked": "Who Was Rachna Shroff? Indian-American Cancer Researcher Dies Of Disease ______ Was Trying To Cure",
-      "answer": "She",
-      "options": [
-        "She",
-        "Counting",
         "Sensex",
-        "Adding"
+        "Cyberattacks",
+        "Oct"
       ]
     },
     {
-      "blanked": "'How long will Mirabai ______ alone keep winning medals for us?' Sports Ministry reviews Asian Games perfo",
-      "answer": "Chanu",
+      "blanked": "West ______ beat India to level T20 series as Hope continues record run",
+      "answer": "Indies",
       "options": [
-        "Ebola",
-        "Bombs",
-        "Legend",
-        "Chanu"
+        "Study",
+        "Indies",
+        "African",
+        "Das"
       ]
     },
     {
-      "blanked": "Mass shooting plot at ______ temple in US foiled after rifle jams",
-      "answer": "Hindu",
+      "blanked": "30-Foot 'Cockroach' Effigy To Be Burned Alongside ______ At Delhi Ramlila",
+      "answer": "Ravan",
       "options": [
-        "Hindu",
-        "Nana",
-        "Time",
-        "Book"
+        "Internet",
+        "Supreme",
+        "Ravan",
+        "School"
+      ]
+    },
+    {
+      "blanked": "Congo Ebola outbreak spreads to new province bordering Central ______ Republic By Reuters",
+      "answer": "African",
+      "options": [
+        "Shooter",
+        "Saudi-backed",
+        "Light",
+        "African"
+      ]
+    },
+    {
+      "blanked": "Orionid, Taurid Meteors Haunt October ______",
+      "answer": "Skies",
+      "options": [
+        "Yes",
+        "Issues",
+        "Bangladeshis",
+        "Skies"
       ]
     }
   ]
