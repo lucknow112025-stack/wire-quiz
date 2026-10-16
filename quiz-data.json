@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-10-16T18:33:42.010Z",
+  "generatedAt": "2026-10-16T21:42:41.080Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
     "CJP, Abhijeet Dipke: 'Cockroach' party founder detained ahead of Central Park Delhi protest",
-    "'We The Chhotu': Congress Wing's Reaction To Neha Bora's Centrality At Rahul Gandhi Events",
+    "'Could Not Wait To Kill Indians': Chicago Temple Attack Accused Told Co-Workers, Vowed To 'Retry' After Gun",
     "'You might want to explain. Unless, you want me to': Rahul Gandhi's cryptic post over Rubio's Mumbai visi",
-    "We want regime change, says Prashant Bhushan; BJP hits back: ‘Out to stage a coup’",
-    "Inside India’s electoral overhaul that removed 130mn voters",
+    "Prashant Bhushan's 'Want Regime Change' Call, BJP Says 'We Told You So'",
     "First Tranche Of India-US Trade Deal Finalised, Draft To Be Out Soon",
-    "From ‘I got 9 murdered’ to ‘Lalu had them killed’: Anant Singh’s U-turn puts Nitish in dock",
-    "Madras High Court allows RSS marches across 128 locations, criticises TN Police",
-    "Omar Abdullah writes to J&K chief secretary over IAS officer’s ‘misbehaviour’, says NC MLA Tanvir Sadiq",
-    "PM Modi to visit to Canada on December 11 and 12",
-    "Katie Zacharia admits she failed the bar exam on her first attempt in 2011, years after calling herself a",
+    "'We The Chhotu': Congress Wing's Reaction To Neha Bora's Centrality At Rahul Gandhi Events",
+    "Centre expands Census enumerator pool to include private school teachers, clerks",
+    "Revanth Reddy Pitches Hyderabad as Ideal Site for Hyundai Car Plant",
+    "Tremors, Tectonic Shifts: Milind Deora, Shashi Tharoor's Banter Over Protests",
+    "After Bhagwant Mann, Akal Takht Declares AAP MLA Guilty Of Misconduct",
+    "Trump Fires Press Secretary Katie Zacharia After 5 Days On The Job: Report",
+    "Indian man sentenced to life in jail for murder of Chinese woman he met at brothel in UK",
+    "At least 5 killed in Houthi attack on Yemen’s presidential palace in Aden",
     "Debt-strapped Pakistan to chair IMF, World Bank boards of governors in 2027",
-    "Indian national arrested by ICE for faking US citizenship, voting in 2024 general elections | Hindustan Times",
-    "U.S. lawmakers express outrage over foiled plot to attack Hindu temple in Illinois",
-    "New Tesla Roadster with SpaceX thrusters can jump & do barrel rolls - Team-BHP",
     "Ambani Taps Massive Reliance Workforce to Boost Jio’s Record IPO",
-    "Stock Market Highlights: Sensex Ends 414 Points Higher, Nifty Posts Biggest Weekly Gain In 27 Weeks; Tech Mahindra Zooms 8%",
-    "Billionaire Ambani's Reliance Rejects Musk's Claims Of Blocking Starlink India Launch",
+    "New Tesla Roadster with SpaceX thrusters can jump & do barrel rolls - Team-BHP",
+    "Rupee posts best week in seven months, fundamentals key for lasting turnaround",
+    "Q2 results, Oct 17: HDFC Bank, ICICI Bank, India Cements, Axis Bank, ixigo, Yes Bank, others to post earnings, check list",
     "Apple’s New CEO Just Demonstrated How to Stay Classy While Insulting the Competition",
+    "Apple blames ‘extraordinary’ demand as foldable iPhones sell out",
     "CERT-In Warns Google Chrome Users of Critical Flaws That Could Allow Cyberattacks",
-    "Apple iPhone Duo pre-orders begin today - GSMArena.com news",
-    "Call of Duty Modern Warfare 4 campaign early access release time & countdown clock",
-    "Ranabaali Movie Release and Review highlights: Vijay-Rashmika's film struggles to impress",
+    "Galaxy S27 reportedly skips Snapdragon 8 Elite Extreme Gen 6 due to overheating",
     "What Makes Ranbir Kapoor's Rs 78 Lakh Watch Special At Ramayana Event In Bengaluru",
-    "'Drishyam 3 The Conclusion' box office collection Day 15 [LIVE]: Ajay Devgn thriller starts its third Fri"
+    "Ranabaali Movie Release and Review highlights: Vijay-Rashmika's film struggles to impress",
+    "Movie Review: STREET FIGHTER packs action and spectacle but falters on writing, appealing mainly to game fans"
   ],
   "quiz": [
     {
-      "blanked": "Apple’s New CEO Just Demonstrated How to Stay Classy ______ Insulting the Competition",
-      "answer": "While",
+      "blanked": "Trump Fires Press Secretary Katie ______ After 5 Days On The Job: Report",
+      "answer": "Zacharia",
       "options": [
-        "Draft",
-        "Hindustan",
-        "Nitish",
-        "While"
+        "SpaceX",
+        "Boost",
+        "Banter",
+        "Zacharia"
       ]
     },
     {
-      "blanked": "Astronomers discover first documented green star in the ______ Way",
-      "answer": "Milky",
+      "blanked": "Indian man sentenced to life in jail for murder of ______ woman he met at brothel in UK",
+      "answer": "Chinese",
       "options": [
-        "Milky",
-        "128",
-        "Gandhis",
-        "Sensex"
+        "Out",
+        "Watch",
+        "Chinese",
+        "Just"
       ]
     },
     {
-      "blanked": "Indian national arrested by ______ for faking US citizenship, voting in 2024 general elections | Hindustan Times",
-      "answer": "ICE",
+      "blanked": "Winter sea ice loss may be underestimated, ancient clues from a warmer ______ suggest",
+      "answer": "Arctic",
       "options": [
-        "Kapoors",
-        "Special",
-        "ICE",
-        "IAS"
+        "Katie",
+        "Arctic",
+        "Report",
+        "Hyderabad"
       ]
     },
     {
-      "blanked": "New Clinical ______ in Biliary Cancer Management",
-      "answer": "Standards",
+      "blanked": "Total Ultra-Processed Food Intake Is Not Linked to Colorectal ______ Incidence",
+      "answer": "Cancer",
       "options": [
-        "Singhs",
-        "Standards",
-        "Event",
-        "Abhijeet"
+        "Banter",
+        "Insulting",
+        "Call",
+        "Cancer"
       ]
     },
     {
-      "blanked": "First Tranche Of India-US ______ Deal Finalised, Draft To Be Out Soon",
-      "answer": "Trade",
+      "blanked": "CERT-In Warns ______ Chrome Users of Critical Flaws That Could Allow Cyberattacks",
+      "answer": "Google",
       "options": [
-        "Taps",
-        "Trade",
+        "Rajinikanth",
+        "Colorectal",
+        "Google",
+        "Trade"
+      ]
+    },
+    {
+      "blanked": "India Test and ODI squads for New ______ tour announced: Who is in, who is out?",
+      "answer": "Zealand",
+      "options": [
         "Zealand",
-        "Market"
+        "Not",
+        "Ideal",
+        "Movie"
       ]
     },
     {
-      "blanked": "Ambani Taps Massive ______ Workforce to Boost Jio’s Record IPO",
-      "answer": "Reliance",
+      "blanked": "West Indies chase rare series win as international cricket returns to ______",
+      "answer": "Chinnaswamy",
       "options": [
-        "IMF",
-        "Launch",
-        "Reliance",
+        "Neha",
+        "Review",
+        "Event",
         "Chinnaswamy"
       ]
     },
     {
-      "blanked": "From ‘I got 9 murdered’ to ‘Lalu had them killed’: ______ Singh’s U-turn puts Nitish in dock",
-      "answer": "Anant",
+      "blanked": "Movie Review: STREET ______ packs action and spectacle but falters on writing, appealing mainly to game fans",
+      "answer": "FIGHTER",
       "options": [
-        "Colorectal",
-        "Anant",
-        "Claims",
-        "While"
+        "FIGHTER",
+        "Regime",
+        "Bengaluru",
+        "Not"
+      ]
+    },
+    {
+      "blanked": "Arshdeep doubtful for Bengaluru T20I, Bhuvneshwar added to ______ squad",
+      "answer": "India",
+      "options": [
+        "Chinnaswamy",
+        "IPO",
+        "Delhi",
+        "India"
       ]
     },
     {
       "blanked": "Bengalurean to head ______ $20 million space telescope mission",
       "answer": "NASAs",
       "options": [
-        "Convergence",
-        "Hindustan",
-        "115",
-        "NASAs"
+        "Allow",
+        "NASAs",
+        "India-US",
+        "Intake"
       ]
     },
     {
-      "blanked": "Low-Dose CT Features ______ to Lung Adenocarcinoma",
-      "answer": "Tied",
+      "blanked": "New Tesla Roadster with SpaceX thrusters can jump & do barrel rolls - ______",
+      "answer": "Team-BHP",
       "options": [
-        "IMF",
-        "115",
-        "Tied",
-        "Linked"
+        "Intake",
+        "Team-BHP",
+        "Bhushans",
+        "Competition"
       ]
     },
     {
-      "blanked": "Arshdeep doubtful for Bengaluru T20I, ______ added to India squad",
-      "answer": "Bhuvneshwar",
+      "blanked": "What Makes Ranbir Kapoor's Rs 78 Lakh Watch Special At Ramayana ______ In Bengaluru",
+      "answer": "Event",
       "options": [
-        "Kapoors",
-        "Events",
-        "Bhuvneshwar",
-        "Reliance"
-      ]
-    },
-    {
-      "blanked": "Ranabaali Movie Release and Review highlights: ______ film struggles to impress",
-      "answer": "Vijay-Rashmikas",
-      "options": [
-        "Higher",
-        "Lalu",
-        "Vijay-Rashmikas",
-        "Nifty"
-      ]
-    },
-    {
-      "blanked": "'Drishyam 3 The Conclusion' box office collection Day 15 [LIVE]: Ajay Devgn thriller starts its third ______",
-      "answer": "Fri",
-      "options": [
-        "Fri",
-        "Who",
-        "Features",
-        "128"
+        "Chicago",
+        "AAP",
+        "Industry",
+        "Event"
       ]
     }
   ]
