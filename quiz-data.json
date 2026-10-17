@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-10-17T19:35:40.714Z",
+  "generatedAt": "2026-10-17T21:44:12.287Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "Kolkata pandal stampede LIVE | At least 17 dead in stampede at north Kolkata community Durga Puja pandal; PM Announces ₹2 lakh for the dead",
-    "Trump blocking Russia sanctions a 'historic moment': Putin’s envoy",
-    "Protests spread across France as ‘yellow vests’ set to join",
-    "Imran Khan's 'Curiosity' Counter To 'Leave India' Notice For Being At Mumbai Protest",
-    "Who is Katie Zacharia, the White House Press Secretary ‘let go’ after five days in office?",
+    "Kolkata pandal stampede LIVE | At least 19 dead in stampede at north Kolkata community Durga Puja pandal; PM announces ₹2 lakh ex-gratia",
+    "Trump eases Russia oil sanctions, but is Europe still buying Moscow’s gas?",
+    "Cars torched, shops looted: Violence protests erupt across France; over 270 arrested",
+    "'Not An Ordinary Foreigner': Imran Khan In Challenge To 'Leave India' Notice",
     "India news: CJP founder released a day after detention",
-    "Right to protest, sell peanuts interconnected: SC",
-    "Children Must Be Taught About Safe & Unsafe Touch, Train Teachers To Identify Grooming & Abuse : Supreme...",
+    "'Can't die like this': Indian pilot Smit Machchhar recalls flydubai flight ordeal",
+    "4 Killed After Part Of Chimney Collapses At Power Plant In Bengal's Asansol",
+    "First-year engineering student dies after structure collapses at Hyderabad college's dandiya event",
     "Get out: BJP leader pushes 15-year-old girl out of Indore garba event, faces POCSO probe",
-    "Supreme Court probe panel to prioritise use of pellet gun, harassment of female protesters during July 20 march to Parliament",
-    "'Didn't Know What Hit Me': flydubai Hero Recalls Dubai-Tel Aviv Plane Horror",
+    "Right to protest, sell peanuts interconnected: SC",
     "Iran helping Houthis: How Tehran is hitting Saudi Arabia without fighting directly",
-    "Video: Iranian Fishermen Race To Grab iPhones, Perfume From Sunken Cargo Ship",
-    "Pope to be discharged days after lung cancer surgery",
+    "Who is Katie Zacharia, the White House Press Secretary ‘let go’ after five days in office?",
+    "Trump-Zelenskiy rift threatens vital support for Kyiv",
+    "Saudi Arabia Intercepts Four Drones Over Riyadh Amid Houthi Attacks",
     "Yes Bank evaluating legal options after SC ruling on AT-1 bonds, auditors note in Q2 results",
-    "HDFC Bank has completed most of post-merger integration work, says incoming MD & CEO Anup Bagchi",
-    "Finance Ministry clarifies on legislative developments concerning govt's IDBI Bank stake",
-    "2026 Renault Duster Hybrid Launched At Rs 16.99 Lakh; Offers Up To 29 Kmpl Fuel Efficiency!",
-    "Apple’s iPhone Duo pre-orders sell out in seconds in China, with some deliveries delayed until next year",
+    "IDBI Bank sale: Legitimate employee concerns addressed, says MoS, Finance",
+    "HDFC Bank deputy MD Kaizad Bharucha announces decision to quit ahead of Anup Bagchi's takeover as CEO",
+    "Axis Bank Q2 Results: Net profit jumps 38% YoY to Rs 7,003 crore, NII rises 12%",
+    "Deals: iPhone Duo pre-orders begin as Galaxy Z Fold8 gets a price cut - GSMArena.com news",
     "‘These AI tools can help our brand’: Oppo’s European CEO explains how chatbots like ChatGPT could help boost Oppo’s market share",
     "AI to help with everyday household chores: 5 gadgets to make your home smart as Apple launches ‘HomeView’ t...",
-    "Quordle Hint Today: Saturday, October 17 Clues And Answers",
+    "Quordle hints and answers for Saturday, October 17 (game #1727)",
     "Ranabaali Box Office Collection Day 1: Vijay Deverakonda-Rashmika Mandanna Film Opens At Rs 16 Crore Amid Jailer 2 Wave",
     "Jailer 2 Box Office Collections: Rajinikanth starrer gross Rs. 84 Cr worldwide on second day, Rs. 208 Cr cume",
     "'Nayyi Navelli' box office collection day 1: Yami Gautam Dhar's film earns Rs 4.58 cr worldwide; collects"
   ],
   "quiz": [
     {
-      "blanked": "The PUFFINS ______ Mission",
-      "answer": "Telescope",
+      "blanked": "'Nayyi Navelli' box office collection day 1: Yami Gautam Dhar's film earns Rs ______ cr worldwide; collects",
+      "answer": "4.58",
       "options": [
-        "Bagchi",
-        "Benefit",
-        "CJP",
-        "Telescope"
+        "Collections",
+        "4.58",
+        "Indian",
+        "Challenge"
       ]
     },
     {
-      "blanked": "Kolkata pandal stampede LIVE | At least 17 dead in stampede at north Kolkata community Durga ______ pandal; PM Announces ₹2 lakh for the dead",
-      "answer": "Puja",
+      "blanked": "Ranabaali Box Office Collection Day 1: Vijay Deverakonda-Rashmika ______ Film Opens At Rs 16 Crore Amid Jailer 2 Wave",
+      "answer": "Mandanna",
       "options": [
-        "Navelli",
-        "Puja",
-        "Notice",
-        "Deva"
+        "Mandanna",
+        "Poised",
+        "LIVE",
+        "October"
+      ]
+    },
+    {
+      "blanked": "Saudi Arabia Intercepts Four ______ Over Riyadh Amid Houthi Attacks",
+      "answer": "Drones",
+      "options": [
+        "BJP",
+        "Durga",
+        "Launch",
+        "Drones"
+      ]
+    },
+    {
+      "blanked": "Who is ______ Zacharia, the White House Press Secretary ‘let go’ after five days in office?",
+      "answer": "Katie",
+      "options": [
+        "Smit",
+        "Opens",
+        "Katie",
+        "PUFFINS"
+      ]
+    },
+    {
+      "blanked": "‘These AI tools can help our brand’: Oppo’s European ______ explains how chatbots like ChatGPT could help boost Oppo’s market share",
+      "answer": "CEO",
+      "options": [
+        "Machchhar",
+        "Increased",
+        "Launch",
+        "CEO"
       ]
     },
     {
       "blanked": "India’s Aditya-L1 and ______ Proba-3 join forces to decode the Sun’s violent eruptions",
       "answer": "Europes",
       "options": [
-        "Launched",
-        "Houthis",
-        "Europes",
-        "Gautam"
+        "Collections",
+        "Galaxy",
+        "Box",
+        "Europes"
       ]
     },
     {
-      "blanked": "Iran helping ______ How Tehran is hitting Saudi Arabia without fighting directly",
-      "answer": "Houthis",
+      "blanked": "Trump eases Russia oil sanctions, but is Europe still buying ______ gas?",
+      "answer": "Moscows",
       "options": [
-        "Abuse",
-        "Houthis",
-        "Duo",
-        "Cargo"
+        "Moscows",
+        "Asansol",
+        "Mission",
+        "Survival"
       ]
     },
     {
-      "blanked": "Very Hot Beverages Linked to Increased Esophageal Cancer ______",
-      "answer": "Risk",
+      "blanked": "'Can't die like this': Indian pilot ______ Machchhar recalls flydubai flight ordeal",
+      "answer": "Smit",
       "options": [
-        "France",
-        "Hero",
-        "Oppos",
-        "Risk"
+        "Smit",
+        "38%",
+        "PUFFINS",
+        "Finance"
       ]
     },
     {
-      "blanked": "2026 Renault Duster Hybrid Launched At Rs 16.99 Lakh; Offers Up To 29 Kmpl ______ Efficiency!",
-      "answer": "Fuel",
+      "blanked": "The ______ Telescope Mission",
+      "answer": "PUFFINS",
       "options": [
-        "Dhars",
-        "Fuel",
+        "PUFFINS",
+        "Tanaya",
+        "Drones",
+        "Notice"
+      ]
+    },
+    {
+      "blanked": "Very Hot Beverages Linked to Increased ______ Cancer Risk",
+      "answer": "Esophageal",
+      "options": [
+        "Press",
+        "Day",
         "Esophageal",
-        "Jailer"
+        "4.58"
       ]
     },
     {
-      "blanked": "Supreme Court probe panel to prioritise use of pellet gun, harassment of female protesters during ______ 20 march to Parliament",
-      "answer": "July",
+      "blanked": "AI to help with everyday household chores: 5 gadgets to make your home smart as ______ launches ‘HomeView’ t...",
+      "answer": "Apple",
       "options": [
-        "Hot",
-        "Aviv",
-        "July",
-        "Grooming"
+        "India",
+        "Apple",
+        "Tehran",
+        "Moons"
       ]
     },
     {
-      "blanked": "Finance Ministry clarifies on legislative developments concerning govt's IDBI ______ stake",
-      "answer": "Bank",
+      "blanked": "Tamil Nadu Governor ______ CM Vijay express condolences over passing of music director Deva",
+      "answer": "Arlekar",
       "options": [
-        "Wave",
-        "Renault",
-        "BJP",
-        "Bank"
-      ]
-    },
-    {
-      "blanked": "Quordle Hint Today: Saturday, October 17 ______ And Answers",
-      "answer": "Clues",
-      "options": [
-        "Clues",
-        "Aviv",
-        "Saturday",
-        "Hot"
-      ]
-    },
-    {
-      "blanked": "Children Must Be Taught About Safe & Unsafe Touch, Train Teachers To Identify Grooming & ______ : Supreme...",
-      "answer": "Abuse",
-      "options": [
-        "Perfume",
-        "Zacharia",
-        "Launched",
-        "Abuse"
-      ]
-    },
-    {
-      "blanked": "RSV ______ Associated With Survival Benefit in Heart Failure",
-      "answer": "Vaccination",
-      "options": [
-        "Renault",
-        "IPL",
-        "Vaccination",
-        "Recalls"
-      ]
-    },
-    {
-      "blanked": "Apple’s iPhone Duo pre-orders sell out in seconds in ______ with some deliveries delayed until next year",
-      "answer": "China",
-      "options": [
-        "Abuse",
-        "Recalls",
-        "Aviv",
-        "China"
+        "Arlekar",
+        "Gautam",
+        "Europe",
+        "Saudi"
       ]
     }
   ]
