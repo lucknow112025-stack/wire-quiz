@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-10-18T14:48:46.052Z",
+  "generatedAt": "2026-10-18T17:43:19.682Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "\"Hatred In Their Hearts\": Trump Blames Immigrants For Unrest In France",
-    "India news: Kolkata stampede dampens Durga Puja festivities",
-    "Three Men Open Fire Near Tiger Shroff In Mumbai's Juhu Area, Actor Safe",
+    "Actor Tiger Shroff escapes firing attempt in Mumbai’s Juhu; manhunt launched for perpetrators",
+    "10-Day Police Custody For 7 Accused In Kolkata Durga Puja Pandal Stampede",
+    "Cost of living protests hit Belgium, Italy, Portugal and France",
+    "'India an important ally': US state secy Rubio explains why Trump paused sanctions on Russia oil buyers",
+    "8 Mgnrega workers run over by speeding car in Punjab, all dead",
+    "J&K Police book Army officer’s wife for sharing sensitive information with foreign intelligence operatives",
+    "Bus headed for Kashmir pelted with stones in Haryana; hate crime, say Valley leaders",
+    "Modi, Amit Shah and CEC Gyanesh Kumar will pay price for 'vote chori': Rahul Gandhi in Goa",
+    "Children Must Be Taught About Safe & Unsafe Touch, Train Teachers To Identify Grooming & Abuse : Supreme...",
+    "Delhi SEM court grants bail to CJP founder Abhijeet Dipke",
+    "Trump endorses Bibi for re-election, warns Israel against choosing 'wrong leader'",
+    "Iran urges US to accept proposal to reopen Strait of Hormuz",
+    "Why has Pakistan temporarily closed trade routes with Iran?",
     "Who is Mehrdad Akhlaghi, Iran’s new tech-focused defence minister?",
-    "‘Where did the 56-inch chest go?’ Rahul targets PM Modi, Shah in Goa, says BJP’s ‘expiry date’ is near",
-    "Delhi protest LIVE: CJP alleges delay in Saurav Das, Ashutosh Ranka's bail hearing, lawyer says waiting since 11 am | Hindustan Times",
-    "India bars sugar-based ethanol in 2026-27 tender, cuts maize incentive",
-    "Delhi Executive Magistrate Court Orders Release Of CJP Founder Abhijeet Dipke",
-    "'Internet Access Fundamental Right For Children': Supreme Court No To Age-Related Ban",
-    "5 of a family dead in Greater Noida, had last consumed noodles",
-    "‘Google Kisses My A** Now’: Trump Boasts Of Power In Second Term At Kentucky Rally",
-    "‘Our proposal is still on table’: Iran offers to reopen Strait of Hormuz in seven days if US accepts cond",
-    "U.S. President wants 60 days to analyse impact of Russia sanctions law, says Marco Rubio",
-    "India urges nationals in Saudi Arabia to follow safety directives amid security concerns",
-    "Accenture looks to sell Chinese operations for up to $1.5bn",
-    "84 Percent Stocks In Correction, Yet S&P 500 Nears Record High: What's Behind The 'Bull-Bear' Market?",
+    "How Does the Renault Duster Hybrid Achieve 1,400km Range? Explained",
+    "FSSAI issues notices to Nestlé India and Hindustan Unilever over misleading food product claims",
     "Indian refiners' fuel exports to the West jump 43% as they keep processing Russian crude",
-    "‘Rarest of rare’ bets on Reliance ahead of Jio Platforms’ biggest-ever IPO",
+    "Bharti Airtel Becomes First Telco to Launch Voice-Only Plans Under New TRAI Rules",
     "Apple’s iPhone Duo pre-orders sell out in seconds in China, with some deliveries delayed until next year",
-    "Exclusive: Cambridge Heavy Industries has been quietly building a desktop fusion device",
     "Quordle Hint Today: Sunday, October 18 Clues And Answers",
-    "US nuclear fusion reactor to test custom exhaust for negative triangularity plasma",
+    "Exclusive: Cambridge Heavy Industries has been quietly building a desktop fusion device",
+    "Google Open-Sources Harness2, a Recursive Agent Harnessing Framework",
     "Jailer 2 Box Office Collections: Superstar Rajinikanth starrer has another century day on Saturday, 3 days Rs. 316 Cr",
-    "Anirudh Ravichander and Kavya Maran wedding: From dating rumours to Chennai reception and expected guest",
-    "Rashmika Mandanna reveals she pursued Vijay Deverakonda for a year in Koffee With Karan trailer, picks Allu Arjun over Ranbir Kapoor | Hindustan Times"
+    "'Nayyi Navelli' box office collection day 2: Yami Gautam's film earns Rs 4 cr; worldwide gross reaches Rs",
+    "Inside Ujjwal Nikam's Home With Wooden Accents, Elegant Decor And Sweeping City Views"
   ],
   "quiz": [
     {
-      "blanked": "India news: ______ stampede dampens Durga Puja festivities",
-      "answer": "Kolkata",
+      "blanked": "Why Peak Incidence For Breast Cancer In India ______ Between Ages 40–50, Compared To 60–70 In The US & Europe",
+      "answer": "Occurs",
       "options": [
-        "China",
-        "Kolkata",
-        "Marco",
-        "Shah"
+        "Occurs",
+        "Kumar",
+        "Collections",
+        "PCR"
       ]
     },
     {
-      "blanked": "Quordle Hint Today: Sunday, October 18 ______ And Answers",
-      "answer": "Clues",
+      "blanked": "Who is Mehrdad ______ Iran’s new tech-focused defence minister?",
+      "answer": "Akhlaghi",
       "options": [
-        "Clues",
-        "Iran",
-        "Shroff",
-        "Unrest"
+        "Ayush",
+        "First",
+        "Views",
+        "Akhlaghi"
       ]
     },
     {
-      "blanked": "Researchers in ______ develop AI tool to assess stroke risk",
-      "answer": "Australia",
+      "blanked": "World Menopause Day: ______ Ministry stresses awareness, comprehensive care and research",
+      "answer": "Ayush",
       "options": [
-        "Australia",
-        "Times",
-        "Khan",
-        "Ban"
+        "Ayush",
+        "Must",
+        "Valley",
+        "Unilever"
       ]
     },
     {
-      "blanked": "Delhi Executive ______ Court Orders Release Of CJP Founder Abhijeet Dipke",
-      "answer": "Magistrate",
+      "blanked": "Apple’s iPhone ______ pre-orders sell out in seconds in China, with some deliveries delayed until next year",
+      "answer": "Duo",
       "options": [
-        "Magistrate",
-        "Bull-Bear",
-        "BJPs",
-        "Hint"
+        "Water",
+        "Renault",
+        "Wooden",
+        "Duo"
       ]
     },
     {
-      "blanked": "Accenture looks to sell ______ operations for up to $1.5bn",
-      "answer": "Chinese",
+      "blanked": "Trump endorses Bibi for re-election, warns ______ against choosing 'wrong leader'",
+      "answer": "Israel",
       "options": [
-        "Unrest",
-        "Chinese",
-        "Rajinikanth",
-        "Blames"
-      ]
-    },
-    {
-      "blanked": "Deepti on Niki ______ 'It didn't seem at all like she was making her debut'",
-      "answer": "Prasad",
-      "options": [
-        "Greater",
-        "Trump",
-        "Kisses",
-        "Prasad"
-      ]
-    },
-    {
-      "blanked": "Indian refiners' fuel exports to the West jump 43% as they keep processing ______ crude",
-      "answer": "Russian",
-      "options": [
-        "Russian",
-        "Percent",
-        "Prasad",
-        "Sara"
-      ]
-    },
-    {
-      "blanked": "'Internet ______ Fundamental Right For Children': Supreme Court No To Age-Related Ban",
-      "answer": "Access",
-      "options": [
-        "Vaibhav",
-        "India",
-        "Access",
-        "Mumbais"
-      ]
-    },
-    {
-      "blanked": "5 of a family dead in Greater ______ had last consumed noodles",
-      "answer": "Noida",
-      "options": [
-        "4050",
-        "Noida",
-        "Hydrogen",
-        "Vaibhav"
-      ]
-    },
-    {
-      "blanked": "Delhi protest LIVE: CJP alleges delay in Saurav Das, Ashutosh ______ bail hearing, lawyer says waiting since 11 am | Hindustan Times",
-      "answer": "Rankas",
-      "options": [
-        "Strait",
-        "High",
-        "Ex-coach",
-        "Rankas"
-      ]
-    },
-    {
-      "blanked": "'Sanju ______ plays with emotions': Ex-coach explains why Vaibhav Sooryavanshi will have to wait for his",
-      "answer": "Samson",
-      "options": [
-        "Orders",
-        "Vaibhav",
-        "Samson",
-        "High"
-      ]
-    },
-    {
-      "blanked": "Apple’s iPhone Duo pre-orders sell out in seconds in ______ with some deliveries delayed until next year",
-      "answer": "China",
-      "options": [
-        "China",
+        "Gandhi",
+        "Israel",
         "Answers",
-        "Juhu",
-        "Leaking"
+        "Hindustan"
+      ]
+    },
+    {
+      "blanked": "Scientists Find Evidence That Earth's Core Is Still Leaking ______ Helium and Tungsten",
+      "answer": "Hydrogen",
+      "options": [
+        "Airtel",
+        "Mgnrega",
+        "Iran",
+        "Hydrogen"
+      ]
+    },
+    {
+      "blanked": "Anirudh Ravichander to marry Kavya Maran in November, confirms Telangana ______",
+      "answer": "CMO",
+      "options": [
+        "Renault",
+        "Teachers",
+        "Hindustan",
+        "CMO"
+      ]
+    },
+    {
+      "blanked": "10-Day Police ______ For 7 Accused In Kolkata Durga Puja Pandal Stampede",
+      "answer": "Custody",
+      "options": [
+        "Custody",
+        "Ministry",
+        "Stampede",
+        "Grooming"
+      ]
+    },
+    {
+      "blanked": "'Nayyi ______ box office collection day 2: Yami Gautam's film earns Rs 4 cr; worldwide gross reaches Rs",
+      "answer": "Navelli",
+      "options": [
+        "Portugal",
+        "Wooden",
+        "Cambridge",
+        "Navelli"
+      ]
+    },
+    {
+      "blanked": "Actor Tiger ______ escapes firing attempt in Mumbai’s Juhu; manhunt launched for perpetrators",
+      "answer": "Shroff",
+      "options": [
+        "Bibi",
+        "Shroff",
+        "CEC",
+        "Para"
+      ]
+    },
+    {
+      "blanked": "J&K Police book ______ officer’s wife for sharing sensitive information with foreign intelligence operatives",
+      "answer": "Army",
+      "options": [
+        "Belgium",
+        "Maran",
+        "Army",
+        "Navelli"
+      ]
+    },
+    {
+      "blanked": "Modi, Amit Shah and CEC Gyanesh Kumar will pay price for 'vote chori': Rahul Gandhi in ______",
+      "answer": "Goa",
+      "options": [
+        "Italy",
+        "Goa",
+        "Renault",
+        "4050"
       ]
     }
   ]
