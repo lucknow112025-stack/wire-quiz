@@ -1,133 +1,103 @@
 {
-  "generatedAt": "2026-10-17T23:27:43.320Z",
+  "generatedAt": "2026-10-18T01:23:21.267Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
     "Kolkata pandal stampede LIVE | At least 19 dead, 25 others injured; CM Adhikari announces ₹25 lakh ex gratia",
     "Trump blocking Russia sanctions a 'historic moment': Putin’s envoy",
+    "Delhi Executive Magistrate Court Orders Release Of CJP Founder Abhijeet Dipke",
+    "Protest vs Counter-Protest In UK Amid Row Over Poll Body Chief Gyanesh Kumar",
     "France protests turn violent: Fires, looting and 1,200 arrests; Macron vows action",
-    "India news: CJP founder released a day after detention",
-    "'Not An Ordinary Foreigner': Imran Khan In Challenge To 'Leave India' Notice",
     "'Can't die like this': Indian pilot Smit Machchhar recalls flydubai flight ordeal",
     "4 Killed After Part Of Chimney Collapses At Power Plant In Bengal's Asansol",
     "Engineering student dies after structure collapses at Hyderabad college's dandiya event",
-    "Get out: BJP leader pushes 15-year-old girl out of Indore garba event, faces POCSO probe",
     "Right to protest, sell peanuts interconnected: SC",
+    "Children too have fundamental right to access internet; can't deny it citing online harm: Supreme Court",
     "Who is Katie Zacharia, the White House Press Secretary ‘let go’ after five days in office?",
     "Saudi Arabia Intercepts Four Drones Over Riyadh Amid Houthi Attacks",
-    "Albanian PM blames ‘foreign hands’ for unrest as student protests intensify",
     "Iran’s IRGC warns Strait of Hormuz is closed after supertanker catches fire",
+    "Order to limit satellite system used by Ukraine came from White House: Report",
     "Yes Bank evaluating legal options after SC ruling on AT-1 bonds, auditors note in Q2 results",
-    "IDBI Bank sale: Legitimate employee concerns addressed, says MoS, Finance",
-    "Axis Bank Q2 Results: Net profit jumps 38% YoY to Rs 7,003 crore, NII rises 12%",
     "Renault Duster vs Maruti Grand Vitara vs Toyota Hyryder vs Maruti Victoris – Strong Hybrid Comparison (2026)",
-    "Deals: iPhone Duo pre-orders begin as Galaxy Z Fold8 gets a price cut - GSMArena.com news",
+    "India's HDFC Bank Q2 profit rises 4.7%; deputy MD Bharucha to step down",
+    "Jio’s $3.2 Billion IPO Tests Ambani Appeal With Young Indians",
+    "Apple’s iPhone Duo pre-orders sell out in seconds in China, with some deliveries delayed until next year",
     "Quordle Hint Today: Sunday, October 18 Clues And Answers",
     "Everything you need to know about Call of Duty: Modern Warfare 4: Launch schedule, early access, storage, and pre-orders",
-    "Apple bets on the same Siri AI technology with new HomeView device that led to a $250M settlement for iPhone users",
+    "Fertility After Childhood Cancer Linked to Pubertal Hormone Levels",
     "Ranabaali Box Office Collection Day 1: Vijay Deverakonda-Rashmika Mandanna Film Opens At Rs 16 Crore Amid Jailer 2 Wave",
     "Jailer 2 Box Office Collections: Rajinikanth starrer gross Rs. 84 Cr worldwide on second day, Rs. 208 Cr cume",
     "'Nayyi Navelli' box office collection day 1: Yami Gautam Dhar's film earns Rs 4.58 cr worldwide; collects"
   ],
   "quiz": [
     {
-      "blanked": "Saudi Arabia Intercepts Four ______ Over Riyadh Amid Houthi Attacks",
-      "answer": "Drones",
-      "options": [
-        "2026",
-        "Siri",
-        "Drones",
-        "POCSO"
-      ]
-    },
-    {
-      "blanked": "Ranabaali Box ______ Collection Day 1: Vijay Deverakonda-Rashmika Mandanna Film Opens At Rs 16 Crore Amid Jailer 2 Wave",
-      "answer": "Office",
-      "options": [
-        "Hyderabad",
-        "Office",
-        "Sunday",
-        "Grand"
-      ]
-    },
-    {
-      "blanked": "The PUFFINS ______ Mission",
-      "answer": "Telescope",
-      "options": [
-        "Warfare",
-        "12%",
-        "Telescope",
-        "Crore"
-      ]
-    },
-    {
-      "blanked": "Taylor, ______ lay platform before Evans four-for secures thumping win",
-      "answer": "Ervine",
-      "options": [
-        "Legitimate",
-        "Ervine",
-        "Box",
-        "Launch"
-      ]
-    },
-    {
-      "blanked": "India news: ______ founder released a day after detention",
-      "answer": "CJP",
-      "options": [
-        "7003",
-        "Chimney",
-        "Deva",
-        "CJP"
-      ]
-    },
-    {
       "blanked": "'Nayyi Navelli' box office collection day 1: ______ Gautam Dhar's film earns Rs 4.58 cr worldwide; collects",
       "answer": "Yami",
       "options": [
-        "Asansol",
-        "2026",
+        "Attacks",
+        "Appeal",
         "Yami",
-        "Wave"
+        "Riyadh"
       ]
     },
     {
-      "blanked": "Tamil Nadu Governor ______ CM Vijay express condolences over passing of music director Deva",
-      "answer": "Arlekar",
+      "blanked": "India's HDFC ______ Q2 profit rises 4.7%; deputy MD Bharucha to step down",
+      "answer": "Bank",
       "options": [
-        "Duo",
-        "Indian",
-        "Arlekar",
-        "India"
-      ]
-    },
-    {
-      "blanked": "Trump blocking ______ sanctions a 'historic moment': Putin’s envoy",
-      "answer": "Russia",
-      "options": [
-        "Deva",
-        "Navelli",
-        "India",
-        "Russia"
+        "Bank",
+        "Linked",
+        "Video",
+        "Bengals"
       ]
     },
     {
       "blanked": "4 Killed After Part Of Chimney Collapses At Power Plant In ______ Asansol",
       "answer": "Bengals",
       "options": [
-        "Khan",
-        "Arlekar",
-        "208",
-        "Bengals"
+        "Billion",
+        "Bengals",
+        "Killed",
+        "Tests"
       ]
     },
     {
-      "blanked": "Apple bets on the same ______ AI technology with new HomeView device that led to a $250M settlement for iPhone users",
-      "answer": "Siri",
+      "blanked": "Kolkata pandal stampede ______ | At least 19 dead, 25 others injured; CM Adhikari announces ₹25 lakh ex gratia",
+      "answer": "LIVE",
       "options": [
-        "Russia",
-        "Legitimate",
-        "Answers",
-        "Siri"
+        "Today",
+        "Yami",
+        "Arabia",
+        "LIVE"
+      ]
+    },
+    {
+      "blanked": "Mumbai Indians, ______ Jayawardene part ways ahead of IPL 2027",
+      "answer": "Mahela",
+      "options": [
+        "Grand",
+        "Mahela",
+        "Medical",
+        "Duty"
+      ]
+    },
+    {
+      "blanked": "Engineering student dies after structure collapses at ______ college's dandiya event",
+      "answer": "Hyderabad",
+      "options": [
+        "Deverakonda-Rashmika",
+        "South",
+        "Medical",
+        "Hyderabad"
+      ]
+    },
+    {
+      "blanked": "Trump blocking Russia sanctions a 'historic moment': ______ envoy",
+      "answer": "Putins",
+      "options": [
+        "3.2",
+        "Putins",
+        "Opens",
+        "West"
       ]
     },
     {
@@ -135,19 +105,49 @@
       "answer": "Bank",
       "options": [
         "Bank",
-        "Victoris",
-        "Plant",
-        "Zimbabwe"
+        "Australia",
+        "Arlekar",
+        "Journal"
       ]
     },
     {
-      "blanked": "Get out: BJP leader pushes 15-year-old girl out of Indore garba event, faces ______ probe",
-      "answer": "POCSO",
+      "blanked": "Jio’s $3.2 Billion IPO Tests ______ Appeal With Young Indians",
+      "answer": "Ambani",
       "options": [
-        "Sunday",
-        "Evans",
-        "Niki",
-        "POCSO"
+        "IPO",
+        "Ambani",
+        "Russia",
+        "Crore"
+      ]
+    },
+    {
+      "blanked": "European Medical Journal | ______ linked to early signs of heart dysfunction",
+      "answer": "HIV",
+      "options": [
+        "White",
+        "HIV",
+        "IRGC",
+        "Hint"
+      ]
+    },
+    {
+      "blanked": "Delhi Executive ______ Court Orders Release Of CJP Founder Abhijeet Dipke",
+      "answer": "Magistrate",
+      "options": [
+        "Wave",
+        "PUFFINS",
+        "Magistrate",
+        "Duo"
+      ]
+    },
+    {
+      "blanked": "Rabada's back to bolster South ______ as Australia chase series win",
+      "answer": "Africa",
+      "options": [
+        "Africa",
+        "Launch",
+        "Mission",
+        "Chief"
       ]
     }
   ]
