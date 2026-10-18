@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-10-18T21:53:00.059Z",
+  "generatedAt": "2026-10-18T23:50:51.515Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "In pictures: Burning cars, looted shops as France protests over rising costs turn violent",
     "10-Day Police Custody For 7 Accused In Kolkata Durga Puja Pandal Stampede",
+    "In pictures: Burning cars, looted shops as France protests over rising costs turn violent",
     "Actor Tiger Shroff escapes unhurt in Juhu firing incident; suspect detained",
     "US says Europe refused to join push for tariffs on India, China over Russian oil",
-    "Trump says he's great dealmaker. His record says otherwise",
-    "Army officer’s wife booked on suspicion of sharing sensitive info with foreign nations",
-    "Anti-CEC protest highlights | CJP legal head alleges ‘deliberate delay’ in hearing on Saurav Das, Ashutosh Ranka’s release",
+    "8 Mgnrega workers run over by speeding car in Punjab, all dead",
+    "Army officer’s wife being questioned on suspicion of espionage for foreign nations, including China",
+    "CJP's Dipke accuses state of delaying proceedings to prevent release of Saurav Das, Ashutosh Ranka",
     "5 of a family dead in Greater Noida, had last consumed noodles",
-    "9 workers killed as speeding car runs them over in Punjab’s Sangrur",
     "Children Must Be Taught About Safe & Unsafe Touch, Train Teachers To Identify Grooming & Abuse : Supreme...",
+    "India expands cancer drug price caps, slashing costs on 137 medicines by up to 70% from November 9",
     "Trump endorses Bibi for re-election, warns Israel against choosing 'wrong leader'",
-    "Trump asserts Iran war will end 'very quickly'; touts military strikes on Tehran's nuclear sites",
+    "Deaths confirmed in ‘serious incident’ after fire at one of Canada’s busiest army bases in Alberta | World News",
     "Ukraine Fires 1,000 Drones At Russia, St Petersburg Oil Sites Ablaze",
-    "White House Set Up Press Secretary For Brutal TV Grilling Before Firing: Report",
+    "Zelenskiy hopes for meeting with US and Russia during G20 summit",
     "Reliance Jio IPO buzz reaches crypto market! Bitget launches Jio pre-IPO futures ahead of launch - Details for investors",
-    "Trade Setup for October 19: Top 15 things to know before the opening bell",
+    "Airtel launches three voice-only recharge plans with unlimited calls, 300 SMS",
     "How Does the Renault Duster Hybrid Achieve 1,400km Range? Explained",
-    "Airtel launches voice-only prepaid plans after govt mandate, prices start at Rs 185",
-    "Mark Gurman: Apple Made 'Major Mistake' With iPhone Duo Pre-Orders",
+    "Indian mutual funds stop bulk subscriptions to gold ETFs ahead of festive season",
     "Quordle Hint Today: Monday, October 19 Clues And Answers",
+    "Apple Says iPhone Duo Demand Extraordinary After Delivery Delays",
     "Google Open-Sources Harness2, a Recursive Agent Harnessing Framework",
-    "Upcoming Phones Launching in India This Week: OPPO Find X10 Series, Samsung Galaxy F70 5G Is this conversation helpful so far?",
+    "Apple’s HomeViews Reportedly Collected Dust in Warehouses ‘For the Better Part of a Year’",
+    "Prahaar box office collection day 3: Rajkummar Rao film crosses ₹9 crore, surpasses lifetime haul of Kangana Ranaut’s Bharat Bhhagya Viddhaata | Bollywood",
     "Deva, veteran music composer’s funeral highlights | Final rites on October 18; T.N. government to accord State honours",
-    "Inside Ujjwal Nikam's Home With Wooden Accents, Elegant Decor And Sweeping City Views",
-    "‘Kappi Squad’ fame Belraj Kalarickal passes away at 27 days after directorial debut; Rahul Riji Nair pays"
+    "27-year-old director Belraj Kalarickal found dead in Kochi hotel room weeks after marriage | The cause of his death has not been disclosed | Inshorts"
   ],
   "quiz": [
     {
-      "blanked": "In pictures: Burning cars, looted shops as ______ protests over rising costs turn violent",
-      "answer": "France",
+      "blanked": "Apple Says iPhone Duo Demand Extraordinary After ______ Delays",
+      "answer": "Delivery",
       "options": [
-        "France",
-        "Teachers",
-        "NASA",
-        "100"
+        "Train",
+        "Oil",
+        "Delivery",
+        "Mandhana"
       ]
     },
     {
-      "blanked": "Airtel launches voice-only prepaid plans after govt mandate, prices start at Rs ______",
-      "answer": "185",
+      "blanked": "27-year-old director Belraj Kalarickal found dead in Kochi hotel room weeks after marriage | The cause of his death has not been disclosed | ______",
+      "answer": "Inshorts",
       "options": [
-        "Sweeping",
-        "Pre-Orders",
-        "Rankas",
-        "185"
+        "Inshorts",
+        "Early",
+        "Contamination",
+        "Must"
       ]
     },
     {
-      "blanked": "Children Must Be Taught About Safe & Unsafe Touch, Train Teachers To ______ Grooming & Abuse : Supreme...",
-      "answer": "Identify",
+      "blanked": "Shafali Verma scripts history with ninth 50-plus score as ______ thrash Zimbabwe to seal T20I series",
+      "answer": "India",
       "options": [
-        "Final",
-        "Nikams",
-        "Museum",
-        "Identify"
+        "India",
+        "Rao",
+        "Bhhagya",
+        "Unsafe"
       ]
     },
     {
-      "blanked": "There is no safe level of second-hand smoke: ______ on why you shouldn't ignore it even if you're not the one smoking | Health",
-      "answer": "Doctors",
+      "blanked": "Reliance ______ IPO buzz reaches crypto market! Bitget launches Jio pre-IPO futures ahead of launch - Details for investors",
+      "answer": "Jio",
       "options": [
-        "Today",
-        "Squad",
-        "Rankas",
-        "Doctors"
+        "Jio",
+        "Safe",
+        "Saurav",
+        "Details"
       ]
     },
     {
       "blanked": "Japan to launch spacecraft on a mission to get samples from a ______ moon",
       "answer": "Martian",
       "options": [
-        "Noida",
-        "Identify",
         "Martian",
-        "Jio"
+        "Collections",
+        "Duo",
+        "Reportedly"
       ]
     },
     {
-      "blanked": "Shafali ______ scripts history with ninth 50-plus score as India thrash Zimbabwe to seal T20I series",
-      "answer": "Verma",
+      "blanked": "How ______ the Renault Duster Hybrid Achieve 1,400km Range? Explained",
+      "answer": "Does",
       "options": [
-        "150",
-        "China",
-        "Pre-Orders",
-        "Verma"
+        "Kangana",
+        "Does",
+        "70%",
+        "Future"
       ]
     },
     {
-      "blanked": "Asian Para ______ begin in Japan; Over 150 athletes from India to aim for over 100 medals",
-      "answer": "Games",
+      "blanked": "Children Must Be Taught About Safe & Unsafe Touch, Train Teachers To ______ Grooming & Abuse : Supreme...",
+      "answer": "Identify",
       "options": [
-        "Stampede",
-        "Top",
-        "Martian",
-        "Games"
+        "IPO",
+        "Test",
+        "Office",
+        "Identify"
       ]
     },
     {
-      "blanked": "Breast cancer: ______ detection, personalised treatment and screening access remain key challenges",
-      "answer": "Early",
+      "blanked": "Ranabaali Worldwide ______ Office Collections: Vijay Deverakonda and Rashmika Mandanna starrer collects Rs 24.50 crore in two days, needs better trends",
+      "answer": "Box",
       "options": [
-        "Sangrur",
-        "Secretary",
-        "Early",
-        "1000"
+        "Rajkummar",
+        "Agent",
+        "Box",
+        "Oil"
       ]
     },
     {
-      "blanked": "Bengaluru's ramya anche becomes principal investigator of ______ mission: She will lead the 168-crore mission...",
-      "answer": "NASA",
+      "blanked": "CJP's Dipke accuses state of delaying proceedings to prevent release of Saurav Das, ______ Ranka",
+      "answer": "Ashutosh",
       "options": [
-        "NASA",
-        "Health",
-        "Open-Sources",
-        "Taught"
+        "Ashutosh",
+        "Demand",
+        "News",
+        "Klauea"
       ]
     },
     {
-      "blanked": "Reliance Jio ______ buzz reaches crypto market! Bitget launches Jio pre-IPO futures ahead of launch - Details for investors",
-      "answer": "IPO",
+      "blanked": "10-Day Police Custody For 7 Accused In Kolkata Durga ______ Pandal Stampede",
+      "answer": "Puja",
       "options": [
-        "Answers",
-        "150",
-        "Ablaze",
-        "IPO"
+        "Puja",
+        "Verma",
+        "Office",
+        "Framework"
       ]
     },
     {
-      "blanked": "9 workers killed as speeding car runs them over in ______ Sangrur",
-      "answer": "Punjabs",
+      "blanked": "Quordle Hint Today: ______ October 19 Clues And Answers",
+      "answer": "Monday",
       "options": [
-        "NASA",
-        "October",
-        "Punjabs",
-        "Grooming"
+        "Monday",
+        "SMS",
+        "24.50",
+        "Vision"
       ]
     },
     {
-      "blanked": "How Does the Renault Duster ______ Achieve 1,400km Range? Explained",
-      "answer": "Hybrid",
+      "blanked": "India expands cancer drug price caps, slashing costs on ______ medicines by up to 70% from November 9",
+      "answer": "137",
       "options": [
-        "Mistake",
-        "Hybrid",
-        "Phones",
-        "Petersburg"
+        "Mandanna",
+        "Renault",
+        "Test",
+        "137"
       ]
     }
   ]
