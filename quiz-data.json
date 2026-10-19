@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-10-19T02:47:52.649Z",
+  "generatedAt": "2026-10-19T08:22:09.479Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "Actor Tiger Shroff escapes unhurt in Juhu firing incident; suspect detained",
-    "France on fire: City halls set ablaze, shops looted as protests turn violent - Videos",
-    "10-Day Police Custody For 7 Accused In Kolkata Durga Puja Pandal Stampede",
-    "Tel Aviv-Vienna flight makes emergency landing after bomb threat",
-    "Oil slips as Trump's sanction waiver may lead to more Russian fuel supplies",
+    "Tiger Shroff: Bollywood actor survives shooting attempt in Mumbai",
+    "France protests: Macron vows to hold accountable those who ‘sought to bring down the Republic’",
+    "US says Europe refused to join push for tariffs on India, China over Russian oil",
+    "Using mobile phones in speaker mode in trains and railway premises attracts removal from railway premises, fine and imprisonment",
+    "Stock Market LIVE Updates, Sensex Today: Sensex Drops 500 Points, Oil Retreats From 5-Month High",
+    "A few more things about the Jio Platforms IPO",
+    "7 held, query on BJP leaders on samity list over Chorebagan pandal stampede in Kolkata",
+    "BJP veteran LK Advani discharged from Delhi hospital after health improves",
+    "One killed, several injured in clashes in Manipur's Thoubal district; prohibitory orders imposed",
+    "Over 500 spas in Keralam raided, five arrested",
     "'Like a war movie': 4 killed, 19 critical after fire at Canada military base",
-    "Manipur in turmoil again: 15 houses torched in Kamjong; 1 killed, several injured in gun attack",
-    "5 of a family dead in Greater Noida, had last consumed noodles",
-    "After Ladakh Talks Hit Roadblock, Government Seeks To Continue Dialogue",
-    "J&K Police book Army officer’s wife for sharing sensitive information with foreign intelligence operatives",
-    "Putin proposes trilateral summit with Trump, Xi to discuss Ukraine war: Report",
-    "World Highlights: Trump endorses Israeli Prime Minister Benjamin Netanyahu for reelection",
-    "US-Designated Global Terrorist Muhammad Sarwar Dies In Lahore",
-    "Iran says two tankers catch fire after hitting mines in Strait of Hormuz",
-    "Reliance Jio IPO buzz reaches crypto market! Bitget launches Jio pre-IPO futures ahead of launch - Details for investors",
-    "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
-    "Trade Setup for October 19: Top 15 things to know before the opening bell",
-    "Accenture looks to sell Chinese operations for up to $1.5bn",
-    "Today’s Quordle Hints, Answers for October 12, 2026 (Puzzle #1722)",
-    "Apple Says iPhone Duo Demand Extraordinary After Delivery Delays",
-    "Google EnvHarness Enables Self-Evolving Agents to Learn in Dynamics Environments",
-    "Samsung Galaxy F70 5G Lands in India at Rs 19,999 [2026] - https://tech-insider.org/",
-    "Saif Ali Khan reveals he has been attending parent-teacher meetings at the same school since he was 20: '",
-    "Jailer 2 Box Office Collections: Superstar Rajinikanth starrer has another century day on Saturday, 3 days Rs. 316 Cr",
-    "Horoscope Today: October 19, 2026"
+    "'Can Plumber Land Aircraft'? flydubai Indian Pilot On Role Of Israeli Hero",
+    "Putin proposes summit with Trump and Xi to discuss Ukraine deal, WSJ says",
+    "Want to try your luck again? Iran responds to Trump's finish the job threat",
+    "Oil, foreign flows in focus for rupee; bond traders eye rate-hike bets",
+    "China’s economy grows 4.5% in third quarter, staying on track for annual target",
+    "BoJ Governor Ueda: Middle East conflict is driving up energy and other supply-driven inflation pressures",
+    "Gold rises as Warsh remarks temper Fed hike bets, futures top $4,200",
+    "Galaxy F70 5G Price: Rs 17,999 vs Rs 19,999 Explained - https://tech-insider.org/",
+    "Alibaba says iPhone Duo initial allocation sold out almost immediately",
+    "Fat To Fit: 'I Lost Over 16 Kilos In 8 Months'",
+    "Nvidia RTX 5090 Cargo Worth About $470,000 Vanishes at São Paulo Airport; Brazilian Distributor Demands Answers",
+    "'Jailer 2' box office collection day 4: Rajinikanth, Mohanlal, Nelson Dilipkumar film sees Sunday jump; e",
+    "Kylie Jenner makes Victoria's Secret runway debut in '$50 million fantasy bra': The diamond-encrusted piece took over 1,000 hours to make | Fashion Trends",
+    "‘Amruthavarshini’: When Deva gave Kannada cinema an all-time hit with a soulful album"
   ],
   "quiz": [
+    {
+      "blanked": "Over ______ spas in Keralam raided, five arrested",
+      "answer": "500",
+      "options": [
+        "Lekhara",
+        "Ancient",
+        "500",
+        "Collection"
+      ]
+    },
     {
       "blanked": "'Like a war movie': 4 killed, 19 critical after fire at ______ military base",
       "answer": "Canada",
       "options": [
-        "Crosses",
-        "Environments",
-        "Canada",
-        "Continue"
+        "500",
+        "Avani",
+        "Lekhara",
+        "Canada"
       ]
     },
     {
-      "blanked": "Manipur in turmoil again: 15 houses torched in ______ 1 killed, several injured in gun attack",
-      "answer": "Kamjong",
+      "blanked": "Starwatch: Catch the ______ meteor shower streak across the night sky",
+      "answer": "Orionid",
       "options": [
-        "Stars",
-        "Canada",
-        "Jio",
-        "Kamjong"
+        "Israeli",
+        "Orionid",
+        "About",
+        "Mumbai"
       ]
     },
     {
-      "blanked": "World ______ Trump endorses Israeli Prime Minister Benjamin Netanyahu for reelection",
-      "answer": "Highlights",
+      "blanked": "BoJ ______ Ueda: Middle East conflict is driving up energy and other supply-driven inflation pressures",
+      "answer": "Governor",
       "options": [
-        "Extraordinary",
-        "Highlights",
-        "Puzzle",
-        "Vijay"
+        "Kilos",
+        "Airport",
+        "Warsh",
+        "Governor"
       ]
     },
     {
-      "blanked": "Trade ______ for October 19: Top 15 things to know before the opening bell",
-      "answer": "Setup",
+      "blanked": "China’s economy grows ______ in third quarter, staying on track for annual target",
+      "answer": "4.5%",
       "options": [
-        "Puzzle",
-        "Setup",
-        "Netanyahu",
-        "Shooting"
+        "4200",
+        "Cricket",
+        "Trends",
+        "4.5%"
       ]
     },
     {
-      "blanked": "Accenture looks to sell ______ operations for up to $1.5bn",
-      "answer": "Chinese",
+      "blanked": "Nvidia RTX 5090 Cargo Worth About $470,000 Vanishes at São Paulo Airport; Brazilian ______ Demands Answers",
+      "answer": "Distributor",
       "options": [
-        "Digestive",
-        "Chinese",
-        "Custody",
-        "Trump"
+        "1000",
+        "Distributor",
+        "Iran",
+        "Mandanna"
       ]
     },
     {
-      "blanked": "Today’s Quordle Hints, Answers for October 12, 2026 ______ #1722)",
-      "answer": "Puzzle",
+      "blanked": "'Jailer 2' box office collection day 4: Rajinikanth, Mohanlal, Nelson ______ film sees Sunday jump; e",
+      "answer": "Dilipkumar",
       "options": [
-        "Puzzle",
-        "Videos",
-        "IPO",
-        "Khan"
+        "Sunday",
+        "All",
+        "Dilipkumar",
+        "Shingles"
       ]
     },
     {
-      "blanked": "Iran says two tankers catch fire after hitting mines in Strait of ______",
-      "answer": "Hormuz",
+      "blanked": "A few more things about the Jio ______ IPO",
+      "answer": "Platforms",
       "options": [
-        "October",
-        "Sarwar",
-        "Puzzle",
-        "Hormuz"
+        "470000",
+        "Keralam",
+        "Republic",
+        "Platforms"
       ]
     },
     {
-      "blanked": "Asian Para Games begin in Japan; Over ______ athletes from India to aim for over 100 medals",
-      "answer": "150",
+      "blanked": "Release ______ Sooryavanshi from India squad? ‘It’s heartbreaking, but no other way,’ says ex-cricketer",
+      "answer": "Vaibhav",
       "options": [
-        "Police",
-        "150",
-        "Green",
-        "Doctors"
+        "Kodak",
+        "Vaibhav",
+        "Today",
+        "When"
       ]
     },
     {
-      "blanked": "France on fire: City halls set ablaze, shops looted as protests turn violent - ______",
+      "blanked": "Live Cricket Score, Schedule, Latest News, Stats & ______",
       "answer": "Videos",
       "options": [
-        "Dies",
-        "Self-Evolving",
+        "17999",
         "Videos",
-        "Ladakh"
+        "Kolkata",
+        "Republic"
       ]
     },
     {
-      "blanked": "Tel ______ flight makes emergency landing after bomb threat",
-      "answer": "Aviv-Vienna",
+      "blanked": "One killed, several injured in clashes in Manipur's ______ district; prohibitory orders imposed",
+      "answer": "Thoubal",
       "options": [
-        "Duo",
-        "Jasprit",
-        "Week",
-        "Aviv-Vienna"
+        "Thoubal",
+        "Iran",
+        "Studies",
+        "17999"
       ]
     },
     {
-      "blanked": "Reliance Jio ______ buzz reaches crypto market! Bitget launches Jio pre-IPO futures ahead of launch - Details for investors",
-      "answer": "IPO",
+      "blanked": "NASA's Satellite ______ Spider-Shaped Crater In Australia Formed By Ancient Meteorite Impact",
+      "answer": "Spots",
       "options": [
-        "100",
-        "Lands",
-        "150",
-        "IPO"
-      ]
-    },
-    {
-      "blanked": "Bowlers, ______ Mandhana power India to series win",
-      "answer": "Shafali",
-      "options": [
-        "Learn",
-        "Shafali",
-        "Details",
-        "Human"
+        "Mohanlal",
+        "Office",
+        "Dilipkumar",
+        "Spots"
       ]
     }
   ]
