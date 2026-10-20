@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-10-20T04:45:14.684Z",
+  "generatedAt": "2026-10-20T09:45:14.465Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "Tiger Shroff firing: Ram Gopal Varma says attackers 'seem to be wanting to kill for vanity and pride'; Ur",
-    "Amid Unrest In France, Trump Says 'Paris Will Be Muslim City Very Soon'",
-    "New Zealand apples at 25% duty, kiwifruit at zero: What's the catch in India's new trade deal?",
-    "From France to Albania, social unrest is setting Europe’s streets ablaze",
-    "Hegseth meets Netanyahu in unannounced Israel visit",
-    "'No Respect For Law, Habitual In Calling Protests At Denotified Area' : Executive Magistrate On Extending ...",
+    "India-New Zealand FTA comes into force; new visa categories for Indians, zero-duty access for exports",
+    "With France, Albania Examples, RSS Chief Warns Against \"Regime Change\" Bid",
+    "India-US trade deal ‘taken into account’ to waive Russia oil sanctions: Marco Rubio",
+    "How A Cab Driver's Phone Call Helped Cops Trace Tiger Shroff Attack Suspects",
+    "Executive Magistrate Extends Custody Of CJP Leaders Saurav Das, Ashutosh Ranka By Two Days",
     "Yusuf Pathan To Get Contested Vadodara Land Months After Switch To NDA",
-    "Security scare at Delhi Metro: CISF jawan chases down NRI hiding ‘semi-solid substance’; CCTV captures dramatic pursuit",
-    "US ‘very close’ to India trade deal; energy needs considered in Russia sanctions waiver: Marco Rubio | India News",
-    "John Brittas seeks President’s intervention as JNU students’ hunger strike enters 17th day",
-    "North Korea releases photos of Kim Jong Un at clothing expo after viral death rumors",
-    "‘Time for Zelenskyy to get somebody else to negotiate’: Trump open to Putin-Xi talks on Ukraine war",
-    "Oil Futures Settle Lower As U.S. Waives Some Russia Sanctions",
-    "Trump’s Push for Deals With Russia Powers His Frustration With Ukraine",
+    "Delhi Confidential: Rahul Gandhi off to Vietnam on short break; Cabinet reshuffle buzz grows after Murugan’s exit",
+    "3-layer security deployed for Modi’s expected presence at Delhi Dusshera celebrations | India News",
+    "Chorebagan stampede: Focus on pre-Puja committee overhaul for new regime entrants",
+    "Video shows 30-foot cockroach effigy set to be burnt alongside Raavan's in Delhi | | Inshorts",
+    "Police ‘lost control’ during French protests, says Interior Minister",
+    "Trump Says He Is Ready To Meet Putin, Xi In China Next Month",
+    "'No double standards on terrorism': Rajnath Singh at SCO in Pakistan deputy PM Ishaq Dar's presence | India News",
+    "Oil-rich Alberta votes on Canada separation: All you need to know",
     "Ambani looks to pull off India’s biggest IPO",
     "Stock market holiday on Dussehra: Are NSE, BSE, MCX open or closed for trading on October 20",
-    "Indian shares slip; investors await Jio IPO",
-    "Tesla asks shareholders to re-elect Musk, Denholm and Straubel at December annual meeting",
-    "Some iPhone Duo Pre-Orders in Japan Are Now Showing Launch-Day Delivery",
-    "Today’s NYT Strands Hints, Spangram, Answers: Tuesday, October 20 (Duck Duck Goose)",
-    "Analysts Expect Touch-Screen MacBook Pro Debut at Apple’s Oct. 28 Event",
-    "iQOO officially announces compact gaming tablet with 9,020mAh battery and 165Hz OLED display",
-    "Rajinikanth’s ‘Jailer 2’ Ranks No. 2 at Global Box Office as ‘Street Fighter’ Leads",
-    "‘Amruthavarshini’: When Deva gave Kannada cinema an all-time hit with a soulful album",
-    "Yash Reveals Why Ramayana Makers Are Highlighting Its Rs 4,000 Crore Budget"
+    "Oil holds near five-month high as Hormuz, Houthi attacks threaten supply recovery",
+    "Tata Trusts files response to Venu Srinivasan, Vijay Singh’s complaints on SDTT governance before...",
+    "NVIDIA introduces RTX Spark laptops for local AI and accelerated computing",
+    "Apple's 'Pro and tell' event next week: OLED MacBook Pro, more expected",
+    "Google Search Traffic to Publishers Fell 40%: The Data",
+    "Apple Foldable iPhone Deliveries Delayed Until January 2027",
+    "Karthik Sabesh passes away at 37: Actor’s death comes days after uncle and music director Deva’s passing",
+    "'Ramayana' star Yash urges fans not to 'find faults' with film ahead of release; says 'Let's come togethe",
+    "Rajinikanth’s ‘Jailer 2’ Ranks No. 2 at Global Box Office as ‘Street Fighter’ Leads"
   ],
   "quiz": [
     {
-      "blanked": "Trump’s ______ for Deals With Russia Powers His Frustration With Ukraine",
-      "answer": "Push",
+      "blanked": "Trump Says He Is ______ To Meet Putin, Xi In China Next Month",
+      "answer": "Ready",
       "options": [
-        "Push",
-        "Revived",
-        "Contested",
-        "Ram"
+        "Ready",
+        "Organ",
+        "One",
+        "2026"
       ]
     },
     {
-      "blanked": "From France to Albania, social unrest is setting ______ streets ablaze",
-      "answer": "Europes",
+      "blanked": "‘We’ve got our plans’: New Zealand plot to stop Vaibhav ______ ahead of India T20Is",
+      "answer": "Sooryavanshi",
       "options": [
-        "Highlighting",
-        "Ramayana",
-        "Europes",
+        "Sooryavanshi",
+        "Modis",
+        "Risk",
+        "Ishaq"
+      ]
+    },
+    {
+      "blanked": "Executive Magistrate Extends ______ Of CJP Leaders Saurav Das, Ashutosh Ranka By Two Days",
+      "answer": "Custody",
+      "options": [
+        "Always",
+        "Global",
+        "Custody",
+        "Coming"
+      ]
+    },
+    {
+      "blanked": "Yusuf Pathan To ______ Contested Vadodara Land Months After Switch To NDA",
+      "answer": "Get",
+      "options": [
+        "Focus",
+        "Get",
+        "One",
         "Months"
       ]
     },
     {
-      "blanked": "Orionid meteor shower to light up ______ skies with fiery cosmic display",
-      "answer": "October",
+      "blanked": "Apple's 'Pro and tell' event next week: ______ MacBook Pro, more expected",
+      "answer": "OLED",
+      "options": [
+        "OLED",
+        "Saurav",
+        "Traffic",
+        "SDTT"
+      ]
+    },
+    {
+      "blanked": "Karthik Sabesh passes away at 37: ______ death comes days after uncle and music director Deva’s passing",
+      "answer": "Actors",
+      "options": [
+        "Ravi",
+        "RTX",
+        "Actors",
+        "Confidential"
+      ]
+    },
+    {
+      "blanked": "Google Search ______ to Publishers Fell 40%: The Data",
+      "answer": "Traffic",
+      "options": [
+        "Traffic",
+        "Alberta",
+        "Rewrite",
+        "Screening"
+      ]
+    },
+    {
+      "blanked": "Nepal blocks Ayushmann Khurrana and ______ Ali Khan’s Udta Teer, denies permission for public screening | Bollywood",
+      "answer": "Sara",
+      "options": [
+        "Need",
+        "Ayushmann",
+        "Canada",
+        "Sara"
+      ]
+    },
+    {
+      "blanked": "How A Cab Driver's Phone Call Helped Cops Trace Tiger ______ Attack Suspects",
+      "answer": "Shroff",
+      "options": [
+        "Shroff",
+        "Chief",
+        "Nurse-Led",
+        "Venu"
+      ]
+    },
+    {
+      "blanked": "Oil holds near five-month high as ______ Houthi attacks threaten supply recovery",
+      "answer": "Hormuz",
+      "options": [
+        "Screening",
+        "Traffic",
+        "Hormuz",
+        "Zimbabwe"
+      ]
+    },
+    {
+      "blanked": "Stock market holiday on Dussehra: Are ______ BSE, MCX open or closed for trading on October 20",
+      "answer": "NSE",
+      "options": [
+        "Spark",
+        "NSE",
+        "Clinic",
+        "Early"
+      ]
+    },
+    {
+      "blanked": "Delhi Confidential: Rahul Gandhi off to Vietnam on short break; Cabinet reshuffle buzz grows after ______ exit",
+      "answer": "Murugans",
       "options": [
         "Gandhi",
-        "Showing",
-        "October",
-        "Him"
-      ]
-    },
-    {
-      "blanked": "ChatGPT Explains the Odds of AI Triggering the Next ______",
-      "answer": "Pandemic",
-      "options": [
-        "Pandemic",
-        "Cusp",
-        "Answers",
-        "Zealand"
-      ]
-    },
-    {
-      "blanked": "Japan launches H3 rocket carrying ______ moon sample-return probe",
-      "answer": "Mars",
-      "options": [
-        "Muslim",
-        "Athletics",
-        "Mars",
-        "NSE"
-      ]
-    },
-    {
-      "blanked": "Asian Para Games ______ Day 2 LIVE Updates: Sheetal Devi On Cusp Of Archery Gold After Medal Rush In Athletics",
-      "answer": "2026",
-      "options": [
-        "Risk",
-        "Updates",
-        "2026",
-        "Whats"
-      ]
-    },
-    {
-      "blanked": "Oil ______ Settle Lower As U.S. Waives Some Russia Sanctions",
-      "answer": "Futures",
-      "options": [
-        "Futures",
-        "Aman",
-        "Varma",
-        "Highlighting"
-      ]
-    },
-    {
-      "blanked": "‘Amruthavarshini’: ______ Deva gave Kannada cinema an all-time hit with a soulful album",
-      "answer": "When",
-      "options": [
-        "When",
-        "MacBook",
-        "Street",
-        "Futures"
-      ]
-    },
-    {
-      "blanked": "Security scare at Delhi Metro: CISF jawan chases down ______ hiding ‘semi-solid substance’; CCTV captures dramatic pursuit",
-      "answer": "NRI",
-      "options": [
-        "Highlights",
-        "Global",
-        "NRI",
-        "Ex-India"
-      ]
-    },
-    {
-      "blanked": "‘Give Vaibhav Sooryavanshi harsh truth’: Ex-India cricketer explains ______ Gambhir, management’s approac",
-      "answer": "Gautam",
-      "options": [
-        "Indias",
-        "Delhi",
-        "Gautam",
-        "Explains"
-      ]
-    },
-    {
-      "blanked": "North ______ releases photos of Kim Jong Un at clothing expo after viral death rumors",
-      "answer": "Korea",
-      "options": [
-        "Korea",
-        "Powers",
-        "Downstaging",
-        "Switch"
-      ]
-    },
-    {
-      "blanked": "'No Respect For Law, Habitual In Calling Protests At ______ Area' : Executive Magistrate On Extending ...",
-      "answer": "Denotified",
-      "options": [
-        "Denotified",
-        "Among",
-        "Always",
-        "Ronaldo"
+        "Ravi",
+        "Murugans",
+        "Rahul"
       ]
     }
   ]
