@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-10-20T00:03:24.694Z",
+  "generatedAt": "2026-10-20T04:45:14.684Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "Tiger Shroff Shooter Works With Rapido. Taxi App Shares His Work Status",
-    "'No Respect For Law, Habitual In Calling Protests At Denotified Area' : Executive Magistrate On Extending ...",
-    "Police ‘lost control’ during French protests, says Interior Minister",
-    "'Holiday mode on': BJP alleges Rahul Gandhi travelling abroad to meet 'chaos collaborators'",
-    "One killed, several injured in clashes in Manipur's Thoubal district; prohibitory orders imposed",
-    "In pictures: Empty pandal, grief-stricken families a day after stampede kills 19",
-    "India-US trade deal ‘taken into account’ to waive Russia oil sanctions: Marco Rubio",
+    "Tiger Shroff firing: Ram Gopal Varma says attackers 'seem to be wanting to kill for vanity and pride'; Ur",
+    "Amid Unrest In France, Trump Says 'Paris Will Be Muslim City Very Soon'",
     "New Zealand apples at 25% duty, kiwifruit at zero: What's the catch in India's new trade deal?",
-    "Heavy overnight rain batters Chennai as Northeast monsoon gets active in Tamil Nadu",
-    "The math of the 30% cap on 137 cancer drug margins, and what it means for patient bills | HT Explainers",
-    "‘Avoid crowded areas’: India issues advisory for citizens amid violent protests in Italy",
-    "Kremlin says Putin, Trump and Xi could hold a three-way meeting in China next month",
+    "From France to Albania, social unrest is setting Europe’s streets ablaze",
+    "Hegseth meets Netanyahu in unannounced Israel visit",
+    "'No Respect For Law, Habitual In Calling Protests At Denotified Area' : Executive Magistrate On Extending ...",
+    "Yusuf Pathan To Get Contested Vadodara Land Months After Switch To NDA",
+    "Security scare at Delhi Metro: CISF jawan chases down NRI hiding ‘semi-solid substance’; CCTV captures dramatic pursuit",
+    "US ‘very close’ to India trade deal; energy needs considered in Russia sanctions waiver: Marco Rubio | India News",
+    "John Brittas seeks President’s intervention as JNU students’ hunger strike enters 17th day",
+    "North Korea releases photos of Kim Jong Un at clothing expo after viral death rumors",
+    "‘Time for Zelenskyy to get somebody else to negotiate’: Trump open to Putin-Xi talks on Ukraine war",
     "Oil Futures Settle Lower As U.S. Waives Some Russia Sanctions",
-    "Want to try your luck again? Iran responds to Trump's finish the job threat",
-    "Jio Platforms' anchor book draws record ₹2.5 trillion in bids ahead of IPO",
+    "Trump’s Push for Deals With Russia Powers His Frustration With Ukraine",
+    "Ambani looks to pull off India’s biggest IPO",
+    "Stock market holiday on Dussehra: Are NSE, BSE, MCX open or closed for trading on October 20",
     "Indian shares slip; investors await Jio IPO",
-    "Tata Trusts files response to Venu Srinivasan, Vijay Singh’s complaints on SDTT governance before...",
-    "Rupee ends flat as stock slump, importer hedging erodes bounce",
-    "Analysts Expect Touch-Screen MacBook Pro Debut at Apple’s Oct. 28 Event",
-    "Today’s NYT Strands Hints, Spangram and Answers for Tuesday, Oct. 20, #961",
+    "Tesla asks shareholders to re-elect Musk, Denholm and Straubel at December annual meeting",
     "Some iPhone Duo Pre-Orders in Japan Are Now Showing Launch-Day Delivery",
-    "Samsung may launch Galaxy S27 series earlier than expected, but memory questions still linger - GSMArena.com news",
-    "'Ramayana' advance bookings to start in India tomorrow on Dussehra; ticket sales for Ranbir Kapoor, Yash",
-    "\"You're Singing After Drinking Alcohol\": MLA Snaps At Daler Mehndi On Stage",
-    "‘You Can See Everything’ Becomes Surprise Box Office Hit With $15 Million Opening"
+    "Today’s NYT Strands Hints, Spangram, Answers: Tuesday, October 20 (Duck Duck Goose)",
+    "Analysts Expect Touch-Screen MacBook Pro Debut at Apple’s Oct. 28 Event",
+    "iQOO officially announces compact gaming tablet with 9,020mAh battery and 165Hz OLED display",
+    "Rajinikanth’s ‘Jailer 2’ Ranks No. 2 at Global Box Office as ‘Street Fighter’ Leads",
+    "‘Amruthavarshini’: When Deva gave Kannada cinema an all-time hit with a soulful album",
+    "Yash Reveals Why Ramayana Makers Are Highlighting Its Rs 4,000 Crore Budget"
   ],
   "quiz": [
     {
-      "blanked": "Some iPhone ______ Pre-Orders in Japan Are Now Showing Launch-Day Delivery",
-      "answer": "Duo",
+      "blanked": "Trump’s ______ for Deals With Russia Powers His Frustration With Ukraine",
+      "answer": "Push",
       "options": [
-        "Trumps",
-        "Platforms",
-        "Duo",
-        "Launch-Day"
+        "Push",
+        "Revived",
+        "Contested",
+        "Ram"
       ]
     },
     {
-      "blanked": "Bigg Boss 20: Aman Gandhi gets eliminated from the reality show; Uditi ______ and Arishfa Khan break down",
-      "answer": "Singh",
+      "blanked": "From France to Albania, social unrest is setting ______ streets ablaze",
+      "answer": "Europes",
       "options": [
-        "Surprise",
-        "2.5",
-        "Singh",
-        "Could"
+        "Highlighting",
+        "Ramayana",
+        "Europes",
+        "Months"
       ]
     },
     {
-      "blanked": "Asian ______ Games: Can India’s para-athletes script another 100-medal triumph despite a smaller contingent",
-      "answer": "Para",
+      "blanked": "Orionid meteor shower to light up ______ skies with fiery cosmic display",
+      "answer": "October",
+      "options": [
+        "Gandhi",
+        "Showing",
+        "October",
+        "Him"
+      ]
+    },
+    {
+      "blanked": "ChatGPT Explains the Odds of AI Triggering the Next ______",
+      "answer": "Pandemic",
       "options": [
         "Pandemic",
-        "Pro",
-        "Para",
-        "Mars"
+        "Cusp",
+        "Answers",
+        "Zealand"
       ]
     },
     {
-      "blanked": "Scientists Just Revived Pig Kidneys Frozen for a Year. It Could ______ the Future of Organ Transplants",
-      "answer": "Rewrite",
+      "blanked": "Japan launches H3 rocket carrying ______ moon sample-return probe",
+      "answer": "Mars",
       "options": [
-        "Pro",
-        "Hints",
-        "Pre-Orders",
-        "Rewrite"
+        "Muslim",
+        "Athletics",
+        "Mars",
+        "NSE"
       ]
     },
     {
-      "blanked": "‘Avoid crowded areas’: India issues advisory for citizens amid violent protests in ______",
-      "answer": "Italy",
+      "blanked": "Asian Para Games ______ Day 2 LIVE Updates: Sheetal Devi On Cusp Of Archery Gold After Medal Rush In Athletics",
+      "answer": "2026",
+      "options": [
+        "Risk",
+        "Updates",
+        "2026",
+        "Whats"
+      ]
+    },
+    {
+      "blanked": "Oil ______ Settle Lower As U.S. Waives Some Russia Sanctions",
+      "answer": "Futures",
+      "options": [
+        "Futures",
+        "Aman",
+        "Varma",
+        "Highlighting"
+      ]
+    },
+    {
+      "blanked": "‘Amruthavarshini’: ______ Deva gave Kannada cinema an all-time hit with a soulful album",
+      "answer": "When",
+      "options": [
+        "When",
+        "MacBook",
+        "Street",
+        "Futures"
+      ]
+    },
+    {
+      "blanked": "Security scare at Delhi Metro: CISF jawan chases down ______ hiding ‘semi-solid substance’; CCTV captures dramatic pursuit",
+      "answer": "NRI",
       "options": [
         "Highlights",
-        "Waives",
-        "Trumps",
-        "Italy"
+        "Global",
+        "NRI",
+        "Ex-India"
       ]
     },
     {
-      "blanked": "Analysts ______ Touch-Screen MacBook Pro Debut at Apple’s Oct. 28 Event",
-      "answer": "Expect",
+      "blanked": "‘Give Vaibhav Sooryavanshi harsh truth’: Ex-India cricketer explains ______ Gambhir, management’s approac",
+      "answer": "Gautam",
       "options": [
-        "Now",
-        "Pant",
-        "Expect",
-        "Georges"
+        "Indias",
+        "Delhi",
+        "Gautam",
+        "Explains"
       ]
     },
     {
-      "blanked": "Fragments of ______ Comet, which comes after every 76 years, to light up the night sky this week: All y",
-      "answer": "Halleys",
+      "blanked": "North ______ releases photos of Kim Jong Un at clothing expo after viral death rumors",
+      "answer": "Korea",
       "options": [
-        "Marco",
-        "Halleys",
-        "Thoubal",
-        "Platforms"
+        "Korea",
+        "Powers",
+        "Downstaging",
+        "Switch"
       ]
     },
     {
-      "blanked": "Osteoporosis Risk Among Indian Men Highlights ______ For Early Screening",
-      "answer": "Need",
+      "blanked": "'No Respect For Law, Habitual In Calling Protests At ______ Area' : Executive Magistrate On Extending ...",
+      "answer": "Denotified",
       "options": [
-        "Liver",
-        "Need",
-        "BJP",
-        "137"
-      ]
-    },
-    {
-      "blanked": "In pictures: ______ pandal, grief-stricken families a day after stampede kills 19",
-      "answer": "Empty",
-      "options": [
-        "Hit",
-        "Triggering",
-        "Empty",
-        "Hepatocellular"
-      ]
-    },
-    {
-      "blanked": "ChatGPT ______ the Odds of AI Triggering the Next Pandemic",
-      "answer": "Explains",
-      "options": [
-        "Where",
-        "Platforms",
-        "Explains",
-        "Revived"
-      ]
-    },
-    {
-      "blanked": "Police ‘lost control’ during ______ protests, says Interior Minister",
-      "answer": "French",
-      "options": [
-        "French",
-        "NYT",
-        "Expect",
-        "Pro"
-      ]
-    },
-    {
-      "blanked": "Samsung may launch ______ S27 series earlier than expected, but memory questions still linger - GSMArena.com news",
-      "answer": "Galaxy",
-      "options": [
-        "Transplantation",
-        "Magistrate",
-        "Galaxy",
-        "Highlights"
+        "Denotified",
+        "Among",
+        "Always",
+        "Ronaldo"
       ]
     }
   ]
