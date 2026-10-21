@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T19:17:42.112Z",
+  "generatedAt": "2026-10-21T22:33:30.375Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
@@ -7,147 +7,147 @@
     "Tiger Shroff Firing Case: Mumbai Court Remands Accused To Police Custody Till October 31",
     "‘Pretty close’: Trump hints at ‘much different kind of deal’ with India",
     "AP municipal polls: Supreme Court orders EC to defer publication of final candidates list after YSR Congress alleges violence",
-    "\"5 Years Of Work Stolen\": Last Video Of Influencer Who Died By Suicide",
-    "Why Rubio is visiting Reliance’s oil refinery in India, the world’s largest",
-    "UPSC CURRENT AFFAIRS – 21 OCTOBER 2026",
-    "‘Term UN experts is oxymoron’: Rubio calls anti-EC protests ‘domestic political matter’",
+    "Har gali mein Jantar Mantar: Parakala Prabhakar to join Dipke at anti-SIR protest",
+    "Marco Rubio visits Reliance’s Jamnagar complex, discusses energy and technology partnerships",
+    "‘Tiring and boring’: K Annamalai hits back at BJP over ‘anti-national’ tag",
+    "LAHDC Amendment Regulation substitutes word Governor with Administrator in Ladakh",
     "I&B Ministry advisory warns TV channels against promoting ‘anti-national’ attitudes",
-    "Tamil Nadu rain updates: Warning to residents along Palar river",
+    "Schools In Chennai, Nearby Districts Closed Due To Heavy Rain, Flood Risks",
+    "France protests, and the economic mess at the heart of it | ExplainSpeaking",
     "Putin ready to resume three-way Ukraine peace talks",
-    "'Stupid comments': Macron slams Trump for using France unrest for midterm campaign",
-    "Israel Had Planned To Bomb Iran In October, Stopped Because Of Trump: Report",
-    "Khawaja Asif Flags \"Bureaucratic Exodus\" In Pak Amid Army Chief Asim Munir's Growing Influence",
+    "US State Dept: Issued Ordered Departure For Non-Emergency US Govt Employees And Their Family Members In Saudi Arabia Only",
+    "How Qatar, Turkiye, Pakistan and Indonesia are deepening defence ties",
     "Billionaire Mukesh Ambani's Jio launches India's biggest share sale",
     "MPC minutes: RBI flags risk of broader inflation as input costs rise and credit growth stays strong",
+    "India's HDFC Bank probe finds executives leaked confidential information, Bloomberg News reports",
     "Stock Market Highlights, Sensex Today: Sensex Closes 143 Points Lower, Oil Prices Rise Again",
-    "Jio Platforms' IPO-linked inflows boost rupee; elevated oil prices spur caution",
-    "Apple iPhone Duo unboxing videos show crease and features",
-    "Microsoft is cutting eight Copilot shortcuts from Windows 11, including the useful one",
+    "Apple will have limited iPhone Duo units available in stores on Friday",
     "Oppo Find X10 Pro Max Hands-On: Triple 200-Megapixel Cameras But Few Surprises",
     "Fred again.. and Apple Music turned sound into a logo",
+    "Today’s NYT Strands Hints, Spangram and Answers for Thursday, Oct. 22, #963",
+    "Movie Review – Clayface (2026)",
     "'Shouldn't have come if unwell': Subodh Uniyal defends public reprimand of Daler Mehndi",
-    "'He Embarrassed Her': Vijay Deverakonda Trolled For Saying Rashmika Mandanna Asked Him To Marry Her '100 Times'",
-    "Jailer 2 OTT release: Rajinikanth's action thriller movie will stream on this platform"
+    "Wordle Review No. 1,951"
   ],
   "quiz": [
     {
-      "blanked": "Cosmic ______ Offers Rare Side-On View Of Planet Birth",
-      "answer": "Hamburger",
+      "blanked": "How Qatar, Turkiye, ______ and Indonesia are deepening defence ties",
+      "answer": "Pakistan",
       "options": [
-        "Hamburger",
-        "Test",
-        "Max",
-        "Planet"
+        "Pakistan",
+        "Clayface",
+        "Orionid",
+        "Kathryn"
       ]
     },
     {
-      "blanked": "Khawaja Asif Flags \"Bureaucratic Exodus\" In Pak Amid Army Chief Asim Munir's Growing ______",
-      "answer": "Influence",
+      "blanked": "I&B ______ advisory warns TV channels against promoting ‘anti-national’ attitudes",
+      "answer": "Ministry",
       "options": [
-        "Deverakonda",
-        "Lower",
-        "Influence",
-        "Bid"
+        "Ministry",
+        "YSR",
+        "Health",
+        "Market"
       ]
     },
     {
-      "blanked": "UPSC CURRENT AFFAIRS – 21 OCTOBER ______",
-      "answer": "2026",
+      "blanked": "Putin ready to resume three-way ______ peace talks",
+      "answer": "Ukraine",
       "options": [
-        "Indias",
-        "Not",
-        "Side-On",
-        "2026"
+        "Games",
+        "Ukraine",
+        "Indonesia",
+        "Saas"
       ]
     },
     {
-      "blanked": "Jailer 2 ______ release: Rajinikanth's action thriller movie will stream on this platform",
-      "answer": "OTT",
+      "blanked": "Asian Para Games 2026 medal tally: ______ winners - full list and table",
+      "answer": "India",
       "options": [
-        "OTT",
-        "Man",
-        "Windows",
-        "Ministry"
-      ]
-    },
-    {
-      "blanked": "‘Term UN experts is oxymoron’: ______ calls anti-EC protests ‘domestic political matter’",
-      "answer": "Rubio",
-      "options": [
-        "Market",
-        "Again",
-        "Macron",
-        "Rubio"
-      ]
-    },
-    {
-      "blanked": "\"5 Years Of Work Stolen\": Last Video Of ______ Who Died By Suicide",
-      "answer": "Influencer",
-      "options": [
-        "Nichol",
-        "Saying",
-        "Influencer",
-        "Mandanna"
-      ]
-    },
-    {
-      "blanked": "'Stupid comments': Macron slams ______ for using France unrest for midterm campaign",
-      "answer": "Trump",
-      "options": [
-        "Trump",
-        "Asim",
-        "Market",
-        "Saurav"
-      ]
-    },
-    {
-      "blanked": "Tiger Shroff Firing Case: Mumbai Court Remands Accused To ______ Custody Till October 31",
-      "answer": "Police",
-      "options": [
-        "Police",
-        "Ponting",
-        "Few",
+        "Annamalai",
+        "India",
+        "Pakistan",
         "Prices"
       ]
     },
     {
-      "blanked": "NZ vs IND 2026/27, NZ vs IND 1st T20I ______ Preview - Jetlagged India brace for New Zealand challenge",
-      "answer": "Match",
+      "blanked": "MPC minutes: ______ flags risk of broader inflation as input costs rise and credit growth stays strong",
+      "answer": "RBI",
       "options": [
-        "Pro",
         "Kabhi",
-        "Hags",
-        "Match"
+        "Early",
+        "Not",
+        "RBI"
       ]
     },
     {
-      "blanked": "Billionaire Mukesh Ambani's Jio launches ______ biggest share sale",
-      "answer": "Indias",
+      "blanked": "Wordle Review No. ______",
+      "answer": "1951",
       "options": [
-        "Because",
-        "Indias",
-        "Accused",
-        "Daler"
+        "Ponting",
+        "Undertake",
+        "China",
+        "1951"
       ]
     },
     {
-      "blanked": "Smriti Irani, Ektaa Kapoor ______ Farewell To Kyunki Saas Bhi Kabhi Bahu Thi 2",
-      "answer": "Bid",
+      "blanked": "Fred again.. and Apple ______ turned sound into a logo",
+      "answer": "Music",
       "options": [
-        "Reliances",
-        "Bid",
-        "MMX",
-        "Linking"
+        "Dept",
+        "Firing",
+        "Music",
+        "Police"
       ]
     },
     {
-      "blanked": "Jio ______ IPO-linked inflows boost rupee; elevated oil prices spur caution",
-      "answer": "Platforms",
+      "blanked": "Billionaire ______ Ambani's Jio launches India's biggest share sale",
+      "answer": "Mukesh",
       "options": [
-        "Ashutosh",
-        "Platforms",
-        "Few",
-        "Remands"
+        "Risks",
+        "Today",
+        "Mukesh",
+        "NYT"
+      ]
+    },
+    {
+      "blanked": "‘Pretty close’: Trump hints at ‘much different kind of deal’ with ______",
+      "answer": "India",
+      "options": [
+        "Ricky",
+        "Rise",
+        "India",
+        "Saurav"
+      ]
+    },
+    {
+      "blanked": "5 minutes with Kathryn ______ LivaNova",
+      "answer": "Nichol",
+      "options": [
+        "Nichol",
+        "Parakala",
+        "Prabhakar",
+        "Indias"
+      ]
+    },
+    {
+      "blanked": "'Shouldn't have come if unwell': ______ Uniyal defends public reprimand of Daler Mehndi",
+      "answer": "Subodh",
+      "options": [
+        "Subodh",
+        "Chennai",
+        "Ministry",
+        "Sooryavanshi"
+      ]
+    },
+    {
+      "blanked": "Movie Review – ______ (2026)",
+      "answer": "Clayface",
+      "options": [
+        "Clayface",
+        "Case",
+        "Highlights",
+        "Sooryavanshi"
       ]
     }
   ]
