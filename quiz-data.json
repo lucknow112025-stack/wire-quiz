@@ -1,43 +1,103 @@
 {
-  "generatedAt": "2026-10-21T05:05:46.049Z",
+  "generatedAt": "2026-10-21T10:05:42.484Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "Why Rubio is visiting Reliance’s oil refinery in India, the world’s largest",
-    "Police lens on Lawrence Bishnoi’s aide Randeep Malik in Tiger Shroff shooting case",
-    "India, U.S. trade deal to be much different: Donald Trump",
-    "CJP Leaders Saurav Das, Ashutosh Ranka Move Delhi High Court Against Judicial Custody",
-    "AAP claims Punjab CM Mann detained for 3 hours at Delhi airport after Paris visit, fined Rs 50,000",
-    "Iran tells Pakistan army chief no talks with Washington until demands are met",
+    "CJP Leaders Saurav Das, Ashutosh Ranka Withdraw From Delhi High Court Plea Challenging Judicial Custody",
+    "Rubio says India-U.S. trade deal close, urges New Delhi to boost U.S. energy, defence buys",
+    "Anup Jalota Urges Salman Khan To Apologise To Bishnoi Community After Tiger Shroff Shooting Incident",
     "UN experts urge Indian authorities to cease 'use of excessive force' to curb protests",
-    "\"Will Have To Defeat Them\": PM Modi's Dussehra Call To Fight India's \"Enemies\"",
-    "Amit Shah meets families of 3 Punjab men whose deaths were linked to drugs",
-    "Influencer dies by suicide in Chennai; father alleges cyberbullying",
-    "France protests: Paris police issue overnight curfew in two areas to try to prevent further disorder",
-    "Drone strike kills more than 150 at market in Sudanese war",
-    "'Quiet, quiet, are you a sick person?' Trumps snaps at reporter at White House; watch",
-    "No, Photo Doesn’t Show Bangladeshi Nationals Who Were Executed in Saudi Arabia",
-    "India's Jio IPO opens for public bids in record $3.2 billion sale",
-    "Anthropic logged net loss of over $80 billion in first half of 2026: Report",
-    "Bajaj Finance vs IREDA vs Reliance's Jio Financial: Top financial stock to buy after Q2 results 2026 for best returns?",
-    "RBI Measures Strengthen Rupee: Short-Term Relief Or Long-Term Bet?",
-    "Apple to unveil new MacBook Pro models on October 28 - GSMArena.com news",
-    "Today’s NYT Strands Hints, Spangram, Answers—Wednesday, October 21 (On A Higher Level)",
-    "Kindle Scribe vs reMarkable Paper Pure: Which Should You Buy?",
+    "Ambani's Jio IPO oversubscribed within hours in record Indian sale",
+    "India-US trade deal pretty close, will be different from previous pacts: Trump",
+    "Tamil Nadu rains LIVE: CM Vijay to chair meeting on Northeast monsoon preparedness",
+    "\"5 Years Of Work Stolen\": Last Video Of Influencer Who Died By Suicide",
+    "Day after 3 Meiteis killed, Kuki man shot dead as Manipur violence escalates",
+    "From Punjab campus to Jodhpur prison: How Lawrence Bishnoi's path led him to Salman Khan | India News",
+    "‘Bismillah, c’est les ténèbres’: What does this viral message from French protests mean",
+    "Growing anger in Bangladesh over Saudi executions. ‘We demand justice’",
+    "Video Claims To Show Luxury Goods Looted In France Riots Being Sold Cheaply On Streets",
+    "'Focus On Skills, Not Looks': Trump's 1st Press Chief On Katie Zacharia Row",
+    "Stock Market Highlights, Sensex Today: Sensex Drops 530 Points, Oil Prices Rise Again",
+    "SBI probes dark web exposure of nearly 3,900 customer records",
+    "HDFC Bank probe finds that senior executives leaked secrets",
+    "Rupee climbs to six-week high as Jio IPO-linked inflows bolster recovery",
+    "Quordle Hint Today: Tuesday, October 20 Clues And Answers",
     "Samsung's Galaxy S27 lineup takes shape in new leak",
-    "'Jailer 2' box office collection day 6: Rajinikanth, Mohanlal, Vidya Balan's film earns Rs 45.55 cr on Tu",
+    "Lava Aura Curve 5G Launched in India for Offline Market: Should You Buy?",
+    "A1 opens pre-orders for iPhone Duo in Bulgaria",
+    "Jailer 2 Box Office Collection Day 6: Rajinikanth's Film Gets Dussehra Boost, Shoots Past Rs 250 Crore Mark In India",
     "Mika Singh, Alisha Chinai, Harshdeep Kaur, Badshah rally behind Daler Mehndi post ‘public humiliation’ in Uttarakhand",
-    "Ranabaali India Box Office Collections: Vijay Deverakonda and Rashmika Mandanna starrer drops by 35 per cent on Monday, collects Rs 30 crore in 4 days"
+    "'Jailer 2' controversy: Mohanlal’s body double says only his hands and legs were used; 'My face has not b"
   ],
   "quiz": [
     {
-      "blanked": "Bladder Stone Surgery ______ Highlights Transurethral Success",
-      "answer": "Registry",
+      "blanked": "Growing anger in Bangladesh over ______ executions. ‘We demand justice’",
+      "answer": "Saudi",
       "options": [
-        "Registry",
-        "Variability",
-        "Suvendu",
-        "Early"
+        "IPO-linked",
+        "Harshdeep",
+        "News-Medical",
+        "Saudi"
+      ]
+    },
+    {
+      "blanked": "Jailer 2 Box Office Collection Day 6: Rajinikanth's Film Gets Dussehra ______ Shoots Past Rs 250 Crore Mark In India",
+      "answer": "Boost",
+      "options": [
+        "Stolen",
+        "Concern",
+        "Boost",
+        "Cheaply"
+      ]
+    },
+    {
+      "blanked": "Japan's ______ mission launches successfully, gains edge over China in race for first Mars system sample return",
+      "answer": "MMX",
+      "options": [
+        "MMX",
+        "Suicide",
+        "Urges",
+        "Zimbabwe"
+      ]
+    },
+    {
+      "blanked": "\"5 Years Of Work Stolen\": Last Video Of Influencer ______ Died By Suicide",
+      "answer": "Who",
+      "options": [
+        "Mark",
+        "Who",
+        "Plea",
+        "Luxury"
+      ]
+    },
+    {
+      "blanked": "'Jailer 2' controversy: ______ body double says only his hands and legs were used; 'My face has not b",
+      "answer": "Mohanlals",
+      "options": [
+        "IPO",
+        "Mohanlals",
+        "Office",
+        "Market"
+      ]
+    },
+    {
+      "blanked": "The Sky Today on ______ October 21: Catch early-morning Orionids",
+      "answer": "Wednesday",
+      "options": [
+        "Goods",
+        "3900",
+        "LIVE",
+        "Wednesday"
+      ]
+    },
+    {
+      "blanked": "'Focus On Skills, Not Looks': ______ 1st Press Chief On Katie Zacharia Row",
+      "answer": "Trumps",
+      "options": [
+        "Trumps",
+        "End",
+        "Crore",
+        "News-Medical"
       ]
     },
     {
@@ -45,109 +105,49 @@
       "answer": "Zimbabwe",
       "options": [
         "Zimbabwe",
-        "Capivasertib",
-        "Minister",
-        "Fight"
+        "Start",
+        "Daler",
+        "Goods"
       ]
     },
     {
-      "blanked": "India, U.S. trade deal to be much different: ______ Trump",
-      "answer": "Donald",
+      "blanked": "HDFC ______ probe finds that senior executives leaked secrets",
+      "answer": "Bank",
       "options": [
-        "Against",
-        "Donald",
-        "CTA",
-        "Blocks"
+        "Influencer",
+        "Mark",
+        "Bank",
+        "Day"
       ]
     },
     {
-      "blanked": "India's ______ IPO opens for public bids in record $3.2 billion sale",
-      "answer": "Jio",
+      "blanked": "Kidney Transplant Outcomes Worsen with ______ Tacrolimus Variability",
+      "answer": "High",
       "options": [
-        "Defeat",
-        "Bone",
         "High",
-        "Jio"
+        "Suicide",
+        "Show",
+        "3900"
       ]
     },
     {
-      "blanked": "Japan's MMX mission launches successfully, gains edge over China in race for first ______ system sample return",
-      "answer": "Mars",
+      "blanked": "'We obviously want to go for the win' - Bavuma's 179 gives ______ Africa a chance to dream",
+      "answer": "South",
       "options": [
-        "Delhi",
-        "Mars",
-        "Saudi",
-        "Financial"
-      ]
-    },
-    {
-      "blanked": "Shami: 'I'm still at my peak, why would I give up hope of playing for ______",
-      "answer": "India",
-      "options": [
-        "India",
-        "150",
-        "Suvendu",
-        "Worsen"
-      ]
-    },
-    {
-      "blanked": "France protests: ______ police issue overnight curfew in two areas to try to prevent further disorder",
-      "answer": "Paris",
-      "options": [
-        "Tax-Free",
-        "MacBook",
-        "Paris",
-        "Rupee"
-      ]
-    },
-    {
-      "blanked": "UN experts urge ______ authorities to cease 'use of excessive force' to curb protests",
-      "answer": "Indian",
-      "options": [
-        "IPO",
-        "Level",
-        "Africa",
+        "South",
+        "Bone",
+        "Jodhpur",
         "Indian"
       ]
     },
     {
-      "blanked": "Iran tells Pakistan army chief no talks with ______ until demands are met",
-      "answer": "Washington",
+      "blanked": "Lava Aura Curve 5G Launched in India for ______ Market: Should You Buy?",
+      "answer": "Offline",
       "options": [
-        "Hints",
-        "Washington",
-        "Prevention",
-        "Strengthen"
-      ]
-    },
-    {
-      "blanked": "RBI Measures Strengthen Rupee: Short-Term ______ Or Long-Term Bet?",
-      "answer": "Relief",
-      "options": [
-        "Move",
-        "Men",
-        "Humanitys",
-        "Relief"
-      ]
-    },
-    {
-      "blanked": "'Jailer 2' box office collection day 6: ______ Mohanlal, Vidya Balan's film earns Rs 45.55 cr on Tu",
-      "answer": "Rajinikanth",
-      "options": [
-        "Deverakonda",
-        "Rajinikanth",
-        "Should",
-        "Enigmas"
-      ]
-    },
-    {
-      "blanked": "AI Robot Security Blocks Hidden Trigger ______",
-      "answer": "Attacks",
-      "options": [
-        "Men",
-        "Urge",
-        "Vidya",
-        "Attacks"
+        "Claims",
+        "October",
+        "Influencer",
+        "Offline"
       ]
     }
   ]
