@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-10-21T22:33:30.375Z",
+  "generatedAt": "2026-10-22T00:53:50.944Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
     "CJP Leaders Saurav Das, Ashutosh Ranka Undertake Not To Call For Jantar Mantar Protest Until It Remains...",
-    "Tiger Shroff Firing Case: Mumbai Court Remands Accused To Police Custody Till October 31",
-    "‘Pretty close’: Trump hints at ‘much different kind of deal’ with India",
+    "Rubio meets Adani, Chandrasekaran; visits Reliance’s Jamnagar refinery",
     "AP municipal polls: Supreme Court orders EC to defer publication of final candidates list after YSR Congress alleges violence",
-    "Har gali mein Jantar Mantar: Parakala Prabhakar to join Dipke at anti-SIR protest",
-    "Marco Rubio visits Reliance’s Jamnagar complex, discusses energy and technology partnerships",
-    "‘Tiring and boring’: K Annamalai hits back at BJP over ‘anti-national’ tag",
-    "LAHDC Amendment Regulation substitutes word Governor with Administrator in Ladakh",
-    "I&B Ministry advisory warns TV channels against promoting ‘anti-national’ attitudes",
-    "Schools In Chennai, Nearby Districts Closed Due To Heavy Rain, Flood Risks",
-    "France protests, and the economic mess at the heart of it | ExplainSpeaking",
-    "Putin ready to resume three-way Ukraine peace talks",
-    "US State Dept: Issued Ordered Departure For Non-Emergency US Govt Employees And Their Family Members In Saudi Arabia Only",
     "How Qatar, Turkiye, Pakistan and Indonesia are deepening defence ties",
-    "Billionaire Mukesh Ambani's Jio launches India's biggest share sale",
+    "India news: India-US trade deal 'pretty close,' says Trump",
+    "Trade, defence and the Russia-Ukraine conflict to dominate Modi-Tusk talks on October 22",
+    "Tiger Shroff Firing Case: Mumbai Court Remands Accused To Police Custody Till October 31",
+    "UPSC CURRENT AFFAIRS – 21 OCTOBER 2026",
+    "Drug menace next target, says Union home minister Amit Shah; eyes 2029 deadline",
+    "‘Chinky, China president, Michael Jackson’: Delhi content creator faces heat over alleged racial slurs ag",
+    "Putin and Zelenskyy back three-way US peace talks on Ukraine",
+    "France protests, and the economic mess at the heart of it | ExplainSpeaking",
+    "US State Dept: Issued Ordered Departure For Non-Emergency US Govt Employees And Their Family Members In Saudi Arabia Only",
+    "‘Remain vigilant’: India urges citizens in France to avoid protest sites ahead of fresh demonstrations",
     "MPC minutes: RBI flags risk of broader inflation as input costs rise and credit growth stays strong",
+    "Stock Market Crash: Key factors behind the steep Sensex-Nifty sell-off on Oct 21",
     "India's HDFC Bank probe finds executives leaked confidential information, Bloomberg News reports",
-    "Stock Market Highlights, Sensex Today: Sensex Closes 143 Points Lower, Oil Prices Rise Again",
-    "Apple will have limited iPhone Duo units available in stores on Friday",
+    "Billionaire Mukesh Ambani's Jio launches India's biggest share sale",
+    "iPhone Duo Review: What The Verge and MKBHD Say",
+    "Quordle Hint Today: Thursday, October 22 Clues And Answers",
+    "Memory Bugs Account for Most of Chrome’s 353 New Security Fixes",
     "Oppo Find X10 Pro Max Hands-On: Triple 200-Megapixel Cameras But Few Surprises",
-    "Fred again.. and Apple Music turned sound into a logo",
-    "Today’s NYT Strands Hints, Spangram and Answers for Thursday, Oct. 22, #963",
-    "Movie Review – Clayface (2026)",
+    "Rotten Tomatoes Pulled a Negative ‘Clayface’ Review, and Critics Can’t Agree Why",
     "'Shouldn't have come if unwell': Subodh Uniyal defends public reprimand of Daler Mehndi",
-    "Wordle Review No. 1,951"
+    "Today’s Wordle Hints for October 22, 2026"
   ],
   "quiz": [
+    {
+      "blanked": "iPhone ______ Review: What The Verge and MKBHD Say",
+      "answer": "Duo",
+      "options": [
+        "Office",
+        "Zimbabwe",
+        "Duo",
+        "353"
+      ]
+    },
     {
       "blanked": "How Qatar, Turkiye, ______ and Indonesia are deepening defence ties",
       "answer": "Pakistan",
       "options": [
-        "Pakistan",
-        "Clayface",
-        "Orionid",
-        "Kathryn"
-      ]
-    },
-    {
-      "blanked": "I&B ______ advisory warns TV channels against promoting ‘anti-national’ attitudes",
-      "answer": "Ministry",
-      "options": [
-        "Ministry",
         "YSR",
-        "Health",
-        "Market"
-      ]
-    },
-    {
-      "blanked": "Putin ready to resume three-way ______ peace talks",
-      "answer": "Ukraine",
-      "options": [
-        "Games",
-        "Ukraine",
-        "Indonesia",
-        "Saas"
-      ]
-    },
-    {
-      "blanked": "Asian Para Games 2026 medal tally: ______ winners - full list and table",
-      "answer": "India",
-      "options": [
-        "Annamalai",
-        "India",
+        "Stats",
         "Pakistan",
-        "Prices"
+        "Reliances"
       ]
     },
     {
-      "blanked": "MPC minutes: ______ flags risk of broader inflation as input costs rise and credit growth stays strong",
-      "answer": "RBI",
+      "blanked": "Billionaire Mukesh Ambani's Jio launches ______ biggest share sale",
+      "answer": "Indias",
       "options": [
-        "Kabhi",
-        "Early",
-        "Not",
-        "RBI"
-      ]
-    },
-    {
-      "blanked": "Wordle Review No. ______",
-      "answer": "1951",
-      "options": [
-        "Ponting",
-        "Undertake",
-        "China",
-        "1951"
-      ]
-    },
-    {
-      "blanked": "Fred again.. and Apple ______ turned sound into a logo",
-      "answer": "Music",
-      "options": [
-        "Dept",
-        "Firing",
-        "Music",
-        "Police"
-      ]
-    },
-    {
-      "blanked": "Billionaire ______ Ambani's Jio launches India's biggest share sale",
-      "answer": "Mukesh",
-      "options": [
-        "Risks",
-        "Today",
-        "Mukesh",
-        "NYT"
-      ]
-    },
-    {
-      "blanked": "‘Pretty close’: Trump hints at ‘much different kind of deal’ with ______",
-      "answer": "India",
-      "options": [
-        "Ricky",
-        "Rise",
-        "India",
-        "Saurav"
-      ]
-    },
-    {
-      "blanked": "5 minutes with Kathryn ______ LivaNova",
-      "answer": "Nichol",
-      "options": [
-        "Nichol",
-        "Parakala",
-        "Prabhakar",
+        "Das",
+        "Ukraine",
+        "Tamil",
         "Indias"
       ]
     },
     {
-      "blanked": "'Shouldn't have come if unwell': ______ Uniyal defends public reprimand of Daler Mehndi",
-      "answer": "Subodh",
+      "blanked": "Look up: Orionid meteor shower peaks this week | Daily ______",
+      "answer": "Sabah",
       "options": [
-        "Subodh",
-        "Chennai",
-        "Ministry",
-        "Sooryavanshi"
+        "Issued",
+        "China",
+        "Sabah",
+        "Linking"
       ]
     },
     {
-      "blanked": "Movie Review – ______ (2026)",
-      "answer": "Clayface",
+      "blanked": "AP municipal polls: Supreme ______ orders EC to defer publication of final candidates list after YSR Congress alleges violence",
+      "answer": "Court",
       "options": [
-        "Clayface",
-        "Case",
-        "Highlights",
-        "Sooryavanshi"
+        "Probe",
+        "Das",
+        "Court",
+        "Sabah"
+      ]
+    },
+    {
+      "blanked": "How penguin droppings may accelerate snowmelt in ______",
+      "answer": "Antarctica",
+      "options": [
+        "Pulled",
+        "Antarctica",
+        "Adani",
+        "2026"
+      ]
+    },
+    {
+      "blanked": "Jailer 2 Worldwide ______ Office: Rajinikanth's film emerges fastest Tamil entrant in Rs 500 crore club, grosses Rs 521 crore in just 6 days",
+      "answer": "Box",
+      "options": [
+        "Rajinikanths",
+        "Sets",
+        "Box",
+        "Bank"
+      ]
+    },
+    {
+      "blanked": "‘Chinky, ______ president, Michael Jackson’: Delhi content creator faces heat over alleged racial slurs ag",
+      "answer": "China",
+      "options": [
+        "Chandrasekaran",
+        "China",
+        "Russia-Ukraine",
+        "Chromes"
+      ]
+    },
+    {
+      "blanked": "India's HDFC ______ probe finds executives leaked confidential information, Bloomberg News reports",
+      "answer": "Bank",
+      "options": [
+        "India-US",
+        "Bank",
+        "Ranka",
+        "YSR"
+      ]
+    },
+    {
+      "blanked": "Stock Market Crash: Key factors behind the steep Sensex-Nifty sell-off on ______ 21",
+      "answer": "Oct",
+      "options": [
+        "Saudi",
+        "Para",
+        "Daler",
+        "Oct"
+      ]
+    },
+    {
+      "blanked": "France protests, and the economic mess at the heart of it | ______",
+      "answer": "ExplainSpeaking",
+      "options": [
+        "Few",
+        "Accused",
+        "Amit",
+        "ExplainSpeaking"
+      ]
+    },
+    {
+      "blanked": "Trade, defence and the Russia-Ukraine conflict to dominate ______ talks on October 22",
+      "answer": "Modi-Tusk",
+      "options": [
+        "Remands",
+        "Modi-Tusk",
+        "View",
+        "Indonesia"
       ]
     }
   ]
