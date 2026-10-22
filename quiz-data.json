@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-10-22T19:29:42.799Z",
+  "generatedAt": "2026-10-22T22:38:53.355Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "Attack on Saudi Arabia’s King Fahd airport kills two people",
+    "7.0 magnitude earthquake hit the Tibet region October 22, killing many",
+    "Netanyahu promises Iran regime change: Can Israel topple Tehran government?",
     "India news: Gandhi's nephew told to take down photos depicting youth protests from New Delhi exhibition",
-    "France's Macron tightens curbs on protests, blaming hard left for unrest",
     "At Jamnagar refinery, Rubio and Ambanis discuss energy, digital infra, giga factories",
-    "Casualties reported after 7.0 quake strikes China’s Tibet: State media",
-    "Gun Misfired In Their Hotel. But Tiger Shroff's Shooters Didn't Get Caught",
-    "CEC impeachment: Speaker Om Birla says fresh motion against Gyanesh Kumar will be examined as per rules",
     "Sonam Wangchuk accuses Centre of going back on assurances to Ladakh, demands U.T. with Legislature",
-    "V Harish: YouTuber arrested after Indian finance influencer's suicide",
-    "‘Shocking’: Bombay HC on Mumbai surpassing Delhi in pollution, asks ‘How can officials sleep...",
-    "Iran claims 7 oil tankers damaged in Hormuz, warns strikes on bases if US facilitates passage",
-    "Saudi Aramco evacuates headquarters, asks staff to work remotely",
+    "‘Pretty close’: Trump hints at ‘much different kind of deal’ with India",
+    "YouTuber arrested after popular Indian finance influencer's suicide",
+    "Tiger Shroff's team shares video of gunpowder burn marks on his hand after firing incident: 'God is kind'",
+    "CJP Leaders Saurav Das, Ashutosh Ranka Undertake Not To Call For Jantar Mantar Protest Until It Remains...",
+    "Amit Shah slams Opposition, says protests will achieve nothing, NDA will form next government in Punjab",
+    "Attack on Saudi Arabia’s King Fahd airport kills two people",
+    "France unrest: Macron vows ban on 'illegitimate' protests in coming days, blames 'seditious ultra-left'",
     "Ukraine's Drones Drop Like Flies From Sky After Starshield Disruption: Report",
-    "World News Today Live Updates: 14 Indians involved in yacht incident off Yemen coast, Indian embassy assures help",
+    "Stop whining: JD Vance as Vivek Ramaswamy faces flak for attack ad in Ohio race",
     "Ambani's record Jio Indian IPO subscribed over five times as demand surges",
-    "eMudhra security blunder left trusted CA signing keys exposed to anyone",
+    "Stock Market Highlights: Sensex Falls 460 Points, Nifty 50 Ends Below 22,700; Nestle, Eternal, HDFC Bank Among Top Losers",
+    "eMudhra to shut down global digital certificate business after major security lapse",
     "World leaders warn of security flaws found in PHP programming language",
-    "GST reforms to be rolled out in phases from Nov 1",
     "How Apple Music turned sound into a logo using a tank of mineral oil",
-    "Apple iPhone Duo's first-week stock sold out in India ahead of October 23 launch",
-    "Oppo Find X10 and Find X10 Pro Max launch in India, here is how much they cost - GSMArena.com news",
-    "Google releases massive Chrome update fixing over 350 security flaws: Why you need to update now",
-    "Bigg Boss 20: Mahhi Vij Breaks Down, Reveals Why She Refused Alimony From Jay Bhanushali",
+    "Apple announces October 28 launch event, OLED MacBook Pro and refreshed iMac likely on the docket",
+    "Apple bets iPhone Duo can remake foldable market as sales begin",
+    "Grado Just Introduced Its Most Affordable Signature Hi-Fi Headphones Yet",
     "Jailer 2 Box Office Collections: Superstar Rajinikanth starrer continues outstanding run on Wednesday, Rises to Rs. 350 Cr plus in 7 days in India",
-    "‘Ramayana’: AR Rahman, Ranbir Kapoor and Sai Pallavi on bringing the epic to life"
+    "‘Ramayana’: AR Rahman, Ranbir Kapoor and Sai Pallavi on bringing the epic to life",
+    "Medical Body Seeks Review Of Sunny Deol's Suryaa Over Depiction Of Healthcare Workers, Writes To Union Minister Ashwini Vaishnaw"
   ],
   "quiz": [
     {
-      "blanked": "Bigg Boss 20: Mahhi Vij Breaks Down, Reveals Why She ______ Alimony From Jay Bhanushali",
-      "answer": "Refused",
+      "blanked": "Osteoporosis in women: Doctors reveal how much calcium and vitamin D you really need | ______",
+      "answer": "Health",
       "options": [
-        "Music",
-        "Pallavi",
-        "Max",
-        "Refused"
+        "Health",
+        "Indian",
+        "Mars",
+        "King"
       ]
     },
     {
-      "blanked": "India's next Hardik ______ Naman Dhir announces himself in Christchurch",
-      "answer": "Pandya",
+      "blanked": "Spanish government initiates action against Tebas over ______ Madrid TV comments",
+      "answer": "Real",
       "options": [
-        "Pandya",
-        "India",
-        "Centre",
-        "Tibet"
+        "Real",
+        "Disruption",
+        "Ladakh",
+        "460"
       ]
     },
     {
-      "blanked": "‘Shocking’: Bombay HC on ______ surpassing Delhi in pollution, asks ‘How can officials sleep...",
-      "answer": "Mumbai",
+      "blanked": "Ambani's record Jio ______ IPO subscribed over five times as demand surges",
+      "answer": "Indian",
       "options": [
-        "Office",
-        "Trillion",
-        "Mumbai",
-        "India"
+        "Indian",
+        "Diabetic",
+        "Just",
+        "Duo"
       ]
     },
     {
-      "blanked": "Live Cricket Score, ______ Latest News, Stats & Videos",
-      "answer": "Schedule",
+      "blanked": "World leaders warn of security flaws found in ______ programming language",
+      "answer": "PHP",
       "options": [
-        "Schedule",
-        "Apple",
-        "Autonomic",
-        "Macron"
+        "Sub-Meter",
+        "PHP",
+        "Drones",
+        "Patient"
       ]
     },
     {
-      "blanked": "'Ranabaali' box office collection day 6: Vijay Deverakonda and Rashmika ______ film earns Rs 59.65 cr",
-      "answer": "Mandannas",
+      "blanked": "‘Pretty close’: ______ hints at ‘much different kind of deal’ with India",
+      "answer": "Trump",
       "options": [
-        "Where",
-        "Mandannas",
-        "Today",
-        "Didnt"
-      ]
-    },
-    {
-      "blanked": "How Apple ______ turned sound into a logo using a tank of mineral oil",
-      "answer": "Music",
-      "options": [
-        "Get",
-        "Music",
-        "Rashmika",
-        "Great"
-      ]
-    },
-    {
-      "blanked": "Oppo Find X10 and ______ X10 Pro Max launch in India, here is how much they cost - GSMArena.com news",
-      "answer": "Find",
-      "options": [
-        "IPO",
-        "Rises",
-        "Find",
-        "Centre"
-      ]
-    },
-    {
-      "blanked": "Ambani's record Jio Indian ______ subscribed over five times as demand surges",
-      "answer": "IPO",
-      "options": [
-        "Where",
-        "IPO",
-        "Rajinikanth",
-        "Office"
-      ]
-    },
-    {
-      "blanked": "Asian Para Games: Where ______ stands in medal tally after best day with 26 medals, including 7 golds",
-      "answer": "India",
-      "options": [
+        "Mars",
+        "Trump",
         "Legislature",
-        "Tibet",
-        "India",
-        "Global"
+        "Bank"
       ]
     },
     {
-      "blanked": "Orionid meteor shower observed in ______ Heilongjiang",
-      "answer": "Chinas",
+      "blanked": "Moon’s South Pole Not the Only ______ Location for Human Exploration",
+      "answer": "Compelling",
       "options": [
-        "Jay",
-        "Pandya",
-        "Down",
-        "Chinas"
+        "Exploration",
+        "Starshield",
+        "Compelling",
+        "Music"
       ]
     },
     {
-      "blanked": "Google releases massive Chrome update fixing over 350 security flaws: ______ you need to update now",
-      "answer": "Why",
+      "blanked": "Netanyahu promises Iran regime change: ______ Israel topple Tehran government?",
+      "answer": "Can",
       "options": [
-        "Reveals",
+        "Patient",
+        "Like",
+        "Tehran",
+        "Can"
+      ]
+    },
+    {
+      "blanked": "YouTuber arrested after popular ______ finance influencer's suicide",
+      "answer": "Indian",
+      "options": [
+        "Dhir",
+        "Indian",
         "Sai",
-        "Boss",
-        "Why"
+        "Trillion"
       ]
     },
     {
-      "blanked": "Ukraine's Drones Drop Like Flies From ______ After Starshield Disruption: Report",
-      "answer": "Sky",
+      "blanked": "Sonam ______ accuses Centre of going back on assurances to Ladakh, demands U.T. with Legislature",
+      "answer": "Wangchuk",
       "options": [
-        "Report",
-        "Sky",
-        "MHz",
-        "Where"
+        "Wangchuk",
+        "Workers",
+        "Ladakh",
+        "Ranging"
+      ]
+    },
+    {
+      "blanked": "Medical Body Seeks Review Of Sunny Deol's Suryaa Over Depiction Of Healthcare Workers, Writes To Union Minister ______ Vaishnaw",
+      "answer": "Ashwini",
+      "options": [
+        "Delivers",
+        "Ashwini",
+        "Test",
+        "Hi-Fi"
+      ]
+    },
+    {
+      "blanked": "Samson, ______ and Dhir pull off record chase against NZ in T20I series opener",
+      "answer": "Iyer",
+      "options": [
+        "22700",
+        "Iyer",
+        "Dysfunction",
+        "Neuropathy"
+      ]
+    },
+    {
+      "blanked": "Jailer 2 Box Office Collections: Superstar Rajinikanth starrer continues outstanding run on Wednesday, ______ to Rs. 350 Cr plus in 7 days in India",
+      "answer": "Rises",
+      "options": [
+        "Most",
+        "Virus",
+        "Rises",
+        "Live"
       ]
     }
   ]
