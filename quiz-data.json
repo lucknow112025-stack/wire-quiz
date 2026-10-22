@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-10-22T15:39:15.170Z",
+  "generatedAt": "2026-10-22T19:29:42.799Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
     "Attack on Saudi Arabia’s King Fahd airport kills two people",
-    "PM Modi emphasises dialogue, diplomacy in call with Netanyahu over West Asia situation",
-    "After Google renames 'Lake Ontario' to 'Lake America' in the US; CEO Sundar Pichai says no to US governme",
-    "CJP Leaders Saurav Das, Ashutosh Ranka Undertake Not To Call For Jantar Mantar Protest Until It Remains...",
-    "Coimbatore student ends life; family alleges harassment by teacher, classmates over caste and beef consumption",
-    "Delhi High Court reserves verdict on Neha Bora’s petition against ‘peace’ bond notice",
-    "S Jaishankar's 'Indira' Reminder After Rahul Gandhi's Marco Rubio Jibe",
-    "India will support every meaningful effort to bring peace to Ukraine, West Asia: PM Modi",
-    "Tiger Shroff Firing Case: Mumbai Court Remands Accused To Police Custody Till October 31",
-    "‘Tomorrow it'll be another artist’: Priyanka Gandhi Vadra after axe on son Raihan’s Delhi protest pictures",
+    "India news: Gandhi's nephew told to take down photos depicting youth protests from New Delhi exhibition",
     "France's Macron tightens curbs on protests, blaming hard left for unrest",
-    "Earthquake of magnitude 7.0 hits Tibet",
-    "Iran sets sights on 'valuable targets' as US, Israel mull fresh strikes: 'Haven't used all capabilities...",
-    "Repeated cancellations, soaring fares: Saudi flight disruptions after Houthi attacks leave Kerala expats in turmoil",
+    "At Jamnagar refinery, Rubio and Ambanis discuss energy, digital infra, giga factories",
+    "Casualties reported after 7.0 quake strikes China’s Tibet: State media",
+    "Gun Misfired In Their Hotel. But Tiger Shroff's Shooters Didn't Get Caught",
+    "CEC impeachment: Speaker Om Birla says fresh motion against Gyanesh Kumar will be examined as per rules",
+    "Sonam Wangchuk accuses Centre of going back on assurances to Ladakh, demands U.T. with Legislature",
+    "V Harish: YouTuber arrested after Indian finance influencer's suicide",
+    "‘Shocking’: Bombay HC on Mumbai surpassing Delhi in pollution, asks ‘How can officials sleep...",
+    "Iran claims 7 oil tankers damaged in Hormuz, warns strikes on bases if US facilitates passage",
+    "Saudi Aramco evacuates headquarters, asks staff to work remotely",
+    "Ukraine's Drones Drop Like Flies From Sky After Starshield Disruption: Report",
+    "World News Today Live Updates: 14 Indians involved in yacht incident off Yemen coast, Indian embassy assures help",
     "Ambani's record Jio Indian IPO subscribed over five times as demand surges",
-    "Stock Market Highlights: Sensex Falls 460 Points, Nifty 50 Ends Below 22,700; Nestle, Eternal, HDFC Bank Among Top Losers",
-    "Rupee snaps eight-day rally as oil climbs to highest since May",
     "eMudhra security blunder left trusted CA signing keys exposed to anyone",
+    "World leaders warn of security flaws found in PHP programming language",
+    "GST reforms to be rolled out in phases from Nov 1",
     "How Apple Music turned sound into a logo using a tank of mineral oil",
-    "Apple warns of limited iPhone Duo stock at stores ahead of Friday launch",
-    "Amazon Says Blink Launches Five New Cameras—Its First 4K, Spotlight, And Pan-Tilt Models",
-    "The Hasselblad-Branded Oppo Find X10 Pro Max Is the World's First Phone With Three 200MP Rear Cameras",
-    "Jailer 2 Box Office Collections: Superstar Rajinikanth starrer continues outstanding run on Wednesday, Rises to Rs. 350 Cr plus in 7 days in India",
+    "Apple iPhone Duo's first-week stock sold out in India ahead of October 23 launch",
+    "Oppo Find X10 and Find X10 Pro Max launch in India, here is how much they cost - GSMArena.com news",
+    "Google releases massive Chrome update fixing over 350 security flaws: Why you need to update now",
     "Bigg Boss 20: Mahhi Vij Breaks Down, Reveals Why She Refused Alimony From Jay Bhanushali",
-    "Medical Body Seeks Review Of Sunny Deol's Suryaa Over Depiction Of Healthcare Workers, Writes To Union Minister Ashwini Vaishnaw"
+    "Jailer 2 Box Office Collections: Superstar Rajinikanth starrer continues outstanding run on Wednesday, Rises to Rs. 350 Cr plus in 7 days in India",
+    "‘Ramayana’: AR Rahman, Ranbir Kapoor and Sai Pallavi on bringing the epic to life"
   ],
   "quiz": [
     {
-      "blanked": "Apple warns of limited iPhone Duo stock at stores ahead of ______ launch",
-      "answer": "Friday",
+      "blanked": "Bigg Boss 20: Mahhi Vij Breaks Down, Reveals Why She ______ Alimony From Jay Bhanushali",
+      "answer": "Refused",
       "options": [
-        "Friday",
-        "Lake",
-        "Live",
+        "Music",
+        "Pallavi",
+        "Max",
         "Refused"
       ]
     },
     {
-      "blanked": "S Jaishankar's 'Indira' Reminder After Rahul Gandhi's Marco ______ Jibe",
-      "answer": "Rubio",
+      "blanked": "India's next Hardik ______ Naman Dhir announces himself in Christchurch",
+      "answer": "Pandya",
       "options": [
-        "Rubio",
-        "Max",
-        "Oppo",
-        "Models"
+        "Pandya",
+        "India",
+        "Centre",
+        "Tibet"
       ]
     },
     {
-      "blanked": "Rupee snaps eight-day rally as oil climbs to highest since ______",
-      "answer": "May",
+      "blanked": "‘Shocking’: Bombay HC on ______ surpassing Delhi in pollution, asks ‘How can officials sleep...",
+      "answer": "Mumbai",
+      "options": [
+        "Office",
+        "Trillion",
+        "Mumbai",
+        "India"
+      ]
+    },
+    {
+      "blanked": "Live Cricket Score, ______ Latest News, Stats & Videos",
+      "answer": "Schedule",
+      "options": [
+        "Schedule",
+        "Apple",
+        "Autonomic",
+        "Macron"
+      ]
+    },
+    {
+      "blanked": "'Ranabaali' box office collection day 6: Vijay Deverakonda and Rashmika ______ film earns Rs 59.65 cr",
+      "answer": "Mandannas",
+      "options": [
+        "Where",
+        "Mandannas",
+        "Today",
+        "Didnt"
+      ]
+    },
+    {
+      "blanked": "How Apple ______ turned sound into a logo using a tank of mineral oil",
+      "answer": "Music",
+      "options": [
+        "Get",
+        "Music",
+        "Rashmika",
+        "Great"
+      ]
+    },
+    {
+      "blanked": "Oppo Find X10 and ______ X10 Pro Max launch in India, here is how much they cost - GSMArena.com news",
+      "answer": "Find",
+      "options": [
+        "IPO",
+        "Rises",
+        "Find",
+        "Centre"
+      ]
+    },
+    {
+      "blanked": "Ambani's record Jio Indian ______ subscribed over five times as demand surges",
+      "answer": "IPO",
+      "options": [
+        "Where",
+        "IPO",
+        "Rajinikanth",
+        "Office"
+      ]
+    },
+    {
+      "blanked": "Asian Para Games: Where ______ stands in medal tally after best day with 26 medals, including 7 golds",
+      "answer": "India",
+      "options": [
+        "Legislature",
+        "Tibet",
+        "India",
+        "Global"
+      ]
+    },
+    {
+      "blanked": "Orionid meteor shower observed in ______ Heilongjiang",
+      "answer": "Chinas",
       "options": [
         "Jay",
-        "Jaishankars",
-        "May",
-        "Court"
+        "Pandya",
+        "Down",
+        "Chinas"
       ]
     },
     {
-      "blanked": "Delhi High Court reserves verdict on Neha ______ petition against ‘peace’ bond notice",
-      "answer": "Boras",
-      "options": [
-        "Planet",
-        "Blink",
-        "West",
-        "Boras"
-      ]
-    },
-    {
-      "blanked": "Medical Body Seeks Review Of Sunny Deol's Suryaa Over Depiction Of Healthcare ______ Writes To Union Minister Ashwini Vaishnaw",
-      "answer": "Workers",
-      "options": [
-        "Linked",
-        "Workers",
-        "Below",
-        "Jaishankars"
-      ]
-    },
-    {
-      "blanked": "‘Tomorrow it'll be another artist’: Priyanka Gandhi Vadra after axe on son ______ Delhi protest pictures",
-      "answer": "Raihans",
-      "options": [
-        "Raihans",
-        "Police",
-        "Until",
-        "Seeks"
-      ]
-    },
-    {
-      "blanked": "Samson, Iyer and ______ pull off record chase against NZ in T20I series opener",
-      "answer": "Dhir",
+      "blanked": "Google releases massive Chrome update fixing over 350 security flaws: ______ you need to update now",
+      "answer": "Why",
       "options": [
         "Reveals",
-        "Jay",
-        "Deols",
-        "Dhir"
+        "Sai",
+        "Boss",
+        "Why"
       ]
     },
     {
-      "blanked": "Repeated cancellations, soaring fares: Saudi flight disruptions after ______ attacks leave Kerala expats in turmoil",
-      "answer": "Houthi",
+      "blanked": "Ukraine's Drones Drop Like Flies From ______ After Starshield Disruption: Report",
+      "answer": "Sky",
       "options": [
-        "Macron",
-        "Arabias",
-        "Where",
-        "Houthi"
-      ]
-    },
-    {
-      "blanked": "Iran sets sights on 'valuable targets' as US, ______ mull fresh strikes: 'Haven't used all capabilities...",
-      "answer": "Israel",
-      "options": [
-        "Sensex",
-        "Israel",
-        "Why",
-        "Rubio"
-      ]
-    },
-    {
-      "blanked": "Ambani's record Jio ______ IPO subscribed over five times as demand surges",
-      "answer": "Indian",
-      "options": [
-        "Call",
-        "Severity",
-        "Court",
-        "Indian"
-      ]
-    },
-    {
-      "blanked": "Stock Market ______ Sensex Falls 460 Points, Nifty 50 Ends Below 22,700; Nestle, Eternal, HDFC Bank Among Top Losers",
-      "answer": "Highlights",
-      "options": [
-        "Highlights",
-        "Until",
-        "America",
-        "Leaders"
-      ]
-    },
-    {
-      "blanked": "Harry ______ smashes fastest double-century in ODIs",
-      "answer": "Brook",
-      "options": [
-        "Brook",
-        "Shroff",
-        "Bhanushali",
-        "Firing"
+        "Report",
+        "Sky",
+        "MHz",
+        "Where"
       ]
     }
   ]
