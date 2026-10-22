@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-10-22T10:38:19.345Z",
+  "generatedAt": "2026-10-22T15:39:15.170Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "CJP leaders Saurav Das, Ashutosh Ranka summoned by Delhi Police Crime Branch after release from jail",
     "Attack on Saudi Arabia’s King Fahd airport kills two people",
-    "A precursor to the India-EU trade deal",
-    "At Jamnagar refinery, Rubio and Ambanis discuss energy, digital infra, giga factories",
-    "France riots, India protests linked to same global network: Report",
-    "Indian shares extend losses as high oil prices heighten inflation worries",
-    "'Let's Visit Mumbai Temple': How Tiger Shroff Shooting Accused Was Tricked",
-    "'Dawood Ibrahim Lives In Pakistan, Like Bin Laden Used To': India Corrects UN Rapporteur",
+    "PM Modi emphasises dialogue, diplomacy in call with Netanyahu over West Asia situation",
+    "After Google renames 'Lake Ontario' to 'Lake America' in the US; CEO Sundar Pichai says no to US governme",
+    "CJP Leaders Saurav Das, Ashutosh Ranka Undertake Not To Call For Jantar Mantar Protest Until It Remains...",
+    "Coimbatore student ends life; family alleges harassment by teacher, classmates over caste and beef consumption",
+    "Delhi High Court reserves verdict on Neha Bora’s petition against ‘peace’ bond notice",
+    "S Jaishankar's 'Indira' Reminder After Rahul Gandhi's Marco Rubio Jibe",
+    "India will support every meaningful effort to bring peace to Ukraine, West Asia: PM Modi",
+    "Tiger Shroff Firing Case: Mumbai Court Remands Accused To Police Custody Till October 31",
     "‘Tomorrow it'll be another artist’: Priyanka Gandhi Vadra after axe on son Raihan’s Delhi protest pictures",
-    "'Successes in eliminating Maoism': PM Modi, EAM Jaishankar wish Amit Shah on birthday",
-    "‘Remain vigilant’: India urges citizens in France to avoid protest sites ahead of fresh demonstrations",
-    "World leaders warn of security flaws found in PHP programming language",
-    "Who was Nazrul Islam? Bangladesh man executed for ‘indecent act’ in Saudi Arabia",
-    "Trump says he wanted to rename Atlantic Ocean but Google's Sundar Pichai said no",
-    "Retail investors fully subscribe Ambani's Jio IPO on second day",
-    "Lumpy Jio IPO inflows push rupee into 'overbought' zone just as oil renews rise",
-    "Inflation, Weak Rupee Keep RBI Rate Hikes in Play, Minutes Show",
+    "France's Macron tightens curbs on protests, blaming hard left for unrest",
+    "Earthquake of magnitude 7.0 hits Tibet",
+    "Iran sets sights on 'valuable targets' as US, Israel mull fresh strikes: 'Haven't used all capabilities...",
+    "Repeated cancellations, soaring fares: Saudi flight disruptions after Houthi attacks leave Kerala expats in turmoil",
+    "Ambani's record Jio Indian IPO subscribed over five times as demand surges",
+    "Stock Market Highlights: Sensex Falls 460 Points, Nifty 50 Ends Below 22,700; Nestle, Eternal, HDFC Bank Among Top Losers",
+    "Rupee snaps eight-day rally as oil climbs to highest since May",
     "eMudhra security blunder left trusted CA signing keys exposed to anyone",
-    "ChatGPT just moved into Google Chrome, and Gemini has some serious competition",
-    "iPhone Duo review: Apple's first foldable is polished at the edges",
-    "Google releases massive Chrome update fixing over 350 security flaws: Why you need to update now",
-    "Inside a well-ventilated Bhuj home designed to stay naturally cool in 40°C summer heat",
-    "'Shouldn't have come if unwell': Subodh Uniyal defends public reprimand of Daler Mehndi",
-    "Exclusive | Delhi Police denies permission for Diljit Dosanjh's October 30 Delhi concert, cites security concerns | Hindustan Times",
-    "'I Had A Slip Of Tongue': Ranbir Kapoor Apologises For Dussehra Speech Gaffe At Ramayana Chennai Event"
+    "How Apple Music turned sound into a logo using a tank of mineral oil",
+    "Apple warns of limited iPhone Duo stock at stores ahead of Friday launch",
+    "Amazon Says Blink Launches Five New Cameras—Its First 4K, Spotlight, And Pan-Tilt Models",
+    "The Hasselblad-Branded Oppo Find X10 Pro Max Is the World's First Phone With Three 200MP Rear Cameras",
+    "Jailer 2 Box Office Collections: Superstar Rajinikanth starrer continues outstanding run on Wednesday, Rises to Rs. 350 Cr plus in 7 days in India",
+    "Bigg Boss 20: Mahhi Vij Breaks Down, Reveals Why She Refused Alimony From Jay Bhanushali",
+    "Medical Body Seeks Review Of Sunny Deol's Suryaa Over Depiction Of Healthcare Workers, Writes To Union Minister Ashwini Vaishnaw"
   ],
   "quiz": [
     {
-      "blanked": "Man United captain Fernandes slams ______ tactics after Como hammering",
-      "answer": "Carricks",
+      "blanked": "Apple warns of limited iPhone Duo stock at stores ahead of ______ launch",
+      "answer": "Friday",
       "options": [
-        "Carricks",
-        "Weak",
-        "Dosanjhs",
-        "October"
+        "Friday",
+        "Lake",
+        "Live",
+        "Refused"
       ]
     },
     {
-      "blanked": "France riots, India protests linked to same global network: ______",
-      "answer": "Report",
+      "blanked": "S Jaishankar's 'Indira' Reminder After Rahul Gandhi's Marco ______ Jibe",
+      "answer": "Rubio",
       "options": [
-        "2026",
-        "Report",
-        "Modi",
-        "Side-On"
+        "Rubio",
+        "Max",
+        "Oppo",
+        "Models"
       ]
     },
     {
-      "blanked": "ChatGPT just moved into Google ______ and Gemini has some serious competition",
-      "answer": "Chrome",
+      "blanked": "Rupee snaps eight-day rally as oil climbs to highest since ______",
+      "answer": "May",
       "options": [
-        "Chrome",
-        "Subodh",
-        "Saurav",
-        "Gandhi"
+        "Jay",
+        "Jaishankars",
+        "May",
+        "Court"
       ]
     },
     {
-      "blanked": "Who was ______ Islam? Bangladesh man executed for ‘indecent act’ in Saudi Arabia",
-      "answer": "Nazrul",
+      "blanked": "Delhi High Court reserves verdict on Neha ______ petition against ‘peace’ bond notice",
+      "answer": "Boras",
       "options": [
-        "Offers",
-        "Weak",
-        "Nazrul",
-        "Games"
+        "Planet",
+        "Blink",
+        "West",
+        "Boras"
       ]
     },
     {
-      "blanked": "20 MHz Magic: How a Slow Clock Delivers Sub-Meter Ranging Around ______",
-      "answer": "Mars",
+      "blanked": "Medical Body Seeks Review Of Sunny Deol's Suryaa Over Depiction Of Healthcare ______ Writes To Union Minister Ashwini Vaishnaw",
+      "answer": "Workers",
       "options": [
-        "Daler",
-        "Mars",
-        "MHz",
-        "Bin"
+        "Linked",
+        "Workers",
+        "Below",
+        "Jaishankars"
       ]
     },
     {
-      "blanked": "Bundling Seasonal Vaccines: ______ Uptake, and What’s Next for Europe",
-      "answer": "Evidence",
+      "blanked": "‘Tomorrow it'll be another artist’: Priyanka Gandhi Vadra after axe on son ______ Delhi protest pictures",
+      "answer": "Raihans",
       "options": [
-        "Evidence",
-        "France",
-        "Heilongjiang",
-        "Gandhi"
-      ]
-    },
-    {
-      "blanked": "Cosmic ______ Offers Rare Side-On View Of Planet Birth",
-      "answer": "Hamburger",
-      "options": [
-        "350",
-        "Hamburger",
-        "Ibrahim",
-        "Qazi"
-      ]
-    },
-    {
-      "blanked": "Inflation, Weak Rupee Keep RBI Rate Hikes in Play, ______ Show",
-      "answer": "Minutes",
-      "options": [
-        "Accused",
-        "Saurav",
-        "Branch",
-        "Minutes"
-      ]
-    },
-    {
-      "blanked": "Orionid meteor shower observed in ______ Heilongjiang",
-      "answer": "Chinas",
-      "options": [
-        "Linking",
-        "Ranka",
-        "Kumar",
-        "Chinas"
-      ]
-    },
-    {
-      "blanked": "A precursor to the ______ trade deal",
-      "answer": "India-EU",
-      "options": [
-        "Visit",
-        "Zealand",
-        "Mars",
-        "India-EU"
-      ]
-    },
-    {
-      "blanked": "Retail investors fully subscribe Ambani's ______ IPO on second day",
-      "answer": "Jio",
-      "options": [
-        "Magic",
-        "Priyanka",
-        "Delhi",
-        "Jio"
-      ]
-    },
-    {
-      "blanked": "‘Remain vigilant’: ______ urges citizens in France to avoid protest sites ahead of fresh demonstrations",
-      "answer": "India",
-      "options": [
-        "Rampal",
-        "India",
         "Raihans",
-        "Uptake"
+        "Police",
+        "Until",
+        "Seeks"
+      ]
+    },
+    {
+      "blanked": "Samson, Iyer and ______ pull off record chase against NZ in T20I series opener",
+      "answer": "Dhir",
+      "options": [
+        "Reveals",
+        "Jay",
+        "Deols",
+        "Dhir"
+      ]
+    },
+    {
+      "blanked": "Repeated cancellations, soaring fares: Saudi flight disruptions after ______ attacks leave Kerala expats in turmoil",
+      "answer": "Houthi",
+      "options": [
+        "Macron",
+        "Arabias",
+        "Where",
+        "Houthi"
+      ]
+    },
+    {
+      "blanked": "Iran sets sights on 'valuable targets' as US, ______ mull fresh strikes: 'Haven't used all capabilities...",
+      "answer": "Israel",
+      "options": [
+        "Sensex",
+        "Israel",
+        "Why",
+        "Rubio"
+      ]
+    },
+    {
+      "blanked": "Ambani's record Jio ______ IPO subscribed over five times as demand surges",
+      "answer": "Indian",
+      "options": [
+        "Call",
+        "Severity",
+        "Court",
+        "Indian"
+      ]
+    },
+    {
+      "blanked": "Stock Market ______ Sensex Falls 460 Points, Nifty 50 Ends Below 22,700; Nestle, Eternal, HDFC Bank Among Top Losers",
+      "answer": "Highlights",
+      "options": [
+        "Highlights",
+        "Until",
+        "America",
+        "Leaders"
+      ]
+    },
+    {
+      "blanked": "Harry ______ smashes fastest double-century in ODIs",
+      "answer": "Brook",
+      "options": [
+        "Brook",
+        "Shroff",
+        "Bhanushali",
+        "Firing"
       ]
     }
   ]
