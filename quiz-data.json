@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-10-22T00:53:50.944Z",
+  "generatedAt": "2026-10-22T05:39:17.303Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
     "CJP Leaders Saurav Das, Ashutosh Ranka Undertake Not To Call For Jantar Mantar Protest Until It Remains...",
-    "Rubio meets Adani, Chandrasekaran; visits Reliance’s Jamnagar refinery",
-    "AP municipal polls: Supreme Court orders EC to defer publication of final candidates list after YSR Congress alleges violence",
-    "How Qatar, Turkiye, Pakistan and Indonesia are deepening defence ties",
     "India news: India-US trade deal 'pretty close,' says Trump",
     "Trade, defence and the Russia-Ukraine conflict to dominate Modi-Tusk talks on October 22",
-    "Tiger Shroff Firing Case: Mumbai Court Remands Accused To Police Custody Till October 31",
-    "UPSC CURRENT AFFAIRS – 21 OCTOBER 2026",
-    "Drug menace next target, says Union home minister Amit Shah; eyes 2029 deadline",
-    "‘Chinky, China president, Michael Jackson’: Delhi content creator faces heat over alleged racial slurs ag",
-    "Putin and Zelenskyy back three-way US peace talks on Ukraine",
-    "France protests, and the economic mess at the heart of it | ExplainSpeaking",
-    "US State Dept: Issued Ordered Departure For Non-Emergency US Govt Employees And Their Family Members In Saudi Arabia Only",
-    "‘Remain vigilant’: India urges citizens in France to avoid protest sites ahead of fresh demonstrations",
-    "MPC minutes: RBI flags risk of broader inflation as input costs rise and credit growth stays strong",
-    "Stock Market Crash: Key factors behind the steep Sensex-Nifty sell-off on Oct 21",
-    "India's HDFC Bank probe finds executives leaked confidential information, Bloomberg News reports",
-    "Billionaire Mukesh Ambani's Jio launches India's biggest share sale",
-    "iPhone Duo Review: What The Verge and MKBHD Say",
+    "At Jamnagar refinery, Rubio and Ambanis discuss energy, digital infra, giga factories",
+    "Delhi’s Winter Season of Polluted Air Begins",
+    "Economist Prabhakar to join Dipke, Prakash Raj, Neha at nationwide anti-SIR protests on October 23",
+    "Don't Meddle In Domain Of Other Agencies: Supreme Court To ED In CMRL-Exalogic Case",
+    "‘Racial attack’ by Delhi influencer on tribal youth roils Tripura",
+    "'Dawood Ibrahim Lives In Pakistan, Like Bin Laden Used To': India Corrects UN Rapporteur",
+    "'Let's Visit Mumbai Temple': How Tiger Shroff Shooting Accused Was Tricked",
+    "Russia Agrees To Resume Trilateral Talks, Trump Says Ukraine War's End Is Near",
+    "Drones fall, strikes stall: How Musk's Starshield curbs hit Zelenskyy’s war against Russia",
+    "One killed, eight injured in attack on Saudi Arabia’s King Fahd airport",
+    "France’s Macron says protesters won’t be allowed to ‘cause chaos’",
+    "Stock market outlook today, 22 Oct: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues",
+    "Rupee traders weigh Jio IPO flows against oil price risks",
+    "India rate panel flags more hikes but wary of aggressive cycle, minutes show",
+    "eMudhra security blunder left trusted CA signing keys exposed to anyone",
+    "Apple warns of limited iPhone Duo stock for walk-in buyers on launch day - GSMArena.com news",
+    "Apple announces October 28 ‘Pro and tell’ event for touch-screen MacBook Pro",
+    "Inside a well-ventilated Bhuj home designed to stay naturally cool in 40°C summer heat",
     "Quordle Hint Today: Thursday, October 22 Clues And Answers",
-    "Memory Bugs Account for Most of Chrome’s 353 New Security Fixes",
-    "Oppo Find X10 Pro Max Hands-On: Triple 200-Megapixel Cameras But Few Surprises",
-    "Rotten Tomatoes Pulled a Negative ‘Clayface’ Review, and Critics Can’t Agree Why",
-    "'Shouldn't have come if unwell': Subodh Uniyal defends public reprimand of Daler Mehndi",
-    "Today’s Wordle Hints for October 22, 2026"
+    "'I Had A Slip Of Tongue': Ranbir Kapoor Apologises For Dussehra Speech Gaffe At Ramayana Chennai Event",
+    "‘Jailer 2’ box office collection Day 7: Rajinikanth and Nelson Dilipkumar’s film approaches Rs 300 crore",
+    "Song Hye Kyo And Gong Yoo’s “Tantara” Announces Premiere Date With New Posters"
   ],
   "quiz": [
     {
-      "blanked": "iPhone ______ Review: What The Verge and MKBHD Say",
-      "answer": "Duo",
+      "blanked": "Russia Agrees To Resume Trilateral Talks, Trump Says Ukraine War's ______ Is Near",
+      "answer": "End",
       "options": [
-        "Office",
-        "Zimbabwe",
-        "Duo",
-        "353"
+        "End",
+        "Qazi",
+        "Tongue",
+        "Journal"
       ]
     },
     {
-      "blanked": "How Qatar, Turkiye, ______ and Indonesia are deepening defence ties",
-      "answer": "Pakistan",
+      "blanked": "World ______ Day 2026",
+      "answer": "Osteoporosis",
       "options": [
-        "YSR",
-        "Stats",
-        "Pakistan",
-        "Reliances"
+        "Planet",
+        "Osteoporosis",
+        "Kyo",
+        "Gong"
       ]
     },
     {
-      "blanked": "Billionaire Mukesh Ambani's Jio launches ______ biggest share sale",
-      "answer": "Indias",
+      "blanked": "Apple announces October 28 ‘Pro and tell’ event for touch-screen ______ Pro",
+      "answer": "MacBook",
       "options": [
-        "Das",
-        "Ukraine",
-        "Tamil",
-        "Indias"
+        "Premiere",
+        "Kospi",
+        "India",
+        "MacBook"
       ]
     },
     {
-      "blanked": "Look up: Orionid meteor shower peaks this week | Daily ______",
-      "answer": "Sabah",
+      "blanked": "Hyperglycemia on Capivasertib: Key Steps for Prevention, Monitoring and ______ CTA",
+      "answer": "Treatment",
       "options": [
-        "Issued",
-        "China",
-        "Sabah",
-        "Linking"
+        "Bigg",
+        "Treatment",
+        "IPO",
+        "300"
       ]
     },
     {
-      "blanked": "AP municipal polls: Supreme ______ orders EC to defer publication of final candidates list after YSR Congress alleges violence",
-      "answer": "Court",
+      "blanked": "'Dawood ______ Lives In Pakistan, Like Bin Laden Used To': India Corrects UN Rapporteur",
+      "answer": "Ibrahim",
       "options": [
-        "Probe",
-        "Das",
-        "Court",
-        "Sabah"
-      ]
-    },
-    {
-      "blanked": "How penguin droppings may accelerate snowmelt in ______",
-      "answer": "Antarctica",
-      "options": [
-        "Pulled",
-        "Antarctica",
-        "Adani",
-        "2026"
-      ]
-    },
-    {
-      "blanked": "Jailer 2 Worldwide ______ Office: Rajinikanth's film emerges fastest Tamil entrant in Rs 500 crore club, grosses Rs 521 crore in just 6 days",
-      "answer": "Box",
-      "options": [
-        "Rajinikanths",
-        "Sets",
-        "Box",
-        "Bank"
-      ]
-    },
-    {
-      "blanked": "‘Chinky, ______ president, Michael Jackson’: Delhi content creator faces heat over alleged racial slurs ag",
-      "answer": "China",
-      "options": [
-        "Chandrasekaran",
-        "China",
-        "Russia-Ukraine",
-        "Chromes"
-      ]
-    },
-    {
-      "blanked": "India's HDFC ______ probe finds executives leaked confidential information, Bloomberg News reports",
-      "answer": "Bank",
-      "options": [
-        "India-US",
-        "Bank",
-        "Ranka",
-        "YSR"
-      ]
-    },
-    {
-      "blanked": "Stock Market Crash: Key factors behind the steep Sensex-Nifty sell-off on ______ 21",
-      "answer": "Oct",
-      "options": [
-        "Saudi",
-        "Para",
-        "Daler",
+        "Tantara",
+        "Offers",
+        "Ibrahim",
         "Oct"
       ]
     },
     {
-      "blanked": "France protests, and the economic mess at the heart of it | ______",
-      "answer": "ExplainSpeaking",
+      "blanked": "Cosmic 'Hamburger' Offers Rare ______ View Of Planet Birth",
+      "answer": "Side-On",
       "options": [
-        "Few",
-        "Accused",
-        "Amit",
-        "ExplainSpeaking"
+        "Like",
+        "Steps",
+        "Kospi",
+        "Side-On"
       ]
     },
     {
-      "blanked": "Trade, defence and the Russia-Ukraine conflict to dominate ______ talks on October 22",
-      "answer": "Modi-Tusk",
+      "blanked": "Personalised nutrition: ______ genetics, lifestyle and long-term health",
+      "answer": "Linking",
       "options": [
-        "Remands",
-        "Modi-Tusk",
-        "View",
-        "Indonesia"
+        "Date",
+        "Linking",
+        "Tiger",
+        "Ibrahim"
+      ]
+    },
+    {
+      "blanked": "Japanese Probe Sets Out for Mars’s Moons | The ______ Street Journal - newspaper",
+      "answer": "Wall",
+      "options": [
+        "Gaffe",
+        "Bigg",
+        "Wall",
+        "Season"
+      ]
+    },
+    {
+      "blanked": "France’s ______ says protesters won’t be allowed to ‘cause chaos’",
+      "answer": "Macron",
+      "options": [
+        "Hamburger",
+        "Bigg",
+        "Macron",
+        "Fahd"
+      ]
+    },
+    {
+      "blanked": "India news: India-US trade deal 'pretty close,' says ______",
+      "answer": "Trump",
+      "options": [
+        "ElSherbini",
+        "Zelenskyys",
+        "Nelson",
+        "Trump"
+      ]
+    },
+    {
+      "blanked": "One killed, eight injured in attack on Saudi ______ King Fahd airport",
+      "answer": "Arabias",
+      "options": [
+        "Sets",
+        "Arabias",
+        "Tongue",
+        "Asian"
+      ]
+    },
+    {
+      "blanked": "India's Anahat Singh stuns eight-time World Champion Nour ElSherbini at ______ Valley Open",
+      "answer": "Silicon",
+      "options": [
+        "Ashutosh",
+        "Trilateral",
+        "Nifty",
+        "Silicon"
       ]
     }
   ]
