@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-10-23T19:27:31.117Z",
+  "generatedAt": "2026-10-23T22:30:20.234Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "Situation along LAC gets disturbed when Chinese forces diverge from established patrolling pattern: MEA",
-    "BREAKING | Delhi High Court Rejects Neha Bora's Plea Against Peace Bond Notice Amid Anti-CEC Protests",
-    "Farm outfits write to President demanding CEC’s Gyanesh Kumar resignation",
+    "China’s patrolling deviations disturb border: MEA on ITBP DG's LAC face-offs remark",
+    "Students, farmers, civil society groups continue to protest against SIR, CEC",
+    "Odisha cyclone alert: IMD issues red warning for heavy rain in 5 districts",
     "France's Macron tightens curbs on protests, blaming hard left for unrest",
-    "A UP seat won by under 7,000 votes has 10,470 suspect voter entries",
+    "BJP MLA and RG Kar rape victim's mother Ratna Debnath blames public for Kolkata stampede",
+    "BREAKING | Delhi High Court Rejects Neha Bora's Plea Against Peace Bond Notice Amid Anti-CEC Protests",
+    "Himanshu Bhau, India's most wanted gangster from Haryana, arrested in US",
+    "PM Modi stresses need to unite society against divisive forces to build developed India by 2047",
+    "Haryana power employees' \"strike will end in just a few hours\", says Anil Vij; Union leaders agree to meet",
     "Marco Rubio: Did domestic pressure make US secretary of state visit an Indian port town?",
-    "4 dead as blast rips through house storing firecrackers in Bihar village",
-    "Cyclonic storm likely by October 26; heavy rain in Coastal Andhra from October 27: IMD",
-    "US national Mathew Vandyke appears before Delhi court in Myanmar arms training case | India News",
-    "DK Shivakumar claims Meta AI glasses used to carry out sting operation on him, says 'I can read faces'",
-    "Netanyahu orders West Bank closure, warns of major military operation after attack kills Israeli soldiers",
-    "Seven killed as gunmen open fire at church in Jordan, authorities say",
-    "One person killed in suspected ‘Islamophobic’ shooting near Paris",
-    "U.S. Diesel at $6.30 a Gallon as First Russian Cargo Sets Sail for New York",
-    "Oil Prices Hold Near $100 as Middle East Risks Offset Peace Hopes",
+    "‘Will get it straightened out’: Trump says will talk to Musk on Ukraine's Starlink issue | World News",
+    "\"Situation Dire\": Melania Trump Secures Ceasefire In Ukrainian City",
+    "One killed as Elysee calls Paris area shooting ‘racist, terrorist attack’",
+    "Seven killed as gunmen open fire at church in Jordan in 'terrorist' attack, authorities say",
     "‘I have not seen anything like this in a long, long time,’ Microsoft CEO Satya Nadella as companies, gove",
-    "Parsi bodies back Tata Trusts, urge PM Modi to protect group’s long-term governance model",
-    "Infosys cuts forecast as AI spending shift deepens North America slowdown",
-    "iPhone Duo is now shipping - GSMArena.com news",
-    "Spotify Releases New Native App for Android Automotive, Coming First to Audi Cars",
+    "$120 Oil Is Almost Here, and Trump Has Few Good Options",
+    "\"High Inflation Is Like Tax On Everyone\": RBI Governor At NDTV World Summit",
+    "Surging oil prices drag Indian shares to weekly losses",
+    "’Truly something cool’: Apple fans react as iPhone Duo hits stores By Reuters",
+    "Spotify launches native in-car app on Android Automotive in Audi models",
+    "Your Pixel Watch is getting smarter about tracking activity with Google Health 5.11",
     "G-Shock 2500: 9 new Casio watches that look like the Patek Philippe Nautilus",
-    "Fitbit Air and Google Health get updates including blood pressure and insulin resistance trends",
     "Jailer 2 Box Office Collections: Superstar Rajinikanth starrer closes its extended week at Rs. 374 Cr in India, Set to cross Rs. 600 Cr worldwide today",
     "Udta Teer Box Office Day 1 Advance Booking & Prediction: 41K+ Tickets Booked; Could Join Ayushmann Khurrana’s Top 3 Openers Post-COVID",
     "Diljit Dosanjh’s October 30 Delhi concert back on after police grant permission"
   ],
   "quiz": [
     {
-      "blanked": "iPhone ______ is now shipping - GSMArena.com news",
-      "answer": "Duo",
-      "options": [
-        "Join",
-        "Collections",
-        "Duo",
-        "Zimbabwe"
-      ]
-    },
-    {
-      "blanked": "Udta Teer Box Office ______ 1 Advance Booking & Prediction: 41K+ Tickets Booked; Could Join Ayushmann Khurrana’s Top 3 Openers Post-COVID",
-      "answer": "Day",
-      "options": [
-        "6.30",
-        "Bihar",
-        "Best",
-        "Day"
-      ]
-    },
-    {
-      "blanked": "Can you stimulate your skin’s own collagen production? ______ actually helps",
-      "answer": "What",
-      "options": [
-        "Hindustan",
-        "What",
-        "Recurrence",
-        "Anirudh"
-      ]
-    },
-    {
-      "blanked": "One person killed in suspected ______ shooting near Paris",
-      "answer": "Islamophobic",
-      "options": [
-        "Islamophobic",
-        "Google",
-        "Mathew",
-        "Date"
-      ]
-    },
-    {
-      "blanked": "India vs Zimbabwe: Shree Charani, ______ Rawal fire India to comfortable win in opener",
-      "answer": "Pratika",
-      "options": [
-        "Pratika",
-        "Severe",
-        "Para",
-        "Andhra"
-      ]
-    },
-    {
-      "blanked": "Why ______ astronauts are studying tumours, printing blood vessels in space",
-      "answer": "Nasa",
-      "options": [
-        "Prediction",
-        "Nasa",
-        "Post-COVID",
-        "Bank"
-      ]
-    },
-    {
-      "blanked": "Congress chairperson Sonia Gandhi, Finance Minister Nirmala Sitharaman invited to attend wedding reception of Anirudh Ravichander and ______ Maran | Hindustan Times",
-      "answer": "Kavya",
-      "options": [
-        "Kavya",
-        "Set",
-        "North",
-        "Satya"
-      ]
-    },
-    {
-      "blanked": "Diljit ______ October 30 Delhi concert back on after police grant permission",
-      "answer": "Dosanjhs",
-      "options": [
-        "Rawal",
-        "MEA",
-        "Dosanjhs",
-        "Myanmar"
-      ]
-    },
-    {
-      "blanked": "Fitbit Air and ______ Health get updates including blood pressure and insulin resistance trends",
+      "blanked": "Your Pixel Watch is getting smarter about tracking activity with ______ Health 5.11",
       "answer": "Google",
       "options": [
         "Google",
-        "Set",
-        "Moons",
-        "Casio"
+        "Discovered",
+        "Dosanjhs",
+        "Williams"
       ]
     },
     {
-      "blanked": "BREAKING | Delhi High Court Rejects Neha ______ Plea Against Peace Bond Notice Amid Anti-CEC Protests",
-      "answer": "Boras",
+      "blanked": "Bharat ______ slashes malaria vaccine price on GAVI-backed pact with UNICEF",
+      "answer": "Biotech",
       "options": [
-        "Superstar",
+        "Governor",
+        "Exclusive",
+        "Biotech",
+        "City"
+      ]
+    },
+    {
+      "blanked": "One killed as Elysee calls ______ area shooting ‘racist, terrorist attack’",
+      "answer": "Paris",
+      "options": [
+        "Phoenix",
+        "Anti-CEC",
+        "2500",
+        "Paris"
+      ]
+    },
+    {
+      "blanked": "Udta Teer Box Office Day 1 Advance Booking & Prediction: 41K+ ______ Booked; Could Join Ayushmann Khurrana’s Top 3 Openers Post-COVID",
+      "answer": "Tickets",
+      "options": [
+        "News",
+        "Tickets",
+        "Recurrence",
+        "Phobos"
+      ]
+    },
+    {
+      "blanked": "BREAKING | Delhi High Court Rejects Neha Bora's Plea Against Peace ______ Notice Amid Anti-CEC Protests",
+      "answer": "Bond",
+      "options": [
+        "Best",
+        "GAVI-backed",
+        "Delhi",
+        "Bond"
+      ]
+    },
+    {
+      "blanked": "Haryana power employees' \"strike will end in just a few hours\", says Anil ______ Union leaders agree to meet",
+      "answer": "Vij",
+      "options": [
         "Join",
-        "Boras",
-        "Casio"
+        "Vij",
+        "Patek",
+        "Prediction"
       ]
     },
     {
-      "blanked": "4 dead as blast rips through house storing firecrackers in ______ village",
-      "answer": "Bihar",
+      "blanked": "Rapid Recurrence in ______ Cancer: Severe Mortality Risk",
+      "answer": "Tongue",
       "options": [
-        "October",
-        "Bihar",
-        "Near",
-        "Trusts"
+        "Peace",
+        "Nadella",
+        "Tongue",
+        "Rejects"
       ]
     },
     {
-      "blanked": "Mars mission to collect samples from its ______ moon",
-      "answer": "Phobos",
+      "blanked": "Scientists Identify a New Type of Depression That May Feel ______ Permanent Jet Lag",
+      "answer": "Like",
       "options": [
-        "Phobos",
-        "Mathew",
+        "MLA",
         "Against",
-        "Hold"
+        "Like",
+        "Phobos"
+      ]
+    },
+    {
+      "blanked": "October's Full ______ 2026: Date & Best Time In IST To Watch Hunters Moon In India",
+      "answer": "Moon",
+      "options": [
+        "600",
+        "MASLD",
+        "100",
+        "Moon"
+      ]
+    },
+    {
+      "blanked": "Astronomer Jamie Williams Explains Newly Discovered ‘Phoenix’ ______ Reborn From Its Star’s Ashes [Exclusive]",
+      "answer": "Exoplanet",
+      "options": [
+        "Exoplanet",
+        "Governor",
+        "Severe",
+        "Highest-Grossing"
+      ]
+    },
+    {
+      "blanked": "Marco ______ Did domestic pressure make US secretary of state visit an Indian port town?",
+      "answer": "Rubio",
+      "options": [
+        "Boras",
+        "Rubio",
+        "Moon",
+        "Hindi"
+      ]
+    },
+    {
+      "blanked": "Forget the Moon's south pole: 4 ______ lunar sites could help astronauts build a base and prepare for Mars,...",
+      "answer": "Other",
+      "options": [
+        "Kar",
+        "Severe",
+        "Other",
+        "Governor"
       ]
     }
   ]
