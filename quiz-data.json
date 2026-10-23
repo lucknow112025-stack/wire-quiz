@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-10-23T00:56:30.248Z",
+  "generatedAt": "2026-10-23T05:43:09.916Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "At least sixteen dead, 32 injured after 7.0 quake strikes China’s Tibet: State media",
     "Cabinet Secretary had copied acknowledgement sent to letters by two ECs to CEC for ‘information’: RTI reply",
-    "At Jamnagar refinery, Rubio and Ambanis discuss energy, digital infra, giga factories",
-    "‘You stand for what is true’: Priyanka Gandhi as son Raihan’s protest photographs taken down",
-    "France's Macron tightens curbs on protests, blaming hard left for unrest",
-    "Attack on Saudi Arabia’s King Fahd airport kills two people",
-    "Sonam Wangchuk accuses Centre of going back on assurances to Ladakh, demands U.T. with Legislature",
-    "YouTuber arrested after popular Indian finance influencer's suicide",
-    "‘Ram Ne Yadav Ko Mara’, ‘Murkhchand Yadav’: UP voter list reads like a comedy script, but EC not amused",
-    "Tiger Shroff's team shares video of gunpowder burn marks on his hand after firing incident: 'God is kind'",
-    "Drones fall, strikes stall: How Musk's Starshield curbs hit Zelenskyy’s war against Russia",
-    "Video: Thousands Gather To Protest As Serbian Ex-President Runs For PM",
-    "Stop whining: JD Vance as Vivek Ramaswamy faces flak for attack ad in Ohio race",
-    "U.S. orders some diplomats to leave Saudi Arabia amid Houthi attacks",
-    "Ambani's record Jio Indian IPO subscribed over five times as demand surges",
-    "Stock Market Highlights: Sensex Falls 460 Points, Nifty 50 Ends Below 22,700; Nestle, Eternal, HDFC Bank Among Top Losers",
-    "eMudhra to shut down global digital certificate business after major security lapse",
-    "Inflation, Weak Rupee Keep RBI Rate Hikes in Play, Minutes Show",
-    "Apple bets iPhone Duo can remake foldable market as sales begin",
-    "Apple announces October 28 ‘Pro and tell’ event for touch-screen MacBook Pro",
-    "Grado Signature S150 Announced: New 44mm Drivers and Detachable Cables for $295",
-    "Oppo Find X10 and Find X10 Pro Max launch in India, here is how much they cost - GSMArena.com news",
-    "Jailer 2 Box Office Collections: Superstar Rajinikanth starrer continues outstanding run on Wednesday, Rises to Rs. 350 Cr plus in 7 days in India",
-    "All about Tian Xiwei’s new drama, ‘Where the Mask Ends’",
-    "Delhi Police denies permission for Diljit Dosanjh concert citing security concerns"
+    "S Jaishankar's 'Indira' Reminder After Rahul Gandhi's Marco Rubio Jibe",
+    "Face-off with China continues at multiple locations along Arunachal border: ITBP D-G",
+    "\"Keep It Up\": Trump Defends Vivek Ramaswamy's Controversial Ad",
+    "Earthquake of magnitude 7 strikes China's Tibet, killing 16, Xinhua reports",
+    "CJP protest: India 'cockroach' leaders who called on election chief to quit are freed from jail",
+    "'Pak Didn't Accept Bodies Of Its Own Soldiers In Kargil': India Slams UN Rapporteur",
+    "Tiger Shroff: Attack on Indian actor brings Bollywood's gangster past back into focus",
+    "‘Shifting goalposts, delaying talks’: Ladakh civil society forum targets Wangchuk, Apex Body Leh, KDA",
+    "EU ‘inviting disaster’ with carbon tax on steel: Piyush Goyal",
+    "Trump's Son-In-Law's Hacked Phone Shows Secret Dealings With Saudi, UAE. His Reply",
+    "New York City votes to ban horse-drawn carriages after Indian tourist's death",
+    "Indian-Origin Man Murders Wife In US, Tells Cops ICE Agents \"Kidnapped\" Her",
+    "France unrest: Macron vows ban on 'illegitimate' protests in coming days, blames 'seditious ultra-left'",
+    "Stock market outlook today, 23 Oct: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues",
+    "Akash Ambani takes lead at Jio Platforms IPO, signals Reliance succession shift",
+    "Indian shares extend losses as high oil prices heighten inflation worries",
+    "Oil prices heady at 5-month highs as M.East supply jitters persist",
+    "Apple launches into foldable market as iPhone Duo sales begin",
+    "Apple must allow third-party app stores on the iPhone, the Federal Court of Australia rules - GSMArena.com news",
+    "Today’s NYT Strands Hints, Spangram, Answers—Friday, October 23 (None Of Your Beeswax)",
+    "Google releases massive Chrome update fixing over 350 security flaws: Why you need to update now",
+    "‘Jailer 2’ box office: Rajinikanth’s film breaches ₹500-crore mark in a record-breaking first week",
+    "Uttarakhand CM Pushkar Singh Dhami on Daler Mehndi row; also speaks to Mika Singh: 'I think everyone shou",
+    "Bigg Boss 20: Arjun Rampal sends supportive message to Qazi Touqeer, says “All the very best for the finale”"
   ],
   "quiz": [
     {
-      "blanked": "Cabinet ______ had copied acknowledgement sent to letters by two ECs to CEC for ‘information’: RTI reply",
-      "answer": "Secretary",
+      "blanked": "‘Jailer 2’ box office: ______ film breaches ₹500-crore mark in a record-breaking first week",
+      "answer": "Rajinikanths",
       "options": [
+        "Denies",
+        "Tells",
+        "Rajinikanths",
+        "Kospi"
+      ]
+    },
+    {
+      "blanked": "S Jaishankar's ______ Reminder After Rahul Gandhi's Marco Rubio Jibe",
+      "answer": "Indira",
+      "options": [
+        "Denies",
+        "Concerns",
+        "Indira",
+        "Slams"
+      ]
+    },
+    {
+      "blanked": "Akash Ambani takes lead at Jio Platforms ______ signals Reliance succession shift",
+      "answer": "IPO",
+      "options": [
+        "Australia",
+        "Taiwan",
+        "Clock",
+        "IPO"
+      ]
+    },
+    {
+      "blanked": "Bigg Boss 20: Arjun Rampal sends supportive message to Qazi ______ says “All the very best for the finale”",
+      "answer": "Touqeer",
+      "options": [
+        "Man",
+        "Touqeer",
+        "Shows",
+        "Zealand"
+      ]
+    },
+    {
+      "blanked": "New York City votes to ban horse-drawn carriages after ______ tourist's death",
+      "answer": "Indian",
+      "options": [
+        "Qazi",
+        "Indian",
+        "York",
+        "Shroff"
+      ]
+    },
+    {
+      "blanked": "20 MHz Magic: ______ a Slow Clock Delivers Sub-Meter Ranging Around Mars",
+      "answer": "How",
+      "options": [
+        "How",
+        "Slams",
+        "Zealand",
+        "Oct"
+      ]
+    },
+    {
+      "blanked": "Diljit Dosanjh's October 30 Concert Hits Roadblock As Delhi Police Denies Permission ______ Security Concerns",
+      "answer": "Citing",
+      "options": [
+        "Ranging",
+        "Citing",
+        "Dealings",
+        "Tells"
+      ]
+    },
+    {
+      "blanked": "Orionid meteor shower observed in ______ Heilongjiang",
+      "answer": "Chinas",
+      "options": [
+        "Chinas",
+        "Dealings",
+        "Didnt",
+        "Sensex"
+      ]
+    },
+    {
+      "blanked": "Changes in breast shape and skin to swelling in armpits: ______ share the lesser-known symptoms of breast cancer beyond the lump | Health",
+      "answer": "Experts",
+      "options": [
+        "KDA",
+        "Experts",
         "Secretary",
-        "Office",
-        "Keep",
-        "Test"
+        "Tibet"
       ]
     },
     {
-      "blanked": "WHO reports first human infection with Shamonda virus in ______ patient dies",
-      "answer": "France",
+      "blanked": "Osteoporosis in women: ______ reveal how much calcium and vitamin D you really need | Health",
+      "answer": "Doctors",
       "options": [
-        "Diljit",
-        "Trillion",
-        "France",
-        "Doctors"
-      ]
-    },
-    {
-      "blanked": "South Africa vs Australia, 2nd Test ______ 5 – Live cricket scores, ball-by-ball commentary and match updates",
-      "answer": "Day",
-      "options": [
-        "State",
-        "Xiweis",
-        "Global",
-        "Day"
-      ]
-    },
-    {
-      "blanked": "Forget the Moon's south pole: 4 ______ lunar sites could help astronauts build a base and prepare for Mars,...",
-      "answer": "Other",
-      "options": [
+        "Doctors",
         "Other",
-        "Rate",
-        "Global",
-        "Apte"
+        "Own",
+        "Delhi"
       ]
     },
     {
-      "blanked": "Orionid meteor shower observed in China's ______",
-      "answer": "Heilongjiang",
+      "blanked": "'Pak Didn't Accept Bodies Of Its Own Soldiers In Kargil': India ______ UN Rapporteur",
+      "answer": "Slams",
       "options": [
-        "Linked",
-        "Vance",
-        "Superstar",
-        "Heilongjiang"
+        "Slams",
+        "Shroff",
+        "Citing",
+        "Boss"
       ]
     },
     {
-      "blanked": "‘Ram Ne Yadav Ko Mara’, ‘Murkhchand ______ UP voter list reads like a comedy script, but EC not amused",
-      "answer": "Yadav",
+      "blanked": "\"Keep It Up\": ______ Defends Vivek Ramaswamy's Controversial Ad",
+      "answer": "Trump",
       "options": [
-        "Nifty",
-        "Legislature",
-        "CEC",
-        "Yadav"
-      ]
-    },
-    {
-      "blanked": "Inflation, Weak ______ Keep RBI Rate Hikes in Play, Minutes Show",
-      "answer": "Rupee",
-      "options": [
-        "Test",
-        "Macron",
-        "Rupee",
-        "Ohio"
-      ]
-    },
-    {
-      "blanked": "At Jamnagar refinery, Rubio and ______ discuss energy, digital infra, giga factories",
-      "answer": "Ambanis",
-      "options": [
-        "Mara",
-        "Ambanis",
-        "Hikes",
-        "Wangchuk"
-      ]
-    },
-    {
-      "blanked": "Attack on Saudi ______ King Fahd airport kills two people",
-      "answer": "Arabias",
-      "options": [
-        "Brook",
-        "Moons",
-        "Power",
-        "Arabias"
-      ]
-    },
-    {
-      "blanked": "Stop whining: JD Vance as Vivek Ramaswamy faces flak for attack ad in ______ race",
-      "answer": "Ohio",
-      "options": [
-        "Rawalpindi",
-        "Ohio",
-        "ODI",
-        "Murkhchand"
-      ]
-    },
-    {
-      "blanked": "Sonam Wangchuk accuses ______ of going back on assurances to Ladakh, demands U.T. with Legislature",
-      "answer": "Centre",
-      "options": [
-        "Pro",
-        "Centre",
-        "Keerthy",
-        "Xiweis"
-      ]
-    },
-    {
-      "blanked": "Samson, Iyer and ______ pull off record chase against NZ in T20I series opener",
-      "answer": "Dhir",
-      "options": [
-        "Wangchuk",
-        "Protest",
-        "October",
-        "Dhir"
+        "Trump",
+        "Cricket",
+        "Bodies",
+        "Zealand"
       ]
     }
   ]
