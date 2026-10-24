@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-10-24T13:59:23.843Z",
+  "generatedAt": "2026-10-24T17:17:07.082Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "Watch: Paris shops increase security, board up windows, as France braces for weekend protests",
-    "'Salman Only Tiger In Industry': A Praise That Led To Attack On Tiger Shroff",
-    "India condemns ‘heinous’ attack that killed 8 in Jordan church, reaffirms ‘fight against terrorism’ | India News",
-    "Jamia Millia Islamia Students, Guards Clash During Protest, Classes Moved Online",
-    "Neha Bora refuses to sign peace bond, questions curbs on dissent",
-    "Current struggle not merely limited to resignation of Gyanesh Kumar, it is also a fight to regain democratic space: CPI(M) MP John Brittas",
-    "WhatsApp group, Telegram channel, Masood Azhar audio clips: How a 33-year-old Rapido rider landed on ATS",
+    "France unrest: 70,000 police officers, weapons seized, hundreds of protesters arrested - top developments",
     "\"Sedition\": BJP Slams Farooq Abdullah For Remarks On Kashmiris, Pakistan",
-    "From 16 murder related cases in India to Las Vegas custody: Gangster Himanshu Bhau held in US",
-    "KPSC 'scam': D K Shivakumar sanctions prosecution of suspended IAS officer Gyanendra Gangwar",
-    "Ukraine says Starlink back to normal after week of throttling",
-    "Iran trying harder to target US personnel in Middle East, intelligence chief warns",
+    "IMD warns of heavy rainfall over several T.N. districts; red alert for five districts in Keralam | Live",
+    "Defence secretary Rajesh Kumar Singh gets one-year extension in Centre's big move | India News",
+    "Neha Bora refuses to sign peace bond, SEM gives her time till October 29",
+    "J&K CM Omar Abdullah says cabinet reshuffle in 2-3 days, asks MLAs to stop lobbying for berths",
+    "Jamia Millia Islamia Students, Guards Clash During Protest, Classes Moved Online",
+    "JD(U) expels Mokama MLA Anant Singh, spouse Neelam Devi for 6 years over 'anti-party activities'",
+    "Ashoke Sen becomes first Indian physicist to receive Oskar Klein Medal",
+    "Man Shot Dead By Friends After Argument Over Scooter Parking In Amritsar",
     "North Korea’s Kim Jong Un visits China via newly opened bridge",
-    "Video: 2 Planes Crash Mid-Air During Training In Philippines, 4 Pilots Killed",
-    "Kotak Mahindra Bank Q2 results: Net profit jumps 29.5%, NII rises nearly 16%",
-    "SEBI plans safeguards against trading terminal misuse, graded compliance for brokers: Tuhin Kanta Pandey",
-    "Surging oil prices drag Indian shares to weekly losses",
+    "World News Live Updates: Jordan’s king orders firm response to Karak church attack",
+    "Houthis say they attacked Riyadh and Dammam airports, Saudi Aramco facility",
+    "Israel launches major West Bank operation after soldiers killed",
+    "Sebi reviews short selling, SLB rules; plans AI sandbox, bond market-making",
     "IDFC First Bank Q2 Results: Net Profit Jumps Multifold To Rs 1,045 Crore, NII Up 21%",
-    "iPhone Duo India: Retailers Ask ₹1 Lakh Extra [2026]",
+    "Sensex, Nifty snap 2-week rally as oil shock, FII selling weigh on D-Street",
+    "Reliance Jio Platforms IPO allotment status check online by PAN number on NSE India, BSE websites: Direct link, steps",
+    "Apple Inc. quickly sold out of its limited in-store inventory for the new iPhone Duo",
+    "I spent two weeks using Googlebooks, and I have 5 big concerns",
     "NYT Strands Hints, Clues And Answer For Saturday October 24 (Re-Fresh-Ing)",
-    "Your Pixel Watch is getting smarter about tracking activity with Google Health 5.11",
-    "Screen glitches and cracked displays plague Apple's iPhone Duo launch",
-    "Jailer 2 Box Office Collections: Superstar Rajinikanth starrer tops Rs. 600 Cr worldwide with a strong 2nd Friday",
-    "Ramayana Advance Booking: Ranbir Kapoor-Yash Film Nears Rs 10 Crore Before Release",
-    "‘Jailer 2’: After 40 years, Rajinikanth watches his blockbuster film with fans"
+    "Several iPhone Duo screen broke along the hinge within hours of first sale",
+    "Jailer 2 Box Office Collection Day 9 Updates: Rajinikanth’s film inches closer to beating 2.0’s Rs 691 crore worldwide record",
+    "KBC 18 Diwali Special: Ramayana Stars Ranbir Kapoor, Sai Pallavi And Ravi Dubey To Join Amitabh Bachchan",
+    "Bigg Boss 20: Rohit Shetty confronts Love Gill over closeness with ScoutOP; says it ‘looks absolutely wro"
   ],
   "quiz": [
+    {
+      "blanked": "JD(U) expels Mokama MLA Anant Singh, spouse Neelam ______ for 6 years over 'anti-party activities'",
+      "answer": "Devi",
+      "options": [
+        "India",
+        "Boss",
+        "Devi",
+        "Pulmonary"
+      ]
+    },
+    {
+      "blanked": "North Korea’s Kim Jong Un visits ______ via newly opened bridge",
+      "answer": "China",
+      "options": [
+        "Box",
+        "21%",
+        "China",
+        "Three"
+      ]
+    },
     {
       "blanked": "NASA confirms plans to land astronauts on ______ in 2028",
       "answer": "Moon",
       "options": [
-        "Indian",
-        "Box",
-        "IAS",
+        "21%",
+        "Pulmonary",
+        "Aramco",
         "Moon"
       ]
     },
     {
-      "blanked": "Iran trying harder to target US personnel in Middle ______ intelligence chief warns",
-      "answer": "East",
+      "blanked": "France unrest: ______ police officers, weapons seized, hundreds of protesters arrested - top developments",
+      "answer": "70000",
       "options": [
-        "Mahindra",
-        "China",
-        "East",
-        "Crash"
+        "Kashmiris",
+        "Globally",
+        "Pakistan",
+        "70000"
       ]
     },
     {
-      "blanked": "Video: 2 Planes Crash Mid-Air ______ Training In Philippines, 4 Pilots Killed",
-      "answer": "During",
+      "blanked": "Defence secretary Rajesh Kumar ______ gets one-year extension in Centre's big move | India News",
+      "answer": "Singh",
+      "options": [
+        "Office",
+        "Strands",
+        "Singh",
+        "Answer"
+      ]
+    },
+    {
+      "blanked": "Remote Ischemic ______ Reduces Pulmonary Fibrosis Damage",
+      "answer": "Conditioning",
+      "options": [
+        "Jong",
+        "Special",
+        "Gautam",
+        "Conditioning"
+      ]
+    },
+    {
+      "blanked": "IDFC First Bank Q2 Results: Net Profit Jumps Multifold To Rs 1,045 Crore, NII Up ______",
+      "answer": "21%",
       "options": [
         "Teer",
-        "Koreas",
-        "During",
-        "Risk"
+        "21%",
+        "691",
+        "Re-Fresh-Ing"
       ]
     },
     {
-      "blanked": "Current struggle not merely limited to resignation of Gyanesh Kumar, it is also a fight to regain democratic space: CPI(M) MP John ______",
-      "answer": "Brittas",
+      "blanked": "Neha Bora refuses to sign peace bond, ______ gives her time till October 29",
+      "answer": "SEM",
       "options": [
-        "Paris",
-        "Nears",
-        "India",
-        "Brittas"
+        "Rajinikanths",
+        "Box",
+        "SEM",
+        "Amitabh"
       ]
     },
     {
-      "blanked": "WhatsApp group, ______ channel, Masood Azhar audio clips: How a 33-year-old Rapido rider landed on ATS",
-      "answer": "Telegram",
+      "blanked": "World News Live ______ Jordan’s king orders firm response to Karak church attack",
+      "answer": "Updates",
       "options": [
-        "How",
-        "Telegram",
-        "Himanshu",
-        "Islamia"
-      ]
-    },
-    {
-      "blanked": "Jailer 2 Box Office Collections: Superstar ______ starrer tops Rs. 600 Cr worldwide with a strong 2nd Friday",
-      "answer": "Rajinikanth",
-      "options": [
-        "Rajinikanth",
-        "Praise",
-        "Vegas",
+        "Platforms",
+        "Organises",
+        "Updates",
         "Sara"
       ]
     },
     {
-      "blanked": "From 16 murder related cases in ______ to Las Vegas custody: Gangster Himanshu Bhau held in US",
-      "answer": "India",
+      "blanked": "IMD warns of heavy rainfall over several T.N. districts; red alert for five districts in ______ | Live",
+      "answer": "Keralam",
       "options": [
-        "India",
-        "Crash",
-        "ATS",
-        "Saturn"
+        "Open",
+        "Shetty",
+        "3.75",
+        "Keralam"
       ]
     },
     {
-      "blanked": "Artificial ______ Advances CNS Autoimmune Disease Care",
-      "answer": "Intelligence",
+      "blanked": "Sensex, Nifty snap 2-week rally as oil shock, ______ selling weigh on D-Street",
+      "answer": "FII",
       "options": [
-        "Kim",
-        "Christchurch",
-        "Intelligence",
-        "World"
+        "FII",
+        "Rajesh",
+        "Common",
+        "Amitabh"
       ]
     },
     {
-      "blanked": "Most People Globally Face ______ Genetic Risk' For Three Common Diseases: Study",
-      "answer": "High",
+      "blanked": "Jamia Millia Islamia Students, Guards ______ During Protest, Classes Moved Online",
+      "answer": "Clash",
       "options": [
-        "Protest",
-        "High",
-        "Kanta",
-        "Koreas"
-      ]
-    },
-    {
-      "blanked": "Ramayana Advance Booking: ______ Kapoor-Yash Film Nears Rs 10 Crore Before Release",
-      "answer": "Ranbir",
-      "options": [
-        "Ranbir",
-        "Killed",
-        "Results",
-        "Explains"
-      ]
-    },
-    {
-      "blanked": "Watch: Paris shops increase security, board up windows, as ______ braces for weekend protests",
-      "answer": "France",
-      "options": [
-        "Himanshu",
-        "Vegas",
-        "Exclusive",
-        "France"
-      ]
-    },
-    {
-      "blanked": "How to see the full 'Hunter's Moon' rise next to ______ this weekend",
-      "answer": "Saturn",
-      "options": [
-        "Khurrana",
-        "Duo",
-        "Booking",
-        "Saturn"
+        "1045",
+        "Study",
+        "Polio",
+        "Clash"
       ]
     }
   ]
