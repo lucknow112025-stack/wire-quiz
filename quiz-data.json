@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-10-24T01:04:00.453Z",
+  "generatedAt": "2026-10-24T05:48:38.854Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "Students, farmers, civil society groups continue to protest against SIR, CEC",
-    "China’s patrolling deviations disturb border: MEA on ITBP DG's LAC face-offs remark",
-    "Israel preparing full lockdown of occupied West Bank after Hebron gunfight",
+    "Trump's 'Epic Fury' Warning After US Envoy's 'Strike This Weekend' Remark, Iran Responds",
+    "Kerala governor Om Prakash Mathur's 'veg-only kitchen' diktat on first day of assuming office sparks row",
+    "US-Iran War Live Updates: Tehran military chief says US warships will not be allowed into Persian Gulf",
     "Tiger Shroff: Attack on Indian actor brings Bollywood's gangster past back into focus",
-    "BJP MLA and RG Kar rape victim's mother Ratna Debnath blames public for Kolkata stampede",
-    "Odisha cyclone alert: IMD issues red warning for heavy rain in 5 districts",
-    "Delhi High Court rejects Neha Bora's plea against police notice to sign peace bond",
-    "Need to unite against divisive forces, tackle new challenges: PM Modi",
-    "CBI Arrests Two ED Officials In Rs 5 Lakh Bribery Case",
-    "Gangster Himanshu Bhau, Wanted In India For Multiple Murders, Arrested In US",
-    "Dan vs Daniel: Trump administration sues to block Alaska result if GOP candidate loses race",
+    "Face-off with China continues at multiple locations along Arunachal border: ITBP D-G",
+    "Typhoon Champi hits Taiwan, killing one and injuring hundreds",
+    "Suspected Jaish-e-Mohammed Operative Arrested Near Mumbai's Mahim Metro Station, Worked As Rapido Rider",
+    "Delhi High Court Says Neha Bora's Peace-Bond Notice Based On Diary Entries, Prohibitory Orders Covered...",
+    "Students, farmers, civil society groups continue to protest against SIR, CEC",
+    "4 dead, more casualties feared after blast at firecracker factory in Bihar's Siwan | India News",
+    "Video Captures Gunmen Opening Fire At Jordan Church Funeral, Killing 7",
     "‘Will get it straightened out’: Trump says will talk to Musk on Ukraine's Starlink issue | World News",
-    "\"Situation Dire\": Melania Trump Secures Ceasefire In Ukrainian City",
-    "Cuba next? Trump hints at 'little stopover' after US warships return from Iran war",
-    "Two critical PHP flaws trigger global alert; millions of services face cyber risk",
-    "Gold Price Forecast: XAU/USD picks up from the $4,000 area with bears still in control",
-    "Oil Prices Hold Near $100 as Middle East Risks Offset Peace Hopes",
-    "\"High Inflation Is Like Tax On Everyone\": RBI Governor At NDTV World Summit",
+    "Fire engulfs Hitler’s teahouse ‘Eagle’s Nest’ in Germany; man arrested on arson suspicion",
+    "Macron to meet student groups: Where are France’s protests heading?",
+    "Surging oil prices drag Indian shares to weekly losses",
+    "Gold heads for steep weekly loss as Hormuz tensions lift crude toward five-month highs - Kitco AM Report",
+    "World record: Jio Platforms IPO becomes first ever issue globally to receive over 1 crore applications",
+    "Infosys cuts FY27 guidance; Q2 net profit rises 6.2% to ₹7,828 crore",
     "Apple's iPhone Duo goes on sale in Mexico",
+    "Apple celebrates iPod's 25th anniversary with fun easter egg - GSMArena.com news",
     "Today’s NYT Strands Hints, Spangram and Answers for Saturday, Oct. 24, #965",
     "Your Pixel Watch is getting smarter about tracking activity with Google Health 5.11",
-    "G-Shock 2500: 9 new Casio watches that look like the Patek Philippe Nautilus",
-    "Jailer 2 Box Office Collections: Superstar Rajinikanth starrer closes its extended week at Rs. 374 Cr in India, Set to cross Rs. 600 Cr worldwide today",
-    "Diljit Dosanjh’s October 30 Delhi concert back on after police grant permission",
-    "Mika Singh slams Uttarakhand minister Subodh Uniyal over Daler Mehndi row and demands apology; says, 'An"
+    "'Jailer 2' box office collection day 9: Rajinikanth, Vidya Balan, Mohanlal film earns Rs 628.05 cr worldw",
+    "Udta Teer Opening Day Box Office Collections: Ayushmann Khurrana and Sara Ali Khan starrer spy comedy collects Rs 3.75 crore on Day 1",
+    "Diljit Dosanjh’s October 30 Delhi concert back on after police grant permission"
   ],
   "quiz": [
     {
-      "blanked": "African Union calls for urgent action to contain Ebola outbreak across ______",
-      "answer": "Africa",
+      "blanked": "Infosys cuts FY27 guidance; Q2 net profit rises 6.2% to ______ crore",
+      "answer": "7828",
       "options": [
-        "Comet",
-        "Orionid",
-        "Africa",
-        "Jamie"
+        "Being",
+        "Frances",
+        "IPO",
+        "7828"
       ]
     },
     {
-      "blanked": "Forget the ______ south pole: 4 Other lunar sites could help astronauts build a base and prepare for Mars,...",
-      "answer": "Moons",
+      "blanked": "Kerala governor Om Prakash ______ 'veg-only kitchen' diktat on first day of assuming office sparks row",
+      "answer": "Mathurs",
       "options": [
-        "Hagley",
-        "NYT",
-        "Spangram",
-        "Moons"
-      ]
-    },
-    {
-      "blanked": "G-Shock ______ 9 new Casio watches that look like the Patek Philippe Nautilus",
-      "answer": "2500",
-      "options": [
-        "Philippe",
-        "2500",
-        "Africa",
-        "Court"
-      ]
-    },
-    {
-      "blanked": "Oil Prices Hold Near $100 as Middle East Risks Offset ______ Hopes",
-      "answer": "Peace",
-      "options": [
-        "May",
-        "PHP",
-        "Peace",
-        "Murders"
-      ]
-    },
-    {
-      "blanked": "Your Pixel Watch is getting smarter about tracking activity with Google Health ______",
-      "answer": "5.11",
-      "options": [
-        "Better",
-        "Bribery",
-        "Secures",
-        "5.11"
-      ]
-    },
-    {
-      "blanked": "Dan vs Daniel: Trump administration sues to block Alaska result if ______ candidate loses race",
-      "answer": "GOP",
-      "options": [
-        "GOP",
-        "Games",
-        "Orionid",
-        "Himanshu"
-      ]
-    },
-    {
-      "blanked": "Today’s NYT Strands Hints, ______ and Answers for Saturday, Oct. 24, #965",
-      "answer": "Spangram",
-      "options": [
-        "Advance",
-        "Delhi",
-        "CEC",
-        "Spangram"
-      ]
-    },
-    {
-      "blanked": "CBI Arrests Two ED Officials In Rs 5 Lakh Bribery ______",
-      "answer": "Case",
-      "options": [
-        "MLA",
-        "Games",
-        "Case",
-        "Like"
-      ]
-    },
-    {
-      "blanked": "China’s patrolling deviations disturb border: ______ on ITBP DG's LAC face-offs remark",
-      "answer": "MEA",
-      "options": [
-        "Secures",
-        "XAUUSD",
-        "NYT",
-        "MEA"
-      ]
-    },
-    {
-      "blanked": "Cuba next? Trump hints at 'little stopover' after US warships return from ______ war",
-      "answer": "Iran",
-      "options": [
-        "GOP",
-        "Secures",
-        "Iran",
+        "Ashes",
+        "Siwan",
+        "Mathurs",
         "Trump"
       ]
     },
     {
-      "blanked": "Mika Singh slams Uttarakhand minister Subodh Uniyal over ______ Mehndi row and demands apology; says, 'An",
-      "answer": "Daler",
+      "blanked": "4 dead, more casualties feared after blast at firecracker factory in Bihar's ______ | India News",
+      "answer": "Siwan",
       "options": [
-        "City",
-        "Games",
-        "Other",
-        "Daler"
+        "Near",
+        "7828",
+        "Siwan",
+        "965"
       ]
     },
     {
-      "blanked": "Lupus Remission ______ to Better Pregnancy Outcomes",
-      "answer": "Linked",
+      "blanked": "Astronomer Jamie Williams Explains ______ Discovered ‘Phoenix’ Exoplanet Reborn From Its Star’s Ashes [Exclusive]",
+      "answer": "Newly",
       "options": [
-        "600",
-        "Linked",
-        "Oval",
-        "Singh"
+        "Newly",
+        "Marss",
+        "Gulf",
+        "Opening"
+      ]
+    },
+    {
+      "blanked": "Video Captures ______ Opening Fire At Jordan Church Funeral, Killing 7",
+      "answer": "Gunmen",
+      "options": [
+        "Fire",
+        "Vigilant",
+        "Gunmen",
+        "CEC"
+      ]
+    },
+    {
+      "blanked": "Udta Teer Opening Day Box Office Collections: Ayushmann Khurrana and Sara Ali ______ starrer spy comedy collects Rs 3.75 crore on Day 1",
+      "answer": "Khan",
+      "options": [
+        "Hormuz",
+        "Khan",
+        "113",
+        "Live"
+      ]
+    },
+    {
+      "blanked": "As malaria, dengue cases persist, doctors say only community-level interventions can help | ______ news",
+      "answer": "Mumbai",
+      "options": [
+        "Evans",
+        "Mumbai",
+        "Ashes",
+        "Near"
+      ]
+    },
+    {
+      "blanked": "Avengers: Doomsday Unveils New Posters Featuring Scarlett Johansson's Black Widow, Chris ______ Captain America, and More To Honor The Infinity & Multiverse Sagas' Projects That All Lead To 'Doom'",
+      "answer": "Evans",
+      "options": [
+        "Killing",
+        "Health",
+        "Evans",
+        "Captain"
+      ]
+    },
+    {
+      "blanked": "African Union calls for urgent action to contain ______ outbreak across Africa",
+      "answer": "Ebola",
+      "options": [
+        "Ebola",
+        "Persian",
+        "Prohibitory",
+        "Warning"
+      ]
+    },
+    {
+      "blanked": "Kieron Pollard named Mumbai Indians head coach for IPL ______",
+      "answer": "2027",
+      "options": [
+        "2027",
+        "Germany",
+        "Explains",
+        "Champi"
+      ]
+    },
+    {
+      "blanked": "Your Pixel Watch is getting smarter about tracking activity with ______ Health 5.11",
+      "answer": "Google",
+      "options": [
+        "Metro",
+        "Google",
+        "Entries",
+        "Court"
+      ]
+    },
+    {
+      "blanked": "Apple's iPhone Duo goes on sale in ______",
+      "answer": "Mexico",
+      "options": [
+        "Arunachal",
+        "Mexico",
+        "Khurrana",
+        "Teer"
       ]
     }
   ]
