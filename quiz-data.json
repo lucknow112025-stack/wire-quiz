@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-10-23T22:30:20.234Z",
+  "generatedAt": "2026-10-24T01:04:00.453Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "China’s patrolling deviations disturb border: MEA on ITBP DG's LAC face-offs remark",
     "Students, farmers, civil society groups continue to protest against SIR, CEC",
-    "Odisha cyclone alert: IMD issues red warning for heavy rain in 5 districts",
-    "France's Macron tightens curbs on protests, blaming hard left for unrest",
+    "China’s patrolling deviations disturb border: MEA on ITBP DG's LAC face-offs remark",
+    "Israel preparing full lockdown of occupied West Bank after Hebron gunfight",
+    "Tiger Shroff: Attack on Indian actor brings Bollywood's gangster past back into focus",
     "BJP MLA and RG Kar rape victim's mother Ratna Debnath blames public for Kolkata stampede",
-    "BREAKING | Delhi High Court Rejects Neha Bora's Plea Against Peace Bond Notice Amid Anti-CEC Protests",
-    "Himanshu Bhau, India's most wanted gangster from Haryana, arrested in US",
-    "PM Modi stresses need to unite society against divisive forces to build developed India by 2047",
-    "Haryana power employees' \"strike will end in just a few hours\", says Anil Vij; Union leaders agree to meet",
-    "Marco Rubio: Did domestic pressure make US secretary of state visit an Indian port town?",
+    "Odisha cyclone alert: IMD issues red warning for heavy rain in 5 districts",
+    "Delhi High Court rejects Neha Bora's plea against police notice to sign peace bond",
+    "Need to unite against divisive forces, tackle new challenges: PM Modi",
+    "CBI Arrests Two ED Officials In Rs 5 Lakh Bribery Case",
+    "Gangster Himanshu Bhau, Wanted In India For Multiple Murders, Arrested In US",
+    "Dan vs Daniel: Trump administration sues to block Alaska result if GOP candidate loses race",
     "‘Will get it straightened out’: Trump says will talk to Musk on Ukraine's Starlink issue | World News",
     "\"Situation Dire\": Melania Trump Secures Ceasefire In Ukrainian City",
-    "One killed as Elysee calls Paris area shooting ‘racist, terrorist attack’",
-    "Seven killed as gunmen open fire at church in Jordan in 'terrorist' attack, authorities say",
-    "‘I have not seen anything like this in a long, long time,’ Microsoft CEO Satya Nadella as companies, gove",
-    "$120 Oil Is Almost Here, and Trump Has Few Good Options",
+    "Cuba next? Trump hints at 'little stopover' after US warships return from Iran war",
+    "Two critical PHP flaws trigger global alert; millions of services face cyber risk",
+    "Gold Price Forecast: XAU/USD picks up from the $4,000 area with bears still in control",
+    "Oil Prices Hold Near $100 as Middle East Risks Offset Peace Hopes",
     "\"High Inflation Is Like Tax On Everyone\": RBI Governor At NDTV World Summit",
-    "Surging oil prices drag Indian shares to weekly losses",
-    "’Truly something cool’: Apple fans react as iPhone Duo hits stores By Reuters",
-    "Spotify launches native in-car app on Android Automotive in Audi models",
+    "Apple's iPhone Duo goes on sale in Mexico",
+    "Today’s NYT Strands Hints, Spangram and Answers for Saturday, Oct. 24, #965",
     "Your Pixel Watch is getting smarter about tracking activity with Google Health 5.11",
     "G-Shock 2500: 9 new Casio watches that look like the Patek Philippe Nautilus",
     "Jailer 2 Box Office Collections: Superstar Rajinikanth starrer closes its extended week at Rs. 374 Cr in India, Set to cross Rs. 600 Cr worldwide today",
-    "Udta Teer Box Office Day 1 Advance Booking & Prediction: 41K+ Tickets Booked; Could Join Ayushmann Khurrana’s Top 3 Openers Post-COVID",
-    "Diljit Dosanjh’s October 30 Delhi concert back on after police grant permission"
+    "Diljit Dosanjh’s October 30 Delhi concert back on after police grant permission",
+    "Mika Singh slams Uttarakhand minister Subodh Uniyal over Daler Mehndi row and demands apology; says, 'An"
   ],
   "quiz": [
     {
-      "blanked": "Your Pixel Watch is getting smarter about tracking activity with ______ Health 5.11",
-      "answer": "Google",
+      "blanked": "African Union calls for urgent action to contain Ebola outbreak across ______",
+      "answer": "Africa",
       "options": [
-        "Google",
-        "Discovered",
-        "Dosanjhs",
-        "Williams"
+        "Comet",
+        "Orionid",
+        "Africa",
+        "Jamie"
       ]
     },
     {
-      "blanked": "Bharat ______ slashes malaria vaccine price on GAVI-backed pact with UNICEF",
-      "answer": "Biotech",
+      "blanked": "Forget the ______ south pole: 4 Other lunar sites could help astronauts build a base and prepare for Mars,...",
+      "answer": "Moons",
       "options": [
-        "Governor",
-        "Exclusive",
-        "Biotech",
-        "City"
+        "Hagley",
+        "NYT",
+        "Spangram",
+        "Moons"
       ]
     },
     {
-      "blanked": "One killed as Elysee calls ______ area shooting ‘racist, terrorist attack’",
-      "answer": "Paris",
+      "blanked": "G-Shock ______ 9 new Casio watches that look like the Patek Philippe Nautilus",
+      "answer": "2500",
       "options": [
-        "Phoenix",
-        "Anti-CEC",
+        "Philippe",
         "2500",
-        "Paris"
+        "Africa",
+        "Court"
       ]
     },
     {
-      "blanked": "Udta Teer Box Office Day 1 Advance Booking & Prediction: 41K+ ______ Booked; Could Join Ayushmann Khurrana’s Top 3 Openers Post-COVID",
-      "answer": "Tickets",
+      "blanked": "Oil Prices Hold Near $100 as Middle East Risks Offset ______ Hopes",
+      "answer": "Peace",
       "options": [
-        "News",
-        "Tickets",
-        "Recurrence",
-        "Phobos"
-      ]
-    },
-    {
-      "blanked": "BREAKING | Delhi High Court Rejects Neha Bora's Plea Against Peace ______ Notice Amid Anti-CEC Protests",
-      "answer": "Bond",
-      "options": [
-        "Best",
-        "GAVI-backed",
-        "Delhi",
-        "Bond"
-      ]
-    },
-    {
-      "blanked": "Haryana power employees' \"strike will end in just a few hours\", says Anil ______ Union leaders agree to meet",
-      "answer": "Vij",
-      "options": [
-        "Join",
-        "Vij",
-        "Patek",
-        "Prediction"
-      ]
-    },
-    {
-      "blanked": "Rapid Recurrence in ______ Cancer: Severe Mortality Risk",
-      "answer": "Tongue",
-      "options": [
+        "May",
+        "PHP",
         "Peace",
-        "Nadella",
-        "Tongue",
-        "Rejects"
+        "Murders"
       ]
     },
     {
-      "blanked": "Scientists Identify a New Type of Depression That May Feel ______ Permanent Jet Lag",
-      "answer": "Like",
+      "blanked": "Your Pixel Watch is getting smarter about tracking activity with Google Health ______",
+      "answer": "5.11",
+      "options": [
+        "Better",
+        "Bribery",
+        "Secures",
+        "5.11"
+      ]
+    },
+    {
+      "blanked": "Dan vs Daniel: Trump administration sues to block Alaska result if ______ candidate loses race",
+      "answer": "GOP",
+      "options": [
+        "GOP",
+        "Games",
+        "Orionid",
+        "Himanshu"
+      ]
+    },
+    {
+      "blanked": "Today’s NYT Strands Hints, ______ and Answers for Saturday, Oct. 24, #965",
+      "answer": "Spangram",
+      "options": [
+        "Advance",
+        "Delhi",
+        "CEC",
+        "Spangram"
+      ]
+    },
+    {
+      "blanked": "CBI Arrests Two ED Officials In Rs 5 Lakh Bribery ______",
+      "answer": "Case",
       "options": [
         "MLA",
-        "Against",
-        "Like",
-        "Phobos"
+        "Games",
+        "Case",
+        "Like"
       ]
     },
     {
-      "blanked": "October's Full ______ 2026: Date & Best Time In IST To Watch Hunters Moon In India",
-      "answer": "Moon",
+      "blanked": "China’s patrolling deviations disturb border: ______ on ITBP DG's LAC face-offs remark",
+      "answer": "MEA",
+      "options": [
+        "Secures",
+        "XAUUSD",
+        "NYT",
+        "MEA"
+      ]
+    },
+    {
+      "blanked": "Cuba next? Trump hints at 'little stopover' after US warships return from ______ war",
+      "answer": "Iran",
+      "options": [
+        "GOP",
+        "Secures",
+        "Iran",
+        "Trump"
+      ]
+    },
+    {
+      "blanked": "Mika Singh slams Uttarakhand minister Subodh Uniyal over ______ Mehndi row and demands apology; says, 'An",
+      "answer": "Daler",
+      "options": [
+        "City",
+        "Games",
+        "Other",
+        "Daler"
+      ]
+    },
+    {
+      "blanked": "Lupus Remission ______ to Better Pregnancy Outcomes",
+      "answer": "Linked",
       "options": [
         "600",
-        "MASLD",
-        "100",
-        "Moon"
-      ]
-    },
-    {
-      "blanked": "Astronomer Jamie Williams Explains Newly Discovered ‘Phoenix’ ______ Reborn From Its Star’s Ashes [Exclusive]",
-      "answer": "Exoplanet",
-      "options": [
-        "Exoplanet",
-        "Governor",
-        "Severe",
-        "Highest-Grossing"
-      ]
-    },
-    {
-      "blanked": "Marco ______ Did domestic pressure make US secretary of state visit an Indian port town?",
-      "answer": "Rubio",
-      "options": [
-        "Boras",
-        "Rubio",
-        "Moon",
-        "Hindi"
-      ]
-    },
-    {
-      "blanked": "Forget the Moon's south pole: 4 ______ lunar sites could help astronauts build a base and prepare for Mars,...",
-      "answer": "Other",
-      "options": [
-        "Kar",
-        "Severe",
-        "Other",
-        "Governor"
+        "Linked",
+        "Oval",
+        "Singh"
       ]
     }
   ]
