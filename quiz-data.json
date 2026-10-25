@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-10-24T23:55:27.325Z",
+  "generatedAt": "2026-10-25T02:49:36.508Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "Cops use tear gas, water cannons as over 4 lakh march across country - France protests in videos",
-    "‘No line he will not cross’: Obama slams Ramaswamy’s ‘cruel’ ad, hits out at Trump",
-    "Riyadh, Dammam, Jeddah flights hit: Air India, IndiGo extend suspensions, Akasa follows suit",
-    "Traders' body urges Rahul Gandhi to defer November 1 INDIA bloc rally, warns of Rs 10,000 crore trade loss",
-    "\"Sedition\": BJP Slams Farooq Abdullah For Remarks On Kashmiris, Pakistan",
     "Ukraine says Starshield back to normal, Musk says Kyiv violated terms",
-    "Jamia Millia Islamia Students, Guards Clash During Protest, Classes Moved Online",
+    "Houthis say they attacked Riyadh and Dammam airports, Saudi Aramco facility",
+    "Cops use tear gas, water cannons as over 4 lakh march across country - France protests in videos",
+    "Arunachal unrest over hydropower project: Mob torches NHPC office, police station, vandalises BJP chief's home",
+    "‘No line he will not cross’: Obama slams Ramaswamy’s ‘cruel’ ad, hits out at Trump",
+    "INDIA Bloc Allies Wanted Rally Date Changed, Ravi Shankar Prasad Claims Over Rahul Gandhis November 1 Rally",
+    "‘Prioritise welfare over military directives’: India raps Pak on minority rights at UN",
     "India Issues Fresh Advisory For Umrah Pilgrims In Saudi Arabia",
+    "Jamia Millia Islamia moves classes online, cites ‘safety of students' amid ongoing protests | India News",
     "Siddaramaiah ‘sting operation’: Delhi-based man arrested and released on bail",
-    "Delhi High Court Says Neha Bora's Peace-Bond Notice Based On Diary Entries, Prohibitory Orders Covered...",
-    "Iran vows ‘apocalyptic war’ if U.S. strikes again",
-    "Saudi oil facilities, airports targeted in fresh Houthi attacks; Air India's Riyadh, Dammam flights remain suspended | World News",
-    "Video Captures Gunmen Opening Fire At Jordan Church Funeral, Killing 7",
+    "Trump threatens Iran with ‘another little Epic Fury’ as US envoy says strikes possible this weekend | World News",
+    "Riyadh’s King Khalid International Airport to reopen terminals on Sunday",
     "Fire engulfs Hitler’s teahouse ‘Eagle’s Nest’ in Germany; man arrested on arson suspicion",
+    "Iran vows ‘apocalyptic war’ if U.S. strikes again",
     "Sensex, Nifty snap 2-week rally as oil shock, FII selling weigh on D-Street",
     "The eMudhra Fiasco, Jio Platforms IPO, and more…",
     "Weekly Funding Roundup: The startup deals you may have missed in week of October 25",
     "India October business growth hits 4-month high; hiring stalls, PMI shows",
-    "Some Retailers Ask ₹1 Lakh Extra for iPhone Duo [2026]",
-    "Today’s NYT Strands Hints, Spangram and Answers for Sunday, Oct. 25, #966",
-    "Quordle Hint Today: Saturday, October 24 Clues And Answers",
-    "Apple’s iPhone Duo Fails JerryRigEverything’s Durability Test",
-    "'Udta Teer' box office collection Day 2: Ayushmann Khurrana and Sara Ali Khan's film crosses Rs 15 crore",
-    "Ramayana Advance Booking: Ranbir Kapoor-Yash Film Nears Rs 10 Crore Before Release",
-    "Jailer 2 Box Office Collections: Superstar Rajinikanth starrer tops Rs. 600 Cr worldwide with a strong 2nd Friday"
+    "Apple's iPhone Duo Preorder Customers Face Months-Long Waits While Walk-In Shoppers Get Phones on Launch Day",
+    "Quordle hints and answers for Sunday, October 25 (game #1735)",
+    "NYT Strands Hints, Clues And Answer For Sunday October 25 (Something To Build On)",
+    "Your Pixel Watch is getting smarter about tracking activity with Google Health 5.11",
+    "Shilpa Rao cut off mid performance at Bollywood Music Project, rushed off stage; attendees fume at disrespect towards singer | Hindustan Times",
+    "Manoj Bajpayee Says \"Faceless People\" Targeted His Family Over Gajab Raat Row",
+    "'Udta Teer' box office collection Day 2: Ayushmann Khurrana and Sara Ali Khan's film crosses Rs 15 crore"
   ],
   "quiz": [
     {
-      "blanked": "Ramayana Advance ______ Ranbir Kapoor-Yash Film Nears Rs 10 Crore Before Release",
-      "answer": "Booking",
+      "blanked": "NASA confirms plans to land astronauts on Moon in ______",
+      "answer": "2028",
       "options": [
-        "Kyiv",
-        "Students",
-        "Sunday",
-        "Booking"
+        "Fury",
+        "Bollywood",
+        "2028",
+        "Raat"
       ]
     },
     {
-      "blanked": "Quordle Hint Today: Saturday, ______ 24 Clues And Answers",
+      "blanked": "Houthis say they attacked Riyadh and ______ airports, Saudi Aramco facility",
+      "answer": "Dammam",
+      "options": [
+        "Months-Long",
+        "International",
+        "Waits",
+        "Dammam"
+      ]
+    },
+    {
+      "blanked": "Radhika Apte Says Only Alia Bhatt Or Deepika Padukone Can Get Theatrical Opening: \"I Have To Do ______",
+      "answer": "Films",
+      "options": [
+        "Padukone",
+        "Ashes",
+        "Commentary",
+        "Films"
+      ]
+    },
+    {
+      "blanked": "Your Pixel Watch is getting smarter about tracking activity with Google ______ 5.11",
+      "answer": "Health",
+      "options": [
+        "Study",
+        "Waits",
+        "Ali",
+        "Health"
+      ]
+    },
+    {
+      "blanked": "NYT Strands Hints, Clues And Answer For ______ October 25 (Something To Build On)",
+      "answer": "Sunday",
+      "options": [
+        "Row",
+        "Sara",
+        "Sunday",
+        "Reborn"
+      ]
+    },
+    {
+      "blanked": "Cops use tear gas, water cannons as over 4 lakh march across country - ______ protests in videos",
+      "answer": "France",
+      "options": [
+        "Gandhis",
+        "France",
+        "1735",
+        "Strands"
+      ]
+    },
+    {
+      "blanked": "Stats - Chasemaster Tilak Varma turns up in ______ 300th men's T20I",
+      "answer": "Indias",
+      "options": [
+        "Islamia",
+        "Ramaswamys",
+        "Indias",
+        "Aizawl"
+      ]
+    },
+    {
+      "blanked": "‘No line he will not cross’: ______ slams Ramaswamy’s ‘cruel’ ad, hits out at Trump",
+      "answer": "Obama",
+      "options": [
+        "Sara",
+        "Obama",
+        "Riyadh",
+        "Hitlers"
+      ]
+    },
+    {
+      "blanked": "India ______ business growth hits 4-month high; hiring stalls, PMI shows",
       "answer": "October",
       "options": [
-        "Hints",
-        "Release",
-        "Court",
+        "International",
+        "Bollywood",
+        "Khurrana",
         "October"
       ]
     },
     {
-      "blanked": "Vaibhav Sooryavanshi in as ______ choose to chase in Christchurch",
-      "answer": "India",
+      "blanked": "Apple's iPhone Duo Preorder Customers Face Months-Long Waits While Walk-In Shoppers ______ Phones on Launch Day",
+      "answer": "Get",
       "options": [
-        "Organises",
-        "Funding",
-        "India",
-        "Teer"
+        "Get",
+        "Aramco",
+        "D-Street",
+        "Test"
       ]
     },
     {
-      "blanked": "Ukraine says Starshield back to normal, Musk says ______ violated terms",
-      "answer": "Kyiv",
+      "blanked": "Manoj Bajpayee Says ______ People\" Targeted His Family Over Gajab Raat Row",
+      "answer": "Faceless",
       "options": [
-        "Kyiv",
-        "Nifty",
-        "Alive",
-        "Platforms"
+        "Bhatt",
+        "Varma",
+        "Faceless",
+        "Reduces"
       ]
     },
     {
-      "blanked": "Some Retailers Ask ₹1 Lakh Extra for iPhone Duo ______",
-      "answer": "2026",
+      "blanked": "Quordle hints and answers for Sunday, ______ 25 (game #1735)",
+      "answer": "October",
       "options": [
-        "Rajinikanth",
-        "2026",
-        "Fails",
-        "End"
-      ]
-    },
-    {
-      "blanked": "Sensex, ______ snap 2-week rally as oil shock, FII selling weigh on D-Street",
-      "answer": "Nifty",
-      "options": [
-        "10000",
-        "JerryRigEverythings",
-        "Nifty",
-        "Conditioning"
-      ]
-    },
-    {
-      "blanked": "Bayern Munich’s Vincent ______ could be out ‘weeks’ after collapse",
-      "answer": "Kompany",
-      "options": [
-        "Kompany",
-        "Exoplanet",
-        "France",
-        "Clues"
-      ]
-    },
-    {
-      "blanked": "Delhi High Court Says Neha Bora's Peace-Bond Notice Based On Diary Entries, ______ Orders Covered...",
-      "answer": "Prohibitory",
-      "options": [
-        "Prohibitory",
-        "600",
-        "Pakistan",
-        "Stars"
-      ]
-    },
-    {
-      "blanked": "Traders' body urges ______ Gandhi to defer November 1 INDIA bloc rally, warns of Rs 10,000 crore trade loss",
-      "answer": "Rahul",
-      "options": [
-        "Extra",
-        "Funding",
-        "Rahul",
-        "Pulmonary"
-      ]
-    },
-    {
-      "blanked": "Remote ______ Conditioning Reduces Pulmonary Fibrosis Damage",
-      "answer": "Ischemic",
-      "options": [
-        "Ischemic",
-        "Ali",
-        "Advance",
-        "Extra"
-      ]
-    },
-    {
-      "blanked": "Riyadh, ______ Jeddah flights hit: Air India, IndiGo extend suspensions, Akasa follows suit",
-      "answer": "Dammam",
-      "options": [
-        "Dammam",
-        "Conditioning",
-        "Farooq",
-        "Jio"
-      ]
-    },
-    {
-      "blanked": "Jailer 2 Box Office Collections: Superstar Rajinikanth starrer tops Rs. 600 Cr worldwide with a strong 2nd ______",
-      "answer": "Friday",
-      "options": [
-        "Friday",
-        "Ayushmann",
-        "Ischemic",
-        "Guards"
+        "Fresh",
+        "October",
+        "Faceless",
+        "Obama"
       ]
     }
   ]
