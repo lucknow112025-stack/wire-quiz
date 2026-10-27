@@ -1,112 +1,122 @@
 {
-  "generatedAt": "2026-10-27T16:45:31.265Z",
+  "generatedAt": "2026-10-27T21:04:12.670Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
+    "Cyclone ‘Arnab’ LIVE updates | Storm 140 km from Kakinada; highest danger signal hoisted at Kakinada port",
     "Israel election results 2026: When will we know who won and what’s next?",
-    "Cyclone ‘Arnab’ hurtling towards Andhra Pradesh coast",
     "Plea Against ECI, CEC Gyanesh Kumar, SIR Decisions : Live Updates From Supreme Court",
-    "Imran Khan Need Not Leave India Till November 2 : Centre Tells Bombay High Court",
-    "Houthis say they attacked Saudi oil pumping stations, Riyadh airport as fighting intensifies",
-    "‘Brazil is no one’s backyard’: Lula's jibe at US after winning fourth presidential term",
-    "BRICS Parliamentary Forum calls for fight against terror",
-    "Can you justify this loot? Supreme Court slams hospitals, government for 1,000% mark-up on cancer drugs",
-    "Jan Suraaj Party functionary missing from train to Patna found dead near tracks in Ranchi",
+    "Fake medical emergency, attack on guard: 17 prisoners flee Tamil Nadu jail",
+    "In a first since 2023, Delhi invites Pakistan Minister for inaugural SCO Civilisational Dialogue in November",
+    "MLC election results 2026 LIVE: SP wins in Varanasi; Akhilesh Yadav claims BJP workers allowed inside counting booths",
+    "Viksit Bharat to be built on strong foundations of scientific research and spirit of innovation: PM Modi",
     "'Shouldn't be an instrument of narrow political expediency': India calls for veto powers for all UN Security Council members amid reform push | India News",
+    "PM Modi, Liechtenstein’s Prince Alois hold talks to boost ties",
+    "Kochi Mercedes-Benz Crash: Police Books District Judge Who Owned Car Driven By Minor Son",
+    "Russia targets Kyiv as Finnish, Norwegian leaders hold rare call with Putin",
+    "Brazil Election: Flavio Bolsonaro Flees Brazil Hours After Losing Presidential Polls",
+    "Saudi-led coalition says it downed Houthi missiles, drones aimed at kingdom",
     "Jordan says it killed more than 20 Islamic State militants in airstrikes on Syria",
-    "Melania or the pope: Who brokered Russia-Ukraine ceasefire in Oleshky?",
-    "'Dress Torn, Was Bleeding': Ex-Miss Switzerland Accuses Trump Of Rape",
-    "Two Britons charged in connection with assisting Iran over U.K. airbase incident",
-    "Jio Platforms IPO listing date: Key things retail investors should know before debut on NSE and BSE",
+    "Jio IPO listing gains calculator: How much profit can you expect from one Small NII and Big NII lot after allotment?",
     "Stock Market Today Highlights, October 27: Stock markets end largely unchanged amid elevated crude oil prices, selling in bank stocks",
-    "L&T Q2 Print: Net Profit, Revenue Beat Estimates; Orderbook Jumps 28%",
-    "Anthropic files for IPO as revenue jumps 14-fold to $16.3 billion in H1",
-    "Apple unveils new 14-inch MacBook Pro with M6 chip",
-    "Instagram tests 90-minute horizontal videos",
-    "iFixit teardown reveals possible cause of iPhone Duo screen cracks, gives it 5/10 repairability score",
-    "Apple’s $3,599 Duo Is Falling Apart, Samsung Is Cashing In With Demand Soaring For Apple Rival",
-    "12 Years Later, Mary Kom Says Biopic Starring Priyanka Chopra 'Was Not Real': 'Showed Only 10% Of My Struggle'",
-    "Sai Pallavi left MBBS to become an actor, Ranbir Kapoor tells Amitabh Bachchan, 'Bhagwan ka prescription",
-    "CID Producer-Director B.P Singh Dies Due To Massive Heart Attack, Funeral To Be Held On October 28"
+    "Tata Motors Clears Key Hurdle in Iveco Takeover as Shareholders Back Buyout",
+    "Maruti Suzuki Q2 Results: Profit falls 26% YoY to Rs 2,466 crore, but revenue rises 26%",
+    "Apple updates 14-inch MacBook Pro and iMac with the M6 processor - GSMArena.com news",
+    "Apple Says It Will Replace iPhone Duo Units Showing Screen Problems",
+    "Minecraft 26.4 Snapshot 6 Adds Snow Bricks, Cold Sulfur Cube Archetype, and More",
+    "Today’s NYT Strands Hints, Spangram and Answers for Wednesday, Oct. 28, #969",
+    "Top Highest Grossing Kollywood Films Worldwide: Superstar Rajinikanth starrer Jailer 2 first to Rs. 700 Cr",
+    "Cheap copy: King poster sparks Dhurandhar 2 comparisons over fiery aesthetic",
+    "Ranbir Kapoor has hilarious explanation for Sai Pallavi choosing to become actor over a doctor on Amitabh Bachchan's KBC 18. Watch | Bollywood"
   ],
   "quiz": [
     {
-      "blanked": "Cyclone ‘Arnab’ hurtling towards Andhra ______ coast",
-      "answer": "Pradesh",
+      "blanked": "Top Highest ______ Kollywood Films Worldwide: Superstar Rajinikanth starrer Jailer 2 first to Rs. 700 Cr",
+      "answer": "Grossing",
       "options": [
-        "November",
-        "Pradesh",
-        "Raos",
-        "Saudi"
+        "Sai",
+        "Sooryavanshi",
+        "Grossing",
+        "Crash"
       ]
     },
     {
-      "blanked": "ESGE ______ Interview: Paweł Basta",
-      "answer": "2026",
+      "blanked": "Jordan says it killed more than 20 Islamic State militants in airstrikes on ______",
+      "answer": "Syria",
       "options": [
-        "2026",
-        "Revenue",
-        "Duo",
-        "Only"
+        "Sooryavanshi",
+        "Worldwide",
+        "Norwegian",
+        "Syria"
       ]
     },
     {
-      "blanked": "Melania or the pope: Who brokered Russia-Ukraine ceasefire in ______",
-      "answer": "Oleshky",
+      "blanked": "13-goal blitz! India show no mercy as Mandeep ______ runs riot at Asian Champions Trophy hockey tournament",
+      "answer": "Singh",
       "options": [
-        "Raos",
-        "Bleeding",
-        "Showed",
-        "Oleshky"
+        "Basta",
+        "Brazil",
+        "Spangram",
+        "Singh"
       ]
     },
     {
-      "blanked": "Sai Pallavi left MBBS to become an actor, Ranbir Kapoor tells ______ Bachchan, 'Bhagwan ka prescription",
-      "answer": "Amitabh",
+      "blanked": "NZ vs IND, 3rd T20I ______ streaming info: When, where to watch third India vs New Zealand match?",
+      "answer": "LIVE",
       "options": [
-        "Russia-Ukraine",
-        "Supreme",
-        "Amitabh",
-        "Recurrence"
+        "SIR",
+        "Basta",
+        "LIVE",
+        "Cold"
       ]
     },
     {
-      "blanked": "Jio Platforms IPO listing date: ______ things retail investors should know before debut on NSE and BSE",
-      "answer": "Key",
+      "blanked": "NASA’s ______ space telescope ends 22-year mission after tracking cosmic explosions",
+      "answer": "Swift",
       "options": [
-        "Key",
-        "Cancer",
-        "Kom",
-        "Arnab"
+        "10000",
+        "Swift",
+        "140",
+        "Takeover"
       ]
     },
     {
-      "blanked": "Abhishek and ______ power India to T20I series win in New Zealand",
+      "blanked": "Radio images reveal disturbances from ______ mysterious companion that lurks within its shadows",
+      "answer": "Betelgeuses",
+      "options": [
+        "Flees",
+        "Betelgeuses",
+        "Police",
+        "Pawe"
+      ]
+    },
+    {
+      "blanked": "Plea Against ECI, CEC Gyanesh Kumar, SIR Decisions : Live Updates From Supreme ______",
+      "answer": "Court",
+      "options": [
+        "Mohra",
+        "Security",
+        "Court",
+        "Suzuki"
+      ]
+    },
+    {
+      "blanked": "India seal T20I series victory vs New Zealand with two games to spare as Abhishek Sharma and Vaibhav ______ star",
       "answer": "Sooryavanshi",
       "options": [
-        "News",
-        "3599",
-        "Parliamentary",
-        "Sooryavanshi"
+        "Updates",
+        "Sooryavanshi",
+        "Presidential",
+        "Crash"
       ]
     },
     {
-      "blanked": "12 Years Later, Mary Kom Says Biopic Starring Priyanka Chopra 'Was Not Real': 'Showed ______ 10% Of My Struggle'",
-      "answer": "Only",
+      "blanked": "Cyclone ‘Arnab’ LIVE updates | Storm 140 km from ______ highest danger signal hoisted at Kakinada port",
+      "answer": "Kakinada",
       "options": [
-        "Demand",
-        "Gambhir",
-        "Only",
-        "Kapoor"
-      ]
-    },
-    {
-      "blanked": "Can you justify this loot? ______ Court slams hospitals, government for 1,000% mark-up on cancer drugs",
-      "answer": "Supreme",
-      "options": [
-        "Supreme",
-        "Due",
-        "Struggle",
+        "Key",
+        "Kakinada",
+        "Adds",
         "Interview"
       ]
     },
@@ -114,40 +124,30 @@
       "blanked": "Stock Market ______ Highlights, October 27: Stock markets end largely unchanged amid elevated crude oil prices, selling in bank stocks",
       "answer": "Today",
       "options": [
-        "Cancer",
+        "Flavio",
+        "2026",
         "Today",
-        "NSE",
-        "Kauvery"
+        "Trophy"
       ]
     },
     {
-      "blanked": "The ______ Kauvery Hospital to host stroke care webinar on October 28",
-      "answer": "Hindu",
+      "blanked": "Viksit Bharat to be built on strong foundations of scientific research and spirit of innovation: PM ______",
+      "answer": "Modi",
       "options": [
-        "Mary",
-        "Due",
-        "Hindu",
-        "Orderbook"
+        "Results",
+        "Liver",
+        "Modi",
+        "Replace"
       ]
     },
     {
-      "blanked": "Apple unveils new 14-inch MacBook ______ with M6 chip",
-      "answer": "Pro",
+      "blanked": "Apple updates 14-inch ______ Pro and iMac with the M6 processor - GSMArena.com news",
+      "answer": "MacBook",
       "options": [
-        "Heart",
-        "Pro",
-        "Dies",
-        "Ranbir"
-      ]
-    },
-    {
-      "blanked": "NZ vs IND, 3rd T20I ______ streaming info: When, where to watch third India vs New Zealand match?",
-      "answer": "LIVE",
-      "options": [
-        "Later",
-        "Biopic",
-        "Syria",
-        "LIVE"
+        "NII",
+        "BJP",
+        "MacBook",
+        "Profit"
       ]
     }
   ]
