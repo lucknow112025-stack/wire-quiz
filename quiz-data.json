@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-10-27T05:51:29.804Z",
+  "generatedAt": "2026-10-27T11:24:16.948Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "A.P., Odisha on alert as cyclone ‘Arnab’ nears land | Highlights",
+    "Actor Imran Khan Gets Interim Relief In His Challenge To 'Leave India' Notice",
+    "Israel election results 2026: When will we know who won and what’s next?",
+    "'We Will Examine': Supreme Court Adjourns Pleas Alleging Unilateral ECI Decisions",
+    "India to evacuate thousands as Cyclone Arnab nears eastern coast",
+    "MLC Election Results 2026 LIVE: Vote Counting for 28 Seats in UP, Bihar, Maha & Karnataka | Hindustan Times",
     "Bolsonaro’s party accepts Brazil election after Trump calls vote ‘rigged’",
-    "5 Shot Dead At Guwahati Hotel After Dispute Between Owner, Leaseholder",
-    "Israel’s election: The main issues in the words of the leading candidates",
-    "All SIR Decisions Unanimously Taken; Form 6 Not Amended : ECI Tells Supreme Court",
-    "BJP Holds Protests Across Country, Seeks M Kharge's Apology Over \"Baap\" Jibe",
     "'Shouldn't be an instrument of narrow political expediency': India calls for veto powers for all UN Security Council members amid reform push | India News",
-    "17 remand prisoners escape from a sub-jail in Theni district; combing operations lead to arrest of four persons: IGP",
-    "More violence in Arunachal as anti-dam protests spread",
-    "Tell Modi to sack Gyanesh Kumar, protests will stop in 30 seconds: Rahul to traders",
-    "Rubio to host G20 Foreign Ministers’ meet in Atlanta on Oct 30-31",
-    "‘I am here. With you’: Nobel laureate, Venezuela opposition leader Machado returns after nearly a year in",
-    "Netanyahu touts Trump endorsement on eve of vote, suggests they may restart war on Iran",
-    "Saudi-led coalition says it intercepted Houthi missiles, drones attacking kingdom",
-    "Jio IPO shares to list on Wednesday; analysts recommend a 'buy-and-hold strategy for long-term wealth...",
-    "India's Stock Market Feels the Heat From High Oil Prices",
-    "Microsoft buyout explained: What employees get and what happens if they say no",
+    "'Breaking Bad' to 'Prison Break': Stalin takes fresh swipe at Vijay govt after 17 inmates flee jail",
+    "Indian media groups decry Modi’s privacy law in court, say newsrooms face shutdown risk",
+    "BRICS Parliamentary Forum calls for fight against terror",
+    "Fireworks, flags and celebrations as student-led movement wins in Serbia; can they deliver reforms?",
+    "'Dress Torn, Was Bleeding': Ex-Miss Switzerland Accuses Trump Of Rape",
+    "Russia halts strikes on Ukraine’s Kherson as Oleshky ceasefire takes effect",
+    "BMW rams into crowd in Germany; police open fire, several injured, suspects flee",
+    "Jio Platforms IPO listing date: Key things retail investors should know before debut on NSE and BSE",
     "Anthropic files for IPO as revenue jumps 14-fold to $16.3 billion in H1",
-    "Galaxy Z Fold 8 vs iPhone Duo: Durability Testing Results",
+    "Microsoft offers voluntary exit packages to 60,000 staff",
+    "Land Rover Defender Now Locally Assembled: Prices Start at Rs. 99 Lakh",
     "iFixit teardown reveals possible cause of iPhone Duo screen cracks, gives it 5/10 repairability score",
-    "NYT Strands hints, answers for October 26, 2026",
-    "MKBHD Says Skip the iPhone Duo. Tim Pan Found Another Reason",
-    "'Maine Koi Apradh Kiya Hai Jo Maafi Maangu?' Subodh Uniyal Denies Reports Of Apologising To Daler Mehndi",
-    "'Udta Teer' box office collection day 4: Ayushmann Khurrana and Sara Ali Khan’s film dips sharply on Mond",
-    "Tiger Shroff firing incident prompts ASFC to suspend Sunday football celebrity matches featuring Abhishek"
+    "Initial global sales of Apple iPhone 18 Pro higher than 17 series - Counterpoint Research",
+    "Today’s NYT Strands Hints, Spangram and Answers for Tuesday, Oct. 27, #968",
+    "Infinix GT 50 Pro With Dimensity 8400 Ultimate, 144Hz Display Launched In India: Price, Specs",
+    "Jailer 2 Box Office Collection Day 12: Rajinikanth's Film Storms Past Rs 730 Crore Worldwide",
+    "12 Years Later, Mary Kom Says Biopic Starring Priyanka Chopra 'Was Not Real': 'Showed Only 10% Of My Struggle'",
+    "Rakul Preet Singh embraces dopamine festive fashion in a maximalist pink, purple and mustard saree worth"
   ],
   "quiz": [
     {
-      "blanked": "Rubio to host G20 Foreign Ministers’ meet in ______ on Oct 30-31",
-      "answer": "Atlanta",
+      "blanked": "12 Years Later, Mary Kom Says Biopic Starring ______ Chopra 'Was Not Real': 'Showed Only 10% Of My Struggle'",
+      "answer": "Priyanka",
       "options": [
-        "Maafi",
-        "High",
-        "Atlanta",
-        "Dead"
-      ]
-    },
-    {
-      "blanked": "Galaxy Z Fold 8 vs iPhone ______ Durability Testing Results",
-      "answer": "Duo",
-      "options": [
-        "Duo",
-        "Kiya",
-        "Hotel",
-        "ASFC"
-      ]
-    },
-    {
-      "blanked": "5 Shot ______ At Guwahati Hotel After Dispute Between Owner, Leaseholder",
-      "answer": "Dead",
-      "options": [
+        "Trump",
         "Swift",
-        "Dead",
-        "Signs",
-        "510"
+        "Priyanka",
+        "Break"
       ]
     },
     {
-      "blanked": "New ______ hope to salvage series as India brace for Wellington wind",
-      "answer": "Zealand",
+      "blanked": "Airbus wins contract to build two more ______ satellites By Investing.com",
+      "answer": "Galileo",
       "options": [
-        "Zealand",
-        "London",
-        "Months",
-        "More"
+        "Stress",
+        "Galileo",
+        "Council",
+        "Interview"
       ]
     },
     {
-      "blanked": "All SIR Decisions Unanimously Taken; Form 6 Not Amended : ______ Tells Supreme Court",
-      "answer": "ECI",
+      "blanked": "Abhishek and ______ power India to T20I series win in New Zealand",
+      "answer": "Sooryavanshi",
       "options": [
-        "Wellington",
-        "ECI",
-        "Tim",
-        "Another"
+        "Boss",
+        "Break",
+        "Specs",
+        "Sooryavanshi"
       ]
     },
     {
-      "blanked": "Tiger Shroff firing incident prompts ______ to suspend Sunday football celebrity matches featuring Abhishek",
-      "answer": "ASFC",
+      "blanked": "Jio Platforms ______ listing date: Key things retail investors should know before debut on NSE and BSE",
+      "answer": "IPO",
       "options": [
-        "Apradh",
+        "Alexia",
+        "Later",
+        "IPO",
+        "Mary"
+      ]
+    },
+    {
+      "blanked": "Rare new species of barklice insect discovered from the ______ Mountains",
+      "answer": "Nilgiri",
+      "options": [
         "Nilgiri",
-        "Ayushmann",
-        "ASFC"
+        "Challenge",
+        "Swift",
+        "Only"
       ]
     },
     {
-      "blanked": "Lawrence ______ awarded NSERC’s Arthur B. McDonald Fellowship",
-      "answer": "Kazak",
+      "blanked": "Israel election results 2026: ______ will we know who won and what’s next?",
+      "answer": "When",
       "options": [
-        "Telescope",
+        "Recurrence",
+        "Gets",
+        "When",
+        "Struggle"
+      ]
+    },
+    {
+      "blanked": "Initial global sales of Apple iPhone 18 Pro higher than 17 series - ______ Research",
+      "answer": "Counterpoint",
+      "options": [
+        "Relief",
+        "Duo",
+        "Counterpoint",
+        "Bleeding"
+      ]
+    },
+    {
+      "blanked": "'Dress Torn, Was Bleeding': Ex-Miss Switzerland Accuses Trump Of ______",
+      "answer": "Rape",
+      "options": [
+        "News",
+        "Worldwide",
+        "Starring",
+        "Rape"
+      ]
+    },
+    {
+      "blanked": "Bigg Boss 20: Love ______ gets emotional as she indirectly mentions Gurpreet Ghuggi controversy; blames Sco",
+      "answer": "Gill",
+      "options": [
+        "Gill",
+        "Sco",
+        "Vote",
+        "Start"
+      ]
+    },
+    {
+      "blanked": "Gareth ______ leaves Surrey to join CSK coaching staff",
+      "answer": "Batty",
+      "options": [
         "Not",
-        "Testing",
-        "Kazak"
+        "Batty",
+        "Karnataka",
+        "8400"
       ]
     },
     {
-      "blanked": "‘I am here. With you’: Nobel laureate, Venezuela opposition leader ______ returns after nearly a year in",
-      "answer": "Machado",
+      "blanked": "Jailer 2 Box Office Collection Day 12: Rajinikanth's Film Storms ______ Rs 730 Crore Worldwide",
+      "answer": "Past",
       "options": [
-        "Unanimously",
-        "Tim",
-        "Assault",
-        "Machado"
+        "Past",
+        "Only",
+        "Singh",
+        "Launched"
       ]
     },
     {
-      "blanked": "Jio IPO shares to list on ______ analysts recommend a 'buy-and-hold strategy for long-term wealth...",
-      "answer": "Wednesday",
+      "blanked": "Smithsonian scientists just recreated the first 2 billion years of the ______",
+      "answer": "Universe",
       "options": [
-        "Apology",
-        "Wednesday",
-        "Hai",
-        "Went"
-      ]
-    },
-    {
-      "blanked": "Microsoft buyout explained: ______ employees get and what happens if they say no",
-      "answer": "What",
-      "options": [
-        "Mountains",
-        "What",
-        "Signs",
-        "Found"
-      ]
-    },
-    {
-      "blanked": "As More ______ People Suffer Strokes, 29-Year-Old Recalls Early Signs: ‘A Bomb Went Off in My Head’",
-      "answer": "Young",
-      "options": [
-        "Sunday",
-        "Young",
-        "Dispute",
-        "Recalls"
-      ]
-    },
-    {
-      "blanked": "17 remand prisoners escape from a sub-jail in ______ district; combing operations lead to arrest of four persons: IGP",
-      "answer": "Theni",
-      "options": [
-        "Theni",
-        "2026",
-        "Sentenced",
-        "Sara"
+        "Universe",
+        "Galileo",
+        "Court",
+        "BSE"
       ]
     }
   ]
