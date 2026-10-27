@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-10-27T11:24:16.948Z",
+  "generatedAt": "2026-10-27T16:45:31.265Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "Actor Imran Khan Gets Interim Relief In His Challenge To 'Leave India' Notice",
     "Israel election results 2026: When will we know who won and what’s next?",
-    "'We Will Examine': Supreme Court Adjourns Pleas Alleging Unilateral ECI Decisions",
-    "India to evacuate thousands as Cyclone Arnab nears eastern coast",
-    "MLC Election Results 2026 LIVE: Vote Counting for 28 Seats in UP, Bihar, Maha & Karnataka | Hindustan Times",
-    "Bolsonaro’s party accepts Brazil election after Trump calls vote ‘rigged’",
-    "'Shouldn't be an instrument of narrow political expediency': India calls for veto powers for all UN Security Council members amid reform push | India News",
-    "'Breaking Bad' to 'Prison Break': Stalin takes fresh swipe at Vijay govt after 17 inmates flee jail",
-    "Indian media groups decry Modi’s privacy law in court, say newsrooms face shutdown risk",
+    "Cyclone ‘Arnab’ hurtling towards Andhra Pradesh coast",
+    "Plea Against ECI, CEC Gyanesh Kumar, SIR Decisions : Live Updates From Supreme Court",
+    "Imran Khan Need Not Leave India Till November 2 : Centre Tells Bombay High Court",
+    "Houthis say they attacked Saudi oil pumping stations, Riyadh airport as fighting intensifies",
+    "‘Brazil is no one’s backyard’: Lula's jibe at US after winning fourth presidential term",
     "BRICS Parliamentary Forum calls for fight against terror",
-    "Fireworks, flags and celebrations as student-led movement wins in Serbia; can they deliver reforms?",
+    "Can you justify this loot? Supreme Court slams hospitals, government for 1,000% mark-up on cancer drugs",
+    "Jan Suraaj Party functionary missing from train to Patna found dead near tracks in Ranchi",
+    "'Shouldn't be an instrument of narrow political expediency': India calls for veto powers for all UN Security Council members amid reform push | India News",
+    "Jordan says it killed more than 20 Islamic State militants in airstrikes on Syria",
+    "Melania or the pope: Who brokered Russia-Ukraine ceasefire in Oleshky?",
     "'Dress Torn, Was Bleeding': Ex-Miss Switzerland Accuses Trump Of Rape",
-    "Russia halts strikes on Ukraine’s Kherson as Oleshky ceasefire takes effect",
-    "BMW rams into crowd in Germany; police open fire, several injured, suspects flee",
+    "Two Britons charged in connection with assisting Iran over U.K. airbase incident",
     "Jio Platforms IPO listing date: Key things retail investors should know before debut on NSE and BSE",
+    "Stock Market Today Highlights, October 27: Stock markets end largely unchanged amid elevated crude oil prices, selling in bank stocks",
+    "L&T Q2 Print: Net Profit, Revenue Beat Estimates; Orderbook Jumps 28%",
     "Anthropic files for IPO as revenue jumps 14-fold to $16.3 billion in H1",
-    "Microsoft offers voluntary exit packages to 60,000 staff",
-    "Land Rover Defender Now Locally Assembled: Prices Start at Rs. 99 Lakh",
+    "Apple unveils new 14-inch MacBook Pro with M6 chip",
+    "Instagram tests 90-minute horizontal videos",
     "iFixit teardown reveals possible cause of iPhone Duo screen cracks, gives it 5/10 repairability score",
-    "Initial global sales of Apple iPhone 18 Pro higher than 17 series - Counterpoint Research",
-    "Today’s NYT Strands Hints, Spangram and Answers for Tuesday, Oct. 27, #968",
-    "Infinix GT 50 Pro With Dimensity 8400 Ultimate, 144Hz Display Launched In India: Price, Specs",
-    "Jailer 2 Box Office Collection Day 12: Rajinikanth's Film Storms Past Rs 730 Crore Worldwide",
+    "Apple’s $3,599 Duo Is Falling Apart, Samsung Is Cashing In With Demand Soaring For Apple Rival",
     "12 Years Later, Mary Kom Says Biopic Starring Priyanka Chopra 'Was Not Real': 'Showed Only 10% Of My Struggle'",
-    "Rakul Preet Singh embraces dopamine festive fashion in a maximalist pink, purple and mustard saree worth"
+    "Sai Pallavi left MBBS to become an actor, Ranbir Kapoor tells Amitabh Bachchan, 'Bhagwan ka prescription",
+    "CID Producer-Director B.P Singh Dies Due To Massive Heart Attack, Funeral To Be Held On October 28"
   ],
   "quiz": [
     {
-      "blanked": "12 Years Later, Mary Kom Says Biopic Starring ______ Chopra 'Was Not Real': 'Showed Only 10% Of My Struggle'",
-      "answer": "Priyanka",
+      "blanked": "Cyclone ‘Arnab’ hurtling towards Andhra ______ coast",
+      "answer": "Pradesh",
       "options": [
-        "Trump",
-        "Swift",
-        "Priyanka",
-        "Break"
+        "November",
+        "Pradesh",
+        "Raos",
+        "Saudi"
       ]
     },
     {
-      "blanked": "Airbus wins contract to build two more ______ satellites By Investing.com",
-      "answer": "Galileo",
+      "blanked": "ESGE ______ Interview: Paweł Basta",
+      "answer": "2026",
       "options": [
-        "Stress",
-        "Galileo",
-        "Council",
-        "Interview"
+        "2026",
+        "Revenue",
+        "Duo",
+        "Only"
+      ]
+    },
+    {
+      "blanked": "Melania or the pope: Who brokered Russia-Ukraine ceasefire in ______",
+      "answer": "Oleshky",
+      "options": [
+        "Raos",
+        "Bleeding",
+        "Showed",
+        "Oleshky"
+      ]
+    },
+    {
+      "blanked": "Sai Pallavi left MBBS to become an actor, Ranbir Kapoor tells ______ Bachchan, 'Bhagwan ka prescription",
+      "answer": "Amitabh",
+      "options": [
+        "Russia-Ukraine",
+        "Supreme",
+        "Amitabh",
+        "Recurrence"
+      ]
+    },
+    {
+      "blanked": "Jio Platforms IPO listing date: ______ things retail investors should know before debut on NSE and BSE",
+      "answer": "Key",
+      "options": [
+        "Key",
+        "Cancer",
+        "Kom",
+        "Arnab"
       ]
     },
     {
       "blanked": "Abhishek and ______ power India to T20I series win in New Zealand",
       "answer": "Sooryavanshi",
       "options": [
-        "Boss",
-        "Break",
-        "Specs",
+        "News",
+        "3599",
+        "Parliamentary",
         "Sooryavanshi"
       ]
     },
     {
-      "blanked": "Jio Platforms ______ listing date: Key things retail investors should know before debut on NSE and BSE",
-      "answer": "IPO",
+      "blanked": "12 Years Later, Mary Kom Says Biopic Starring Priyanka Chopra 'Was Not Real': 'Showed ______ 10% Of My Struggle'",
+      "answer": "Only",
       "options": [
-        "Alexia",
-        "Later",
-        "IPO",
-        "Mary"
-      ]
-    },
-    {
-      "blanked": "Rare new species of barklice insect discovered from the ______ Mountains",
-      "answer": "Nilgiri",
-      "options": [
-        "Nilgiri",
-        "Challenge",
-        "Swift",
-        "Only"
-      ]
-    },
-    {
-      "blanked": "Israel election results 2026: ______ will we know who won and what’s next?",
-      "answer": "When",
-      "options": [
-        "Recurrence",
-        "Gets",
-        "When",
-        "Struggle"
-      ]
-    },
-    {
-      "blanked": "Initial global sales of Apple iPhone 18 Pro higher than 17 series - ______ Research",
-      "answer": "Counterpoint",
-      "options": [
-        "Relief",
-        "Duo",
-        "Counterpoint",
-        "Bleeding"
-      ]
-    },
-    {
-      "blanked": "'Dress Torn, Was Bleeding': Ex-Miss Switzerland Accuses Trump Of ______",
-      "answer": "Rape",
-      "options": [
-        "News",
-        "Worldwide",
-        "Starring",
-        "Rape"
-      ]
-    },
-    {
-      "blanked": "Bigg Boss 20: Love ______ gets emotional as she indirectly mentions Gurpreet Ghuggi controversy; blames Sco",
-      "answer": "Gill",
-      "options": [
-        "Gill",
-        "Sco",
-        "Vote",
-        "Start"
-      ]
-    },
-    {
-      "blanked": "Gareth ______ leaves Surrey to join CSK coaching staff",
-      "answer": "Batty",
-      "options": [
-        "Not",
-        "Batty",
-        "Karnataka",
-        "8400"
-      ]
-    },
-    {
-      "blanked": "Jailer 2 Box Office Collection Day 12: Rajinikanth's Film Storms ______ Rs 730 Crore Worldwide",
-      "answer": "Past",
-      "options": [
-        "Past",
+        "Demand",
+        "Gambhir",
         "Only",
-        "Singh",
-        "Launched"
+        "Kapoor"
       ]
     },
     {
-      "blanked": "Smithsonian scientists just recreated the first 2 billion years of the ______",
-      "answer": "Universe",
+      "blanked": "Can you justify this loot? ______ Court slams hospitals, government for 1,000% mark-up on cancer drugs",
+      "answer": "Supreme",
       "options": [
-        "Universe",
-        "Galileo",
-        "Court",
-        "BSE"
+        "Supreme",
+        "Due",
+        "Struggle",
+        "Interview"
+      ]
+    },
+    {
+      "blanked": "Stock Market ______ Highlights, October 27: Stock markets end largely unchanged amid elevated crude oil prices, selling in bank stocks",
+      "answer": "Today",
+      "options": [
+        "Cancer",
+        "Today",
+        "NSE",
+        "Kauvery"
+      ]
+    },
+    {
+      "blanked": "The ______ Kauvery Hospital to host stroke care webinar on October 28",
+      "answer": "Hindu",
+      "options": [
+        "Mary",
+        "Due",
+        "Hindu",
+        "Orderbook"
+      ]
+    },
+    {
+      "blanked": "Apple unveils new 14-inch MacBook ______ with M6 chip",
+      "answer": "Pro",
+      "options": [
+        "Heart",
+        "Pro",
+        "Dies",
+        "Ranbir"
+      ]
+    },
+    {
+      "blanked": "NZ vs IND, 3rd T20I ______ streaming info: When, where to watch third India vs New Zealand match?",
+      "answer": "LIVE",
+      "options": [
+        "Later",
+        "Biopic",
+        "Syria",
+        "LIVE"
       ]
     }
   ]
