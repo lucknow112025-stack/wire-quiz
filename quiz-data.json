@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-10-28T00:29:03.786Z",
+  "generatedAt": "2026-10-28T06:06:38.560Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "Cyclone ‘Arnab’ makes landfall; Odisha, Andhra Pradesh see heavy rainfall | LIVE",
-    "Israel election results 2026: When will we know who won and what’s next?",
-    "Saudi Arabia offered Houthis $1 billion in Iran-mediated ceasefire proposal: Report | World News",
+    "Cyclone Arnab crosses coast south of Yanam; landfall nearing completion, says IMD | LIVE",
+    "Israel Election Results Live: Netanyahu, Rival Eisenkot Both Claim Mandate After Tight Israel Election",
+    "MLC Election Results 2026 Live Updates: BJP leads in UP, wins Karnataka; mixed results in Bihar",
+    "Lula slams Flavio Bolsonaro's US departure as Washington set to grant family visas",
+    "Who is Lula? From ex-worker and prisoner to Brazil's president again",
     "In a first since 2023, Delhi invites Pakistan Minister for inaugural SCO Civilisational Dialogue in November",
-    "Bihar MLC election results 2026 winners list: Counting underway for 8 seats, check constituency-wise winning",
-    "Brazil elections: Did a WhatsApp channel help get Lula re-elected?",
-    "Viksit Bharat to be built on strong foundations of scientific research and spirit of innovation: PM Modi",
-    "Indians travelling to UAE urged to secure adequate medical insurance",
-    "'Shouldn't be an instrument of narrow political expediency': India calls for veto powers for all UN Security Council members amid reform push | India News",
-    "Theni jailbreak: Human error led to escape of prisoners, says DGP-Prisons Sandeep Rai Rathore",
-    "Saudi-led coalition says it downed Houthi missiles, drones aimed at kingdom",
-    "US Says It Will Issue Visas To Brazil's Flavio Bolsonaro After Election Loss",
-    "Fireworks, flags and celebrations as student-led movement wins in Serbia; can they deliver reforms?",
-    "‘If They’re Honest’: Trump Says He’ll Accept Midterm Results, With A Caveat",
-    "Bioweapons, Blackmail, Risks To Humanity In Anthropic's Pre-IPO Warning",
-    "Jio Platforms IPO listing date: Key things retail investors should know before debut on NSE and BSE",
-    "TVS family dispute: Mallika, Lakshmi seek amicable resolution after Venu Srinivasan, Sudarshan file...",
-    "Stock Market Today Highlights, October 27: Stock markets end largely unchanged amid elevated crude oil prices, selling in bank stocks",
+    "Science is successful only when it benefits society: PM Modi",
+    "17 remand prisoners escape from sub-jail in Theni district; 13 held so far",
+    "Kochi Mercedes-Benz Crash: Police Books District Judge Who Owned Car Driven By Minor Son",
+    "Indian media groups decry Modi’s privacy law in court, say newsrooms face shutdown risk",
+    "Hegseth likely to face questions on US role in Indo-Pacific at ASEAN summit",
+    "'You Understand Who You're Dealing With?': Cuba Minister, US Envoy Trade Barbs In Fiery UN Clash",
+    "UAE honours Captain Smit Machchhar for bravery during flydubai cockpit attack",
+    "If India feels threatened: Maldives Opposition warns Muizzu over Pak ties",
+    "Ambani's Jio surges 21% in Mumbai debut after record $3.2 billion India IPO",
+    "Why Is Stock Market Falling Today? 4 Key Reasons Behind Sensex, Nifty Crash",
+    "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
+    "'Tata is being criminally destroyed': Rahul Gandhi targets PM Modi, Amit Shah amid boardroom dispute",
     "Apple Bets MacBook Pro Buyers Will Pay More for Touch Screens",
-    "Apple hit by ‘Crackgate’ outcry over iPhone Duo screen problems",
+    "Apple Creator Studio Brings MotionVFX and AI Assistants to Subscribers",
+    "Apple's iPhone Duo is getting roasted over screen cracks",
     "Minecraft 26.4 Snapshot 6 Adds Snow Bricks, Cold Sulfur Cube Archetype, and More",
-    "New iPhone 18e leak covers its chip, cameras, and display - GSMArena.com news",
-    "Shah Rukh Khan's 'King' poster draws comparisons with 'Dhurandhar 2' on social media: 'Every masterpiece",
-    "Top Highest Grossing Kollywood Films Worldwide: Superstar Rajinikanth starrer Jailer 2 first to Rs. 700 Cr",
-    "Amid Ramayana Vs Mohra Clash Reports, Director Rajiv Rai Says Akshay Kumar's Film May Not Release In Mumbai"
+    "Ramayana Los Angeles Premiere: Yash-Ranbir Kapoor Hug Each Other On Red Carpet, Sai Pallavi Brings Elegance",
+    "Subhas Chandra Bose's grandnephew writes to I&B minister, demands strict action against ‘trivialisation of Netaji’ in Prabhas' Fauzi teaser | Hindustan Times",
+    "Top Highest Grossing Kollywood Films Worldwide: Superstar Rajinikanth starrer Jailer 2 first to Rs. 700 Cr"
   ],
   "quiz": [
     {
-      "blanked": "South Africa, ______ and the unsubtle swing of fortune",
-      "answer": "Australia",
+      "blanked": "17 remand prisoners escape from sub-jail in ______ district; 13 held so far",
+      "answer": "Theni",
       "options": [
-        "Fatty",
-        "Flavio",
-        "Australia",
-        "Betelgeuses"
-      ]
-    },
-    {
-      "blanked": "Jio Platforms IPO listing date: ______ things retail investors should know before debut on NSE and BSE",
-      "answer": "Key",
-      "options": [
-        "Theyre",
-        "Key",
-        "Pro",
-        "Warning"
-      ]
-    },
-    {
-      "blanked": "Saudi-led coalition says it downed ______ missiles, drones aimed at kingdom",
-      "answer": "Houthi",
-      "options": [
-        "SAVR",
-        "Snapshot",
-        "Houthi",
-        "Platforms"
-      ]
-    },
-    {
-      "blanked": "Infective ______ After TAVR Is Less Common Than After SAVR",
-      "answer": "Endocarditis",
-      "options": [
-        "10000",
-        "May",
-        "Brazils",
-        "Endocarditis"
-      ]
-    },
-    {
-      "blanked": "Bioweapons, Blackmail, Risks To Humanity In Anthropic's ______ Warning",
-      "answer": "Pre-IPO",
-      "options": [
-        "Pre-IPO",
-        "Pakistan",
-        "BSE",
-        "IPO"
-      ]
-    },
-    {
-      "blanked": "Brazil elections: Did a ______ channel help get Lula re-elected?",
-      "answer": "WhatsApp",
-      "options": [
-        "Kumars",
-        "BSE",
-        "WhatsApp",
-        "TAVR"
-      ]
-    },
-    {
-      "blanked": "Harry Kane thanks ______ Hotspur after Ballon d’Or win",
-      "answer": "Tottenham",
-      "options": [
-        "Archetype",
+        "Fiery",
         "Kollywood",
-        "October",
-        "Tottenham"
+        "Who",
+        "Theni"
+      ]
+    },
+    {
+      "blanked": "Apple Creator Studio Brings MotionVFX and AI Assistants to ______",
+      "answer": "Subscribers",
+      "options": [
+        "Modi",
+        "Assistants",
+        "Subscribers",
+        "3.2"
+      ]
+    },
+    {
+      "blanked": "Israel Election Results Live: Netanyahu, Rival Eisenkot Both ______ Mandate After Tight Israel Election",
+      "answer": "Claim",
+      "options": [
+        "Tight",
+        "Claim",
+        "Washington",
+        "Muizzu"
+      ]
+    },
+    {
+      "blanked": "Why Is Stock ______ Falling Today? 4 Key Reasons Behind Sensex, Nifty Crash",
+      "answer": "Market",
+      "options": [
+        "Market",
+        "Smit",
+        "Hindu",
+        "Judge"
+      ]
+    },
+    {
+      "blanked": "Lula slams Flavio ______ US departure as Washington set to grant family visas",
+      "answer": "Bolsonaros",
+      "options": [
+        "Each",
+        "Predicts",
+        "Bolsonaros",
+        "Mandate"
+      ]
+    },
+    {
+      "blanked": "Subhas Chandra Bose's grandnephew writes to I&B minister, demands strict action against ‘trivialisation of Netaji’ in Prabhas' ______ teaser | Hindustan Times",
+      "answer": "Fauzi",
+      "options": [
+        "Case",
+        "Duo",
+        "Trade",
+        "Fauzi"
+      ]
+    },
+    {
+      "blanked": "MLC Election Results 2026 Live Updates: BJP leads in UP, wins ______ mixed results in Bihar",
+      "answer": "Karnataka",
+      "options": [
+        "Karnataka",
+        "Worldwide",
+        "Results",
+        "Envoy"
+      ]
+    },
+    {
+      "blanked": "India seal T20I series victory vs New Zealand with two games to spare as Abhishek Sharma and Vaibhav ______ star",
+      "answer": "Sooryavanshi",
+      "options": [
+        "Karnataka",
+        "Machchhar",
+        "Opposition",
+        "Sooryavanshi"
+      ]
+    },
+    {
+      "blanked": "In a first since 2023, Delhi invites Pakistan Minister for inaugural SCO Civilisational ______ in November",
+      "answer": "Dialogue",
+      "options": [
+        "Rival",
+        "Sulfur",
+        "Champions",
+        "Dialogue"
       ]
     },
     {
       "blanked": "AI Predicts Diabetes ______ in Patients with Fatty Liver Disease",
       "answer": "Risk",
       "options": [
-        "Arabia",
-        "Bets",
-        "Risks",
-        "Risk"
+        "Risk",
+        "Liver",
+        "Cape",
+        "Snapshot"
       ]
     },
     {
-      "blanked": "TVS family dispute: Mallika, Lakshmi seek amicable resolution after ______ Srinivasan, Sudarshan file...",
-      "answer": "Venu",
+      "blanked": "Fatorda Police ______ 51-Year-Old Man in POCSO Case Involving Minor Girl",
+      "answer": "Arrest",
       "options": [
-        "MLC",
-        "Venu",
-        "Pradesh",
-        "Did"
+        "Girl",
+        "Arrest",
+        "Barbs",
+        "Shah"
       ]
     },
     {
-      "blanked": "Saudi Arabia offered Houthis $1 billion in ______ ceasefire proposal: Report | World News",
-      "answer": "Iran-mediated",
+      "blanked": "Science is successful only when it benefits society: PM ______",
+      "answer": "Modi",
       "options": [
-        "Iran-mediated",
-        "Superstar",
-        "700",
-        "Council"
-      ]
-    },
-    {
-      "blanked": "Top Highest Grossing Kollywood Films Worldwide: Superstar Rajinikanth starrer Jailer 2 first to Rs. ______ Cr",
-      "answer": "700",
-      "options": [
-        "Archetype",
-        "700",
-        "Cold",
-        "Tottenham"
-      ]
-    },
-    {
-      "blanked": "Bihar MLC election results 2026 winners list: ______ underway for 8 seats, check constituency-wise winning",
-      "answer": "Counting",
-      "options": [
-        "Counting",
-        "MLC",
-        "Sudarshan",
-        "Asian"
+        "Stock",
+        "Mumbai",
+        "Diabetes",
+        "Modi"
       ]
     }
   ]
