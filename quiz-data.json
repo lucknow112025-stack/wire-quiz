@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-10-28T12:48:09.002Z",
+  "generatedAt": "2026-10-28T18:35:56.321Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "'It's Done, Bro': BJP Jabs DK Shivakumar After Congress Loses Karnataka Legislative Council Polls",
-    "Five key takeaways from Israel’s parliamentary elections",
-    "Cyclone Arnab LIVE Updates: Cyclone Arnab Kills 5 In Andhra Pradesh",
-    "At least 10 dead in crash between two trains in Spain’s Toledo province",
+    "Watch live: Fed Chairman Warsh explains why the central bank paused rate hikes",
+    "Israel election results LIVE: Netanyahu alleges polls ‘stolen’ by Arab parties; Joint List denies claims | Hindustan Times",
+    "68 Killed As 2 High-Speed Trains Collide In Spain, Human Error Likely Cause",
+    "Cyclone ‘Arnab’ LIVE updates | Five killed in Andhra; ₹5 lakh ex gratia for families",
+    "U.S. Warns Gulf of Possible Short, Intense Renewal of Iran War After Midterms",
+    "MLC election results: NDA wins 16, Congress draws blank, SP gets 5 in UP; state-wise results and key wins",
     "Delhi SIR : Why Deleted Voters Asked To File Form 6 When They Were On 2026 Rolls? Supreme Court Asks ECI",
-    "Lawyers' protest against Allahabad High Court judge turns chaotic, furniture flung",
-    "'We don't want a fight': Delhi traders' body writes to Rahul Gandhi again over November 1 rally",
-    "Uttar Pradesh MLC polls: BJP wins five seats, SP three; counting underway",
-    "Delhi liquor booking app: Buyers can now order online, 9 litres of whisky and 18 litres of beer allowed;",
-    "Project Cheetah: First Gunshot Death - What The Killing Of Cub KNG22 Reveals",
-    "Rajnath Singh, Hegseth review progress of India-U.S. defence pact",
-    "UAE President Honours flydubai Hero Captain, Crew For Courageous Actions",
-    "'This is America! Not your communist dictatorship': US, Cuban envoys scream at each other at UN - watch",
-    "Flavio Bolsonaro and family board flight bound for Ecuador, Argentina says",
+    "SP won where it shouldn't have: Keshav Maurya after BJP loses Varanasi MLC seat",
+    "Cancer Drug Prices Slashed: New Rates For 543 Drug Brands From November 9",
+    "Cockroach Janta Party backs INDIA bloc’s November 1 rally",
+    "Rajnath raises U.S. F-16 package for Pakistan, cross-border terrorism with Hegseth",
+    "Flavio Bolsonaro lands in Miami after leaving Brazil following election defeat to Lula",
+    "Iran sees only unacceptable ideas in latest mediation to end war, official says",
+    "'Battle scars': Massive stitches on Captain Smit Machchhar head draw attention as UAE honours hero Indian",
+    "Jio's m-cap tops Rs 13 lakh crore after stellar debut: List of India's 10 most valuable firms",
     "Indian equity benchmarks inch lower as oil climbs; Jio makes strong debut",
-    "Shares of Ambani’s Jio surge 27% in India’s biggest IPO",
-    "After Rahul Gandhi’s ‘destroying Tata’ charge, Nirmala Sitharaman’s advice",
-    "Fed meeting live updates: No hike expected, but all eyes on Warsh for what's next",
-    "Amazon Debuts 16-Inch Echo Smart Display and Alexa Photo Frame",
-    "Samsung Joins Cuff-Shaped Earbuds Trend With $229 Galaxy Buds On",
-    "Apple says a small number of iPhone Duo inner display impacted",
-    "Minecraft 26.4 Snapshot 6 Adds Snow Bricks, Cold Sulfur Cube Archetype, and More",
-    "Sai Pallavi Celebrates Indian Elegance In A Pink Saree At Ramayana Premiere In Los Angeles",
-    "'Jailer 2' box office collection day 13: Rajinikanth, Hrithik Roshan's action film earns Rs 7.50 cr in In",
-    "Subhas Chandra Bose's grandnephew writes to I&B minister, demands strict action against ‘trivialisation of Netaji’ in Prabhas' Fauzi teaser | Hindustan Times"
+    "India's TVS Motor to demerge finance business; beats quarterly profit view on strong demand",
+    "Adani Enterprises Q2 Results: Revenue spikes 75% YoY to Rs 37,216 crore, profit at Rs 1,492 crore",
+    "Apple announces its first touchscreen MacBook Pro",
+    "Apple’s iPhone Duo Fault Isn’t Terminal to Foldable Foray",
+    "Apple just dropped a new iPad mini with an 8.5-inch OLED display — how to buy",
+    "Apple Releases iOS 27.2 With Security Fixes for Web Attacks, Sandbox Escapes and Data Exposure",
+    "Udta Teer Box Office Collection Day 5: Less Than 3 Crore Away From Entering Ayushmann Khurrana's Top 5 Post-COVID Grossers",
+    "Katrina Kaif breaks silence on the scrutiny around her post-partum weight: 'People are aware of what a wo",
+    "Jailer 2 Box Office Collection Day 13: Rajinikanth Film Remains Steady On Second Monday, Mints Rs 408 Crore In India"
   ],
   "quiz": [
-    {
-      "blanked": "Did Ramayana ______ Tease Sunny Deol's Hanuman In Its Post-Credit Scene?",
-      "answer": "Just",
-      "options": [
-        "Earbuds",
-        "Legislative",
-        "Just",
-        "27%"
-      ]
-    },
-    {
-      "blanked": "Cyclone ______ LIVE Updates: Cyclone Arnab Kills 5 In Andhra Pradesh",
-      "answer": "Arnab",
-      "options": [
-        "Cuban",
-        "Arnab",
-        "Snow",
-        "Bro"
-      ]
-    },
     {
       "blanked": "Indian equity benchmarks inch lower as oil climbs; ______ makes strong debut",
       "answer": "Jio",
       "options": [
-        "Pradesh",
-        "Spains",
-        "Highlights",
-        "Jio"
+        "Jio",
+        "Box",
+        "Why",
+        "Brands"
       ]
     },
     {
-      "blanked": "'Jailer 2' box office collection day 13: Rajinikanth, ______ Roshan's action film earns Rs 7.50 cr in In",
-      "answer": "Hrithik",
+      "blanked": "Cancer Drug Prices Slashed: New Rates For 543 Drug Brands From ______ 9",
+      "answer": "November",
       "options": [
-        "Debuts",
-        "Updates",
-        "Boses",
-        "Hrithik"
-      ]
-    },
-    {
-      "blanked": "'This is America! Not your communist dictatorship': US, ______ envoys scream at each other at UN - watch",
-      "answer": "Cuban",
-      "options": [
-        "7.50",
-        "Echo",
-        "Cuban",
-        "Los"
-      ]
-    },
-    {
-      "blanked": "This 10-year-old ______ student wants to know If butterflies remember their Caterpillar days. His...",
-      "answer": "Japanese",
-      "options": [
-        "Beyond",
-        "Alexa",
-        "Japanese",
-        "Duo"
-      ]
-    },
-    {
-      "blanked": "Shares of Ambani’s Jio surge ______ in India’s biggest IPO",
-      "answer": "27%",
-      "options": [
+        "Shahid",
         "ECI",
         "November",
-        "27%",
-        "Less"
+        "Kapoor"
       ]
     },
     {
-      "blanked": "Jansen becomes top-ranked ______ bowler, Abhishek takes back crown for T20I batters",
-      "answer": "Test",
+      "blanked": "Apple announces its first touchscreen ______ Pro",
+      "answer": "MacBook",
       "options": [
-        "What",
-        "Test",
-        "Tata",
-        "Smart"
+        "MacBook",
+        "Grossers",
+        "Iran",
+        "Killed"
       ]
     },
     {
-      "blanked": "Radiotherapy Highlights Local ______ in Bile Duct Cancer",
-      "answer": "Risks",
+      "blanked": "Israel election results LIVE: Netanyahu alleges polls ‘stolen’ by Arab parties; Joint List denies claims | ______ Times",
+      "answer": "Hindustan",
       "options": [
-        "ECI",
-        "Hrithik",
-        "Risks",
-        "America"
+        "Gulf",
+        "Hindustan",
+        "Midterms",
+        "Top"
       ]
     },
     {
-      "blanked": "Samsung Joins Cuff-Shaped Earbuds ______ With $229 Galaxy Buds On",
-      "answer": "Trend",
+      "blanked": "Delhi SIR : Why ______ Voters Asked To File Form 6 When They Were On 2026 Rolls? Supreme Court Asks ECI",
+      "answer": "Deleted",
       "options": [
-        "Trend",
-        "Buds",
-        "Swift",
+        "Deleted",
+        "Voters",
+        "Foldable",
+        "People"
+      ]
+    },
+    {
+      "blanked": "Madrid Daily: Club apologizes over ______ comments as China broadcast dispute continues",
+      "answer": "Mbapp",
+      "options": [
+        "Mbapp",
+        "Entering",
+        "Kapil",
+        "Fed"
+      ]
+    },
+    {
+      "blanked": "Apple Releases iOS 27.2 With Security Fixes for Web Attacks, Sandbox Escapes and Data ______",
+      "answer": "Exposure",
+      "options": [
+        "Terminal",
+        "Exposure",
+        "Away",
+        "Planet"
+      ]
+    },
+    {
+      "blanked": "Could ______ affect the brain?",
+      "answer": "PMOS",
+      "options": [
+        "Among",
+        "Less",
+        "PMOS",
         "Congress"
       ]
     },
     {
-      "blanked": "Neeraj ______ Indian para athlete, found dead",
-      "answer": "Yadav",
+      "blanked": "Katrina ______ breaks silence on the scrutiny around her post-partum weight: 'People are aware of what a wo",
+      "answer": "Kaif",
       "options": [
-        "SIR",
-        "Yadav",
-        "Pink",
-        "Netaji"
+        "Brands",
+        "War",
+        "Foray",
+        "Kaif"
       ]
     },
     {
-      "blanked": "Fed meeting live updates: No hike expected, but all eyes on ______ for what's next",
-      "answer": "Warsh",
+      "blanked": "Jailer 2 Box Office Collection Day 13: Rajinikanth Film Remains Steady On ______ Monday, Mints Rs 408 Crore In India",
+      "answer": "Second",
       "options": [
-        "Hospital",
-        "Snapshot",
-        "Joins",
-        "Warsh"
+        "Court",
+        "Deleted",
+        "Second",
+        "Suggest"
+      ]
+    },
+    {
+      "blanked": "Apple just dropped a new iPad mini with an 8.5-inch ______ display — how to buy",
+      "answer": "OLED",
+      "options": [
+        "Arnab",
+        "Voters",
+        "OLED",
+        "They"
+      ]
+    },
+    {
+      "blanked": "Apple’s iPhone Duo Fault ______ Terminal to Foldable Foray",
+      "answer": "Isnt",
+      "options": [
+        "High-Speed",
+        "Isnt",
+        "Jadeja",
+        "Duo"
       ]
     }
   ]
