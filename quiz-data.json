@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-10-28T18:35:56.321Z",
+  "generatedAt": "2026-10-29T02:01:38.060Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "Watch live: Fed Chairman Warsh explains why the central bank paused rate hikes",
-    "Israel election results LIVE: Netanyahu alleges polls ‘stolen’ by Arab parties; Joint List denies claims | Hindustan Times",
-    "68 Killed As 2 High-Speed Trains Collide In Spain, Human Error Likely Cause",
-    "Cyclone ‘Arnab’ LIVE updates | Five killed in Andhra; ₹5 lakh ex gratia for families",
-    "U.S. Warns Gulf of Possible Short, Intense Renewal of Iran War After Midterms",
-    "MLC election results: NDA wins 16, Congress draws blank, SP gets 5 in UP; state-wise results and key wins",
+    "Israel Election Results 2026 LIVE Updates: Netanyahu bloc leads with 53 seats as Eisenkot-led opposition trails at 48",
+    "Cyclone ‘Arnab’ highlights | Five killed in Andhra; Telangana extends support to Andhra for restoration works",
+    "Pictures show rescue efforts after deadly Spain train collision",
+    "'It's Done, Bro': BJP Jabs DK Shivakumar After Congress Loses Karnataka Legislative Council Polls",
     "Delhi SIR : Why Deleted Voters Asked To File Form 6 When They Were On 2026 Rolls? Supreme Court Asks ECI",
-    "SP won where it shouldn't have: Keshav Maurya after BJP loses Varanasi MLC seat",
-    "Cancer Drug Prices Slashed: New Rates For 543 Drug Brands From November 9",
-    "Cockroach Janta Party backs INDIA bloc’s November 1 rally",
-    "Rajnath raises U.S. F-16 package for Pakistan, cross-border terrorism with Hegseth",
-    "Flavio Bolsonaro lands in Miami after leaving Brazil following election defeat to Lula",
-    "Iran sees only unacceptable ideas in latest mediation to end war, official says",
-    "'Battle scars': Massive stitches on Captain Smit Machchhar head draw attention as UAE honours hero Indian",
-    "Jio's m-cap tops Rs 13 lakh crore after stellar debut: List of India's 10 most valuable firms",
+    "UAE honours Captain Smit Machchhar for bravery during flydubai cockpit attack",
+    "BJP Ahead But Akhilesh Yadav's Party Gains Ground In UP MLC Elections",
+    "Where is Masood Azhar? Taliban contradicts Pakistan as India prepares to put Islamabad in the dock at FATF",
+    "Amid Congress anxiety, minister Satish Jarkiholi backs SIR exercise in Karnataka",
+    "Indian media groups decry Modi’s privacy law in court, say newsrooms face shutdown risk",
+    "\"Within 96 Hours\": US Forces Ready To Renew Iran Strikes, Await Trump Nod",
+    "‘We Failed To...’: Why Serbia’s RTV Anchor Said Sorry On Air After Years Of Biased News Coverage",
+    "‘He’s gone’: Mike Waltz says Cuban diplomat to be expelled from US after heated UN confrontation",
+    "Iran says discussing plan with mediators to end war, reopen Hormuz",
+    "Fed holds rates steady as expected, though two policymakers prefer 25 bps hike",
+    "Jio shares surge 21% in market debut after blockbuster India IPO",
     "Indian equity benchmarks inch lower as oil climbs; Jio makes strong debut",
-    "India's TVS Motor to demerge finance business; beats quarterly profit view on strong demand",
-    "Adani Enterprises Q2 Results: Revenue spikes 75% YoY to Rs 37,216 crore, profit at Rs 1,492 crore",
-    "Apple announces its first touchscreen MacBook Pro",
-    "Apple’s iPhone Duo Fault Isn’t Terminal to Foldable Foray",
+    "Adani said to weigh deal for €3 billion energy storage firm VTTI",
     "Apple just dropped a new iPad mini with an 8.5-inch OLED display — how to buy",
-    "Apple Releases iOS 27.2 With Security Fixes for Web Attacks, Sandbox Escapes and Data Exposure",
-    "Udta Teer Box Office Collection Day 5: Less Than 3 Crore Away From Entering Ayushmann Khurrana's Top 5 Post-COVID Grossers",
-    "Katrina Kaif breaks silence on the scrutiny around her post-partum weight: 'People are aware of what a wo",
-    "Jailer 2 Box Office Collection Day 13: Rajinikanth Film Remains Steady On Second Monday, Mints Rs 408 Crore In India"
+    "CERT-In warns of high-risk vulnerabilities in Apple products",
+    "Apple introduces touchscreen MacBook Pro with PROLED XDR display",
+    "[OPINION] Ice Caves Could Remind Fans Why Minecraft Has ‘Mine’ in Its Name",
+    "Jailer 2 Box Office Collections: Rajinikanth starrer drops by 20 per cent on 1st Tuesday, marches towards Rs 475 crore mark",
+    "Sai Pallavi Celebrates Indian Elegance In A Pink Saree At Ramayana Premiere In Los Angeles",
+    "'I Should Have Taken Advantage Of My Privilege': Janhvi Kapoor On Peddi Objectification"
   ],
   "quiz": [
-    {
-      "blanked": "Indian equity benchmarks inch lower as oil climbs; ______ makes strong debut",
-      "answer": "Jio",
-      "options": [
-        "Jio",
-        "Box",
-        "Why",
-        "Brands"
-      ]
-    },
-    {
-      "blanked": "Cancer Drug Prices Slashed: New Rates For 543 Drug Brands From ______ 9",
-      "answer": "November",
-      "options": [
-        "Shahid",
-        "ECI",
-        "November",
-        "Kapoor"
-      ]
-    },
-    {
-      "blanked": "Apple announces its first touchscreen ______ Pro",
-      "answer": "MacBook",
-      "options": [
-        "MacBook",
-        "Grossers",
-        "Iran",
-        "Killed"
-      ]
-    },
-    {
-      "blanked": "Israel election results LIVE: Netanyahu alleges polls ‘stolen’ by Arab parties; Joint List denies claims | ______ Times",
-      "answer": "Hindustan",
-      "options": [
-        "Gulf",
-        "Hindustan",
-        "Midterms",
-        "Top"
-      ]
-    },
-    {
-      "blanked": "Delhi SIR : Why ______ Voters Asked To File Form 6 When They Were On 2026 Rolls? Supreme Court Asks ECI",
-      "answer": "Deleted",
-      "options": [
-        "Deleted",
-        "Voters",
-        "Foldable",
-        "People"
-      ]
-    },
-    {
-      "blanked": "Madrid Daily: Club apologizes over ______ comments as China broadcast dispute continues",
-      "answer": "Mbapp",
-      "options": [
-        "Mbapp",
-        "Entering",
-        "Kapil",
-        "Fed"
-      ]
-    },
-    {
-      "blanked": "Apple Releases iOS 27.2 With Security Fixes for Web Attacks, Sandbox Escapes and Data ______",
-      "answer": "Exposure",
-      "options": [
-        "Terminal",
-        "Exposure",
-        "Away",
-        "Planet"
-      ]
-    },
     {
       "blanked": "Could ______ affect the brain?",
       "answer": "PMOS",
       "options": [
-        "Among",
-        "Less",
         "PMOS",
-        "Congress"
+        "Within",
+        "Great",
+        "Ramayana"
       ]
     },
     {
-      "blanked": "Katrina ______ breaks silence on the scrutiny around her post-partum weight: 'People are aware of what a wo",
-      "answer": "Kaif",
+      "blanked": "[OPINION] ______ Caves Could Remind Fans Why Minecraft Has ‘Mine’ in Its Name",
+      "answer": "Ice",
       "options": [
-        "Brands",
-        "War",
-        "Foray",
-        "Kaif"
-      ]
-    },
-    {
-      "blanked": "Jailer 2 Box Office Collection Day 13: Rajinikanth Film Remains Steady On ______ Monday, Mints Rs 408 Crore In India",
-      "answer": "Second",
-      "options": [
-        "Court",
-        "Deleted",
-        "Second",
-        "Suggest"
-      ]
-    },
-    {
-      "blanked": "Apple just dropped a new iPad mini with an 8.5-inch ______ display — how to buy",
-      "answer": "OLED",
-      "options": [
-        "Arnab",
         "Voters",
-        "OLED",
-        "They"
+        "Ice",
+        "MacBook",
+        "Pallavis"
       ]
     },
     {
-      "blanked": "Apple’s iPhone Duo Fault ______ Terminal to Foldable Foray",
-      "answer": "Isnt",
+      "blanked": "Indian equity benchmarks inch lower as oil climbs; ______ makes strong debut",
+      "answer": "Jio",
       "options": [
-        "High-Speed",
-        "Isnt",
+        "Election",
+        "Pakistan",
+        "Council",
+        "Jio"
+      ]
+    },
+    {
+      "blanked": "UAE honours ______ Smit Machchhar for bravery during flydubai cockpit attack",
+      "answer": "Captain",
+      "options": [
+        "India",
+        "Pro",
+        "Captain",
+        "Vaccine"
+      ]
+    },
+    {
+      "blanked": "Where is Masood Azhar? Taliban contradicts Pakistan as ______ prepares to put Islamabad in the dock at FATF",
+      "answer": "India",
+      "options": [
+        "2027",
+        "Congress",
+        "When",
+        "India"
+      ]
+    },
+    {
+      "blanked": "'I Should Have ______ Advantage Of My Privilege': Janhvi Kapoor On Peddi Objectification",
+      "answer": "Taken",
+      "options": [
+        "LIVE",
+        "Normal",
+        "Renew",
+        "Taken"
+      ]
+    },
+    {
+      "blanked": "‘We Failed To...’: Why Serbia’s RTV Anchor Said Sorry On Air After ______ Of Biased News Coverage",
+      "answer": "Years",
+      "options": [
+        "Years",
+        "Internet",
+        "Bro",
+        "Should"
+      ]
+    },
+    {
+      "blanked": "‘Couldn’t use the washroom…’: Witness exposes ______ Vaccine injuries in bombshell testimony | WATCH",
+      "answer": "COVID",
+      "options": [
+        "COVID",
+        "ECI",
+        "USD",
+        "Coverage"
+      ]
+    },
+    {
+      "blanked": "Adani said to weigh deal for €3 billion energy storage firm ______",
+      "answer": "VTTI",
+      "options": [
+        "Masood",
         "Jadeja",
-        "Duo"
+        "Waltz",
+        "VTTI"
+      ]
+    },
+    {
+      "blanked": "Capturing Complete ______ Of Embryonic Development",
+      "answer": "Process",
+      "options": [
+        "Process",
+        "Privilege",
+        "Has",
+        "Air"
+      ]
+    },
+    {
+      "blanked": "'Queen Is Back': Internet Reacts To Sai ______ OM Chapter 1 Look Amid Ramayana Trolling",
+      "answer": "Pallavis",
+      "options": [
+        "VTTI",
+        "Pallavis",
+        "PMOS",
+        "Deleted"
+      ]
+    },
+    {
+      "blanked": "BJP Ahead But Akhilesh Yadav's ______ Gains Ground In UP MLC Elections",
+      "answer": "Party",
+      "options": [
+        "Tuesday",
+        "When",
+        "Party",
+        "21%"
       ]
     }
   ]
