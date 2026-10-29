@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-10-29T15:21:27.226Z",
+  "generatedAt": "2026-10-29T20:23:59.883Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "UP MLC Polls: BJP's Candidate Selection Under Lens, Samajwadi's Western Disturbance",
+    "No clear winner in Israel election with nearly 90 percent of votes counted",
+    "Arab parties pan ‘racist’ campaign as PM claims alleged foreign influence plot ‘stole’ election",
+    "Supreme Court's \"Virat Kohli\" Suggestion During Cracker-Pollution Hearing",
+    "Protest at India university where no students’ union vote held for 20 years",
     "Cyclone Arnab entered India, left, then entered again: What's behind the U-turn?",
-    "At least 13 people killed in Russian attack on Dnipro train station",
-    "Israel Election Results 2026 LIVE Updates: Netanyahu bloc holds 53 seats; 97% of vote counting over. Who will form government?",
-    "MLC Election Result 2026: BJP blames Shinde for loss; Raut returns ‘Big Fat Zero’ dig",
-    "‘I held this woman in my arms. She died’: Spain mourns train crash victims",
-    "'Vote chori' row: INDIA bloc to hold 'mock Parliament' to 'impeach' CEC Gyanesh Kumar; mega rally on Nov",
-    "Diljit Dosanjh Delhi Concert: Traffic Restrictions On October 30, Check Roads To Avoid",
-    "Post-Diwali Delhi Will Be Very Bad, Judges Cannot Stay Home To Escape Pollution: Justice Vikram Nath",
-    "Theni jailbreak puts spotlight on overcrowded Tamil Nadu prisons",
-    "Israel election 2026: Benjamin Netanyahu is down but not out",
+    "‘BJP won’t have guts to try antics’: Rahul Gandhi’s Ramlila Maidan stir war cry",
+    "'People's Impeachment', Not Mock Parliament: Opposition Tweaks Protest Plan",
+    "PNB Greater Noida branch customers allege ₹12 crore fraud, all employees suspended | Hindustan Times",
+    "'Educated voters don't turn up in assembly polls': UP minister OP Rajbhar plays down MLC results",
+    "TVK leader Christopher arrested for sexually harassing college student after offering lift",
     "Decoys, Italian Passport And A Private Jet: How Brazil's Bolsonaro Fled To US",
-    "DoorDash to Buy Rival Instacart in $17 Billion Deal",
-    "U.S. warns allies to prepare for possible Iran strikes, retaliation after elections, say sources",
+    "At least 14 people killed in Russian attack on Dnipro train station",
+    "Serbia's victorious students call for key state officials to resign, graft probes",
+    "Russia to extend diesel export ban, use quotas to fulfil US deal, sources say",
+    "Rahul Gandhi backs IDBI Bank staff, questions Fairfax privatisation",
     "Why markets rallied: Sensex jumps over 900 points, Nifty gains 1 per cent; 5 key reasons",
-    "Fed holds rates steady as expected, though two policymakers prefer 25 bps hike",
-    "Nasdaq slides over 1% as Alphabet results revive AI spending fears",
-    "Gold prices remain flat after Fed holds interest rates steady; investors await US inflation data",
-    "Apple shows pricey touchscreen laptops, a first for the iPhone maker",
-    "Trump Phone passes the bend test, fails the originality test",
-    "Microsoft releases optional Windows 11 KB5127936 update with customizable right-click menu and dark mode support.",
-    "[OPINION] Ice Caves Could Remind Fans Why Minecraft Has ‘Mine’ in Its Name",
-    "Supreme Court Rejects Actor's Plea Seeking Recognition Of Relationship With Rajesh Khanna As Marriage",
-    "Faces Of Ramayana: Meet The Epic's Characters And The Actors Bringing Them To Life",
-    "Kaun Banega Crorepati 18: Ranbir Kapoor recalls proposing to wife Alia Bhatt in Masai Mara amid lions; sa"
+    "IndiGo CEO says airline has ‘no choice’ but to raise fares as fuel bill jumps 67% | India News",
+    "Alphabet, Microsoft earnings in focus; Warsh on AI, rates - what’s moving markets",
+    "apple breaks a 16-year design rule with its first touchscreen macbook pro",
+    "Today’s NYT Strands Hints, Spangram and Answers for Friday, Oct. 30, #971",
+    "Apple reportedly lowered its iPhone Duo QA standards to get more units out in time - GSMArena.com news",
+    "Ageing muscles lose strength to protect cells, study reveals",
+    "Archana Puran Singh's son Ayushmaan Sethi gets engaged to Samiksha Shetty; shares dreamy cliff proposal P",
+    "Janhvi Kapoor Gets Candid About Boyfriend Shikhar Pahariya, Says Wedding Is Still \"Two, Three Years\" Away",
+    "Udta Teer Day 6 Box Office Collections: Ayushmann Khurrana's spy comedy dips by 15 per cent on Wednesday, collects Rs 27.50 crore in 6 days"
   ],
   "quiz": [
     {
-      "blanked": "Theni jailbreak puts spotlight on overcrowded Tamil ______ prisons",
-      "answer": "Nadu",
+      "blanked": "Rahul Gandhi backs IDBI ______ staff, questions Fairfax privatisation",
+      "answer": "Bank",
       "options": [
-        "Disturbance",
-        "Debate",
+        "Dnipro",
+        "Recognition",
+        "Protecting",
+        "Bank"
+      ]
+    },
+    {
+      "blanked": "Cyclone ______ entered India, left, then entered again: What's behind the U-turn?",
+      "answer": "Arnab",
+      "options": [
+        "Pakistan",
+        "Puran",
+        "Arnab",
+        "Greater"
+      ]
+    },
+    {
+      "blanked": "Alphabet, ______ earnings in focus; Warsh on AI, rates - what’s moving markets",
+      "answer": "Microsoft",
+      "options": [
+        "Plea",
+        "Microsoft",
+        "Seeking",
+        "Pakistan"
+      ]
+    },
+    {
+      "blanked": "Today’s ______ Strands Hints, Spangram and Answers for Friday, Oct. 30, #971",
+      "answer": "NYT",
+      "options": [
+        "Solar",
+        "Bank",
+        "NYT",
+        "Greater"
+      ]
+    },
+    {
+      "blanked": "Udta Teer Day 6 Box ______ Collections: Ayushmann Khurrana's spy comedy dips by 15 per cent on Wednesday, collects Rs 27.50 crore in 6 days",
+      "answer": "Office",
+      "options": [
+        "Ducketts",
+        "Three",
+        "Office",
+        "Seeking"
+      ]
+    },
+    {
+      "blanked": "'Educated voters don't turn up in assembly polls': UP minister OP ______ plays down MLC results",
+      "answer": "Rajbhar",
+      "options": [
+        "Rajbhar",
+        "Process",
+        "Collections",
+        "Dnipro"
+      ]
+    },
+    {
+      "blanked": "Capturing Complete ______ Of Embryonic Development",
+      "answer": "Process",
+      "options": [
+        "Christopher",
+        "Rajesh",
+        "Process",
+        "Russian"
+      ]
+    },
+    {
+      "blanked": "PNB Greater ______ branch customers allege ₹12 crore fraud, all employees suspended | Hindustan Times",
+      "answer": "Noida",
+      "options": [
+        "Noida",
+        "Linked",
         "Italian",
-        "Nadu"
+        "Ducketts"
       ]
     },
     {
-      "blanked": "Later Salivary Melatonin Onset Linked to Disease ______ in ALS",
-      "answer": "Progression",
+      "blanked": "Later Salivary Melatonin Onset Linked to ______ Progression in ALS",
+      "answer": "Disease",
       "options": [
-        "Progression",
-        "Judges",
-        "SENIOR",
-        "Bhatt"
+        "News",
+        "Cracker-Pollution",
+        "Disease",
+        "Sensex"
       ]
     },
     {
-      "blanked": "Barcelona loan watch: Ronald Araujo delivers yet another standout display in ______ win",
-      "answer": "Chelsea",
+      "blanked": "Stats - Duckett's records, England's first win in ______ since 2005",
+      "answer": "Pakistan",
       "options": [
-        "Iran",
-        "Chelsea",
-        "Characters",
-        "Ice"
+        "Relationship",
+        "Gandhis",
+        "Pakistan",
+        "Rejects"
       ]
     },
     {
-      "blanked": "MLC Election Result 2026: BJP blames Shinde for loss; Raut returns ‘Big ______ Zero’ dig",
-      "answer": "Fat",
+      "blanked": "Apple reportedly lowered its iPhone ______ QA standards to get more units out in time - GSMArena.com news",
+      "answer": "Duo",
       "options": [
-        "Fat",
-        "Judges",
-        "Restrictions",
-        "Shinde"
+        "Duo",
+        "Courts",
+        "Pahariya",
+        "Dnipro"
       ]
     },
     {
-      "blanked": "Supreme Court Rejects Actor's Plea Seeking Recognition Of Relationship With Rajesh ______ As Marriage",
-      "answer": "Khanna",
+      "blanked": "Lalitha Hospitals in Guntur hosts World ______ Day",
+      "answer": "Stroke",
       "options": [
-        "Marriage",
-        "Vikram",
-        "Khanna",
-        "Recognition"
-      ]
-    },
-    {
-      "blanked": "Post-Diwali Delhi Will Be Very Bad, Judges Cannot ______ Home To Escape Pollution: Justice Vikram Nath",
-      "answer": "Stay",
-      "options": [
-        "Avoid",
-        "Stay",
-        "She",
-        "Deal"
-      ]
-    },
-    {
-      "blanked": "'Vote chori' row: INDIA bloc to hold 'mock ______ to 'impeach' CEC Gyanesh Kumar; mega rally on Nov",
-      "answer": "Parliament",
-      "options": [
-        "Parliament",
-        "WPL",
-        "Brazils",
-        "2027"
-      ]
-    },
-    {
-      "blanked": "How the WPL ______ squads stack up after the player auction",
-      "answer": "2027",
-      "options": [
-        "Restrictions",
-        "Them",
-        "2027",
-        "Who"
-      ]
-    },
-    {
-      "blanked": "Israel Election ______ 2026 LIVE Updates: Netanyahu bloc holds 53 seats; 97% of vote counting over. Who will form government?",
-      "answer": "Results",
-      "options": [
-        "Nifty",
-        "Bengal",
-        "Results",
-        "Check"
-      ]
-    },
-    {
-      "blanked": "Ranji Highlights: 8-fers for Kotian, Bhut; Bengal thrash ______",
-      "answer": "Kerala",
-      "options": [
-        "Could",
-        "How",
-        "Parliament",
-        "Kerala"
-      ]
-    },
-    {
-      "blanked": "Trump ______ passes the bend test, fails the originality test",
-      "answer": "Phone",
-      "options": [
-        "Big",
-        "Ronald",
-        "Phone",
-        "Nifty"
-      ]
-    },
-    {
-      "blanked": "India ______ Towards Protecting Its Space Satellites From Solar Storms",
-      "answer": "Moves",
-      "options": [
-        "Caves",
-        "Biomass",
-        "Marriage",
-        "Moves"
+        "Plea",
+        "Stroke",
+        "During",
+        "Progression"
       ]
     }
   ]
