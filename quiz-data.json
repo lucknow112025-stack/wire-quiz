@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-10-30T05:42:13.416Z",
+  "generatedAt": "2026-10-30T11:38:47.487Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
+    "Uttarakhand's Joshimath: Rescue operations on after Indian helicopter crashes in Himalayan state",
+    "INDIA bloc's 'public impeachment' of CEC Gyanesh Kumar at 4 pm",
+    "Madras High Court Issues Notice On Plea To Probe CJP Spokesperson Saurav Das' Background, Block Social...",
     "Israel election result shows no overall majority as vote count complete",
-    "‘BJP won’t have guts to try antics’: Rahul Gandhi’s Ramlila Maidan stir war cry",
     "Cyclone Arnab: Low pressure forms in Andaman Sea after cyclone, may affect Andhra Pradesh",
-    "Likud claims election ‘stolen’ by Arab parties following their record performance",
-    "Top US commander briefs Trump on Iran military options as 10 US military transport planes land in Israel",
     "Stock Market Today: All You Need To Know Going Into Trade On Oct 30",
-    "Maharashtra MLC polls: Lessons for the BJP, hope for Maha Vikas Aghadi | Explained",
+    "'Modi nahi jayenge' slogan raised at PM's Gujarat event; Congress retorts, 'you wish!'",
     "Glacial Lake Outburst In Bhutan Sends Flash Floods Warning To Bengal, Assam",
-    "Inside the PNB fraud in Greater Noida: How Rs 35 crore ‘vanished’ from savings accounts and fixed deposits",
-    "Parts of Delhi under IMD red alert for rain, cloudy skies may delay moon sighting on Karwa Chauth | India News",
-    "\"Put Yourself In Shape\": Trump Body-Shames Reporter Over Health Question",
-    "India votes in favour of UNGA resolution calling for end to US embargo on Cuba",
-    "Trump cancels Iowa, Kansas midterm events, opts for ‘tele-rallies’",
-    "Former Bangladesh air force officer linked to Hasina escape video found dead",
+    "Anant Singh ordered to surrender by Dec 1 in Dularchand Yadav murder case, SC gives Bihar Police four months to finish probe | India News",
+    "Supreme Court Refers Reliance-Government Dispute Over KG Basin Gas Extraction To Mediation By Justice RP...",
+    "'Nvidia chief seen as target of China spy plot'",
+    "Fragile Ukraine Truce Faces Critical Test Amid Fears of Forced Deportations",
+    "Israel’s Jewish and Arab opposition parties should work together",
+    "Bangladesh ex-Air Force officer linked to Sheikh Hasina’s escape video found dead",
+    "Indian retail investors tap $234 million in margin funding to trade Jio Platforms on debut day",
     "Binance says $6.3bn stolen in biggest crypto heist in history",
-    "Rahul Gandhi backs IDBI Bank staff, questions Fairfax privatisation",
-    "Suzlon Energy Q2 FY27 results: Net profit drops 69% YoY; order book exceeds 6 GW",
-    "Coal India dividend 2026 declared - Check amount; PSU quarterly profit up 57% - When is record date?",
-    "apple breaks a 16-year design rule with its first touchscreen macbook pro",
+    "AU Small Finance Bank: ScarlettGroup claims data breach; bank says systems unaffected",
+    "Q2 Results Live: Indian Oil Swings To Profit, Dixon Tech Profit Slips 49%, RIL Falls Ahead Of Earnings",
     "Today’s NYT Strands Hints, Spangram and Answers for Friday, Oct. 30, #971",
     "Google Patches 52 Chrome Vulnerabilities, Including 4 Critical, as AI-Assisted Reports Proliferate",
-    "Japanese researchers discover protein that may shed light on fertility decline",
+    "apple breaks a 16-year design rule with its first touchscreen macbook pro",
+    "Giant eagles once ruled the skies. They snatched human children, and shaped our evolution",
     "Patrick Stewart, Star Trek And X-Men Star, Dies At 86 Following Brief Alzheimer's Battle",
-    "Priyanka Chopra Shares Rare Photos of Daughter Malti, 4, With the Cutest Ballerina Bun",
-    "Aadarsha Kutumbam Movie Review"
+    "Aadarsha Kutumbam Movie Review: Venky and Trivikram Deliver a Breezy Family Entertainer",
+    "Priyanka Chopra Shares Rare Photos of Daughter Malti, 4, With the Cutest Ballerina Bun"
   ],
   "quiz": [
+    {
+      "blanked": "'Nvidia chief seen as target of ______ spy plot'",
+      "answer": "China",
+      "options": [
+        "Family",
+        "University",
+        "China",
+        "Plea"
+      ]
+    },
     {
       "blanked": "Stock Market Today: All You ______ To Know Going Into Trade On Oct 30",
       "answer": "Need",
       "options": [
-        "Proliferate",
-        "Need",
-        "Movie",
-        "Strands"
-      ]
-    },
-    {
-      "blanked": "Former ______ air force officer linked to Hasina escape video found dead",
-      "answer": "Bangladesh",
-      "options": [
-        "Maidan",
-        "Migraine",
-        "Bangladesh",
-        "Report"
-      ]
-    },
-    {
-      "blanked": "Childhood Migraine and the ______ of Lifestyle Influences",
-      "answer": "Challenge",
-      "options": [
-        "Vikas",
-        "Challenge",
-        "Dilip",
-        "News-Letter"
-      ]
-    },
-    {
-      "blanked": "India votes in favour of ______ resolution calling for end to US embargo on Cuba",
-      "answer": "UNGA",
-      "options": [
-        "Cuba",
-        "UNGA",
-        "Alzheimers",
-        "Factor"
-      ]
-    },
-    {
-      "blanked": "Coal India dividend 2026 declared - ______ amount; PSU quarterly profit up 57% - When is record date?",
-      "answer": "Check",
-      "options": [
-        "Outburst",
-        "Check",
-        "Breast",
-        "Hints"
-      ]
-    },
-    {
-      "blanked": "Maharashtra MLC polls: Lessons for the BJP, hope for Maha ______ Aghadi | Explained",
-      "answer": "Vikas",
-      "options": [
-        "X-Men",
-        "Maha",
-        "Cancer",
-        "Vikas"
-      ]
-    },
-    {
-      "blanked": "Parts of Delhi under IMD red alert for rain, cloudy skies may delay moon sighting on Karwa Chauth | India ______",
-      "answer": "News",
-      "options": [
-        "Cutest",
-        "News",
-        "See",
-        "Iowa"
-      ]
-    },
-    {
-      "blanked": "MGM Healthcare held walkathon to mark World ______ Day",
-      "answer": "Stroke",
-      "options": [
-        "Iowa",
-        "Stroke",
-        "Asian",
-        "News"
+        "Spokesperson",
+        "Singh",
+        "NYT",
+        "Need"
       ]
     },
     {
       "blanked": "Glacial Lake Outburst In Bhutan Sends ______ Floods Warning To Bengal, Assam",
       "answer": "Flash",
       "options": [
-        "Hopkins",
-        "Sunita",
-        "Gandhi",
-        "Flash"
+        "Block",
+        "Lake",
+        "Flash",
+        "2027"
       ]
     },
     {
-      "blanked": "Likud claims election ‘stolen’ by ______ parties following their record performance",
-      "answer": "Arab",
+      "blanked": "Bangladesh ex-Air Force officer linked to Sheikh ______ escape video found dead",
+      "answer": "Hasinas",
       "options": [
-        "Bank",
-        "Dilip",
-        "Lifestyle",
-        "Arab"
+        "Spot",
+        "Hasinas",
+        "Movie",
+        "Earnings"
       ]
     },
     {
-      "blanked": "Today’s NYT Strands Hints, Spangram and ______ for Friday, Oct. 30, #971",
-      "answer": "Answers",
+      "blanked": "Patrick Stewart, Star Trek And X-Men Star, ______ At 86 Following Brief Alzheimer's Battle",
+      "answer": "Dies",
       "options": [
-        "Karwa",
+        "Basin",
+        "News",
+        "Kishan",
+        "Dies"
+      ]
+    },
+    {
+      "blanked": "Send your name to space through ______ Dragonfly mission: People who sign up will receive personalised digi...",
+      "answer": "NASAs",
+      "options": [
+        "Bengal",
+        "NASAs",
+        "Deliver",
+        "Proliferate"
+      ]
+    },
+    {
+      "blanked": "'Mirzapur: The ______ OTT release: Here’s when and where to watch Pankaj Tripathi, Ali Fazal starrer onli",
+      "answer": "Movie",
+      "options": [
+        "Movie",
+        "Police",
+        "Galaxy",
+        "Arnab"
+      ]
+    },
+    {
+      "blanked": "Rohit Sharma likely to take over as ______ Indians captain for IPL 2027",
+      "answer": "Mumbai",
+      "options": [
+        "Floods",
+        "Reports",
+        "Mumbai",
+        "Pradesh"
+      ]
+    },
+    {
+      "blanked": "Today’s NYT ______ Hints, Spangram and Answers for Friday, Oct. 30, #971",
+      "answer": "Strands",
+      "options": [
+        "Indians",
+        "Strands",
+        "Dispute",
+        "Whose"
+      ]
+    },
+    {
+      "blanked": "MGM Healthcare held walkathon to mark World ______ Day",
+      "answer": "Stroke",
+      "options": [
+        "Gas",
+        "Vulnerabilities",
+        "Stroke",
+        "Outburst"
+      ]
+    },
+    {
+      "blanked": "Cyclone Arnab: Low pressure forms in Andaman Sea after cyclone, may affect ______ Pradesh",
+      "answer": "Andhra",
+      "options": [
         "Alzheimers",
-        "Noida",
-        "Answers"
+        "Bihar",
+        "Andhra",
+        "Issues"
       ]
     },
     {
-      "blanked": "\"Put Yourself In ______ Trump Body-Shames Reporter Over Health Question",
-      "answer": "Shape",
+      "blanked": "Maximum ______ topics explained by a child",
+      "answer": "Chemistry",
       "options": [
-        "Factor",
-        "AI-Assisted",
-        "Shape",
-        "Movie"
+        "Into",
+        "Movie",
+        "Mediation",
+        "Chemistry"
       ]
     }
   ]
