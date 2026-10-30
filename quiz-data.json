@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-10-30T17:10:47.465Z",
+  "generatedAt": "2026-10-30T21:29:02.209Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
+    "NVS-03 launched successfully; satellite placed in intended orbit | LIVE",
     "Uttarakhand's Joshimath: Six dead after helicopter crashes in northern Indian state",
+    "Opposition trying to foment anarchy amid global crisis, says PM Modi",
     "Netanyahu has 53 seats, Eisenkot 48, and Arab parties hold the key: 5 scenarios that could decide who...",
     "Ukraine pauses strikes on Russian refineries after pressure from Trump, WSJ reports",
-    "US weighs new Iran strikes as Vance reaches out: Is war or a deal closer?",
     "Cyclone Arnab: Low pressure forms in Andaman Sea after cyclone, may affect Andhra Pradesh",
-    "$6 billion Binance hack sends bitcoin, ether tumbling; Standard Chartered expects more pain",
-    "'Modi nahi jayenge' slogan raised at PM's Gujarat event; Congress retorts, 'you wish!'",
     "Census 2027: door-to-door enumeration to start on January 25",
-    "Video: Rafale Marine makes debut landing on INS Vikrant, moves closer to Navy service",
-    "Day after SC nudge, Delhi’s deadline for voter registration forms extended; reopened for Maharashtra",
-    "Rubio urges G20 cooperation amid rifts over wars in Ukraine, Middle East",
-    "Canadian CEO's Family Fights Off Home Invaders, 3 Shot, Wife Hit With Hammer",
-    "Pope Leo XIV Has Requested Mail-In Ballot For U.S. Midterms",
+    "Delhi Air Quality Drops To 78 After Record Rain Brings Winter Chill",
+    "UP SIR : Bulk Forms 7 Filed Were Fake, Not Acted Upon, Says ECI; Supreme Court Directs Corrective Steps",
+    "Ready for special session on ‘vote chori’, but Rahul Gandhi will never agree: Amit Shah | India News",
+    "Binance says $6.3bn stolen in biggest crypto heist in history: What we know",
+    "Russia ‘forces’ closure of investigative newspaper Novaya Gazeta",
     "Tanker in Strait of Hormuz hit by limpet mines, security sources say",
+    "'Global South bears burden': At G20 meet, Jaishankar flags attacks on ships & Indian seafarers in Hormuz",
     "Q2 Results Today Highlights: GAIL, IOC, Sun Pharma, Aditya Birla, BOB, Aether, Smartworks Q2 PAT rise, Zee Entertainment con. PAT declines, Dixon's profit fall, Reliance, Jio Platforms, BEL, GE Vernova, Lodha, Delhivery, NTPC Green to announce Q2 result",
+    "Nasdaq futures crash up to 2.5% as tech stock selloff deepens; Nvidia, AMD fall up to 7%",
     "Stock Market Highlights, Sensex Today: Sensex Closes 308 Points Higher Despite Negative Global Cues",
-    "Noel Tata, N Chandrasekaran hold secret meeting to resolve differences; talks end inconclusively: Report",
     "Ambani's Jio posts about 14% profit rise in first earnings since blockbuster debut",
-    "‘Algorithms make everything predictable’: why the CD is making a comeback",
-    "Today’s NYT Strands answers, clues, and hints on October 30 (puzzle #971)",
+    "Today’s NYT Strands Hints, Spangram and Answers for Saturday, Oct. 31, #972",
     "A New Apple MacBook Pro Costs Rs 18.78 Lakh! You Could Buy These 16 SUVs Instead!",
-    "Cursor says up to 5,000 users affected by tampered Claude Code extension",
-    "Jailer 2 Box Office Collection Day 15: No Signs Of Slowing Down For Rajinikanth's Film",
-    "Sanjay Leela Bhansali's production house trolled for sharing Salman Khan, Aishwarya Rai's picture on Karw",
-    "Ramayana Part One has Excellent Advance Sales Overseas: Ranbir Kapoor, Yash starrer poised for USD 20M+ opening weekend"
+    "Motorola Signature 27 and Razr Flex 27 Prices Appear in European Retail Listing",
+    "OnePlus Ace 7 and Ace 7 Pro Launch With Massive 9,000mAh Batteries",
+    "Jailer 2 Box Office Collection Day 15 Live Updates: Rajinikanth film eyes Rs 800 crore mark worldwide",
+    "Ramayana Part One has Excellent Advance Sales Overseas: Ranbir Kapoor, Yash starrer poised for USD 20M+ opening weekend",
+    "Ajay Devgn moves Bombay High Court against Maharashtra FDA notice over Vimal Elaichi ad"
   ],
   "quiz": [
     {
-      "blanked": "Single-Shot Tuberculosis Prevention, Shorter ______ Regimens: WHO Sets Global Targets",
-      "answer": "Treatment",
+      "blanked": "Stock Market Highlights, Sensex Today: Sensex ______ 308 Points Higher Despite Negative Global Cues",
+      "answer": "Closes",
       "options": [
-        "Dramatic",
-        "Khan",
-        "Ballot",
-        "Treatment"
+        "NASAs",
+        "972",
+        "Closes",
+        "Cues"
       ]
     },
     {
-      "blanked": "Ancient Martian meteorite found in ______ shows evidence of water | Tap to know more | Inshorts",
-      "answer": "Sahara",
+      "blanked": "Russia ‘forces’ closure of investigative newspaper ______ Gazeta",
+      "answer": "Novaya",
       "options": [
-        "Iran",
+        "BEL",
         "Overseas",
-        "Sahara",
-        "Low"
+        "Novaya",
+        "14%"
       ]
     },
     {
-      "blanked": "MGM Healthcare held walkathon to mark World Stroke ______",
-      "answer": "Day",
+      "blanked": "Ajay Devgn moves Bombay ______ Court against Maharashtra FDA notice over Vimal Elaichi ad",
+      "answer": "High",
       "options": [
-        "Costs",
-        "Hit",
+        "Winter",
         "Day",
-        "First-Ever"
+        "Smartworks",
+        "High"
       ]
     },
     {
-      "blanked": "Uttarakhand's Joshimath: ______ dead after helicopter crashes in northern Indian state",
-      "answer": "Six",
+      "blanked": "Netanyahu has 53 seats, ______ 48, and Arab parties hold the key: 5 scenarios that could decide who...",
+      "answer": "Eisenkot",
       "options": [
-        "5000",
-        "Lodha",
-        "October",
-        "Six"
+        "Win",
+        "Listing",
+        "Muscle",
+        "Eisenkot"
       ]
     },
     {
-      "blanked": "Day after SC nudge, ______ deadline for voter registration forms extended; reopened for Maharashtra",
-      "answer": "Delhis",
+      "blanked": "'I Had A Muscle Tear While Dancing': Shraddha Kapoor On Playing A Lavani Dancer In ______",
+      "answer": "Eetha",
       "options": [
-        "Healthcare",
-        "Sahara",
-        "Delhis",
-        "Hormuz"
+        "NYT",
+        "Eetha",
+        "Low",
+        "Andaman"
       ]
     },
     {
-      "blanked": "Nicorandil Improves ______ Capacity in Heart Failure",
-      "answer": "Exercise",
+      "blanked": "Send your name to space through ______ Dragonfly mission: People who sign up will receive personalised digi...",
+      "answer": "NASAs",
       "options": [
-        "Down",
-        "Costs",
-        "Exercise",
-        "Womens"
+        "Rajinikanth",
+        "2.5%",
+        "Flex",
+        "NASAs"
       ]
     },
     {
-      "blanked": "Ukraine pauses strikes on ______ refineries after pressure from Trump, WSJ reports",
-      "answer": "Russian",
+      "blanked": "Motorola Signature 27 and Razr Flex 27 Prices Appear in ______ Retail Listing",
+      "answer": "European",
       "options": [
-        "First-Ever",
-        "Chartered",
-        "Russian",
-        "Sales"
+        "IOC",
+        "European",
+        "Herself",
+        "They"
       ]
     },
     {
-      "blanked": "$6 billion Binance hack sends bitcoin, ether tumbling; Standard ______ expects more pain",
-      "answer": "Chartered",
+      "blanked": "Delhi Air Quality Drops To 78 After Record Rain Brings ______ Chill",
+      "answer": "Winter",
       "options": [
-        "Collection",
-        "Chartered",
-        "SUVs",
-        "Family"
+        "Winter",
+        "Batteries",
+        "Bulk",
+        "Herself"
       ]
     },
     {
-      "blanked": "US weighs new ______ strikes as Vance reaches out: Is war or a deal closer?",
-      "answer": "Iran",
+      "blanked": "Ambani's ______ posts about 14% profit rise in first earnings since blockbuster debut",
+      "answer": "Jio",
       "options": [
-        "Exercise",
-        "Report",
-        "First-Ever",
-        "Iran"
+        "Muscle",
+        "Capacity",
+        "Maharashtra",
+        "Jio"
       ]
     },
     {
-      "blanked": "Cursor says up to 5,000 users affected by tampered Claude ______ extension",
-      "answer": "Code",
+      "blanked": "Binance says $6.3bn stolen in biggest crypto heist in history: ______ we know",
+      "answer": "What",
       "options": [
-        "BOB",
-        "Code",
-        "Series",
-        "Review"
+        "Massive",
+        "2026",
+        "Office",
+        "What"
       ]
     },
     {
-      "blanked": "Cyclone Arnab: Low pressure forms in Andaman Sea after cyclone, may affect ______ Pradesh",
-      "answer": "Andhra",
+      "blanked": "NVS-03 launched successfully; satellite placed in intended orbit | ______",
+      "answer": "LIVE",
       "options": [
-        "Trophy",
-        "Entertainment",
-        "Andhra",
-        "Down"
+        "LIVE",
+        "Dragonfly",
+        "Treatment",
+        "Air"
       ]
     },
     {
-      "blanked": "A New Apple MacBook Pro Costs Rs 18.78 Lakh! You ______ Buy These 16 SUVs Instead!",
-      "answer": "Could",
+      "blanked": "Why ______ wait for symptoms before taking healthcare seriously",
+      "answer": "Indians",
       "options": [
-        "Despite",
-        "Could",
-        "Signs",
-        "WHO"
+        "Launch",
+        "Dancer",
+        "Ever",
+        "Indians"
       ]
     }
   ]
