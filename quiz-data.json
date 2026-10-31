@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-10-31T06:43:41.847Z",
+  "generatedAt": "2026-10-31T13:06:10.510Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "U.S. scraps G20 family photo after Europeans object to being pictured with Russia's Lavrov",
-    "Amit Shah's 'Special' Offer To INDIA Bloc Before Gyanesh Kumar's 'Public Impeachment'",
-    "Traffic curbs in Delhi for INDIA bloc rally at Ramlila Maidan on November 1 | LIVE",
-    "The great escape from Tamil Nadu's Theni jail",
-    "German, Slovak nationals die in 5-star Bengaluru hotel pool; US guest, pool attendant injured while tryin",
-    "NVS-03 launched successfully; satellite placed in intended orbit | Highlights",
+    "Kharge moves six charges against CEC Gyanesh Kumar, says 'no personal enmity', BJP accuses Congress of mocking Parliament | LIVE",
+    "J&K CM Omar Abdullah and journalist Nidhi Razdan get married",
+    "AAP Names Candidates For 40 Seats In 2027 Punjab Assembly Polls: Full List",
+    "Iran's Supreme leader calls for 'geographically unrestricted' response to enemy threats",
+    "Teacher Present, Man With Chainsaw Enters Andhra Classroom, Attacks 2 Girls",
+    "Israel elections: Anti-Netanyahu bloc weighs direct PM election bill to break political deadlock",
     "'You're damaging his image': Congress counters Amit Shah's 'sideline Patel' charge",
-    "Woman Secretly Returns To Pune From UK. How Food Delivery Led To Her Body",
-    "UP SIR : Bulk Forms 7 Filed Were Fake, Not Acted Upon, Says ECI; Supreme Court Directs Corrective Steps",
-    "17 NC MLAs issue 15-day ultimatum to address ‘coterie culture’, other issues in party",
-    "Brazil summons Argentinian diplomat over Bolsonaro’s flight to US",
-    "Pope Leo becomes first pontiff to vote in US general election",
+    "Two Foreigners Die Of Electrocution At Bengaluru 5-Star Hotel Swimming Pool",
+    "Uttarakhand's Joshimath: Six dead after helicopter crashes in northern Indian state",
+    "Class 3 student attacks six-year-old girl with stones, flowerpot at Haryana school",
     "In Poland, Judge Suspends Her Court's President. Protests, Coup Claim Follow",
-    "Saudi Arabia reports interception of Houthi drone targeting Mecca",
+    "U.S. scraps G20 family photo after Europeans object to being pictured with Russia's Lavrov",
+    "Trump May Order Major Iran Operation If Republicans Lose Big In Midterms: Report",
+    "Survivors of Spain’s worst train crashes urge action after latest disaster",
+    "IGL Q2 profit plunges 93% as higher gas costs erode margins despite record sales",
     "Elon Musk, CZ Trade Blows Over SpaceX Shares After $6.4B Binance Hack",
+    "India to meet liquor firms as domestic giants join foreign peers in Scotch dispute",
     "Tech Stocks Sell-Off Drags Wall Street Toward Its Worst Day Since June",
-    "Rahul Gandhi vs Nirmala Sitharaman round 2, this time over IDBI Bank stake sale",
-    "Government sets up high-level committee, roadmap to make banks globally competitive a key task",
-    "Take the guesswork out of hitting your marathon goal",
     "Today’s NYT Strands Hints, Spangram and Answers for Saturday, Oct. 31, #972",
-    "A New Apple MacBook Pro Costs Rs 18.78 Lakh! You Could Buy These 16 SUVs Instead!",
-    "Apple Stores reportedly got a memo about iPhone Duo screen cracks.",
-    "Filmmaker Sanjay Gupta passes away at 57; Kamaal R Khan mourns the 'Kaante' director's demise, says, 'You",
-    "Diljit Dosanjh's 'Punjabian Nu...' Jab, Abhijeet Dipke's 'Mitti Paao' Response",
-    "Jailer 2 Box Office Collection Day 15 Highlights"
+    "Oppo Find X10 Review: 25-Hour Battery, €1,699 [2026] - https://tech-insider.org/",
+    "NVIDIA Rolls Out 4-Month GeForce NOW Plans In India, Nine Games Added To Library",
+    "Action Cameras Under Rs. 20,000 For Bike Rides, Treks And Beach Trips",
+    "Director Sanjay Gupta, Known For Kaante And Zinda, Dies At 59 After Suffering A Fall",
+    "‘Mitti pao’: CJP’s Abhijeet Dipke apologises to Diljit Dosanjh after concert dig",
+    "Patrick Stewart dies at 86: A look at his three marriages, wife Sunny Ozell, two children and four grandc"
   ],
   "quiz": [
     {
-      "blanked": "Apple Stores reportedly got a memo about iPhone ______ screen cracks.",
-      "answer": "Duo",
+      "blanked": "Iran's ______ leader calls for 'geographically unrestricted' response to enemy threats",
+      "answer": "Supreme",
       "options": [
-        "Duo",
-        "Upon",
-        "Gupta",
-        "Box"
-      ]
-    },
-    {
-      "blanked": "Rahul ______ vs Nirmala Sitharaman round 2, this time over IDBI Bank stake sale",
-      "answer": "Gandhi",
-      "options": [
-        "Gandhi",
-        "Ever",
-        "Bank",
-        "Judge"
-      ]
-    },
-    {
-      "blanked": "Diljit Dosanjh Aura ______ Highlights: Drones, lasers light up Delhi show amid rain",
-      "answer": "Concert",
-      "options": [
-        "Claim",
-        "Concert",
-        "Steps",
-        "NYT"
-      ]
-    },
-    {
-      "blanked": "Nasa astronauts ______ Menon and Joshua Kutryk install the seventh solar array on the ISS during the 100th",
-      "answer": "Anil",
-      "options": [
-        "Acted",
-        "Anil",
-        "Patel",
-        "Impeachment"
-      ]
-    },
-    {
-      "blanked": "Cholesterol-Biomimetic Fluorescent Probe for Imaging Nonalcoholic Fatty Liver ______",
-      "answer": "Disease",
-      "options": [
-        "Leo",
-        "Disease",
-        "IDBI",
-        "Tuberculosis"
-      ]
-    },
-    {
-      "blanked": "Jailer 2 Box Office Collection Day 15 ______",
-      "answer": "Highlights",
-      "options": [
-        "Gandhi",
-        "Worst",
-        "Body",
-        "Highlights"
-      ]
-    },
-    {
-      "blanked": "Manisha Becomes India's First-Ever Women's World ______",
-      "answer": "Champion",
-      "options": [
-        "Champion",
-        "Directs",
-        "Dosanjhs",
-        "Hints"
-      ]
-    },
-    {
-      "blanked": "The great escape from ______ Nadu's Theni jail",
-      "answer": "Tamil",
-      "options": [
-        "Tamil",
-        "Sets",
-        "Musk",
-        "Abhijeet"
-      ]
-    },
-    {
-      "blanked": "Today’s NYT Strands Hints, Spangram and ______ for Saturday, Oct. 31, #972",
-      "answer": "Answers",
-      "options": [
-        "Hack",
-        "Details",
-        "Answers",
-        "Fatty"
-      ]
-    },
-    {
-      "blanked": "Diljit Dosanjh's 'Punjabian Nu...' Jab, Abhijeet Dipke's 'Mitti ______ Response",
-      "answer": "Paao",
-      "options": [
-        "Court",
-        "Paao",
-        "Pune",
-        "Street"
-      ]
-    },
-    {
-      "blanked": "Elon Musk, CZ Trade ______ Over SpaceX Shares After $6.4B Binance Hack",
-      "answer": "Blows",
-      "options": [
-        "Apple",
-        "Blows",
         "Supreme",
-        "Nirmala"
+        "Names",
+        "Zinda",
+        "Strands"
       ]
     },
     {
-      "blanked": "India A vs New Zealand A Highlights, 2nd Unofficial Test: ______ Jurel's Unbeaten 99 Rescues India A On Day 1",
-      "answer": "Dhruv",
+      "blanked": "In Poland, Judge Suspends Her Court's President. ______ Coup Claim Follow",
+      "answer": "Protests",
       "options": [
-        "Dhruv",
+        "Sahara",
         "Protests",
-        "Binance",
-        "Bloc"
+        "Spains",
+        "Foreigners"
+      ]
+    },
+    {
+      "blanked": "Elon ______ CZ Trade Blows Over SpaceX Shares After $6.4B Binance Hack",
+      "answer": "Musk",
+      "options": [
+        "Musk",
+        "Sunny",
+        "Boss",
+        "DSA"
+      ]
+    },
+    {
+      "blanked": "Today’s NYT Strands Hints, Spangram and Answers for Saturday, Oct. 31, ______",
+      "answer": "972",
+      "options": [
+        "NYT",
+        "Trips",
+        "Imaging",
+        "972"
+      ]
+    },
+    {
+      "blanked": "Oppo Find X10 ______ 25-Hour Battery, €1,699 [2026] - https://tech-insider.org/",
+      "answer": "Review",
+      "options": [
+        "Review",
+        "Major",
+        "Blows",
+        "Republicans"
+      ]
+    },
+    {
+      "blanked": "Trump May Order ______ Iran Operation If Republicans Lose Big In Midterms: Report",
+      "answer": "Major",
+      "options": [
+        "Major",
+        "Hotel",
+        "Drags",
+        "Influences"
+      ]
+    },
+    {
+      "blanked": "Israel elections: ______ bloc weighs direct PM election bill to break political deadlock",
+      "answer": "Anti-Netanyahu",
+      "options": [
+        "Find",
+        "Iran",
+        "South",
+        "Anti-Netanyahu"
+      ]
+    },
+    {
+      "blanked": "Action ______ Under Rs. 20,000 For Bike Rides, Treks And Beach Trips",
+      "answer": "Cameras",
+      "options": [
+        "Sunny",
+        "Sanjay",
+        "4.1",
+        "Cameras"
+      ]
+    },
+    {
+      "blanked": "Uttarakhand's ______ Six dead after helicopter crashes in northern Indian state",
+      "answer": "Joshimath",
+      "options": [
+        "Treatment",
+        "Joshimath",
+        "Disease",
+        "Kumar"
+      ]
+    },
+    {
+      "blanked": "Kharge moves six charges against CEC Gyanesh Kumar, says 'no personal enmity', ______ accuses Congress of mocking Parliament | LIVE",
+      "answer": "BJP",
+      "options": [
+        "Treks",
+        "Review",
+        "BJP",
+        "Stewart"
+      ]
+    },
+    {
+      "blanked": "Steadfast Rickelton sets the agenda as ______ Africa refuse to go quietly",
+      "answer": "South",
+      "options": [
+        "Global",
+        "Library",
+        "Dragonfly",
+        "South"
+      ]
+    },
+    {
+      "blanked": "Two Foreigners Die Of ______ At Bengaluru 5-Star Hotel Swimming Pool",
+      "answer": "Electrocution",
+      "options": [
+        "Added",
+        "Major",
+        "Electrocution",
+        "Toward"
       ]
     }
   ]
