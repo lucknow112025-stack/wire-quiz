@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-10-31T13:06:10.510Z",
+  "generatedAt": "2026-10-31T17:41:38.270Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "Kharge moves six charges against CEC Gyanesh Kumar, says 'no personal enmity', BJP accuses Congress of mocking Parliament | LIVE",
-    "J&K CM Omar Abdullah and journalist Nidhi Razdan get married",
-    "AAP Names Candidates For 40 Seats In 2027 Punjab Assembly Polls: Full List",
-    "Iran's Supreme leader calls for 'geographically unrestricted' response to enemy threats",
-    "Teacher Present, Man With Chainsaw Enters Andhra Classroom, Attacks 2 Girls",
-    "Israel elections: Anti-Netanyahu bloc weighs direct PM election bill to break political deadlock",
-    "'You're damaging his image': Congress counters Amit Shah's 'sideline Patel' charge",
-    "Two Foreigners Die Of Electrocution At Bengaluru 5-Star Hotel Swimming Pool",
-    "Uttarakhand's Joshimath: Six dead after helicopter crashes in northern Indian state",
-    "Class 3 student attacks six-year-old girl with stones, flowerpot at Haryana school",
-    "In Poland, Judge Suspends Her Court's President. Protests, Coup Claim Follow",
-    "U.S. scraps G20 family photo after Europeans object to being pictured with Russia's Lavrov",
-    "Trump May Order Major Iran Operation If Republicans Lose Big In Midterms: Report",
-    "Survivors of Spain’s worst train crashes urge action after latest disaster",
-    "IGL Q2 profit plunges 93% as higher gas costs erode margins despite record sales",
-    "Elon Musk, CZ Trade Blows Over SpaceX Shares After $6.4B Binance Hack",
-    "India to meet liquor firms as domestic giants join foreign peers in Scotch dispute",
-    "Tech Stocks Sell-Off Drags Wall Street Toward Its Worst Day Since June",
+    "Rahul Gandhi claims 2024 Lok Sabha elections ‘illegal’ over voter deletions | LIVE",
+    "Iran’s Mojtaba Khamenei orders military response without ‘geographic limits’ to new threats",
+    "'Keep Rahul Gandhi mock PM for life': BJP's dig at INDIA bloc's 'public impeachment' of CEC",
+    "After Rahul Gandhi, Delhi Traders Turn To His Allies Over November 1 Rally",
+    "India slams global energy disruptions through sanctions, chokepoints",
+    "Hotel, Cruise: PM Modi's Rs 426 Crore Tourism Boost For Statue Of Unity In Gujarat",
+    "SP leader Azam Khan detained by ED minutes after release from Rampur jail | India News",
+    "2 foreigners die of suspected electrocution in hotel pool in Bengaluru",
+    "40 villas ‘at throwaway prices’, ‘favours’ to resort firm: Rajasthan clears probe against IAS officer",
+    "Air Chief Marshal Ashutosh Dixit takes charge as new IAF chief amid modernisation push | India News",
+    "Britain open to apologising for slavery, says U.K. PM Andy Burnham",
+    "Thousands rally in Berlin as Gen Z plans protests in 30 German cities",
+    "Trump administration to deport 150 Afghan refugees to Afghanistan via Pakistan",
+    "Inside Trump’s final two-week campaign sprint across deep-red America",
+    "Binance’s $6.3 billion hack raises questions about crypto wallet safety",
+    "Centre scraps Rs 2.5/litre petrol export duty, hikes diesel levy to Rs 11.5",
+    "NTPC Q2 Results: Profit Jumps 41% To Rs 7,351 Crore, Declares Dividend",
+    "Tata Motors, Iveco Combine €1.5 Billion Annual R&D Engine for Global Clean CV Race",
     "Today’s NYT Strands Hints, Spangram and Answers for Saturday, Oct. 31, #972",
-    "Oppo Find X10 Review: 25-Hour Battery, €1,699 [2026] - https://tech-insider.org/",
-    "NVIDIA Rolls Out 4-Month GeForce NOW Plans In India, Nine Games Added To Library",
-    "Action Cameras Under Rs. 20,000 For Bike Rides, Treks And Beach Trips",
-    "Director Sanjay Gupta, Known For Kaante And Zinda, Dies At 59 After Suffering A Fall",
-    "‘Mitti pao’: CJP’s Abhijeet Dipke apologises to Diljit Dosanjh after concert dig",
-    "Patrick Stewart dies at 86: A look at his three marriages, wife Sunny Ozell, two children and four grandc"
+    "MKBHD drops a blunt verdict on Apple's touchscreen MacBook Pro",
+    "iPhone Duo's inner screen cracking issue: Apple tells stores what to do",
+    "Oppo Find X10 Pro Max: 25-Hour Battery, €1,699 [2026] - https://tech-insider.org/",
+    "Sanjay Gupta, Indian Director of ‘Kaante’ and ‘Zinda,’ Dies at 59",
+    "'Jailer 2' box office collection day 16: Rajinikanth's film beats first part by Rs 243 cr; earns Rs 776 c",
+    "Ramayana Advance Booking: Ranbir Kapoor-Starrer Nears Rs 30 Crore"
   ],
   "quiz": [
     {
-      "blanked": "Iran's ______ leader calls for 'geographically unrestricted' response to enemy threats",
-      "answer": "Supreme",
+      "blanked": "Manisha ______ creates history, becomes India's first-ever women's world wrestling champion",
+      "answer": "Bhanwala",
       "options": [
-        "Supreme",
-        "Names",
+        "Iveco",
+        "Bhanwala",
+        "Mojtaba",
+        "Migraine"
+      ]
+    },
+    {
+      "blanked": "Hyperkalaemia Affects 28% of Heart ______ Patients",
+      "answer": "Failure",
+      "options": [
+        "India",
+        "Failure",
+        "Breastfeeding",
+        "Pro"
+      ]
+    },
+    {
+      "blanked": "CMC observes World ______ Day",
+      "answer": "Stroke",
+      "options": [
+        "Battery",
+        "Rajinikanths",
         "Zinda",
-        "Strands"
+        "Stroke"
       ]
     },
     {
-      "blanked": "In Poland, Judge Suspends Her Court's President. ______ Coup Claim Follow",
-      "answer": "Protests",
+      "blanked": "Sanjay ______ Indian Director of ‘Kaante’ and ‘Zinda,’ Dies at 59",
+      "answer": "Gupta",
       "options": [
-        "Sahara",
-        "Protests",
-        "Spains",
-        "Foreigners"
+        "Gupta",
+        "Stewart",
+        "NYT",
+        "Allies"
       ]
     },
     {
-      "blanked": "Elon ______ CZ Trade Blows Over SpaceX Shares After $6.4B Binance Hack",
-      "answer": "Musk",
+      "blanked": "Air Chief Marshal Ashutosh Dixit takes charge as new ______ chief amid modernisation push | India News",
+      "answer": "IAF",
       "options": [
-        "Musk",
-        "Sunny",
-        "Boss",
-        "DSA"
+        "Marshal",
+        "IAF",
+        "People",
+        "Test"
+      ]
+    },
+    {
+      "blanked": "After ______ Gandhi, Delhi Traders Turn To His Allies Over November 1 Rally",
+      "answer": "Rahul",
+      "options": [
+        "Explain",
+        "Sen",
+        "Rahul",
+        "Africa"
       ]
     },
     {
       "blanked": "Today’s NYT Strands Hints, Spangram and Answers for Saturday, Oct. 31, ______",
       "answer": "972",
       "options": [
-        "NYT",
-        "Trips",
-        "Imaging",
+        "Modis",
+        "Bengaluru",
+        "972",
+        "Africa"
+      ]
+    },
+    {
+      "blanked": "Rahul Gandhi claims 2024 Lok ______ elections ‘illegal’ over voter deletions | LIVE",
+      "answer": "Sabha",
+      "options": [
+        "Zinda",
+        "Kapoor-Starrer",
+        "Sabha",
         "972"
       ]
     },
     {
-      "blanked": "Oppo Find X10 ______ 25-Hour Battery, €1,699 [2026] - https://tech-insider.org/",
-      "answer": "Review",
+      "blanked": "Oppo Find X10 Pro ______ 25-Hour Battery, €1,699 [2026] - https://tech-insider.org/",
+      "answer": "Max",
       "options": [
-        "Review",
-        "Major",
-        "Blows",
-        "Republicans"
+        "Max",
+        "Town",
+        "Mars",
+        "Trumps"
       ]
     },
     {
-      "blanked": "Trump May Order ______ Iran Operation If Republicans Lose Big In Midterms: Report",
-      "answer": "Major",
+      "blanked": "Lakshya Sen vs Toma Junior Popov LIVE streaming info: Where to watch Hylo ______ 2026 semifinal?",
+      "answer": "Open",
       "options": [
-        "Major",
-        "Hotel",
-        "Drags",
-        "Influences"
+        "Key",
+        "Open",
+        "Ozell",
+        "Habits"
       ]
     },
     {
-      "blanked": "Israel elections: ______ bloc weighs direct PM election bill to break political deadlock",
-      "answer": "Anti-Netanyahu",
+      "blanked": "Childhood Migraine: Sleep Deprivation and Lifestyle Habits May Be Key ______",
+      "answer": "Triggers",
       "options": [
-        "Find",
-        "Iran",
-        "South",
-        "Anti-Netanyahu"
+        "Billion",
+        "Profit",
+        "Engine",
+        "Triggers"
       ]
     },
     {
-      "blanked": "Action ______ Under Rs. 20,000 For Bike Rides, Treks And Beach Trips",
-      "answer": "Cameras",
+      "blanked": "Thousands rally in Berlin as ______ Z plans protests in 30 German cities",
+      "answer": "Gen",
       "options": [
-        "Sunny",
-        "Sanjay",
-        "4.1",
-        "Cameras"
-      ]
-    },
-    {
-      "blanked": "Uttarakhand's ______ Six dead after helicopter crashes in northern Indian state",
-      "answer": "Joshimath",
-      "options": [
-        "Treatment",
-        "Joshimath",
-        "Disease",
-        "Kumar"
-      ]
-    },
-    {
-      "blanked": "Kharge moves six charges against CEC Gyanesh Kumar, says 'no personal enmity', ______ accuses Congress of mocking Parliament | LIVE",
-      "answer": "BJP",
-      "options": [
-        "Treks",
-        "Review",
-        "BJP",
-        "Stewart"
-      ]
-    },
-    {
-      "blanked": "Steadfast Rickelton sets the agenda as ______ Africa refuse to go quietly",
-      "answer": "South",
-      "options": [
-        "Global",
-        "Library",
-        "Dragonfly",
-        "South"
-      ]
-    },
-    {
-      "blanked": "Two Foreigners Die Of ______ At Bengaluru 5-Star Hotel Swimming Pool",
-      "answer": "Electrocution",
-      "options": [
-        "Added",
-        "Major",
-        "Electrocution",
-        "Toward"
+        "776",
+        "Mars",
+        "Gen",
+        "Advance"
       ]
     }
   ]
