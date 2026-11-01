@@ -1,103 +1,143 @@
 {
-  "generatedAt": "2026-11-01T02:38:04.196Z",
+  "generatedAt": "2026-11-01T09:43:18.714Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "Rahul Gandhi: India's opposition rallies against voter roll revision exercise",
-    "INDIA bloc holds symbolic ‘public impeachment’ of CEC Gyanesh Kumar on six charges",
-    "Unpacking the brawl that sparked the Naga-Kuki conflict in Manipur | India News",
-    "Quad flags economic coercion, announces $85 million to expand AI access",
-    "IMD update: AP coast braces for a second cyclone, hot on heels of Arnab",
-    "Isolated clashes in France after peaceful marches, as police brace for Halloween night violence",
-    "Air Chief Marshal Ashutosh Dixit takes charge as new IAF chief amid modernisation push | India News",
-    "3 Kuki-Zos killed in Manipur gunfight with Nagas; mass rally halts Imphal",
-    "ISRO NVS-03 launch: 5 things to know about India’s new navigation satellite",
-    "Nation pays tribute to Sardar Patel on his 151st birth anniversary; President, Vice President and PM pay tributes",
-    "Israel elections: Anti-Netanyahu bloc weighs direct PM election bill to break political deadlock",
-    "King to address slavery during Commonwealth speech in Antigua on final leg of Caribbean tour",
-    "Trump May Order Major Iran Operation If Republicans Lose Big In Midterms: Report",
-    "Supreme leader Khamenei warns of 'geographically unrestricted' response to US, Israel strikes on Iran",
-    "Binance replenishes 90% of stolen crypto, says it will absorb financial losses",
+    "Mass Protest Expected in New Delhi Over Modi and Voter Roll Changes",
+    "After meeting Mamata, Dipke says CJP to skip INDIA bloc rally: We're neutral",
+    "Trump holds call with Netanyahu amid preparations to renew strikes on Iran — report",
+    "Ban on construction, non-Delhi-registered vehicles below BS-VI from November 1",
+    "Thousands rally in Israel urging ‘Jewish-Arab’ coalition to oust Netanyahu",
+    "Depression over Bay of Bengal may bring rain to Telangana, heavy showers likely in nine districts on November 2",
+    "LCA Mk-1A, stealth fighter are highest priority, says new IAF chief | India News",
+    "2 MLAs Quit In Setback For Punjab AAP After 1st Candidates' List Announced",
+    "Andhra man unleashes savage chainsaw attack on teen girl and friend inside classroom, arrested",
+    "Supreme Court clears way for reopening of tax probe against ex-CJI’s sons over 2010 property deal | India News",
+    "Gen Z protests rock Germany now, looting in Frankfurt, firebombs thrown at cops",
+    "Trump says Flavio Bolsonaro can stay in US 'as long as he wants'",
+    "Bangladesh forms wage board as garment protests turn violent",
+    "Trump's 'Can Strike Iran In 10 Minutes' Warning As Mojtaba Khamenei Updates 'Target List'",
+    "FBI blames North Korea for record $6.3bn crypto heist from Binance",
     "Is the AI boom cracking? Wall Street's tech sell-off raises questions over what comes next",
-    "Alice Huang: Nvidia CEO's aide and 'spy' accused of smuggling microchips to China",
-    "SEBI eases KYC rules for foreign portfolio investors; extends review period to 8 years for some FPIs from December 1",
-    "MKBHD drops a blunt verdict on Apple’s touchscreen MacBook Pro",
-    "Today’s NYT Strands answers, clues, and hints on October 31 (puzzle #972)",
-    "Quordle hints and answers for Saturday, October 31 (game #1741)",
+    "Centre scraps Rs 2.5/litre petrol export duty, hikes diesel levy to Rs 11.5",
+    "From chip design to chemicals: 3 stocks riding India’s Rs 1.64 lakh crore semiconductor push",
     "Deals: iPhone 17 series on sale, OLED-packing iPad mini and touch-enabled MacBook Pro launch - GSMArena.com news",
+    "Quordle hints and answers for Saturday, October 31 (game #1741)",
+    "NYT Strands Hints and Answers for November 1, 2026: Today’s Theme Is a Full-Blown Nap",
+    "Samsung now mocks Apple iPhone Duo with crackgate memes too",
+    "'Dark decade for me': Yo Yo Honey Singh mourns nephew Vidit Olak’s death in Jalandhar accident",
     "Sanjay Gupta, Indian Director of ‘Kaante’ and ‘Zinda,’ Dies at 59",
-    "Ramayana international reviews hail dazzling visuals, but say exhausting narrative makes Ranbir Kapoor, Yash film an 'overproduced B movie' | Bollywood",
-    "Patrick Stewart dies at 86: A look at his three marriages, wife Sunny Ozell, two children and four grandc"
+    "‘Ramayana’: 40-50 designs and 6.5 years of work behind Ravana-Jatayu fight, says Nitesh Tiwari"
   ],
   "quiz": [
     {
-      "blanked": "ISRO NVS-03 launch: 5 things to know about ______ new navigation satellite",
-      "answer": "Indias",
+      "blanked": "Supreme ______ clears way for reopening of tax probe against ex-CJI’s sons over 2010 property deal | India News",
+      "answer": "Court",
       "options": [
-        "Cape",
-        "Heart",
-        "Indias",
-        "Saturday"
+        "Court",
+        "Yes",
+        "Protest",
+        "Thread"
       ]
     },
     {
-      "blanked": "Deals: iPhone 17 series on sale, OLED-packing iPad mini and touch-enabled ______ Pro launch - GSMArena.com news",
-      "answer": "MacBook",
+      "blanked": "In 2024, North Carolina sank the 106-foot tugboat Thomas Dann off Cape Lookout; it joined two older ships and 1,700 tons of concrete at a reef | Hindustan ______",
+      "answer": "Times",
       "options": [
-        "India",
-        "Huang",
-        "Indias",
-        "MacBook"
+        "Times",
+        "1.64",
+        "Four",
+        "Bay"
       ]
     },
     {
-      "blanked": "Binance replenishes ______ of stolen crypto, says it will absorb financial losses",
-      "answer": "90%",
+      "blanked": "Trump's 'Can Strike Iran In 10 Minutes' Warning As Mojtaba Khamenei ______ 'Target List'",
+      "answer": "Updates",
       "options": [
-        "China",
-        "Town",
-        "Pro",
-        "90%"
+        "Updates",
+        "Indian",
+        "Hints",
+        "Ebola"
       ]
     },
     {
-      "blanked": "Hyperkalaemia Affects 28% of Heart ______ Patients",
-      "answer": "Failure",
+      "blanked": "Trump holds call with ______ amid preparations to renew strikes on Iran — report",
+      "answer": "Netanyahu",
       "options": [
-        "Moments",
-        "Triggers",
-        "Failure",
-        "Devdutt"
+        "List",
+        "South",
+        "Netanyahu",
+        "Iran"
       ]
     },
     {
-      "blanked": "NASA's Swift space telescope set for fiery return to ______",
-      "answer": "Earth",
+      "blanked": "New Zealand field in final T20I; ______ and Varun in for India",
+      "answer": "Bhuvneshwar",
       "options": [
-        "Patients",
-        "Evil",
+        "Full-Blown",
+        "Bhuvneshwar",
+        "Protest",
+        "Indian"
+      ]
+    },
+    {
+      "blanked": "NASA's ______ space telescope set for fiery return to Earth",
+      "answer": "Swift",
+      "options": [
+        "Roll",
+        "Swift",
+        "News",
+        "Strands"
+      ]
+    },
+    {
+      "blanked": "Gen Z protests rock Germany now, looting in ______ firebombs thrown at cops",
+      "answer": "Frankfurt",
+      "options": [
+        "Europe",
+        "Explain",
+        "Rates",
+        "Frankfurt"
+      ]
+    },
+    {
+      "blanked": "BREAKING: Ram ______ Varma in LEGAL TROUBLE over Rs. 29.67 crores! Production house warns filmmakers, OTT platforms against dealing with RGV without NOC",
+      "answer": "Gopal",
+      "options": [
+        "Four",
+        "Mamata",
+        "Gopal",
+        "Dakota"
+      ]
+    },
+    {
+      "blanked": "From gold rush to cosmic questions: a ______ Dakota mine and the search for the secrets of the universe",
+      "answer": "South",
+      "options": [
+        "2010",
+        "South",
+        "Korea",
+        "Apple"
+      ]
+    },
+    {
+      "blanked": "Mass Protest ______ in New Delhi Over Modi and Voter Roll Changes",
+      "answer": "Expected",
+      "options": [
+        "Urges",
+        "Finn",
+        "Expected",
+        "Jewish-Arab"
+      ]
+    },
+    {
+      "blanked": "Centre scraps Rs 2.5/litre petrol export duty, hikes diesel levy to Rs ______",
+      "answer": "11.5",
+      "options": [
+        "11.5",
+        "Netanyahu",
         "Earth",
-        "Nagas"
-      ]
-    },
-    {
-      "blanked": "Higher BMI May Explain Lower Breastfeeding Rates in ______",
-      "answer": "Diabetes",
-      "options": [
-        "Diabetes",
-        "Apples",
-        "Nvidia",
-        "Patients"
-      ]
-    },
-    {
-      "blanked": "King to address slavery during ______ speech in Antigua on final leg of Caribbean tour",
-      "answer": "Commonwealth",
-      "options": [
-        "Commonwealth",
-        "Patients",
-        "Championship",
-        "Padikkal"
+        "Europe"
       ]
     },
     {
@@ -105,49 +145,9 @@
       "answer": "Sahara",
       "options": [
         "Sahara",
-        "Early",
-        "Very",
-        "Padikkal"
-      ]
-    },
-    {
-      "blanked": "INDIA bloc holds symbolic ‘public impeachment’ of ______ Gyanesh Kumar on six charges",
-      "answer": "CEC",
-      "options": [
-        "Dies",
-        "Moments",
-        "Urges",
-        "CEC"
-      ]
-    },
-    {
-      "blanked": "Patrick ______ dies at 86: A look at his three marriages, wife Sunny Ozell, two children and four grandc",
-      "answer": "Stewart",
-      "options": [
-        "Wall",
-        "Results",
-        "Earth",
-        "Stewart"
-      ]
-    },
-    {
-      "blanked": "Is the AI boom cracking? Wall ______ tech sell-off raises questions over what comes next",
-      "answer": "Streets",
-      "options": [
-        "Streets",
-        "FPIs",
-        "Failure",
-        "Lower"
-      ]
-    },
-    {
-      "blanked": "NASA’s Lucy travels more than ______ billion miles in 5 years, becoming the first spacecraft to reach Jupite",
-      "answer": "2.2",
-      "options": [
-        "Republicans",
-        "2.2",
-        "Nice",
-        "Sardar"
+        "Court",
+        "FAST",
+        "Europe"
       ]
     }
   ]
