@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-11-02T03:52:08.305Z",
+  "generatedAt": "2026-11-02T11:55:53.002Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "Cyclone Murasu LIVE update: Orange alert in six Telangana districts, yellow alert in five; holidays announced for school in T.N. districts",
-    "India’s Congress Party Holds Mass Protest in New Delhi",
-    "Delhi air quality takes a nosedive ahead of Diwali, anti-pollution curbs kick in | Latest News Delhi",
-    "9 Killed After Private Jet Nosedives, Erupts Into Fireball In Florida",
-    "Trump, Netanyahu clash over timing of fresh Iran strikes in 'tough' phone call",
-    "Andhra school chainsaw attack: Accused shot in police encounter while attempting to flee",
-    "\"Gyanesh Kumar Will Go To Jail\": Rahul Gandhi Calls 2024 Polls \"Illegal\" At Delhi Rally",
-    "Panchkula school assault: 6-yr-old out of danger as 8-yr-old who attacked her undergoes psych eval",
-    "Kerala High Court's Example Prompted Supreme Court To Strive For More Women Representation : CJI Surya...",
-    "Ban on construction, non-Delhi-registered vehicles below BS-VI from November 1",
+    "‘Murasu’ strengthens into Severe Cyclonic Storm",
+    "BREAKING | Supreme Court Allows Certified Green Crackers In Delhi-NCR For Diwali On Nov 7-8; Year-Round...",
+    "Oppn mounts grand show of solidarity at Ramlila Maidan, SFI cheers as AISA’s Neha Bora speaks",
+    "BMC takes down actor Dia Mirza’s pollution-free Deepavali video after BJP leader's objection",
+    "Imran Khan's Plea Against 'Leave India' Notice : Live Updates From Bombay High Court",
+    "Iran says ready to reopen Strait of Hormuz in two days: ‘Everything depends on US’ | World News",
+    "Delhi's AQI crosses 300 for first time this season, more smog expected in coming days | India News",
+    "\"Bhagwant Mann Has Destroyed Punjab\": 3 AAP MLAs Join BJP Ahead Of Polls",
+    "Azam Khan Moves Supreme Court Challenging ED Arrest After Release In Dual PAN Card Case",
+    "BJP's Mega Battle Plan For UP 2027: PM Modi, Shah, Nabin To Lead Post-Diwali Blitz In November-December",
+    "Jet crash in Florida: All nine people aboard killed, says Transportation Secretary",
+    "How US Midterms Could Move Stock Markets, Oil Prices And India's Exports",
     "'Maximum deterrence': Mojtaba Khamenei meets top generals, issues warning to US",
-    "Kherson braces for return of war as localised Russia-Ukraine truce ends",
-    "Bulgarians vote in presidential run-off amid Black Sea tensions",
-    "Ukraine blames Russia after air alert app sends out false warnings",
-    "Stock market outlook today, 2 Nov: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues",
-    "Binance restarts withdrawals after $6.3bn heist",
-    "Maruti Sales Oct 2026 All Time High - Domestic 2.12 Lakh, Exports Near 50k",
-    "Tesla, Samsung oppose new US tariffs on Vietnam as probe deadline nears",
-    "NYT Strands hints and answers for Monday, November 2 (game #974)",
-    "Rushed launch, faulty hinges and cracked screens: What went wrong with iPhone Duo? Report",
-    "Apple’s Next Touchscreen MacBook Pro to Get M7 Pro and M7 Max Chips Next Year, Report Says",
-    "Apple Watch showing the wrong time? Apple explains how to fix the daylight saving bug",
-    "Shah Rukh Khan makes first appearance after ringing in birthday celebrations with family and friends in M",
-    "Amitabh Bachchan Goes Behind Bulletproof Glass In Fan Greeting Outside Mumbai Home",
-    "Suhana Khan's FIRST LOOK in 'King' revealed? Fans spot mystery girl in Shah Rukh Khan and Deepika Padukon"
+    "To replace Netanyahu, Eisenkot must learn from his rival’s playbook",
+    "Reliance earnings, lower oil prices power India's Sensex to near two-month high",
+    "LTCG tax relief on the cards? SEBI wants long-term capital gains tax to be removed for foreign investors",
+    "Reliance Industries shares jump 6%, set for biggest single-day gain since January 2024 after Q2 earnings beat",
+    "Darius Khambata does not seek re-appointment on Sir Dorabji Tata Trust and Sir Ratan Tata Trust as his ter",
+    "Apple Unveils Touchscreen MacBook, Embracing a Feature Steve Jobs Once Banned",
+    "Today’s NYT Strands Hints, Spangram and Answers for Monday, Nov. 2, #974",
+    "Deepinder Goyal’s Temple bets on anatomy to rewrite wearable tech rules",
+    "Xiaomi 18 Pro series is going global this month - GSMArena.com news",
+    "Shah Rukh Khan Turns 61: A Look At His 'King-Sized' Net Worth, Real Estate Portfolio, Luxury Cars, And Businesses",
+    "Go sell ice cream: AR Rahman on following Steve Jobs' mantra amid Ramayana criticism",
+    "TV Actor Anuj Thakur Dies At 33 After Seizure During Sleep"
   ],
   "quiz": [
     {
-      "blanked": "Apple ______ showing the wrong time? Apple explains how to fix the daylight saving bug",
-      "answer": "Watch",
+      "blanked": "Go sell ice cream: AR Rahman on following ______ Jobs' mantra amid Ramayana criticism",
+      "answer": "Steve",
       "options": [
-        "Get",
-        "Watch",
-        "Shows",
-        "Trophy"
+        "MLAs",
+        "Updates",
+        "Diwali",
+        "Steve"
       ]
     },
     {
-      "blanked": "9 Killed After Private Jet Nosedives, Erupts ______ Fireball In Florida",
-      "answer": "Into",
+      "blanked": "‘Murasu’ strengthens into Severe Cyclonic ______",
+      "answer": "Storm",
       "options": [
-        "Khans",
-        "Fan",
-        "Iran",
-        "Into"
+        "Blitz",
+        "Maidan",
+        "SEBI",
+        "Storm"
       ]
     },
     {
-      "blanked": "Andhra school chainsaw attack: ______ shot in police encounter while attempting to flee",
-      "answer": "Accused",
-      "options": [
-        "Apple",
-        "Kumar",
-        "Accused",
-        "Polls"
-      ]
-    },
-    {
-      "blanked": "\"Gyanesh Kumar Will Go To Jail\": ______ Gandhi Calls 2024 Polls \"Illegal\" At Delhi Rally",
-      "answer": "Rahul",
-      "options": [
-        "Selectors",
-        "Party",
-        "Rahul",
-        "CJI"
-      ]
-    },
-    {
-      "blanked": "Ban on construction, non-Delhi-registered vehicles below ______ from November 1",
-      "answer": "BS-VI",
-      "options": [
-        "Ravanas",
-        "BS-VI",
-        "Swift",
-        "Example"
-      ]
-    },
-    {
-      "blanked": "Do you know signs of a stroke? BE ______ are the words to remember",
-      "answer": "FAST",
-      "options": [
-        "FAST",
-        "Nosedives",
-        "Bengaluru",
-        "Killed"
-      ]
-    },
-    {
-      "blanked": "Bulgarians vote in presidential run-off amid Black ______ tensions",
-      "answer": "Sea",
-      "options": [
-        "Devanahalli",
-        "Example",
-        "Sea",
-        "Pro"
-      ]
-    },
-    {
-      "blanked": "'Maximum deterrence': Mojtaba ______ meets top generals, issues warning to US",
-      "answer": "Khamenei",
-      "options": [
-        "Congress",
-        "LOOK",
-        "Khamenei",
-        "Illegal"
-      ]
-    },
-    {
-      "blanked": "Scientists have what they say is one of the oldest ______ meteorites",
+      "blanked": "Crew from NASA’s simulated ______ mission emerges after 378 days in isolation",
       "answer": "Mars",
       "options": [
+        "Everything",
         "Mars",
-        "Sales",
-        "Florida",
-        "Next"
+        "Midterms",
+        "Supreme"
       ]
     },
     {
-      "blanked": "NYT ______ hints and answers for Monday, November 2 (game #974)",
-      "answer": "Strands",
+      "blanked": "Today’s NYT Strands ______ Spangram and Answers for Monday, Nov. 2, #974",
+      "answer": "Hints",
       "options": [
-        "Black",
-        "Jet",
-        "Strands",
-        "Gandhi"
+        "PLAYERS",
+        "News",
+        "Storm",
+        "Hints"
       ]
     },
     {
-      "blanked": "From Devanahalli to Nasa: ______ girl building telescope to study dust in space",
-      "answer": "Bengaluru",
+      "blanked": "The science of re-entry, as Nasa’s ______ telescope is set to fall back to Earth this week",
+      "answer": "Swift",
       "options": [
-        "BCCI",
-        "NASDAQ",
-        "Vietnam",
-        "Bengaluru"
+        "ODIs",
+        "Swift",
+        "Rukh",
+        "News"
       ]
     },
     {
-      "blanked": "Rushed launch, faulty hinges and cracked screens: What went wrong with iPhone ______ Report",
-      "answer": "Duo",
+      "blanked": "Reliance ______ shares jump 6%, set for biggest single-day gain since January 2024 after Q2 earnings beat",
+      "answer": "Industries",
       "options": [
-        "Pro",
-        "Duo",
-        "Monday",
-        "Promise"
+        "Plea",
+        "Industries",
+        "Could",
+        "Ahead"
+      ]
+    },
+    {
+      "blanked": "TOP 10 PLAYERS: Racing Santander 0-3 ______ Madrid",
+      "answer": "Real",
+      "options": [
+        "Zealand",
+        "Real",
+        "Crackers",
+        "News"
+      ]
+    },
+    {
+      "blanked": "BJP's Mega Battle Plan For UP ______ PM Modi, Shah, Nabin To Lead Post-Diwali Blitz In November-December",
+      "answer": "2027",
+      "options": [
+        "Green",
+        "Anuj",
+        "Khambata",
+        "2027"
+      ]
+    },
+    {
+      "blanked": "TV Actor Anuj Thakur Dies At 33 After Seizure ______ Sleep",
+      "answer": "During",
+      "options": [
+        "During",
+        "Hormuz",
+        "Gambhir",
+        "Antonelli"
+      ]
+    },
+    {
+      "blanked": "Apple Unveils ______ MacBook, Embracing a Feature Steve Jobs Once Banned",
+      "answer": "Touchscreen",
+      "options": [
+        "January",
+        "Diwali",
+        "Formula",
+        "Touchscreen"
+      ]
+    },
+    {
+      "blanked": "BMC takes down actor Dia ______ pollution-free Deepavali video after BJP leader's objection",
+      "answer": "Mirzas",
+      "options": [
+        "Weight-Loss",
+        "Mirzas",
+        "Case",
+        "Gautam"
+      ]
+    },
+    {
+      "blanked": "BREAKING | Supreme Court Allows Certified Green Crackers In Delhi-NCR For Diwali On ______ 7-8; Year-Round...",
+      "answer": "Nov",
+      "options": [
+        "Join",
+        "2027",
+        "Court",
+        "Nov"
       ]
     }
   ]
