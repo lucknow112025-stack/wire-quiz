@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-11-04T23:50:22.869Z",
+  "generatedAt": "2026-11-05T04:40:54.576Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "U.S. midterm results may matter less for India-U.S. ties than for India’s room to manoeuvre in geopolitics",
+    "U.S. midterm elections impact on India: Faster trade deal talks and higher tariffs likely",
+    "US slaps sanctions on Indian, Turkish firms and people for aiding Iran",
     "JD Vance Says Iran War \"Reason\" Why Republicans Lost US Midterm Elections",
     "'Iran Part Of It': Trump Lists Reasons For Republican Losses",
+    "Pia Dandiya, first-generation Indian-American, wins U.S. House of Representatives seat from Florida",
+    "US's first Muslim senator is Karnataka's son-in-law",
     "Agnipath scheme revised, 75% of Agniveers to get two-year extension",
-    "‘Call me senator’: How Abdul El-Sayed beat Trump’s hate to create history",
-    "Ramaswamy Remade Himself In Trump’s Image. Ohio Rejected Him.",
-    "11 SDRF, fire services personnel missing after rescue boats capsize in Telangana floodwaters | India News",
+    "10 SDRF personnel missing as boats capsize during Telangana rescue operation",
     "\"Could Smell Alcohol On Him\": Rahul Gandhi Attacks Bhagwant Mann, AAP Reacts",
-    "Citing U.S. midterm poll results, Opposition leaders say change is in the air",
-    "Madhya Pradesh High Court Rejects Giribala Singh's Bail In Twisha Sharma Death Case",
-    "Donald Trump loses US Congress; Netanyahu faces deadlock at home: What happens to Iran war now?",
-    "US slaps sanctions on Indian, Turkish firms and people for aiding Iran",
-    "Israel election results 2026 highlights: President Herzog begins coalition talks amid deadlock over government formation | Hindustan Times",
-    "Elon Musk Spent Rs 4,700 Crore On Midterms. Now Democrats May Come For His Empire",
+    "Sharad Pawar hospitalised in Mumbai hours after discharge in Pune | India News",
+    "Iran Says Handed Trump \"Political Defeat\" In Washington After Midterms Rout",
+    "Who is Hakeem Jeffries? Democratic leader poised to become first Black US House speaker",
+    "Is Pete Hegseth on his way out? Trump weighs Pentagon leadership after GOP setback",
+    "French fried: Texas Republican pays the price for anti-Indian politics",
+    "Stock Market Today: Gift Nifty, Oil Prices To Gold Rate; Five Key Factors That May Drive Sensex, Nifty 50 On November 5",
     "Oil falls over 8% as traders weigh impact on Iran war of Democratic midterms sweep By Investing.com",
-    "Stock Market Close: Sensex rises for 5th day, gains 384 pts; Nifty at 23,961; IT only sectoral loser",
-    "India to build domestic lithium, nickel processing capacity with Rs 2,814-crore incentive scheme",
-    "Sebi eases digital KYC rules for NRIs, foreign nationals from December 3",
+    "Inside India newsletter: India weighs a tax cut to win over foreign investors. Will it work?",
+    "The Democrats have one chance to extract concessions from Trump. Markets will hate it",
     "Microsoft explains why Windows 11 users cannot drag the taskbar to reposition it",
     "Galaxy S27: New Upgrades Confirm Samsung’s Release Plans",
-    "Apple releases first iOS 27.3 developer beta, here's what's new - GSMArena.com news",
     "Today’s NYT Strands Hints, Spangram and Answers for Thursday, Nov. 5, #977",
-    "Ramayana Part 1 Movie Review LIVE Updates: Ranbir Kapoor film expected to earn Rs 125 cr on opening day, makes Rs 112 cr in advance booking",
+    "Gamers set for Zelda remake to hit the shelves",
     "Ramayana Part One Box Office: Ranbir Kapoor and Yash starrer tops Rs. 100Cr presales worldwide a day before release",
-    "'Jailer 2' box office collection Day 21 [Live]: Rajinikanth's film heads for all-time record for a Tamil"
+    "After Tusshar Kapoor, Ayushmann Khurrana Gets Extortion Call From 'Lawrence Bishnoi Gang'",
+    "No Kartik Aaryan release in 2026, but National Award-winning actor to have THREE releases in FIRST 6 months of 2027 - Naagzilla, Anurag Basu’s love saga, Ladaku"
   ],
   "quiz": [
+    {
+      "blanked": "\"Could Smell Alcohol On ______ Rahul Gandhi Attacks Bhagwant Mann, AAP Reacts",
+      "answer": "Him",
+      "options": [
+        "CERN",
+        "Him",
+        "Outcomes",
+        "Youth"
+      ]
+    },
+    {
+      "blanked": "US's first Muslim senator is ______ son-in-law",
+      "answer": "Karnatakas",
+      "options": [
+        "Karnatakas",
+        "Trump",
+        "CERN",
+        "Record"
+      ]
+    },
+    {
+      "blanked": "Oil falls over 8% as traders weigh impact on ______ war of Democratic midterms sweep By Investing.com",
+      "answer": "Iran",
+      "options": [
+        "Political",
+        "CERN",
+        "Indian",
+        "Iran"
+      ]
+    },
+    {
+      "blanked": "US slaps sanctions on Indian, ______ firms and people for aiding Iran",
+      "answer": "Turkish",
+      "options": [
+        "Plans",
+        "Samsungs",
+        "Turkish",
+        "Box"
+      ]
+    },
+    {
+      "blanked": "NASA's 22-year-old ______ satellite telescope falls from orbit in fiery finale",
+      "answer": "Swift",
+      "options": [
+        "Swift",
+        "Today",
+        "Increased",
+        "2027"
+      ]
+    },
+    {
+      "blanked": "Estrogen Therapy and Increased Porphyria ______ Tarda Risk",
+      "answer": "Cutanea",
+      "options": [
+        "Cutanea",
+        "ACT",
+        "SDRF",
+        "Agniveers"
+      ]
+    },
+    {
+      "blanked": "Agnipath scheme revised, ______ of Agniveers to get two-year extension",
+      "answer": "75%",
+      "options": [
+        "75%",
+        "Hakeem",
+        "Muslim",
+        "AAP"
+      ]
+    },
+    {
+      "blanked": "Is Pete ______ on his way out? Trump weighs Pentagon leadership after GOP setback",
+      "answer": "Hegseth",
+      "options": [
+        "Hegseth",
+        "Risk",
+        "Bishnoi",
+        "ACT"
+      ]
+    },
+    {
+      "blanked": "Pia Dandiya, first-generation Indian-American, wins U.S. ______ of Representatives seat from Florida",
+      "answer": "House",
+      "options": [
+        "House",
+        "Upgrades",
+        "Vance",
+        "Dandiya"
+      ]
+    },
+    {
+      "blanked": "What is the ______ CERN scientists find evidence of rare particle decay after 42 years",
+      "answer": "Zeptoverse",
+      "options": [
+        "Agniveers",
+        "Political",
+        "Root",
+        "Zeptoverse"
+      ]
+    },
     {
       "blanked": "Microsoft explains why ______ 11 users cannot drag the taskbar to reposition it",
       "answer": "Windows",
       "options": [
-        "Indian",
-        "125",
-        "75%",
+        "Pawar",
+        "Midterms",
+        "Mann",
         "Windows"
       ]
     },
     {
-      "blanked": "Ramayana ______ 1 Movie Review LIVE Updates: Ranbir Kapoor film expected to earn Rs 125 cr on opening day, makes Rs 112 cr in advance booking",
-      "answer": "Part",
+      "blanked": "French fried: ______ Republican pays the price for anti-Indian politics",
+      "answer": "Texas",
       "options": [
-        "Part",
-        "Sharma",
-        "LIVE",
-        "Dairy"
-      ]
-    },
-    {
-      "blanked": "\"Could Smell ______ On Him\": Rahul Gandhi Attacks Bhagwant Mann, AAP Reacts",
-      "answer": "Alcohol",
-      "options": [
-        "Agniveers",
-        "Rejected",
-        "125",
-        "Alcohol"
-      ]
-    },
-    {
-      "blanked": "Agnipath scheme revised, 75% of ______ to get two-year extension",
-      "answer": "Agniveers",
-      "options": [
-        "Agniveers",
-        "KASA",
-        "Reasons",
-        "Sachin"
-      ]
-    },
-    {
-      "blanked": "‘Call me senator’: ______ Abdul El-Sayed beat Trump’s hate to create history",
-      "answer": "How",
-      "options": [
-        "Dairy",
-        "Congress",
-        "Singhs",
-        "How"
-      ]
-    },
-    {
-      "blanked": "Galaxy S27: New ______ Confirm Samsung’s Release Plans",
-      "answer": "Upgrades",
-      "options": [
-        "Himself",
-        "Elections",
-        "Upgrades",
-        "Come"
-      ]
-    },
-    {
-      "blanked": "No-ball drama hands Renegades last-ball win against ______",
-      "answer": "Hurricanes",
-      "options": [
-        "Death",
-        "South",
-        "Trump",
-        "Hurricanes"
-      ]
-    },
-    {
-      "blanked": "Clinician Forum: ______ Sexuality, Femininity, and “Going Flat” After Mastectomy",
-      "answer": "Addressing",
-      "options": [
-        "Addressing",
-        "2026",
-        "Virat",
-        "Democratic"
-      ]
-    },
-    {
-      "blanked": "'I Was Screaming On The Road': Kareena Kapoor ______ Recalls Saif Ali Khan's Stabbing Incident",
-      "answer": "Khan",
-      "options": [
-        "Femininity",
-        "Going",
-        "Empire",
-        "Khan"
-      ]
-    },
-    {
-      "blanked": "Shamonda Virus Detected At Two UK Dairy ______ For The First Time: Here's How It Transmits",
-      "answer": "Farms",
-      "options": [
-        "Yash",
-        "December",
-        "May",
-        "Farms"
-      ]
-    },
-    {
-      "blanked": "What is the \"Zeptoverse\"? ______ scientists find evidence of rare particle decay after 42 years",
-      "answer": "CERN",
-      "options": [
-        "Pradesh",
-        "Sexuality",
-        "Spangram",
-        "CERN"
-      ]
-    },
-    {
-      "blanked": "11 ______ fire services personnel missing after rescue boats capsize in Telangana floodwaters | India News",
-      "answer": "SDRF",
-      "options": [
-        "2026",
-        "SDRF",
-        "Democrats",
-        "Screaming"
+        "Texas",
+        "Markets",
+        "Mastectomy",
+        "House"
       ]
     }
   ]
