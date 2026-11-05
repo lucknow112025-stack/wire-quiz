@@ -1,113 +1,103 @@
 {
-  "generatedAt": "2026-11-05T04:40:54.576Z",
+  "generatedAt": "2026-11-05T12:44:34.448Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "U.S. midterm elections impact on India: Faster trade deal talks and higher tariffs likely",
-    "US slaps sanctions on Indian, Turkish firms and people for aiding Iran",
-    "JD Vance Says Iran War \"Reason\" Why Republicans Lost US Midterm Elections",
-    "'Iran Part Of It': Trump Lists Reasons For Republican Losses",
+    "BREAKING| 24-Hour Period For Production Before Magistrate Runs From Time Of Detention & Not From Formal...",
+    "U.S. VP Vance says Iran war was the reason Republicans lost midterms",
+    "What Trump’s Midterm Defeat Means for Modi and India",
+    "\"80 Million Egyptians...\": What Abdul El-Sayed's Family Said About Indian Wife",
+    "U.S. slaps sanctions on Indian, Turkish firms and people for aiding Iran",
     "Pia Dandiya, first-generation Indian-American, wins U.S. House of Representatives seat from Florida",
-    "US's first Muslim senator is Karnataka's son-in-law",
-    "Agnipath scheme revised, 75% of Agniveers to get two-year extension",
-    "10 SDRF personnel missing as boats capsize during Telangana rescue operation",
-    "\"Could Smell Alcohol On Him\": Rahul Gandhi Attacks Bhagwant Mann, AAP Reacts",
-    "Sharad Pawar hospitalised in Mumbai hours after discharge in Pune | India News",
-    "Iran Says Handed Trump \"Political Defeat\" In Washington After Midterms Rout",
-    "Who is Hakeem Jeffries? Democratic leader poised to become first Black US House speaker",
+    "Delhi Chawri Bazaar collapse: Several feared trapped after building collapse",
+    "'Come Debate In Parliament': Amit Shah's Challenge On Rahul Gandhi's Dare",
+    "Kerala High Court grants anticipatory bail to MACT judge booked after his minor son caused fatal car crash",
+    "Supreme Court refuses to transfer Tirupathi ghee adulteration case out of Andhra Pradesh",
+    "U.S. midterm elections 2026 LIVE: Democrats vow to rein in Trump as he shows off White House ballroom",
+    "Who Is Jon Ossoff, Democrat Senator Dubbed As The 'Next Barack Obama’?",
     "Is Pete Hegseth on his way out? Trump weighs Pentagon leadership after GOP setback",
-    "French fried: Texas Republican pays the price for anti-Indian politics",
-    "Stock Market Today: Gift Nifty, Oil Prices To Gold Rate; Five Key Factors That May Drive Sensex, Nifty 50 On November 5",
-    "Oil falls over 8% as traders weigh impact on Iran war of Democratic midterms sweep By Investing.com",
-    "Inside India newsletter: India weighs a tax cut to win over foreign investors. Will it work?",
-    "The Democrats have one chance to extract concessions from Trump. Markets will hate it",
-    "Microsoft explains why Windows 11 users cannot drag the taskbar to reposition it",
-    "Galaxy S27: New Upgrades Confirm Samsung’s Release Plans",
+    "Mid-air chaos: Multiple flights in Europe diverted due to bomb threats",
+    "Diwali bonanza on Dalal Street: Investors add over Rs 6.9 lakh crore; top reasons behind Sensex, Nifty rally",
+    "Nifty decisively crosses 24,500: Will benchmark hit 25,000 before hitting any strong resistance? Check...",
+    "Bharti Airtel Q2 results: Net profit rises 31% to Rs 8,888 crore, misses estimates",
+    "Adani Ports to buy Dutch storage operator Evos for $2.88 billion",
+    "Samsung Galaxy Buds T1 Fitness Earbuds Receive FCC Certification Ahead of Expected 2027 Launch",
     "Today’s NYT Strands Hints, Spangram and Answers for Thursday, Nov. 5, #977",
-    "Gamers set for Zelda remake to hit the shelves",
-    "Ramayana Part One Box Office: Ranbir Kapoor and Yash starrer tops Rs. 100Cr presales worldwide a day before release",
-    "After Tusshar Kapoor, Ayushmann Khurrana Gets Extortion Call From 'Lawrence Bishnoi Gang'",
-    "No Kartik Aaryan release in 2026, but National Award-winning actor to have THREE releases in FIRST 6 months of 2027 - Naagzilla, Anurag Basu’s love saga, Ladaku"
+    "Gamers Get Nostalgic As Zelda Remake Hits Shelves",
+    "Quordle Hint Today: Thursday, November 5 Clues And Answers",
+    "Ranbir Kapoor in Ramayana: India's costliest film retells a beloved Hindu epic - but divides critics",
+    "Alia Bhatt shares BTS pics of daughter Raha and Ranbir Kapoor from Ramayana sets, praises him for putting ‘heart and soul’ into the movie | Bollywood",
+    "'Louder Cheers Than Ranbir And Yash': Internet Reacts To Sunny Deol's Hanuman Entry In Ramayana"
   ],
   "quiz": [
     {
-      "blanked": "\"Could Smell Alcohol On ______ Rahul Gandhi Attacks Bhagwant Mann, AAP Reacts",
-      "answer": "Him",
+      "blanked": "MASLD Patients Face 2x, 17x Higher Death Risks from ______ Smoking",
+      "answer": "Drinking",
       "options": [
-        "CERN",
-        "Him",
-        "Outcomes",
-        "Youth"
+        "Investors",
+        "Gandhis",
+        "Drinking",
+        "Sky"
       ]
     },
     {
-      "blanked": "US's first Muslim senator is ______ son-in-law",
-      "answer": "Karnatakas",
+      "blanked": "Supreme Court refuses to transfer Tirupathi ghee adulteration case out of Andhra ______",
+      "answer": "Pradesh",
       "options": [
-        "Karnatakas",
-        "Trump",
-        "CERN",
-        "Record"
+        "GOP",
+        "Dandiya",
+        "Pradesh",
+        "Zhangs"
       ]
     },
     {
-      "blanked": "Oil falls over 8% as traders weigh impact on ______ war of Democratic midterms sweep By Investing.com",
-      "answer": "Iran",
+      "blanked": "Nifty decisively crosses ______ Will benchmark hit 25,000 before hitting any strong resistance? Check...",
+      "answer": "24500",
       "options": [
-        "Political",
-        "CERN",
-        "Indian",
-        "Iran"
+        "Lifetime",
+        "Patients",
+        "MACT",
+        "24500"
       ]
     },
     {
-      "blanked": "US slaps sanctions on Indian, ______ firms and people for aiding Iran",
-      "answer": "Turkish",
+      "blanked": "Kerala High ______ grants anticipatory bail to MACT judge booked after his minor son caused fatal car crash",
+      "answer": "Court",
       "options": [
-        "Plans",
-        "Samsungs",
-        "Turkish",
-        "Box"
+        "Expected",
+        "Skin",
+        "Florida",
+        "Court"
       ]
     },
     {
-      "blanked": "NASA's 22-year-old ______ satellite telescope falls from orbit in fiery finale",
-      "answer": "Swift",
+      "blanked": "\"80 Million Egyptians...\": What Abdul El-Sayed's ______ Said About Indian Wife",
+      "answer": "Family",
       "options": [
-        "Swift",
-        "Today",
-        "Increased",
-        "2027"
+        "Family",
+        "White",
+        "Zelda",
+        "Ronaldo"
       ]
     },
     {
-      "blanked": "Estrogen Therapy and Increased Porphyria ______ Tarda Risk",
-      "answer": "Cutanea",
+      "blanked": "Ramayana ends with a BIG SURPRISE: ______ CONFIRM Diwali 2028 release for Part 2",
+      "answer": "Makers",
       "options": [
-        "Cutanea",
-        "ACT",
-        "SDRF",
-        "Agniveers"
+        "PAK",
+        "Sow",
+        "Dalal",
+        "Makers"
       ]
     },
     {
-      "blanked": "Agnipath scheme revised, ______ of Agniveers to get two-year extension",
-      "answer": "75%",
+      "blanked": "Delhi Chawri ______ collapse: Several feared trapped after building collapse",
+      "answer": "Bazaar",
       "options": [
-        "75%",
-        "Hakeem",
-        "Muslim",
-        "AAP"
-      ]
-    },
-    {
-      "blanked": "Is Pete ______ on his way out? Trump weighs Pentagon leadership after GOP setback",
-      "answer": "Hegseth",
-      "options": [
-        "Hegseth",
-        "Risk",
-        "Bishnoi",
-        "ACT"
+        "Details",
+        "LIVE",
+        "Internet",
+        "Bazaar"
       ]
     },
     {
@@ -115,39 +105,49 @@
       "answer": "House",
       "options": [
         "House",
-        "Upgrades",
-        "Vance",
-        "Dandiya"
+        "Get",
+        "Zhangs",
+        "977"
       ]
     },
     {
-      "blanked": "What is the ______ CERN scientists find evidence of rare particle decay after 42 years",
-      "answer": "Zeptoverse",
+      "blanked": "WHO Sounds Alarm Over Lack of Physical Activity Among Teens - ASHARQ AL-AWSAT ______",
+      "answer": "English",
       "options": [
-        "Agniveers",
-        "Political",
-        "Root",
-        "Zeptoverse"
+        "Magistrate",
+        "Zelda",
+        "Ramayana",
+        "English"
       ]
     },
     {
-      "blanked": "Microsoft explains why ______ 11 users cannot drag the taskbar to reposition it",
-      "answer": "Windows",
+      "blanked": "What Trump’s Midterm Defeat Means for ______ and India",
+      "answer": "Modi",
       "options": [
-        "Pawar",
-        "Midterms",
-        "Mann",
-        "Windows"
+        "Diwali",
+        "Modi",
+        "Florida",
+        "Space"
       ]
     },
     {
-      "blanked": "French fried: ______ Republican pays the price for anti-Indian politics",
-      "answer": "Texas",
+      "blanked": "U.S. VP Vance says Iran war was the reason ______ lost midterms",
+      "answer": "Republicans",
       "options": [
-        "Texas",
-        "Markets",
-        "Mastectomy",
-        "House"
+        "White",
+        "Republicans",
+        "Entry",
+        "SAFF"
+      ]
+    },
+    {
+      "blanked": "Youth ______ Patri in Zhang’s Way; Sow Faces Malhan",
+      "answer": "Olympics",
+      "options": [
+        "Diwali",
+        "Obama",
+        "Olympics",
+        "Drinking"
       ]
     }
   ]
