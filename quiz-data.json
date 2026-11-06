@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-11-06T01:01:15.410Z",
+  "generatedAt": "2026-11-06T07:54:07.749Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "Israel’s Herzog accepts vote results, opens talks on forming a government",
-    "24-Hour Period For Production Before Magistrate Runs From Time Of Detention & Not From Formal Arrest :...",
-    "From Keralam to Los Angeles City Hall: The rise of Nithya Raman",
-    "'Not About Religion': Soni Razdan Clarifies 'Anti-National' Firecracker Remark After Backlash",
-    "U.S. midterm elections impact on India: Faster trade deal talks and higher tariffs likely",
-    "Agnipath review aimed at addressing youth discontent ahead of key polls",
-    "India successfully test-fires indigenously developed quasi-ballistic missile Pralay | Watch | India News",
-    "The Hindu profile on Democrat Pia Dandiya who won from Florida",
-    "Mooting committee to revisit UGC Regulations on caste discrimination: Centre to Supreme Court",
+    "Cab Driver Kills Wife, Her 6 Relatives For 'Interfering In Life' In Bengaluru",
+    "India-born Nithya Raman beats Democratic incumbent to become LA mayor",
+    "Fire Erupts At Delhi's Karol Bagh Days Before Diwali, 22 Fire Engines Rushed To Spot",
+    "3 months after internal row, Election Commission restores oversight of top IT officer",
+    "Will there be a bloodbath in Trump's party? Vance, Cruz signal that",
     "Delhi's toxic winter air is back - is the Indian capital prepared for pollution?",
-    "Mid-air chaos: Multiple flights in Europe diverted due to bomb threats",
-    "‘Lost my life savings’: Paraguay banking crisis triggers protests as millions locked out of accounts; President resigns | World News",
-    "India in final-stage talks to expand missile sale to Philippines, sources say",
-    "Trump Is Making Calls To Advisers About Hegseth's Future As Pentagon Chief: Report",
-    "Investors richer by Rs 29 lakh crore as Sensex, Nifty rise over 8%; FIIs pour in money, but will rally la",
-    "Elon Musk Deletes Pro-Republican Posts After Spending Rs 4,400 Crore On Midterms",
-    "India's LIC logs higher profit on group insurance boost, but retail sales drag",
-    "Mehli Mistry raises fresh questions over Noel Tata, Venu Srinivasan in Tata Trusts filings",
-    "MacBook Pro M6 Review: A Slight Upgrade, But Still The Most Accessible MacBook Pro",
+    "DRDO conducts successful flight-test of Pralay missile",
+    "SC clarifies its March 2026 verdict on OBC creamy layer policy will not apply retrospectively",
+    "Heading to Bengaluru airport? 18-month traffic diversion begins on Ballari Road",
+    "84/100: Democrats sweep districts with high concentration of Indian-American voters in midterms | World News",
+    "Eisenkot tipped to seek Israel government with backing of Arab lists",
+    "Blue Wave Continues: Democrats Close In On Biggest House Victory Since 1974 Republican Wipeout",
+    "Russell Brand convicted of rape and sexual assault; comedian taken into custody, to receive a prison sent",
+    "What Donald Trump's setback in the US midterm polls means for India trade deal",
+    "India bucks Asia tech rout as oil slide reverses market fortunes",
+    "Asia stocks tumble as AI rout batters Japan, S. Korea",
+    "AI Stocks Bleed After Democrat Sweep. Why Wall Street Lost $2.5 Trillion In A Day",
+    "Oil Prices Head for 12% Weekly Loss Despite Fresh Tanker Attacks",
+    "Maybe your TV won’t stop spying on you",
     "Quordle Hint Today: Friday, November 6 Clues And Answers",
-    "‘The Legend of Zelda: Ocarina of Time’ Drops for Nintendo Switch 2: Here’s Where to Shop the Remake Online",
+    "OpenAI launches GPT-6 Cyber with 'Critical' cybersecurity rating",
     "motorola signature 27 has the world's best camera system, according to DXOMARK",
-    "Ramayana Part One Early Box Office Trends: Ranbir Kapoor and Yash starrer looking to score Rs. 65 Cr first day in India",
-    "Kimmarie Johnson death: Beverly Hills, 90210 star dies aged 50",
-    "'You Poured Everything In, Yet Had It All For Her': Alia Shares Ranbir-Raha Ramayana BTS Ahead Of Her 4th Birthday"
+    "Ramayana Part One Box Office Collections: Ranbir Kapoor and Yash starrer has a healthy first day battling Pre Diwali",
+    "Malaika Arora attends Manish Malhotra’s Diwali party with boyfriend Harsh Mehta; ex Arjun Kapoor also spo",
+    "Spot Allu Arjun, Ram Charan In This Blockbuster Pic From Actor Sai Durgha Tej's Engagement Ceremony In Hyderabad"
   ],
   "quiz": [
     {
-      "blanked": "Ramayana Part One Early Box Office Trends: Ranbir Kapoor and Yash starrer looking to score Rs. 65 Cr first day in ______",
+      "blanked": "AI Stocks Bleed After Democrat Sweep. Why ______ Street Lost $2.5 Trillion In A Day",
+      "answer": "Wall",
+      "options": [
+        "Since",
+        "Wall",
+        "Wellington",
+        "Wicket"
+      ]
+    },
+    {
+      "blanked": "Eisenkot tipped to seek ______ government with backing of Arab lists",
+      "answer": "Israel",
+      "options": [
+        "Zealand",
+        "Collections",
+        "Israel",
+        "Colon"
+      ]
+    },
+    {
+      "blanked": "Cristiano Ronaldo retires from ______ national team",
+      "answer": "Portuguese",
+      "options": [
+        "Find",
+        "Cyber",
+        "Portuguese",
+        "LIVE"
+      ]
+    },
+    {
+      "blanked": "After 42 Years of Searching, Physicists ______ Evidence of a One-in-10-Billion Particle Decay",
+      "answer": "Find",
+      "options": [
+        "Ranbir",
+        "Tanker",
+        "Driver",
+        "Find"
+      ]
+    },
+    {
+      "blanked": "Will there be a bloodbath in ______ party? Vance, Cruz signal that",
+      "answer": "Trumps",
+      "options": [
+        "Arora",
+        "Charan",
+        "Life",
+        "Trumps"
+      ]
+    },
+    {
+      "blanked": "Global Colon Cancer Association ______ Winners of the 2026 Global Colorectal Cancer Leadership Awards",
+      "answer": "Announces",
+      "options": [
+        "Stocks",
+        "Brand",
+        "Cancer",
+        "Announces"
+      ]
+    },
+    {
+      "blanked": "What Donald Trump's setback in the US midterm polls means for ______ trade deal",
       "answer": "India",
       "options": [
+        "Stocks",
+        "Wellington",
         "India",
-        "Hint",
-        "Johnson",
-        "Office"
+        "Raghav"
       ]
     },
     {
-      "blanked": "India in final-stage talks to expand missile sale to ______ sources say",
-      "answer": "Philippines",
+      "blanked": "Malaika Arora attends ______ Malhotra’s Diwali party with boyfriend Harsh Mehta; ex Arjun Kapoor also spo",
+      "answer": "Manish",
       "options": [
-        "Zhangs",
-        "Production",
-        "Philippines",
-        "Chief"
+        "Portuguese",
+        "Manish",
+        "Particle",
+        "Wicket"
       ]
     },
     {
-      "blanked": "Mehli Mistry raises fresh questions over Noel ______ Venu Srinivasan in Tata Trusts filings",
-      "answer": "Tata",
+      "blanked": "India-born Nithya ______ beats Democratic incumbent to become LA mayor",
+      "answer": "Raman",
       "options": [
-        "Weather",
-        "Ranbir-Raha",
-        "Tata",
-        "India"
+        "Blockbuster",
+        "Raman",
+        "Global",
+        "Delhis"
       ]
     },
     {
-      "blanked": "Estrogen Therapy and ______ Porphyria Cutanea Tarda Risk",
-      "answer": "Increased",
+      "blanked": "Fire Erupts At ______ Karol Bagh Days Before Diwali, 22 Fire Engines Rushed To Spot",
+      "answer": "Delhis",
       "options": [
-        "Increased",
-        "City",
-        "Heres",
-        "Srinivasan"
+        "Delhis",
+        "Friday",
+        "Blockbuster",
+        "Association"
       ]
     },
     {
-      "blanked": "Trump Is Making ______ To Advisers About Hegseth's Future As Pentagon Chief: Report",
-      "answer": "Calls",
+      "blanked": "DRDO conducts successful flight-test of ______ missile",
+      "answer": "Pralay",
       "options": [
-        "Everything",
-        "Prediabetics",
-        "Calls",
-        "Remark"
+        "Critical",
+        "12%",
+        "Pralay",
+        "Engagement"
       ]
     },
     {
-      "blanked": "Quordle Hint Today: Friday, ______ 6 Clues And Answers",
-      "answer": "November",
+      "blanked": "Quordle Hint ______ Friday, November 6 Clues And Answers",
+      "answer": "Today",
       "options": [
-        "Tata",
-        "Advisers",
-        "Production",
-        "November"
-      ]
-    },
-    {
-      "blanked": "Asian Champions Trophy 2026 Final Highlights, India 4-1 Japan: ______ Dilpreet, Jugraj, Vivek score as India retains title",
-      "answer": "Shilanand",
-      "options": [
-        "Physical",
-        "Europe",
-        "Trends",
-        "Shilanand"
-      ]
-    },
-    {
-      "blanked": "'You Poured Everything In, Yet Had It ______ For Her': Alia Shares Ranbir-Raha Ramayana BTS Ahead Of Her 4th Birthday",
-      "answer": "All",
-      "options": [
-        "All",
-        "Forecasting",
-        "90210",
-        "Patri"
-      ]
-    },
-    {
-      "blanked": "The Hindu profile on Democrat Pia Dandiya who won from ______",
-      "answer": "Florida",
-      "options": [
-        "Florida",
-        "Production",
-        "Crore",
-        "Shares"
-      ]
-    },
-    {
-      "blanked": "India's ______ logs higher profit on group insurance boost, but retail sales drag",
-      "answer": "LIC",
-      "options": [
-        "Democrat",
-        "LIC",
-        "Tata",
-        "DXOMARK"
-      ]
-    },
-    {
-      "blanked": "24-Hour Period For ______ Before Magistrate Runs From Time Of Detention & Not From Formal Arrest :...",
-      "answer": "Production",
-      "options": [
-        "Production",
-        "Posts",
-        "Highlights",
-        "Arrest"
-      ]
-    },
-    {
-      "blanked": "Kimmarie Johnson death: Beverly Hills, ______ star dies aged 50",
-      "answer": "90210",
-      "options": [
-        "Trends",
-        "Ahead",
-        "Porphyria",
-        "90210"
+        "Critical",
+        "Weight",
+        "Today",
+        "Strategy"
       ]
     }
   ]
