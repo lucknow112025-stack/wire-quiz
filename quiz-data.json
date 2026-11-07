@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-11-06T21:03:30.092Z",
+  "generatedAt": "2026-11-07T00:53:52.331Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "EC gives voters excluded from draft electoral rolls in 7 states another chance to apply",
     "After Midterm Rout, Trump Announces Stephen Miller As New Chief Of Staff",
-    "Israel’s President Herzog to name candidate to form government on Sunday",
-    "Pakistan's leaders dread US Democrats' win but its households are praying for it",
-    "Delhi's toxic winter air is back - is the Indian capital prepared for pollution?",
+    "\"Hope You're Enjoying Weather\": Supreme Court's Quip On Delhi Pollution",
+    "Immigration after the midterms: A new Congress, but who holds the power?",
     "UN climate talks start in the year of disasters, energy price shocks and fast rising temperatures",
+    "Nithya Raman wins LA mayoral race, becoming city’s first South Asian mayor",
+    "Mohammed Shami retires from Test cricket",
+    "Voters in SIR states can now refill Enumeration Forms to get back in final list instead of Form 6",
     "India probes Future Retail in alleged bank fraud case",
     "‘Accused claims wife’s family humiliated him’: Minister Priyank Kharge on Bengaluru family massacre",
-    "Fire breaks out on 23rd floor of 25-storey Mumbai's Ghatkopar high-rise",
-    "Double hoax: Takedown notices from RSS, Delhi Police to digital rights groups turn out to be fake",
-    "New bomb threats target European broadcasters, air traffic",
-    "Meghan Markle's father arrested for possessing child sexual abuse materials",
-    "Kenyan court sentences starvation cult leader to 200 years",
-    "Why did GOP back him? Vivek Ramaswamy gets torched by Ron DeSantis after Ohio rout",
-    "Indian rupee hits six-month high as foreign investors return to equities, turn away from AI-heavy markets",
-    "$2.5 trillion wiped off Nasdaq 100 as U.S. midterm outcome adds to AI stock slump",
+    "Delhi College Accountant Duped Of Rs 80 Lakh In 'Boss Fraud'",
+    "After dozens of flights, broadcasters across Europe get bomb threats - what's going on",
+    "Seafarer killed in suspected missile attack on tanker in Gulf",
+    "Child abuse material, photos with minors: Meghan's father Thomas Markle arrested in Florida | World News",
+    "Santiago Pena, Paraguay President, steps down as banking crisis sows chaos",
+    "Indian rupee hits six-month high as foreign inflows return, investors turn away from AI-heavy markets",
     "Stock Market Close: Nifty reclaims 25K as rally extends to 7th day; Sensex up 1,718 pts; banks shine",
     "ONGC Moves to Take Over Venezuelan Oilfields, Recover $500 Million",
-    "Sony’s Walkman-era MDR-3 headphones are back with USB-C and a $60 price tag",
-    "Where is Windows 12?",
-    "Motorola brings Signature 27 smartphone to Brazil",
+    "$2.5 trillion wiped off Nasdaq 100 as U.S. midterm outcome adds to AI stock slump",
+    "Motorola Signature 27 tops DXOMARK’s 2026 smartphone camera rankings with 173 score",
+    "AI-Assisted Proof Settles Longstanding Question About Quantum Speedups",
+    "OpenAI launches GPT-6 Cyber with 'Critical' cybersecurity rating",
     "‘The Legend of Zelda: Ocarina of Time’ Drops for Nintendo Switch 2: Here’s Where to Shop the Remake Online",
     "Ramayana Part One Early Box Office Trends: Ranbir Kapoor and Yash starrer holds well on Day 2 in India, Dubbed versions impress",
     "Hanuman Ansh To Stream On Sony Liv From This Date",
-    "Mahesh Babu reviews 'Ramayana: Rise of a Legend', calls Ranbir Kapoor, Yash and Sai Pallavi 'magical' in"
+    "Salman Khan at ‘Maatrubhumi’ trailer launch: Focus on Ram’s qualities, not ‘Ramayana’ budget or VFX"
   ],
   "quiz": [
     {
-      "blanked": "SCOOP: Salman Khan and Jio Studios strategise December 4 release for Maatrubhumi against ______ distribution battle intensifies",
-      "answer": "Eetha",
+      "blanked": "$2.5 trillion wiped off Nasdaq ______ as U.S. midterm outcome adds to AI stock slump",
+      "answer": "100",
       "options": [
-        "Future",
-        "Mumbais",
-        "Eetha",
-        "Take"
+        "Expert",
+        "Box",
+        "Priyank",
+        "100"
       ]
     },
     {
-      "blanked": "Pakistan's leaders dread US ______ win but its households are praying for it",
-      "answer": "Democrats",
+      "blanked": "India probes ______ Retail in alleged bank fraud case",
+      "answer": "Future",
+      "options": [
+        "Delhi",
+        "Shami",
+        "Future",
+        "Pre-Sales"
+      ]
+    },
+    {
+      "blanked": "Scene Box Office Day 1 Advance Booking (Final): Registers Highest ______ Day Pre-Sales For Suriya!",
+      "answer": "Opening",
+      "options": [
+        "Weight",
+        "Speedups",
+        "Beauty",
+        "Opening"
+      ]
+    },
+    {
+      "blanked": "Salman ______ at ‘Maatrubhumi’ trailer launch: Focus on Ram’s qualities, not ‘Ramayana’ budget or VFX",
+      "answer": "Khan",
+      "options": [
+        "South",
+        "Non-Smokers",
+        "Khan",
+        "Expert"
+      ]
+    },
+    {
+      "blanked": "Zeptoverse: Scientists At CERN Find ______ Of Rarest Beauty Particle Decay Yet",
+      "answer": "Evidence",
+      "options": [
+        "Evidence",
+        "Ansh",
+        "Take",
+        "Speedups"
+      ]
+    },
+    {
+      "blanked": "OpenAI launches GPT-6 ______ with 'Critical' cybersecurity rating",
+      "answer": "Cyber",
+      "options": [
+        "Cyber",
+        "Venezuelan",
+        "Delhi",
+        "CERN"
+      ]
+    },
+    {
+      "blanked": "Delhi College Accountant Duped Of Rs 80 Lakh In 'Boss ______",
+      "answer": "Fraud",
+      "options": [
+        "Part",
+        "Non-Smokers",
+        "Fraud",
+        "News"
+      ]
+    },
+    {
+      "blanked": "Child abuse material, photos with minors: Meghan's father ______ Markle arrested in Florida | World News",
+      "answer": "Thomas",
+      "options": [
+        "Thomas",
+        "Duped",
+        "Zealand",
+        "Early"
+      ]
+    },
+    {
+      "blanked": "Nithya Raman wins LA mayoral race, becoming city’s first ______ Asian mayor",
+      "answer": "South",
+      "options": [
+        "Nintendo",
+        "Rain",
+        "South",
+        "Post"
+      ]
+    },
+    {
+      "blanked": "Cristiano Ronaldo: ______ polarising icon and his bitter final act",
+      "answer": "Portugals",
+      "options": [
+        "Portugals",
+        "Courts",
+        "Part",
+        "Cyber"
+      ]
+    },
+    {
+      "blanked": "Stock Market Close: ______ reclaims 25K as rally extends to 7th day; Sensex up 1,718 pts; banks shine",
+      "answer": "Nifty",
+      "options": [
+        "Nifty",
+        "Focus",
+        "Beauty",
+        "Sony"
+      ]
+    },
+    {
+      "blanked": "Team led by ______ astronomers redefine star cluster UBC 63 as a double cluster system spotted after close flyby",
+      "answer": "Indian",
       "options": [
         "Indian",
-        "Disease",
-        "Sunday",
-        "Democrats"
-      ]
-    },
-    {
-      "blanked": "Ramayana Part One Early ______ Office Trends: Ranbir Kapoor and Yash starrer holds well on Day 2 in India, Dubbed versions impress",
-      "answer": "Box",
-      "options": [
-        "Box",
-        "Kapoor",
-        "Bengaluru",
-        "Sensex"
-      ]
-    },
-    {
-      "blanked": "Cristiano ______ Portugal’s polarising icon and his bitter final act",
-      "answer": "Ronaldo",
-      "options": [
-        "IND",
-        "Ramaswamy",
-        "Moves",
-        "Ronaldo"
-      ]
-    },
-    {
-      "blanked": "‘The ______ of Zelda: Ocarina of Time’ Drops for Nintendo Switch 2: Here’s Where to Shop the Remake Online",
-      "answer": "Legend",
-      "options": [
-        "Priyank",
-        "Swift",
-        "Feeding",
-        "Legend"
-      ]
-    },
-    {
-      "blanked": "Hanuman Ansh To ______ On Sony Liv From This Date",
-      "answer": "Stream",
-      "options": [
-        "Bodies",
-        "Million",
-        "ODI",
-        "Stream"
-      ]
-    },
-    {
-      "blanked": "New bomb threats target ______ broadcasters, air traffic",
-      "answer": "European",
-      "options": [
-        "Ocarina",
-        "European",
-        "Ranbir",
-        "Office"
-      ]
-    },
-    {
-      "blanked": "SMAT ______ Vaibhav Sooryavanshi named Bihar captain",
-      "answer": "2026",
-      "options": [
-        "2026",
-        "Wellington",
-        "Salman",
-        "Delhi"
-      ]
-    },
-    {
-      "blanked": "India’s veteran fast bowler brings ______ career to a close",
-      "answer": "Test",
-      "options": [
-        "Vaibhav",
-        "Jio",
-        "Ramaswamy",
-        "Test"
-      ]
-    },
-    {
-      "blanked": "Meghan ______ father arrested for possessing child sexual abuse materials",
-      "answer": "Markles",
-      "options": [
-        "Salman",
-        "2026",
-        "Markles",
-        "Nasdaq"
-      ]
-    },
-    {
-      "blanked": "Team led by Indian astronomers redefine star cluster ______ 63 as a double cluster system spotted after close flyby",
-      "answer": "UBC",
-      "options": [
-        "UBC",
-        "Close",
-        "IND",
-        "Test"
-      ]
-    },
-    {
-      "blanked": "Navigating the Cardiometabolic Pathways of Child Feeding in ______",
-      "answer": "India",
-      "options": [
-        "Non-Smokers",
-        "Maatrubhumi",
-        "Mumbais",
-        "India"
+        "Weight",
+        "Scientists",
+        "AI-heavy"
       ]
     }
   ]
