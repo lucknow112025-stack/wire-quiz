@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-11-07T06:45:21.569Z",
+  "generatedAt": "2026-11-07T13:41:26.956Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "After Midterm Rout, Trump Announces Stephen Miller As New Chief Of Staff",
-    "‘My thought was always: he will be killed next’: Sonia Gandhi on marrying into an Indian political dynasty and her husband’s assassination",
-    "Trump confirms new US strikes on Iran’s Qeshm Island",
-    "Delhi's toxic winter air is back - is the Indian capital prepared for pollution?",
-    "Bengaluru cab driver kills wife, six members of her family; dumps bodies at different locations",
-    "Bank collapse leaves half of Paraguay without fund access under economist-president",
-    "Andhra Pradesh MPTC, ZPTC election results LIVE: Counting under way across 365 centres amidst high security",
-    "\"Cropped, Out-Of-Context\": Minister To Rahul Gandhi Over Amit Shah's SIR Clip",
-    "Delhi Building Collapse Death Count Rises To 3 As Rescue Ops Enter Day 3",
-    "'Who has time to kill him?' BJP-TMC spar after attack on Abhishek Banerjee's house",
-    "'Voices in head said to kill president': Man with firearms and ammunition arrested near White House",
-    "Nithya Raman, first South Asian to lead Los Angeles, was born in Keralam’s Thrissur | India News",
-    "'Will attack without geographic limits': Iran's fresh warning to US after Trump's threats | World News",
-    "US announces $20 million reward for intelligence on Iran's nuclear programme",
-    "OpenAI gets $11 billion funding at $1.25 trillion valuation, source says",
-    "$2.5 trillion wiped off Nasdaq 100 as U.S. midterm outcome adds to AI stock slump",
-    "ONGC Moves to Take Over Venezuelan Oilfields, Recover $500 Million",
-    "Gold prices fall as blowout U.S. jobs report boosts Fed rate hike bets By Investing.com",
-    "2026 iPad mini review: Maximizing the mini",
+    "PM Modi meets VP CP Radhakrishnan to exchange Diwali greetings",
+    "‘I’d always disliked politics’ | An excerpt from Sonia Gandhi’s ‘Belonging: A Journey of Love’",
+    "In Faridabad for nephew's wedding, ex-Tech Mahindra regional business head shot dead by neighbour over pa",
+    "Andhra Pradesh MPTC, ZPTC election results LIVE: TDP leads in multiple Zilla, Mandal Parishads",
+    "Trump confirms new US strikes on Iran’s Qeshm island",
+    "7th attempt on my life in 6 months: Abhishek Banerjee claims BJP attack on home",
+    "On Camera, 2 Passengers Fight On Mumbai Local Train, 1 Falls Off",
+    "Kochi doctor's phone reveals sexual abuse of several women after he alleges assault by Malayalam actors | India News",
+    "UPSC, 'Kaun Banega Crorepati' Dreams Shattered, Man Turns To Theft In Mumbai",
+    "Akhilesh Yadav to visit Ayodhya Ram Temple with family for first time since consecration | India News",
+    "Trump's New Chief Of Staff Once Criticised India Over Russian Oil, Trade",
+    "Two main parties neck and neck after New Zealand vote, near complete count",
+    "Russia says it hit targets in and around Kyiv in massive overnight strike",
+    "Why a wave of bomb threats is proving so difficult for Europe's aviation authorities to contain",
+    "Sensex up 10.6% in 7-session pre-Diwali rally, best in 35 yrs",
+    "Coca-Cola India bottling arm HCCB's parent files DRHP with SEBI for IPO",
+    "Tata Steel Q2 Results: Profit rises 16% YoY to Rs 3,700 crore, revenue up 11%; Noel Tata to retire as dire",
+    "SEBI's new settlement regulations to come into effect from November 7, online application facility...",
+    "ChatGPT's New Interactive Tools Challenge Brands' Digital Products",
+    "From one photograph’s global reach to watchlist alerts: Five small userscripts for Wikimedia contributors",
+    "Jamieson on bowler-friendly pitches: What do you think? You like it?",
     "Motorola Signature 27 launched: 200MP camera, Gemini AI, 7,000mAh battery and GrapheneOS support — what’s new?",
-    "OpenAI Launches GPT-6 Cyber, Expanding AI Vulnerability Research and Finds 1000+ Exploits",
-    "‘The Legend of Zelda: Ocarina of Time’ Drops for Nintendo Switch 2: Here’s Where to Shop the Remake Online",
-    "Ramayana Part One Early Box Office Trends: Ranbir Kapoor and Yash starrer holds well on Day 2 in India, Dubbed versions impress",
-    "'Scene' vs 'Mookuthi Amman 2' box office collection Day 1 [Live]: Suriya starrer takes the lead over Naya",
-    "\"Talk About Ram-Sita, Not Budget Or VFX\": Salman Khan On Rs 4,000-Crore Ramayana"
+    "Ramayana Part One Box Office Collections: Ranbir Kapoor and Yash starrer tops USD 10 million overseas in 2 days, Worldwide at Rs. 227 Cr",
+    "Scene Box Office Collection Day 1: Suriya Film Opens With Rs 22 Crore, Surpasses Karuppu, Vishwanath & Sons",
+    "Shehzad Poonawalla Wins Rise And Fall Season 2, Vows To Donate Rs 35 Lakh Prize Money"
   ],
   "quiz": [
     {
-      "blanked": "Delhi's toxic winter air is back - is the ______ capital prepared for pollution?",
-      "answer": "Indian",
+      "blanked": "In ______ for nephew's wedding, ex-Tech Mahindra regional business head shot dead by neighbour over pa",
+      "answer": "Faridabad",
       "options": [
-        "Wellington",
-        "Indian",
-        "Raman",
-        "White"
-      ]
-    },
-    {
-      "blanked": "After Midterm Rout, Trump Announces Stephen Miller As New ______ Of Staff",
-      "answer": "Chief",
-      "options": [
-        "Deaths",
-        "Chief",
-        "Find",
-        "Japanese"
-      ]
-    },
-    {
-      "blanked": "'Who has time to kill him?' ______ spar after attack on Abhishek Banerjee's house",
-      "answer": "BJP-TMC",
-      "options": [
-        "Higher",
-        "FUMES",
+        "Faridabad",
         "Usman",
-        "BJP-TMC"
+        "Supermoons",
+        "Money"
       ]
     },
     {
-      "blanked": "OpenAI Launches GPT-6 Cyber, Expanding AI Vulnerability Research and Finds ______ Exploits",
-      "answer": "1000",
+      "blanked": "Scene Box Office Collection Day 1: Suriya ______ Opens With Rs 22 Crore, Surpasses Karuppu, Vishwanath & Sons",
+      "answer": "Film",
       "options": [
-        "Moves",
-        "1000",
-        "Counting",
-        "Find"
+        "Crorepati",
+        "Lakh",
+        "Film",
+        "Modi"
       ]
     },
     {
-      "blanked": "'Voices in head said to kill president': Man with firearms and ammunition arrested near ______ House",
-      "answer": "White",
+      "blanked": "Akhilesh Yadav to visit Ayodhya ______ Temple with family for first time since consecration | India News",
+      "answer": "Ram",
       "options": [
-        "Time",
-        "Ramayana",
-        "White",
+        "Festive",
+        "Ram",
+        "Gandhis",
+        "Set"
+      ]
+    },
+    {
+      "blanked": "7th attempt on my life in 6 months: ______ Banerjee claims BJP attack on home",
+      "answer": "Abhishek",
+      "options": [
+        "Part",
+        "Brands",
+        "Abhishek",
+        "Turns"
+      ]
+    },
+    {
+      "blanked": "Tata Steel Q2 Results: Profit rises 16% ______ to Rs 3,700 crore, revenue up 11%; Noel Tata to retire as dire",
+      "answer": "YoY",
+      "options": [
+        "YoY",
+        "TDP",
+        "Banerjee",
+        "Faridabad"
+      ]
+    },
+    {
+      "blanked": "Get, Set, ______ Festive Edition",
+      "answer": "Glow",
+      "options": [
+        "Glow",
+        "Products",
+        "Lenin",
+        "Sons"
+      ]
+    },
+    {
+      "blanked": "Ramayana Part One Box Office Collections: ______ Kapoor and Yash starrer tops USD 10 million overseas in 2 days, Worldwide at Rs. 227 Cr",
+      "answer": "Ranbir",
+      "options": [
+        "Ranbir",
+        "Results",
+        "Afridis",
+        "ZPTC"
+      ]
+    },
+    {
+      "blanked": "UPSC, 'Kaun Banega Crorepati' Dreams Shattered, Man ______ To Theft In Mumbai",
+      "answer": "Turns",
+      "options": [
+        "Turns",
+        "Karuppu",
+        "Ayodhya",
+        "Fight"
+      ]
+    },
+    {
+      "blanked": "Potassium-enriched salt could prevent nearly 4 lakh deaths in ______ annually, says study",
+      "answer": "India",
+      "options": [
+        "Kaun",
+        "November",
+        "India",
+        "Qeshm"
+      ]
+    },
+    {
+      "blanked": "'Merku Thodarchi Malai' director ______ Bharathi slams Kamal Haasan over 'KH 237' revenge tagline: says so",
+      "answer": "Lenin",
+      "options": [
+        "IPO",
+        "Sonia",
+        "Ayodhya",
+        "Lenin"
+      ]
+    },
+    {
+      "blanked": "Motorola Signature 27 launched: 200MP camera, Gemini AI, 7,000mAh battery and ______ support — what’s new?",
+      "answer": "GrapheneOS",
+      "options": [
+        "Radhakrishnan",
+        "GrapheneOS",
+        "Row",
         "Day"
       ]
     },
     {
-      "blanked": "OpenAI gets $11 billion funding at ______ trillion valuation, source says",
-      "answer": "1.25",
+      "blanked": "Trump's New ______ Of Staff Once Criticised India Over Russian Oil, Trade",
+      "answer": "Chief",
       "options": [
-        "1.25",
-        "Man",
-        "IND",
-        "Could"
-      ]
-    },
-    {
-      "blanked": "Motorola Signature 27 launched: 200MP camera, ______ AI, 7,000mAh battery and GrapheneOS support — what’s new?",
-      "answer": "Gemini",
-      "options": [
-        "Drops",
-        "Out-Of-Context",
-        "Gemini",
-        "Amman"
-      ]
-    },
-    {
-      "blanked": "US announces $20 million reward for intelligence on ______ nuclear programme",
-      "answer": "Irans",
-      "options": [
-        "Irans",
-        "Earth",
-        "Shahs",
-        "Japanese"
-      ]
-    },
-    {
-      "blanked": "Ramayana Part ______ Early Box Office Trends: Ranbir Kapoor and Yash starrer holds well on Day 2 in India, Dubbed versions impress",
-      "answer": "One",
-      "options": [
-        "Dubbed",
-        "Study",
-        "Yash",
-        "One"
-      ]
-    },
-    {
-      "blanked": "Zeptoverse: Scientists At CERN Find Evidence Of ______ Beauty Particle Decay Yet",
-      "answer": "Rarest",
-      "options": [
-        "Counting",
-        "Rarest",
-        "Nasdaq",
-        "Fed"
-      ]
-    },
-    {
-      "blanked": "'Scene' vs 'Mookuthi Amman 2' box office collection Day 1 ______ Suriya starrer takes the lead over Naya",
-      "answer": "Live",
-      "options": [
-        "Time",
-        "ODI",
-        "Box",
-        "Live"
-      ]
-    },
-    {
-      "blanked": "Estrogen Use Linked to Higher ______ of Rare Skin Disorder",
-      "answer": "Odds",
-      "options": [
-        "Man",
-        "Midterm",
-        "LIVE",
-        "Odds"
+        "Record",
+        "All",
+        "Chief",
+        "Brands"
       ]
     }
   ]
