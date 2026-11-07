@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-11-07T00:53:52.331Z",
+  "generatedAt": "2026-11-07T06:45:21.569Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
     "After Midterm Rout, Trump Announces Stephen Miller As New Chief Of Staff",
-    "\"Hope You're Enjoying Weather\": Supreme Court's Quip On Delhi Pollution",
-    "Immigration after the midterms: A new Congress, but who holds the power?",
-    "UN climate talks start in the year of disasters, energy price shocks and fast rising temperatures",
-    "Nithya Raman wins LA mayoral race, becoming city’s first South Asian mayor",
-    "Mohammed Shami retires from Test cricket",
-    "Voters in SIR states can now refill Enumeration Forms to get back in final list instead of Form 6",
-    "India probes Future Retail in alleged bank fraud case",
-    "‘Accused claims wife’s family humiliated him’: Minister Priyank Kharge on Bengaluru family massacre",
-    "Delhi College Accountant Duped Of Rs 80 Lakh In 'Boss Fraud'",
-    "After dozens of flights, broadcasters across Europe get bomb threats - what's going on",
-    "Seafarer killed in suspected missile attack on tanker in Gulf",
-    "Child abuse material, photos with minors: Meghan's father Thomas Markle arrested in Florida | World News",
-    "Santiago Pena, Paraguay President, steps down as banking crisis sows chaos",
-    "Indian rupee hits six-month high as foreign inflows return, investors turn away from AI-heavy markets",
-    "Stock Market Close: Nifty reclaims 25K as rally extends to 7th day; Sensex up 1,718 pts; banks shine",
-    "ONGC Moves to Take Over Venezuelan Oilfields, Recover $500 Million",
+    "‘My thought was always: he will be killed next’: Sonia Gandhi on marrying into an Indian political dynasty and her husband’s assassination",
+    "Trump confirms new US strikes on Iran’s Qeshm Island",
+    "Delhi's toxic winter air is back - is the Indian capital prepared for pollution?",
+    "Bengaluru cab driver kills wife, six members of her family; dumps bodies at different locations",
+    "Bank collapse leaves half of Paraguay without fund access under economist-president",
+    "Andhra Pradesh MPTC, ZPTC election results LIVE: Counting under way across 365 centres amidst high security",
+    "\"Cropped, Out-Of-Context\": Minister To Rahul Gandhi Over Amit Shah's SIR Clip",
+    "Delhi Building Collapse Death Count Rises To 3 As Rescue Ops Enter Day 3",
+    "'Who has time to kill him?' BJP-TMC spar after attack on Abhishek Banerjee's house",
+    "'Voices in head said to kill president': Man with firearms and ammunition arrested near White House",
+    "Nithya Raman, first South Asian to lead Los Angeles, was born in Keralam’s Thrissur | India News",
+    "'Will attack without geographic limits': Iran's fresh warning to US after Trump's threats | World News",
+    "US announces $20 million reward for intelligence on Iran's nuclear programme",
+    "OpenAI gets $11 billion funding at $1.25 trillion valuation, source says",
     "$2.5 trillion wiped off Nasdaq 100 as U.S. midterm outcome adds to AI stock slump",
-    "Motorola Signature 27 tops DXOMARK’s 2026 smartphone camera rankings with 173 score",
-    "AI-Assisted Proof Settles Longstanding Question About Quantum Speedups",
-    "OpenAI launches GPT-6 Cyber with 'Critical' cybersecurity rating",
+    "ONGC Moves to Take Over Venezuelan Oilfields, Recover $500 Million",
+    "Gold prices fall as blowout U.S. jobs report boosts Fed rate hike bets By Investing.com",
+    "2026 iPad mini review: Maximizing the mini",
+    "Motorola Signature 27 launched: 200MP camera, Gemini AI, 7,000mAh battery and GrapheneOS support — what’s new?",
+    "OpenAI Launches GPT-6 Cyber, Expanding AI Vulnerability Research and Finds 1000+ Exploits",
     "‘The Legend of Zelda: Ocarina of Time’ Drops for Nintendo Switch 2: Here’s Where to Shop the Remake Online",
     "Ramayana Part One Early Box Office Trends: Ranbir Kapoor and Yash starrer holds well on Day 2 in India, Dubbed versions impress",
-    "Hanuman Ansh To Stream On Sony Liv From This Date",
-    "Salman Khan at ‘Maatrubhumi’ trailer launch: Focus on Ram’s qualities, not ‘Ramayana’ budget or VFX"
+    "'Scene' vs 'Mookuthi Amman 2' box office collection Day 1 [Live]: Suriya starrer takes the lead over Naya",
+    "\"Talk About Ram-Sita, Not Budget Or VFX\": Salman Khan On Rs 4,000-Crore Ramayana"
   ],
   "quiz": [
     {
-      "blanked": "$2.5 trillion wiped off Nasdaq ______ as U.S. midterm outcome adds to AI stock slump",
-      "answer": "100",
-      "options": [
-        "Expert",
-        "Box",
-        "Priyank",
-        "100"
-      ]
-    },
-    {
-      "blanked": "India probes ______ Retail in alleged bank fraud case",
-      "answer": "Future",
-      "options": [
-        "Delhi",
-        "Shami",
-        "Future",
-        "Pre-Sales"
-      ]
-    },
-    {
-      "blanked": "Scene Box Office Day 1 Advance Booking (Final): Registers Highest ______ Day Pre-Sales For Suriya!",
-      "answer": "Opening",
-      "options": [
-        "Weight",
-        "Speedups",
-        "Beauty",
-        "Opening"
-      ]
-    },
-    {
-      "blanked": "Salman ______ at ‘Maatrubhumi’ trailer launch: Focus on Ram’s qualities, not ‘Ramayana’ budget or VFX",
-      "answer": "Khan",
-      "options": [
-        "South",
-        "Non-Smokers",
-        "Khan",
-        "Expert"
-      ]
-    },
-    {
-      "blanked": "Zeptoverse: Scientists At CERN Find ______ Of Rarest Beauty Particle Decay Yet",
-      "answer": "Evidence",
-      "options": [
-        "Evidence",
-        "Ansh",
-        "Take",
-        "Speedups"
-      ]
-    },
-    {
-      "blanked": "OpenAI launches GPT-6 ______ with 'Critical' cybersecurity rating",
-      "answer": "Cyber",
-      "options": [
-        "Cyber",
-        "Venezuelan",
-        "Delhi",
-        "CERN"
-      ]
-    },
-    {
-      "blanked": "Delhi College Accountant Duped Of Rs 80 Lakh In 'Boss ______",
-      "answer": "Fraud",
-      "options": [
-        "Part",
-        "Non-Smokers",
-        "Fraud",
-        "News"
-      ]
-    },
-    {
-      "blanked": "Child abuse material, photos with minors: Meghan's father ______ Markle arrested in Florida | World News",
-      "answer": "Thomas",
-      "options": [
-        "Thomas",
-        "Duped",
-        "Zealand",
-        "Early"
-      ]
-    },
-    {
-      "blanked": "Nithya Raman wins LA mayoral race, becoming city’s first ______ Asian mayor",
-      "answer": "South",
-      "options": [
-        "Nintendo",
-        "Rain",
-        "South",
-        "Post"
-      ]
-    },
-    {
-      "blanked": "Cristiano Ronaldo: ______ polarising icon and his bitter final act",
-      "answer": "Portugals",
-      "options": [
-        "Portugals",
-        "Courts",
-        "Part",
-        "Cyber"
-      ]
-    },
-    {
-      "blanked": "Stock Market Close: ______ reclaims 25K as rally extends to 7th day; Sensex up 1,718 pts; banks shine",
-      "answer": "Nifty",
-      "options": [
-        "Nifty",
-        "Focus",
-        "Beauty",
-        "Sony"
-      ]
-    },
-    {
-      "blanked": "Team led by ______ astronomers redefine star cluster UBC 63 as a double cluster system spotted after close flyby",
+      "blanked": "Delhi's toxic winter air is back - is the ______ capital prepared for pollution?",
       "answer": "Indian",
       "options": [
+        "Wellington",
         "Indian",
-        "Weight",
-        "Scientists",
-        "AI-heavy"
+        "Raman",
+        "White"
+      ]
+    },
+    {
+      "blanked": "After Midterm Rout, Trump Announces Stephen Miller As New ______ Of Staff",
+      "answer": "Chief",
+      "options": [
+        "Deaths",
+        "Chief",
+        "Find",
+        "Japanese"
+      ]
+    },
+    {
+      "blanked": "'Who has time to kill him?' ______ spar after attack on Abhishek Banerjee's house",
+      "answer": "BJP-TMC",
+      "options": [
+        "Higher",
+        "FUMES",
+        "Usman",
+        "BJP-TMC"
+      ]
+    },
+    {
+      "blanked": "OpenAI Launches GPT-6 Cyber, Expanding AI Vulnerability Research and Finds ______ Exploits",
+      "answer": "1000",
+      "options": [
+        "Moves",
+        "1000",
+        "Counting",
+        "Find"
+      ]
+    },
+    {
+      "blanked": "'Voices in head said to kill president': Man with firearms and ammunition arrested near ______ House",
+      "answer": "White",
+      "options": [
+        "Time",
+        "Ramayana",
+        "White",
+        "Day"
+      ]
+    },
+    {
+      "blanked": "OpenAI gets $11 billion funding at ______ trillion valuation, source says",
+      "answer": "1.25",
+      "options": [
+        "1.25",
+        "Man",
+        "IND",
+        "Could"
+      ]
+    },
+    {
+      "blanked": "Motorola Signature 27 launched: 200MP camera, ______ AI, 7,000mAh battery and GrapheneOS support — what’s new?",
+      "answer": "Gemini",
+      "options": [
+        "Drops",
+        "Out-Of-Context",
+        "Gemini",
+        "Amman"
+      ]
+    },
+    {
+      "blanked": "US announces $20 million reward for intelligence on ______ nuclear programme",
+      "answer": "Irans",
+      "options": [
+        "Irans",
+        "Earth",
+        "Shahs",
+        "Japanese"
+      ]
+    },
+    {
+      "blanked": "Ramayana Part ______ Early Box Office Trends: Ranbir Kapoor and Yash starrer holds well on Day 2 in India, Dubbed versions impress",
+      "answer": "One",
+      "options": [
+        "Dubbed",
+        "Study",
+        "Yash",
+        "One"
+      ]
+    },
+    {
+      "blanked": "Zeptoverse: Scientists At CERN Find Evidence Of ______ Beauty Particle Decay Yet",
+      "answer": "Rarest",
+      "options": [
+        "Counting",
+        "Rarest",
+        "Nasdaq",
+        "Fed"
+      ]
+    },
+    {
+      "blanked": "'Scene' vs 'Mookuthi Amman 2' box office collection Day 1 ______ Suriya starrer takes the lead over Naya",
+      "answer": "Live",
+      "options": [
+        "Time",
+        "ODI",
+        "Box",
+        "Live"
+      ]
+    },
+    {
+      "blanked": "Estrogen Use Linked to Higher ______ of Rare Skin Disorder",
+      "answer": "Odds",
+      "options": [
+        "Man",
+        "Midterm",
+        "LIVE",
+        "Odds"
       ]
     }
   ]
