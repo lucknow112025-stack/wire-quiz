@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-11-08T19:08:50.251Z",
+  "generatedAt": "2026-11-08T22:51:49.024Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "Delhi’s air quality ‘very poor’ on Diwali, expected to worsen | India News",
-    "Eisenkot open to Netanyahu joining Israel’s next government",
+    "Delhi records ‘very poor’ air quality on Diwali with 376 AQI",
     "Train crash kills seven, injures dozens near Egypt’s Cairo city",
+    "Democrats turn up heat on Hegseth, vow impeachment push after midterm victories",
+    "Israeli President picks opposition candidate Gadi Eisenkot to form government in setback for Netanyahu",
     "The great White mix-up: Did Trump offer White House job to the wrong Dana White?",
     "'Deport all dot heads': Diwali celebrations disrupted in Seattle by far-right activists; lawmakers condemn incident",
-    "​Market Trading Guide: ITC, ICICI Bank among 5 stock recommendations for Muhurat trading session",
     "'Armed Naxals wiped out, but threat not over': PM Modi warns of 'Dimagi Naxals' in political parties",
-    "Portion of false ceiling collapses outside Mumbai airport terminal 2; 1 injured",
     "HD Kumaraswamy Claims IAS Officer Paid Bribe To Stop Transfer, Points To Minister",
     "'Notebandi' devastated economy, 'votebandi' destroying polity: Congress slams PM Modi",
+    "Photos: Diwali celebrations light up India and its global diaspora",
     "Saudi Aramco building in Riyadh damaged in ‘attempted’ attack",
-    "U.S. launches task force to disrupt land transit routes into Iran",
-    "3 Bodies Found At Gunman's House Who Killed 6 In Poland's Krakow",
     "Giant step back in history: Trump vows stronger comeback after Republican rout in midterms",
+    "Poland mass shooting: PM says footage shows 3 bodies at suspect’s home; minister cites far-right influenc",
+    "Explosions rock Iran's Qeshm Island, Jask; two oil tankers hit mines in Strait of Hormuz",
+    "A rare red Diwali: Sensex ends Muhurat trading lower for only the eighth time in 30 years",
+    "Nvidia CEO Jensen Huang admits affair with Singapore-based company's CEO; read his email to Nvidia's empl",
     "Indian economy to grow faster, foreign capital returning to markets: NSE CEO Ashishkumar Chauhan",
-    "Pune woman laid off by Canva on maternity leave shares how severance will help",
-    "North Korea's army of world-class hackers is secret weapon that took down Binance",
-    "It's not made for India: Deepinder Goyal addresses criticism on Temple's 'too high' price",
-    "I Took the iPhone 18 Pro Max to Japan and Its New Camera System Brought Out My Creative Side",
+    "Gold prices crash 24% globally but fall only 20% in India: Why domestic buyers aren't seeing the full price correction",
+    "I tested the iPhone 18 Pro's variable aperture and new Photographic Styles in New Zealand — here are 35 of my favorite photos",
+    "Quordle Hint Today: Monday, November 9 Clues And Answers",
     "Sony revives iconic 1979 Walkman design with MDR-3R USB-C headphones: Check price in India",
-    "Aditya Birla New Age Hospitality launches NAMI, its new vinyl listening bar in Bandra",
-    "Quordle Hint Today: Sunday, November 8 Clues And Answers",
+    "Apple Says 100,000 Apps Are Already Built for iPhone Duo. Google Should Pay Attention",
     "Ramayana Part One Box Office Collections: Ranbir Kapoor and Yash starrer scores Biggest Single Day Overseas for Indian cinema",
-    "Katrina Kaif, Vicky Kaushal Reveal Son Vihaan's Face On Diwali In Coordinated Festive Outfits",
-    "Daler Mehndi thanks fans for their support during Uttarakhand event controversy, says brother Mika Singh showed up like a force to reckon with | Bollywood"
+    "Amitabh Bachchan greets fans outside Jalsa without bulletproof glass, wishes fans 'Happy Diwali' on the m",
+    "'Mookuthi Amman 2' box office collections day 2 vs 'Jailer 2': Nayanthara's film earns Rs 2.45 Cr; Rajini"
   ],
   "quiz": [
     {
-      "blanked": "'Notebandi' devastated economy, 'votebandi' destroying polity: ______ slams PM Modi",
-      "answer": "Congress",
+      "blanked": "Delhi records ‘very poor’ air quality on Diwali with ______ AQI",
+      "answer": "376",
+      "options": [
+        "376",
+        "Adkar",
+        "Eisenkot",
+        "Check"
+      ]
+    },
+    {
+      "blanked": "The great White mix-up: Did Trump offer White ______ job to the wrong Dana White?",
+      "answer": "House",
+      "options": [
+        "Nvidias",
+        "Season",
+        "Beat",
+        "House"
+      ]
+    },
+    {
+      "blanked": "Apple Says 100,000 Apps Are Already Built for iPhone Duo. Google Should ______ Attention",
+      "answer": "Pay",
       "options": [
         "Congress",
-        "Netanyahu",
-        "Cairo",
-        "Guide"
+        "BMI",
+        "President",
+        "Pay"
       ]
     },
     {
-      "blanked": "Katrina Kaif, Vicky ______ Reveal Son Vihaan's Face On Diwali In Coordinated Festive Outfits",
-      "answer": "Kaushal",
+      "blanked": "Ramayana Part One Box Office Collections: Ranbir Kapoor and ______ starrer scores Biggest Single Day Overseas for Indian cinema",
+      "answer": "Yash",
       "options": [
-        "Points",
-        "NAMI",
-        "Most",
-        "Kaushal"
+        "1979",
+        "Muhurat",
+        "Health",
+        "Yash"
       ]
     },
     {
-      "blanked": "Saudi ______ building in Riyadh damaged in ‘attempted’ attack",
-      "answer": "Aramco",
+      "blanked": "HD Kumaraswamy Claims IAS Officer Paid Bribe To Stop Transfer, Points To ______",
+      "answer": "Minister",
       "options": [
-        "Israels",
-        "Ashishkumar",
-        "Aramco",
-        "England"
+        "20%",
+        "Minister",
+        "Arrhythmias",
+        "Masters"
       ]
     },
     {
-      "blanked": "HD Kumaraswamy Claims IAS Officer Paid Bribe To Stop Transfer, ______ To Minister",
-      "answer": "Points",
+      "blanked": "Democrats turn up heat on ______ vow impeachment push after midterm victories",
+      "answer": "Hegseth",
       "options": [
-        "Overseas",
-        "Deepinder",
-        "Mika",
-        "Points"
+        "Qeshm",
+        "Pros",
+        "Hegseth",
+        "AQI"
       ]
     },
     {
-      "blanked": "Ramayana Part One Box Office Collections: Ranbir Kapoor and Yash starrer scores Biggest Single Day Overseas for ______ cinema",
-      "answer": "Indian",
+      "blanked": "Giant step back in history: Trump vows stronger comeback after ______ rout in midterms",
+      "answer": "Republican",
       "options": [
-        "Out",
-        "Dimagi",
-        "Single",
+        "ECG",
+        "Republican",
+        "Answers",
+        "Mars"
+      ]
+    },
+    {
+      "blanked": "Salman ______ questions Rs 4,000 crore budget narrative around Ramayana: ‘Film should be discussed for characters’",
+      "answer": "Khan",
+      "options": [
+        "Health",
+        "Across",
+        "Khan",
+        "Part"
+      ]
+    },
+    {
+      "blanked": "Nvidia CEO Jensen Huang admits affair with ______ company's CEO; read his email to Nvidia's empl",
+      "answer": "Singapore-based",
+      "options": [
+        "Singapore-based",
+        "Mars",
+        "Rajini",
         "Indian"
       ]
     },
     {
-      "blanked": "Nasa's ______ burns up, highlighting challenges of boosting satellites",
-      "answer": "Swift",
+      "blanked": "November 24 moon to be a 'supermoon' | December 24 full moon to also be a supermoon | ______",
+      "answer": "Inshorts",
       "options": [
-        "Reveal",
-        "Swift",
-        "Board",
-        "Surprising"
+        "Styles",
+        "Discover",
+        "Inshorts",
+        "IAS"
       ]
     },
     {
-      "blanked": "No India Tour, ICC Witholding Revenue: England ______ Fears Massive Losses In 2027, Up To Rs 627 Crore",
-      "answer": "Board",
+      "blanked": "'Mookuthi Amman 2' box office collections day 2 vs ______ 2': Nayanthara's film earns Rs 2.45 Cr; Rajini",
+      "answer": "Jailer",
       "options": [
-        "Clues",
-        "Board",
-        "Bribe",
-        "Releases"
+        "Jensen",
+        "Single",
+        "Jailer",
+        "Bribe"
       ]
     },
     {
-      "blanked": "National Cancer Awareness Day: The Power of Hope, Courage and Strength in the ______ Against Cancer",
-      "answer": "Fight",
+      "blanked": "Early detection key to fighting cancer: ______ minister",
+      "answer": "Health",
       "options": [
-        "Did",
-        "Fight",
-        "Strength",
-        "2027"
-      ]
-    },
-    {
-      "blanked": "Eisenkot open to ______ joining Israel’s next government",
-      "answer": "Netanyahu",
-      "options": [
-        "One",
-        "Netanyahu",
-        "Most",
-        "Overseas"
-      ]
-    },
-    {
-      "blanked": "It's not made for ______ Deepinder Goyal addresses criticism on Temple's 'too high' price",
-      "answer": "India",
-      "options": [
-        "System",
-        "Paid",
-        "India",
-        "Awareness"
-      ]
-    },
-    {
-      "blanked": "'Deport all dot heads': Diwali celebrations disrupted in ______ by far-right activists; lawmakers condemn incident",
-      "answer": "Seattle",
-      "options": [
-        "Guide",
-        "Hidden",
-        "Did",
-        "Seattle"
-      ]
-    },
-    {
-      "blanked": "Delhi’s air quality ‘very poor’ on ______ expected to worsen | India News",
-      "answer": "Diwali",
-      "options": [
-        "Jurel",
-        "Pink",
-        "Against",
-        "Diwali"
+        "Meteorite",
+        "Trump",
+        "Health",
+        "Review"
       ]
     }
   ]
