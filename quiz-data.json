@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-11-07T22:09:11.222Z",
+  "generatedAt": "2026-11-08T01:24:56.486Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
     "Israeli president Herzog picks Netanyahu's rival Gadi Eisenkot to form next government",
-    "Five killed, over 10 injured in shooting at Krakow's Main Square in Poland",
-    "Andhra Pradesh MPTC, ZPTC election results highlights: NDA continues its winning streak",
-    "‘Dana, please take the job!’: Trump offers UFC chief White House press secy post",
-    "7th attempt on my life in 6 months: Abhishek Banerjee claims BJP attack on home",
-    "‘My thought was always: he will be killed next’: Sonia Gandhi on marrying into an Indian political dynasty and her husband’s assassination",
-    "PM Modi conveys Deepavali greetings, says will celebrate the festival with soldiers",
-    "'Ignore, See Consequences': IndiGo Flight Returns To Bengaluru After Hijack Threat Note Found In Toilet",
-    "‘Apologise to Ram Bhakts first’: Yogi Adityanath ahead of Akhilesh Yadav's visit to Ayodhya | India News",
+    "'Extortion at the highest level': Trump directs DOJ to investigate Democratic lawmakers",
+    "NDA extends winning streak, set to crush YSRCP in ZPTC and MPTC elections as well",
+    "6 killed, several injured after gunman opens fire in Poland’s Krakow; suspect arrested | World News",
     "Delhi world's most polluted major city on eve of Diwali, Swiss group says",
+    "How a bank collapse in Paraguay brought down the country’s President | Explained",
+    "PM Modi To Celebrate Diwali With Military Personnel, Greets Nation",
+    "'This plane will be hijacked': Note found in toilet triggers mid-air scare on Bengaluru-Lucknow IndiGo fl",
+    "‘My thought was always: he will be killed next’: Sonia Gandhi on marrying into an Indian political dynasty and her husband’s assassination",
+    "‘Apologise to Ram Bhakts first’: Yogi Adityanath ahead of Akhilesh Yadav's visit to Ayodhya | India News",
+    "Dana, please take the job: Trump offers White House press secretary post to UFC boss",
     "Houthis claim attacks on Riyadh airport, Aramco facilities, Saudi troops in Najran | World News",
     "Who is Stephen Miller? The immigration hardliner now Trump’s chief of staff",
-    "How a bank collapse in Paraguay brought down the country’s President | Explained",
-    "Pope Leo urges South America to bridge divides on Uruguay stop of 12-day tour",
-    "S&P 500 posts biggest weekly drop since 2025 on AI trade worries",
-    "Coca-Cola's India bottler Hindustan Coca-Cola files for IPO",
+    "Dozens killed as humanitarian crisis mounts in Yemen: What next for war?",
     "Tata Steel Q2 Results: Profit rises 16% YoY to Rs 3,700 crore, revenue up 11%; Noel Tata to retire as dire",
+    "S&P 500 posts biggest weekly drop since 2025 on AI trade worries",
+    "Nifty soars 11% in 10 days, but why is your portfolio not moving up?",
     "Sensex jumps 10.6% in 7-session pre-Diwali rally, best in 35 years",
-    "I’m sick of Google running my life, but the /e/OS Fairphone 6 Plus wasn't the de-Googled solution I needed",
     "Quordle Hint Today: Sunday, November 8 Clues And Answers",
-    "Sony MDR-3R wired headphones launched and it brings back the nostaliga from 1979",
-    "From one photograph’s global reach to watchlist alerts: Five small userscripts for Wikimedia contributors",
+    "Sonos Launches Wi-Fi-Connected Headphones That Play Music Without a Smartphone; Sony Goes Back to Walkman Roots With USB-C",
+    "Is Your Bedroom Light Damaging Your Heart? What A New Study Reveals",
+    "Oppo reportedly cancels Find X10 Ultra thanks to RAMageddon",
     "Ramayana Part One Early Box Office Trends: Ranbir Kapoor and Yash starrer grows on Saturday, Capacity issues in South, Outstanding overseas",
     "Scene Box Office Collection Day 1: Suriya Film Opens With Rs 22 Crore, Surpasses Karuppu, Vishwanath & Sons",
-    "Sunny Deol praises 'Ramayana: Rise of a Legend' after appearing as Lord Hanuman in post-credit scene: 'Th"
+    "WWE Crown Jewel Results – 11/7/26 (Men’s and Women’s Crown Jewel Championships and more!)"
   ],
   "quiz": [
+    {
+      "blanked": "6 killed, several injured after gunman opens fire in Poland’s Krakow; suspect arrested | World ______",
+      "answer": "News",
+      "options": [
+        "Jaiswal",
+        "News",
+        "USB-C",
+        "Shami"
+      ]
+    },
     {
       "blanked": "‘My thought was always: he will be killed next’: Sonia ______ on marrying into an Indian political dynasty and her husband’s assassination",
       "answer": "Gandhi",
       "options": [
-        "Muscle",
-        "Pollution",
+        "Heart",
+        "Diwali",
         "Gandhi",
-        "Miller"
+        "YoY"
       ]
     },
     {
-      "blanked": "Scientists find rare rock formed by carbon-rich asteroid impact in ______ dust that may explain how water r",
-      "answer": "Moon",
+      "blanked": "Mohammed ______ The end of an era in Indian Test cricket",
+      "answer": "Shami",
       "options": [
-        "Moon",
-        "IndiGo",
-        "Answers",
-        "Off"
+        "Reveals",
+        "Diabetes",
+        "Shami",
+        "House"
       ]
     },
     {
-      "blanked": "Sensex jumps ______ in 7-session pre-Diwali rally, best in 35 years",
-      "answer": "10.6%",
+      "blanked": "Dozens killed as humanitarian crisis mounts in ______ What next for war?",
+      "answer": "Yemen",
       "options": [
-        "Moon",
-        "Brar",
-        "10.6%",
-        "Yash"
+        "Yemen",
+        "What",
+        "Vishwanath",
+        "Greets"
       ]
     },
     {
-      "blanked": "Houthis claim attacks on ______ airport, Aramco facilities, Saudi troops in Najran | World News",
-      "answer": "Riyadh",
+      "blanked": "'This plane will be hijacked': ______ found in toilet triggers mid-air scare on Bengaluru-Lucknow IndiGo fl",
+      "answer": "Note",
       "options": [
-        "Clues",
-        "Riyadh",
-        "3700",
-        "Consequences"
+        "Coming",
+        "Note",
+        "Celebrate",
+        "Herzog"
       ]
     },
     {
-      "blanked": "Mookuthi ______ 2 Box Office Collection Day 1: Nayanthara Scores Her 2nd Lowest Opening Among 5 Releases In 2026",
-      "answer": "Amman",
+      "blanked": "Is Your Bedroom Light Damaging Your Heart? ______ A New Study Reveals",
+      "answer": "What",
       "options": [
-        "Saturday",
-        "Amman",
-        "Row",
-        "Weight"
-      ]
-    },
-    {
-      "blanked": "Bengal Oncologists Link Passive Smoking, Pollution to Aggressive Lung Cancer ______",
-      "answer": "Rise",
-      "options": [
-        "South",
-        "Opens",
-        "Rise",
-        "Steel"
-      ]
-    },
-    {
-      "blanked": "Five killed, over 10 injured in shooting at ______ Main Square in Poland",
-      "answer": "Krakows",
-      "options": [
-        "YoY",
-        "ZPTC",
-        "Krakows",
-        "Eisenkot"
-      ]
-    },
-    {
-      "blanked": "Gurnoor ______ 'Picking right time to bowl bouncers is important'",
-      "answer": "Brar",
-      "options": [
-        "Sonia",
-        "Early",
-        "Brar",
-        "Fairphone"
-      ]
-    },
-    {
-      "blanked": "'All of us' knew of the use of sandpaper, claims ______ Khawaja",
-      "answer": "Usman",
-      "options": [
-        "Usman",
-        "Steel",
-        "Square",
-        "Consequences"
-      ]
-    },
-    {
-      "blanked": "Ramayana Part One Early Box ______ Trends: Ranbir Kapoor and Yash starrer grows on Saturday, Capacity issues in South, Outstanding overseas",
-      "answer": "Office",
-      "options": [
-        "Office",
-        "Row",
-        "Hanuman",
-        "Paraguay"
-      ]
-    },
-    {
-      "blanked": "Sunny Deol praises 'Ramayana: Rise of a ______ after appearing as Lord Hanuman in post-credit scene: 'Th",
-      "answer": "Legend",
-      "options": [
-        "Legend",
-        "Muscle",
-        "Yash",
-        "Evolution"
+        "What",
+        "Crown",
+        "Trump",
+        "Explained"
       ]
     },
     {
       "blanked": "S&P ______ posts biggest weekly drop since 2025 on AI trade worries",
       "answer": "500",
       "options": [
-        "500",
-        "Ranbir",
-        "Extinction",
-        "Found"
+        "Jaiswal",
+        "President",
+        "November",
+        "500"
+      ]
+    },
+    {
+      "blanked": "Sensex jumps ______ in 7-session pre-Diwali rally, best in 35 years",
+      "answer": "10.6%",
+      "options": [
+        "10.6%",
+        "Music",
+        "MPTC",
+        "Explained"
+      ]
+    },
+    {
+      "blanked": "How a bank collapse in Paraguay brought down the country’s President | ______",
+      "answer": "Explained",
+      "options": [
+        "Explained",
+        "Day",
+        "3700",
+        "Falls"
+      ]
+    },
+    {
+      "blanked": "Who is Stephen ______ The immigration hardliner now Trump’s chief of staff",
+      "answer": "Miller",
+      "options": [
+        "Trump",
+        "Saturday",
+        "Miller",
+        "Gadi"
+      ]
+    },
+    {
+      "blanked": "Gurnoor Brar: ______ right time to bowl bouncers is important'",
+      "answer": "Picking",
+      "options": [
+        "Capacity",
+        "Shami",
+        "Gandhi",
+        "Picking"
+      ]
+    },
+    {
+      "blanked": "Targeting IL-33 in COPD: Who ______ and What Remains Unknown",
+      "answer": "Benefits",
+      "options": [
+        "House",
+        "Falls",
+        "Benefits",
+        "Stephen"
       ]
     }
   ]
