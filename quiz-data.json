@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-11-08T22:51:49.024Z",
+  "generatedAt": "2026-11-09T02:17:58.033Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "Delhi records ‘very poor’ air quality on Diwali with 376 AQI",
-    "Train crash kills seven, injures dozens near Egypt’s Cairo city",
-    "Democrats turn up heat on Hegseth, vow impeachment push after midterm victories",
+    "Air pollution over 50 times WHO limit in parts of Delhi as people defy ban on firecrackers on Deepavali",
     "Israeli President picks opposition candidate Gadi Eisenkot to form government in setback for Netanyahu",
+    "Train crash kills seven, injures dozens near Egypt’s Cairo city",
+    "Indian-Origin Lawmakers Condemn Disruption of Diwali Event in Seattle",
+    "Reds gone, but 'dimagi Naxals' still instigating people: PM Modi",
     "The great White mix-up: Did Trump offer White House job to the wrong Dana White?",
-    "'Deport all dot heads': Diwali celebrations disrupted in Seattle by far-right activists; lawmakers condemn incident",
-    "'Armed Naxals wiped out, but threat not over': PM Modi warns of 'Dimagi Naxals' in political parties",
-    "HD Kumaraswamy Claims IAS Officer Paid Bribe To Stop Transfer, Points To Minister",
-    "'Notebandi' devastated economy, 'votebandi' destroying polity: Congress slams PM Modi",
-    "Photos: Diwali celebrations light up India and its global diaspora",
+    "Cash for file clearance? HD Kumaraswamy releases alleged WhatsApp exchanges",
+    "Diwali 2026: Indians celebrate festival with lights and fireworks",
+    "PM Modi meets LK Advani, seeks blessings as BJP leader enters 100th year",
+    "US, Iran, Pakistan, UAE and more: World leaders extend Diwali wishes, call for peace and prosperity | World News",
     "Saudi Aramco building in Riyadh damaged in ‘attempted’ attack",
-    "Giant step back in history: Trump vows stronger comeback after Republican rout in midterms",
-    "Poland mass shooting: PM says footage shows 3 bodies at suspect’s home; minister cites far-right influenc",
-    "Explosions rock Iran's Qeshm Island, Jask; two oil tankers hit mines in Strait of Hormuz",
-    "A rare red Diwali: Sensex ends Muhurat trading lower for only the eighth time in 30 years",
-    "Nvidia CEO Jensen Huang admits affair with Singapore-based company's CEO; read his email to Nvidia's empl",
+    "Trump Says US Took 'Giant Step Back In History' After Midterm Election Loss",
+    "COP31 is starting in Turkey. What's on the agenda?",
+    "At least 21 dead after migrant boat sinks off Senegal's northwestern coast",
+    "Read Full Text Of Nvidia CEO Jensen Huang's Letter Admitting He Cheated On His Wife",
+    "Indian shares consolidate in Diwali session after seven-day rally",
     "Indian economy to grow faster, foreign capital returning to markets: NSE CEO Ashishkumar Chauhan",
-    "Gold prices crash 24% globally but fall only 20% in India: Why domestic buyers aren't seeing the full price correction",
-    "I tested the iPhone 18 Pro's variable aperture and new Photographic Styles in New Zealand — here are 35 of my favorite photos",
+    "Binance CFO is leaving to ‘pursue a new venture’ after $6.3 billion hack",
     "Quordle Hint Today: Monday, November 9 Clues And Answers",
-    "Sony revives iconic 1979 Walkman design with MDR-3R USB-C headphones: Check price in India",
-    "Apple Says 100,000 Apps Are Already Built for iPhone Duo. Google Should Pay Attention",
-    "Ramayana Part One Box Office Collections: Ranbir Kapoor and Yash starrer scores Biggest Single Day Overseas for Indian cinema",
-    "Amitabh Bachchan greets fans outside Jalsa without bulletproof glass, wishes fans 'Happy Diwali' on the m",
-    "'Mookuthi Amman 2' box office collections day 2 vs 'Jailer 2': Nayanthara's film earns Rs 2.45 Cr; Rajini"
+    "Motorola is quietly building apps and features that make Pixel and Samsung phones feel behind the times",
+    "Fortnite Finally Reveals Drop Rates of Pirate Shop Token",
+    "From scandalous game to mass entertainment: is GTA going soft?",
+    "'Ramayana: Rise of a Legend' box office collections day 4: Ranbir Kapoor, Sai Pallavi, Yash's film approa",
+    "Diwali 2026: Ranbir Kapoor and Alia Bhatt greet paparazzi from Krishna Raj bungalow balcony with Neetu Ka",
+    "HT Exclusive: Vinod Kapri on casting an 80-year-old Army veteran and a 70-year-old woman with no acting experience as Pyre's elderly lead couple | Bollywood"
   ],
   "quiz": [
     {
-      "blanked": "Delhi records ‘very poor’ air quality on Diwali with ______ AQI",
-      "answer": "376",
+      "blanked": "Trump Says US Took 'Giant Step ______ In History' After Midterm Election Loss",
+      "answer": "Back",
       "options": [
-        "376",
-        "Adkar",
+        "Condemn",
+        "Rise",
+        "Back",
+        "Riyadh"
+      ]
+    },
+    {
+      "blanked": "At least 21 dead after migrant boat sinks off ______ northwestern coast",
+      "answer": "Senegals",
+      "options": [
+        "Psoriatic",
         "Eisenkot",
-        "Check"
+        "Senegals",
+        "6.3"
       ]
     },
     {
-      "blanked": "The great White mix-up: Did Trump offer White ______ job to the wrong Dana White?",
-      "answer": "House",
+      "blanked": "Saudi Aramco building in ______ damaged in ‘attempted’ attack",
+      "answer": "Riyadh",
       "options": [
-        "Nvidias",
-        "Season",
-        "Beat",
-        "House"
+        "Gadi",
+        "Paradox",
+        "Riyadh",
+        "Vinod"
       ]
     },
     {
-      "blanked": "Apple Says 100,000 Apps Are Already Built for iPhone Duo. Google Should ______ Attention",
-      "answer": "Pay",
+      "blanked": "Beyond Body Mass Index (BMI): A Systematic Review of Central Adiposity and the Obesity Survival Paradox Across ______ Failure Phenotypes",
+      "answer": "Heart",
       "options": [
-        "Congress",
-        "BMI",
-        "President",
-        "Pay"
+        "Heart",
+        "Rheumatoid",
+        "Advani",
+        "Detects"
       ]
     },
     {
-      "blanked": "Ramayana Part One Box Office Collections: Ranbir Kapoor and ______ starrer scores Biggest Single Day Overseas for Indian cinema",
-      "answer": "Yash",
+      "blanked": "Quordle Hint Today: Monday, ______ 9 Clues And Answers",
+      "answer": "November",
       "options": [
-        "1979",
-        "Muhurat",
-        "Health",
-        "Yash"
-      ]
-    },
-    {
-      "blanked": "HD Kumaraswamy Claims IAS Officer Paid Bribe To Stop Transfer, Points To ______",
-      "answer": "Minister",
-      "options": [
-        "20%",
-        "Minister",
+        "WHO",
+        "November",
         "Arrhythmias",
-        "Masters"
+        "Rates"
       ]
     },
     {
-      "blanked": "Democrats turn up heat on ______ vow impeachment push after midterm victories",
-      "answer": "Hegseth",
+      "blanked": "Reds gone, but 'dimagi Naxals' still instigating people: PM ______",
+      "answer": "Modi",
       "options": [
-        "Qeshm",
-        "Pros",
-        "Hegseth",
-        "AQI"
+        "Today",
+        "Riyadh",
+        "Modi",
+        "Disruption"
       ]
     },
     {
-      "blanked": "Giant step back in history: Trump vows stronger comeback after ______ rout in midterms",
-      "answer": "Republican",
+      "blanked": "Binance CFO is leaving to ‘pursue a new venture’ after ______ billion hack",
+      "answer": "6.3",
       "options": [
-        "ECG",
-        "Republican",
-        "Answers",
-        "Mars"
+        "Bhatt",
+        "Eisenkot",
+        "6.3",
+        "Paris"
       ]
     },
     {
-      "blanked": "Salman ______ questions Rs 4,000 crore budget narrative around Ramayana: ‘Film should be discussed for characters’",
-      "answer": "Khan",
+      "blanked": "Motorola is quietly building apps and features that make Pixel and ______ phones feel behind the times",
+      "answer": "Samsung",
       "options": [
-        "Health",
-        "Across",
-        "Khan",
-        "Part"
+        "Samsung",
+        "Grandmaster",
+        "NSE",
+        "Answers"
       ]
     },
     {
-      "blanked": "Nvidia CEO Jensen Huang admits affair with ______ company's CEO; read his email to Nvidia's empl",
-      "answer": "Singapore-based",
+      "blanked": "Diwali ______ Indians celebrate festival with lights and fireworks",
+      "answer": "2026",
       "options": [
-        "Singapore-based",
-        "Mars",
-        "Rajini",
-        "Indian"
+        "Finally",
+        "2026",
+        "Singh",
+        "Huangs"
       ]
     },
     {
-      "blanked": "November 24 moon to be a 'supermoon' | December 24 full moon to also be a supermoon | ______",
-      "answer": "Inshorts",
+      "blanked": "COP31 is starting in Turkey. ______ on the agenda?",
+      "answer": "Whats",
       "options": [
-        "Styles",
-        "Discover",
-        "Inshorts",
-        "IAS"
+        "Failure",
+        "Whats",
+        "Mass",
+        "Giant"
       ]
     },
     {
-      "blanked": "'Mookuthi Amman 2' box office collections day 2 vs ______ 2': Nayanthara's film earns Rs 2.45 Cr; Rajini",
-      "answer": "Jailer",
+      "blanked": "PM ______ meets LK Advani, seeks blessings as BJP leader enters 100th year",
+      "answer": "Modi",
       "options": [
-        "Jensen",
-        "Single",
-        "Jailer",
-        "Bribe"
+        "Exclusive",
+        "Modi",
+        "White",
+        "Today"
       ]
     },
     {
-      "blanked": "Early detection key to fighting cancer: ______ minister",
-      "answer": "Health",
+      "blanked": "GLP-1 RAs ______ Patient-Reported Outcomes in Rheumatoid, Psoriatic Arthritis",
+      "answer": "Improve",
       "options": [
-        "Meteorite",
-        "Trump",
-        "Health",
-        "Review"
+        "Improve",
+        "Letter",
+        "Ashishkumar",
+        "Token"
       ]
     }
   ]
