@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-11-10T02:55:11.680Z",
+  "generatedAt": "2026-11-10T10:40:20.571Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "US-Iran war highlights: Trump says Iran war ‘effectively over’ after meeting Qatar PM | Hindustan Times",
-    "Republican lawmaker pushes Hegseth impeachment, Pentagon chief says 'not worried'",
-    "From Sikkim to Saudi Arabia: Where Union ministers were on Diwali as Delhi’s air worsened",
-    "Ahead of Abu Dhabi peace talks, Modi speaks to Zelenskyy; Jaishankar speaks to Lavrov",
-    "White House on brief lockdown after car crashes nearby, Trump was inside complex",
-    "Trump Says FBI Investigating Nvidia CEO's Affair With Alleged Chinese Spy",
-    "‘Despite four fire brigades…’: MP collector apologises as blaze wipes out family",
-    "2 Critical, 3 Injured After Government Buses, Car Collide In Mumbai",
-    "Chennai’s air quality deteriorates to ‘poor’ the morning after Deepavali",
-    "'He called us Naxals': Rahul Gandhi hits back at PM Modi, renews debate challenge",
-    "Comedian Russell Brand sentenced to more than a decade in prison",
-    "\"Don't Want To Be In Politics\": UFC Chief Dana White Turns Down Trump's Offer",
-    "First time after midterm loss, Trump questions results, targets voting machines",
-    "Tech Millionaire, Wife, Toddlers And Nanny Among Learjet Crash Victims In US",
-    "How long can Indian markets remain decoupled from global equity rout? Check what analysts say",
-    "Anthropic unveils faster, cheaper Claude AI models as it gears up for mega IPO",
-    "Indian rupee breaks six-day winning streak on state banks' dollar bids",
-    "Brent Crashes 7% on Iran Peace Hopes Despite Fresh Saudi Pipeline Attack",
-    "The unexpected uses of a folding iPhone: iPhone Duo's folding positions explained",
+    "'Pranab Mukherjee Shocked Me With Change At Top Suggestion': Sonia Gandhi",
+    "Grenades, grief and a deepening political divide: five takeaways from Sonia Gandhi’s new memoir",
+    "Three workers die at Tata's India iPhone parts factory in latest safety incident",
+    "Air pollution data goes missing at several govt monitoring stations in Delhi",
+    "Nvidia CEO Jensen Huang loses $7.4 billion in 30 minutes, drops 2 spots in Forbes rich list",
+    "Europeans will join Ukraine talks in Abu Dhabi, French minister says",
+    "Nagaland: Oxford museum returns ancestral Naga skulls to India",
+    "Punjab records 4,657 stubble-burning cases till Nov 9; 1,442 FIRs registered, Rs 7.28 crore fines imposed",
+    "Pannun’s civil lawsuit: U.S. State department formally serves notice to India",
+    "India ready to set up food corridor through Black Sea, says Zelenskyy after call with Modi",
+    "\"Sick Guy\": Trump Slams Republican Colleague Over 'Impeach Hegseth' Call",
+    "Eisenkot reaches agreement with Opposition leaders on Israel’s Knesset posts, names Matan Kahana as speaker | World News",
+    "COP31 is starting in Turkey. What's on the agenda?",
+    "US evacuates aircraft from UK air base after Iran threat: Report",
+    "Foreign investors keep faith in 83 stocks despite prolonged India selloff",
+    "Qantas to outsource 850 local jobs with most roles moving to India",
+    "Asia stocks rally as Korean chips surge and oil retreat lifts sentiment",
+    "Force Traveller EV Launch In Q1 2027 - Rs 3,000 Cr Investment",
+    "Google Chrome CVE-2026-125350: Use-After-Free in XML, Exploit Exists in the Wild — Patch Now",
+    "Samsung Galaxy S27 series camera specs leak, and they’re disappointing",
     "Canada assesses its space reactor capabilities",
     "Quordle Hint Today: Tuesday, November 10 Clues And Answers",
-    "New MG GO Small EV Prod-Spec Spied During TVC Shoot",
-    "Ramayana Part One Box Office Early Estimates: Ranbir Kapoor and Yash starrer earns Rs. 105 Cr+ on Monday in India",
-    "Pawan Kalyan, Wife Anna Konidala Announce Separation After 13 Years Of Marriage",
-    "Sshura Khan praises stepson Arhaan Khan for being ‘incredible’ big brother to Sipaara, says he has set the bar high | Bollywood"
+    "Ramayana Part One Box Office Collections: Ranbir Kapoor and Yash starrer has an Extraordinary Monday Overseas, Biggest ever for an Indian film",
+    "Popular Malayalam cinematographer Shaji Kumar passes away",
+    "Kiara Advani reveals Karan Johar threw Shahid Kapoor off stage during her wedding with Sidharth Malhotra in new Koffee With Karan promo | Bollywood"
   ],
   "quiz": [
     {
-      "blanked": "Sshura ______ praises stepson Arhaan Khan for being ‘incredible’ big brother to Sipaara, says he has set the bar high | Bollywood",
-      "answer": "Khan",
+      "blanked": "Popular Malayalam cinematographer Shaji ______ passes away",
+      "answer": "Kumar",
       "options": [
-        "Wife",
-        "Khan",
-        "Ex-India",
-        "Office"
+        "Koffee",
+        "Yash",
+        "Kapoors",
+        "Kumar"
       ]
     },
     {
-      "blanked": "After 40 years, ______ finds evidence of a one-in-10-billion particle decay",
-      "answer": "CERN",
+      "blanked": "Nagaland: Oxford museum returns ancestral Naga skulls to ______",
+      "answer": "India",
       "options": [
-        "Early",
-        "Buses",
-        "CERN",
-        "Chinese"
+        "Globally",
+        "Agarwal",
+        "Delhi",
+        "India"
       ]
     },
     {
-      "blanked": "US-Iran war highlights: Trump says Iran war ‘effectively over’ after meeting ______ PM | Hindustan Times",
-      "answer": "Qatar",
+      "blanked": "Samsung ______ S27 series camera specs leak, and they’re disappointing",
+      "answer": "Galaxy",
       "options": [
-        "Estimates",
-        "Qatar",
-        "Pipeline",
+        "Can",
+        "World",
+        "Galaxy",
+        "4657"
+      ]
+    },
+    {
+      "blanked": "Does ______ have ruby deposits? Perseverance rover makes a red-hot discovery",
+      "answer": "Mars",
+      "options": [
+        "Zelenskyy",
+        "Mars",
+        "Exist",
+        "Whats"
+      ]
+    },
+    {
+      "blanked": "Can cleaner bedroom air reduce morning blood sugar spikes in people with prediabetes? ______ a new study found",
+      "answer": "What",
+      "options": [
+        "Ukraine",
+        "Tatas",
+        "Stunned",
         "What"
       ]
     },
     {
-      "blanked": "Comedian Russell ______ sentenced to more than a decade in prison",
-      "answer": "Brand",
+      "blanked": "India ready to set up food corridor through Black Sea, says Zelenskyy after call with ______",
+      "answer": "Modi",
       "options": [
-        "Brand",
-        "Crash",
-        "Tuesday",
-        "Hindustan"
+        "Monday",
+        "Modi",
+        "Asteroid",
+        "Shahid"
       ]
     },
     {
-      "blanked": "Did you know armour in Ranbir ______ 'Ramayana' took three-and-a-half years to make and was handcrafted",
-      "answer": "Kapoors",
+      "blanked": "India hold on to series lead after washout as New ______ winning streak ends",
+      "answer": "Zealands",
       "options": [
-        "Life",
-        "Check",
-        "Kapoors",
-        "Hint"
+        "Galaxy",
+        "Shubman",
+        "Zealands",
+        "Forbes"
       ]
     },
     {
-      "blanked": "How long can ______ markets remain decoupled from global equity rout? Check what analysts say",
-      "answer": "Indian",
+      "blanked": "Craig ______ slams maiden double ton in draw vs Afghanistan",
+      "answer": "Ervine",
       "options": [
-        "Sipaara",
-        "Critical",
-        "Indian",
-        "Nvidia"
+        "Top",
+        "Ervine",
+        "Opposition",
+        "Space"
       ]
     },
     {
-      "blanked": "2 ______ 3 Injured After Government Buses, Car Collide In Mumbai",
-      "answer": "Critical",
+      "blanked": "Air pollution data goes missing at several govt monitoring stations in ______",
+      "answer": "Delhi",
       "options": [
-        "Kapoor",
-        "Announce",
-        "Critical",
-        "Victims"
+        "Trump",
+        "Box",
+        "Delhi",
+        "Apparent"
       ]
     },
     {
-      "blanked": "'He called us Naxals': ______ Gandhi hits back at PM Modi, renews debate challenge",
-      "answer": "Rahul",
+      "blanked": "Indian sector of Southern Ocean sees rising oxygen levels, contrary to global trend: ______",
+      "answer": "Study",
       "options": [
-        "Politics",
-        "Rahul",
-        "Rehabilitation",
+        "Variant",
+        "Shocked",
+        "CEO",
+        "Study"
+      ]
+    },
+    {
+      "blanked": "Mitchell Starc stands by bowlers' ______ statement on sandpaper scandal",
+      "answer": "2021",
+      "options": [
+        "Call",
+        "2021",
+        "Johar",
         "Kapoors"
       ]
     },
     {
-      "blanked": "Anuj Shrivatri completes India’s century of ______ | Data",
-      "answer": "Grandmasters",
+      "blanked": "'Pranab Mukherjee Shocked Me With Change At Top ______ Sonia Gandhi",
+      "answer": "Suggestion",
       "options": [
-        "Grandmasters",
-        "CEOs",
-        "Khan",
-        "Crash"
-      ]
-    },
-    {
-      "blanked": "The unexpected uses of a folding iPhone: iPhone ______ folding positions explained",
-      "answer": "Duos",
-      "options": [
-        "Among",
-        "Duos",
-        "One",
-        "Iran"
-      ]
-    },
-    {
-      "blanked": "New MG GO Small EV ______ Spied During TVC Shoot",
-      "answer": "Prod-Spec",
-      "options": [
-        "Saudi",
-        "Prod-Spec",
-        "Reduce",
-        "November"
-      ]
-    },
-    {
-      "blanked": "Brent Crashes 7% on Iran Peace ______ Despite Fresh Saudi Pipeline Attack",
-      "answer": "Hopes",
-      "options": [
-        "Hopes",
-        "Among",
-        "Khan",
-        "Yash"
+        "Southern",
+        "Impeach",
+        "Suggestion",
+        "Naga"
       ]
     }
   ]
