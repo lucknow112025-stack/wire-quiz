@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-11-10T18:15:23.299Z",
+  "generatedAt": "2026-11-10T23:36:47.991Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
     "\"We Didn't Start Iran War\": Pete Hegseth's Defence Amid Impeachment Threat",
-    "'Crime To Be Ambitious?' Pranab Mukherjee's Daughter Hits Back At Sonia Gandhi",
-    "Pressured by Congress, Sonia Gandhi said ‘yes’ to PM post. How Rahul reacted",
-    "Pakistan blames India's Diwali fireworks for Lahore's toxic air",
-    "ECI’s Internal Records of 2024 Elections: In 51 Seats of Two States and a UT, Votes Cast Do Not Match Votes Counted",
-    "'An Absolute Necessity': Netanyahu Hints At Joining Hands With Rival Eisenkot To Form Government",
-    "‘Firecrackers unfairly blamed for Delhi pollution’: CTI cites high pre-Diwali AQI, seeks action on stubble burning",
-    "‘Friends with both’: Can India broker a Black Sea breakthrough?",
-    "Explained | What did the Supreme Court clarify on the OBC creamy layer?",
-    "US ‘delivers summonses’ for NSA Ajit Doval, ex-RAW chief in lawsuit by Sikh separatist Pannun",
-    "U.S.-mediated talks on ending war between Russia, Ukraine begin in Abu Dhabi",
-    "Climate Conference COP31 Kicks Off Amid Climate, Finance Pressures",
-    "Netanyahu's daily calls to Trump over Iran war spark pushback within White House: Report",
     "Rubio says no need for major combat operations against Iran given US economic campaign",
-    "\"There'll Never Be One Like Me\": Jensen Huang's Nvidia Faces A Succession Crisis",
-    "Anthropic targets $1.4 trillion valuation in blockbuster IPO",
-    "Brent Crude Falls Below $90 for First Time Since August",
-    "Blackstone leads Rs 6,414-crore fundraise in IIFL Finance, to acquire 16% stake",
-    "Meet the Dolby Atmos soundbar that looks like a cushion - What Hi-Fi?",
-    "Apple TV Adding Sign Language Interpretation to Several Original Movies",
-    "Noble Audio’s Astrid Earphones With Three Drivers And A Personal Touch",
-    "Don’t Have 210 Spare GBs? ‘GTA VI’ Is Coming to Xbox Cloud Gaming (and the Xbox One) at Launch",
+    "Pranab Mukherjee hinted at desire to become PM, ‘shocked’ me, writes Sonia Gandhi",
+    "'Heart in my mouth': Sonia Gandhi details making 2003 alliance call to DMK chief Karunanidhi",
+    "Pakistan blames India's Diwali fireworks for Lahore's toxic air",
+    "Nvidia CEO Jensen Huang lobbied Trump for more sales to China, claims report calling Huang, Trump 'good f",
+    "CPCB explains why official AQI is capped at 500 despite private apps showing higher readings",
+    "From Sikkim to Saudi Arabia: Where Union ministers were on Diwali as Delhi’s air worsened",
+    "After Bangladesh rules out passport for Hasina, India says ‘travel document’ needed",
+    "ECI’s Internal Records of 2024 Elections: In 51 Seats of Two States and a UT, Votes Cast Do Not Match Votes Counted",
+    "Iran's top security official says no talks underway with US",
+    "After Netanyahu's \"Unity\" Call, Eisenkot's \"Delusional, Outgoing PM\" Jab",
+    "COP31 opens in Antalya: Can climate promises finally deliver results?",
+    "Bank collapse leaves half of Paraguay without funds, economist-president under house arrest",
+    "Anthropic sets price band, may launch one of the world's largest IPOs next week | Anthropic looks to list under 'ANT' ticker | Inshorts",
+    "Nvidia Slips Amid CEO Probe, Microsoft Overtakes As World's 2nd-Most Valuable Firm",
+    "Qantas to outsource 850 local jobs with most roles moving to India",
+    "New WhatsApp head wants to make the app easier to use, give its AI more chops",
+    "Wyze’s new door lock has speedy fingerprint recognition and 12-month battery life",
+    "Don’t Call Them Smart Glasses: Snap Specs On The Perv Glasses Backlash",
+    "GTA 6 will technically be playable on Xbox One at launch",
+    "Google Patches Critical Chrome Zero-Day Exploiting XML Vulnerability",
+    "\"Let's Solve This S**t, Bro\": Salman Packs A Punch In Maatrubhumi Trailer",
     "‘Ramayana’ Makes History as First Indian Film to Top U.K., Ireland Box Office as ‘Godzilla Minus Zero’ Debuts in Third",
-    "Scene box office day 5: Suriya starrer becomes Diwali winner in Tamil cinema",
-    "Anupam Kher 'completely overwhelmed' by Sweden's response to 'Ramayana: Rise of a Legend'; says, 'People"
+    "Pawan Kalyan’s ex-wife Renu Desai shares cryptic note after his separation from Anna Lezhneva"
   ],
   "quiz": [
     {
-      "blanked": "Climate Conference COP31 Kicks Off Amid Climate, ______ Pressures",
-      "answer": "Finance",
+      "blanked": "Rubio says no need for major combat operations against ______ given US economic campaign",
+      "answer": "Iran",
       "options": [
-        "World",
-        "Finance",
+        "Specs",
+        "Call",
+        "Higher",
+        "Iran"
+      ]
+    },
+    {
+      "blanked": "Nvidia CEO Jensen Huang lobbied ______ for more sales to China, claims report calling Huang, Trump 'good f",
+      "answer": "Trump",
+      "options": [
+        "One",
+        "Trump",
+        "Lezhneva",
+        "XML"
+      ]
+    },
+    {
+      "blanked": "'Heart in my mouth': Sonia ______ details making 2003 alliance call to DMK chief Karunanidhi",
+      "answer": "Gandhi",
+      "options": [
+        "Gandhi",
+        "UAE",
         "Cup",
-        "Heres"
+        "Lezhneva"
       ]
     },
     {
-      "blanked": "Will Life Exist in the Solar System After the ______ of the Sun?",
-      "answer": "Death",
+      "blanked": "COP31 opens in ______ Can climate promises finally deliver results?",
+      "answer": "Antalya",
       "options": [
-        "Death",
-        "Minus",
-        "Back",
-        "Match"
+        "Tiebreaker",
+        "Antalya",
+        "Diwali",
+        "Day"
       ]
     },
     {
-      "blanked": "Esha Singh leads India to team gold as Manu ______ joins her in 25m pistol final at ISSF World Championsh",
-      "answer": "Bhaker",
+      "blanked": "CPCB explains why official AQI is capped at ______ despite private apps showing higher readings",
+      "answer": "500",
       "options": [
-        "Jailer",
-        "Language",
-        "Bhaker",
-        "Godzilla"
+        "Smart",
+        "Key",
+        "High",
+        "500"
       ]
     },
     {
-      "blanked": "‘Firecrackers unfairly blamed for ______ pollution’: CTI cites high pre-Diwali AQI, seeks action on stubble burning",
-      "answer": "Delhi",
+      "blanked": "Google Patches Critical Chrome Zero-Day Exploiting ______ Vulnerability",
+      "answer": "XML",
       "options": [
-        "Delhi",
-        "Several",
-        "Pranab",
-        "Manu"
+        "XML",
+        "Sikkim",
+        "Lahores",
+        "Blitz"
       ]
     },
     {
-      "blanked": "Total ______ – totally complicated",
-      "answer": "Chess",
+      "blanked": "What would ______ without life be like? US scientists create a simulation to find out",
+      "answer": "Earth",
       "options": [
-        "Chess",
-        "Two",
-        "Film",
-        "Asia"
+        "War",
+        "Start",
+        "Earth",
+        "Paraguay"
       ]
     },
     {
-      "blanked": "Don’t Have ______ Spare GBs? ‘GTA VI’ Is Coming to Xbox Cloud Gaming (and the Xbox One) at Launch",
-      "answer": "210",
+      "blanked": "The ______ Legacy and Science behind the 2026 Nobel Prize in Physics From High Energy Astrophysical Neutrinos to the Nobel",
+      "answer": "History",
       "options": [
-        "210",
-        "Gaming",
+        "Desai",
+        "History",
+        "DMK",
+        "Karunanidhi"
+      ]
+    },
+    {
+      "blanked": "Qantas to outsource ______ local jobs with most roles moving to India",
+      "answer": "850",
+      "options": [
+        "Day",
+        "Total",
+        "850",
+        "One"
+      ]
+    },
+    {
+      "blanked": "ECI’s Internal Records of 2024 Elections: In 51 Seats of Two States and a UT, Votes Cast Do Not Match ______ Counted",
+      "answer": "Votes",
+      "options": [
+        "Them",
         "Didnt",
-        "Facts"
+        "Votes",
+        "Blitz"
       ]
     },
     {
-      "blanked": "\"There'll Never Be One Like Me\": ______ Huang's Nvidia Faces A Succession Crisis",
-      "answer": "Jensen",
+      "blanked": "Pranab Mukherjee hinted at desire to become PM, ‘shocked’ me, writes ______ Gandhi",
+      "answer": "Sonia",
       "options": [
-        "House",
-        "Prime",
-        "Jensen",
-        "Heres"
+        "DMK",
+        "Valuable",
+        "850",
+        "Sonia"
       ]
     },
     {
-      "blanked": "Postpartum Screening ______ Cardiovascular and Kidney Risks",
-      "answer": "Reveals",
+      "blanked": "After Bangladesh rules out passport for ______ India says ‘travel document’ needed",
+      "answer": "Hasina",
       "options": [
-        "Reveals",
-        "Ukraine",
-        "August",
-        "Huangs"
-      ]
-    },
-    {
-      "blanked": "‘Friends with both’: Can India broker a ______ Sea breakthrough?",
-      "answer": "Black",
-      "options": [
-        "Pressures",
-        "Report",
-        "Black",
-        "Legend"
-      ]
-    },
-    {
-      "blanked": "Netanyahu's daily calls to Trump over Iran war spark pushback within White ______ Report",
-      "answer": "House",
-      "options": [
-        "Falls",
-        "Report",
-        "House",
-        "Sign"
-      ]
-    },
-    {
-      "blanked": "New ______ releases this week (November 9-15, 2026): Jailer 2, The Lord of the Rings, Bandra- 6 latest titles coming on Netflix, Prime Video and more",
-      "answer": "OTT",
-      "options": [
-        "Reveals",
-        "Iran",
-        "ISSF",
-        "OTT"
-      ]
-    },
-    {
-      "blanked": "US ‘delivers summonses’ for NSA Ajit Doval, ex-RAW chief in lawsuit by Sikh separatist ______",
-      "answer": "Pannun",
-      "options": [
-        "Personal",
-        "Ajit",
-        "How",
-        "Pannun"
+        "Records",
+        "Hasina",
+        "Diwali",
+        "Globally"
       ]
     }
   ]
