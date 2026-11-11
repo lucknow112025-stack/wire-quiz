@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-11-10T23:36:47.991Z",
+  "generatedAt": "2026-11-11T03:00:07.748Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "\"We Didn't Start Iran War\": Pete Hegseth's Defence Amid Impeachment Threat",
-    "Rubio says no need for major combat operations against Iran given US economic campaign",
-    "Pranab Mukherjee hinted at desire to become PM, ‘shocked’ me, writes Sonia Gandhi",
-    "'Heart in my mouth': Sonia Gandhi details making 2003 alliance call to DMK chief Karunanidhi",
-    "Pakistan blames India's Diwali fireworks for Lahore's toxic air",
-    "Nvidia CEO Jensen Huang lobbied Trump for more sales to China, claims report calling Huang, Trump 'good f",
-    "CPCB explains why official AQI is capped at 500 despite private apps showing higher readings",
+    "U.S. Republicans derail bid to impeach Hegseth",
     "From Sikkim to Saudi Arabia: Where Union ministers were on Diwali as Delhi’s air worsened",
-    "After Bangladesh rules out passport for Hasina, India says ‘travel document’ needed",
+    "\"How Has He Left Me?\" Priyanka Recalls Sonia Gandhi's Grief After Rajiv's Death",
+    "Man posted with Rashtrapati Bhawan security shot in head over firecracker row in UP",
+    "Exclusive: Before NIA chargesheet, VanDyke told US embassy he will expose ‘Tihar assaults’",
+    "Nvidia shareholders sue Jensen Huang after affair with suspected Chinese spy",
+    "India objects to Chinese influencers showing Bangladesh as Delhi: ‘peddling false narratives’",
+    "Why is India trying to broker a Russia-Ukraine Black Sea food corridor?",
     "ECI’s Internal Records of 2024 Elections: In 51 Seats of Two States and a UT, Votes Cast Do Not Match Votes Counted",
-    "Iran's top security official says no talks underway with US",
+    "Examining allegations of separatism against Waris Punjab De: ECI to Delhi High Court",
+    "Rubio says no need for major combat operations against Iran given US economic campaign",
     "After Netanyahu's \"Unity\" Call, Eisenkot's \"Delusional, Outgoing PM\" Jab",
-    "COP31 opens in Antalya: Can climate promises finally deliver results?",
-    "Bank collapse leaves half of Paraguay without funds, economist-president under house arrest",
-    "Anthropic sets price band, may launch one of the world's largest IPOs next week | Anthropic looks to list under 'ANT' ticker | Inshorts",
+    "US Treasury chief Bessent moved to military base after Iranian threats, NYT reports",
+    "Iran's top security official says no talks underway with US",
+    "Oil Falls to Lowest Level Since August",
+    "Anthropic targets $1.4 trillion valuation in blockbuster IPO",
+    "Stock market outlook today, 11 Nov: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues",
     "Nvidia Slips Amid CEO Probe, Microsoft Overtakes As World's 2nd-Most Valuable Firm",
-    "Qantas to outsource 850 local jobs with most roles moving to India",
-    "New WhatsApp head wants to make the app easier to use, give its AI more chops",
-    "Wyze’s new door lock has speedy fingerprint recognition and 12-month battery life",
-    "Don’t Call Them Smart Glasses: Snap Specs On The Perv Glasses Backlash",
+    "Today’s NYT Strands Hints, Spangram and Answers for Wednesday, Nov. 11, #983",
     "GTA 6 will technically be playable on Xbox One at launch",
+    "Samsung Galaxy S27 series dummy units surface in new leak - GSMArena.com news",
     "Google Patches Critical Chrome Zero-Day Exploiting XML Vulnerability",
+    "From ‘Dil Se’ to ‘Ramayana’: How Indian Cinema Shattered the U.K., Ireland Box Office Glass Ceiling",
     "\"Let's Solve This S**t, Bro\": Salman Packs A Punch In Maatrubhumi Trailer",
-    "‘Ramayana’ Makes History as First Indian Film to Top U.K., Ireland Box Office as ‘Godzilla Minus Zero’ Debuts in Third",
-    "Pawan Kalyan’s ex-wife Renu Desai shares cryptic note after his separation from Anna Lezhneva"
+    "Ranveer Singh's grandfather passes away at 96; cousin Saumya Hingorani Thackeray shares Diwali tribute"
   ],
   "quiz": [
     {
-      "blanked": "Rubio says no need for major combat operations against ______ given US economic campaign",
-      "answer": "Iran",
+      "blanked": "Nvidia shareholders sue Jensen Huang after affair with suspected ______ spy",
+      "answer": "Chinese",
       "options": [
-        "Specs",
-        "Call",
-        "Higher",
-        "Iran"
+        "Elections",
+        "Chinese",
+        "Death",
+        "Singhs"
       ]
     },
     {
-      "blanked": "Nvidia CEO Jensen Huang lobbied ______ for more sales to China, claims report calling Huang, Trump 'good f",
-      "answer": "Trump",
+      "blanked": "Diabetes: ______ begins before blood sugar rises",
+      "answer": "Prevention",
       "options": [
-        "One",
-        "Trump",
-        "Lezhneva",
-        "XML"
+        "Prevention",
+        "Delhis",
+        "What",
+        "Exploiting"
       ]
     },
     {
-      "blanked": "'Heart in my mouth': Sonia ______ details making 2003 alliance call to DMK chief Karunanidhi",
-      "answer": "Gandhi",
+      "blanked": "Examining allegations of separatism against Waris Punjab De: ECI to Delhi ______ Court",
+      "answer": "High",
       "options": [
-        "Gandhi",
-        "UAE",
-        "Cup",
-        "Lezhneva"
-      ]
-    },
-    {
-      "blanked": "COP31 opens in ______ Can climate promises finally deliver results?",
-      "answer": "Antalya",
-      "options": [
-        "Tiebreaker",
-        "Antalya",
-        "Diwali",
-        "Day"
-      ]
-    },
-    {
-      "blanked": "CPCB explains why official AQI is capped at ______ despite private apps showing higher readings",
-      "answer": "500",
-      "options": [
-        "Smart",
-        "Key",
         "High",
-        "500"
+        "Zealand",
+        "Rashtrapati",
+        "Facts"
       ]
     },
     {
-      "blanked": "Google Patches Critical Chrome Zero-Day Exploiting ______ Vulnerability",
-      "answer": "XML",
+      "blanked": "Stock market outlook today, 11 Nov: Sensex, Nifty prediction - ______ S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues",
+      "answer": "DJIA",
       "options": [
-        "XML",
-        "Sikkim",
-        "Lahores",
-        "Blitz"
+        "Indias",
+        "Maatrubhumi",
+        "Govil",
+        "DJIA"
       ]
     },
     {
-      "blanked": "What would ______ without life be like? US scientists create a simulation to find out",
-      "answer": "Earth",
+      "blanked": "Anthropic targets ______ trillion valuation in blockbuster IPO",
+      "answer": "1.4",
       "options": [
-        "War",
-        "Start",
-        "Earth",
-        "Paraguay"
+        "Jeetendras",
+        "Answers",
+        "Energy",
+        "1.4"
       ]
     },
     {
-      "blanked": "The ______ Legacy and Science behind the 2026 Nobel Prize in Physics From High Energy Astrophysical Neutrinos to the Nobel",
-      "answer": "History",
+      "blanked": "Ravindra, ______ named in New Zealand squad for India Tests",
+      "answer": "Conway",
       "options": [
-        "Desai",
-        "History",
-        "DMK",
-        "Karunanidhi"
+        "Russia-Ukraine",
+        "Where",
+        "Conway",
+        "Hints"
       ]
     },
     {
-      "blanked": "Qantas to outsource ______ local jobs with most roles moving to India",
-      "answer": "850",
+      "blanked": "GTA 6 will technically be playable on ______ One at launch",
+      "answer": "Xbox",
       "options": [
-        "Day",
-        "Total",
-        "850",
-        "One"
+        "Yadav",
+        "Xbox",
+        "Khawaja",
+        "Sikkim"
       ]
     },
     {
-      "blanked": "ECI’s Internal Records of 2024 Elections: In 51 Seats of Two States and a UT, Votes Cast Do Not Match ______ Counted",
-      "answer": "Votes",
+      "blanked": "India objects to Chinese influencers showing ______ as Delhi: ‘peddling false narratives’",
+      "answer": "Bangladesh",
       "options": [
-        "Them",
-        "Didnt",
-        "Votes",
-        "Blitz"
+        "Ceiling",
+        "Bollywood",
+        "Bangladesh",
+        "Symptoms"
       ]
     },
     {
-      "blanked": "Pranab Mukherjee hinted at desire to become PM, ‘shocked’ me, writes ______ Gandhi",
-      "answer": "Sonia",
+      "blanked": "India’s Aditya-L1 unlocks ______ secrets: How new discovery could help predict solar storms that threaten Earth",
+      "answer": "Suns",
       "options": [
-        "DMK",
-        "Valuable",
-        "850",
-        "Sonia"
+        "Xbox",
+        "Suns",
+        "Jab",
+        "Gill"
       ]
     },
     {
-      "blanked": "After Bangladesh rules out passport for ______ India says ‘travel document’ needed",
-      "answer": "Hasina",
+      "blanked": "Today’s NYT Strands Hints, Spangram and Answers for ______ Nov. 11, #983",
+      "answer": "Wednesday",
       "options": [
-        "Records",
-        "Hasina",
-        "Diwali",
-        "Globally"
+        "Rahul",
+        "Trailer",
+        "Wednesday",
+        "Arabia"
+      ]
+    },
+    {
+      "blanked": "Why is India trying to broker a ______ Black Sea food corridor?",
+      "answer": "Russia-Ukraine",
+      "options": [
+        "How",
+        "Conway",
+        "Russia-Ukraine",
+        "Ram"
+      ]
+    },
+    {
+      "blanked": "Samsung ______ S27 series dummy units surface in new leak - GSMArena.com news",
+      "answer": "Galaxy",
+      "options": [
+        "Left",
+        "Firm",
+        "Waris",
+        "Galaxy"
       ]
     }
   ]
