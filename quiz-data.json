@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-11-11T03:00:07.748Z",
+  "generatedAt": "2026-11-11T10:38:46.046Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "U.S. Republicans derail bid to impeach Hegseth",
-    "From Sikkim to Saudi Arabia: Where Union ministers were on Diwali as Delhi’s air worsened",
-    "\"How Has He Left Me?\" Priyanka Recalls Sonia Gandhi's Grief After Rajiv's Death",
-    "Man posted with Rashtrapati Bhawan security shot in head over firecracker row in UP",
-    "Exclusive: Before NIA chargesheet, VanDyke told US embassy he will expose ‘Tihar assaults’",
-    "Nvidia shareholders sue Jensen Huang after affair with suspected Chinese spy",
-    "India objects to Chinese influencers showing Bangladesh as Delhi: ‘peddling false narratives’",
-    "Why is India trying to broker a Russia-Ukraine Black Sea food corridor?",
-    "ECI’s Internal Records of 2024 Elections: In 51 Seats of Two States and a UT, Votes Cast Do Not Match Votes Counted",
-    "Examining allegations of separatism against Waris Punjab De: ECI to Delhi High Court",
-    "Rubio says no need for major combat operations against Iran given US economic campaign",
-    "After Netanyahu's \"Unity\" Call, Eisenkot's \"Delusional, Outgoing PM\" Jab",
-    "US Treasury chief Bessent moved to military base after Iranian threats, NYT reports",
-    "Iran's top security official says no talks underway with US",
-    "Oil Falls to Lowest Level Since August",
-    "Anthropic targets $1.4 trillion valuation in blockbuster IPO",
+    "Militants open fire on CRPF personnel in J&K’s Kulgam, two injured",
+    "Hijack scare on Kolkata-Mumbai Air India flight, plane moved to isolation bay | India News",
+    "From Bachchans to Modi: What Sonia Gandhi says (and leaves out) in her book",
+    "5 Coaches, Engine Of Kolkata-Sairang Express Derail In Assam, Rescue Ops On",
+    "Bursting firecrackers on Diwali no big deal, pollution will subside: Yogi Adityanath",
+    "\"We Didn't Start Iran War\": Pete Hegseth's Defence Amid Impeachment Threat",
+    "80% Of Post-Diwali Pollution In Delhi Caused By Firecrackers: Study",
+    "Four injured as tanker with Indian crew hit by projectile in Arabian Gulf",
+    "India, US continuing talks to finalise first tranche of trade deal, official says",
+    "DU student suspended over allegations of luring female students with Diljit Dosanjh concert trip",
+    "Iran designates Argentina's navy and air force as 'terrorist organizations'",
+    "‘I pay $500 for 5 square metres’: Spain’s protesters, in their own words",
+    "No strikes, no peace deal: How Trump plans to keep Iran under pressure",
+    "Former Pakistan PM Imran Khan taken to hospital for treatment, returns to prison: Report",
+    "Indian stocks hit eight-month high as foreign investors return",
+    "Netweb, E2E Networks, other AI-related stocks rise up to 9% as Anthropic IPO, CoreWeave earnings lift...",
+    "Nvidia CEO's Affair With 'Spy' Helped China Buy $7 Billion Chips: Report",
     "Stock market outlook today, 11 Nov: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues",
-    "Nvidia Slips Amid CEO Probe, Microsoft Overtakes As World's 2nd-Most Valuable Firm",
-    "Today’s NYT Strands Hints, Spangram and Answers for Wednesday, Nov. 11, #983",
-    "GTA 6 will technically be playable on Xbox One at launch",
     "Samsung Galaxy S27 series dummy units surface in new leak - GSMArena.com news",
     "Google Patches Critical Chrome Zero-Day Exploiting XML Vulnerability",
-    "From ‘Dil Se’ to ‘Ramayana’: How Indian Cinema Shattered the U.K., Ireland Box Office Glass Ceiling",
-    "\"Let's Solve This S**t, Bro\": Salman Packs A Punch In Maatrubhumi Trailer",
-    "Ranveer Singh's grandfather passes away at 96; cousin Saumya Hingorani Thackeray shares Diwali tribute"
+    "Adobe expands AI assistant into creative workflows",
+    "Don’t Have 210 Spare GBs? ‘GTA VI’ Is Coming to Xbox Cloud Gaming (and the Xbox One) at Launch",
+    "Ramayana Part One Box Office Collections: Ranbir Kapoor and Yash starrer tops USD 30M Overseas and Rs. 800 Cr worldwide",
+    "Ranveer Singh's Maternal Grandfather Dr Ram Hingorani Dies At 96 On Diwali",
+    "Scene box office day 5: Suriya starrer becomes Diwali winner in Tamil cinema"
   ],
   "quiz": [
     {
-      "blanked": "Nvidia shareholders sue Jensen Huang after affair with suspected ______ spy",
-      "answer": "Chinese",
+      "blanked": "Former Pakistan PM Imran ______ taken to hospital for treatment, returns to prison: Report",
+      "answer": "Khan",
       "options": [
-        "Elections",
-        "Chinese",
-        "Death",
-        "Singhs"
+        "GBs",
+        "Exploiting",
+        "Khan",
+        "800"
+      ]
+    },
+    {
+      "blanked": "What Food Will Be Served At Anirudh Ravichander-Kavya Maran's Wedding In ______ Today",
+      "answer": "Greece",
+      "options": [
+        "Threat",
+        "Cummins",
+        "Greece",
+        "Grandfather"
+      ]
+    },
+    {
+      "blanked": "Netweb, E2E ______ other AI-related stocks rise up to 9% as Anthropic IPO, CoreWeave earnings lift...",
+      "answer": "Networks",
+      "options": [
+        "Khan",
+        "Ravichander-Kavya",
+        "Have",
+        "Networks"
+      ]
+    },
+    {
+      "blanked": "Air pollution linked to ______ higher type 2 diabetes risk, study finds",
+      "answer": "1016%",
+      "options": [
+        "1016%",
+        "Singh",
+        "Mumbai",
+        "Yash"
+      ]
+    },
+    {
+      "blanked": "Sandpapergate row: 'Not going to answer that' - Usman Khawaja cancels media interviews after Pat ______",
+      "answer": "Cummins",
+      "options": [
+        "Cummins",
+        "Chips",
+        "Congo",
+        "IPO"
+      ]
+    },
+    {
+      "blanked": "Hardik Pandya and Arshdeep ______ complete major trade between PBKS and MI",
+      "answer": "Singh",
+      "options": [
+        "Singh",
+        "Object",
+        "Kolkata-Sairang",
+        "Air"
       ]
     },
     {
       "blanked": "Diabetes: ______ begins before blood sugar rises",
       "answer": "Prevention",
       "options": [
-        "Prevention",
-        "Delhis",
-        "What",
-        "Exploiting"
+        "Covid",
+        "CoreWeave",
+        "Iran",
+        "Prevention"
       ]
     },
     {
-      "blanked": "Examining allegations of separatism against Waris Punjab De: ECI to Delhi ______ Court",
-      "answer": "High",
+      "blanked": "Scene box office day 5: ______ starrer becomes Diwali winner in Tamil cinema",
+      "answer": "Suriya",
       "options": [
-        "High",
-        "Zealand",
-        "Rashtrapati",
-        "Facts"
+        "Suriya",
+        "Light-Day",
+        "Hegseths",
+        "Kapoor"
       ]
     },
     {
-      "blanked": "Stock market outlook today, 11 Nov: Sensex, Nifty prediction - ______ S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues",
-      "answer": "DJIA",
+      "blanked": "Ebola cases in DR ______ pass 11,000, with 5,387 deaths",
+      "answer": "Congo",
       "options": [
-        "Indias",
-        "Maatrubhumi",
-        "Govil",
-        "DJIA"
-      ]
-    },
-    {
-      "blanked": "Anthropic targets ______ trillion valuation in blockbuster IPO",
-      "answer": "1.4",
-      "options": [
-        "Jeetendras",
-        "Answers",
-        "Energy",
-        "1.4"
-      ]
-    },
-    {
-      "blanked": "Ravindra, ______ named in New Zealand squad for India Tests",
-      "answer": "Conway",
-      "options": [
-        "Russia-Ukraine",
-        "Where",
-        "Conway",
-        "Hints"
-      ]
-    },
-    {
-      "blanked": "GTA 6 will technically be playable on ______ One at launch",
-      "answer": "Xbox",
-      "options": [
-        "Yadav",
+        "Exploiting",
+        "Assam",
         "Xbox",
-        "Khawaja",
-        "Sikkim"
+        "Congo"
       ]
     },
     {
-      "blanked": "India objects to Chinese influencers showing ______ as Delhi: ‘peddling false narratives’",
-      "answer": "Bangladesh",
+      "blanked": "From Bachchans to Modi: What Sonia ______ says (and leaves out) in her book",
+      "answer": "Gandhi",
       "options": [
-        "Ceiling",
-        "Bollywood",
-        "Bangladesh",
-        "Symptoms"
+        "Adityanath",
+        "Ops",
+        "News",
+        "Gandhi"
       ]
     },
     {
-      "blanked": "India’s Aditya-L1 unlocks ______ secrets: How new discovery could help predict solar storms that threaten Earth",
-      "answer": "Suns",
+      "blanked": "Stock market outlook today, 11 Nov: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, ______ Nifty, Kospi, Nikkei, Taiwan cues",
+      "answer": "GIFT",
       "options": [
-        "Xbox",
-        "Suns",
-        "Jab",
-        "Gill"
+        "Maternal",
+        "GIFT",
+        "CoreWeave",
+        "Threat"
       ]
     },
     {
-      "blanked": "Today’s NYT Strands Hints, Spangram and Answers for ______ Nov. 11, #983",
-      "answer": "Wednesday",
+      "blanked": "Hijack scare on Kolkata-Mumbai Air India flight, plane moved to isolation bay | India ______",
+      "answer": "News",
       "options": [
-        "Rahul",
-        "Trailer",
-        "Wednesday",
-        "Arabia"
-      ]
-    },
-    {
-      "blanked": "Why is India trying to broker a ______ Black Sea food corridor?",
-      "answer": "Russia-Ukraine",
-      "options": [
-        "How",
-        "Conway",
-        "Russia-Ukraine",
-        "Ram"
-      ]
-    },
-    {
-      "blanked": "Samsung ______ S27 series dummy units surface in new leak - GSMArena.com news",
-      "answer": "Galaxy",
-      "options": [
-        "Left",
-        "Firm",
-        "Waris",
-        "Galaxy"
+        "Air",
+        "Object",
+        "News",
+        "Patches"
       ]
     }
   ]
