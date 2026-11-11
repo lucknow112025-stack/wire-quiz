@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-11-11T10:38:46.046Z",
+  "generatedAt": "2026-11-11T18:02:43.124Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "Militants open fire on CRPF personnel in J&K’s Kulgam, two injured",
-    "Hijack scare on Kolkata-Mumbai Air India flight, plane moved to isolation bay | India News",
-    "From Bachchans to Modi: What Sonia Gandhi says (and leaves out) in her book",
-    "5 Coaches, Engine Of Kolkata-Sairang Express Derail In Assam, Rescue Ops On",
-    "Bursting firecrackers on Diwali no big deal, pollution will subside: Yogi Adityanath",
-    "\"We Didn't Start Iran War\": Pete Hegseth's Defence Amid Impeachment Threat",
-    "80% Of Post-Diwali Pollution In Delhi Caused By Firecrackers: Study",
-    "Four injured as tanker with Indian crew hit by projectile in Arabian Gulf",
-    "India, US continuing talks to finalise first tranche of trade deal, official says",
-    "DU student suspended over allegations of luring female students with Diljit Dosanjh concert trip",
-    "Iran designates Argentina's navy and air force as 'terrorist organizations'",
-    "‘I pay $500 for 5 square metres’: Spain’s protesters, in their own words",
-    "No strikes, no peace deal: How Trump plans to keep Iran under pressure",
-    "Former Pakistan PM Imran Khan taken to hospital for treatment, returns to prison: Report",
-    "Indian stocks hit eight-month high as foreign investors return",
-    "Netweb, E2E Networks, other AI-related stocks rise up to 9% as Anthropic IPO, CoreWeave earnings lift...",
-    "Nvidia CEO's Affair With 'Spy' Helped China Buy $7 Billion Chips: Report",
-    "Stock market outlook today, 11 Nov: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues",
-    "Samsung Galaxy S27 series dummy units surface in new leak - GSMArena.com news",
-    "Google Patches Critical Chrome Zero-Day Exploiting XML Vulnerability",
-    "Adobe expands AI assistant into creative workflows",
-    "Don’t Have 210 Spare GBs? ‘GTA VI’ Is Coming to Xbox Cloud Gaming (and the Xbox One) at Launch",
-    "Ramayana Part One Box Office Collections: Ranbir Kapoor and Yash starrer tops USD 30M Overseas and Rs. 800 Cr worldwide",
-    "Ranveer Singh's Maternal Grandfather Dr Ram Hingorani Dies At 96 On Diwali",
-    "Scene box office day 5: Suriya starrer becomes Diwali winner in Tamil cinema"
+    "'They will kill you too': Sonia Gandhi's turbulent journey in Indian politics",
+    "Ukraine-Russia peace talks enter second day with territory and security guarantees in focus",
+    "India simplifies visa norms; categories cut, forms to be 70% leaner",
+    "J&K attack: Three injured after terrorists open fire on CRPF personnel in Kulgam",
+    "EXCLUSIVE: India ordered website takedowns on fake court orders, Reuters finds; police launch probe",
+    "TVK MLA Accused Of Sending Obscene Texts To Collector. Party Assures Probe",
+    "Noida Metro extension to Rs 3,230 crore national museum project: Cabinet approves key 5 decisions",
+    "Ex-Vice President Jagdeep Dhankhar Collapses During Walk, Hospitalised",
+    "No Inter from Next Year, Telangana Govt to Adopt 10+2 Model: Revanth",
+    "'Bigger than Louvre': All about the Yuge Yugeen Bharat Museum cleared by Cabinet",
+    "‘Our neighbours are gone’: Gaza survivors recount horrors of deadly floods",
+    "'Genocide against Italians': Over 300 schools evacuated after bomb threats in Italy",
+    "Workers across Spain stage first general strike in 14 years",
+    "Iran will not allow enriched nuclear material to leave the country, security chief says",
+    "Stock Market Close: Sensex pares gains but ends 773 pts up, Nifty at 25,255; PSU Bank rises 3%",
+    "Moody's lifts India growth forecast, sees economy well positioned to sustain near 7% growth",
+    "India's 11% dollar-growth pitch could draw FPIs back, but tax U-turn risks spoiling the party, says Samir...",
+    "Your Mutual Funds May Own Nvidia Stocks. How Its $470 Billion Crash Could Hit Returns",
+    "Adobe Previews Four AI Experiments for Creative Workflows",
+    "GTA VI will be available on Xbox Cloud Gaming from day one - GSMArena.com news",
+    "CERT-In flags critical security flaws, urges Chrome users in India to update browsers",
+    "Samsung Galaxy S27 and S27 Ultra camera specs reportedly leaked",
+    "Anirudh Ravichander And Kavya Maran Get Married In Greece. A Look At Their Relationship",
+    "Ramayana Box Office Collection Day 6 LIVE Updates: Ranbir Kapoor film crosses Rs 70 cr mark on Bhai Dooj; earns Rs 823 cr worldwide",
+    "Salman Khan's next film director Vamshi Paidipally says he knows the stress and sacrifice actor went through for Maatrubhumi | Bollywood"
   ],
   "quiz": [
     {
-      "blanked": "Former Pakistan PM Imran ______ taken to hospital for treatment, returns to prison: Report",
-      "answer": "Khan",
+      "blanked": "TVK MLA Accused Of Sending Obscene Texts To Collector. Party Assures ______",
+      "answer": "Probe",
       "options": [
-        "GBs",
-        "Exploiting",
-        "Khan",
-        "800"
+        "470",
+        "Solar",
+        "Probe",
+        "Box"
       ]
     },
     {
-      "blanked": "What Food Will Be Served At Anirudh Ravichander-Kavya Maran's Wedding In ______ Today",
-      "answer": "Greece",
+      "blanked": "EXCLUSIVE: India ordered website takedowns on fake court orders, ______ finds; police launch probe",
+      "answer": "Reuters",
       "options": [
-        "Threat",
-        "Cummins",
-        "Greece",
-        "Grandfather"
-      ]
-    },
-    {
-      "blanked": "Netweb, E2E ______ other AI-related stocks rise up to 9% as Anthropic IPO, CoreWeave earnings lift...",
-      "answer": "Networks",
-      "options": [
-        "Khan",
-        "Ravichander-Kavya",
-        "Have",
-        "Networks"
-      ]
-    },
-    {
-      "blanked": "Air pollution linked to ______ higher type 2 diabetes risk, study finds",
-      "answer": "1016%",
-      "options": [
-        "1016%",
-        "Singh",
-        "Mumbai",
-        "Yash"
-      ]
-    },
-    {
-      "blanked": "Sandpapergate row: 'Not going to answer that' - Usman Khawaja cancels media interviews after Pat ______",
-      "answer": "Cummins",
-      "options": [
-        "Cummins",
-        "Chips",
-        "Congo",
-        "IPO"
-      ]
-    },
-    {
-      "blanked": "Hardik Pandya and Arshdeep ______ complete major trade between PBKS and MI",
-      "answer": "Singh",
-      "options": [
-        "Singh",
-        "Object",
-        "Kolkata-Sairang",
-        "Air"
-      ]
-    },
-    {
-      "blanked": "Diabetes: ______ begins before blood sugar rises",
-      "answer": "Prevention",
-      "options": [
-        "Covid",
-        "CoreWeave",
-        "Iran",
-        "Prevention"
-      ]
-    },
-    {
-      "blanked": "Scene box office day 5: ______ starrer becomes Diwali winner in Tamil cinema",
-      "answer": "Suriya",
-      "options": [
-        "Suriya",
-        "Light-Day",
-        "Hegseths",
-        "Kapoor"
+        "During",
+        "WHO",
+        "Reuters",
+        "Arshdeep"
       ]
     },
     {
       "blanked": "Ebola cases in DR ______ pass 11,000, with 5,387 deaths",
       "answer": "Congo",
       "options": [
-        "Exploiting",
-        "Assam",
+        "Type",
+        "Prevented",
+        "Congo",
+        "Ravichander"
+      ]
+    },
+    {
+      "blanked": "GTA VI will be available on ______ Cloud Gaming from day one - GSMArena.com news",
+      "answer": "Xbox",
+      "options": [
         "Xbox",
-        "Congo"
+        "Returns",
+        "Hit",
+        "Championships"
       ]
     },
     {
-      "blanked": "From Bachchans to Modi: What Sonia ______ says (and leaves out) in her book",
-      "answer": "Gandhi",
+      "blanked": "No Inter from Next Year, Telangana Govt to Adopt 10+2 ______ Revanth",
+      "answer": "Model",
       "options": [
-        "Adityanath",
-        "Ops",
-        "News",
-        "Gandhi"
+        "300",
+        "Cross",
+        "Model",
+        "World"
       ]
     },
     {
-      "blanked": "Stock market outlook today, 11 Nov: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, ______ Nifty, Kospi, Nikkei, Taiwan cues",
-      "answer": "GIFT",
+      "blanked": "Ramayana Box Office Collection Day 6 LIVE Updates: Ranbir Kapoor film crosses Rs 70 cr mark on ______ Dooj; earns Rs 823 cr worldwide",
+      "answer": "Bhai",
       "options": [
-        "Maternal",
-        "GIFT",
-        "CoreWeave",
-        "Threat"
+        "System",
+        "Bhai",
+        "470",
+        "Adopt"
       ]
     },
     {
-      "blanked": "Hijack scare on Kolkata-Mumbai Air India flight, plane moved to isolation bay | India ______",
-      "answer": "News",
+      "blanked": "NASA's new ______ space telescope will peer deep into the universe's most violent events",
+      "answer": "UVEX",
       "options": [
-        "Air",
+        "U-turn",
+        "Govt",
+        "UVEX",
+        "Italy"
+      ]
+    },
+    {
+      "blanked": "India simplifies visa norms; categories cut, forms to be ______ leaner",
+      "answer": "70%",
+      "options": [
+        "Metro",
+        "Four",
+        "WHO",
+        "70%"
+      ]
+    },
+    {
+      "blanked": "Voyager 1 to Cross One Light-Day ______ on Nov. 18, Becoming Farthest Human Object Ever",
+      "answer": "Mark",
+      "options": [
+        "Yuge",
+        "Factors",
+        "Office",
+        "Mark"
+      ]
+    },
+    {
+      "blanked": "'Bigger than Louvre': All about the Yuge Yugeen ______ Museum cleared by Cabinet",
+      "answer": "Bharat",
+      "options": [
+        "Inter",
+        "Bharat",
+        "Gaza",
+        "Khawaja"
+      ]
+    },
+    {
+      "blanked": "The Solar System Could Die 1 Billion ______ Sooner Than We Thought",
+      "answer": "Times",
+      "options": [
+        "Times",
+        "Cummins",
+        "Khans",
+        "Returns"
+      ]
+    },
+    {
+      "blanked": "Your Mutual Funds May Own Nvidia Stocks. How Its ______ Billion Crash Could Hit Returns",
+      "answer": "470",
+      "options": [
+        "Party",
+        "470",
         "Object",
-        "News",
-        "Patches"
+        "Revanth"
       ]
     }
   ]
