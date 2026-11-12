@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-11-12T07:43:07.619Z",
+  "generatedAt": "2026-11-12T16:17:29.827Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
+    "Nvidia CEO Jensen Huang resigns in big blow to AI boom",
+    "Owaisi, Chandrashekhar Azad announce Samajik Parivartan Morcha for 2027 U.P. Assembly polls",
+    "Woman Objects To \"Bad Touch\", Pushed Off Mumbai Local, Loses Arm",
+    "Watch: Families of 1984 anti-Sikh riots victims burn Sonia Gandhi's memoir",
+    "Will be too late by the time guns fall silent: Farooq Abdullah pushes for India-Pakistan dialogue",
+    "US shooting: 5 people shot in near White House; at least 1 dead, area cordoned off",
+    "Bomb Hoax Names Amitabh Bachchan's Home After Bulletproof Glass Upgrade",
+    "‘Dream now has a date’: PM Modi on 2047 deadline for Viksit Bharat | India News",
+    "IIT Kharagpur becomes first IIT to introduce postgraduate medical courses",
     "Two missing policemen found dead in J&K’s Kishtwar",
-    "Chased, shot even after falling: CCTV captures chilling murder of ex-Tech Mahindra regional head Paramjee",
-    "India Rewrites Entire Visa System. These Are The Nine Categories That Survived",
-    "Elon Musk says he would hire Jensen Huang",
-    "\"We Didn't Start Iran War\": Pete Hegseth's Defence Amid Impeachment Threat",
-    "Three CRPF jawans injured in terror attack in Kashmir’s Kulgam",
-    "Complete data could've raised average Diwali pollution level 49%",
-    "Arvind Kejriwal Gets Death Threat, Allegedly From Lawrence Bishnoi Gang",
-    "Norwegian journalist Helle Lyng says she has been stopped from coming to Hyderabad for Bharat Summit",
-    "Watch: ‘Illegal’ tin shed removed at TMC MP Abhishek Banerjee's Kalighat residence",
-    "Hegseth entourage reprimanded by guard at Tomb of the Unknown Soldier",
-    "Indonesia VP hands resignation to parliament as Jokowi backs Prabowo",
-    "At least two people dead, many feared trapped as building collapses in NYC",
-    "'America did not start this': Trump defends war with Iran",
-    "Sensex falls 350 pts from day's high, Nifty near 25,250: Key reasons behind market paring gains",
-    "Stock Market Close: Sensex pares gains but ends 773 pts up, Nifty at 25,255; PSU Bank rises 3%",
-    "Gold (XAUUSD), Silver, Platinum Forecasts – Gold Drops As Dollar Tests Yearly Highs",
+    "UAE midnight crash: Several dead in Fujairah after truck hits multiple vehicles, police issues warning",
+    "Trump And Netanyahu Get Into \"Shouting Match From Hell\" Over Iran War: Report",
+    "Democrat Scott Colom becomes Mississippi's first Black senator since 1874",
+    "New York building collapse: At least 8 people dead as rescuers dig through rubble",
+    "Stock market outlook today, 12 Nov: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues",
+    "Q2 Results 12th Nov Live: HAL, Oil India, Manappuram Finance log gains, Ola Electric narrows loss, Vodafone Idea loss widens, Alkem Lab, BDL profit decline, Hitachi, NMDC, IRCTC to announce Q2 results",
     "Anthropic CFO Rao's stake worth $703mn",
-    "Meta's Muse AI comes to Apple Watches and Android Wear OS smart wearables",
+    "Inflation At 2-Year High In October, Breaches RBI's Upper Limit",
+    "NVIDIA Is Canceling the GeForce RTX 5080 with 24 GB of Memory – Insiders",
+    "CERT-In flags critical Google Chrome vulnerabilities, users advised to update browser immediately",
+    "GTA 6 coming to Xbox One via cloud gaming: What players need to know",
     "How to download Minecraft 26.70.24 beta and preview",
-    "CERT-In flags critical security flaws, urges Chrome users in India to update browsers",
-    "Adobe Debuts 10 Experimental AI Tools at MAX, From 3D Photo Walkthroughs to Talk-to-Your-Character Design",
     "Ramayana Part One Box Office Collections: Ranbir Kapoor and Yash starrer phenomenal run continues Overseas, tops Rs. 900 Cr worldwide",
-    "Rajinikanth steals the show with a dance at Anirudh and Kavya Maran’s Greece wedding",
-    "'You'll Play Beef-Eater's Mom?': Indira Krishnan On 'Paid Trolls' Over Ranbir's Ramayana Casting | Exclusiv"
+    "Shah Rukh Khan Elevates His All-Black Look With A Watch Worth Over Rs 5 Crore In Dubai",
+    "Bigg Boss 20: Aarti Singh questions Kanika Mann for mimicking Mahhi Vij’s daughter Tara, says ‘This was r"
   ],
   "quiz": [
     {
-      "blanked": "Watch: ______ tin shed removed at TMC MP Abhishek Banerjee's Kalighat residence",
-      "answer": "Illegal",
+      "blanked": "Watch: Families of ______ anti-Sikh riots victims burn Sonia Gandhi's memoir",
+      "answer": "1984",
       "options": [
-        "Bharat",
-        "Kejriwal",
-        "Adults",
-        "Illegal"
+        "1984",
+        "Elevates",
+        "Mars",
+        "Asia"
       ]
     },
     {
-      "blanked": "'You'll Play Beef-Eater's Mom?': Indira ______ On 'Paid Trolls' Over Ranbir's Ramayana Casting | Exclusiv",
-      "answer": "Krishnan",
+      "blanked": "NVIDIA Is Canceling the ______ RTX 5080 with 24 GB of Memory – Insiders",
+      "answer": "GeForce",
       "options": [
-        "Krishnan",
-        "Bigg",
-        "Bharat",
-        "Jensen"
+        "2047",
+        "Canceling",
+        "GeForce",
+        "All-Black"
       ]
     },
     {
-      "blanked": "Stock Market Close: Sensex pares gains but ends 773 pts up, ______ at 25,255; PSU Bank rises 3%",
-      "answer": "Nifty",
+      "blanked": "Democrat ______ Colom becomes Mississippi's first Black senator since 1874",
+      "answer": "Scott",
+      "options": [
+        "Ranbir",
+        "Scott",
+        "Raos",
+        "Canceling"
+      ]
+    },
+    {
+      "blanked": "Woman Objects To \"Bad Touch\", Pushed Off ______ Local, Loses Arm",
+      "answer": "Mumbai",
+      "options": [
+        "Mumbai",
+        "Off",
+        "Box",
+        "Chrome"
+      ]
+    },
+    {
+      "blanked": "World Diabetes ______ Early Prevention And Screening Key To Reducing Type 2 Diabetes Risk",
+      "answer": "Day",
+      "options": [
+        "Day",
+        "Shouting",
+        "Ranbir",
+        "Nifty"
+      ]
+    },
+    {
+      "blanked": "How to download ______ 26.70.24 beta and preview",
+      "answer": "Minecraft",
+      "options": [
+        "Minecraft",
+        "900",
+        "Ness",
+        "Hoax"
+      ]
+    },
+    {
+      "blanked": "Q2 Results 12th Nov ______ HAL, Oil India, Manappuram Finance log gains, Ola Electric narrows loss, Vodafone Idea loss widens, Alkem Lab, BDL profit decline, Hitachi, NMDC, IRCTC to announce Q2 results",
+      "answer": "Live",
+      "options": [
+        "Prevention",
+        "Live",
+        "Mumbai",
+        "Vodafone"
+      ]
+    },
+    {
+      "blanked": "US shooting: 5 people shot in near White ______ at least 1 dead, area cordoned off",
+      "answer": "House",
+      "options": [
+        "House",
+        "Nikkei",
+        "Assembly",
+        "Breaches"
+      ]
+    },
+    {
+      "blanked": "CERT-In flags critical Google ______ vulnerabilities, users advised to update browser immediately",
+      "answer": "Chrome",
+      "options": [
+        "China",
+        "Canceling",
+        "Chrome",
+        "Bobby"
+      ]
+    },
+    {
+      "blanked": "As Ramayana Nears Rs 1,000 Crore Worldwide, Ravi ______ Shares Candid BTS Pics With Ranbir Kapoor-Sai Pallavi",
+      "answer": "Dubey",
+      "options": [
+        "Voyager",
+        "Dubey",
+        "Netanyahu",
+        "Names"
+      ]
+    },
+    {
+      "blanked": "World Pneumonia Day: ______ early detection and medical access matter at sea",
+      "answer": "Why",
       "options": [
         "Risk",
-        "Krishnan",
-        "Nifty",
-        "Ramayana"
+        "Why",
+        "JKs",
+        "Hoax"
       ]
     },
     {
       "blanked": "Two missing policemen found dead in J&K’s ______",
       "answer": "Kishtwar",
       "options": [
+        "Devils",
+        "1874",
         "Kishtwar",
-        "Highs",
-        "Drops",
-        "49%"
-      ]
-    },
-    {
-      "blanked": "How to download Minecraft ______ beta and preview",
-      "answer": "26.70.24",
-      "options": [
-        "26.70.24",
-        "Reducing",
-        "Screening",
-        "Overseas"
-      ]
-    },
-    {
-      "blanked": "India vs Afghanistan LIVE Score, U19 Asia Cup Semi-Final: Aryan Savsani Strikes Twice In Same Over, Fiery ______ Follows",
-      "answer": "Send-Off",
-      "options": [
-        "Chrome",
-        "Casting",
-        "Send-Off",
-        "Soldier"
-      ]
-    },
-    {
-      "blanked": "World Diabetes Day: Early Prevention And Screening ______ To Reducing Type 2 Diabetes Risk",
-      "answer": "Key",
-      "options": [
-        "Android",
-        "Key",
-        "Platinum",
-        "Moon"
-      ]
-    },
-    {
-      "blanked": "\"We Didn't Start ______ War\": Pete Hegseth's Defence Amid Impeachment Threat",
-      "answer": "Iran",
-      "options": [
-        "Forecasts",
-        "Wadia",
-        "Glycaemic",
-        "Iran"
-      ]
-    },
-    {
-      "blanked": "Outcomes of a 7-Day Fruit-Based Diet on Glycaemic Control and Body Weight in Adults with Type 2 ______",
-      "answer": "Diabetes",
-      "options": [
-        "Chess",
-        "Human",
-        "Diabetes",
-        "Tests"
-      ]
-    },
-    {
-      "blanked": "Arvind Kejriwal Gets ______ Threat, Allegedly From Lawrence Bishnoi Gang",
-      "answer": "Death",
-      "options": [
-        "Back",
-        "Death",
-        "Ever",
-        "Gold"
-      ]
-    },
-    {
-      "blanked": "Jay Bhanushali loses his cool as daughter Tara gets dragged into ex-wife Mahhi Vij's ______ Boss 20 task, v",
-      "answer": "Bigg",
-      "options": [
-        "Total",
-        "Bigg",
-        "Gets",
-        "Talk-to-Your-Character"
-      ]
-    },
-    {
-      "blanked": "Anthropic CFO ______ stake worth $703mn",
-      "answer": "Raos",
-      "options": [
-        "Raos",
-        "Kejriwal",
-        "Tools",
-        "Ever"
+        "Touch"
       ]
     }
   ]
