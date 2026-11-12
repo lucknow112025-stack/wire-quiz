@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-11-12T00:38:16.220Z",
+  "generatedAt": "2026-11-12T07:43:07.619Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "India Simplifies Visa Rules For Tourism, Business, Medical Treatment: Categories Cut To 9, Forms 70% Shorter",
-    "Iran denies talks with US, says Hormuz will stay shut until demands are met",
-    "Ukraine-Russia peace talks enter second day with territory and security guarantees in focus",
-    "Hegseth survives impeachment push, Trump says Democrats' bid miserably failed",
-    "Senior Republican on US Senate banking panel calls on Nvidia CEO Huang to resign",
-    "From Bachchans to Modi: What Sonia Gandhi says (and leaves out) in her book",
-    "Fox On The Runway In Kolkata, IndiGo Flight Diverted Just Before Landing",
-    "Two Special Police Officers reported missing in J&K's Kishtwar; search op launched",
-    "Former V-P Dhankhar collapses during morning walk, admitted to AIIMS",
-    "Cabinet clears ₹2,390-crore Noida Metro extension; Blue, Aqua lines get new link | India News",
-    "Democrat Scott Colom becomes Mississippi's first Black senator since 1874",
-    "Iran will not allow enriched nuclear material to leave the country, security chief says",
-    "Saudi Arabia intercepts Houthi missiles, drones; group denies targeting Mecca",
-    "‘Climate crisis is outrunning us,’ UN chief Guterres says at COP31",
-    "Indian shares rise on foreign flow optimism; financials, autos lead",
-    "Amul raises milk prices by ₹2-4 per litre, effective from November 12",
-    "Qualcomm India layoffs: Over 1,000 jobs at risk amid global cuts",
-    "Nvidia Target Cut By 60%: The Two Worries Behind Baird's Downgrade Amid Jensen Huang Scandal",
-    "GTA VI will be available on Xbox Cloud Gaming from day one - GSMArena.com news",
-    "Gemini 4 Carbon Halves Google's Hallucinations, Review Finds, but Still Won't Beat Anthropic's Opus",
-    "Samsung's Galaxy S27 lineup takes shape with new dummy unit leak",
+    "Two missing policemen found dead in J&K’s Kishtwar",
+    "Chased, shot even after falling: CCTV captures chilling murder of ex-Tech Mahindra regional head Paramjee",
+    "India Rewrites Entire Visa System. These Are The Nine Categories That Survived",
+    "Elon Musk says he would hire Jensen Huang",
+    "\"We Didn't Start Iran War\": Pete Hegseth's Defence Amid Impeachment Threat",
+    "Three CRPF jawans injured in terror attack in Kashmir’s Kulgam",
+    "Complete data could've raised average Diwali pollution level 49%",
+    "Arvind Kejriwal Gets Death Threat, Allegedly From Lawrence Bishnoi Gang",
+    "Norwegian journalist Helle Lyng says she has been stopped from coming to Hyderabad for Bharat Summit",
+    "Watch: ‘Illegal’ tin shed removed at TMC MP Abhishek Banerjee's Kalighat residence",
+    "Hegseth entourage reprimanded by guard at Tomb of the Unknown Soldier",
+    "Indonesia VP hands resignation to parliament as Jokowi backs Prabowo",
+    "At least two people dead, many feared trapped as building collapses in NYC",
+    "'America did not start this': Trump defends war with Iran",
+    "Sensex falls 350 pts from day's high, Nifty near 25,250: Key reasons behind market paring gains",
+    "Stock Market Close: Sensex pares gains but ends 773 pts up, Nifty at 25,255; PSU Bank rises 3%",
+    "Gold (XAUUSD), Silver, Platinum Forecasts – Gold Drops As Dollar Tests Yearly Highs",
+    "Anthropic CFO Rao's stake worth $703mn",
+    "Meta's Muse AI comes to Apple Watches and Android Wear OS smart wearables",
+    "How to download Minecraft 26.70.24 beta and preview",
     "CERT-In flags critical security flaws, urges Chrome users in India to update browsers",
-    "What Food Will Be Served At Anirudh Ravichander-Kavya Maran's Wedding In Greece Today",
-    "From ‘Dil Se’ to ‘Ramayana’: How Indian Cinema Shattered the U.K., Ireland Box Office Glass Ceiling",
-    "Kareena Kapoor gets legal notice from Congress leader over Quran-inscribed royal pendant"
+    "Adobe Debuts 10 Experimental AI Tools at MAX, From 3D Photo Walkthroughs to Talk-to-Your-Character Design",
+    "Ramayana Part One Box Office Collections: Ranbir Kapoor and Yash starrer phenomenal run continues Overseas, tops Rs. 900 Cr worldwide",
+    "Rajinikanth steals the show with a dance at Anirudh and Kavya Maran’s Greece wedding",
+    "'You'll Play Beef-Eater's Mom?': Indira Krishnan On 'Paid Trolls' Over Ranbir's Ramayana Casting | Exclusiv"
   ],
   "quiz": [
     {
-      "blanked": "GTA VI will be available on Xbox ______ Gaming from day one - GSMArena.com news",
-      "answer": "Cloud",
+      "blanked": "Watch: ______ tin shed removed at TMC MP Abhishek Banerjee's Kalighat residence",
+      "answer": "Illegal",
       "options": [
-        "Cloud",
-        "Scott",
-        "Sandpapergate",
-        "CEO"
+        "Bharat",
+        "Kejriwal",
+        "Adults",
+        "Illegal"
       ]
     },
     {
-      "blanked": "Iran denies talks with US, says ______ will stay shut until demands are met",
-      "answer": "Hormuz",
+      "blanked": "'You'll Play Beef-Eater's Mom?': Indira ______ On 'Paid Trolls' Over Ranbir's Ramayana Casting | Exclusiv",
+      "answer": "Krishnan",
       "options": [
-        "Congress",
-        "Target",
-        "Kumar",
-        "Hormuz"
-      ]
-    },
-    {
-      "blanked": "From ‘Dil Se’ to ______ How Indian Cinema Shattered the U.K., Ireland Box Office Glass Ceiling",
-      "answer": "Ramayana",
-      "options": [
-        "Chess",
-        "Early",
-        "Ramayana",
-        "Simplifies"
-      ]
-    },
-    {
-      "blanked": "Qualcomm ______ layoffs: Over 1,000 jobs at risk amid global cuts",
-      "answer": "India",
-      "options": [
-        "Chrome",
-        "Kapoor",
-        "Forms",
-        "India"
-      ]
-    },
-    {
-      "blanked": "Kareena Kapoor gets legal notice from ______ leader over Quran-inscribed royal pendant",
-      "answer": "Congress",
-      "options": [
-        "Hallucinations",
-        "Congress",
-        "Carbon",
-        "JKs"
-      ]
-    },
-    {
-      "blanked": "Niraj Kumar scripts history with World Championships bronze, secures LA 2028 ______ quota",
-      "answer": "Olympic",
-      "options": [
-        "Chrome",
-        "Olympic",
-        "Black",
-        "Chess"
-      ]
-    },
-    {
-      "blanked": "Early Influenza ______ Sparks Global Clinical Surveillance Alert",
-      "answer": "Activity",
-      "options": [
-        "Activity",
-        "Sonia",
-        "Mississippis",
-        "Arabia"
-      ]
-    },
-    {
-      "blanked": "Hegseth survives impeachment push, Trump says ______ bid miserably failed",
-      "answer": "Democrats",
-      "options": [
-        "AIIMS",
-        "Democrats",
-        "Forms",
-        "THESE"
-      ]
-    },
-    {
-      "blanked": "New COVID-19 Variant PJ.2.1 Detected In THESE Countries; Check Symptoms & ______",
-      "answer": "Risks",
-      "options": [
-        "Risks",
-        "JKs",
-        "70%",
-        "Light-Day"
-      ]
-    },
-    {
-      "blanked": "Gemini 4 Carbon ______ Google's Hallucinations, Review Finds, but Still Won't Beat Anthropic's Opus",
-      "answer": "Halves",
-      "options": [
-        "Food",
-        "Halves",
-        "Categories",
-        "V-P"
-      ]
-    },
-    {
-      "blanked": "Carlsen wins opening blitz tournament at Total ______ Pilot in Budapest",
-      "answer": "Chess",
-      "options": [
-        "Pilot",
-        "Chess",
-        "Dil",
-        "Type"
-      ]
-    },
-    {
-      "blanked": "Nobel laureate validates OpenAI's AI-generated ______ proof, but $1 million problem remains open",
-      "answer": "Yang-Mills",
-      "options": [
-        "2028",
-        "Joe",
-        "Yang-Mills",
+        "Krishnan",
+        "Bigg",
+        "Bharat",
         "Jensen"
+      ]
+    },
+    {
+      "blanked": "Stock Market Close: Sensex pares gains but ends 773 pts up, ______ at 25,255; PSU Bank rises 3%",
+      "answer": "Nifty",
+      "options": [
+        "Risk",
+        "Krishnan",
+        "Nifty",
+        "Ramayana"
+      ]
+    },
+    {
+      "blanked": "Two missing policemen found dead in J&K’s ______",
+      "answer": "Kishtwar",
+      "options": [
+        "Kishtwar",
+        "Highs",
+        "Drops",
+        "49%"
+      ]
+    },
+    {
+      "blanked": "How to download Minecraft ______ beta and preview",
+      "answer": "26.70.24",
+      "options": [
+        "26.70.24",
+        "Reducing",
+        "Screening",
+        "Overseas"
+      ]
+    },
+    {
+      "blanked": "India vs Afghanistan LIVE Score, U19 Asia Cup Semi-Final: Aryan Savsani Strikes Twice In Same Over, Fiery ______ Follows",
+      "answer": "Send-Off",
+      "options": [
+        "Chrome",
+        "Casting",
+        "Send-Off",
+        "Soldier"
+      ]
+    },
+    {
+      "blanked": "World Diabetes Day: Early Prevention And Screening ______ To Reducing Type 2 Diabetes Risk",
+      "answer": "Key",
+      "options": [
+        "Android",
+        "Key",
+        "Platinum",
+        "Moon"
+      ]
+    },
+    {
+      "blanked": "\"We Didn't Start ______ War\": Pete Hegseth's Defence Amid Impeachment Threat",
+      "answer": "Iran",
+      "options": [
+        "Forecasts",
+        "Wadia",
+        "Glycaemic",
+        "Iran"
+      ]
+    },
+    {
+      "blanked": "Outcomes of a 7-Day Fruit-Based Diet on Glycaemic Control and Body Weight in Adults with Type 2 ______",
+      "answer": "Diabetes",
+      "options": [
+        "Chess",
+        "Human",
+        "Diabetes",
+        "Tests"
+      ]
+    },
+    {
+      "blanked": "Arvind Kejriwal Gets ______ Threat, Allegedly From Lawrence Bishnoi Gang",
+      "answer": "Death",
+      "options": [
+        "Back",
+        "Death",
+        "Ever",
+        "Gold"
+      ]
+    },
+    {
+      "blanked": "Jay Bhanushali loses his cool as daughter Tara gets dragged into ex-wife Mahhi Vij's ______ Boss 20 task, v",
+      "answer": "Bigg",
+      "options": [
+        "Total",
+        "Bigg",
+        "Gets",
+        "Talk-to-Your-Character"
+      ]
+    },
+    {
+      "blanked": "Anthropic CFO ______ stake worth $703mn",
+      "answer": "Raos",
+      "options": [
+        "Raos",
+        "Kejriwal",
+        "Tools",
+        "Ever"
       ]
     }
   ]
