@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-11-13T10:01:33.405Z",
+  "generatedAt": "2026-11-13T17:42:18.742Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "Microsoft Outage LIVE: Microsoft extends mail timeout to 48 hours as outage hits governments, organisations worldwide",
-    "Modi in Bengaluru: PM flags off elevated stretch of Namma Metro Pink Line | LIVE",
+    "In major breakthrough, U.S. assures India of comparative tariff advantage over its competitors",
+    "Air India, Air India Express suspend flights to Riyadh, Dammam till Nov 30; Jeddah till Nov 21 amid threa",
     "\"Taps My Phone\": Rahul Gandhi's Big Charge Against PM Modi, Then Debate Dare",
-    "Former Madras High Court Judge Justice CS Karnan Passes Away",
-    "Bookstores report strong early sales of Sonia Gandhi’s memoir",
-    "Nvidia CEO Jensen Huang resigns; CFO Kress to take over as interim chief",
+    "At least 26 die in bus-truck collision in Assam’s Kaziranga; 20 others injured",
+    "Pink line: Jayadeva Hospital stop to become Bengaluru’s 3rd metro interchange",
+    "Microsoft Outage LIVE: Microsoft extends mail timeout to 48 hours as outage hits governments, organisations worldwide",
     "Was Delhi pollution data during Diwali misleading?",
-    "MHA declares Zakir Naik’s Islamic Research Foundation unlawful for another five years",
-    "Navi Mumbai India's cleanest city, Indore's domination ends",
-    "Closed brake valve may have caused Kolkata-Sairang Express to overshoot signal and derail in Assam",
-    "Nvidia scandal: White House weighs 'ouster' of top Trump aide over China chip exports",
-    "US Senator Chris Van Hollen seeks to lead Democrats: Who is he?",
-    "Cummins threw Khawaja under the bus - David Warner",
-    "China stages unannounced Pacific drills in 'silent intimidation' of Taiwan, officials say",
-    "Anthropic's IPO is about 6 times oversubscribed: Report | Existing investors will get allocation priority | Inshorts",
-    "Indian shares decline as oil surge, inflation jitters weigh",
-    "Investors Buy The Crash As Nvidia Stock Hits 7-Month Low: What Experts Say",
-    "Retail inflation crosses RBI’s 6% limit, food inflation at 9%; interest hikes likely",
-    "Google unveils Gemini-powered intelligent eyewear: Features, compatibility",
+    "Punjab MP Amritpal Singh Gets 1-Day Bail For Grandmother's Last Rites",
+    "4 injured, 18 vehicles damaged in massive pile-up on Samruddhi Expressway in Buldhana",
+    "Modi in Karnataka: COSMOS Mysuru Planetarium a new chapter in India’s scientific journey, says PM | HIGHLIGHTS",
+    "UN watchdog calls on Iran to reopen nuclear facilities to inspection",
+    "'I'm not gonna be cowered': US Treasury chief on moving to military base over Iran threats",
+    "Turkiye and Qatar sign mutual defence agreement",
+    "U.S. lawmakers summon Nvidia former CEO after affair with suspected spy",
+    "Former Nvidia CEO Huang had a relationship with a second employee, sources say",
+    "India's October trade deficit hits one-year high of $39.88 billion as gold imports jump",
+    "Stock Market Close: Sensex snaps 3-day winning run, ends 319 pts lower; Nifty at 25,144; VIX down 7%",
+    "Eicher Motors Q2 results: Net profit rises 15% to Rs 1,573 crore, misses estimates",
+    "Samsung unveils 30-model AI eyewear range with Google",
     "Google Updates Confirm 4 Critical Chrome Security Bugs And 1 Zero-Day",
-    "Rockstar says GTA 6 PS5 Pro build ran at 60 fps with major performance compromises",
-    "GTA 6 launch livestream: Full list of streamers, dates, start timings and where to watch YouTube's 24-hou",
-    "Govinda and Komal Rani Swarnkar pose together for 'Roopa' promotions; Rakhi Sawant reacts with angry emoj",
+    "Google launches Gemini 4 Hydrogen, targets faster AI workflows",
+    "GTA VI coming to XBOX One, Series X & S through cloud gaming on Nov 19 - Team-BHP",
+    "Ramayana Vs Dhurandhar The Revenge Box Office Comparison: Ranbir Kapoor and Yash starrer remains behind Ranveer Singh's film in first week",
     "Moushumi Chatterjee's Husband, Producer Jayanta Mukherjee Dies After Prolonged Illness",
-    "Ranveer, Deepika's intimate Diwali celebration with family after welcoming baby Devi"
+    "Scene Box Office Collection Day 8"
   ],
   "quiz": [
     {
-      "blanked": "\"Taps My Phone\": Rahul ______ Big Charge Against PM Modi, Then Debate Dare",
-      "answer": "Gandhis",
+      "blanked": "Was Delhi pollution data during ______ misleading?",
+      "answer": "Diwali",
       "options": [
-        "Gandhis",
-        "Henry",
-        "Confirm",
-        "Prolonged"
+        "Chatterjees",
+        "Revenge",
+        "Diwali",
+        "Grandmothers"
       ]
     },
     {
-      "blanked": "GTA 6 launch livestream: Full list of streamers, dates, start timings and where to watch ______ 24-hou",
-      "answer": "YouTubes",
+      "blanked": "Usman ______ claims fall on deaf ears in South Africa",
+      "answer": "Khawaja",
       "options": [
-        "Report",
-        "Henry",
-        "YouTubes",
-        "Prolonged"
+        "LIVE",
+        "Zero-Day",
+        "Khawaja",
+        "Kapoor"
       ]
     },
     {
-      "blanked": "Gunjan creates history, becomes first female ______ boxer to win Youth Olympics gold | Gunjan hails from Haryana | Inshorts",
-      "answer": "Indian",
+      "blanked": "Ramayana Vs Dhurandhar The Revenge Box Office ______ Ranbir Kapoor and Yash starrer remains behind Ranveer Singh's film in first week",
+      "answer": "Comparison",
       "options": [
-        "Gandhis",
-        "Indian",
-        "Who",
-        "Against"
+        "Comparison",
+        "Riyadh",
+        "XBOX",
+        "Sri"
       ]
     },
     {
-      "blanked": "Ranveer, Deepika's intimate Diwali celebration with family after welcoming baby ______",
-      "answer": "Devi",
+      "blanked": "Air India, Air India Express suspend flights to ______ Dammam till Nov 30; Jeddah till Nov 21 amid threa",
+      "answer": "Riyadh",
       "options": [
-        "Devi",
-        "England",
-        "Assam",
-        "Treatment"
+        "Kapoor",
+        "Sachin",
+        "ODIs",
+        "Riyadh"
       ]
     },
     {
-      "blanked": "Google unveils Gemini-powered intelligent eyewear: ______ compatibility",
-      "answer": "Features",
+      "blanked": "Modi in ______ COSMOS Mysuru Planetarium a new chapter in India’s scientific journey, says PM | HIGHLIGHTS",
+      "answer": "Karnataka",
       "options": [
-        "Part",
-        "Australia",
-        "Features",
-        "Kress"
-      ]
-    },
-    {
-      "blanked": "Retail inflation crosses ______ 6% limit, food inflation at 9%; interest hikes likely",
-      "answer": "RBIs",
-      "options": [
-        "RBIs",
-        "Pacific",
-        "What",
-        "GTA"
+        "Aerospace",
+        "Jayanta",
+        "Karnataka",
+        "Phone"
       ]
     },
     {
       "blanked": "Moushumi Chatterjee's Husband, ______ Jayanta Mukherjee Dies After Prolonged Illness",
       "answer": "Producer",
       "options": [
-        "Double",
-        "Mindfulness",
-        "Reaches",
-        "Producer"
+        "Algorithms",
+        "Box",
+        "Producer",
+        "Kapoor"
       ]
     },
     {
-      "blanked": "Microsoft Outage LIVE: ______ extends mail timeout to 48 hours as outage hits governments, organisations worldwide",
-      "answer": "Microsoft",
+      "blanked": "GTA VI coming to XBOX One, Series X & S through cloud gaming on ______ 19 - Team-BHP",
+      "answer": "Nov",
       "options": [
-        "Islamic",
-        "Gandhis",
-        "Existing",
-        "Microsoft"
+        "ODIs",
+        "Producer",
+        "Against",
+        "Nov"
       ]
     },
     {
-      "blanked": "Was Delhi pollution data during ______ misleading?",
-      "answer": "Diwali",
+      "blanked": "'I'm not gonna be cowered': US ______ chief on moving to military base over Iran threats",
+      "answer": "Treasury",
       "options": [
-        "Karnan",
-        "Diwali",
-        "Kress",
-        "Democrats"
+        "COSMOS",
+        "Maruthi",
+        "Whose",
+        "Treasury"
       ]
     },
     {
-      "blanked": "Closed brake valve may have caused Kolkata-Sairang Express to overshoot signal and derail in ______",
-      "answer": "Assam",
+      "blanked": "Google ______ Confirm 4 Critical Chrome Security Bugs And 1 Zero-Day",
+      "answer": "Updates",
       "options": [
-        "Experts",
-        "Pro",
-        "Assam",
-        "Express"
+        "ODIs",
+        "Updates",
+        "Day",
+        "Outage"
       ]
     },
     {
-      "blanked": "Bookstores report strong early sales of Sonia ______ memoir",
-      "answer": "Gandhis",
+      "blanked": "India's October trade deficit hits one-year high of ______ billion as gold imports jump",
+      "answer": "39.88",
       "options": [
-        "Gandhis",
-        "Cancer",
-        "Assam",
-        "Senator"
+        "Rao",
+        "October",
+        "Wants",
+        "39.88"
       ]
     },
     {
-      "blanked": "Can Mindfulness for Insomnia ______ Women With Cancer?",
-      "answer": "Help",
+      "blanked": "Gambhir 'concerned' by ______ frequent ODI batting collapses",
+      "answer": "Indias",
       "options": [
-        "Rakhi",
-        "Help",
-        "Indian",
-        "Justice"
+        "Treasury",
+        "Indias",
+        "Kaziranga",
+        "Singhs"
+      ]
+    },
+    {
+      "blanked": "Ebola spreads into rural areas of DRC as violence hampers response | ______ Sabah",
+      "answer": "Daily",
+      "options": [
+        "Hydrogen",
+        "Andolan",
+        "Box",
+        "Daily"
       ]
     }
   ]
