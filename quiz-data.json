@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-11-13T02:44:12.365Z",
+  "generatedAt": "2026-11-13T10:01:33.405Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "Was Delhi pollution data during Diwali misleading?",
-    "UAE says 14 killed, 30 injured in Fujairah traffic accident",
-    "Government planning special Session to clear Delimitation Bill; Congress calls it a ‘bluster’",
+    "Microsoft Outage LIVE: Microsoft extends mail timeout to 48 hours as outage hits governments, organisations worldwide",
+    "Modi in Bengaluru: PM flags off elevated stretch of Namma Metro Pink Line | LIVE",
+    "\"Taps My Phone\": Rahul Gandhi's Big Charge Against PM Modi, Then Debate Dare",
+    "Former Madras High Court Judge Justice CS Karnan Passes Away",
+    "Bookstores report strong early sales of Sonia Gandhi’s memoir",
     "Nvidia CEO Jensen Huang resigns; CFO Kress to take over as interim chief",
-    "'Foreign troops in Ukraine unacceptable': Putin's blunt message during meeting with Trump's envoys",
-    "PM Modi visit: Bengaluru traffic police issue advisory; schools announce holiday in parts of city",
-    "Owaisi, Chandrashekhar Azad announce Samajik Parivartan Morcha for 2027 U.P. Assembly polls",
-    "CCTV Shows Suspect Fleeing After Pushing Woman Off Mumbai Local Train",
-    "Will be too late by the time guns fall silent: Farooq Abdullah pushes for India-Pakistan dialogue",
-    "'Name the judges with BJP': Calcutta High Court questions Abhishek Banerjee over remarks on judiciary",
-    "Trump says US does not need Iran deal, directs Vance to focus on domestic corruption",
-    "Cummins: Khawaja's allegations 'complete and utter nonsense'",
-    "Gibran's exit as Indonesia's VP: A turning point in Prabowo and Jokowi's political relationship?",
-    "Washington DC shooting: One dead, four people injured",
-    "Inflation At 2-Year High In October, Breaches RBI's Upper Limit",
-    "Before becoming Nvidia's interim CEO, Colette Kress said it was the ‘smallest company’ she had worked for | Hindustan Times",
-    "Global shocks tested India. Its economic buffers held",
-    "Outlook email outage affects users around the world",
+    "Was Delhi pollution data during Diwali misleading?",
+    "MHA declares Zakir Naik’s Islamic Research Foundation unlawful for another five years",
+    "Navi Mumbai India's cleanest city, Indore's domination ends",
+    "Closed brake valve may have caused Kolkata-Sairang Express to overshoot signal and derail in Assam",
+    "Nvidia scandal: White House weighs 'ouster' of top Trump aide over China chip exports",
+    "US Senator Chris Van Hollen seeks to lead Democrats: Who is he?",
+    "Cummins threw Khawaja under the bus - David Warner",
+    "China stages unannounced Pacific drills in 'silent intimidation' of Taiwan, officials say",
+    "Anthropic's IPO is about 6 times oversubscribed: Report | Existing investors will get allocation priority | Inshorts",
+    "Indian shares decline as oil surge, inflation jitters weigh",
+    "Investors Buy The Crash As Nvidia Stock Hits 7-Month Low: What Experts Say",
+    "Retail inflation crosses RBI’s 6% limit, food inflation at 9%; interest hikes likely",
+    "Google unveils Gemini-powered intelligent eyewear: Features, compatibility",
     "Google Updates Confirm 4 Critical Chrome Security Bugs And 1 Zero-Day",
-    "10 Tech Gifts Under $50 That Punch Above Their Price Point",
-    "GTA VI has already broken internet download records and it’s not even out yet",
-    "How to download Minecraft 26.70.24 beta and preview",
-    "Ramayana Part 1 Box Office Collection Day 7 LIVE: Ranbir Kapoor film crosses Rs 1000 cr worldwide, inches away from surpassing Dhurandhar 2",
-    "'100x Better Than Border 2': Internet Praises Salman Khan's Maatrubhumi Trailer",
-    "Rajinikanth In Attendance As Kavya Maran-Anirudh Ravichander Wedding Pics Go Viral"
+    "Rockstar says GTA 6 PS5 Pro build ran at 60 fps with major performance compromises",
+    "GTA 6 launch livestream: Full list of streamers, dates, start timings and where to watch YouTube's 24-hou",
+    "Govinda and Komal Rani Swarnkar pose together for 'Roopa' promotions; Rakhi Sawant reacts with angry emoj",
+    "Moushumi Chatterjee's Husband, Producer Jayanta Mukherjee Dies After Prolonged Illness",
+    "Ranveer, Deepika's intimate Diwali celebration with family after welcoming baby Devi"
   ],
   "quiz": [
     {
-      "blanked": "PM ______ visit: Bengaluru traffic police issue advisory; schools announce holiday in parts of city",
-      "answer": "Modi",
+      "blanked": "\"Taps My Phone\": Rahul ______ Big Charge Against PM Modi, Then Debate Dare",
+      "answer": "Gandhis",
       "options": [
-        "Kress",
-        "Modi",
-        "Upper",
-        "Ukraine"
+        "Gandhis",
+        "Henry",
+        "Confirm",
+        "Prolonged"
       ]
     },
     {
-      "blanked": "Global Tuberculosis Burden Declining, But Five ______ Behind Schedule",
-      "answer": "Years",
+      "blanked": "GTA 6 launch livestream: Full list of streamers, dates, start timings and where to watch ______ 24-hou",
+      "answer": "YouTubes",
       "options": [
-        "Years",
-        "Critical",
-        "George",
-        "China"
+        "Report",
+        "Henry",
+        "YouTubes",
+        "Prolonged"
       ]
     },
     {
-      "blanked": "10 Tech Gifts Under $50 That Punch ______ Their Price Point",
-      "answer": "Above",
+      "blanked": "Gunjan creates history, becomes first female ______ boxer to win Youth Olympics gold | Gunjan hails from Haryana | Inshorts",
+      "answer": "Indian",
       "options": [
-        "Maran-Anirudh",
-        "Praises",
-        "Above",
-        "October"
+        "Gandhis",
+        "Indian",
+        "Who",
+        "Against"
       ]
     },
     {
-      "blanked": "New Zealand v India Fourth ODI ______ Keep faith with Kiwis in the chase",
-      "answer": "Tips",
+      "blanked": "Ranveer, Deepika's intimate Diwali celebration with family after welcoming baby ______",
+      "answer": "Devi",
       "options": [
-        "Indonesias",
-        "Tips",
-        "CFO",
-        "Declining"
+        "Devi",
+        "England",
+        "Assam",
+        "Treatment"
       ]
     },
     {
-      "blanked": "Cummins: ______ allegations 'complete and utter nonsense'",
-      "answer": "Khawajas",
+      "blanked": "Google unveils Gemini-powered intelligent eyewear: ______ compatibility",
+      "answer": "Features",
       "options": [
-        "Khawajas",
-        "Jokowis",
-        "Years",
-        "Guardiolas"
+        "Part",
+        "Australia",
+        "Features",
+        "Kress"
       ]
     },
     {
-      "blanked": "Inflation At 2-Year ______ In October, Breaches RBI's Upper Limit",
-      "answer": "High",
+      "blanked": "Retail inflation crosses ______ 6% limit, food inflation at 9%; interest hikes likely",
+      "answer": "RBIs",
       "options": [
-        "IOA",
-        "High",
-        "Tips",
-        "Part"
+        "RBIs",
+        "Pacific",
+        "What",
+        "GTA"
       ]
     },
     {
-      "blanked": "Nvidia CEO Jensen Huang resigns; CFO ______ to take over as interim chief",
-      "answer": "Kress",
+      "blanked": "Moushumi Chatterjee's Husband, ______ Jayanta Mukherjee Dies After Prolonged Illness",
+      "answer": "Producer",
       "options": [
-        "Trailer",
-        "October",
-        "Kress",
-        "Vance"
+        "Double",
+        "Mindfulness",
+        "Reaches",
+        "Producer"
       ]
     },
     {
-      "blanked": "PT Usha seeks PM Modi meeting after IOA election shock, Anju ______ George hits back",
-      "answer": "Bobby",
+      "blanked": "Microsoft Outage LIVE: ______ extends mail timeout to 48 hours as outage hits governments, organisations worldwide",
+      "answer": "Microsoft",
       "options": [
-        "One",
-        "Bobby",
-        "Work",
-        "Trumps"
+        "Islamic",
+        "Gandhis",
+        "Existing",
+        "Microsoft"
       ]
     },
     {
       "blanked": "Was Delhi pollution data during ______ misleading?",
       "answer": "Diwali",
       "options": [
-        "Guardiolas",
+        "Karnan",
         "Diwali",
-        "Banerjee",
-        "Point"
+        "Kress",
+        "Democrats"
       ]
     },
     {
-      "blanked": "Google ______ Confirm 4 Critical Chrome Security Bugs And 1 Zero-Day",
-      "answer": "Updates",
+      "blanked": "Closed brake valve may have caused Kolkata-Sairang Express to overshoot signal and derail in ______",
+      "answer": "Assam",
       "options": [
-        "Updates",
-        "Session",
-        "Local",
-        "LIVE"
+        "Experts",
+        "Pro",
+        "Assam",
+        "Express"
       ]
     },
     {
-      "blanked": "Trump says US does not need Iran deal, directs ______ to focus on domestic corruption",
-      "answer": "Vance",
+      "blanked": "Bookstores report strong early sales of Sonia ______ memoir",
+      "answer": "Gandhis",
       "options": [
-        "Ravichander",
-        "Prabowo",
-        "Youth",
-        "Vance"
+        "Gandhis",
+        "Cancer",
+        "Assam",
+        "Senator"
       ]
     },
     {
-      "blanked": "India win historic gold medal at ______ Olympics | India have sent 17 athletes to Youth Olympics | Inshorts",
-      "answer": "Youth",
+      "blanked": "Can Mindfulness for Insomnia ______ Women With Cancer?",
+      "answer": "Help",
       "options": [
-        "Youth",
-        "Price",
-        "Burden",
-        "Mindfulness"
+        "Rakhi",
+        "Help",
+        "Indian",
+        "Justice"
       ]
     }
   ]
