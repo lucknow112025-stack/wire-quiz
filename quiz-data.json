@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-11-13T17:42:18.742Z",
+  "generatedAt": "2026-11-13T22:53:10.648Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "In major breakthrough, U.S. assures India of comparative tariff advantage over its competitors",
-    "Air India, Air India Express suspend flights to Riyadh, Dammam till Nov 30; Jeddah till Nov 21 amid threa",
-    "\"Taps My Phone\": Rahul Gandhi's Big Charge Against PM Modi, Then Debate Dare",
-    "At least 26 die in bus-truck collision in Assam’s Kaziranga; 20 others injured",
-    "Pink line: Jayadeva Hospital stop to become Bengaluru’s 3rd metro interchange",
-    "Microsoft Outage LIVE: Microsoft extends mail timeout to 48 hours as outage hits governments, organisations worldwide",
-    "Was Delhi pollution data during Diwali misleading?",
-    "Punjab MP Amritpal Singh Gets 1-Day Bail For Grandmother's Last Rites",
-    "4 injured, 18 vehicles damaged in massive pile-up on Samruddhi Expressway in Buldhana",
-    "Modi in Karnataka: COSMOS Mysuru Planetarium a new chapter in India’s scientific journey, says PM | HIGHLIGHTS",
-    "UN watchdog calls on Iran to reopen nuclear facilities to inspection",
-    "'I'm not gonna be cowered': US Treasury chief on moving to military base over Iran threats",
-    "Turkiye and Qatar sign mutual defence agreement",
     "U.S. lawmakers summon Nvidia former CEO after affair with suspected spy",
-    "Former Nvidia CEO Huang had a relationship with a second employee, sources say",
-    "India's October trade deficit hits one-year high of $39.88 billion as gold imports jump",
+    "New Orleans river cruise boat partially sinks after tanker collision, 130 aboard",
+    "Truck and bus collision in India's Assam kills at least 23 people",
+    "Can Netanyahu launch a strike on Iran before he leaves?",
+    "PM Modi Inaugurates Bengaluru Metro's Pink Line, Takes Ride With DK Shivakumar",
+    "Microsoft Outage LIVE: No ETA yet on full recovery, company says",
+    "Delhi overtakes Lahore as world's most polluted city as air quality drops",
+    "Raj Thackeray Accuses BJP Of 'Exploiting Chhath', Draws Shiv Sena Retort",
+    "Zakir Naik’s Islamic Research Foundation banned a third time in India, ‘terror-preacher’ still on the run",
+    "Amidst simmering tensions, India-Bangladesh consular dialogue postponed",
+    "'Extraordinary circumstances': US grounds all departing flights over safety concerns",
+    "Turkiye and Qatar sign mutual defence agreement",
+    "Pakistan 80 years old, can't appropriate Indus Valley civilisation: Culture minister",
+    "Miss Universe 2026: 15 Countries Exit Amid Visa Issues And Franchise Disputes Ahead Of Finale In Puerto Rico",
+    "Jensen Huang’s fate was effectively sealed the day Democrats scored a thumping win in US midterms",
     "Stock Market Close: Sensex snaps 3-day winning run, ends 319 pts lower; Nifty at 25,144; VIX down 7%",
-    "Eicher Motors Q2 results: Net profit rises 15% to Rs 1,573 crore, misses estimates",
-    "Samsung unveils 30-model AI eyewear range with Google",
-    "Google Updates Confirm 4 Critical Chrome Security Bugs And 1 Zero-Day",
-    "Google launches Gemini 4 Hydrogen, targets faster AI workflows",
+    "Yes Bank files review petition in Supreme Court on AT-1 bonds case",
+    "SpaceX Starship test to attempt first-ever spaceship 'catch'",
+    "Anthropic's Claude Hit by Widespread Login Failures Across Chat, Code and Console",
+    "Google opens AI glasses preorders with a privacy pitch to rival Meta",
+    "Google launches Gemini 4 Hydrogen AI model: Know features, price, and more",
     "GTA VI coming to XBOX One, Series X & S through cloud gaming on Nov 19 - Team-BHP",
-    "Ramayana Vs Dhurandhar The Revenge Box Office Comparison: Ranbir Kapoor and Yash starrer remains behind Ranveer Singh's film in first week",
-    "Moushumi Chatterjee's Husband, Producer Jayanta Mukherjee Dies After Prolonged Illness",
-    "Scene Box Office Collection Day 8"
+    "Ramayana Part One Box Office: Ranbir Kapoor and Yash starrer becomes eleventh Indian film and fastest ever to cross Rs. 1000 Cr worldwide",
+    "Bigg Boss 20: Scout OP's mother raises concern over his mental health after he shaves his head in latest",
+    "Bouma Review | This Gothic Thriller Is a Mix of Generic Beats and Enticing Twists"
   ],
   "quiz": [
     {
-      "blanked": "Was Delhi pollution data during ______ misleading?",
-      "answer": "Diwali",
+      "blanked": "World ______ Day: Why early prevention and regular screening are key to reducing the risk of diabetes",
+      "answer": "Diabetes",
       "options": [
-        "Chatterjees",
-        "Revenge",
-        "Diwali",
-        "Grandmothers"
+        "Assam",
+        "Diabetes",
+        "WHO",
+        "Franchise"
       ]
     },
     {
-      "blanked": "Usman ______ claims fall on deaf ears in South Africa",
-      "answer": "Khawaja",
+      "blanked": "Anthropic's Claude Hit by Widespread Login Failures Across ______ Code and Console",
+      "answer": "Chat",
       "options": [
-        "LIVE",
-        "Zero-Day",
+        "Retort",
+        "Chat",
+        "Diabetes",
+        "Akella"
+      ]
+    },
+    {
+      "blanked": "Raj Thackeray ______ BJP Of 'Exploiting Chhath', Draws Shiv Sena Retort",
+      "answer": "Accuses",
+      "options": [
+        "Kohli",
+        "Pochettino",
+        "OPs",
+        "Accuses"
+      ]
+    },
+    {
+      "blanked": "Amidst simmering tensions, ______ consular dialogue postponed",
+      "answer": "India-Bangladesh",
+      "options": [
+        "Countries",
+        "Utd",
+        "India-Bangladesh",
+        "Issues"
+      ]
+    },
+    {
+      "blanked": "Jensen Huang’s fate was effectively sealed the day ______ scored a thumping win in US midterms",
+      "answer": "Democrats",
+      "options": [
+        "India",
+        "Bhanushali",
+        "Democrats",
+        "Issues"
+      ]
+    },
+    {
+      "blanked": "Gambhir 'concerned' by India's frequent ______ batting collapses",
+      "answer": "ODI",
+      "options": [
+        "Countries",
+        "Widespread",
+        "2026",
+        "ODI"
+      ]
+    },
+    {
+      "blanked": "Truck and bus collision in India's ______ kills at least 23 people",
+      "answer": "Assam",
+      "options": [
+        "Akella",
+        "Lunar",
+        "Assam",
+        "130"
+      ]
+    },
+    {
+      "blanked": "GTA VI coming to XBOX One, Series X & S through cloud gaming on Nov 19 - ______",
+      "answer": "Team-BHP",
+      "options": [
+        "Report",
+        "Culture",
+        "Team-BHP",
+        "Naiks"
+      ]
+    },
+    {
+      "blanked": "NASA Wants The World To Send A Message To ______ 1 As It Reaches 1 Light-Day From Earth",
+      "answer": "Voyager",
+      "options": [
+        "Sensex",
         "Khawaja",
-        "Kapoor"
+        "Metros",
+        "Voyager"
       ]
     },
     {
-      "blanked": "Ramayana Vs Dhurandhar The Revenge Box Office ______ Ranbir Kapoor and Yash starrer remains behind Ranveer Singh's film in first week",
-      "answer": "Comparison",
+      "blanked": "'Vaaste' singer Dhvani Bhanushali gets ______ to Yash Bhanushali and shares glimpses of her ring and the",
+      "answer": "ENGAGED",
       "options": [
-        "Comparison",
-        "Riyadh",
-        "XBOX",
-        "Sri"
+        "Gothic",
+        "Line",
+        "Iran",
+        "ENGAGED"
       ]
     },
     {
-      "blanked": "Air India, Air India Express suspend flights to ______ Dammam till Nov 30; Jeddah till Nov 21 amid threa",
-      "answer": "Riyadh",
+      "blanked": "Most ducks in ODIs: Virat Kohli equals Sachin Tendulkar's unwanted ______ record",
+      "answer": "India",
       "options": [
-        "Kapoor",
-        "Sachin",
-        "ODIs",
-        "Riyadh"
+        "India",
+        "Mortality",
+        "Pochettino",
+        "Sensex"
       ]
     },
     {
-      "blanked": "Modi in ______ COSMOS Mysuru Planetarium a new chapter in India’s scientific journey, says PM | HIGHLIGHTS",
-      "answer": "Karnataka",
+      "blanked": "Bigg ______ 20: Scout OP's mother raises concern over his mental health after he shaves his head in latest",
+      "answer": "Boss",
       "options": [
-        "Aerospace",
-        "Jayanta",
-        "Karnataka",
-        "Phone"
-      ]
-    },
-    {
-      "blanked": "Moushumi Chatterjee's Husband, ______ Jayanta Mukherjee Dies After Prolonged Illness",
-      "answer": "Producer",
-      "options": [
-        "Algorithms",
-        "Box",
-        "Producer",
-        "Kapoor"
-      ]
-    },
-    {
-      "blanked": "GTA VI coming to XBOX One, Series X & S through cloud gaming on ______ 19 - Team-BHP",
-      "answer": "Nov",
-      "options": [
-        "ODIs",
-        "Producer",
-        "Against",
-        "Nov"
-      ]
-    },
-    {
-      "blanked": "'I'm not gonna be cowered': US ______ chief on moving to military base over Iran threats",
-      "answer": "Treasury",
-      "options": [
-        "COSMOS",
-        "Maruthi",
-        "Whose",
-        "Treasury"
-      ]
-    },
-    {
-      "blanked": "Google ______ Confirm 4 Critical Chrome Security Bugs And 1 Zero-Day",
-      "answer": "Updates",
-      "options": [
-        "ODIs",
-        "Updates",
-        "Day",
-        "Outage"
-      ]
-    },
-    {
-      "blanked": "India's October trade deficit hits one-year high of ______ billion as gold imports jump",
-      "answer": "39.88",
-      "options": [
-        "Rao",
-        "October",
-        "Wants",
-        "39.88"
-      ]
-    },
-    {
-      "blanked": "Gambhir 'concerned' by ______ frequent ODI batting collapses",
-      "answer": "Indias",
-      "options": [
-        "Treasury",
-        "Indias",
-        "Kaziranga",
-        "Singhs"
-      ]
-    },
-    {
-      "blanked": "Ebola spreads into rural areas of DRC as violence hampers response | ______ Sabah",
-      "answer": "Daily",
-      "options": [
-        "Hydrogen",
-        "Andolan",
-        "Box",
-        "Daily"
+        "Boss",
+        "Retort",
+        "Ride",
+        "Bengaluru"
       ]
     }
   ]
