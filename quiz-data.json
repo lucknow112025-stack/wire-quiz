@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-11-14T09:43:18.744Z",
+  "generatedAt": "2026-11-14T16:07:09.413Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "At least 24 killed after bus collides with truck near Kaziranga National Park",
+    "Trump-Xi-Putin trilateral meeting at APEC: What to expect",
+    "'How were 2024 elections legitimate?' Rahul accuses EC of declaring 140 million who voted illegal",
+    "Pakistani Minister to visit India for the first time in three years, as SCO meets",
+    "In major breakthrough, U.S. assures India of comparative tariff advantage over its competitors",
+    "Ulva pulls off heist as India lift Under-19s Asia Cup after instant classic against Pakistan",
+    "Microsoft restores services after global outage hits Outlook and Teams",
+    "Four earthquakes strike Jammu and Kashmir in 12 hours",
+    "Truck and bus crash in India’s Assam state kills at least 24 people",
+    "20-Year-Old Arrested For Recce Of 26/11 Target Nariman House In Mumbai",
+    "Puri resigns from Uttar Pradesh Rajya Sabha seat after being re-elected from MP",
+    "U.S. flights resume after hours-long outage as FAA lifts nationwide ground stop",
+    "Three killed in Russia as Ukraine claims US floated NATO membership option",
+    "'Licence to kill' row: Child rights and inflation may fuel fresh protests across France",
+    "Sand, sea and surface-to-air missiles: life on the Strait of Hormuz",
+    "Charity Owns Commerce, Listing Will Change The Tata Way: Noel Tata",
     "EXCLUSIVE: Ex-Nvidia CEO misled top lawyer on affair with Chinese businesswoman, sources say",
-    "U.S. FAA ground stop updates: Flights resume as hours-long halt lifted; Trump admin. blames 'overloaded' systems",
-    "Huang's China affair may fix Howard Lutnick, the man who wanted to fix India",
-    "Microsoft Outage updates: No ETA yet on full recovery, company says",
-    "Usman century and fifties from Qadir and Yousaf set India 338 to win Under-19 Asia Cup",
-    "Delhi horror: Woman objects to being touched, beaten to death; man arrested",
-    "Assam Teen Stabs Mother, Then Falls To Death From Building",
-    "‘My phone tapped by PM Modi’: Rahul Gandhi’s Instagram video and a dare",
-    "IIT-Roorkee student dies by suicide, institute postpones exam",
-    "Indian Student Jailed For 30 Years In UK For Grooming Girls Online",
-    "Riots in France: How anti-government protests spiraled out of control",
-    "Rubio assails international court in speech to conservative legal group",
-    "Usman Khawaja claims fall on deaf ears in South Africa",
-    "Khambata 'strategised' to oust Srinivasan, say Tata Trusts VCs",
-    "\"Like The Dotcom Bubble\", Big AI Opportunity For India \"After The Froth Settles\": Sunil Mittal To NDTV",
-    "SoftBank further trims India exposure, offloads Meesho shares worth Rs 1,885 crore",
     "Tata Motors Records Best Ever Quarterly Revenue, Sales Up 40%",
+    "Yes Bank files review petition in SC over ₹8,415 crore AT-1 bonds",
+    "Apple's first-ever IoT hub HomeView, hits stores in India today",
     "Astrotalk disappears from Apple App Store, company says working to restore availability",
-    "Samsung announces Google co-developed pricing and sale details of its smart glasses",
-    "NYT Strands hints, answers for November 13, 2026",
-    "Color OS wins over more OnePlus fans than expected in our latest poll",
-    "Ramayana Part One Box Office Collections: Ranbir Kapoor and Yash starrer kicks of 2nd week with a record 2nd Friday",
-    "Om Trailer: Dhanush Goes Undercover In Red Sandalwood Smuggling Network, Mammootty Plays Shadowy Mastermind",
-    "Ko Kyung Pyo To Be Edited Out Of Multiple Variety Shows Due To Drunk Driving Accident"
+    "A 32-Year-Old Jeep ECU, $15 in Parts, and Two AI Agents",
+    "New Maruti SUV Spied Testing - Next Gen Brezza 2028?",
+    "Ko Kyung Pyo Booked For Drunk Driving Accident + Agency Apologizes",
+    "$500mn Hindu epic Ramayana targets global success on a wing and a prayer",
+    "Anirudh Ravichander-Kavya Maran Nail Casual Chic At Chennai Airport After Greece Wedding"
   ],
   "quiz": [
     {
-      "blanked": "Astrotalk disappears from Apple ______ Store, company says working to restore availability",
-      "answer": "App",
+      "blanked": "Microsoft restores services after global outage hits ______ and Teams",
+      "answer": "Outlook",
       "options": [
+        "38%",
+        "Accident",
+        "Outlook",
+        "Greece"
+      ]
+    },
+    {
+      "blanked": "Puri resigns from ______ Pradesh Rajya Sabha seat after being re-elected from MP",
+      "answer": "Uttar",
+      "options": [
+        "Uttar",
+        "Parts",
         "App",
-        "Settles",
-        "Raina",
-        "Zealand"
+        "2026"
       ]
     },
     {
-      "blanked": "India's ______ becomes youngest captain in men's T20 history",
-      "answer": "Sooryavanshi",
+      "blanked": "Three killed in ______ as Ukraine claims US floated NATO membership option",
+      "answer": "Russia",
       "options": [
-        "Drunk",
-        "338",
-        "Sooryavanshi",
-        "Explosions"
+        "Revenue",
+        "Pakistan",
+        "Fight",
+        "Russia"
       ]
     },
     {
-      "blanked": "Huang's China affair may fix Howard ______ the man who wanted to fix India",
-      "answer": "Lutnick",
+      "blanked": "Diabetes care beyond blood sugar: ______ eye health belongs in the portfolio conversation",
+      "answer": "Why",
       "options": [
-        "Kyung",
-        "1885",
-        "Qadir",
-        "Lutnick"
+        "Motors",
+        "Rajya",
+        "Why",
+        "IISc"
       ]
     },
     {
-      "blanked": "Riots in France: ______ anti-government protests spiraled out of control",
-      "answer": "How",
+      "blanked": "EXCLUSIVE: Ex-Nvidia ______ misled top lawyer on affair with Chinese businesswoman, sources say",
+      "answer": "CEO",
       "options": [
-        "Woman",
-        "Apple",
-        "How",
-        "Out"
+        "NATO",
+        "CEO",
+        "Ravichander-Kavya",
+        "Records"
       ]
     },
     {
-      "blanked": "Ramayana Part ______ Box Office Collections: Ranbir Kapoor and Yash starrer kicks of 2nd week with a record 2nd Friday",
-      "answer": "One",
-      "options": [
-        "Instagram",
-        "ODI",
-        "How",
-        "One"
-      ]
-    },
-    {
-      "blanked": "Delhi horror: ______ objects to being touched, beaten to death; man arrested",
-      "answer": "Woman",
-      "options": [
-        "China",
-        "Woman",
-        "40%",
-        "Daily"
-      ]
-    },
-    {
-      "blanked": "SoftBank further trims ______ exposure, offloads Meesho shares worth Rs 1,885 crore",
+      "blanked": "Ulva pulls off heist as ______ lift Under-19s Asia Cup after instant classic against Pakistan",
       "answer": "India",
       "options": [
-        "South",
+        "Assam",
+        "Finding",
         "India",
-        "Records",
-        "Gandhis"
+        "Factors"
       ]
     },
     {
-      "blanked": "NASA Finds Possible Black ______ Behind Mysterious Repeated Explosions Of Giant Star",
-      "answer": "Hole",
+      "blanked": "'Licence to kill' row: Child rights and inflation may fuel fresh protests across ______",
+      "answer": "France",
       "options": [
-        "1885",
-        "Box",
-        "Hole",
-        "Yadav"
+        "Pradesh",
+        "140",
+        "France",
+        "Whose"
       ]
     },
     {
-      "blanked": "Who Is Maruthi R. Akella? IISc ______ Aerospace Scientist Whose Algorithms Guided the IM-1 Lunar Lander",
-      "answer": "Honours",
+      "blanked": "Pakistani ______ to visit India for the first time in three years, as SCO meets",
+      "answer": "Minister",
       "options": [
-        "Honours",
-        "Sunil",
-        "Ever",
-        "Then"
+        "Quarterly",
+        "8415",
+        "2028",
+        "Minister"
       ]
     },
     {
-      "blanked": "Khambata 'strategised' to oust Srinivasan, say Tata Trusts ______",
-      "answer": "VCs",
+      "blanked": "'How were 2024 elections legitimate?' Rahul accuses EC of declaring ______ million who voted illegal",
+      "answer": "140",
       "options": [
-        "Years",
-        "Drunk",
-        "VCs",
-        "ETA"
+        "Kuldeep",
+        "140",
+        "Chinese",
+        "Indias"
       ]
     },
     {
-      "blanked": "At least 24 killed after bus collides with truck near ______ National Park",
-      "answer": "Kaziranga",
+      "blanked": "20-Year-Old Arrested For Recce Of 26/11 Target Nariman House In ______",
+      "answer": "Mumbai",
       "options": [
-        "Kaziranga",
+        "Mumbai",
+        "Wait",
         "Lander",
-        "Yadav",
-        "Driving"
+        "IoT"
       ]
     },
     {
-      "blanked": "NZ vs IND, 2026: Kuldeep ______ released from Test squad; Gurnoor Brar included",
-      "answer": "Yadav",
+      "blanked": "See ______ and Mars make a spectacular close approach overnight Nov. 15-16",
+      "answer": "Jupiter",
       "options": [
-        "Network",
-        "Yadav",
-        "Grooming",
-        "Red"
+        "Revenue",
+        "Child",
+        "Still",
+        "Jupiter"
+      ]
+    },
+    {
+      "blanked": "India records 38% drop in TB deaths since ______",
+      "answer": "2015",
+      "options": [
+        "2015",
+        "Finding",
+        "Russia",
+        "Best"
       ]
     }
   ]
