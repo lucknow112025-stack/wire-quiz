@@ -1,143 +1,123 @@
 {
-  "generatedAt": "2026-11-14T16:07:09.413Z",
+  "generatedAt": "2026-11-14T20:41:17.287Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
+    "India is no longer functioning as a democracy, destroyed since 2014: Rahul Gandhi",
     "Trump-Xi-Putin trilateral meeting at APEC: What to expect",
-    "'How were 2024 elections legitimate?' Rahul accuses EC of declaring 140 million who voted illegal",
-    "Pakistani Minister to visit India for the first time in three years, as SCO meets",
-    "In major breakthrough, U.S. assures India of comparative tariff advantage over its competitors",
-    "Ulva pulls off heist as India lift Under-19s Asia Cup after instant classic against Pakistan",
-    "Microsoft restores services after global outage hits Outlook and Teams",
-    "Four earthquakes strike Jammu and Kashmir in 12 hours",
-    "Truck and bus crash in India’s Assam state kills at least 24 people",
+    "Quad Summit likely to be held in Manila on November 17, sources say",
+    "Amidst Indus water tensions, Pakistan to send vocal critic to SCO Civilisational Dialogue; first Ministerial visit in three years",
+    "US authorities lift nationwide flight ground stop after 4-hour disruption",
+    "Ulva pulls off heist as India lift Under-19s Asia Cup after thriller against Pakistan",
     "20-Year-Old Arrested For Recce Of 26/11 Target Nariman House In Mumbai",
-    "Puri resigns from Uttar Pradesh Rajya Sabha seat after being re-elected from MP",
-    "U.S. flights resume after hours-long outage as FAA lifts nationwide ground stop",
-    "Three killed in Russia as Ukraine claims US floated NATO membership option",
-    "'Licence to kill' row: Child rights and inflation may fuel fresh protests across France",
-    "Sand, sea and surface-to-air missiles: life on the Strait of Hormuz",
-    "Charity Owns Commerce, Listing Will Change The Tata Way: Noel Tata",
-    "EXCLUSIVE: Ex-Nvidia CEO misled top lawyer on affair with Chinese businesswoman, sources say",
-    "Tata Motors Records Best Ever Quarterly Revenue, Sales Up 40%",
-    "Yes Bank files review petition in SC over ₹8,415 crore AT-1 bonds",
+    "Sheikh Hasina's return to Bangladesh: India wants Dhaka to fulfil two conditions, says report",
+    "Suspected Kuki Armed Militants Open Fire at Khamsom Village in Senapati",
+    "Four earthquakes strike Jammu and Kashmir in 12 hours",
+    "Microsoft Outage updates: Global outage ends after tech giant restores services across all affected systems",
+    "Trump tells advisers he may hold off on Iran attacks barring new provocations, sources say",
+    "Pakistan, 16 other countries, condemn Israeli strike on southern Gaza hospital",
+    "Putin's grandson registered with mother's surname as father's name resembles Ukraine President Zelenskyy’",
+    "Marco Rubio rewrote CIA assessment on Jensen Huang's alleged China spy link and used more forceful langua",
+    "Listing may change 'Tata way', put profits ahead of philanthropy: Noel",
+    "Italy fines Meta $880m over photo privacy",
+    "Bessent blames Lutnick’s Commerce Department for delay in curbing Nvidia chip flow to China",
     "Apple's first-ever IoT hub HomeView, hits stores in India today",
-    "Astrotalk disappears from Apple App Store, company says working to restore availability",
-    "A 32-Year-Old Jeep ECU, $15 in Parts, and Two AI Agents",
-    "New Maruti SUV Spied Testing - Next Gen Brezza 2028?",
-    "Ko Kyung Pyo Booked For Drunk Driving Accident + Agency Apologizes",
+    "It's my job to test and review smartwatches, but I wouldn't buy any of the new releases from Apple, Samsung, Garmin, Google and the rest this year — with two exceptions",
+    "Canva's Stefano Corazza says its Craft model plans designs before rendering, using data from 250 million creatives",
+    "Samsung announces Google co-developed pricing and sale details of its smart glasses",
     "$500mn Hindu epic Ramayana targets global success on a wing and a prayer",
-    "Anirudh Ravichander-Kavya Maran Nail Casual Chic At Chennai Airport After Greece Wedding"
+    "Anirudh Ravichander-Kavya Maran Nail Casual Chic At Chennai Airport After Greece Wedding",
+    "Scene Eleventh Day Advance Booking Report"
   ],
   "quiz": [
     {
-      "blanked": "Microsoft restores services after global outage hits ______ and Teams",
-      "answer": "Outlook",
+      "blanked": "Mizzou Scientists Edit Rice ______ With AI Tool to Fight Bacterial Blight",
+      "answer": "Genes",
       "options": [
-        "38%",
-        "Accident",
-        "Outlook",
-        "Greece"
+        "Iran",
+        "Highlights",
+        "Advance",
+        "Genes"
       ]
     },
     {
-      "blanked": "Puri resigns from ______ Pradesh Rajya Sabha seat after being re-elected from MP",
-      "answer": "Uttar",
+      "blanked": "Microsoft Outage updates: ______ outage ends after tech giant restores services across all affected systems",
+      "answer": "Global",
       "options": [
-        "Uttar",
-        "Parts",
-        "App",
-        "2026"
+        "Apple",
+        "House",
+        "Global",
+        "Dialogue"
       ]
     },
     {
-      "blanked": "Three killed in ______ as Ukraine claims US floated NATO membership option",
-      "answer": "Russia",
+      "blanked": "Who Is Maruthi R. Akella? IISc ______ Aerospace Scientist Whose Algorithms Guided the IM-1 Lunar Lander",
+      "answer": "Honours",
       "options": [
-        "Revenue",
-        "Pakistan",
-        "Fight",
-        "Russia"
+        "Honours",
+        "Voyager",
+        "Arrested",
+        "Nariman"
       ]
     },
     {
-      "blanked": "Diabetes care beyond blood sugar: ______ eye health belongs in the portfolio conversation",
-      "answer": "Why",
+      "blanked": "Trump tells advisers he may hold off on ______ attacks barring new provocations, sources say",
+      "answer": "Iran",
       "options": [
-        "Motors",
-        "Rajya",
-        "Why",
-        "IISc"
+        "Whose",
+        "Yadav",
+        "Target",
+        "Iran"
       ]
     },
     {
-      "blanked": "EXCLUSIVE: Ex-Nvidia ______ misled top lawyer on affair with Chinese businesswoman, sources say",
-      "answer": "CEO",
+      "blanked": "Diabetes In Children: Understanding The Types, Risk Factors And ______ Advances",
+      "answer": "Treatment",
       "options": [
-        "NATO",
-        "CEO",
-        "Ravichander-Kavya",
-        "Records"
+        "Diabetes",
+        "2026",
+        "Treatment",
+        "What"
       ]
     },
     {
-      "blanked": "Ulva pulls off heist as ______ lift Under-19s Asia Cup after instant classic against Pakistan",
+      "blanked": "Pakistan, 16 other countries, condemn Israeli strike on southern ______ hospital",
+      "answer": "Gaza",
+      "options": [
+        "Google",
+        "Voyager",
+        "Recce",
+        "Gaza"
+      ]
+    },
+    {
+      "blanked": "Quad ______ likely to be held in Manila on November 17, sources say",
+      "answer": "Summit",
+      "options": [
+        "Department",
+        "Imtiaz",
+        "Brar",
+        "Summit"
+      ]
+    },
+    {
+      "blanked": "Apple's first-ever IoT hub HomeView, hits stores in ______ today",
       "answer": "India",
       "options": [
-        "Assam",
-        "Finding",
+        "How",
         "India",
-        "Factors"
+        "Children",
+        "Npwawenakaulua"
       ]
     },
     {
-      "blanked": "'Licence to kill' row: Child rights and inflation may fuel fresh protests across ______",
-      "answer": "France",
+      "blanked": "At HTLS, Imtiaz Ali hails Dhurandhar, says many in ______ called it an impractical film, least likely to succeed | Bollywood",
+      "answer": "Bollywood",
       "options": [
-        "Pradesh",
-        "140",
-        "France",
-        "Whose"
-      ]
-    },
-    {
-      "blanked": "Pakistani ______ to visit India for the first time in three years, as SCO meets",
-      "answer": "Minister",
-      "options": [
-        "Quarterly",
-        "8415",
-        "2028",
-        "Minister"
-      ]
-    },
-    {
-      "blanked": "'How were 2024 elections legitimate?' Rahul accuses EC of declaring ______ million who voted illegal",
-      "answer": "140",
-      "options": [
-        "Kuldeep",
-        "140",
-        "Chinese",
-        "Indias"
-      ]
-    },
-    {
-      "blanked": "20-Year-Old Arrested For Recce Of 26/11 Target Nariman House In ______",
-      "answer": "Mumbai",
-      "options": [
-        "Mumbai",
-        "Wait",
-        "Lander",
-        "IoT"
-      ]
-    },
-    {
-      "blanked": "See ______ and Mars make a spectacular close approach overnight Nov. 15-16",
-      "answer": "Jupiter",
-      "options": [
-        "Revenue",
-        "Child",
-        "Still",
-        "Jupiter"
+        "Ravichander-Kavya",
+        "Lutnicks",
+        "Bollywood",
+        "ODI"
       ]
     },
     {
@@ -145,9 +125,29 @@
       "answer": "2015",
       "options": [
         "2015",
-        "Finding",
-        "Russia",
-        "Best"
+        "Brar",
+        "Khamsom",
+        "Treatment"
+      ]
+    },
+    {
+      "blanked": "Warner accuses Cricket ______ of 'cover-up' over 'Sandpapergate'",
+      "answer": "Australia",
+      "options": [
+        "Advance",
+        "Commerce",
+        "Ukraine",
+        "Australia"
+      ]
+    },
+    {
+      "blanked": "Trump-Xi-Putin trilateral meeting at APEC: ______ to expect",
+      "answer": "What",
+      "options": [
+        "Akella",
+        "Risk",
+        "Npwawenakaulua",
+        "What"
       ]
     }
   ]
