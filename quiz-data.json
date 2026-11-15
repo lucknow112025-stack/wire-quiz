@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-11-15T00:18:08.654Z",
+  "generatedAt": "2026-11-15T06:54:33.404Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "India is no longer functioning as a democracy, destroyed since 2014: Rahul Gandhi",
-    "From odd-even to cloud seeding: Why Delhi's pollution battle remains unfinished",
-    "Trump-Xi-Putin trilateral meeting at APEC: What to expect",
-    "U.S. flights resume after hours-long outage as FAA lifts nationwide ground stop",
-    "Ulva pulls off heist as India lift Under-19s Asia Cup after thriller against Pakistan",
-    "Microsoft restores services after global outage hits Outlook and Teams",
-    "20-year-old man held for conducting reconnaissance of 26/11 target Chabad House in Mumbai",
-    "Sheikh Hasina's Return To Bangladesh: India Sets 2 Conditions For Dhaka To Bring Back Ex-PM",
-    "Four earthquakes strike Jammu and Kashmir in 12 hours",
-    "Why Congress replaced Meenakshi Natarajan, appointed new Telangana in-charge",
-    "Trump tells advisers he may hold off on Iran attacks barring new provocations, sources say",
-    "Debt-Ridden Pakistan Dreams Of Becoming World's 6th-Largest Economy By 2050: What PM Shehbaz Said",
-    "Iran's navy says three tankers on fire after hitting mines in Hormuz",
-    "US Floats Donbas-For-NATO Deal, Zelensky Says Ukraine Must Decide",
-    "Jensen Huang's extramarital affairs cost NVIDIA ₹54,00,000 crore in just 5 days | 13 analysts downgraded their outlook on NVIDIA | Inshorts",
+    "Tamil Nadu unlikely to see significant impact of severe cyclonic storm brewing over Bay of Bengal",
+    "181 seats and counting? Akhilesh Yadav hints at Congress' big ask for UP polls",
+    "Uttarakhand CM in attendance, Congress MLA throws microphone, challenges him to contest",
+    "SpaceX’s Starship captured by launchpad arms in dramatic first",
+    "Sheikh Hasina's return to Bangladesh: India wants Dhaka to fulfil two conditions, says report",
+    "Trump to raise nuclear-arms cuts with Putin, Xi on Thursday, White House says",
+    "Air severe at Delhi's 17 stations, don’t pin too much hope on rain",
+    "\"Politically Motivated\": BJP As Kangana Ranaut Faces FIR In Himachal, Congress Responds",
+    "‘Alive’ to voters’ need to find their names on the electoral roll, ECI assures Supreme Court",
+    "Rahul Gandhi flags ‘vote chori’, Italian delegate raises slogan at Bharat Summit",
+    "2 Planes Collide At Miami Airport Day After Flight Chaos Across US",
+    "Indian student in UK jailed for 30 years for grooming 70 girls online",
+    "‘I May Lose My Mind’: Confusion, Chaos At Airports As Passengers Face FAA Flight Shutdown",
+    "Iran Attacks Bahrain as Conflict Escalates",
+    "Jensen Huang | AI rainmaker meets his Waterloo",
+    "Microsoft Outage updates: Global outage ends after tech giant restores services across all affected systems",
     "Listing may change 'Tata way', put profits ahead of philanthropy: Noel",
-    "Italy fines Meta $880m over photo privacy",
-    "Nvidia ex-CEO Jensen Huang's spy sex scandal puts Trump aide Howard Lutnick in firing line",
+    "Bitcoin falls below $64,000 as ETF outflows extend to seventh straight day",
     "New Maruti SUV Spied Testing - Next Gen Brezza 2028?",
     "Galaxy S27 Release Date: Samsung Bets Big On New 'Pro' Phone",
-    "Samsung announces Google co-developed smart glasses pricing and sale details",
-    "GTA 6 likely to earn ₹49,000 crore in first week, 3.6 times ISRO's annual budget | Its standard edition costs ₹5,999 | Inshorts",
-    "$500mn Hindu epic Ramayana targets global success on a wing and a prayer",
-    "At HTLS, Imtiaz Ali hails Dhurandhar, says many in Bollywood called it an impractical film, least likely to succeed | Bollywood",
-    "Scene Box Office Collection Day 9"
+    "Google's Android XR smart glasses will hide faces from Gemini and ban real-time facial recognition",
+    "NYT Strands hints, answers for November 14, 2026",
+    "Ramayana Part One Box Office Collections: Ranbir Kapoor and Yash starrer kicks of 2nd week with a record 2nd Friday",
+    "Scene box office collection day 9: Suriya's crime comedy bounces back on 2nd weekend, crosses ₹127 crore | Hindustan Times",
+    "Imtiaz Ali praises Ranveer Singh's 'Dhurandhar' for breaking rules; says, 'People thought that this is th"
   ],
   "quiz": [
+    {
+      "blanked": "A catalogue of insights from the fourth ______ observing run",
+      "answer": "LIGOVirgoKAGRA",
+      "options": [
+        "LIGOVirgoKAGRA",
+        "Mind",
+        "Planes",
+        "Types"
+      ]
+    },
+    {
+      "blanked": "Jensen Huang | AI rainmaker meets his ______",
+      "answer": "Waterloo",
+      "options": [
+        "Next",
+        "Waterloo",
+        "Flight",
+        "Hepatitis"
+      ]
+    },
+    {
+      "blanked": "Listing may change 'Tata way', put profits ahead of philanthropy: ______",
+      "answer": "Noel",
+      "options": [
+        "Factors",
+        "Noel",
+        "Pakistan",
+        "Full"
+      ]
+    },
+    {
+      "blanked": "NASA Finds Possible Black Hole Behind ______ Repeated Explosions Of Giant Star",
+      "answer": "Mysterious",
+      "options": [
+        "Mysterious",
+        "Mind",
+        "Cricket",
+        "Conflict"
+      ]
+    },
+    {
+      "blanked": "Ulva pulls off heist as India lift Under-19s Asia ______ after thriller against Pakistan",
+      "answer": "Cup",
+      "options": [
+        "Bets",
+        "May",
+        "Cup",
+        "Tata"
+      ]
+    },
+    {
+      "blanked": "NYT Strands hints, answers for ______ 14, 2026",
+      "answer": "November",
+      "options": [
+        "Android",
+        "Bengal",
+        "November",
+        "Masters"
+      ]
+    },
+    {
+      "blanked": "Lakshya Sen wins Japan ______ 2026 final — Lakshya beats Watanabi in comeback victory; Full highlights",
+      "answer": "Masters",
+      "options": [
+        "Masters",
+        "Actor",
+        "Himachal",
+        "Repeated"
+      ]
+    },
+    {
+      "blanked": "\"Politically Motivated\": ______ As Kangana Ranaut Faces FIR In Himachal, Congress Responds",
+      "answer": "BJP",
+      "options": [
+        "BJP",
+        "Next",
+        "127",
+        "Watanabi"
+      ]
+    },
     {
       "blanked": "Exhibition, poster competitions held at ______ to mark World Diabetes Day",
       "answer": "CMC",
       "options": [
-        "Big",
-        "49000",
-        "CMC",
-        "7.2"
+        "Bengal",
+        "Putin",
+        "Babu",
+        "CMC"
       ]
     },
     {
-      "blanked": "Listing may change ______ way', put profits ahead of philanthropy: Noel",
-      "answer": "Tata",
+      "blanked": "Scene box office collection day 9: ______ crime comedy bounces back on 2nd weekend, crosses ₹127 crore | Hindustan Times",
+      "answer": "Suriyas",
       "options": [
-        "Tata",
-        "Next",
-        "Congress",
-        "Factors"
+        "Risk",
+        "Suriyas",
+        "Mount",
+        "Sen"
       ]
     },
     {
-      "blanked": "Scene ______ Office Collection Day 9",
-      "answer": "Box",
+      "blanked": "‘Alive’ to voters’ need to find their names on the electoral roll, ECI assures ______ Court",
+      "answer": "Supreme",
       "options": [
-        "APEC",
-        "Box",
-        "Transfer",
-        "ISROs"
-      ]
-    },
-    {
-      "blanked": "Diabetes In Children: Understanding The Types, Risk Factors And ______ Advances",
-      "answer": "Treatment",
-      "options": [
-        "Return",
-        "Hormuz",
-        "Pro",
-        "Treatment"
-      ]
-    },
-    {
-      "blanked": "Francis ______ wins the Nobel Prize",
-      "answer": "Halzen",
-      "options": [
-        "Donbas-For-NATO",
-        "Spot",
-        "Behind",
-        "Halzen"
-      ]
-    },
-    {
-      "blanked": "$500mn ______ epic Ramayana targets global success on a wing and a prayer",
-      "answer": "Hindu",
-      "options": [
-        "Back",
-        "Hindu",
-        "Understanding",
-        "Pakistan"
-      ]
-    },
-    {
-      "blanked": "Trump-Xi-Putin trilateral meeting at ______ What to expect",
-      "answer": "APEC",
-      "options": [
-        "APEC",
-        "Samsung",
-        "Glasgow",
-        "Yadav"
-      ]
-    },
-    {
-      "blanked": "Jensen Huang's extramarital affairs cost NVIDIA ______ crore in just 5 days | 13 analysts downgraded their outlook on NVIDIA | Inshorts",
-      "answer": "5400000",
-      "options": [
-        "Natarajan",
-        "5400000",
-        "Bring",
-        "Day"
-      ]
-    },
-    {
-      "blanked": "Jalsa Gift Deed Row: Ramola Bachchan ______ 1993 Transfer To Jaya Bachchan",
-      "answer": "Challenges",
-      "options": [
-        "Spot",
-        "Challenges",
-        "Teams",
-        "Risk"
-      ]
-    },
-    {
-      "blanked": "Four earthquakes strike Jammu and ______ in 12 hours",
-      "answer": "Kashmir",
-      "options": [
-        "Kashmir",
-        "49000",
-        "Ex-PM",
-        "Conditions"
-      ]
-    },
-    {
-      "blanked": "NASA’s ______ 1 to hit new space distance record of one light-day",
-      "answer": "Voyager",
-      "options": [
-        "Glasgow",
-        "Star",
-        "Dreams",
+        "Court",
+        "Faces",
+        "Supreme",
         "Voyager"
       ]
     },
     {
-      "blanked": "[HIV Glasgow ______ European Medical Journal | Hepatitis C coinfection linked to liver risk in HIV",
-      "answer": "2026",
+      "blanked": "Iran Attacks ______ as Conflict Escalates",
+      "answer": "Bahrain",
       "options": [
-        "Conditions",
-        "2026",
-        "Brezza",
-        "Release"
+        "Summit",
+        "Match",
+        "BJP",
+        "Bahrain"
       ]
     }
   ]
