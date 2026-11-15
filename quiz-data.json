@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-11-14T20:41:17.287Z",
+  "generatedAt": "2026-11-15T00:18:08.654Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
     "India is no longer functioning as a democracy, destroyed since 2014: Rahul Gandhi",
+    "From odd-even to cloud seeding: Why Delhi's pollution battle remains unfinished",
     "Trump-Xi-Putin trilateral meeting at APEC: What to expect",
-    "Quad Summit likely to be held in Manila on November 17, sources say",
-    "Amidst Indus water tensions, Pakistan to send vocal critic to SCO Civilisational Dialogue; first Ministerial visit in three years",
-    "US authorities lift nationwide flight ground stop after 4-hour disruption",
+    "U.S. flights resume after hours-long outage as FAA lifts nationwide ground stop",
     "Ulva pulls off heist as India lift Under-19s Asia Cup after thriller against Pakistan",
-    "20-Year-Old Arrested For Recce Of 26/11 Target Nariman House In Mumbai",
-    "Sheikh Hasina's return to Bangladesh: India wants Dhaka to fulfil two conditions, says report",
-    "Suspected Kuki Armed Militants Open Fire at Khamsom Village in Senapati",
+    "Microsoft restores services after global outage hits Outlook and Teams",
+    "20-year-old man held for conducting reconnaissance of 26/11 target Chabad House in Mumbai",
+    "Sheikh Hasina's Return To Bangladesh: India Sets 2 Conditions For Dhaka To Bring Back Ex-PM",
     "Four earthquakes strike Jammu and Kashmir in 12 hours",
-    "Microsoft Outage updates: Global outage ends after tech giant restores services across all affected systems",
+    "Why Congress replaced Meenakshi Natarajan, appointed new Telangana in-charge",
     "Trump tells advisers he may hold off on Iran attacks barring new provocations, sources say",
-    "Pakistan, 16 other countries, condemn Israeli strike on southern Gaza hospital",
-    "Putin's grandson registered with mother's surname as father's name resembles Ukraine President Zelenskyy’",
-    "Marco Rubio rewrote CIA assessment on Jensen Huang's alleged China spy link and used more forceful langua",
+    "Debt-Ridden Pakistan Dreams Of Becoming World's 6th-Largest Economy By 2050: What PM Shehbaz Said",
+    "Iran's navy says three tankers on fire after hitting mines in Hormuz",
+    "US Floats Donbas-For-NATO Deal, Zelensky Says Ukraine Must Decide",
+    "Jensen Huang's extramarital affairs cost NVIDIA ₹54,00,000 crore in just 5 days | 13 analysts downgraded their outlook on NVIDIA | Inshorts",
     "Listing may change 'Tata way', put profits ahead of philanthropy: Noel",
     "Italy fines Meta $880m over photo privacy",
-    "Bessent blames Lutnick’s Commerce Department for delay in curbing Nvidia chip flow to China",
-    "Apple's first-ever IoT hub HomeView, hits stores in India today",
-    "It's my job to test and review smartwatches, but I wouldn't buy any of the new releases from Apple, Samsung, Garmin, Google and the rest this year — with two exceptions",
-    "Canva's Stefano Corazza says its Craft model plans designs before rendering, using data from 250 million creatives",
-    "Samsung announces Google co-developed pricing and sale details of its smart glasses",
+    "Nvidia ex-CEO Jensen Huang's spy sex scandal puts Trump aide Howard Lutnick in firing line",
+    "New Maruti SUV Spied Testing - Next Gen Brezza 2028?",
+    "Galaxy S27 Release Date: Samsung Bets Big On New 'Pro' Phone",
+    "Samsung announces Google co-developed smart glasses pricing and sale details",
+    "GTA 6 likely to earn ₹49,000 crore in first week, 3.6 times ISRO's annual budget | Its standard edition costs ₹5,999 | Inshorts",
     "$500mn Hindu epic Ramayana targets global success on a wing and a prayer",
-    "Anirudh Ravichander-Kavya Maran Nail Casual Chic At Chennai Airport After Greece Wedding",
-    "Scene Eleventh Day Advance Booking Report"
+    "At HTLS, Imtiaz Ali hails Dhurandhar, says many in Bollywood called it an impractical film, least likely to succeed | Bollywood",
+    "Scene Box Office Collection Day 9"
   ],
   "quiz": [
     {
-      "blanked": "Mizzou Scientists Edit Rice ______ With AI Tool to Fight Bacterial Blight",
-      "answer": "Genes",
+      "blanked": "Exhibition, poster competitions held at ______ to mark World Diabetes Day",
+      "answer": "CMC",
       "options": [
-        "Iran",
-        "Highlights",
-        "Advance",
-        "Genes"
+        "Big",
+        "49000",
+        "CMC",
+        "7.2"
       ]
     },
     {
-      "blanked": "Microsoft Outage updates: ______ outage ends after tech giant restores services across all affected systems",
-      "answer": "Global",
+      "blanked": "Listing may change ______ way', put profits ahead of philanthropy: Noel",
+      "answer": "Tata",
       "options": [
-        "Apple",
-        "House",
-        "Global",
-        "Dialogue"
+        "Tata",
+        "Next",
+        "Congress",
+        "Factors"
       ]
     },
     {
-      "blanked": "Who Is Maruthi R. Akella? IISc ______ Aerospace Scientist Whose Algorithms Guided the IM-1 Lunar Lander",
-      "answer": "Honours",
+      "blanked": "Scene ______ Office Collection Day 9",
+      "answer": "Box",
       "options": [
-        "Honours",
-        "Voyager",
-        "Arrested",
-        "Nariman"
-      ]
-    },
-    {
-      "blanked": "Trump tells advisers he may hold off on ______ attacks barring new provocations, sources say",
-      "answer": "Iran",
-      "options": [
-        "Whose",
-        "Yadav",
-        "Target",
-        "Iran"
+        "APEC",
+        "Box",
+        "Transfer",
+        "ISROs"
       ]
     },
     {
       "blanked": "Diabetes In Children: Understanding The Types, Risk Factors And ______ Advances",
       "answer": "Treatment",
       "options": [
-        "Diabetes",
-        "2026",
-        "Treatment",
-        "What"
-      ]
-    },
-    {
-      "blanked": "Pakistan, 16 other countries, condemn Israeli strike on southern ______ hospital",
-      "answer": "Gaza",
-      "options": [
-        "Google",
-        "Voyager",
-        "Recce",
-        "Gaza"
-      ]
-    },
-    {
-      "blanked": "Quad ______ likely to be held in Manila on November 17, sources say",
-      "answer": "Summit",
-      "options": [
-        "Department",
-        "Imtiaz",
-        "Brar",
-        "Summit"
-      ]
-    },
-    {
-      "blanked": "Apple's first-ever IoT hub HomeView, hits stores in ______ today",
-      "answer": "India",
-      "options": [
-        "How",
-        "India",
-        "Children",
-        "Npwawenakaulua"
-      ]
-    },
-    {
-      "blanked": "At HTLS, Imtiaz Ali hails Dhurandhar, says many in ______ called it an impractical film, least likely to succeed | Bollywood",
-      "answer": "Bollywood",
-      "options": [
-        "Ravichander-Kavya",
-        "Lutnicks",
-        "Bollywood",
-        "ODI"
-      ]
-    },
-    {
-      "blanked": "India records 38% drop in TB deaths since ______",
-      "answer": "2015",
-      "options": [
-        "2015",
-        "Brar",
-        "Khamsom",
+        "Return",
+        "Hormuz",
+        "Pro",
         "Treatment"
       ]
     },
     {
-      "blanked": "Warner accuses Cricket ______ of 'cover-up' over 'Sandpapergate'",
-      "answer": "Australia",
+      "blanked": "Francis ______ wins the Nobel Prize",
+      "answer": "Halzen",
       "options": [
-        "Advance",
-        "Commerce",
-        "Ukraine",
-        "Australia"
+        "Donbas-For-NATO",
+        "Spot",
+        "Behind",
+        "Halzen"
       ]
     },
     {
-      "blanked": "Trump-Xi-Putin trilateral meeting at APEC: ______ to expect",
-      "answer": "What",
+      "blanked": "$500mn ______ epic Ramayana targets global success on a wing and a prayer",
+      "answer": "Hindu",
       "options": [
-        "Akella",
-        "Risk",
-        "Npwawenakaulua",
-        "What"
+        "Back",
+        "Hindu",
+        "Understanding",
+        "Pakistan"
+      ]
+    },
+    {
+      "blanked": "Trump-Xi-Putin trilateral meeting at ______ What to expect",
+      "answer": "APEC",
+      "options": [
+        "APEC",
+        "Samsung",
+        "Glasgow",
+        "Yadav"
+      ]
+    },
+    {
+      "blanked": "Jensen Huang's extramarital affairs cost NVIDIA ______ crore in just 5 days | 13 analysts downgraded their outlook on NVIDIA | Inshorts",
+      "answer": "5400000",
+      "options": [
+        "Natarajan",
+        "5400000",
+        "Bring",
+        "Day"
+      ]
+    },
+    {
+      "blanked": "Jalsa Gift Deed Row: Ramola Bachchan ______ 1993 Transfer To Jaya Bachchan",
+      "answer": "Challenges",
+      "options": [
+        "Spot",
+        "Challenges",
+        "Teams",
+        "Risk"
+      ]
+    },
+    {
+      "blanked": "Four earthquakes strike Jammu and ______ in 12 hours",
+      "answer": "Kashmir",
+      "options": [
+        "Kashmir",
+        "49000",
+        "Ex-PM",
+        "Conditions"
+      ]
+    },
+    {
+      "blanked": "NASA’s ______ 1 to hit new space distance record of one light-day",
+      "answer": "Voyager",
+      "options": [
+        "Glasgow",
+        "Star",
+        "Dreams",
+        "Voyager"
+      ]
+    },
+    {
+      "blanked": "[HIV Glasgow ______ European Medical Journal | Hepatitis C coinfection linked to liver risk in HIV",
+      "answer": "2026",
+      "options": [
+        "Conditions",
+        "2026",
+        "Brezza",
+        "Release"
       ]
     }
   ]
