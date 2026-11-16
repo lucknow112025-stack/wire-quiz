@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-11-16T11:08:33.079Z",
+  "generatedAt": "2026-11-16T20:59:52.216Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "China confirms first Xi-Trump-Putin summit in Shenzhen on November 19",
-    "Lashkar Terrorist Linked To CRPF Camp Attack Killed In J&K Encounter",
-    "PM Modi arrives in Philippines to attend two key regional summits",
-    "Cyclone Akvan to cross Andhra coast between Nellore and Tuni by November 20 noon, says IMD",
-    "Who laughs when India is insulted? BJP targets Rahul Gandhi over Italian leader's 'Vote Chor' slogan",
-    "Indian shares rise on record foreign inflows, crude price drop",
-    "Bilkis Bano case: Supreme Court suspends sentence, grants bail to two convicts",
-    "\"Bach Gaye\": Amitabh Bachchan's Cryptic X Post Amid Bomb Threats",
-    "2 women storm UP dosa shop, smash utensils, attack staff. CCTV captures incident",
-    "Kallakurichi MLA row: NCW seeks inquiry by TN DGP, cites TNM report",
-    "At least 11 killed in blaze on Thailand’s Phuket island",
-    "US flight chaos continues: 2,400 flights cancelled, 8,800 delayed as recovery drags on",
-    "ASEAN, China fail to conclude South China Sea code of conduct",
-    "Democratic senators order Musk to preserve records over Ukraine Starlink access: Report",
+    "Beijing hails ‘groundbreaking significance’ of U.S., China, Russia summit in Shenzhen",
+    "Cyclone Akvan to make landfall between Nellore and Tuni in Andhra as very severe storm on November 20",
+    "Encounter breaks out in south Kashmir's Kulgam",
+    "2002 Gujarat Riots | Supreme Court Suspends Life Sentence Of Two Bilkis Bano Rape Case Convicts",
+    "Tata Sons listing critical, will dismantle culture of secrecy: Jimmy N Tata",
+    "Robert Pattinson is the new James Bond",
+    "Wanted to set the record straight, says Sonia Gandhi at official launch of memoir",
+    "PM Modi to attend Asean, East Asia summits in Manila; what's on agenda",
+    "Ajit Pawar plane crash: Maharashtra CM urges Amit Shah to fast-track probe, release early report",
+    "He arrives in Mercedes-Benz and lectures me on judicial duties: Madras High Court Justice GR Swaminathan on communist MP",
+    "US proposes tougher green card rules for companies hiring foreign workers",
+    "Jailed Pakistan ex-PM Imran Khan writes to judges, seeks vital medical care",
+    "Third US aircraft carrier arrives in Mideast as tensions with Iran simmer",
+    "Trump says he might meet with North Korea's Kim Jong Un in China",
     "Jensen Huang seeks return as Nvidia CEO four days after resignation",
-    "Wholesale inflation surges to 12.29% in October, fuel and power prices lead rise",
-    "TVS Family Feud Deepens: Lakshmi Venu Seeks Equal Share In Father's Assets",
-    "No decision on LTCG tax changes before Budget, says CBDT chairman Ravi Agrawal",
-    "Anthropic's Claude Hit by Widespread Login Failures Across Chat, Code and Console",
-    "Apple launches app to study how people use AI for health queries: Details",
-    "GTA 6: Original Grand Theft Auto creators say they have not played the game before launch",
+    "Wholesale inflation rises to 12.3% in October 2026, second straight month of double-digit inflation",
+    "Financials lead Indian shares higher as foreign inflows hit monthly peak",
+    "Lakshmi Venu issues partition notice to father Venu Srinivasan, seeks share in family assets",
+    "Google Brings Gemini 4 Hydrogen to Search in Its Biggest Model Upgrade Yet",
+    "Apple Opens 200,000-Seat Health AI Study With OpenEvidence",
     "iPhone 17 Pro Max Prices Slashed Worldwide Before Black Friday",
-    "India’s film industry hopes a $420 million mythological epic can be a global hit",
-    "Ravie Dubey thanks fans for showering love on his Lakshman role in ‘Ramayana’, admits he was scared of di",
-    "Sonu Sood Meets Sharad Kapoor After Josh Actor Appeals For Financial Help In Viral Video"
+    "Oppo Reno17 launched with 8,000 mAh battery, Snapdragon chipset, and four 50 MP cameras",
+    "Highest Grossing Bollywood Films Overseas excluding China: Ranbir Kapoor and Yash starrer Ramayana Part One tops",
+    "Teja Sajja engaged to US-based fiancée: Chiranjeevi, Rana Daggubati, Ravi Teja, Nani attend grand ceremony in Hyderabad | Hindustan Times",
+    "Prince and Princess of Wales in India ahead of meeting with Modi"
   ],
   "quiz": [
     {
-      "blanked": "Wholesale inflation surges to 12.29% in ______ fuel and power prices lead rise",
+      "blanked": "Jensen Huang seeks return as ______ CEO four days after resignation",
+      "answer": "Nvidia",
+      "options": [
+        "Huang",
+        "Nvidia",
+        "Gujarat",
+        "October"
+      ]
+    },
+    {
+      "blanked": "Cyclone Akvan to make landfall between Nellore and Tuni in Andhra as very severe storm on ______ 20",
+      "answer": "November",
+      "options": [
+        "November",
+        "Maharashtra",
+        "Shah",
+        "Prices"
+      ]
+    },
+    {
+      "blanked": "Mars and ______ seen in sky over China's Heilongjiang",
+      "answer": "Jupiter",
+      "options": [
+        "Cycling",
+        "Amor",
+        "Breeding",
+        "Jupiter"
+      ]
+    },
+    {
+      "blanked": "Google Brings ______ 4 Hydrogen to Search in Its Biggest Model Upgrade Yet",
+      "answer": "Gemini",
+      "options": [
+        "Earth",
+        "Gemini",
+        "Indian",
+        "Court"
+      ]
+    },
+    {
+      "blanked": "Why BTS Will Get No Grammy Nominations This ______",
+      "answer": "Year",
+      "options": [
+        "Year",
+        "Starship",
+        "Raichandani",
+        "Manila"
+      ]
+    },
+    {
+      "blanked": "Teja Sajja engaged to US-based fiancée: Chiranjeevi, Rana ______ Ravi Teja, Nani attend grand ceremony in Hyderabad | Hindustan Times",
+      "answer": "Daggubati",
+      "options": [
+        "Daggubati",
+        "Overseas",
+        "Russia",
+        "BTS"
+      ]
+    },
+    {
+      "blanked": "Wholesale inflation rises to 12.3% in ______ 2026, second straight month of double-digit inflation",
       "answer": "October",
       "options": [
-        "Court",
+        "Black",
+        "Films",
         "October",
-        "Care",
-        "Family"
+        "Friday"
       ]
     },
     {
-      "blanked": "India’s film industry hopes a ______ million mythological epic can be a global hit",
-      "answer": "420",
+      "blanked": "Apple Opens 200,000-Seat ______ AI Study With OpenEvidence",
+      "answer": "Health",
       "options": [
-        "Camp",
-        "420",
-        "Court",
-        "Vote"
+        "Without",
+        "Case",
+        "Health",
+        "Breeding"
       ]
     },
     {
-      "blanked": "Sonu Sood ______ Sharad Kapoor After Josh Actor Appeals For Financial Help In Viral Video",
-      "answer": "Meets",
+      "blanked": "CRISPR Tool Unlocks Faster Breeding for Pearl Millet’s ______ Relatives",
+      "answer": "Grass",
       "options": [
-        "DGP",
-        "Grand",
-        "Hit",
-        "Meets"
-      ]
-    },
-    {
-      "blanked": "Democratic senators order Musk to preserve records over Ukraine Starlink access: ______",
-      "answer": "Report",
-      "options": [
-        "Agrawal",
-        "Report",
-        "Gandhi",
-        "Supreme"
-      ]
-    },
-    {
-      "blanked": "Anthropic's Claude Hit by Widespread ______ Failures Across Chat, Code and Console",
-      "answer": "Login",
-      "options": [
-        "Login",
-        "Grand",
-        "Linked",
-        "Amitabh"
-      ]
-    },
-    {
-      "blanked": "Lashkar ______ Linked To CRPF Camp Attack Killed In J&K Encounter",
-      "answer": "Terrorist",
-      "options": [
-        "DGP",
-        "Equal",
-        "Terrorist",
-        "Unit"
-      ]
-    },
-    {
-      "blanked": "Kallakurichi MLA row: NCW seeks inquiry by TN DGP, cites ______ report",
-      "answer": "TNM",
-      "options": [
-        "Terrorist",
-        "Tuni",
-        "Bomb",
-        "TNM"
-      ]
-    },
-    {
-      "blanked": "Jay Shah re-elected as ICC ______",
-      "answer": "Chair",
-      "options": [
-        "Post",
-        "CEO",
-        "Attack",
-        "Chair"
-      ]
-    },
-    {
-      "blanked": "China confirms first ______ summit in Shenzhen on November 19",
-      "answer": "Xi-Trump-Putin",
-      "options": [
-        "Xi-Trump-Putin",
-        "Chinas",
-        "Prices",
-        "Video"
-      ]
-    },
-    {
-      "blanked": "US flight chaos continues: ______ flights cancelled, 8,800 delayed as recovery drags on",
-      "answer": "2400",
-      "options": [
-        "2400",
-        "Friday",
-        "Josh",
-        "Shenzhen"
+        "Bond",
+        "Riots",
+        "Grass",
+        "NASAs"
       ]
     },
     {
       "blanked": "iPhone 17 Pro Max Prices Slashed ______ Before Black Friday",
       "answer": "Worldwide",
       "options": [
-        "Encounter",
-        "2400",
         "Worldwide",
-        "CEO"
+        "Rising",
+        "North",
+        "Prices"
       ]
     },
     {
-      "blanked": "Rohit goes from super to subdued in New ______",
-      "answer": "Zealand",
+      "blanked": "He arrives in Mercedes-Benz and lectures me on judicial duties: Madras High ______ Justice GR Swaminathan on communist MP",
+      "answer": "Court",
       "options": [
-        "Sharad",
-        "Chair",
-        "Vote",
-        "Zealand"
+        "Health",
+        "Court",
+        "Goals",
+        "Ranbir"
+      ]
+    },
+    {
+      "blanked": "From childhood tales to reality: Raichandani lives his ______ dream",
+      "answer": "India-Pakistan",
+      "options": [
+        "India-Pakistan",
+        "Two",
+        "Heilongjiang",
+        "Starship"
       ]
     }
   ]
