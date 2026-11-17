@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-11-16T20:59:52.216Z",
+  "generatedAt": "2026-11-17T03:37:07.907Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "Beijing hails ‘groundbreaking significance’ of U.S., China, Russia summit in Shenzhen",
-    "Cyclone Akvan to make landfall between Nellore and Tuni in Andhra as very severe storm on November 20",
-    "Encounter breaks out in south Kashmir's Kulgam",
-    "2002 Gujarat Riots | Supreme Court Suspends Life Sentence Of Two Bilkis Bano Rape Case Convicts",
-    "Tata Sons listing critical, will dismantle culture of secrecy: Jimmy N Tata",
-    "Robert Pattinson is the new James Bond",
-    "Wanted to set the record straight, says Sonia Gandhi at official launch of memoir",
-    "PM Modi to attend Asean, East Asia summits in Manila; what's on agenda",
-    "Ajit Pawar plane crash: Maharashtra CM urges Amit Shah to fast-track probe, release early report",
-    "He arrives in Mercedes-Benz and lectures me on judicial duties: Madras High Court Justice GR Swaminathan on communist MP",
-    "US proposes tougher green card rules for companies hiring foreign workers",
+    "LIVE: Cyclone Akvan likely to turn ‘severe’ today; Odisha deploys 74 rescue teams, AP on alert | Hindustan Times",
+    "At Sonia Gandhi's Book Event, BJP's Amarinder Singh Lands In The Middle Of A Congress Family Story",
+    "Iran says supertanker with 2 million barrels of oil sank in Gulf",
+    "How 2 major summits this week point to balance & bargain strategy in big-power diplomacy",
+    "Chip tensions loom over Trump-Xi summit, as US and China push AI safety steps",
+    "Deleted from India's voter rolls, some Muslims face detention, deportation",
+    "PM Modi heads to ASEAN meet today, focus on trade, maritime security",
+    "6 Killed, 20 Injured After Bus Falls Into Ravine In Uttarakhand's Tehri Garhwal",
+    "Did Election Commissioners Approve ECI's Affidavit? Were Their Objections On SIR Recorded? INDIA Bloc...",
+    "'Operation Noor': Punjab cop's bullet-riddled body found, Tehreek-e-Taliban Hindustan claims responsibili",
+    "Trump says ‘would not mind’ Huang being reinstated at Nvidia",
     "Jailed Pakistan ex-PM Imran Khan writes to judges, seeks vital medical care",
-    "Third US aircraft carrier arrives in Mideast as tensions with Iran simmer",
-    "Trump says he might meet with North Korea's Kim Jong Un in China",
-    "Jensen Huang seeks return as Nvidia CEO four days after resignation",
-    "Wholesale inflation rises to 12.3% in October 2026, second straight month of double-digit inflation",
-    "Financials lead Indian shares higher as foreign inflows hit monthly peak",
-    "Lakshmi Venu issues partition notice to father Venu Srinivasan, seeks share in family assets",
-    "Google Brings Gemini 4 Hydrogen to Search in Its Biggest Model Upgrade Yet",
-    "Apple Opens 200,000-Seat Health AI Study With OpenEvidence",
+    "Trump hints at meeting Kim Jong Un in China, says Xi could play role",
+    "United Airlines Resolves Technology Issue After Widespread Outage",
+    "Stock Market Highlights, Nov 16: Sensex gains 500 pts, Nifty ends at 25,291 led by financials",
+    "RBI reiterates Tata Sons listing requirement, leaves little room for manoeuvre",
+    "New twist in TVS family feud: Lakshmi Venu seeks partition of family assets",
+    "Customers of Bank of America, Chase, JP Morgan, Wells Fargo and Zelle report issues accessing accounts on",
+    "Can AI answer your health questions? Apple opens study to 200,000 Americans",
+    "Chrome 157 for Googlebook rolling out with 27 new features, improvements",
+    "Sensor Tower: GTA 6 pre-orders exceed $1.4bn, with 87% for the Ultimate Edition",
     "iPhone 17 Pro Max Prices Slashed Worldwide Before Black Friday",
-    "Oppo Reno17 launched with 8,000 mAh battery, Snapdragon chipset, and four 50 MP cameras",
-    "Highest Grossing Bollywood Films Overseas excluding China: Ranbir Kapoor and Yash starrer Ramayana Part One tops",
-    "Teja Sajja engaged to US-based fiancée: Chiranjeevi, Rana Daggubati, Ravi Teja, Nani attend grand ceremony in Hyderabad | Hindustan Times",
-    "Prince and Princess of Wales in India ahead of meeting with Modi"
+    "Robert Pattinson is named the 7th James Bond, taking over the role from Daniel Craig",
+    "Grammy 2027 nominations announced | Bruno Mars received 6 nominations | Inshorts",
+    "Ramayana Part 1 Box Office Collection Day 12 LIVE Updates: Ranbir Kapoor-starrer earns over Rs 1,437 crore"
   ],
   "quiz": [
     {
-      "blanked": "Jensen Huang seeks return as ______ CEO four days after resignation",
-      "answer": "Nvidia",
+      "blanked": "RBI reiterates Tata ______ listing requirement, leaves little room for manoeuvre",
+      "answer": "Sons",
       "options": [
-        "Huang",
-        "Nvidia",
-        "Gujarat",
-        "October"
+        "Sons",
+        "Issue",
+        "Americans",
+        "Bus"
       ]
     },
     {
-      "blanked": "Cyclone Akvan to make landfall between Nellore and Tuni in Andhra as very severe storm on ______ 20",
-      "answer": "November",
+      "blanked": "Chip tensions loom over ______ summit, as US and China push AI safety steps",
+      "answer": "Trump-Xi",
       "options": [
-        "November",
-        "Maharashtra",
-        "Shah",
-        "Prices"
+        "Trump-Xi",
+        "Amarinder",
+        "500",
+        "Sonia"
+      ]
+    },
+    {
+      "blanked": "iPhone 17 Pro Max Prices Slashed Worldwide Before Black ______",
+      "answer": "Friday",
+      "options": [
+        "Pakistan",
+        "Friday",
+        "Donkey",
+        "Book"
+      ]
+    },
+    {
+      "blanked": "Chrome ______ for Googlebook rolling out with 27 new features, improvements",
+      "answer": "157",
+      "options": [
+        "157",
+        "Killed",
+        "1437",
+        "Differ"
+      ]
+    },
+    {
+      "blanked": "Trump hints at meeting ______ Jong Un in China, says Xi could play role",
+      "answer": "Kim",
+      "options": [
+        "Tower",
+        "Garhwal",
+        "Friday",
+        "Kim"
+      ]
+    },
+    {
+      "blanked": "Exclusive interview | ______ work' awaits Bumrah & Co: Shane Bond, Kyle Mills on Wellington's wind chall",
+      "answer": "Donkey",
+      "options": [
+        "Unnamed",
+        "Donkey",
+        "Recorded",
+        "SIR"
+      ]
+    },
+    {
+      "blanked": "Trump says ‘would not mind’ ______ being reinstated at Nvidia",
+      "answer": "Huang",
+      "options": [
+        "Singh",
+        "Pant",
+        "Huang",
+        "Starship"
+      ]
+    },
+    {
+      "blanked": "Stock Market ______ Nov 16: Sensex gains 500 pts, Nifty ends at 25,291 led by financials",
+      "answer": "Highlights",
+      "options": [
+        "Highlights",
+        "Outage",
+        "Punjab",
+        "Falls"
+      ]
+    },
+    {
+      "blanked": "Jailed ______ ex-PM Imran Khan writes to judges, seeks vital medical care",
+      "answer": "Pakistan",
+      "options": [
+        "Pakistan",
+        "Tower",
+        "Indias",
+        "Modi"
+      ]
+    },
+    {
+      "blanked": "6 Killed, 20 Injured After ______ Falls Into Ravine In Uttarakhand's Tehri Garhwal",
+      "answer": "Bus",
+      "options": [
+        "Bus",
+        "Zelle",
+        "Hindustan",
+        "Follicular"
       ]
     },
     {
       "blanked": "Mars and ______ seen in sky over China's Heilongjiang",
       "answer": "Jupiter",
       "options": [
-        "Cycling",
-        "Amor",
-        "Breeding",
-        "Jupiter"
+        "Jupiter",
+        "Wells",
+        "SIR",
+        "Chinas"
       ]
     },
     {
-      "blanked": "Google Brings ______ 4 Hydrogen to Search in Its Biggest Model Upgrade Yet",
-      "answer": "Gemini",
+      "blanked": "Prince and Princess of ______ play street cricket in Mumbai",
+      "answer": "Wales",
       "options": [
-        "Earth",
-        "Gemini",
-        "Indian",
-        "Court"
-      ]
-    },
-    {
-      "blanked": "Why BTS Will Get No Grammy Nominations This ______",
-      "answer": "Year",
-      "options": [
-        "Year",
-        "Starship",
-        "Raichandani",
-        "Manila"
-      ]
-    },
-    {
-      "blanked": "Teja Sajja engaged to US-based fiancée: Chiranjeevi, Rana ______ Ravi Teja, Nani attend grand ceremony in Hyderabad | Hindustan Times",
-      "answer": "Daggubati",
-      "options": [
-        "Daggubati",
-        "Overseas",
-        "Russia",
-        "BTS"
-      ]
-    },
-    {
-      "blanked": "Wholesale inflation rises to 12.3% in ______ 2026, second straight month of double-digit inflation",
-      "answer": "October",
-      "options": [
-        "Black",
-        "Films",
-        "October",
-        "Friday"
-      ]
-    },
-    {
-      "blanked": "Apple Opens 200,000-Seat ______ AI Study With OpenEvidence",
-      "answer": "Health",
-      "options": [
-        "Without",
-        "Case",
-        "Health",
-        "Breeding"
-      ]
-    },
-    {
-      "blanked": "CRISPR Tool Unlocks Faster Breeding for Pearl Millet’s ______ Relatives",
-      "answer": "Grass",
-      "options": [
-        "Bond",
-        "Riots",
-        "Grass",
-        "NASAs"
-      ]
-    },
-    {
-      "blanked": "iPhone 17 Pro Max Prices Slashed ______ Before Black Friday",
-      "answer": "Worldwide",
-      "options": [
-        "Worldwide",
-        "Rising",
-        "North",
-        "Prices"
-      ]
-    },
-    {
-      "blanked": "He arrives in Mercedes-Benz and lectures me on judicial duties: Madras High ______ Justice GR Swaminathan on communist MP",
-      "answer": "Court",
-      "options": [
-        "Health",
-        "Court",
-        "Goals",
-        "Ranbir"
-      ]
-    },
-    {
-      "blanked": "From childhood tales to reality: Raichandani lives his ______ dream",
-      "answer": "India-Pakistan",
-      "options": [
-        "India-Pakistan",
-        "Two",
-        "Heilongjiang",
-        "Starship"
+        "Killed",
+        "Wales",
+        "Ultimate",
+        "SIR"
       ]
     }
   ]
