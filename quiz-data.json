@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-11-18T10:57:44.497Z",
+  "generatedAt": "2026-11-18T19:15:02.525Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "Russia, China should ‘lead’ push to multipolar world, Xi tells APEC summit",
-    "LeT’s Lateef Bhat killed in Kulgam encounter",
-    "Modi Tries to End Photo-Op With Trump in Awkward Quad Briefing",
-    "Delhi court seeks report from Police on complaint alleging Sonia Gandhi's name was included in voters roll before she became Indian citizen",
-    "Pakistani man sentenced to 27 years for Iran-backed plot to kill Trump",
-    "Amarinder Singh At Sonia Gandhi's Book Launch, BJP Says \"It's Personal\"",
+    "Xi hails Russia ties as ‘source of stability’ ahead of trilateral summit",
+    "LeT’s ‘last local recruit’ Lateef Bhat killed outside a Kulgam mosque",
+    "Three killed, four injured in NTPC conveyor belt collapse in Jharkhand",
+    "Eknath Shinde's Defence As Sena Leader Lands In Bal Thackeray Photo Row",
     "Cyclone 'Akvan' LIVE updates: Akvan likely to cross between Machilipatnam and Puri, says APSDMA",
-    "India news: Modi proposes e-visas for ASEAN tourists",
-    "India sitting on 'economic disaster': Rahul Gandhi at Columbia University",
+    "Modi Tries to End Photo-Op With Trump in Awkward Quad Briefing",
+    "Britain's Prince William and Kate meet India's Modi at end of royal visit",
+    "Voice Choking At Cabinet Meeting, PM Modi Calls For Ending Drug Menace",
     "Supreme Court Issues Contempt Notice To Advocate Who Insulted CJI Surya Kant",
-    "Nvidia board says Jensen Huang will not return as CEO",
-    "CA sets up 'independent forum' into Sandpapergate but will not re-litigate the incident",
-    "Australia sanctions Israeli settlers, organisations over West Bank expansion",
-    "US government proposes new rules for Green Cards; tells companies: American Workers are the best in the w",
-    "Indian shares decline from nine-month high levels on profit-taking",
-    "Gold, silver prices today 18 Nov Wednesday: Check 24K, 22K yellow metal and 999 silver rates in Delhi, Mumbai, Kolkata",
-    "SpiceJet shares hit upper circuit as board to consider fundraise",
-    "Market Pulse: Key triggers to watch before the November 17 trading session",
-    "GTA 6 Now Available On Blinkit: Check Cities Where You Can Get The Game Delivered In Minutes",
-    "Video games: high hopes for GTA VI, but investing in a single publisher remains risky (VanEck)",
-    "Chrome 158 Stable Released: XSLT Support Removed, 204 Vulnerabilities Fixed, Direct Web App Install API Added",
-    "Family Signs 'Do Not Disturb' Contract For GTA 6 Launch: 'He Won't Cook Meals'",
+    "‘Shining’ Mumbai for royals, garbage for Mumbaikars: Bombay HC raps civic body",
+    "Hakeem Jeffries formally nominated as first Black US House speaker",
+    "US used expired missiles in Op Epic Fury against Iran; navy officer gives odd 'stale bread' comparison",
+    "90-day job ads, stricter hiring checks: Trump proposes tougher green card rules for foreign workers. Will...",
+    "EU proposes €45 billion Ukraine loan, to be repaid after Russia pays reparations",
+    "Gold (XAUUSD) & Silver Price Forecast: Gold Breaks to a 14-Month Low Ahead of Fed Minutes, Can $3,781 Hold?",
+    "EXCLUSIVE: India to charge bulk Scotch imports 162.5% duty and tax amid UK pact standoff",
+    "Stock Market Close: Sensex sheds 500 pts, Nifty at 25,228; consumer durables top sectoral loser",
+    "Nvidia Reports $115 Billion In First Earnings Without Jensen Huang",
+    "GTA 6 reviews say highly-anticipated game is a masterpiece",
+    "Meet the 2026 App Store Award finalists",
+    "GTA 6 on Blinkit: How to order, delivery cities on November 19 release date",
+    "I visited London’s viral GTA 6 merch pop-up, where shoppers waited for hours and scrambled to buy whatever was left",
+    "Ramayana Creates Bollywood History as First Film to Cross ₹50 Crore Gross in All Four South Indian Markets",
     "Amazon's Bezos says he helped pick Pattinson as Bond",
-    "After Delay Tease, Prime Video Announces Panchayat 5 Release Date",
-    "'Ramayana' box office collection day 14 (LIVE): The Ranbir Kapoor, Yash, Sai Pallavi film crosses Rs 820"
+    "Yeh Prem Mol Liya Trailer: Ayushmann Khurrana, Sharvari Bring A Rocky Aur Rani Twist To Sooraj Barjatya's World"
   ],
   "quiz": [
     {
-      "blanked": "NASA ______ 1 Probe Believed to Have Reached ‘Light-Day’ Milestone - ASHARQ AL-AWSAT English",
-      "answer": "Voyager",
+      "blanked": "Stock Market ______ Sensex sheds 500 pts, Nifty at 25,228; consumer durables top sectoral loser",
+      "answer": "Close",
       "options": [
-        "Voyager",
-        "VanEck",
-        "Hathaway",
-        "Nov"
+        "India",
+        "Breaks",
+        "Close",
+        "Puri"
       ]
     },
     {
-      "blanked": "Prof ______ Samant conferred with Anil Chandra Award",
-      "answer": "Bandana",
+      "blanked": "Cyclone 'Akvan' LIVE updates: ______ likely to cross between Machilipatnam and Puri, says APSDMA",
+      "answer": "Akvan",
       "options": [
-        "Machilipatnam",
-        "Disturb",
-        "American",
-        "Bandana"
+        "Akvan",
+        "Final",
+        "Release",
+        "First"
       ]
     },
     {
-      "blanked": "Anne Hathaway welcomes third child with husband Adam ______ makes first appearance with baby - PICS INS",
-      "answer": "Shulman",
+      "blanked": "‘Shining’ Mumbai for royals, garbage for ______ Bombay HC raps civic body",
+      "answer": "Mumbaikars",
       "options": [
-        "Date",
-        "Shulman",
-        "Consultant",
-        "Gandhis"
-      ]
-    },
-    {
-      "blanked": "CA sets up 'independent forum' into ______ but will not re-litigate the incident",
-      "answer": "Sandpapergate",
-      "options": [
-        "Chandra",
-        "Sandpapergate",
-        "Kulgam",
-        "Shulman"
-      ]
-    },
-    {
-      "blanked": "US government proposes new rules for ______ Cards; tells companies: American Workers are the best in the w",
-      "answer": "Green",
-      "options": [
-        "Mumbai",
-        "Warning",
-        "Green",
-        "Explained"
-      ]
-    },
-    {
-      "blanked": "Cyclone 'Akvan' LIVE updates: Akvan likely to cross between ______ and Puri, says APSDMA",
-      "answer": "Machilipatnam",
-      "options": [
-        "Machilipatnam",
-        "Signs",
-        "Director",
-        "Chess"
-      ]
-    },
-    {
-      "blanked": "SpaceX's ______ feat should remind investors company is at its 'core' a rocket builder",
-      "answer": "Starship",
-      "options": [
-        "Samant",
-        "Mumbai",
-        "Fixed",
-        "Starship"
-      ]
-    },
-    {
-      "blanked": "Family Signs 'Do Not Disturb' Contract For GTA 6 Launch: 'He Won't Cook ______",
-      "answer": "Meals",
-      "options": [
-        "ASEAN",
-        "Columbia",
-        "AL-AWSAT",
-        "Meals"
-      ]
-    },
-    {
-      "blanked": "DESI weighs the ______ Way more precisely than ever",
-      "answer": "Milky",
-      "options": [
-        "West",
-        "APSDMA",
         "Milky",
-        "Available"
+        "CJI",
+        "Mumbaikars",
+        "Prem"
       ]
     },
     {
-      "blanked": "Supreme Court Issues ______ Notice To Advocate Who Insulted CJI Surya Kant",
-      "answer": "Contempt",
+      "blanked": "Voyager 1 becomes first human-made object to reach one light-day from ______",
+      "answer": "Earth",
       "options": [
-        "Support",
-        "Introduces",
-        "Prime",
-        "Contempt"
+        "Earth",
+        "History",
+        "Lateef",
+        "Issues"
       ]
     },
     {
-      "blanked": "Amazon's Bezos says he helped pick ______ as Bond",
-      "answer": "Pattinson",
+      "blanked": "Britain's ______ William and Kate meet India's Modi at end of royal visit",
+      "answer": "Prince",
       "options": [
-        "Meals",
+        "Prince",
+        "Jharkhand",
+        "Iran",
+        "What"
+      ]
+    },
+    {
+      "blanked": "Avengers: Doomsday Final Trailer Expected Today, Nov. 18: Release Time and What to ______",
+      "answer": "Expect",
+      "options": [
+        "Bancrofts",
+        "November",
+        "Calls",
+        "Expect"
+      ]
+    },
+    {
+      "blanked": "EXCLUSIVE: India to charge bulk Scotch imports ______ duty and tax amid UK pact standoff",
+      "answer": "162.5%",
+      "options": [
+        "Creates",
+        "Bhat",
+        "162.5%",
+        "Menace"
+      ]
+    },
+    {
+      "blanked": "EU proposes €45 billion ______ loan, to be repaid after Russia pays reparations",
+      "answer": "Ukraine",
+      "options": [
+        "Ukraine",
+        "Defence",
+        "Barjatyas",
+        "App"
+      ]
+    },
+    {
+      "blanked": "Supreme Court Issues Contempt ______ To Advocate Who Insulted CJI Surya Kant",
+      "answer": "Notice",
+      "options": [
+        "3781",
+        "Four",
         "Notice",
-        "Pattinson",
-        "Removed"
+        "Bombay"
       ]
     },
     {
-      "blanked": "Amarinder Singh At Sonia ______ Book Launch, BJP Says \"It's Personal\"",
-      "answer": "Gandhis",
+      "blanked": "90-day job ads, stricter hiring checks: ______ proposes tougher green card rules for foreign workers. Will...",
+      "answer": "Trump",
       "options": [
-        "First",
-        "Medicine",
-        "Panchayat",
-        "Gandhis"
+        "Low",
+        "Liya",
+        "Trump",
+        "Rocky"
+      ]
+    },
+    {
+      "blanked": "Amazon's Bezos says he helped pick Pattinson as ______",
+      "answer": "Bond",
+      "options": [
+        "Puri",
+        "Bond",
+        "Doomsday",
+        "Day"
+      ]
+    },
+    {
+      "blanked": "US used expired missiles in Op ______ Fury against Iran; navy officer gives odd 'stale bread' comparison",
+      "answer": "Epic",
+      "options": [
+        "Epic",
+        "Defence",
+        "Doomsday",
+        "Rani"
       ]
     }
   ]
