@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-11-17T21:12:05.765Z",
+  "generatedAt": "2026-11-18T02:53:36.627Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "Trump Makes AI Push With Quad Leaders as China Rivalry Grows",
-    "Rahul Gandhi's \"She's A Friend Now\" Reply On Question About Girlfriend",
-    "Trump says ‘would not mind’ Huang being reinstated at Nvidia",
-    "Priyanka Gandhi To Lead Seat Talks With Akhilesh Yadav's Party For UP Polls: Sources",
-    "Yalta 2.0? Trump, Xi and Putin lead Asia’s week of high-stakes diplomacy",
     "Bread maker killed in J&K encounter; had left home week ago to ‘join LeT ranks, attack CRPF personnel’",
-    "'Today, world needs peace & stability more than ever': Top quotes from PM Modi's address at Asean summit",
-    "India condemns attack on LPG tanker carrying 24 Indians in Strait of Hormuz; MEA says 1 missing | India News",
-    "Cyclone 'Akvan' LIVE updates: Akvan stationary, likely to move slowly north-northwestwards",
-    "E20 petrol row: Why Karnataka’s allegations could reignite the ethanol blending debate",
-    "Ukraine blows up Putin's prized Crimea bridge days before meeting with Trump, Xi",
-    "US Attacks Iran's Qeshm Island In Strait Of Hormuz",
-    "Bahrain thwarts drone attack; Iran claims targeting US radar",
-    "COP31 enters decisive week as climate talks face political test and AI initiatives gather pace",
-    "Stock Market Highlights, Nov 17: Sensex, Nifty close at highest since February on record foreign inflows",
-    "Apple, Google outage: App Store, Gmail, Search and other services down",
-    "Anthropic’s big week",
-    "Jimmy Tata backs Tata Sons listing, accuses Noel of ‘back-door takeover’",
-    "Wear OS watches can now use your phone’s GPS to save battery life",
-    "iPhone 17 Pro Gets Massive Discount On Flipkart: Save Up To Rs 51,450 With These Offers",
-    "Chrome on Googlebook gets proper desktop-style vertical tabs stacking and more",
+    "Trump announces critical minerals agreements at Quad meeting in Manila",
+    "Private universities audit case in Supreme Court shifted from Justice Ahsanuddin Amanullah Bench",
+    "Kuwait reports drone attacks as Iran, US trade attacks on Qeshm and Bahrain",
+    "Ex-Nvidia CEO Jensen Huang acknowledges ‘mistakes,’ signals interest in return if company chooses",
+    "Rahul Gandhi's \"She's A Friend Now\" Reply On Question About Girlfriend",
+    "Two Indian seafarers hurt, 1 missing after tanker targeted in Hormuz Strait",
+    "India news: Modi proposes e-visas for ASEAN tourists",
+    "Cyclone 'Akvan' updates: Akvan stationary, likely to move slowly north-northwestwards",
+    "BSF jawan detained by BGB after inadvertently crossing into Bangladesh",
+    "CNN Reports US National Security Communications Network Has Gone Down",
+    "Ukraine strikes Putin's prized Crimean Bridge, destroys central road section ahead of US-China meet",
+    "Apec and Asean summit, as it happened: Trump signs Thai trade deal as protests greet his arrival in Manila",
+    "Israel parliament elects Gadi Eisenkot ally Matan Kahana as new speaker",
+    "Nvidia doubles Q3 revenue to $115.8 billion as board shuts door on Jensen Huang comeback",
+    "Apple outage, NSA network failure add to growing list of US tech disruptions",
+    "Tata trustees had unanimously agreed to begin the hunt for Chandrasekaran’s successor in August, Khambata reveals",
+    "Stock Market Today: All You Need To Know Before Going Into Trade On November 17",
     "New leak offers a first look at the iPhone 20 Pro's front glass - GSMArena.com news",
-    "The $8.5 Billion Deal Behind Robert Pattinson's James Bond Casting",
-    "Ramayana worldwide box office collection day 12: Ranbir Kapoor, Yash's film storms past ₹1400 crore; outpaces Dhurandhar 2, Baahubali 2 | Bollywood",
-    "Sharad Kapoor Claims People Forced Money Into His Hands For Videos, Took It Back Later; Friend Reacts"
+    "Chrome on Googlebook gets proper desktop-style vertical tabs stacking and more",
+    "GTA 6 Preorders Near 15 Million Copies, Sales Value Hits NT$48 Billion as Take-Two Stock Rallies Ahead of Launch",
+    "iPhone 17 Pro Gets Massive Discount On Flipkart: Save Up To Rs 51,450 With These Offers",
+    "'Ramayana' box office collection day 13 (LIVE): The Ranbir Kapoor, Sai Pallavi, Yash crosses Rs 800 crore",
+    "All Indian Cine Workers Association thanks Salman Khan and Sonu Sood for helping Sharad Kapoor, urges film industry to support struggling artists | Bollywood",
+    "UK's William says world must act urgently on climate at Indian awards ceremony"
   ],
   "quiz": [
-    {
-      "blanked": "UK's William says world must act urgently on climate at ______ awards ceremony",
-      "answer": "Indian",
-      "options": [
-        "Without",
-        "Girlfriend",
-        "Robert",
-        "Indian"
-      ]
-    },
-    {
-      "blanked": "The $8.5 ______ Deal Behind Robert Pattinson's James Bond Casting",
-      "answer": "Billion",
-      "options": [
-        "Billion",
-        "Milky",
-        "Associate",
-        "Baahubali"
-      ]
-    },
-    {
-      "blanked": "Ramayana worldwide box office collection day 12: Ranbir Kapoor, Yash's film storms past ₹1400 crore; outpaces ______ 2, Baahubali 2 | Bollywood",
-      "answer": "Dhurandhar",
-      "options": [
-        "Voyager",
-        "Dhurandhar",
-        "Quad",
-        "Talks"
-      ]
-    },
-    {
-      "blanked": "E20 petrol row: Why ______ allegations could reignite the ethanol blending debate",
-      "answer": "Karnatakas",
-      "options": [
-        "Party",
-        "Push",
-        "Claims",
-        "Karnatakas"
-      ]
-    },
-    {
-      "blanked": "Priyanka Gandhi To Lead Seat Talks With Akhilesh Yadav's Party For UP Polls: ______",
-      "answer": "Sources",
-      "options": [
-        "Sources",
-        "Gill",
-        "February",
-        "Newswise"
-      ]
-    },
-    {
-      "blanked": "MS ______ retires from IPL, named team mentor of Chennai Super Kings",
-      "answer": "Dhoni",
-      "options": [
-        "Seat",
-        "News",
-        "IPL",
-        "Dhoni"
-      ]
-    },
-    {
-      "blanked": "Rahul ______ \"She's A Friend Now\" Reply On Question About Girlfriend",
-      "answer": "Gandhis",
-      "options": [
-        "Way",
-        "Trump",
-        "Noel",
-        "Gandhis"
-      ]
-    },
-    {
-      "blanked": "iPhone 17 Pro Gets ______ Discount On Flipkart: Save Up To Rs 51,450 With These Offers",
-      "answer": "Massive",
-      "options": [
-        "Associate",
-        "Irans",
-        "Massive",
-        "Cycling"
-      ]
-    },
     {
       "blanked": "DESI weighs the ______ Way more precisely than ever",
       "answer": "Milky",
       "options": [
-        "Shubman",
-        "Earth",
-        "Attacks",
-        "Milky"
+        "Milky",
+        "Massive",
+        "Debicki",
+        "November"
       ]
     },
     {
-      "blanked": "Bahrain thwarts drone attack; ______ claims targeting US radar",
-      "answer": "Iran",
+      "blanked": "India news: ______ proposes e-visas for ASEAN tourists",
+      "answer": "Modi",
       "options": [
-        "Follicular",
-        "Irans",
-        "1400",
-        "Iran"
+        "Modi",
+        "Communications",
+        "Sales",
+        "Googlebook"
       ]
     },
     {
-      "blanked": "IPL ______ retention highlights: Dhoni retires, teams announce lists of released and retained players as deadline ends",
-      "answer": "2027",
+      "blanked": "Nvidia doubles Q3 revenue to ______ billion as board shuts door on Jensen Huang comeback",
+      "answer": "115.8",
       "options": [
-        "Grows",
-        "Hair",
-        "Googlebook",
-        "2027"
+        "Crimean",
+        "Pallavi",
+        "Friend",
+        "115.8"
       ]
     },
     {
-      "blanked": "Palestine v ______ match descends into chaos: racism, kicking out and a temporary suspension",
-      "answer": "India",
+      "blanked": "IPL 2027 - ______ retentions and releases",
+      "answer": "All",
       "options": [
-        "51450",
-        "India",
-        "Leaders",
-        "Director"
+        "Health",
+        "Akvan",
+        "All",
+        "August"
+      ]
+    },
+    {
+      "blanked": "Ukraine strikes ______ prized Crimean Bridge, destroys central road section ahead of US-China meet",
+      "answer": "Putins",
+      "options": [
+        "Putins",
+        "Reply",
+        "Chandrasekarans",
+        "August"
+      ]
+    },
+    {
+      "blanked": "Two Indian seafarers hurt, 1 missing after tanker targeted in Hormuz ______",
+      "answer": "Strait",
+      "options": [
+        "Strait",
+        "Value",
+        "Iran",
+        "Hormuz"
+      ]
+    },
+    {
+      "blanked": "MS ______ ends IPL career, appointed CSK mentor",
+      "answer": "Dhoni",
+      "options": [
+        "Health",
+        "Dhoni",
+        "US-China",
+        "Today"
+      ]
+    },
+    {
+      "blanked": "SpaceX's ______ feat should remind investors company is at its 'core' a rocket builder",
+      "answer": "Starship",
+      "options": [
+        "Launch",
+        "Bollywood",
+        "Flipkart",
+        "Starship"
+      ]
+    },
+    {
+      "blanked": "Bread maker killed in J&K encounter; had left home week ago to ‘join ______ ranks, attack CRPF personnel’",
+      "answer": "LeT",
+      "options": [
+        "Flipkart",
+        "LeT",
+        "Gandhis",
+        "Starship"
+      ]
+    },
+    {
+      "blanked": "Pulmonologist explains how ______ can run in the family and who is at higher risk even without smoking | Health",
+      "answer": "COPD",
+      "options": [
+        "Bollywood",
+        "CRPF",
+        "Save",
+        "COPD"
+      ]
+    },
+    {
+      "blanked": "Ex-Nvidia CEO Jensen ______ acknowledges ‘mistakes,’ signals interest in return if company chooses",
+      "answer": "Huang",
+      "options": [
+        "Huang",
+        "Amanullah",
+        "Dhoni",
+        "Know"
+      ]
+    },
+    {
+      "blanked": "Apple outage, ______ network failure add to growing list of US tech disruptions",
+      "answer": "NSA",
+      "options": [
+        "Yash",
+        "Sharad",
+        "NSA",
+        "You"
       ]
     }
   ]
