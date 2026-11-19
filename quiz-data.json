@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-11-18T19:15:02.525Z",
+  "generatedAt": "2026-11-19T01:14:43.346Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
     "Xi hails Russia ties as ‘source of stability’ ahead of trilateral summit",
-    "LeT’s ‘last local recruit’ Lateef Bhat killed outside a Kulgam mosque",
-    "Three killed, four injured in NTPC conveyor belt collapse in Jharkhand",
-    "Eknath Shinde's Defence As Sena Leader Lands In Bal Thackeray Photo Row",
-    "Cyclone 'Akvan' LIVE updates: Akvan likely to cross between Machilipatnam and Puri, says APSDMA",
+    "Cyclone 'Akvan' updates: Akvan likely to cross between Machilipatnam and Puri, says APSDMA",
+    "US court to Delhi courts: Help serve summons to RAW ex-chief, Doval",
+    "PM Modi returns to New Delhi after a successful two-day visit to Philippines",
     "Modi Tries to End Photo-Op With Trump in Awkward Quad Briefing",
-    "Britain's Prince William and Kate meet India's Modi at end of royal visit",
-    "Voice Choking At Cabinet Meeting, PM Modi Calls For Ending Drug Menace",
-    "Supreme Court Issues Contempt Notice To Advocate Who Insulted CJI Surya Kant",
-    "‘Shining’ Mumbai for royals, garbage for Mumbaikars: Bombay HC raps civic body",
-    "Hakeem Jeffries formally nominated as first Black US House speaker",
-    "US used expired missiles in Op Epic Fury against Iran; navy officer gives odd 'stale bread' comparison",
-    "90-day job ads, stricter hiring checks: Trump proposes tougher green card rules for foreign workers. Will...",
-    "EU proposes €45 billion Ukraine loan, to be repaid after Russia pays reparations",
-    "Gold (XAUUSD) & Silver Price Forecast: Gold Breaks to a 14-Month Low Ahead of Fed Minutes, Can $3,781 Hold?",
-    "EXCLUSIVE: India to charge bulk Scotch imports 162.5% duty and tax amid UK pact standoff",
-    "Stock Market Close: Sensex sheds 500 pts, Nifty at 25,228; consumer durables top sectoral loser",
-    "Nvidia Reports $115 Billion In First Earnings Without Jensen Huang",
-    "GTA 6 reviews say highly-anticipated game is a masterpiece",
-    "Meet the 2026 App Store Award finalists",
-    "GTA 6 on Blinkit: How to order, delivery cities on November 19 release date",
-    "I visited London’s viral GTA 6 merch pop-up, where shoppers waited for hours and scrambled to buy whatever was left",
+    "Lateef Bhatt dead: How forces tracked down LeT commander who built youth recruitment network in Kulgam",
+    "PM Modi chairs council of ministers meet; end of Naxalism, world bank report on poverty discussed",
+    "Indian missing, 2 injured after attack on vessel in Hormuz",
+    "Thiruparankundram Row | Thousands Of Survey Pillars Will Become Religious If HC Order Not Stayed, TN Govt ...",
+    "India Weighs Tax Tweaks to Boost Stock Trading, Curb Derivatives",
+    "Violence Rocks Bangladesh Ahead Of Hasina's Return; Yunus's Ancestral Home In Chattogram Set On Fire | Vide",
+    "India to have world's second-largest Muslim population by 2070, Hindus to remain over 75%: 10 key Pew...",
+    "From Apple to Microsoft, 6 major outages in 6 days: If not cyberattacks, what’s causing the failures?",
+    "Bancroft: 'I did not give a complete and truthful account'",
+    "Anthropic filing reveals how much company stake Amazon and Google will own",
+    "Gold prices remain under pressure as Fed minutes show central bank committed to cooling inflation",
+    "Nvidia halts its H200 chip sales to China - GSMArena.com news",
+    "Coal India unit draws ADIA, LIC in over $245 million IPO anchor book",
+    "Grand Theft Auto 6 to get UK release after 13-year wait for gamers around the world",
+    "“Grand Theft Auto VI” may mark the end of an era in gaming",
+    "Leaks Point to Curved Titanium iPhone 20 Pro and a Cautious Foldable Sequel",
+    "Xiaomi 18 Pro and Xiaomi 18 Pro Max launched with a back display",
     "Ramayana Creates Bollywood History as First Film to Cross ₹50 Crore Gross in All Four South Indian Markets",
-    "Amazon's Bezos says he helped pick Pattinson as Bond",
+    "Avengers: Doomsday Final Trailer Expected Today, Nov. 18: Release Time and What to Expect",
     "Yeh Prem Mol Liya Trailer: Ayushmann Khurrana, Sharvari Bring A Rocky Aur Rani Twist To Sooraj Barjatya's World"
   ],
   "quiz": [
     {
-      "blanked": "Stock Market ______ Sensex sheds 500 pts, Nifty at 25,228; consumer durables top sectoral loser",
-      "answer": "Close",
+      "blanked": "India lodges complaint against ______ footballer after under-17 match",
+      "answer": "Palestinian",
       "options": [
-        "India",
-        "Breaks",
-        "Close",
-        "Puri"
-      ]
-    },
-    {
-      "blanked": "Cyclone 'Akvan' LIVE updates: ______ likely to cross between Machilipatnam and Puri, says APSDMA",
-      "answer": "Akvan",
-      "options": [
-        "Akvan",
-        "Final",
-        "Release",
-        "First"
-      ]
-    },
-    {
-      "blanked": "‘Shining’ Mumbai for royals, garbage for ______ Bombay HC raps civic body",
-      "answer": "Mumbaikars",
-      "options": [
-        "Milky",
-        "CJI",
-        "Mumbaikars",
-        "Prem"
-      ]
-    },
-    {
-      "blanked": "Voyager 1 becomes first human-made object to reach one light-day from ______",
-      "answer": "Earth",
-      "options": [
-        "Earth",
-        "History",
-        "Lateef",
-        "Issues"
-      ]
-    },
-    {
-      "blanked": "Britain's ______ William and Kate meet India's Modi at end of royal visit",
-      "answer": "Prince",
-      "options": [
-        "Prince",
-        "Jharkhand",
-        "Iran",
-        "What"
-      ]
-    },
-    {
-      "blanked": "Avengers: Doomsday Final Trailer Expected Today, Nov. 18: Release Time and What to ______",
-      "answer": "Expect",
-      "options": [
-        "Bancrofts",
-        "November",
-        "Calls",
-        "Expect"
-      ]
-    },
-    {
-      "blanked": "EXCLUSIVE: India to charge bulk Scotch imports ______ duty and tax amid UK pact standoff",
-      "answer": "162.5%",
-      "options": [
-        "Creates",
-        "Bhat",
-        "162.5%",
-        "Menace"
-      ]
-    },
-    {
-      "blanked": "EU proposes €45 billion ______ loan, to be repaid after Russia pays reparations",
-      "answer": "Ukraine",
-      "options": [
-        "Ukraine",
-        "Defence",
-        "Barjatyas",
-        "App"
-      ]
-    },
-    {
-      "blanked": "Supreme Court Issues Contempt ______ To Advocate Who Insulted CJI Surya Kant",
-      "answer": "Notice",
-      "options": [
-        "3781",
+        "Cautious",
         "Four",
-        "Notice",
-        "Bombay"
+        "Survey",
+        "Palestinian"
       ]
     },
     {
-      "blanked": "90-day job ads, stricter hiring checks: ______ proposes tougher green card rules for foreign workers. Will...",
-      "answer": "Trump",
+      "blanked": "Nvidia halts its H200 chip sales to ______ - GSMArena.com news",
+      "answer": "China",
       "options": [
-        "Low",
-        "Liya",
-        "Trump",
-        "Rocky"
+        "Palestinian",
+        "Highlights",
+        "China",
+        "Apple"
       ]
     },
     {
-      "blanked": "Amazon's Bezos says he helped pick Pattinson as ______",
-      "answer": "Bond",
+      "blanked": "India leave ______ and Jadeja out of opening Test in New Zealand",
+      "answer": "Siraj",
       "options": [
-        "Puri",
-        "Bond",
-        "Doomsday",
-        "Day"
+        "Siraj",
+        "Hasinas",
+        "Interview",
+        "Fed"
       ]
     },
     {
-      "blanked": "US used expired missiles in Op ______ Fury against Iran; navy officer gives odd 'stale bread' comparison",
-      "answer": "Epic",
+      "blanked": "Gold prices remain under pressure as ______ minutes show central bank committed to cooling inflation",
+      "answer": "Fed",
       "options": [
-        "Epic",
-        "Defence",
-        "Doomsday",
-        "Rani"
+        "Fed",
+        "2026",
+        "Hormuz",
+        "IPO"
+      ]
+    },
+    {
+      "blanked": "Litton sets new world record with eight dismissals in a ______ innings",
+      "answer": "Test",
+      "options": [
+        "Film",
+        "Creates",
+        "Photo-Op",
+        "Test"
+      ]
+    },
+    {
+      "blanked": "India-UK ties outride ______ ‘decolonisation’ rhetoric",
+      "answer": "Modis",
+      "options": [
+        "Modis",
+        "Muslim",
+        "Diagnosis",
+        "Four"
+      ]
+    },
+    {
+      "blanked": "Thiruparankundram Row | Thousands Of Survey Pillars Will Become Religious If HC Order Not Stayed, TN ______ ...",
+      "answer": "Govt",
+      "options": [
+        "Cautious",
+        "Govt",
+        "Bring",
+        "Ahead"
+      ]
+    },
+    {
+      "blanked": "Indian missing, 2 injured after attack on vessel in ______",
+      "answer": "Hormuz",
+      "options": [
+        "Hormuz",
+        "Bhatt",
+        "Set",
+        "Pro"
+      ]
+    },
+    {
+      "blanked": "CRPF withdraws anti-Maoist battalion from ______",
+      "answer": "Chhattisgarh",
+      "options": [
+        "First",
+        "2026",
+        "Fire",
+        "Chhattisgarh"
+      ]
+    },
+    {
+      "blanked": "PM ______ chairs council of ministers meet; end of Naxalism, world bank report on poverty discussed",
+      "answer": "Modi",
+      "options": [
+        "Fire",
+        "Ahead",
+        "Amazon",
+        "Modi"
+      ]
+    },
+    {
+      "blanked": "Modi Tries to ______ Photo-Op With Trump in Awkward Quad Briefing",
+      "answer": "End",
+      "options": [
+        "Chattogram",
+        "Theft",
+        "End",
+        "Twist"
+      ]
+    },
+    {
+      "blanked": "Leaks Point to Curved ______ iPhone 20 Pro and a Cautious Foldable Sequel",
+      "answer": "Titanium",
+      "options": [
+        "Become",
+        "Bring",
+        "Apple",
+        "Titanium"
       ]
     }
   ]
