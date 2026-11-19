@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-11-19T08:50:18.138Z",
+  "generatedAt": "2026-11-19T17:53:46.069Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "Xi, Trump, Putin exchange greetings before historic China summit",
-    "Cyclone 'Akvan' LIVE updates: Over one lakh evacuated in Odisha as landfall likely near Gopalpur; red alert for three A.P. districts",
-    "BREAKING| Supreme Court Dismisses ED's Challenge To Azam Khan's Interim Bail",
-    "Modi Tries to End Photo-Op With Trump in Awkward Quad Briefing",
-    "Video call, and a ‘no’ to surrender: Kashmir’s last listed local terrorist killed in Kulgam gunfight",
-    "‘Plant ganja in bag’: MP cop removed from duty after video shows plot to frame young couple in hotel",
-    "\"India Playing Whole New Game\": PM Modi's GTA-Style Dig At Opposition",
-    "'Someone's stronghold is shaken': Akhilesh Yadav gets 'bulldozer welcome' in Yogi's turf Gorakhpur",
-    "Watch India's growth story is creating new opportunities. Our industries must be ready to seize them. Speaking at FICCI's centenary convention. @ficci_india live on X. Join the conversation and get real-time updates. - X",
-    "'Won't end Indian democracy': Rahul Gandhi rules out poll boycott, says Congress leaders asked him not to...",
-    "Violent protests and killings in Bangladesh ahead of exiled Sheikh Hasina’s planned return",
+    "U.S., China, Russia hold historic summit in Shenzhen",
+    "LOCAL Alert 001: Cyclone Akva​n - Third Cyclone in 24 Days - Pre-landfall update as of 18 November 2026, 1:30 pm IST · Andhra Pradesh, Yanam and South Odisha",
+    "Have you raised wages, created jobs? Modi challenges India Inc after tax cuts, trade deals",
     "ICJ to rule on Rohingya genocide case against Myanmar: What’s at stake?",
-    "Indian Man's Body Found Inside Burning Car In Canada, Targeted Killing Suspected",
-    "Trump said to privately vent about Vance blaming GOP midterm losses on Iran war",
-    "Anthropic raises $81.3bn in biggest IPO of all time",
-    "Gold plunges below $3,750, silver tumbles as hawkish Fed minutes pressure metals - Kitco PM Report",
-    "Stock Market Close: Sensex sheds 500 pts, Nifty at 25,228; consumer durables top sectoral loser",
-    "EXCLUSIVE: India to charge bulk Scotch imports 162.5% duty and tax amid UK pact standoff",
-    "GTA 6 reviews award 99 Metacritic score, topping GTA 4 to become Rockstar's top-rated",
-    "MicroRNA, the New Genetic Frontier of Gallbladder Carcinoma",
-    "Samsung Begins One UI 9.5 Beta Program – Samsung Newsroom Malaysia",
-    "Witness History | The launch of Grand Theft Auto",
-    "Ayushmann Khurrana on playing the ultimate green flag Prem in Yeh Prem Mol Liya and being Mr ROI",
-    "Ramayana Box Office Day 14 Advance Booking: Kerala, Karnataka, Delhi, Maharashtra – Neck-to-Neck With 1+ Crore Pre-Sales For 2nd Wednesday",
-    "Koffee With Karan S9: Ananya Panday gets candid about Ahaan Panday's Saiyaara, Pay Parity in Industry"
+    "'Hyderabadi biryani not preferred': Azam Khan takes veiled dig at Owaisi ahead of UP polls",
+    "Trump says he referred to ex-Nvidia boss Huang's situation 'briefly' in talk with Xi",
+    "EAM Jaishankar meets senior Japanese leaders, talks deeper strategic and economic ties",
+    "Malaysia to not remain visa free for Indian visitors from Jan 1, 2027",
+    "‘Next would have been Modi’: Veerappa Moily alleges Congress leaders stalled probe during UPA rule",
+    "Shiv Sena members tear pages of Sonia Gandhi’s book over Savarkar references, seek ban in Maharashtra",
+    "'Bloodshed in Karachi, Hyderabad': Why Bilawal Bhutto is opposing plan to redraw Pakistan's map",
+    "Denmark buckles under Trump, approves US military expansion deal in Greenland",
+    "Ukraine Scores 4th Major Hit on Putin’s $4 Billion Kerch Bridge. Why It Remains Kyiv’s Top Target?",
+    "Doctor confesses to wrongly removing patient’s ovaries during surgery: 'Rookie mistake'",
+    "The Anthropic IPO: You're Buying the Future, But at What Price?",
+    "Stock Market Today Highlights, November 19: Sensex surges 989 pts to 83,021; Nifty up 286 pts at 25,514; Auto stocks lead market rally",
+    "Stocks of Diageo, other liquor makers fall in India on Scotch tariff jolt",
+    "EPFO to cut minimum PF balance requirement to 10% from 25%: What it means",
+    "‘GTA VI’ Beats ‘The Odyssey’ Revenue On Release Day, Estimate Says",
+    "Apple iCloud+ subscribers to get more perks, including higher gen AI usage soon",
+    "TikToker’s Wife Says GTA VI Is Cheating Because He’d ‘Have a Girlfriend in the Game’",
+    "Gemini 4 Neon: Google DeepMind’s Frontier Coding Agent",
+    "‘Ramayana’ Box Office: Nitesh Tiwari Becomes the Only Indian Director With Two ₹1,500 Crore Global Grossers",
+    "\"Where Do You See Discomfort?\": Keerthy Suresh Clarifies Viral Mysskin Video, User Says Sorry",
+    "Arjun Sarja files complaint against those spreading ‘derogatory allegations’ about daughter Aishwarya, her marriage to Umapathy Ramaiah | Hindustan Times"
   ],
   "quiz": [
     {
-      "blanked": "Martha Wanjiru: Turning the ______ 90-70-90 Strategy Into Action to Eliminate Cervical Cancer",
-      "answer": "WHO",
+      "blanked": "\"Where Do You See Discomfort?\": Keerthy ______ Clarifies Viral Mysskin Video, User Says Sorry",
+      "answer": "Suresh",
       "options": [
-        "WHO",
-        "Speaking",
-        "Losing",
-        "Booking"
+        "Savarkar",
+        "Pollution",
+        "See",
+        "Suresh"
       ]
     },
     {
-      "blanked": "EXCLUSIVE: ______ to charge bulk Scotch imports 162.5% duty and tax amid UK pact standoff",
-      "answer": "India",
+      "blanked": "From vaccines to raw milk: 10 controversial health claims by ______ Jr as US loses measles elimination status",
+      "answer": "RFK",
       "options": [
-        "India",
-        "500",
-        "Mol",
-        "Pre-Sales"
+        "RFK",
+        "Damage",
+        "Habits",
+        "Close"
       ]
     },
     {
-      "blanked": "Ayushmann Khurrana on playing the ultimate green flag Prem in Yeh Prem Mol ______ and being Mr ROI",
-      "answer": "Liya",
+      "blanked": "Doctor confesses to wrongly removing patient’s ovaries during surgery: ______ mistake'",
+      "answer": "Rookie",
       "options": [
-        "Pre-Sales",
-        "Beta",
-        "Liya",
-        "2026"
+        "Rookie",
+        "Hit",
+        "2027",
+        "Frontier"
       ]
     },
     {
-      "blanked": "Violent protests and killings in ______ ahead of exiled Sheikh Hasina’s planned return",
-      "answer": "Bangladesh",
+      "blanked": "Stock Market Today Highlights, November 19: Sensex surges 989 pts to 83,021; Nifty up ______ pts at 25,514; Auto stocks lead market rally",
+      "answer": "286",
       "options": [
-        "Gorakhpur",
-        "Strategy",
-        "Bangladesh",
-        "Metacritic"
+        "Tiwari",
+        "286",
+        "Anthropic",
+        "130"
       ]
     },
     {
-      "blanked": "Video call, and a ‘no’ to surrender: Kashmir’s last listed local terrorist killed in ______ gunfight",
-      "answer": "Kulgam",
+      "blanked": "‘GTA VI’ Beats ‘The Odyssey’ ______ On Release Day, Estimate Says",
+      "answer": "Revenue",
       "options": [
-        "Grand",
-        "Day",
-        "Kulgam",
-        "Drive"
+        "10%",
+        "Umapathy",
+        "Cheating",
+        "Revenue"
       ]
     },
     {
-      "blanked": "Trump said to privately vent about Vance blaming GOP midterm losses on ______ war",
-      "answer": "Iran",
+      "blanked": "'Bloodshed in Karachi, Hyderabad': Why ______ Bhutto is opposing plan to redraw Pakistan's map",
+      "answer": "Bilawal",
       "options": [
-        "Mans",
-        "Bail",
-        "Iran",
-        "Cervical"
+        "Crore",
+        "UPA",
+        "Jonas",
+        "Bilawal"
       ]
     },
     {
-      "blanked": "'Someone's stronghold is shaken': ______ Yadav gets 'bulldozer welcome' in Yogi's turf Gorakhpur",
-      "answer": "Akhilesh",
+      "blanked": "EAM Jaishankar meets senior ______ leaders, talks deeper strategic and economic ties",
+      "answer": "Japanese",
       "options": [
-        "Wanjiru",
-        "Scotch",
-        "Akhilesh",
-        "Auto"
+        "Pollution",
+        "Japanese",
+        "Savarkar",
+        "1500"
       ]
     },
     {
-      "blanked": "MCMASTER ______ Pitch to commercialize promising antibiotic earns ACE50 top prize",
-      "answer": "UNIVERSITY",
+      "blanked": "India to ______ First Indigenous H5N1 Bird Flu Vaccine on 20 November",
+      "answer": "Launch",
       "options": [
-        "25228",
-        "UNIVERSITY",
-        "Fed",
-        "Program"
+        "Launch",
+        "Chopra",
+        "Bilawal",
+        "China"
       ]
     },
     {
-      "blanked": "Xi, ______ Putin exchange greetings before historic China summit",
-      "answer": "Trump",
+      "blanked": "EPFO to cut minimum PF balance requirement to 10% from ______ What it means",
+      "answer": "25%",
       "options": [
-        "Parity",
-        "Trump",
-        "Nasa",
-        "Nifty"
+        "Bird",
+        "25%",
+        "Buying",
+        "RFK"
       ]
     },
     {
-      "blanked": "Modi ______ to End Photo-Op With Trump in Awkward Quad Briefing",
-      "answer": "Tries",
+      "blanked": "Endometriosis and Fertility: ______ New in 2026?",
+      "answer": "Whats",
       "options": [
-        "Interim",
-        "Burning",
-        "Akvan",
-        "Tries"
+        "Japanese",
+        "Kyivs",
+        "Whats",
+        "Yet"
       ]
     },
     {
-      "blanked": "GTA 6 reviews award 99 Metacritic score, topping ______ 4 to become Rockstar's top-rated",
-      "answer": "GTA",
+      "blanked": "Rakshitha Sree Santhosh Ramraj - Yu ______ Chen 2-0",
+      "answer": "Fei",
       "options": [
-        "UNIVERSITY",
-        "GTA",
-        "Indias",
-        "Carcinoma"
+        "Global",
+        "Pradesh",
+        "Fei",
+        "User"
       ]
     },
     {
-      "blanked": "\"India Playing Whole New Game\": PM ______ GTA-Style Dig At Opposition",
-      "answer": "Modis",
+      "blanked": "Shiv Sena members tear pages of Sonia Gandhi’s book over Savarkar references, seek ban in ______",
+      "answer": "Maharashtra",
       "options": [
-        "Rohingya",
-        "Status",
-        "Rockstars",
-        "Modis"
+        "Price",
+        "Box",
+        "Maharashtra",
+        "Keerthy"
       ]
     }
   ]
