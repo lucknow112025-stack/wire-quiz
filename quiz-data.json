@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-11-20T16:06:25.556Z",
+  "generatedAt": "2026-11-20T22:39:35.681Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
     "Pak Minister Wants To Visit Taj Mahal, Nizamuddin. What Centre Said",
-    "ECI Rajasthan Panchayat Election Results 2026 LIVE Updates: Congress pulls ahead of BJP, leads in over 3,000 Panchayat seats",
-    "Why is PM Modi upset with corporate India? | Explained",
-    "Trump's personalized diplomacy hits its limits with 3-way summit",
-    "Cauvery water dispute: Supreme Court rejects plea by Tamil Nadu for release of additional water by Karnataka",
+    "Indian man sentenced to 19-plus years in plot to assassinate US-based Sikh separatist leader",
+    "U.S., China, Russia hold historic summit in Shenzhen",
+    "ECI Rajasthan Panchayat Election Results 2026 LIVE Updates: Congress pulls ahead of BJP, leads in over 3,700 Panchayat seats",
+    "Cyclone ‘Akvan’ crosses Odisha coast, no damage reported",
     "Thiruparankundram Hill | Supreme Court Stays HC Findings, Allows Karthigai Lamp Lighting At Deepathoon On ...",
-    "Cyclone 'Akvan' LIVE: Disaster Management Minister says no major damage, loss of life in Odisha",
-    "Cheetah brought from Botswana gives birth to four healthy cubs, population now at 62",
-    "Plea Flags Risks Of Consanguine Marriages; Supreme Court Seeks Centre's Response On Raising Public...",
-    "HT exclusive: No takers for Indian wear in Navy officers’ messes, say officials | India News",
+    "IAF active Rafale strength down to 32, says FlightGlobal; defence ministry disputes report",
+    "Explained: How the ‘spying’ claims in TN’s investment agency Guidance unravelled",
+    "‘Update your picture of India, don’t be stuck in the past’: Jaishankar to Japanese businesses | India News",
+    "Balendra Shah Will Spend Just 25 Hours In India",
+    "Australian MP Proposes To Partner During Farewell Speech In Parliament",
     "Tears of joy, prayers for return home: Rohingya react to genocide ruling",
-    "Polish Minister: 2 Russian Missiles, A Drone Crashed In Poland",
-    "Britain and EU clinch food and youth deals, but are stuck on tuition fees",
-    "Netanyahu Says Renewed Iran War \"Unavoidable\", But Trump Is \"Not Rushing\"",
-    "Asia’s stock markets dive as Anthropic debut fails to allay AI bubble fears",
-    "Stock Market Close: Sensex rises for 2nd day, gains 898 pts; Nifty at 25,801; bank shares lead rally",
-    "'We Gotta Bring Jensen Huang Back': Uber Co-Founder Backs Former Nvidia CEO",
-    "Anthropic's 7 co-founders' wealth grows by over $20 billion after IPO | Who are the seven co-founders? | Inshorts",
-    "GTA VI's First-Day Haul Nears $2.4 Billion, Closing In on Morgan Stanley's Full-Quarter Sales Target",
-    "GTA 6 offsets cheat code restrictions with more easy modes",
-    "You can finally use Google Gemini to control your MacBook",
-    "TVs for PS5 to play GTA VI: Top options from Samsung, LG, Sony, TCL and more that costs less than Rs 65000",
-    "Samantha Ruth Prabhu, Raj Nidimoru blessed with a baby boy | The marriage took place at the Isha Yoga Centre | Inshorts",
+    "COP31: Ambition goes missing as fossil fuel language drops from draft deal",
+    "Poland condemns Russian ‘provocation’ after airspace violations",
+    "Gold heads for worst week since March as Fed rate hike bets and forced selling weigh",
+    "Indian shares rise for fourth straight week as AI rout deepens",
+    "Rupee climbs past 93/USD as investors seek shelter in Indian stocks, shorts unwind",
+    "'Pee on your brain, rip your heart out': How Jensen Huang 'tortured' employees repeatedly",
+    "GTA VI Rakes In $3.79 Billion On Day One, But Rockstar Staff Still Face an Uncertain Future",
+    "Google expands Gemini Tasks to millions of users, adds calling and shopping features",
+    "Apple reportedly developing an AI agent that can code and use apps - GSMArena.com news",
+    "Apple iCloud+ subscribers to get more perks, including higher gen AI usage soon",
     "\"No Political Message In Film\": OM Director Says Amid Buzz Over Dhanush Joining Politics",
-    "Pratap Movie Review: Tedious Prison Drama"
+    "Ramayana Box Office: Nitesh Tiwari’s Magnum Opus Becomes 4th Film To Gross 150 Crore In Karnataka",
+    "BTS and Enhypen take top honors on the MAMA Awards’ first night — as it happened"
   ],
   "quiz": [
     {
-      "blanked": "Pak Minister Wants To Visit Taj Mahal, Nizamuddin. ______ Centre Said",
-      "answer": "What",
+      "blanked": "Poland condemns ______ ‘provocation’ after airspace violations",
+      "answer": "Russian",
       "options": [
-        "What",
-        "Minister",
-        "Google",
-        "Lighting"
+        "One",
+        "Visit",
+        "Gukesh",
+        "Russian"
       ]
     },
     {
-      "blanked": "Why is PM Modi upset with corporate ______ | Explained",
-      "answer": "India",
+      "blanked": "ECI Rajasthan Panchayat Election Results 2026 ______ Updates: Congress pulls ahead of BJP, leads in over 3,700 Panchayat seats",
+      "answer": "LIVE",
       "options": [
-        "Gotta",
-        "India",
-        "Consanguine",
-        "Rushing"
-      ]
-    },
-    {
-      "blanked": "IND vs NZ, 1st ______ Rahul, Jaiswal wrest back initiative after Nicholls and Phillips show",
-      "answer": "Test",
-      "options": [
-        "Prison",
-        "Menon",
-        "Allows",
-        "Test"
-      ]
-    },
-    {
-      "blanked": "Some stars can collapse into black holes without a supernova, study finds | The study was published in ______ Review D | Inshorts",
-      "answer": "Physical",
-      "options": [
-        "Physical",
-        "Siraj",
-        "Nvidia",
-        "Karnataka"
-      ]
-    },
-    {
-      "blanked": "Live Cricket Score, Schedule, Latest ______ Stats & Videos",
-      "answer": "News",
-      "options": [
-        "Lamp",
-        "Jensen",
-        "News",
-        "Doctors"
-      ]
-    },
-    {
-      "blanked": "The difficult road to defending his title: ______ Dommaraju",
-      "answer": "Gukesh",
-      "options": [
-        "Panchayat",
-        "Raising",
-        "Closing",
-        "Gukesh"
-      ]
-    },
-    {
-      "blanked": "Cancer Control Plans ______ Global Gaps in Comprehensiveness",
-      "answer": "Reveal",
-      "options": [
-        "Sales",
-        "Reveal",
-        "Gotta",
-        "Score"
-      ]
-    },
-    {
-      "blanked": "You can finally use ______ Gemini to control your MacBook",
-      "answer": "Google",
-      "options": [
-        "Google",
-        "25801",
+        "Staff",
         "LIVE",
-        "Director"
+        "Rafale",
+        "AL-AWSAT"
       ]
     },
     {
-      "blanked": "Stock Market Close: Sensex rises for 2nd day, gains 898 pts; ______ at 25,801; bank shares lead rally",
-      "answer": "Nifty",
+      "blanked": "Explained: How the ‘spying’ claims in ______ investment agency Guidance unravelled",
+      "answer": "TNs",
       "options": [
-        "Stays",
-        "Nifty",
-        "Response",
-        "Cant"
+        "Face",
+        "How",
+        "TNs",
+        "Zealand"
       ]
     },
     {
-      "blanked": "Samantha Ruth ______ Raj Nidimoru blessed with a baby boy | The marriage took place at the Isha Yoga Centre | Inshorts",
-      "answer": "Prabhu",
+      "blanked": "\"No Political ______ In Film\": OM Director Says Amid Buzz Over Dhanush Joining Politics",
+      "answer": "Message",
       "options": [
-        "Jaiswal",
-        "Rajasthan",
-        "Nicholls",
-        "Prabhu"
+        "Know",
+        "During",
+        "3.79",
+        "Message"
       ]
     },
     {
-      "blanked": "NASA ______ Doctors For Space Missions; Astronaut Anil Menon Shares How He Became One",
-      "answer": "Needs",
+      "blanked": "U.S., China, ______ hold historic summit in Shenzhen",
+      "answer": "Russia",
       "options": [
-        "Karnataka",
-        "Needs",
-        "Trump",
-        "Test"
+        "Updates",
+        "Know",
+        "Russia",
+        "Japanese"
       ]
     },
     {
-      "blanked": "TVs for PS5 to play GTA VI: Top options from ______ LG, Sony, TCL and more that costs less than Rs 65000",
-      "answer": "Samsung",
+      "blanked": "COP31: ______ goes missing as fossil fuel language drops from draft deal",
+      "answer": "Ambition",
       "options": [
-        "Samsung",
-        "Huge",
-        "Rahul",
-        "Ruth"
+        "Parliament",
+        "Akvan",
+        "Karthigai",
+        "Ambition"
+      ]
+    },
+    {
+      "blanked": "Google expands Gemini ______ to millions of users, adds calling and shopping features",
+      "answer": "Tasks",
+      "options": [
+        "Gross",
+        "When",
+        "Tasks",
+        "Telecast"
+      ]
+    },
+    {
+      "blanked": "NASA's ______ 1 phones home from an awe-inspiring one light-day away",
+      "answer": "Voyager",
+      "options": [
+        "Russia",
+        "Spend",
+        "Voyager",
+        "What"
+      ]
+    },
+    {
+      "blanked": "5 Pancreatic ______ Numbers Patients and Families Should Know",
+      "answer": "Cancer",
+      "options": [
+        "Cancer",
+        "China",
+        "Families",
+        "Ambition"
+      ]
+    },
+    {
+      "blanked": "India vs New Zealand Free ______ Telecast, 1st Test LIVE Streaming: When And Where To Watch IND vs NZ For Free",
+      "answer": "LIVE",
+      "options": [
+        "LIVE",
+        "Schedule",
+        "Day",
+        "Zealand"
+      ]
+    },
+    {
+      "blanked": "Pak Minister ______ To Visit Taj Mahal, Nizamuddin. What Centre Said",
+      "answer": "Wants",
+      "options": [
+        "Smaller",
+        "Wants",
+        "Oka",
+        "Mahal"
+      ]
+    },
+    {
+      "blanked": "Astronomers ______ a Huge Puffy Star Merge with Smaller Companion - ASHARQ AL-AWSAT English",
+      "answer": "Observe",
+      "options": [
+        "Observe",
+        "Jaishankar",
+        "Akvan",
+        "Farewell"
       ]
     }
   ]
