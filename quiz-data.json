@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-11-19T17:53:46.069Z",
+  "generatedAt": "2026-11-20T00:08:42.345Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "U.S., China, Russia hold historic summit in Shenzhen",
-    "LOCAL Alert 001: Cyclone Akva​n - Third Cyclone in 24 Days - Pre-landfall update as of 18 November 2026, 1:30 pm IST · Andhra Pradesh, Yanam and South Odisha",
+    "Cyclone ‘Akvan’ updates: Three lakh evacuated, 423 rescue teams deployed as cyclone heads to Odisha",
     "Have you raised wages, created jobs? Modi challenges India Inc after tax cuts, trade deals",
-    "ICJ to rule on Rohingya genocide case against Myanmar: What’s at stake?",
-    "'Hyderabadi biryani not preferred': Azam Khan takes veiled dig at Owaisi ahead of UP polls",
-    "Trump says he referred to ex-Nvidia boss Huang's situation 'briefly' in talk with Xi",
-    "EAM Jaishankar meets senior Japanese leaders, talks deeper strategic and economic ties",
-    "Malaysia to not remain visa free for Indian visitors from Jan 1, 2027",
-    "‘Next would have been Modi’: Veerappa Moily alleges Congress leaders stalled probe during UPA rule",
+    "U.S., China, Russia hold historic summit in Shenzhen",
+    "Modi Tries to End Photo-Op With Trump in Awkward Quad Briefing",
+    "Japan to conduct first-ever live-fire military drills in India, test surface-to-ship missiles",
+    "Musk says he felt 'pretty foolish' about scale of midterm spending after Republican rout",
+    "Removal proceedings against me infructuous after resignation: Justice Varma tells Lok Sabha Secretariat",
+    "71 kg Heroin Bound For Sri Lanka Seized In Chennai, 2 Arrested",
     "Shiv Sena members tear pages of Sonia Gandhi’s book over Savarkar references, seek ban in Maharashtra",
-    "'Bloodshed in Karachi, Hyderabad': Why Bilawal Bhutto is opposing plan to redraw Pakistan's map",
-    "Denmark buckles under Trump, approves US military expansion deal in Greenland",
-    "Ukraine Scores 4th Major Hit on Putin’s $4 Billion Kerch Bridge. Why It Remains Kyiv’s Top Target?",
-    "Doctor confesses to wrongly removing patient’s ovaries during surgery: 'Rookie mistake'",
+    "In US, Pak national asks Rahul Gandhi if neighbours can move past ‘blame game’. His reply | India News",
+    "West presses Iran at IAEA to let inspections resume at bombed nuclear sites",
+    "'We Do It Better': Trump Says US \"Spies On China\" Before Talks With Xi",
+    "Myanmar Committed Genocide Against Rohingyas : International Court Of Justice",
+    "Trump says no rush on Iran decision, looks to next year",
     "The Anthropic IPO: You're Buying the Future, But at What Price?",
-    "Stock Market Today Highlights, November 19: Sensex surges 989 pts to 83,021; Nifty up 286 pts at 25,514; Auto stocks lead market rally",
     "Stocks of Diageo, other liquor makers fall in India on Scotch tariff jolt",
     "EPFO to cut minimum PF balance requirement to 10% from 25%: What it means",
-    "‘GTA VI’ Beats ‘The Odyssey’ Revenue On Release Day, Estimate Says",
-    "Apple iCloud+ subscribers to get more perks, including higher gen AI usage soon",
-    "TikToker’s Wife Says GTA VI Is Cheating Because He’d ‘Have a Girlfriend in the Game’",
+    "Gold (XAUUSD), Silver, Platinum Forecasts – Gold Tests Yearly Lows As Sell-Off Continues",
+    "Blockbuster GTA VI release shows cultural, economic heft of video games",
+    "A couple signed a 10-day GTA 6 gaming contract. Then the backlash started",
+    "How non-player characters in 'Grand Theft Auto VI' help create its big world",
     "Gemini 4 Neon: Google DeepMind’s Frontier Coding Agent",
-    "‘Ramayana’ Box Office: Nitesh Tiwari Becomes the Only Indian Director With Two ₹1,500 Crore Global Grossers",
-    "\"Where Do You See Discomfort?\": Keerthy Suresh Clarifies Viral Mysskin Video, User Says Sorry",
-    "Arjun Sarja files complaint against those spreading ‘derogatory allegations’ about daughter Aishwarya, her marriage to Umapathy Ramaiah | Hindustan Times"
+    "Ramayana Box Office Day 14: Ranbir Kapoor & Yash Beat Dhurandhar 2 To Deliver Biggest 2nd Week, Even Before The Week Ends!",
+    "Pinkvilla Predicts: Trailer update for Yeh Prem Mol Liya, Avengers Doomsday assembles sensational presales",
+    "Dhanush's OM Surpasses Raayan In Advance Bookings, Eyes Biggest Opening Of His Career"
   ],
   "quiz": [
     {
-      "blanked": "\"Where Do You See Discomfort?\": Keerthy ______ Clarifies Viral Mysskin Video, User Says Sorry",
-      "answer": "Suresh",
+      "blanked": "How non-player characters in 'Grand Theft ______ VI' help create its big world",
+      "answer": "Auto",
       "options": [
-        "Savarkar",
-        "Pollution",
-        "See",
-        "Suresh"
+        "Overs",
+        "Cup",
+        "Auto",
+        "Air"
       ]
     },
     {
-      "blanked": "From vaccines to raw milk: 10 controversial health claims by ______ Jr as US loses measles elimination status",
-      "answer": "RFK",
+      "blanked": "'You haven't picked him': ______ Gavaskar questions Mohammed Siraj's omission, says pacer has 'never let I",
+      "answer": "Sunil",
       "options": [
-        "RFK",
-        "Damage",
-        "Habits",
-        "Close"
+        "Genocide",
+        "Concerning",
+        "Modi",
+        "Sunil"
       ]
     },
     {
-      "blanked": "Doctor confesses to wrongly removing patient’s ovaries during surgery: ______ mistake'",
-      "answer": "Rookie",
+      "blanked": "Pinkvilla Predicts: Trailer update for ______ Prem Mol Liya, Avengers Doomsday assembles sensational presales",
+      "answer": "Yeh",
       "options": [
-        "Rookie",
-        "Hit",
-        "2027",
-        "Frontier"
+        "Yeh",
+        "Eyes",
+        "Tries",
+        "Test"
       ]
     },
     {
-      "blanked": "Stock Market Today Highlights, November 19: Sensex surges 989 pts to 83,021; Nifty up ______ pts at 25,514; Auto stocks lead market rally",
-      "answer": "286",
+      "blanked": "Gold (XAUUSD), Silver, Platinum Forecasts – Gold ______ Yearly Lows As Sell-Off Continues",
+      "answer": "Tests",
       "options": [
-        "Tiwari",
-        "286",
-        "Anthropic",
-        "130"
-      ]
-    },
-    {
-      "blanked": "‘GTA VI’ Beats ‘The Odyssey’ ______ On Release Day, Estimate Says",
-      "answer": "Revenue",
-      "options": [
-        "10%",
-        "Umapathy",
-        "Cheating",
-        "Revenue"
-      ]
-    },
-    {
-      "blanked": "'Bloodshed in Karachi, Hyderabad': Why ______ Bhutto is opposing plan to redraw Pakistan's map",
-      "answer": "Bilawal",
-      "options": [
-        "Crore",
-        "UPA",
-        "Jonas",
-        "Bilawal"
-      ]
-    },
-    {
-      "blanked": "EAM Jaishankar meets senior ______ leaders, talks deeper strategic and economic ties",
-      "answer": "Japanese",
-      "options": [
-        "Pollution",
-        "Japanese",
-        "Savarkar",
-        "1500"
-      ]
-    },
-    {
-      "blanked": "India to ______ First Indigenous H5N1 Bird Flu Vaccine on 20 November",
-      "answer": "Launch",
-      "options": [
-        "Launch",
-        "Chopra",
-        "Bilawal",
+        "Tests",
+        "Nigeria",
+        "Concerning",
         "China"
       ]
     },
     {
-      "blanked": "EPFO to cut minimum PF balance requirement to 10% from ______ What it means",
-      "answer": "25%",
+      "blanked": "Highly Anisotropic Forbush Decrease on 6–7 September 2025: Looking Into a ______ Rope?",
+      "answer": "Flux",
       "options": [
-        "Bird",
-        "25%",
-        "Buying",
-        "RFK"
+        "Lanka",
+        "Trump",
+        "Flux",
+        "10%"
       ]
     },
     {
-      "blanked": "Endometriosis and Fertility: ______ New in 2026?",
-      "answer": "Whats",
+      "blanked": "Petra Ibum Adjah։ Three Important Facts Concerning Cervical Cancer in ______",
+      "answer": "Nigeria",
       "options": [
-        "Japanese",
-        "Kyivs",
-        "Whats",
-        "Yet"
+        "Yearly",
+        "Silver",
+        "Nigeria",
+        "Iran"
       ]
     },
     {
-      "blanked": "Rakshitha Sree Santhosh Ramraj - Yu ______ Chen 2-0",
-      "answer": "Fei",
+      "blanked": "Dhanush's OM Surpasses Raayan In Advance ______ Eyes Biggest Opening Of His Career",
+      "answer": "Bookings",
       "options": [
-        "Global",
-        "Pradesh",
-        "Fei",
-        "User"
+        "Group",
+        "Sunil",
+        "Bookings",
+        "Inshorts"
       ]
     },
     {
-      "blanked": "Shiv Sena members tear pages of Sonia Gandhi’s book over Savarkar references, seek ban in ______",
-      "answer": "Maharashtra",
+      "blanked": "Blockbuster ______ VI release shows cultural, economic heft of video games",
+      "answer": "GTA",
       "options": [
-        "Price",
-        "Box",
-        "Maharashtra",
-        "Keerthy"
+        "Companion",
+        "Yeh",
+        "Star",
+        "GTA"
+      ]
+    },
+    {
+      "blanked": "Musk says he felt 'pretty foolish' about scale of midterm spending after ______ rout",
+      "answer": "Republican",
+      "options": [
+        "Yadav",
+        "Anisotropic",
+        "Republican",
+        "Forbush"
+      ]
+    },
+    {
+      "blanked": "Shiv Sena members tear pages of Sonia Gandhi’s book over ______ references, seek ban in Maharashtra",
+      "answer": "Savarkar",
+      "options": [
+        "Savarkar",
+        "Voyager",
+        "Beat",
+        "Yearly"
+      ]
+    },
+    {
+      "blanked": "Gemini 4 Neon: Google DeepMind’s ______ Coding Agent",
+      "answer": "Frontier",
+      "options": [
+        "Frontier",
+        "International",
+        "Russia",
+        "Career"
+      ]
+    },
+    {
+      "blanked": "'We Do It Better': Trump Says US \"Spies On China\" Before ______ With Xi",
+      "answer": "Talks",
+      "options": [
+        "Talks",
+        "Spies",
+        "Can",
+        "Maharashtra"
       ]
     }
   ]
