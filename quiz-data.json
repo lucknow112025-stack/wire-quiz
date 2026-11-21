@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-11-21T03:28:48.428Z",
+  "generatedAt": "2026-11-21T11:37:17.828Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "Indian man sentenced to 19 years in US Sikh separatist assassination plot",
-    "Fake university list grows from 20 to 32 in 3 years, 18 old names still on it",
-    "Pak Minister Wants To Visit Taj Mahal, Nizamuddin. What Centre Said",
-    "U.S., China, Russia hold historic summit in Shenzhen",
-    "Modi pushes Indian industry to expand globally, take advantage of policy measures",
+    "Meta's India offices hit by opposition protests over account removals",
+    "14 flights cancelled at Ranchi airport amid Cyclone 'Akvan' | LIVE",
+    "Pakistan analyst claims no Indian official welcomed Musadik Malik in Delhi; fact-checked",
     "Fossil fuel talks deadlock pushes COP31 climate summit into overtime",
-    "'Rename Nagpur Too': Team Uddhav On Move To Change Mumbai's Dadar Metro Station Name",
-    "Nepal PM Balendra Shah to meet India PM Modi on first trip abroad",
-    "IAF active Rafale strength down to 32, says FlightGlobal; defence ministry disputes report",
-    "Thiruparankundram Hill | Supreme Court Stays HC Findings, Allows Karthigai Lamp Lighting At Deepathoon On ...",
-    "Iran War Live Updates: Yemen’s Houthis declare Saudi airspace ‘unsafe’, threaten Jeddah port strikes",
-    "Polish Minister: 2 Russian Missiles, A Drone Crashed In Poland",
-    "Tehran still hopes diplomacy can end the war with the US, Iran's Foreign Minister Araqchi tells an Iranian newspaper",
-    "Hours after Putin's 'painful' revenge warning, Russia unleashes massive attack on Ukraine",
-    "Gold falls toward $3,500, silver slides as stock markets enter correction territory - Kitco PM Report",
-    "US markets lose $6 trillion in a week as S&P 500 suffers longest losing streak since 2020",
-    "IndusInd Bank terminates former CEO Sumant Kathpalia after disciplinary inquiry, invokes clawback",
-    "Bitcoin falls below $60,000 level",
-    "GTA 6 Sets Record With $3.79 Billion In First-Day Retail Sales: Report",
-    "Anthropic Shares Fall Over 6% After-Hours After Report On Apple's AI Agent Plans",
+    "India ‘takes note’ of Trump-Xi-Putin summit, awaits more details",
+    "PM Modi addresses platinum jubilee celebrations of IIT Kharagpur",
+    "PM Modi inaugurates Nitish Setu in Bihar, recreates 'poll victory' moment with 'gamcha' wave",
+    "In first remarks on Siang, Amit Shah cites ‘national project’, ‘strategic interests’",
+    "14-year-old detained for attempting to sell Agniveer data on dark web",
+    "Bilkis Bano Case: Convicts' Sentence Suspension Raises Questions",
+    "At least four killed, 35 injured in fire at power station in Iraq’s Basra",
+    "FBI database hacked for second time in months, breach targets US crime records | Hindustan Times",
+    "Saudi Arabia says it intercepts three Houthi missiles targeting Riyadh",
+    "Araqchi says Iran wants diplomacy to end war, Trump says terms unacceptable",
+    "Wall Street banks set for banner year as Anthropic, SpaceX IPOs generate $1 billion in fees",
+    "Bitcoin falls to its lowest in two years",
+    "Trump calls for Nvidia to reinstate ‘brilliant’ Jensen Huang",
+    "What does EPFO’s Systematic Withdrawal Plan entail for retirees | Explained",
+    "Key facts: GTA VI Demand Exceeds Expectations; 65M Sales Forecast",
+    "Google to provide IIT Kharagpur Rs 46 crore for AI research",
     "Leaked Dummy Units Show Apple's iPhone Air 2 Gaining a Second Rear Camera",
-    "How Google’s Mirror Dimension tests Chrome agents",
-    "Ramayana Box Office: Nitesh Tiwari’s Magnum Opus Becomes 4th Film To Gross 150 Crore In Karnataka",
-    "OM box office collection day 1: Dhanush gets his highest opening after beating Tere Ishk Mein, but lags behind Scene | Hindustan Times",
-    "Aakasamlo Oka Tara Box Office Collection Day 1"
+    "Apple Stock Has a New AI Catalyst -- It Could Take on OpenAI, Meta and Anthropic",
+    "OM Box Office Collection Day 1: Film Becomes Biggest Opener Of Dhanush's Career",
+    "GTA 6 features Bengali song Aaj Shanibar. But it was a heartbreak for singer Rupa Biswas",
+    "Ramayana Set to Enter ₹900 Crore India Net Club on Day 17, Becomes Third Fastest Indian Film After Pushpa 2 and Dhurandhar 2"
   ],
   "quiz": [
     {
-      "blanked": "Supermoon could worsen king tide flooding before ______",
-      "answer": "Thanksgiving",
+      "blanked": "14-year-old detained for attempting to sell ______ data on dark web",
+      "answer": "Agniveer",
       "options": [
-        "Ishk",
-        "Indias",
-        "Dimension",
-        "Thanksgiving"
+        "IPOs",
+        "Trump",
+        "Agniveer",
+        "Musadik"
       ]
     },
     {
-      "blanked": "Anthropic Shares Fall Over 6% After-Hours After Report On Apple's AI Agent ______",
-      "answer": "Plans",
+      "blanked": "Klebsiella Pneumonia, Causes, Types, ______ Latest News",
+      "answer": "Symptoms",
       "options": [
-        "Putins",
-        "Factors",
-        "Companion",
-        "Plans"
+        "Nvidia",
+        "Enter",
+        "Masood",
+        "Symptoms"
       ]
     },
     {
-      "blanked": "School nurse group issues call for measles prevention and response - K-12 ______",
-      "answer": "Dive",
+      "blanked": "PM ______ addresses platinum jubilee celebrations of IIT Kharagpur",
+      "answer": "Modi",
       "options": [
-        "Dive",
-        "Allows",
-        "First-Day",
-        "Show"
+        "Modi",
+        "Expectations",
+        "Office",
+        "Prevention"
       ]
     },
     {
-      "blanked": "U.S., China, ______ hold historic summit in Shenzhen",
-      "answer": "Russia",
+      "blanked": "Apple Stock Has a New AI Catalyst -- It ______ Take on OpenAI, Meta and Anthropic",
+      "answer": "Could",
       "options": [
-        "Apples",
-        "Russia",
-        "Sindarov",
-        "Lighting"
+        "2018",
+        "Less",
+        "IPOs",
+        "Could"
       ]
     },
     {
-      "blanked": "Astronomers Observe a ______ Puffy Star Merge with Smaller Companion - ASHARQ AL-AWSAT English",
-      "answer": "Huge",
+      "blanked": "FBI database hacked for second time in months, breach targets US crime records | Hindustan ______",
+      "answer": "Times",
       "options": [
-        "Reviews",
-        "Live",
-        "Huge",
-        "Office"
+        "Times",
+        "Gaining",
+        "Marking",
+        "Administered"
       ]
     },
     {
-      "blanked": "Thiruparankundram Hill | Supreme ______ Stays HC Findings, Allows Karthigai Lamp Lighting At Deepathoon On ...",
-      "answer": "Court",
+      "blanked": "Bilkis Bano Case: Convicts' ______ Suspension Raises Questions",
+      "answer": "Sentence",
       "options": [
-        "Court",
-        "Tiwaris",
-        "Air",
-        "Produce"
+        "Score",
+        "Sales",
+        "Sentence",
+        "Iraqs"
       ]
     },
     {
-      "blanked": "Beyond self-reporting: ______ smoking exposure objectively - News-Medical",
-      "answer": "Measuring",
+      "blanked": "India Crosses Historic ______ of 1 Crore HPV Vaccine Doses Administered in Less Than Nine Months, Marking Major Progress in Cervical Cancer Prevention",
+      "answer": "Milestone",
       "options": [
-        "Dhanush",
-        "Sports",
-        "Mashable",
-        "Measuring"
+        "Gaining",
+        "Middle",
+        "Pneumonia",
+        "Milestone"
       ]
     },
     {
-      "blanked": "Ramayana Box Office: ______ Tiwari’s Magnum Opus Becomes 4th Film To Gross 150 Crore In Karnataka",
-      "answer": "Nitesh",
+      "blanked": "Ramayana Set to Enter ₹900 Crore India Net Club on Day 17, Becomes Third Fastest Indian Film After Pushpa 2 and ______ 2",
+      "answer": "Dhurandhar",
       "options": [
-        "Nitesh",
-        "Houthis",
-        "Test",
-        "Court"
+        "Dhurandhar",
+        "Questions",
+        "Saim",
+        "Dev"
       ]
     },
     {
-      "blanked": "How ______ Mirror Dimension tests Chrome agents",
-      "answer": "Googles",
+      "blanked": "Saudi ______ says it intercepts three Houthi missiles targeting Riyadh",
+      "answer": "Arabia",
       "options": [
-        "Russian",
-        "Googles",
-        "China",
-        "Metro"
+        "Arabia",
+        "Plan",
+        "Pushpa",
+        "Prevention"
       ]
     },
     {
-      "blanked": "Hours after ______ 'painful' revenge warning, Russia unleashes massive attack on Ukraine",
-      "answer": "Putins",
+      "blanked": "When stars collide: ______ watch a swelling red giant devour a companion star for the first time.",
+      "answer": "Astronomers",
       "options": [
-        "Putins",
-        "News",
-        "Visit",
-        "Iranian"
+        "Trump",
+        "Biswas",
+        "Astronomers",
+        "Questions"
       ]
     },
     {
-      "blanked": "OM box office collection day 1: Dhanush gets his highest opening after beating Tere Ishk Mein, but lags behind Scene | ______ Times",
-      "answer": "Hindustan",
+      "blanked": "Ballon d'Or winner ______ Kane out a 'few months' after ankle injury",
+      "answer": "Harry",
       "options": [
-        "Month",
-        "Jeddah",
-        "Hindustan",
-        "Shenzhen"
+        "Houthi",
+        "Harry",
+        "Siang",
+        "Cervical"
       ]
     },
     {
-      "blanked": "Indian man sentenced to 19 years in US ______ separatist assassination plot",
-      "answer": "Sikh",
+      "blanked": "PM Modi inaugurates ______ Setu in Bihar, recreates 'poll victory' moment with 'gamcha' wave",
+      "answer": "Nitish",
       "options": [
-        "Crashed",
-        "Sikh",
-        "Puffy",
-        "India"
+        "Bengali",
+        "Kharagpur",
+        "Nitish",
+        "Doses"
       ]
     }
   ]
