@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-11-20T22:39:35.681Z",
+  "generatedAt": "2026-11-21T03:28:48.428Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
+    "Indian man sentenced to 19 years in US Sikh separatist assassination plot",
+    "Fake university list grows from 20 to 32 in 3 years, 18 old names still on it",
     "Pak Minister Wants To Visit Taj Mahal, Nizamuddin. What Centre Said",
-    "Indian man sentenced to 19-plus years in plot to assassinate US-based Sikh separatist leader",
     "U.S., China, Russia hold historic summit in Shenzhen",
-    "ECI Rajasthan Panchayat Election Results 2026 LIVE Updates: Congress pulls ahead of BJP, leads in over 3,700 Panchayat seats",
-    "Cyclone ‘Akvan’ crosses Odisha coast, no damage reported",
-    "Thiruparankundram Hill | Supreme Court Stays HC Findings, Allows Karthigai Lamp Lighting At Deepathoon On ...",
+    "Modi pushes Indian industry to expand globally, take advantage of policy measures",
+    "Fossil fuel talks deadlock pushes COP31 climate summit into overtime",
+    "'Rename Nagpur Too': Team Uddhav On Move To Change Mumbai's Dadar Metro Station Name",
+    "Nepal PM Balendra Shah to meet India PM Modi on first trip abroad",
     "IAF active Rafale strength down to 32, says FlightGlobal; defence ministry disputes report",
-    "Explained: How the ‘spying’ claims in TN’s investment agency Guidance unravelled",
-    "‘Update your picture of India, don’t be stuck in the past’: Jaishankar to Japanese businesses | India News",
-    "Balendra Shah Will Spend Just 25 Hours In India",
-    "Australian MP Proposes To Partner During Farewell Speech In Parliament",
-    "Tears of joy, prayers for return home: Rohingya react to genocide ruling",
-    "COP31: Ambition goes missing as fossil fuel language drops from draft deal",
-    "Poland condemns Russian ‘provocation’ after airspace violations",
-    "Gold heads for worst week since March as Fed rate hike bets and forced selling weigh",
-    "Indian shares rise for fourth straight week as AI rout deepens",
-    "Rupee climbs past 93/USD as investors seek shelter in Indian stocks, shorts unwind",
-    "'Pee on your brain, rip your heart out': How Jensen Huang 'tortured' employees repeatedly",
-    "GTA VI Rakes In $3.79 Billion On Day One, But Rockstar Staff Still Face an Uncertain Future",
-    "Google expands Gemini Tasks to millions of users, adds calling and shopping features",
-    "Apple reportedly developing an AI agent that can code and use apps - GSMArena.com news",
-    "Apple iCloud+ subscribers to get more perks, including higher gen AI usage soon",
-    "\"No Political Message In Film\": OM Director Says Amid Buzz Over Dhanush Joining Politics",
+    "Thiruparankundram Hill | Supreme Court Stays HC Findings, Allows Karthigai Lamp Lighting At Deepathoon On ...",
+    "Iran War Live Updates: Yemen’s Houthis declare Saudi airspace ‘unsafe’, threaten Jeddah port strikes",
+    "Polish Minister: 2 Russian Missiles, A Drone Crashed In Poland",
+    "Tehran still hopes diplomacy can end the war with the US, Iran's Foreign Minister Araqchi tells an Iranian newspaper",
+    "Hours after Putin's 'painful' revenge warning, Russia unleashes massive attack on Ukraine",
+    "Gold falls toward $3,500, silver slides as stock markets enter correction territory - Kitco PM Report",
+    "US markets lose $6 trillion in a week as S&P 500 suffers longest losing streak since 2020",
+    "IndusInd Bank terminates former CEO Sumant Kathpalia after disciplinary inquiry, invokes clawback",
+    "Bitcoin falls below $60,000 level",
+    "GTA 6 Sets Record With $3.79 Billion In First-Day Retail Sales: Report",
+    "Anthropic Shares Fall Over 6% After-Hours After Report On Apple's AI Agent Plans",
+    "Leaked Dummy Units Show Apple's iPhone Air 2 Gaining a Second Rear Camera",
+    "How Google’s Mirror Dimension tests Chrome agents",
     "Ramayana Box Office: Nitesh Tiwari’s Magnum Opus Becomes 4th Film To Gross 150 Crore In Karnataka",
-    "BTS and Enhypen take top honors on the MAMA Awards’ first night — as it happened"
+    "OM box office collection day 1: Dhanush gets his highest opening after beating Tere Ishk Mein, but lags behind Scene | Hindustan Times",
+    "Aakasamlo Oka Tara Box Office Collection Day 1"
   ],
   "quiz": [
     {
-      "blanked": "Poland condemns ______ ‘provocation’ after airspace violations",
-      "answer": "Russian",
+      "blanked": "Supermoon could worsen king tide flooding before ______",
+      "answer": "Thanksgiving",
       "options": [
-        "One",
-        "Visit",
-        "Gukesh",
-        "Russian"
+        "Ishk",
+        "Indias",
+        "Dimension",
+        "Thanksgiving"
       ]
     },
     {
-      "blanked": "ECI Rajasthan Panchayat Election Results 2026 ______ Updates: Congress pulls ahead of BJP, leads in over 3,700 Panchayat seats",
-      "answer": "LIVE",
+      "blanked": "Anthropic Shares Fall Over 6% After-Hours After Report On Apple's AI Agent ______",
+      "answer": "Plans",
       "options": [
-        "Staff",
-        "LIVE",
-        "Rafale",
-        "AL-AWSAT"
+        "Putins",
+        "Factors",
+        "Companion",
+        "Plans"
       ]
     },
     {
-      "blanked": "Explained: How the ‘spying’ claims in ______ investment agency Guidance unravelled",
-      "answer": "TNs",
+      "blanked": "School nurse group issues call for measles prevention and response - K-12 ______",
+      "answer": "Dive",
       "options": [
-        "Face",
-        "How",
-        "TNs",
-        "Zealand"
-      ]
-    },
-    {
-      "blanked": "\"No Political ______ In Film\": OM Director Says Amid Buzz Over Dhanush Joining Politics",
-      "answer": "Message",
-      "options": [
-        "Know",
-        "During",
-        "3.79",
-        "Message"
+        "Dive",
+        "Allows",
+        "First-Day",
+        "Show"
       ]
     },
     {
       "blanked": "U.S., China, ______ hold historic summit in Shenzhen",
       "answer": "Russia",
       "options": [
-        "Updates",
-        "Know",
+        "Apples",
         "Russia",
-        "Japanese"
+        "Sindarov",
+        "Lighting"
       ]
     },
     {
-      "blanked": "COP31: ______ goes missing as fossil fuel language drops from draft deal",
-      "answer": "Ambition",
+      "blanked": "Astronomers Observe a ______ Puffy Star Merge with Smaller Companion - ASHARQ AL-AWSAT English",
+      "answer": "Huge",
       "options": [
-        "Parliament",
-        "Akvan",
-        "Karthigai",
-        "Ambition"
+        "Reviews",
+        "Live",
+        "Huge",
+        "Office"
       ]
     },
     {
-      "blanked": "Google expands Gemini ______ to millions of users, adds calling and shopping features",
-      "answer": "Tasks",
+      "blanked": "Thiruparankundram Hill | Supreme ______ Stays HC Findings, Allows Karthigai Lamp Lighting At Deepathoon On ...",
+      "answer": "Court",
       "options": [
-        "Gross",
-        "When",
-        "Tasks",
-        "Telecast"
+        "Court",
+        "Tiwaris",
+        "Air",
+        "Produce"
       ]
     },
     {
-      "blanked": "NASA's ______ 1 phones home from an awe-inspiring one light-day away",
-      "answer": "Voyager",
+      "blanked": "Beyond self-reporting: ______ smoking exposure objectively - News-Medical",
+      "answer": "Measuring",
       "options": [
-        "Russia",
-        "Spend",
-        "Voyager",
-        "What"
+        "Dhanush",
+        "Sports",
+        "Mashable",
+        "Measuring"
       ]
     },
     {
-      "blanked": "5 Pancreatic ______ Numbers Patients and Families Should Know",
-      "answer": "Cancer",
+      "blanked": "Ramayana Box Office: ______ Tiwari’s Magnum Opus Becomes 4th Film To Gross 150 Crore In Karnataka",
+      "answer": "Nitesh",
       "options": [
-        "Cancer",
+        "Nitesh",
+        "Houthis",
+        "Test",
+        "Court"
+      ]
+    },
+    {
+      "blanked": "How ______ Mirror Dimension tests Chrome agents",
+      "answer": "Googles",
+      "options": [
+        "Russian",
+        "Googles",
         "China",
-        "Families",
-        "Ambition"
+        "Metro"
       ]
     },
     {
-      "blanked": "India vs New Zealand Free ______ Telecast, 1st Test LIVE Streaming: When And Where To Watch IND vs NZ For Free",
-      "answer": "LIVE",
+      "blanked": "Hours after ______ 'painful' revenge warning, Russia unleashes massive attack on Ukraine",
+      "answer": "Putins",
       "options": [
-        "LIVE",
-        "Schedule",
-        "Day",
-        "Zealand"
+        "Putins",
+        "News",
+        "Visit",
+        "Iranian"
       ]
     },
     {
-      "blanked": "Pak Minister ______ To Visit Taj Mahal, Nizamuddin. What Centre Said",
-      "answer": "Wants",
+      "blanked": "OM box office collection day 1: Dhanush gets his highest opening after beating Tere Ishk Mein, but lags behind Scene | ______ Times",
+      "answer": "Hindustan",
       "options": [
-        "Smaller",
-        "Wants",
-        "Oka",
-        "Mahal"
+        "Month",
+        "Jeddah",
+        "Hindustan",
+        "Shenzhen"
       ]
     },
     {
-      "blanked": "Astronomers ______ a Huge Puffy Star Merge with Smaller Companion - ASHARQ AL-AWSAT English",
-      "answer": "Observe",
+      "blanked": "Indian man sentenced to 19 years in US ______ separatist assassination plot",
+      "answer": "Sikh",
       "options": [
-        "Observe",
-        "Jaishankar",
-        "Akvan",
-        "Farewell"
+        "Crashed",
+        "Sikh",
+        "Puffy",
+        "India"
       ]
     }
   ]
