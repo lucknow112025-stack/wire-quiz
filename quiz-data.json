@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-11-21T11:37:17.828Z",
+  "generatedAt": "2026-11-21T18:13:06.558Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "Meta's India offices hit by opposition protests over account removals",
-    "14 flights cancelled at Ranchi airport amid Cyclone 'Akvan' | LIVE",
-    "Pakistan analyst claims no Indian official welcomed Musadik Malik in Delhi; fact-checked",
-    "Fossil fuel talks deadlock pushes COP31 climate summit into overtime",
-    "India ‘takes note’ of Trump-Xi-Putin summit, awaits more details",
+    "14 years in making, PM Modi inaugurates Nitish Setu over Ganga in Bihar",
+    "'Working to suppress India’s rise': US panel report flags China's support to Pakistan during Operation Si",
     "PM Modi addresses platinum jubilee celebrations of IIT Kharagpur",
-    "PM Modi inaugurates Nitish Setu in Bihar, recreates 'poll victory' moment with 'gamcha' wave",
-    "In first remarks on Siang, Amit Shah cites ‘national project’, ‘strategic interests’",
-    "14-year-old detained for attempting to sell Agniveer data on dark web",
-    "Bilkis Bano Case: Convicts' Sentence Suspension Raises Questions",
-    "At least four killed, 35 injured in fire at power station in Iraq’s Basra",
-    "FBI database hacked for second time in months, breach targets US crime records | Hindustan Times",
-    "Saudi Arabia says it intercepts three Houthi missiles targeting Riyadh",
-    "Araqchi says Iran wants diplomacy to end war, Trump says terms unacceptable",
-    "Wall Street banks set for banner year as Anthropic, SpaceX IPOs generate $1 billion in fees",
+    "14 flights cancelled at Ranchi airport amid Cyclone 'Akvan' | HIGHLIGHTS",
+    "Why Rajasthan panchayat results are bad news for BJP, CM Bhajan Lal Sharma",
+    "India ‘takes note’ of Trump-Xi-Putin summit, awaits more details",
+    "Taj Mahal, Humayun's Tomb on wish list as Pakistan minister visits India; what Centre said on travel curb",
+    "In first remarks since Siang clashes, Amit Shah calls dam a national project, offers talks",
+    "14-year-old hacker held for trying to sell private data of 4,000 Agniveers on dark web: Delhi Police",
+    "'Country's character remains the same': PM Modi praises people for heeding call to not buy gold",
+    "Iran-U.S. negotiations stalled over uranium enrichment dispute, mediators warn of renewed conflict, says reports",
+    "Tankers hit in Strait of Hormuz as Iran tightens grip on shipping",
+    "Hackers Target US Agriculture Department, FBI Days After Tech Outages",
+    "Bullets rain from helicopter, explosions on ground: How Mexico hunted down FBI's most-wanted drug lord; w",
+    "Expired food, fungus found at Amazon, BigBasket Pune dark stores",
+    "Anthropic shares crash 13% a day after record IPO as retail investors face losses",
     "Bitcoin falls to its lowest in two years",
-    "Trump calls for Nvidia to reinstate ‘brilliant’ Jensen Huang",
-    "What does EPFO’s Systematic Withdrawal Plan entail for retirees | Explained",
-    "Key facts: GTA VI Demand Exceeds Expectations; 65M Sales Forecast",
-    "Google to provide IIT Kharagpur Rs 46 crore for AI research",
-    "Leaked Dummy Units Show Apple's iPhone Air 2 Gaining a Second Rear Camera",
-    "Apple Stock Has a New AI Catalyst -- It Could Take on OpenAI, Meta and Anthropic",
-    "OM Box Office Collection Day 1: Film Becomes Biggest Opener Of Dhanush's Career",
-    "GTA 6 features Bengali song Aaj Shanibar. But it was a heartbreak for singer Rupa Biswas",
-    "Ramayana Set to Enter ₹900 Crore India Net Club on Day 17, Becomes Third Fastest Indian Film After Pushpa 2 and Dhurandhar 2"
+    "Noel Tata's salvo sets stage for stormy Tata Sons board meet next week",
+    "Google gives IIT Kharagpur $5 million to boost advanced AI research, train next generation",
+    "GTA VI earns estimated $3.79 billion in record-breaking launch",
+    "Paramount+ gets major 75% off saving in limited UK Black Friday deal",
+    "Neuralink patient plays GTA 6 using only brain signals, no controller needed",
+    "Anirudh Ravichander And Kavya Maran Bring Royal Elegance In Red And Black At Chennai Wedding Reception",
+    "Bigg Boss To Dil Ki Bewafaiyaan: How Ekta Kapoor Fulfilled Gaurav Khanna's 20-Year Wish",
+    "Om Box Office Day 1 Occupancy & Bms Sales Report: Opens 122% Higher Than Dhanush’s Last Outing, Sold 200 Tickets Every Single Minute In Last 6 Hours!"
   ],
   "quiz": [
     {
-      "blanked": "14-year-old detained for attempting to sell ______ data on dark web",
-      "answer": "Agniveer",
+      "blanked": "Tankers hit in Strait of Hormuz as ______ tightens grip on shipping",
+      "answer": "Iran",
       "options": [
-        "IPOs",
-        "Trump",
-        "Agniveer",
-        "Musadik"
+        "Kapoor",
+        "Bhushan",
+        "FBI",
+        "Iran"
       ]
     },
     {
-      "blanked": "Klebsiella Pneumonia, Causes, Types, ______ Latest News",
-      "answer": "Symptoms",
+      "blanked": "Anirudh Ravichander And Kavya Maran Bring Royal ______ In Red And Black At Chennai Wedding Reception",
+      "answer": "Elegance",
       "options": [
-        "Nvidia",
-        "Enter",
-        "Masood",
-        "Symptoms"
+        "Elegance",
+        "GTA",
+        "Why",
+        "Police"
       ]
     },
     {
-      "blanked": "PM ______ addresses platinum jubilee celebrations of IIT Kharagpur",
-      "answer": "Modi",
+      "blanked": "Paramount+ gets major 75% off saving in limited UK Black ______ deal",
+      "answer": "Friday",
       "options": [
-        "Modi",
-        "Expectations",
-        "Office",
-        "Prevention"
+        "World",
+        "Kapoor",
+        "Friday",
+        "Why"
       ]
     },
     {
-      "blanked": "Apple Stock Has a New AI Catalyst -- It ______ Take on OpenAI, Meta and Anthropic",
-      "answer": "Could",
+      "blanked": "NZ vs IND, 1st ______ KL Rahul credits ‘six-seven months of homework' for maiden ton in NZ",
+      "answer": "Test",
       "options": [
-        "2018",
-        "Less",
-        "IPOs",
-        "Could"
-      ]
-    },
-    {
-      "blanked": "FBI database hacked for second time in months, breach targets US crime records | Hindustan ______",
-      "answer": "Times",
-      "options": [
-        "Times",
-        "Gaining",
-        "Marking",
-        "Administered"
-      ]
-    },
-    {
-      "blanked": "Bilkis Bano Case: Convicts' ______ Suspension Raises Questions",
-      "answer": "Sentence",
-      "options": [
-        "Score",
-        "Sales",
-        "Sentence",
-        "Iraqs"
-      ]
-    },
-    {
-      "blanked": "India Crosses Historic ______ of 1 Crore HPV Vaccine Doses Administered in Less Than Nine Months, Marking Major Progress in Cervical Cancer Prevention",
-      "answer": "Milestone",
-      "options": [
-        "Gaining",
-        "Middle",
-        "Pneumonia",
-        "Milestone"
-      ]
-    },
-    {
-      "blanked": "Ramayana Set to Enter ₹900 Crore India Net Club on Day 17, Becomes Third Fastest Indian Film After Pushpa 2 and ______ 2",
-      "answer": "Dhurandhar",
-      "options": [
-        "Dhurandhar",
-        "Questions",
-        "Saim",
-        "Dev"
-      ]
-    },
-    {
-      "blanked": "Saudi ______ says it intercepts three Houthi missiles targeting Riyadh",
-      "answer": "Arabia",
-      "options": [
-        "Arabia",
-        "Plan",
-        "Pushpa",
-        "Prevention"
+        "Gill",
+        "Test",
+        "Agniveers",
+        "Nasas"
       ]
     },
     {
       "blanked": "When stars collide: ______ watch a swelling red giant devour a companion star for the first time.",
       "answer": "Astronomers",
       "options": [
-        "Trump",
-        "Biswas",
-        "Astronomers",
-        "Questions"
+        "FBI",
+        "Day",
+        "Single",
+        "Astronomers"
       ]
     },
     {
-      "blanked": "Ballon d'Or winner ______ Kane out a 'few months' after ankle injury",
-      "answer": "Harry",
+      "blanked": "India ‘takes note’ of ______ summit, awaits more details",
+      "answer": "Trump-Xi-Putin",
       "options": [
-        "Houthi",
-        "Harry",
-        "Siang",
-        "Cervical"
+        "Patterns",
+        "Chinas",
+        "Ranchi",
+        "Trump-Xi-Putin"
       ]
     },
     {
-      "blanked": "PM Modi inaugurates ______ Setu in Bihar, recreates 'poll victory' moment with 'gamcha' wave",
-      "answer": "Nitish",
+      "blanked": "49 years after launch, ______ Voyager first human-made object 1 light-day away from Earth",
+      "answer": "Nasas",
       "options": [
-        "Bengali",
+        "Nasas",
+        "Friday",
+        "Hormuz",
+        "Cricket"
+      ]
+    },
+    {
+      "blanked": "Bigg ______ To Dil Ki Bewafaiyaan: How Ekta Kapoor Fulfilled Gaurav Khanna's 20-Year Wish",
+      "answer": "Boss",
+      "options": [
+        "Ekta",
+        "Boss",
+        "Department",
+        "Australia"
+      ]
+    },
+    {
+      "blanked": "Expired food, fungus found at ______ BigBasket Pune dark stores",
+      "answer": "Amazon",
+      "options": [
+        "Agniveers",
+        "Trump-Xi-Putin",
+        "Amazon",
+        "Opens"
+      ]
+    },
+    {
+      "blanked": "Google gives IIT ______ $5 million to boost advanced AI research, train next generation",
+      "answer": "Kharagpur",
+      "options": [
         "Kharagpur",
-        "Nitish",
-        "Doses"
+        "Astronomers",
+        "Every",
+        "Ekta"
+      ]
+    },
+    {
+      "blanked": "Bullets rain from helicopter, explosions on ground: How Mexico hunted down ______ most-wanted drug lord; w",
+      "answer": "FBIs",
+      "options": [
+        "Reveal",
+        "FBIs",
+        "Bewafaiyaan",
+        "Indias"
+      ]
+    },
+    {
+      "blanked": "Noel Tata's salvo sets stage for stormy Tata ______ board meet next week",
+      "answer": "Sons",
+      "options": [
+        "Day",
+        "Sons",
+        "Outages",
+        "Ravichander"
       ]
     }
   ]
