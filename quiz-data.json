@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-11-21T23:17:33.156Z",
+  "generatedAt": "2026-11-22T03:19:35.778Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "Iran Claimed It Damaged US F-16 Fighter Jet, Then Came A Fact-Check",
-    "Trump says Iran deal could last 20 years, claims US removed Tehran leadership twice, eyes 'ultimate regim",
+    "Humayun, Sher Shah and ‘one fort’: Pakistan minister highlights Purana Quila’s layered history at SCO for",
+    "Trump says Iran wants deal but terms unacceptable; Vance sidesteps question on his approval of war",
     "India ‘takes note’ of Trump-Xi-Putin summit, awaits more details",
-    "China's Pak backing during Op Sindoor part of bid to curb India's rise: US panel",
-    "A new Nepal, an old neighbour - Balendra Shah's India test on first visit",
-    "14 flights cancelled at Ranchi airport amid Cyclone 'Akvan' | HIGHLIGHTS",
-    "Reflecting on Purana Qila's history, Pakistan minister invokes Humanyun & Sher Shah Suri at SCO civilisat",
-    "PM Modi inaugurates Rs 4,280-crore Nitish Setu bridge over Ganga in Bihar",
-    "Yuzvendra Chahal Joins BJP, Gets Role In Party's OBC Morcha Committee",
-    "Guard of honour gaffe! UP police ‘mistakenly’ salutes Owaisi",
+    "Fossil fuel talks deadlock pushes COP31 climate summit into overtime",
+    "'Congress misled poor; my government moved 50 crore people out of poverty', says PM Modi in Bihar",
+    "Supreme Court allows lighting of lamp on deepathoon at Thirupparankundram as limited one-time arrangement",
+    "Skilled workers will be valued more than degree-holders: PM on AI impacting jobs",
+    "9 Devotees, Returning From Khatu Shyam Temple, Killed As Their Vehicle Rams Parked Truck In Rajasthan's Kota",
+    "PM Modi says people bought less gold on his advice, invokes Lal Bahadur Shastri: ‘India still has same character’ | India News",
+    "No Student Should Be Penalised Based On AI Detection Tool Alone: CJI Surya Kant",
     "France moves to take Rohingya genocide row to UN security council after Myanmar rejects ICJ verdict",
-    "Thousands march in Lisbon as living costs fuel anger",
-    "EU leaders' chair proposes new cuts to EU 2028-2034 budget draft, suggests digital tax",
     "Mexican air force choppers unleash minigun fire on cartel fighters after drug lord's arrest in Sinaloa: Video | World News",
+    "At least 30 houses of Awami members set on fire in Bangladesh",
+    "Iran Claimed It Damaged US F-16 Fighter Jet, Then Came A Fact-Check",
     "Bitcoin falls to more than 2-year low as global markets sink",
-    "RBI Governor Sanjay Malhotra urges banks to step up lending to small, micro enterprises for greater...",
-    "Expired food, fungus found at Amazon, BigBasket Pune dark stores",
     "Four weeks of gains! Sensex, Nifty scale 9-month highs on record FII buying",
+    "RBI Governor Sanjay Malhotra urges banks to step up lending to small, micro enterprises for greater...",
+    "US market regulator probes issues in Nvidia's accounting practices: Report",
     "Grand Theft Auto VI smashes records with $3.79 billion in day-one retail sales",
-    "The Apple TV Black Friday Deal Gets You 6 Months of Ad-free Streaming for Half the Price",
     "GTA VI fever grips Srinagar, gaming cafes buzz with excitement after 13-year wait",
     "iPhone Air 2 shows off its dual-camera design in another dummy unit leak - GSMArena.com news",
-    "Newlyweds dazzle in red and black as CM Vijay, Rajinikanth join stars at Kavya Maran's grand reception",
-    "Om Box Office Day 1 Occupancy & Bms Sales Report: Opens 122% Higher Than Dhanush’s Last Outing, Sold 200 Tickets Every Single Minute In Last 6 Hours!",
-    "‘Ramayana’ Star Sai Pallavi, Ravi Kishan’s ‘Spider-Man’ Anecdote, Grammy Winner Ricky Kej Light Up International Film Festival of India Opening in Goa"
+    "Dimitris Skokos: Exploring New Frontiers in CD28 Bispecific Immunotherapy",
+    "Political rivals, cinema veterans share spotlight at Anirudh-Kavya wedding reception",
+    "‘Ramayana’ Star Sai Pallavi, Ravi Kishan’s ‘Spider-Man’ Anecdote, Grammy Winner Ricky Kej Light Up International Film Festival of India Opening in Goa",
+    "Diljit Dosanjh's Ahmedabad concert faces objection over four songs, Dr Pandit Rao Dharennavar warns: 'If"
   ],
   "quiz": [
     {
-      "blanked": "Om Box Office Day 1 Occupancy & Bms Sales Report: ______ 122% Higher Than Dhanush’s Last Outing, Sold 200 Tickets Every Single Minute In Last 6 Hours!",
-      "answer": "Opens",
+      "blanked": "PM Modi says people bought less gold on his advice, invokes ______ Bahadur Shastri: ‘India still has same character’ | India News",
+      "answer": "Lal",
       "options": [
-        "Sensex",
-        "Opens",
-        "Siraj",
-        "Sher"
+        "Then",
+        "Spacecraft",
+        "Khatu",
+        "Lal"
       ]
     },
     {
-      "blanked": "Loss of measles elimination status threatens pregnant women and infants - ______",
-      "answer": "News-Medical",
+      "blanked": "Scientists develop an ______ camera that detects approaching bears and automatically sprays a deterre",
+      "answer": "AI-powered",
       "options": [
-        "Minute",
-        "BigBasket",
-        "News-Medical",
-        "Winner"
+        "Dosanjhs",
+        "Rams",
+        "AI-powered",
+        "Research"
       ]
     },
     {
-      "blanked": "Mexican air force choppers unleash minigun fire on cartel fighters after drug lord's arrest in ______ Video | World News",
-      "answer": "Sinaloa",
+      "blanked": "No ______ Should Be Penalised Based On AI Detection Tool Alone: CJI Surya Kant",
+      "answer": "Student",
       "options": [
-        "BJP",
-        "Damaged",
-        "Role",
-        "Sinaloa"
+        "Student",
+        "Bispecific",
+        "Ricky",
+        "Offer"
       ]
     },
     {
-      "blanked": "A pill that makes pancreatic cancer disappear? ______ the daraxonrasib trial found",
-      "answer": "What",
+      "blanked": "Iran Claimed It ______ US F-16 Fighter Jet, Then Came A Fact-Check",
+      "answer": "Damaged",
       "options": [
-        "What",
-        "Occupancy",
-        "Marans",
-        "Vijay"
+        "Masood",
+        "Devotees",
+        "Worldwide",
+        "Damaged"
       ]
     },
     {
-      "blanked": "France moves to take ______ genocide row to UN security council after Myanmar rejects ICJ verdict",
-      "answer": "Rohingya",
+      "blanked": "Dimitris Skokos: Exploring New Frontiers in CD28 ______ Immunotherapy",
+      "answer": "Bispecific",
       "options": [
-        "Light",
-        "Rohingya",
-        "Damaged",
-        "Masood"
+        "Myanmar",
+        "Bispecific",
+        "Adults",
+        "Dharennavar"
       ]
     },
     {
-      "blanked": "Cummins gets 'unanimous support' from Cricket ______ amid 2018 fallout",
-      "answer": "Australia",
+      "blanked": "Political rivals, cinema veterans share spotlight at ______ wedding reception",
+      "answer": "Anirudh-Kavya",
       "options": [
-        "Setu",
+        "Pakistan",
+        "Comment",
         "Sher",
-        "Office",
-        "Australia"
+        "Anirudh-Kavya"
       ]
     },
     {
-      "blanked": "The Apple TV Black Friday Deal ______ You 6 Months of Ad-free Streaming for Half the Price",
-      "answer": "Gets",
+      "blanked": "9 Devotees, Returning From ______ Shyam Temple, Killed As Their Vehicle Rams Parked Truck In Rajasthan's Kota",
+      "answer": "Khatu",
       "options": [
-        "Joins",
-        "Reception",
-        "Meet",
-        "Gets"
+        "Offer",
+        "Bahadur",
+        "Should",
+        "Khatu"
       ]
     },
     {
-      "blanked": "Glucose Patterns Reveal Metabolic Differences in Adults with ______",
-      "answer": "Diabetes",
+      "blanked": "Ramayana Worldwide Box Office Day 16: Becomes Only 2nd Non-Sequel Indian Film To Enter The ______ Crore Club!",
+      "answer": "1600",
       "options": [
-        "Price",
-        "Diabetes",
-        "Indias",
-        "Role"
+        "Myanmar",
+        "Rams",
+        "1600",
+        "Rao"
       ]
     },
     {
-      "blanked": "Trump says ______ deal could last 20 years, claims US removed Tehran leadership twice, eyes 'ultimate regim",
-      "answer": "Iran",
+      "blanked": "Humayun, Sher Shah and ‘one fort’: Pakistan minister highlights Purana ______ layered history at SCO for",
+      "answer": "Quilas",
       "options": [
-        "Film",
-        "Among",
-        "Gets",
-        "Iran"
+        "Myanmar",
+        "Bihar",
+        "Quilas",
+        "Nifty"
       ]
     },
     {
-      "blanked": "Yuzvendra Chahal Joins BJP, Gets Role In Party's ______ Morcha Committee",
-      "answer": "OBC",
+      "blanked": "NASA Voyager 1 Spacecraft Reaches Historic One ______ Distance Milestone From Earth",
+      "answer": "Light-Day",
       "options": [
-        "Fact-Check",
-        "OBC",
-        "Tehran",
-        "One"
-      ]
-    },
-    {
-      "blanked": "Reflecting on Purana Qila's history, Pakistan minister invokes Humanyun & Sher Shah ______ at SCO civilisat",
-      "answer": "Suri",
-      "options": [
-        "Diabetes",
-        "Bms",
-        "Partys",
-        "Suri"
-      ]
-    },
-    {
-      "blanked": "NASA Voyager 1 ______ Reaches Historic One Light-Day Distance Milestone From Earth",
-      "answer": "Spacecraft",
-      "options": [
+        "Myanmar",
+        "FII",
         "2018",
-        "Balendra",
-        "Opens",
-        "Spacecraft"
+        "Light-Day"
+      ]
+    },
+    {
+      "blanked": "Michelle Mitchell: New Pancreatic ______ Trial Results Offer Hope, but More Research Is Needed",
+      "answer": "Cancer",
+      "options": [
+        "MPs",
+        "SCO",
+        "Student",
+        "Cancer"
+      ]
+    },
+    {
+      "blanked": "Four weeks of gains! Sensex, Nifty scale 9-month highs on record ______ buying",
+      "answer": "FII",
+      "options": [
+        "FII",
+        "Darren",
+        "News",
+        "Pallavi"
       ]
     }
   ]
