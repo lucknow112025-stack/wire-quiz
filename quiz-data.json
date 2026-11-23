@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-11-22T23:57:26.265Z",
+  "generatedAt": "2026-11-23T05:59:58.752Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "Pak minister seeks India's invitation for talks on Indus Waters Treaty, avoids questions on past threat",
-    "PM Modi, Nepal PM Balendra Shah to hold talks on Nov 23; energy, connectivity on agenda",
+    "Nepal PM India visit LIVE: Balen Shah begins bilateral visit; energy, connectivity on agenda",
+    "India's food regulator finds sample of Bisleri water to be unsafe",
     "COP31 talks fail as EU, others reject any climate deal without language on a fossil fuel phase-out",
-    "Gadi Eisenkot Invites Netanyahu For Talks To Form New Israeli Government",
-    "PM Modi says people bought less gold on his advice, invokes Lal Bahadur Shastri: ‘India still has same character’ | India News",
-    "Supreme Court granted final relief at interim stage in Deepam row: Tamil Nadu in review petition",
-    "Hyderabad Police issue alert over terror threat email; security checks conducted at key locations",
-    "India's food regulator to take Bisleri to court over water quality finding",
-    "'90 seats, one crore votes': Revanth Reddy sets Congress' 2028 Telangana target",
-    "8 killed, 2 injured as car rams into tree in Tamil Nadu's Tiruchirappalli",
-    "At least 4 killed in Russian drone attacks on Kyiv region, officials say",
-    "Indian-origin man in ICE custody after stealing woman's private photos via AirDrop",
-    "After the Shenzhen summit",
-    "Watch: Missile seen approaching aircraft in video as Iran claims US F-16 was hit",
-    "No Alerts, No Refund: SpiceJet Passengers Left Scrambling Amid Cancellations",
-    "Tata Steel announces ₹28,000 cr deal with APL Apollo Tubes for two units",
-    "Go public or stay private: Tata Sons gears up for decision this week",
-    "CII proposes 15 financial sector reforms to support India's $26.5 trillion economy target",
-    "Save up to $150 on two Apple Watch Ultra models ahead of Black Friday",
+    "High drama at Bengaluru airport as Sharmila arrives to visit ‘family bungalow’, police stop her",
+    "Aggressive Iran, Markets Slump: Trump Made '3 Predictions' Before US Midterms",
+    "Pak minister seeks India's invitation for talks on Indus Waters Treaty, avoids questions on past threat",
+    "Congress-SP seat-sharing talks likely on November 23",
+    "1 Crore Votes, 90 Seats: Congress Confident Of 2nd Term In Telangana",
+    "CPCB’s AQI method understates severity of Delhi’s worst pollution days | India News",
+    "'It's stunning!' Putin praises India's linguistic diversity, calls its civilisation fascinating",
+    "US-Iran War Live Updates: Oil prices fall amid equity selloff though Tehran war attacks limit losses",
+    "258 seats secured: US Democrats win largest House tally since 1992",
+    "2026 Asia Power Index Report",
+    "Watch: Russian warship hit by suspected Ukrainian drones at Benghazi naval base, bursts into flames",
+    "Financials drag Indian shares down on profit-taking after four-week rally",
+    "Tata Steel to buy $1.67 billion stake in India’s largest steel pipe maker; shares plunge nearly 5%",
+    "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+    "Sensex falls 1,200 pts from day's high, Nifty near 25,650: Profit booking among key reasons behind...",
+    "Apple TV's Black Friday deal goes hard: Get 6 months of streaming for over 50% off",
     "Who skipped work for GTA VI? Dutch staff, young men, and US soldiers",
+    "Apple iPhone 18 Release Date: Production Milestone Suggests March Launch Timeline",
     "What Is Apple (AAPL) Planning With Its New Autonomous AI Agent?",
-    "As GTA VI Fever Heats Up, One Employer Adds Gaming PTO Benefit",
-    "Ramayana Box Office Day 18 Advance Booking: Pathaan Already Out Of The Top 10 3rd Sundays – Will It Touch Dhurandhar’s 40.3 Crore?",
-    "Nayanthara, Rashmika, Vijay Deverakonda Among Guests At Anirudh Ravichander-Kavya Maran's Chennai Wedding Reception",
-    "'O.M: Operation Mole' sets new opening-day worldwide record for Mammootty | Box Office"
+    "Om North America Box Office: Dhanush’s Film Misses Top 5 Biggest Kollywood Openings Of 2026, Trails Parasakthi",
+    "Ramayana box office collection Day 18 Live updates: Ranbir Kapoor film needs Rs 206.55 cr to eclipse Dhurandhar 2, set to enter Rs 1,700 cr club today",
+    "Miley Cyrus struggled to hold back tears while exchanging vows with Maxx Morando; newlyweds share romanti"
   ],
   "quiz": [
     {
-      "blanked": "Tata Steel announces ₹28,000 cr deal with ______ Apollo Tubes for two units",
-      "answer": "APL",
+      "blanked": "India's food regulator finds sample of ______ water to be unsafe",
+      "answer": "Bisleri",
+      "options": [
+        "Earth",
+        "25650",
+        "Bisleri",
+        "Apple"
+      ]
+    },
+    {
+      "blanked": "2026 ______ Power Index Report",
+      "answer": "Asia",
+      "options": [
+        "LIVE",
+        "Anthropic",
+        "Asia",
+        "Mercury"
+      ]
+    },
+    {
+      "blanked": "As NASA's Voyager 1 reaches one light-day from Earth, Microsoft AI CEO Mustafa ______ says: Built with",
+      "answer": "Suleyman",
+      "options": [
+        "Suleyman",
+        "Get",
+        "Voyager",
+        "Major"
+      ]
+    },
+    {
+      "blanked": "Nepal PM India visit LIVE: ______ Shah begins bilateral visit; energy, connectivity on agenda",
+      "answer": "Balen",
+      "options": [
+        "Eve",
+        "Balen",
+        "Earth",
+        "When"
+      ]
+    },
+    {
+      "blanked": "Gastric Cancer Awareness Month 2026: A Global Perspective on Risk, Prevention, and ______",
+      "answer": "Progress",
+      "options": [
+        "Less",
+        "War",
+        "Progress",
+        "House"
+      ]
+    },
+    {
+      "blanked": "Sensex falls ______ pts from day's high, Nifty near 25,650: Profit booking among key reasons behind...",
+      "answer": "1200",
+      "options": [
+        "1200",
+        "Dhoni",
+        "Congress",
+        "Risk"
+      ]
+    },
+    {
+      "blanked": "Apple iPhone 18 Release Date: Production Milestone ______ March Launch Timeline",
+      "answer": "Suggests",
       "options": [
         "Bisleri",
-        "APL",
-        "Left",
-        "Ravichander"
+        "Singh",
+        "Gifford",
+        "Suggests"
       ]
     },
     {
-      "blanked": "'90 seats, one crore votes': Revanth Reddy sets Congress' ______ Telangana target",
-      "answer": "2028",
+      "blanked": "1 Crore Votes, 90 Seats: Congress ______ Of 2nd Term In Telangana",
+      "answer": "Confident",
       "options": [
-        "Moon",
-        "Kavya",
-        "2028",
-        "Shastri"
+        "GTA",
+        "Confident",
+        "March",
+        "Top"
       ]
     },
     {
-      "blanked": "Indian-origin man in ICE custody after stealing woman's private photos via ______",
-      "answer": "AirDrop",
+      "blanked": "New pancreatic cancer drug shrinks tumours, halts progression in ______ patients in early-stage trial",
+      "answer": "90%",
       "options": [
-        "AirDrop",
-        "Ravichander",
-        "Court",
-        "Missile"
+        "Box",
+        "Indian",
+        "Month",
+        "90%"
       ]
     },
     {
-      "blanked": "A giant star swallowed another star. ______ Webb reveals the aftermath",
-      "answer": "James",
+      "blanked": "US-Iran War Live Updates: Oil prices fall amid equity selloff though ______ war attacks limit losses",
+      "answer": "Tehran",
       "options": [
-        "Black",
-        "James",
-        "Christmas",
-        "Touch"
+        "Gifford",
+        "Tehran",
+        "Parasakthi",
+        "Awareness"
       ]
     },
     {
-      "blanked": "CII proposes 15 financial sector reforms to support ______ $26.5 trillion economy target",
-      "answer": "Indias",
+      "blanked": "SpaceX’s historic ______ catch strengthens bull case, but analysts await proof of rapid reuse",
+      "answer": "Starship",
       "options": [
-        "Nadus",
-        "26.5",
-        "Operation",
-        "Indias"
+        "Votes",
+        "Report",
+        "Starship",
+        "Nifty"
       ]
     },
     {
-      "blanked": "Ramayana Box Office Day 18 Advance Booking: Pathaan Already Out Of The Top 10 3rd Sundays – Will It Touch Dhurandhar’s ______ Crore?",
-      "answer": "40.3",
-      "options": [
-        "Among",
-        "One",
-        "40.3",
-        "Score"
-      ]
-    },
-    {
-      "blanked": "Supreme Court granted final relief at interim stage in Deepam row: Tamil ______ in review petition",
-      "answer": "Nadu",
-      "options": [
-        "Apple",
-        "Videos",
-        "Nadu",
-        "Among"
-      ]
-    },
-    {
-      "blanked": "Live Cricket ______ Schedule, Latest News, Stats & Videos",
-      "answer": "Score",
-      "options": [
-        "Indias",
-        "Balendra",
-        "Score",
-        "Agent"
-      ]
-    },
-    {
-      "blanked": "Who skipped work for GTA VI? ______ staff, young men, and US soldiers",
-      "answer": "Dutch",
-      "options": [
-        "Guests",
-        "Autonomous",
-        "India",
-        "Dutch"
-      ]
-    },
-    {
-      "blanked": "Hyderabad ______ issue alert over terror threat email; security checks conducted at key locations",
-      "answer": "Police",
-      "options": [
-        "Black",
-        "Among",
-        "Police",
-        "Eisenkot"
-      ]
-    },
-    {
-      "blanked": "Rishabh Pant creates history! ______ star climbs to all-time No. 2 in Test cricket record",
+      "blanked": "New Zealand and ______ play out stalemate on stubborn Basin Reserve pitch",
       "answer": "India",
       "options": [
-        "Cancellations",
-        "2026",
-        "Ravichander",
-        "India"
-      ]
-    },
-    {
-      "blanked": "PM Modi, Nepal PM ______ Shah to hold talks on Nov 23; energy, connectivity on agenda",
-      "answer": "Balendra",
-      "options": [
-        "Balendra",
-        "GTA",
-        "Out",
-        "Sons"
+        "India",
+        "Democrats",
+        "Global",
+        "Finals"
       ]
     }
   ]
