@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-11-24T14:17:34.701Z",
+  "generatedAt": "2026-11-24T23:34:10.424Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "Thirupparankundram 'deepathoon' row LIVE: Karthigai Deepam lit at traditional spot despite Supreme court order",
+    "New US Tariffs Coming, India Could Be Hit Harder Than Japan And EU: Report",
+    "Uttar Pradesh Assembly elections: SP offers Congress 26 seats in U.P. polls, talks continue",
+    "Thiruparankundram Deepam Row: Madras High Court Asks State To Reconsider Prohibitory Orders In Madurai,...",
     "Akali, BJP To Fight Punjab Polls Together: What Led To Split 6 Years Ago",
-    "Uttar Pradesh Assembly elections: 26 seats offered to Congress, says Samajwadi Party",
-    "Saurav Das: Cockroach Janta Party leader says he was stopped from flying to UK for Oxford event",
-    "Sheikh Hasina plans to return to Bangladesh from exile on December 16",
-    "India announces $1.62 billion package to bolster ties with flood-hit Nepal",
+    "India pledges $1.6bn in flood relief for Nepal as Balendra Shah visits Modi",
+    "Nvidia's Huang said he violated code of conduct, source says",
+    "Indian government has 'lost the plot', says 'cockroach' leader barred from UK flight",
+    "Palakkad boy takes late grandfather’s revolver to school, classmate shot in classroom; mom to be booked",
     "FSSAI clarifies Bisleri Goa water sample case: Single batch found non-compliant over PAH, sale prohibition order issued for batch GO 270",
-    "CJI-led Bench Of Supreme Court To Hear Umar Khalid, Sharjeel Imam Bail Pleas On Nov 25",
-    "China’s mega dam takes shape near Arunachal Pradesh: Satellite data",
-    "SCO: Pakistan set to invite India for culture ministers' meeting",
-    "Pope Francis' Private Diary Reveals Visions Of Devil And Hell",
-    "Thousands Protest In Karachi Against Asim Munir's Gamble To Redraw Pakistan",
-    "Explosion kills 6, injures 10 in Vietnam capital Hanoi",
+    "What's \"Garibi?\" Nirmala Sitharaman's Deep Dive In LinkedIn Post",
+    "China announces shock corruption probe into Politburo member",
+    "Gadi Eisenkot Invites Netanyahu For Talks To Form New Israeli Government",
     "UN warns Black Sea drone attacks threaten food exports as Russia-Ukraine war widens",
-    "How Jensen Huang's Comeback Compares To Return Of Steve Jobs, Sam Altman",
-    "Hyundai Motor India to Increase Prices by Up to Rs 8,000 From December 1",
+    "Trump-Putin-Xi Jinping meeting: China pushes Shenzhen system to co-direct global order",
+    "Hyundai Motor India, Tata Motors Passenger Vehicles to raise prices from December 1",
+    "Google Dismisses Mass Layoff Rumours In India, Says Only 30 Cloud Roles Cut: \"Totally Inaccurate\"",
     "₹30,707 cr mcap erased as deal rattles Tata Steel, APL Apollo shareholders",
-    "US futures, European stocks slip as Nvidia rally cools",
+    "Nvidia shares fall by 6% following Huang return rally",
     "HBO Max's Black Friday deal is top dog once again: Get half off a year of streaming",
-    "Nothing's screen-less AI device gets an official launch date - GSMArena.com news",
-    "GTA VI Launch Fever Lifts PS5 and Xbox Sales in US as Console Prices Spike in China",
-    "Motorola launches Edge 70 Neo for premium segment buyers in India",
-    "Fawad Khan-Mahira Khan's Pakistani Series Jo Bachay Hain Sang Samait Lo To Stream On Netflix From December 4, First Look Out",
-    "Emmys: Vijay Sethupathi Shines, Vir Das Loses Out",
-    "'Avengers: Doomsday' final trailer out: Robert Downey Jr's Doctor Doom targets Steve Rogers' family, Fant"
+    "GTA 6 Rakes In approximately $3.7 Billion on Launch Day; Hacked Leak Raises Specter of Unofficial PC Version",
+    "Motorola Signature 27 launches in Germany cheaper than expected",
+    "Samsung's Galaxy S27 Ultra to Drop Laser Autofocus and 3x Zoom, Rely on AI Focus Instead",
+    "Ramayana Worldwide Box Office Day 19: Needs Less Than 25 Crore To Become 4th Highest-Grossing Indian Film",
+    "Inside ‘Avengers: Doomsday,’ Marvel’s ‘most ambitious project we’ve ever attempted’",
+    "'Avengers: Doomsday' gets final trailer, explaining why Steve Rogers is back and showing an epic battle with the X-Men"
   ],
   "quiz": [
     {
-      "blanked": "US futures, European stocks slip as ______ rally cools",
-      "answer": "Nvidia",
+      "blanked": "Trump-Putin-Xi Jinping meeting: ______ pushes Shenzhen system to co-direct global order",
+      "answer": "China",
       "options": [
-        "Hanoi",
-        "Launch",
-        "Nvidia",
-        "43.74"
+        "China",
+        "Garibi",
+        "Seven",
+        "Fawad"
       ]
     },
     {
-      "blanked": "Emmys: ______ Sethupathi Shines, Vir Das Loses Out",
-      "answer": "Vijay",
+      "blanked": "Mizoram Reports Declining ______ Cases, 85,479 People Screened in Seven Months",
+      "answer": "HIV",
       "options": [
-        "Vijay",
-        "Sindarov",
-        "Sea",
-        "8000"
+        "Gill",
+        "HIV",
+        "Morocco",
+        "World"
       ]
     },
     {
-      "blanked": "'Avengers: Doomsday' final trailer out: Robert Downey Jr's Doctor Doom targets Steve Rogers' family, ______",
-      "answer": "Fant",
+      "blanked": "GTA 6 Rakes In approximately $3.7 ______ on Launch Day; Hacked Leak Raises Specter of Unofficial PC Version",
+      "answer": "Billion",
       "options": [
-        "Vir",
-        "Teams",
-        "Return",
-        "Fant"
+        "Billion",
+        "Sooryavanshi",
+        "Congo",
+        "Dismisses"
       ]
     },
     {
-      "blanked": "Air pollution doesn’t just harm your lungs. It could increase your risk of ______",
-      "answer": "Alzheimers",
+      "blanked": "Motorola ______ 27 launches in Germany cheaper than expected",
+      "answer": "Signature",
       "options": [
-        "Years",
-        "Led",
-        "Worldwide",
-        "Alzheimers"
+        "Autofocus",
+        "High",
+        "Cloud",
+        "Signature"
       ]
     },
     {
-      "blanked": "₹30,707 cr mcap erased as deal rattles Tata ______ APL Apollo shareholders",
-      "answer": "Steel",
-      "options": [
-        "India",
-        "Steel",
-        "Vietnam",
-        "Crore"
-      ]
-    },
-    {
-      "blanked": "November’s full moon rises tonight! Here’s how to see the ______ Moon supermoon",
-      "answer": "Beaver",
-      "options": [
-        "Khans",
-        "Beaver",
-        "Split",
-        "Pradesh"
-      ]
-    },
-    {
-      "blanked": "Planet Hunters Stumble Upon Rare ______ Star System With Two Dead Stars",
-      "answer": "Triple",
-      "options": [
-        "Two",
-        "Javokhir",
-        "Ago",
-        "Triple"
-      ]
-    },
-    {
-      "blanked": "Over ______ People Tested For HIV In Mizoram Between April And October 2026",
-      "answer": "85000",
-      "options": [
-        "Major",
-        "Film",
-        "85000",
-        "Supreme"
-      ]
-    },
-    {
-      "blanked": "HBO Max's Black Friday deal is top dog once again: ______ half off a year of streaming",
-      "answer": "Get",
-      "options": [
-        "Get",
-        "Against",
-        "Earth",
-        "What"
-      ]
-    },
-    {
-      "blanked": "BepiColombo Enters Orbit Around Mercury Despite “Software ______",
-      "answer": "Glitch",
-      "options": [
-        "Sethupathi",
-        "Spike",
-        "HPV",
-        "Glitch"
-      ]
-    },
-    {
-      "blanked": "UN warns Black ______ drone attacks threaten food exports as Russia-Ukraine war widens",
-      "answer": "Sea",
-      "options": [
-        "Deepam",
-        "1.62",
-        "PAH",
-        "Sea"
-      ]
-    },
-    {
-      "blanked": "Motorola launches Edge 70 Neo for premium segment buyers in ______",
+      "blanked": "Hyundai Motor ______ Tata Motors Passenger Vehicles to raise prices from December 1",
       "answer": "India",
       "options": [
-        "India",
-        "Satellite",
-        "Nepal",
-        "Team"
+        "Game",
+        "Version",
+        "Mass",
+        "India"
+      ]
+    },
+    {
+      "blanked": "Air Pollution May Trigger Dementia by Reprogramming ______ Immune Cells: Study",
+      "answer": "Brains",
+      "options": [
+        "Politburo",
+        "Morocco",
+        "Film",
+        "Brains"
+      ]
+    },
+    {
+      "blanked": "Senegal reinstated as Africa Cup of Nations winners over Morocco by ______ ruling",
+      "answer": "CAS",
+      "options": [
+        "Sooryavanshi",
+        "Led",
+        "Morocco",
+        "CAS"
+      ]
+    },
+    {
+      "blanked": "What's \"Garibi?\" Nirmala Sitharaman's ______ Dive In LinkedIn Post",
+      "answer": "Deep",
+      "options": [
+        "Unofficial",
+        "Day",
+        "X-Men",
+        "Deep"
+      ]
+    },
+    {
+      "blanked": "Roscosmos Launches ______ Humanoid Robot on Progress MS-36",
+      "answer": "Teledroid",
+      "options": [
+        "Teledroid",
+        "Earth",
+        "Ebola",
+        "Beaver"
+      ]
+    },
+    {
+      "blanked": "Nvidia's ______ said he violated code of conduct, source says",
+      "answer": "Huang",
+      "options": [
+        "Huang",
+        "Steel",
+        "State",
+        "Evolution"
+      ]
+    },
+    {
+      "blanked": "Gadi Eisenkot Invites Netanyahu For ______ To Form New Israeli Government",
+      "answer": "Talks",
+      "options": [
+        "Launch",
+        "Talks",
+        "Single",
+        "Dust"
+      ]
+    },
+    {
+      "blanked": "DR Congo: Concern for trapped ______ workers as violence against women and girls deepens",
+      "answer": "Ebola",
+      "options": [
+        "Balendra",
+        "Indian",
+        "Ebola",
+        "Inaccurate"
       ]
     }
   ]
