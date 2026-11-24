@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-11-23T17:51:57.667Z",
+  "generatedAt": "2026-11-24T03:41:46.068Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "Nvidia reinstates Jensen Huang as CEO after U.S. government input",
-    "India finds sample of popular Bisleri water unsafe, to widen checks to all brands",
-    "Nepal PM Balendra Shah visit: India to give $1.62bn economic package",
-    "Tamil Nadu Files Review Petition Against Supreme Court Order Allowing Karthigai Lamp Lighting At...",
-    "WhatsApp Espionage Scare: Nationwide Audit Launched Across Defence, Security Establishments | Exclusive",
-    "'Stop Acting Like Bahubali': Supreme Court Chides Bihar Sessions Judge For Order Punishing SP For...",
-    "Delhi Court Issues Non-Bailable Warrants Against YouTuber Dhruv Rathee In 2018 Defamation Case",
-    "Supreme Court says will consider allowing only BS-VI vehicles in Delhi-NCR",
-    "West Bengal SIR: Supreme Court orders ECI, Calcutta High Court to increase Tribunals hearing appeals",
-    "Legal notice to Sonia Gandhi over Savarkar's 'distorted portrayal' in her memoir; seeks unconditional apology",
-    "Schools across Germany, Denmark receive bomb threats",
+    "India pledges $1.6bn in flood relief for Nepal as Balendra Shah visits Modi",
+    "What stands atop Thiruparankundram hill is a survey pillar, ascertains Tamil Nadu government report",
+    "CJP’s Saurav Das claims he was stopped at Delhi airport from travelling to U.K.",
+    "Collector files complaint against Kallakurichi TVK MLA",
+    "Pak minister seeks India's invitation for talks on Indus Waters Treaty, avoids questions on past threat",
     "Cop31: Why the UN climate summit ended in victory for fossil fuel producing nations",
-    "Indonesia seizes Bangladesh-bound cargo ship carrying chemicals from China that could make 100 missiles",
-    "Netanyahu, Eisenkot parties end talks without deal on forming Israel government",
+    "No Winter Session of Parliament? Skipped only four times in history",
+    "UP polls: SP-Congress seat-sharing talks last 15 minutes, final agreement in three days",
+    "Mumbai-Bengaluru Vande Bharat Sleeper Could Soon Get A Maharashtrian Food Upgrade",
+    "'Unable to digest': BJP takes jibe at Rahul Gandhi after India ranks 3rd on Asia Power Index | India News",
+    "Why garment workers remain trapped in wage struggles",
+    "Ukraine war briefing: Kyiv’s strike on Russian ships in Benghazi condemned by Libya’s UN-backed government",
+    "After the Shenzhen summit",
+    "Iran's Fereydun Plan to defy US blockade: 14 tankers ready for showdown, Gulf oil facilities at stake",
+    "Nvidia reinstates Jensen Huang as CEO after U.S. government input",
     "Stock Market Today Highlights November 23: Markets take heavy drubbing dragged by banks; Sensex plunges 1,484 pts, Nifty dives to 25,349.65",
-    "Gold (XAUUSD) & Silver Price Forecast: Gold Rebounds From 14-Month Low as Hike Bets Cool, Can $3,595 Hold?",
-    "India's Tata Steel to take control of APL Apollo in deal worth up to $3.47 billion",
-    "After 26 years, Gold Spot all set for comeback!",
-    "Black Friday Prime Video add-on deals are here, from Apple TV to HBO Max",
+    "Stock Market Holiday: Share Markets Shut For Guru Nanak Jayanti Today. Are Banks Closed Too?",
+    "SpiceJet gets a massive thumbs down from flyers in survey",
     "Focus on Africa | What it's like to play GTA 6",
-    "Apple may launch iPhone 18e, new MacBook Neo and iPads in early 2027: Here is what to expect from its product lineup",
-    "GTA 6: 5 Most Beautiful Locations in Leonida to Visit First, Ranked",
-    "Ramayana Part One Box Office Collections: Ranbir Kapoor and Yash film does well on 3rd Sunday, Nets Rs. 911 Cr in 18 days",
-    "Marvel Officially Adds New ‘Avengers: Doomsday’ Footage to Disney+",
-    "'O.M: Operation Mole' box office collections day 3: Dhanush, Sai Pallavi and Mammootty's film crosses Rs"
+    "Garmin smartwatch update makes dogs official workout partners with profiles and badges",
+    "Black Friday streaming deals cut Apple TV to $6.99/mo, Paramount Plus to $2.99/mo",
+    "CAD images suggest redesigned camera bump for iPhone 18e",
+    "Rajat Dalal Warns Avinash Mishra To Stay Away From Eisha Singh Amid Breakup Row",
+    "Ramayana Worldwide Box Office: 43.74 Crore Away From Becoming The 4th Highest-Grossing Film In The History Of Indian Cinema!",
+    "Rajinikanth, Ajith Kumar Share A Warm Hug At Anirudh Ravichander-Kavya Maran's Wedding Reception"
   ],
   "quiz": [
     {
-      "blanked": "India's Tata ______ to take control of APL Apollo in deal worth up to $3.47 billion",
-      "answer": "Steel",
+      "blanked": "After the ______ summit",
+      "answer": "Shenzhen",
       "options": [
-        "Steel",
-        "Chides",
+        "Hug",
+        "India",
+        "Shenzhen",
+        "Prevalence"
+      ]
+    },
+    {
+      "blanked": "Black Friday streaming deals cut Apple TV to $6.99/mo, Paramount ______ to $2.99/mo",
+      "answer": "Plus",
+      "options": [
+        "Downey",
+        "Marans",
+        "Holiday",
+        "Plus"
+      ]
+    },
+    {
+      "blanked": "Ramayana Worldwide ______ Office: 43.74 Crore Away From Becoming The 4th Highest-Grossing Film In The History Of Indian Cinema!",
+      "answer": "Box",
+      "options": [
+        "Fereydun",
+        "Trial",
+        "Box",
+        "Pale"
+      ]
+    },
+    {
+      "blanked": "ICMR’s SAMPADA Survey Finds Lower Anaemia Prevalence Across ______ Groups; Severe Cases Below 2%",
+      "answer": "Age",
+      "options": [
+        "Age",
+        "Treated",
+        "Markets",
+        "Supermoon"
+      ]
+    },
+    {
+      "blanked": "Rajat Dalal Warns Avinash ______ To Stay Away From Eisha Singh Amid Breakup Row",
+      "answer": "Mishra",
+      "options": [
+        "Power",
+        "2018",
+        "Mishra",
+        "Share"
+      ]
+    },
+    {
+      "blanked": "Iran's Fereydun Plan to defy US blockade: 14 tankers ready for showdown, ______ oil facilities at stake",
+      "answer": "Gulf",
+      "options": [
+        "What",
         "Nadu",
-        "Defence"
+        "SAMPADA",
+        "Gulf"
       ]
     },
     {
-      "blanked": "Supreme Court says will consider allowing only ______ vehicles in Delhi-NCR",
-      "answer": "BS-VI",
+      "blanked": "What stands atop ______ hill is a survey pillar, ascertains Tamil Nadu government report",
+      "answer": "Thiruparankundram",
       "options": [
-        "Sachivjis",
-        "BS-VI",
-        "Friday",
-        "Severe"
+        "Launch",
+        "Russian",
+        "Thiruparankundram",
+        "Ravichander-Kavya"
       ]
     },
     {
-      "blanked": "Schools across Germany, ______ receive bomb threats",
-      "answer": "Denmark",
+      "blanked": "EC Approves Daraxonrasib for Previously ______ Metastatic Pancreatic Cancer",
+      "answer": "Treated",
       "options": [
-        "Ranked",
-        "Apollo",
-        "Denmark",
-        "Hold"
+        "Indian",
+        "Treated",
+        "Anaemia",
+        "43.74"
       ]
     },
     {
-      "blanked": "Cop31: ______ the UN climate summit ended in victory for fossil fuel producing nations",
-      "answer": "Why",
-      "options": [
-        "Jensen",
-        "Why",
-        "HBO",
-        "Supreme"
-      ]
-    },
-    {
-      "blanked": "Testicular cancer diagnosis: ______ explains whether removing affected testicle is the only option",
-      "answer": "Andrologist",
-      "options": [
-        "Nifty",
-        "Collections",
-        "India",
-        "Andrologist"
-      ]
-    },
-    {
-      "blanked": "After 26 years, Gold ______ all set for comeback!",
-      "answer": "Spot",
-      "options": [
-        "Spot",
-        "Nifty",
-        "Anands",
-        "Market"
-      ]
-    },
-    {
-      "blanked": "WHO congratulates ______ on administering over 10 million HPV vaccine doses",
-      "answer": "India",
-      "options": [
-        "Returns",
-        "India",
-        "1484",
-        "Nifty"
-      ]
-    },
-    {
-      "blanked": "Vishy Anand's ______ World Championship Predictions",
-      "answer": "Gukesh-Sindarov",
-      "options": [
-        "Gukesh-Sindarov",
-        "Yash",
-        "Shubman",
-        "Balendra"
-      ]
-    },
-    {
-      "blanked": "GTA 6: 5 Most Beautiful Locations in Leonida to Visit ______ Ranked",
-      "answer": "First",
-      "options": [
-        "First",
-        "Defence",
-        "3.47",
-        "Zealand"
-      ]
-    },
-    {
-      "blanked": "WhatsApp Espionage Scare: Nationwide ______ Launched Across Defence, Security Establishments | Exclusive",
-      "answer": "Audit",
-      "options": [
-        "Establishments",
-        "Audit",
-        "Indias",
-        "Operation"
-      ]
-    },
-    {
-      "blanked": "Panchayat 5 trailer: Phulera braces for new politics, twist in ______ love story",
-      "answer": "Sachivjis",
-      "options": [
-        "Sachivjis",
-        "Petition",
-        "Across",
-        "APL"
-      ]
-    },
-    {
-      "blanked": "Legal notice to Sonia ______ over Savarkar's 'distorted portrayal' in her memoir; seeks unconditional apology",
+      "blanked": "'Unable to digest': BJP takes jibe at Rahul ______ after India ranks 3rd on Asia Power Index | India News",
       "answer": "Gandhi",
       "options": [
-        "1484",
-        "Sunday",
-        "High",
-        "Gandhi"
+        "Benghazi",
+        "Gandhi",
+        "FIDE",
+        "Today"
+      ]
+    },
+    {
+      "blanked": "How To ______ FIDE World Championship 2026 Game 1",
+      "answer": "Watch",
+      "options": [
+        "Anirudh",
+        "Africa",
+        "Watch",
+        "Indian"
+      ]
+    },
+    {
+      "blanked": "Stock Market Today Highlights November 23: ______ take heavy drubbing dragged by banks; Sensex plunges 1,484 pts, Nifty dives to 25,349.65",
+      "answer": "Markets",
+      "options": [
+        "Index",
+        "Upgrade",
+        "Nepal",
+        "Markets"
+      ]
+    },
+    {
+      "blanked": "Collector files complaint against ______ TVK MLA",
+      "answer": "Kallakurichi",
+      "options": [
+        "BJP",
+        "Lower",
+        "Kallakurichi",
+        "Sensex"
       ]
     }
   ]
