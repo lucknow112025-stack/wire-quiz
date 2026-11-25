@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-11-24T23:34:10.424Z",
+  "generatedAt": "2026-11-25T05:40:17.684Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "New US Tariffs Coming, India Could Be Hit Harder Than Japan And EU: Report",
+    "US planning to hike tariffs on India, 15 other countries: Report",
     "Uttar Pradesh Assembly elections: SP offers Congress 26 seats in U.P. polls, talks continue",
-    "Thiruparankundram Deepam Row: Madras High Court Asks State To Reconsider Prohibitory Orders In Madurai,...",
+    "Shenzhou 24: Pakistan's first astronaut goes to space aboard Chinese rocket",
+    "2 Indians among 11 injured in Houthi attack on Saudi Arabia's financial hub",
     "Akali, BJP To Fight Punjab Polls Together: What Led To Split 6 Years Ago",
-    "India pledges $1.6bn in flood relief for Nepal as Balendra Shah visits Modi",
-    "Nvidia's Huang said he violated code of conduct, source says",
-    "Indian government has 'lost the plot', says 'cockroach' leader barred from UK flight",
-    "Palakkad boy takes late grandfather’s revolver to school, classmate shot in classroom; mom to be booked",
-    "FSSAI clarifies Bisleri Goa water sample case: Single batch found non-compliant over PAH, sale prohibition order issued for batch GO 270",
-    "What's \"Garibi?\" Nirmala Sitharaman's Deep Dive In LinkedIn Post",
-    "China announces shock corruption probe into Politburo member",
-    "Gadi Eisenkot Invites Netanyahu For Talks To Form New Israeli Government",
-    "UN warns Black Sea drone attacks threaten food exports as Russia-Ukraine war widens",
-    "Trump-Putin-Xi Jinping meeting: China pushes Shenzhen system to co-direct global order",
+    "Thirupparankundram 'deepathoon' row LIVE: Temple says Karthigai Deepam lit at Thiruparankundram hill 'as per age-old tradition'",
+    "Former members say EPG report was ‘highly positive’ for India-Nepal ties",
+    "Woman Gang-Raped By Colleagues In Delhi Cafe, 2 Women Among 3 Arrested",
+    "Bisleri controversy puts industry in hot water",
+    "Jammu couple miss Delhi-Guwahati flight as Duronto arrives nearly 4 hours late; consumer court orders Rai",
+    "2 children among 6 feared missing after aircraft crashes into waters off Mississippi",
+    "Australia’s security pact with Solomon Islands a blow to China’s influence in the Pacific",
+    "Israel’s Eisenkot secures first coalition partner in bid to form government",
+    "South Korea issues 'take shelter' warning after Russia aircraft fly near airspace",
+    "Nvidia's Jensen Huang says he is in therapy as comeback rally fades",
+    "Microsoft declares ‘Code Red’ after historic outage, internal memos show",
     "Hyundai Motor India, Tata Motors Passenger Vehicles to raise prices from December 1",
-    "Google Dismisses Mass Layoff Rumours In India, Says Only 30 Cloud Roles Cut: \"Totally Inaccurate\"",
-    "₹30,707 cr mcap erased as deal rattles Tata Steel, APL Apollo shareholders",
-    "Nvidia shares fall by 6% following Huang return rally",
-    "HBO Max's Black Friday deal is top dog once again: Get half off a year of streaming",
-    "GTA 6 Rakes In approximately $3.7 Billion on Launch Day; Hacked Leak Raises Specter of Unofficial PC Version",
+    "Asia’s stock markets dive as doubts to swirl over AI boom",
+    "GTA 6 Draws 39 Million PS5 Players in Four Days, Sony's Biggest Launch in 30 Years",
+    "Motorola launches Edge 70 Neo for premium segment buyers in India",
     "Motorola Signature 27 launches in Germany cheaper than expected",
-    "Samsung's Galaxy S27 Ultra to Drop Laser Autofocus and 3x Zoom, Rely on AI Focus Instead",
+    "Unauthorized 'GTA 6' PC port shut down by Rockstar Games' parent company",
     "Ramayana Worldwide Box Office Day 19: Needs Less Than 25 Crore To Become 4th Highest-Grossing Indian Film",
-    "Inside ‘Avengers: Doomsday,’ Marvel’s ‘most ambitious project we’ve ever attempted’",
-    "'Avengers: Doomsday' gets final trailer, explaining why Steve Rogers is back and showing an epic battle with the X-Men"
+    "Pakistani Netflix series starring Fawad Khan, Mahira Khan faces opposition in India, AICWA urges PM Modi",
+    "Puerto Rico's Jennifer Barreto Crowned Miss Universe 2026 Winner"
   ],
   "quiz": [
     {
-      "blanked": "Trump-Putin-Xi Jinping meeting: ______ pushes Shenzhen system to co-direct global order",
-      "answer": "China",
+      "blanked": "Nvidia's ______ Huang says he is in therapy as comeback rally fades",
+      "answer": "Jensen",
       "options": [
-        "China",
-        "Garibi",
-        "Seven",
-        "Fawad"
+        "Four",
+        "Tata",
+        "Universe",
+        "Jensen"
       ]
     },
     {
-      "blanked": "Mizoram Reports Declining ______ Cases, 85,479 People Screened in Seven Months",
-      "answer": "HIV",
+      "blanked": "WHO chief says staff evacuated from DR ______ hospital",
+      "answer": "Congo",
       "options": [
-        "Gill",
-        "HIV",
-        "Morocco",
-        "World"
-      ]
-    },
-    {
-      "blanked": "GTA 6 Rakes In approximately $3.7 ______ on Launch Day; Hacked Leak Raises Specter of Unofficial PC Version",
-      "answer": "Billion",
-      "options": [
-        "Billion",
-        "Sooryavanshi",
+        "Among",
+        "Netflix",
         "Congo",
-        "Dismisses"
+        "Motors"
       ]
     },
     {
-      "blanked": "Motorola ______ 27 launches in Germany cheaper than expected",
-      "answer": "Signature",
+      "blanked": "IIT ______ TB vaccine eyes human trials by mid-2027",
+      "answer": "Bhubaneswar-developed",
       "options": [
-        "Autofocus",
-        "High",
-        "Cloud",
-        "Signature"
+        "Evolution",
+        "Colleagues",
+        "Bhubaneswar-developed",
+        "Reprogramming"
       ]
     },
     {
-      "blanked": "Hyundai Motor ______ Tata Motors Passenger Vehicles to raise prices from December 1",
-      "answer": "India",
+      "blanked": "Australia’s security pact with Solomon ______ a blow to China’s influence in the Pacific",
+      "answer": "Islands",
       "options": [
-        "Game",
-        "Version",
-        "Mass",
-        "India"
+        "Korea",
+        "Test",
+        "Islands",
+        "Gukesh"
       ]
     },
     {
-      "blanked": "Air Pollution May Trigger Dementia by Reprogramming ______ Immune Cells: Study",
-      "answer": "Brains",
+      "blanked": "Ramayana Worldwide Box ______ Day 19: Needs Less Than 25 Crore To Become 4th Highest-Grossing Indian Film",
+      "answer": "Office",
       "options": [
-        "Politburo",
-        "Morocco",
+        "Pollution",
+        "Miss",
+        "Office",
+        "Punjab"
+      ]
+    },
+    {
+      "blanked": "Motorola Signature 27 launches in ______ cheaper than expected",
+      "answer": "Germany",
+      "options": [
+        "Pollution",
+        "Reaches",
+        "Germany",
+        "Modi"
+      ]
+    },
+    {
+      "blanked": "Unauthorized 'GTA 6' PC port shut down by Rockstar ______ parent company",
+      "answer": "Games",
+      "options": [
+        "Khan",
+        "Games",
+        "100",
+        "Indians"
+      ]
+    },
+    {
+      "blanked": "November's full moon rises tonight! Here's how to see the ______ Moon supermoon",
+      "answer": "Beaver",
+      "options": [
+        "December",
+        "Beaver",
+        "India-Nepal",
+        "Universe"
+      ]
+    },
+    {
+      "blanked": "Microsoft declares ______ Red’ after historic outage, internal memos show",
+      "answer": "Code",
+      "options": [
+        "Code",
+        "Eisenkot",
+        "Include",
+        "Cafe"
+      ]
+    },
+    {
+      "blanked": "Puerto Rico's Jennifer ______ Crowned Miss Universe 2026 Winner",
+      "answer": "Barreto",
+      "options": [
+        "Barreto",
+        "Houthi",
+        "Chinese",
+        "Film"
+      ]
+    },
+    {
+      "blanked": "Hyundai Motor India, Tata Motors ______ Vehicles to raise prices from December 1",
+      "answer": "Passenger",
+      "options": [
+        "Passenger",
+        "Gukesh",
+        "Jennifer",
+        "Chinas"
+      ]
+    },
+    {
+      "blanked": "Ben ______ registers for IPL 2027 auction, 12 Bangladesh players also listed",
+      "answer": "Stokes",
+      "options": [
         "Film",
-        "Brains"
-      ]
-    },
-    {
-      "blanked": "Senegal reinstated as Africa Cup of Nations winners over Morocco by ______ ruling",
-      "answer": "CAS",
-      "options": [
-        "Sooryavanshi",
-        "Led",
-        "Morocco",
-        "CAS"
-      ]
-    },
-    {
-      "blanked": "What's \"Garibi?\" Nirmala Sitharaman's ______ Dive In LinkedIn Post",
-      "answer": "Deep",
-      "options": [
-        "Unofficial",
-        "Day",
-        "X-Men",
-        "Deep"
-      ]
-    },
-    {
-      "blanked": "Roscosmos Launches ______ Humanoid Robot on Progress MS-36",
-      "answer": "Teledroid",
-      "options": [
-        "Teledroid",
-        "Earth",
-        "Ebola",
-        "Beaver"
-      ]
-    },
-    {
-      "blanked": "Nvidia's ______ said he violated code of conduct, source says",
-      "answer": "Huang",
-      "options": [
-        "Huang",
-        "Steel",
-        "State",
-        "Evolution"
-      ]
-    },
-    {
-      "blanked": "Gadi Eisenkot Invites Netanyahu For ______ To Form New Israeli Government",
-      "answer": "Talks",
-      "options": [
-        "Launch",
-        "Talks",
-        "Single",
-        "Dust"
-      ]
-    },
-    {
-      "blanked": "DR Congo: Concern for trapped ______ workers as violence against women and girls deepens",
-      "answer": "Ebola",
-      "options": [
-        "Balendra",
-        "Indian",
-        "Ebola",
-        "Inaccurate"
+        "Collection",
+        "Stokes",
+        "Huang"
       ]
     }
   ]
