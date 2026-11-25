@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-11-25T05:40:17.684Z",
+  "generatedAt": "2026-11-25T16:03:59.165Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "US planning to hike tariffs on India, 15 other countries: Report",
-    "Uttar Pradesh Assembly elections: SP offers Congress 26 seats in U.P. polls, talks continue",
-    "Shenzhou 24: Pakistan's first astronaut goes to space aboard Chinese rocket",
-    "2 Indians among 11 injured in Houthi attack on Saudi Arabia's financial hub",
-    "Akali, BJP To Fight Punjab Polls Together: What Led To Split 6 Years Ago",
-    "Thirupparankundram 'deepathoon' row LIVE: Temple says Karthigai Deepam lit at Thiruparankundram hill 'as per age-old tradition'",
-    "Former members say EPG report was ‘highly positive’ for India-Nepal ties",
-    "Woman Gang-Raped By Colleagues In Delhi Cafe, 2 Women Among 3 Arrested",
-    "Bisleri controversy puts industry in hot water",
-    "Jammu couple miss Delhi-Guwahati flight as Duronto arrives nearly 4 hours late; consumer court orders Rai",
-    "2 children among 6 feared missing after aircraft crashes into waters off Mississippi",
-    "Australia’s security pact with Solomon Islands a blow to China’s influence in the Pacific",
+    "Trump announces new tariffs on countries including India, undeterred by midterms defeat",
+    "Thiruparankundram | Plea In Supreme Court Seeks Direction To Light Deepathoon Lamp Using Flame From...",
+    "Saharanpur showdown: Why Akhilesh's 1st candidate list in UP has rattled Congress MP Imran Masood",
+    "Supreme Court sets aside Allahabad High Court order for CBI, ED enquiries into DA complaint against Rahul Gandhi",
+    "CJP's Saurav Das Moves Delhi High Court After Being Stopped From Travelling To UK, Hearing Tomorrow",
+    "Saudi-led coalition intercepts Houthi attacks after Hodeidah strike",
+    "India opens doors to prized missile test range for Japan for first time, hypersonics collaboration on cards",
+    "YouTuber Yash Maheshwari's remarks on married women's sindoor during Chhath spark outrage; Patna Police r",
+    "16-year-old dies after suspected heroin injection",
+    "'Everyone knows who is who': Yogi Adityanath on CM face for UP elections 2027 | India News",
+    "US Army is about to set off a toxic blast. Americans are in its path",
+    "\"Oil States Hijacked COP31\": Countries Blame Saudi For Failed Talks",
+    "Iran honour killing: Parents beat, strangle pregnant teenage daughter to death",
     "Israel’s Eisenkot secures first coalition partner in bid to form government",
-    "South Korea issues 'take shelter' warning after Russia aircraft fly near airspace",
-    "Nvidia's Jensen Huang says he is in therapy as comeback rally fades",
-    "Microsoft declares ‘Code Red’ after historic outage, internal memos show",
-    "Hyundai Motor India, Tata Motors Passenger Vehicles to raise prices from December 1",
-    "Asia’s stock markets dive as doubts to swirl over AI boom",
+    "Stock Market Close: Sensex surges 1,502 pts, Nifty ends at 25,819; Nifty FMCG rises 3.8%",
+    "Lakshmi Venu files suit for partition of Venu Srinivasan family assets",
+    "Kalyan Krishnamurthy To Exit Flipkart, Balaji Thiagarajan To Lead In Interim",
+    "Nasdaq falls 3% at the open as AI rout intensifies",
+    "Black Friday gaming PC deals: 21 vetted steals on RTX 50-series towers, Ryzen X3D CPUs and Corsair gear starting from just $26",
     "GTA 6 Draws 39 Million PS5 Players in Four Days, Sony's Biggest Launch in 30 Years",
-    "Motorola launches Edge 70 Neo for premium segment buyers in India",
-    "Motorola Signature 27 launches in Germany cheaper than expected",
-    "Unauthorized 'GTA 6' PC port shut down by Rockstar Games' parent company",
-    "Ramayana Worldwide Box Office Day 19: Needs Less Than 25 Crore To Become 4th Highest-Grossing Indian Film",
-    "Pakistani Netflix series starring Fawad Khan, Mahira Khan faces opposition in India, AICWA urges PM Modi",
-    "Puerto Rico's Jennifer Barreto Crowned Miss Universe 2026 Winner"
+    "PACE-NODES Trial: Early Safety of Prostate and Pelvic Nodal SBRT in High-Risk Prostate Cancer",
+    "AI helping cyber attackers find weaknesses faster than companies can fix them, warns Cisco chief",
+    "Two private screenings of Pakistani drama Dar-e-Nijaat cancelled in Bengaluru",
+    "Avengers: Doomsday Shatters All-Time Disney Record In Just 24 Hours",
+    "Ramayana Box Office: Just ₹27 Crore Away From ₹1,000 Crore India Net Club, Set to Become the Third-Fastest Indian Film to Do So"
   ],
   "quiz": [
     {
-      "blanked": "Nvidia's ______ Huang says he is in therapy as comeback rally fades",
-      "answer": "Jensen",
+      "blanked": "'Everyone knows who is who': Yogi ______ on CM face for UP elections 2027 | India News",
+      "answer": "Adityanath",
       "options": [
-        "Four",
-        "Tata",
-        "Universe",
-        "Jensen"
+        "Adityanath",
+        "Around",
+        "Japan",
+        "Tomorrow"
       ]
     },
     {
-      "blanked": "WHO chief says staff evacuated from DR ______ hospital",
-      "answer": "Congo",
+      "blanked": "Gukesh vs Sindarov ______ Updates from Chess World Championship Game 2",
+      "answer": "LIVE",
       "options": [
-        "Among",
-        "Netflix",
-        "Congo",
-        "Motors"
+        "Seeks",
+        "Akhileshs",
+        "Why",
+        "LIVE"
       ]
     },
     {
-      "blanked": "IIT ______ TB vaccine eyes human trials by mid-2027",
-      "answer": "Bhubaneswar-developed",
+      "blanked": "PACE-NODES Trial: Early ______ of Prostate and Pelvic Nodal SBRT in High-Risk Prostate Cancer",
+      "answer": "Safety",
       "options": [
-        "Evolution",
-        "Colleagues",
-        "Bhubaneswar-developed",
-        "Reprogramming"
+        "Darier",
+        "Safety",
+        "Thiagarajan",
+        "Chhath"
       ]
     },
     {
-      "blanked": "Australia’s security pact with Solomon ______ a blow to China’s influence in the Pacific",
-      "answer": "Islands",
+      "blanked": "Lakshmi ______ files suit for partition of Venu Srinivasan family assets",
+      "answer": "Venu",
       "options": [
-        "Korea",
-        "Test",
-        "Islands",
-        "Gukesh"
+        "News",
+        "Delhi",
+        "Venu",
+        "Updates"
       ]
     },
     {
-      "blanked": "Ramayana Worldwide Box ______ Day 19: Needs Less Than 25 Crore To Become 4th Highest-Grossing Indian Film",
-      "answer": "Office",
+      "blanked": "Pollution alters brain immune genes, raises dementia risk: Study | Tap to know more | ______",
+      "answer": "Inshorts",
       "options": [
-        "Pollution",
-        "Miss",
-        "Office",
-        "Punjab"
+        "Stopped",
+        "Inshorts",
+        "Badminton",
+        "Eisenkot"
       ]
     },
     {
-      "blanked": "Motorola Signature 27 launches in ______ cheaper than expected",
-      "answer": "Germany",
+      "blanked": "Why Stokes can enter the IPL ______ auction but Brook can't",
+      "answer": "2027",
       "options": [
-        "Pollution",
-        "Reaches",
-        "Germany",
-        "Modi"
+        "World",
+        "2027",
+        "Sindarov",
+        "Thiagarajan"
       ]
     },
     {
-      "blanked": "Unauthorized 'GTA 6' PC port shut down by Rockstar ______ parent company",
-      "answer": "Games",
+      "blanked": "Iran honour killing: ______ beat, strangle pregnant teenage daughter to death",
+      "answer": "Parents",
       "options": [
-        "Khan",
-        "Games",
-        "100",
-        "Indians"
+        "Parents",
+        "Stopped",
+        "Maheshwaris",
+        "Blame"
       ]
     },
     {
-      "blanked": "November's full moon rises tonight! Here's how to see the ______ Moon supermoon",
-      "answer": "Beaver",
+      "blanked": "How to watch 'Blade Runner ______ online — stream the sci-fi sequel series from anywhere",
+      "answer": "2099",
       "options": [
-        "December",
-        "Beaver",
-        "India-Nepal",
-        "Universe"
+        "2099",
+        "Gender",
+        "Yogi",
+        "High-Risk"
       ]
     },
     {
-      "blanked": "Microsoft declares ______ Red’ after historic outage, internal memos show",
-      "answer": "Code",
+      "blanked": "New-Look Badminton for ______ Major Championships",
+      "answer": "BWF",
       "options": [
-        "Code",
-        "Eisenkot",
-        "Include",
-        "Cafe"
+        "BWF",
+        "Despite",
+        "Dimorphos",
+        "Close"
       ]
     },
     {
-      "blanked": "Puerto Rico's Jennifer ______ Crowned Miss Universe 2026 Winner",
-      "answer": "Barreto",
+      "blanked": "US ______ is about to set off a toxic blast. Americans are in its path",
+      "answer": "Army",
       "options": [
-        "Barreto",
-        "Houthi",
-        "Chinese",
-        "Film"
+        "Promise",
+        "Inshorts",
+        "Bengaluru",
+        "Army"
       ]
     },
     {
-      "blanked": "Hyundai Motor India, Tata Motors ______ Vehicles to raise prices from December 1",
-      "answer": "Passenger",
+      "blanked": "Stock Market Close: Sensex surges 1,502 pts, Nifty ends at 25,819; ______ FMCG rises 3.8%",
+      "answer": "Nifty",
       "options": [
-        "Passenger",
-        "Gukesh",
-        "Jennifer",
-        "Chinas"
+        "Supermoon",
+        "Court",
+        "Nifty",
+        "Friday"
       ]
     },
     {
-      "blanked": "Ben ______ registers for IPL 2027 auction, 12 Bangladesh players also listed",
-      "answer": "Stokes",
+      "blanked": "Watch live: Europe unveils 1st close-up views of asteroid ______ after NASA's DART impact",
+      "answer": "Dimorphos",
       "options": [
-        "Film",
-        "Collection",
-        "Stokes",
-        "Huang"
+        "Dar-e-Nijaat",
+        "Set",
+        "Dimorphos",
+        "Blade"
       ]
     }
   ]
