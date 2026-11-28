@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-11-27T19:34:49.226Z",
+  "generatedAt": "2026-11-28T02:10:08.833Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
     "NCP-SP announces support to delimitation, Congress calls it ‘unfortunate’",
     "Thiruparankundram Row | Supreme Court Orders Lamp Lighting At Deepathoon Tomorrow; Issues Contempt Notice ...",
-    "EXCLUSIVE: Global fashion brands shift orders from Bangladesh to India amid unrest",
     "Kallakurichi TVK MLA Arul Vignesh arrested on charges of harassing IAS officer",
-    "Calcutta High Court Quashes Ritabrata Banerjee's Appointment As Leader Of Opposition In West Bengal...",
-    "US targeting India's manufacturing schemes while protecting its own industry through tariffs: GTRI",
+    "DMK sets conditions to support Delimitation Bill",
+    "Trump tariffs a ‘bait’ to secure one-sided trade deals, experts say",
+    "Andalusia offers a glimpse into Spain’s future as far right gains ground",
     "'Mischievous PM-HM jodi is lying': Special session aimed at delimitation, not women's quota, says Congress",
+    "South's share won't shrink: Naidu urges Opposition to back 50% Lok Sabha seat hike",
     "EU Trade Deal: 3 textile stocks to watch. One’s profit jumped 92% and its P/E is 15.03",
-    "Fake Indian identities, deepfakes and communal fault lines: Pakistan ups targeting India online",
-    "Chandrababu Naidu rushes to Delhi to meet NDA leaders",
+    "'Mann ka na ho toh jyada acha hai': Piyush Goyal quotes poet Harivansh Bachchan on tariff chaos, India-US",
+    "Bangladesh labour unrest: Zara, H&M among brands shifting orders to India, other Asian hubs",
+    "Israel's Gadi Eisenkot reaches deal with left-wing parties",
+    "Trump backs Iraqi PM’s oil smuggling crackdown",
     "Ukraine's Strike in Benghazi Threatens the Deal That Keeps Libya at Peace",
-    "Two Italians killed in attack on Kuwait site, Iran denies involvement",
-    "Trump says Putin can come to G20 if he wants",
-    "Bangladesh considers moving ICJ for Sheikh Hasina's extradition from India: Report | World News",
-    "No relief for Tata Trusts as Bombay High Court refuses to halt Tata Sons' November 30 board meeting",
-    "Gold rises 2.2%, silver jumps 5.4% on MCX: What's driving the rally",
-    "India's forex reserves fall $4.44 billion to $700.90 billion as gold holdings decline",
-    "Stock Market Highlights, Nov 27: Sensex tumbles 989 points, Nifty slips below 25,650 as IT stocks, HDFC Bank drag",
-    "Get Ready for GTA 6 on PC With These Black Friday Monitor Deals From Just $75",
+    "High Court Rejects Tata Trusts Plea To Stall Crucial Tata Sons Board Meeting",
+    "OPEC Faces Growing Pressure As Iraq Pushes for Higher Quota",
+    "US Advance Economic Indicators Report - October 2026",
+    "AI chip curbs, Musk’s giveaway and oil risks - what’s moving markets",
+    "Today’s NYT Wordle Hints, Answer and Help for Saturday, Nov. 28, #1988",
     "Reliance Digitals Black Friday Sale: Enjoy Up to 50% Off on Smartphones, Laptops, TVs, Home Appliances and More",
-    "ChatGPT users hit limits up to 40% sooner after OpenAI billing fix",
+    "Radiomics Shows Promise in Distinguishing Bone Tumours",
     "GTA VI generates $3.79 bn, becomes biggest entertainment launch ever",
-    "Yeh Prem Mol Liya Opens to Encouraging Reviews as Sooraj Barjatya's Family Drama Eyes a Decent Opening Day at the Box Office",
-    "‘Gunmaaster G9’ movie review: Emraan Hashmi’s pulpier action-hero turn hits more than it loses",
-    "King song Daddy Cool: Shah Rukh Khan and Kareena Kapoor reunite for a peppy dance track, share sizzling chemistry | Bollywood"
+    "'King' song 'Daddy Cool' out now: Shah Rukh Khan and Kareena Kapoor Khan reunite after 'Ra.One'; SRK says",
+    "Yeh Prem Mol Liya box office collection day 1: Ayushmann Khurrana, Sharvari's film starts slow, fails to beat Udta Teer, Pati Patni Aur Woh Do opening | Bollywood",
+    "‘Gunmaaster G9’ movie review: Emraan Hashmi’s pulpier action-hero turn hits more than it loses"
   ],
   "quiz": [
     {
-      "blanked": "Gold rises 2.2%, silver jumps ______ on MCX: What's driving the rally",
-      "answer": "5.4%",
+      "blanked": "What Astronauts Ate This Thanksgiving On The ______ Space Station",
+      "answer": "International",
       "options": [
-        "Iran",
-        "Station",
-        "Just",
-        "5.4%"
-      ]
-    },
-    {
-      "blanked": "Reliance Digitals Black Friday Sale: Enjoy Up to 50% ______ on Smartphones, Laptops, TVs, Home Appliances and More",
-      "answer": "Off",
-      "options": [
-        "Week",
-        "Off",
-        "Sensex",
-        "Indians"
-      ]
-    },
-    {
-      "blanked": "Optically timing-engineered microcombs for dual-microcomb metrology | ______",
-      "answer": "Newswise",
-      "options": [
-        "Lighting",
-        "50%",
-        "Newswise",
-        "Kapoor"
-      ]
-    },
-    {
-      "blanked": "India's forex reserves fall $4.44 billion to ______ billion as gold holdings decline",
-      "answer": "700.90",
-      "options": [
-        "Uncovers",
-        "700.90",
-        "Cairns",
-        "Tata"
-      ]
-    },
-    {
-      "blanked": "ChatGPT users hit limits up to ______ sooner after OpenAI billing fix",
-      "answer": "40%",
-      "options": [
-        "40%",
-        "Linked",
-        "Sooraj",
-        "Watch"
-      ]
-    },
-    {
-      "blanked": "Bangladesh considers moving ______ for Sheikh Hasina's extradition from India: Report | World News",
-      "answer": "ICJ",
-      "options": [
-        "ICJ",
-        "Appliances",
-        "Watch",
-        "Special"
-      ]
-    },
-    {
-      "blanked": "'Mischievous PM-HM jodi is lying': Special session aimed at delimitation, not women's quota, says ______",
-      "answer": "Congress",
-      "options": [
-        "Bollywood",
-        "NDA",
-        "Congress",
-        "TVs"
-      ]
-    },
-    {
-      "blanked": "Fake ______ identities, deepfakes and communal fault lines: Pakistan ups targeting India online",
-      "answer": "Indian",
-      "options": [
-        "GTA",
-        "Sooraj",
-        "Indian",
-        "Chris"
+        "International",
+        "Ate",
+        "PM-HM",
+        "Harivansh"
       ]
     },
     {
       "blanked": "‘Gunmaaster G9’ movie review: ______ Hashmi’s pulpier action-hero turn hits more than it loses",
       "answer": "Emraan",
       "options": [
-        "Hashmis",
+        "PMs",
         "Emraan",
-        "Lamp",
-        "40%"
+        "Gavaskar",
+        "IAS"
       ]
     },
     {
-      "blanked": "Ramayana Box Office Collection ______ 22: Registers 4th-Biggest Third Week Of All Time In India!",
-      "answer": "Day",
+      "blanked": "'King' song ______ Cool' out now: Shah Rukh Khan and Kareena Kapoor Khan reunite after 'Ra.One'; SRK says",
+      "answer": "Daddy",
+      "options": [
+        "Daddy",
+        "Patni",
+        "Hidden",
+        "Thanksgiving"
+      ]
+    },
+    {
+      "blanked": "Kallakurichi TVK ______ Arul Vignesh arrested on charges of harassing IAS officer",
+      "answer": "MLA",
+      "options": [
+        "MLA",
+        "Special",
+        "Home",
+        "Hidden"
+      ]
+    },
+    {
+      "blanked": "'Mischievous PM-HM jodi is lying': ______ session aimed at delimitation, not women's quota, says Congress",
+      "answer": "Special",
+      "options": [
+        "Space",
+        "Kapoor",
+        "Risk",
+        "Special"
+      ]
+    },
+    {
+      "blanked": "'Mann ka na ho toh jyada acha hai': Piyush Goyal quotes poet Harivansh Bachchan on tariff chaos, ______",
+      "answer": "India-US",
+      "options": [
+        "Harivansh",
+        "Answer",
+        "India-US",
+        "Vignesh"
+      ]
+    },
+    {
+      "blanked": "Live Cricket ______ Schedule, Latest News, Stats & Videos",
+      "answer": "Score",
+      "options": [
+        "Score",
+        "Hints",
+        "Sunil",
+        "Supreme"
+      ]
+    },
+    {
+      "blanked": "AI chip curbs, ______ giveaway and oil risks - what’s moving markets",
+      "answer": "Musks",
+      "options": [
+        "Uncovers",
+        "Musks",
+        "Bill",
+        "News"
+      ]
+    },
+    {
+      "blanked": "Yeh Prem Mol Liya box office collection day 1: Ayushmann Khurrana, ______ film starts slow, fails to beat Udta Teer, Pati Patni Aur Woh Do opening | Bollywood",
+      "answer": "Sharvaris",
+      "options": [
+        "Rukh",
+        "Sharvaris",
+        "Bill",
+        "Bachchan"
+      ]
+    },
+    {
+      "blanked": "NCP-SP announces support to delimitation, ______ calls it ‘unfortunate’",
+      "answer": "Congress",
       "options": [
         "Congress",
-        "Market",
-        "5.4%",
-        "Day"
+        "Experts",
+        "Delimitation",
+        "Hashmis"
       ]
     },
     {
-      "blanked": "Kallakurichi TVK MLA Arul ______ arrested on charges of harassing IAS officer",
-      "answer": "Vignesh",
+      "blanked": "Today’s NYT ______ Hints, Answer and Help for Saturday, Nov. 28, #1988",
+      "answer": "Wordle",
       "options": [
-        "Vignesh",
-        "Kapoor",
-        "Emraan",
-        "Sheikh"
+        "International",
+        "Jadeja",
+        "Libya",
+        "Wordle"
       ]
     },
     {
-      "blanked": "Rohit ______ to lead Mumbai Indians again in IPL 2027",
-      "answer": "Sharma",
+      "blanked": "Andalusia offers a glimpse into ______ future as far right gains ground",
+      "answer": "Spains",
       "options": [
-        "Watch",
-        "West",
-        "Extubation",
-        "Sharma"
+        "Supreme",
+        "Spains",
+        "1988",
+        "Goyal"
       ]
     }
   ]
