@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-11-28T02:10:08.833Z",
+  "generatedAt": "2026-11-28T10:20:12.398Z",
   "source": "Google News (India edition)",
   "headlineCount": 38,
   "headlines": [
-    "NCP-SP announces support to delimitation, Congress calls it ‘unfortunate’",
-    "Thiruparankundram Row | Supreme Court Orders Lamp Lighting At Deepathoon Tomorrow; Issues Contempt Notice ...",
-    "Kallakurichi TVK MLA Arul Vignesh arrested on charges of harassing IAS officer",
-    "DMK sets conditions to support Delimitation Bill",
-    "Trump tariffs a ‘bait’ to secure one-sided trade deals, experts say",
-    "Andalusia offers a glimpse into Spain’s future as far right gains ground",
+    "Thirupparankundram row: 'Deepathoon' lamp lighting likely at 5:00 p.m.; SC-appointed receivers climb hill",
+    "Delimitation Bill LIVE: INDIA bloc meets ahead of special Parliament session; DMK announces support for Centre's proposal",
+    "India's bottled-water crackdown widens as new Bisleri sample found with bacteria",
+    "U.S. announces new 25% tariffs on India, second-highest in the 14 countries against which action has been taken",
+    "Congress reaches out to DMK, other Opposition parties to stall passage of delimitation Bill",
+    "Tamil Nadu may witness extended rainfall activity with fresh weather system in early December",
     "'Mischievous PM-HM jodi is lying': Special session aimed at delimitation, not women's quota, says Congress",
-    "South's share won't shrink: Naidu urges Opposition to back 50% Lok Sabha seat hike",
-    "EU Trade Deal: 3 textile stocks to watch. One’s profit jumped 92% and its P/E is 15.03",
-    "'Mann ka na ho toh jyada acha hai': Piyush Goyal quotes poet Harivansh Bachchan on tariff chaos, India-US",
-    "Bangladesh labour unrest: Zara, H&M among brands shifting orders to India, other Asian hubs",
-    "Israel's Gadi Eisenkot reaches deal with left-wing parties",
-    "Trump backs Iraqi PM’s oil smuggling crackdown",
-    "Ukraine's Strike in Benghazi Threatens the Deal That Keeps Libya at Peace",
+    "Terror Plot Foiled In Delhi-NCR: Suspected JeM Operative Arrested, Probe Points To ISI Links",
+    "India-US trade agreement nearing completion: Indian commerce minister",
+    "NCP-SP announces support to delimitation, Congress calls it ‘unfortunate’",
+    "At least six students killed in blast beside school in Afghanistan’s Kunar",
+    "Indian Man Shot In Peru Highway Ambush As Masked Gunmen Fire 30+ Rounds, Steal Gold Jewellery",
+    "Italy bans burqas, niqabs in schools; caps foreign students at 30% in classrooms",
+    "Russia-Ukraine War Highlights: Zelenskyy urges US pressure on Putin, questions Trump’s ‘my friend’ remark",
     "High Court Rejects Tata Trusts Plea To Stall Crucial Tata Sons Board Meeting",
-    "OPEC Faces Growing Pressure As Iraq Pushes for Higher Quota",
-    "US Advance Economic Indicators Report - October 2026",
-    "AI chip curbs, Musk’s giveaway and oil risks - what’s moving markets",
-    "Today’s NYT Wordle Hints, Answer and Help for Saturday, Nov. 28, #1988",
+    "OpenAI countersues Apple over trade secrets as AI race heats up",
+    "Inflation: How rising food prices are squeezing Indian households",
+    "Adani Group eyes airline investments months after ruling out airline entry",
+    "Today’s Wordle #1988 Hints, Clues And Answer For Saturday, November 28",
+    "Merci, Paris: my Wikimania 2026",
+    "iPhone security alert: Telegram founder Pavel Durov warns outdated iOS could expose user data",
     "Reliance Digitals Black Friday Sale: Enjoy Up to 50% Off on Smartphones, Laptops, TVs, Home Appliances and More",
-    "Radiomics Shows Promise in Distinguishing Bone Tumours",
-    "GTA VI generates $3.79 bn, becomes biggest entertainment launch ever",
-    "'King' song 'Daddy Cool' out now: Shah Rukh Khan and Kareena Kapoor Khan reunite after 'Ra.One'; SRK says",
-    "Yeh Prem Mol Liya box office collection day 1: Ayushmann Khurrana, Sharvari's film starts slow, fails to beat Udta Teer, Pati Patni Aur Woh Do opening | Bollywood",
-    "‘Gunmaaster G9’ movie review: Emraan Hashmi’s pulpier action-hero turn hits more than it loses"
+    "Denis Villeneuve is ‘deeply disappointed’ about Avengers Doomsday clashing with his Dune Part Three, compares Marvel film to T Rex | Hollywood",
+    "'Friendship started very organically': Yami Gautam reveals how her love story with Aditya Dhar began; rec",
+    "Shah Rukh Khan says starring with much younger actresses made him want to embrace his age in King, now wants to be a cool 61-year-old hero | Bollywood"
   ],
   "quiz": [
     {
-      "blanked": "What Astronauts Ate This Thanksgiving On The ______ Space Station",
-      "answer": "International",
+      "blanked": "Denis Villeneuve is ‘deeply disappointed’ about Avengers Doomsday clashing with his Dune Part Three, compares ______ film to T Rex | Hollywood",
+      "answer": "Marvel",
       "options": [
-        "International",
-        "Ate",
-        "PM-HM",
-        "Harivansh"
-      ]
-    },
-    {
-      "blanked": "‘Gunmaaster G9’ movie review: ______ Hashmi’s pulpier action-hero turn hits more than it loses",
-      "answer": "Emraan",
-      "options": [
-        "PMs",
-        "Emraan",
-        "Gavaskar",
-        "IAS"
-      ]
-    },
-    {
-      "blanked": "'King' song ______ Cool' out now: Shah Rukh Khan and Kareena Kapoor Khan reunite after 'Ra.One'; SRK says",
-      "answer": "Daddy",
-      "options": [
-        "Daddy",
-        "Patni",
-        "Hidden",
-        "Thanksgiving"
-      ]
-    },
-    {
-      "blanked": "Kallakurichi TVK ______ Arul Vignesh arrested on charges of harassing IAS officer",
-      "answer": "MLA",
-      "options": [
-        "MLA",
-        "Special",
-        "Home",
-        "Hidden"
-      ]
-    },
-    {
-      "blanked": "'Mischievous PM-HM jodi is lying': ______ session aimed at delimitation, not women's quota, says Congress",
-      "answer": "Special",
-      "options": [
+        "Marvel",
         "Space",
-        "Kapoor",
-        "Risk",
-        "Special"
+        "King",
+        "DMK"
       ]
     },
     {
-      "blanked": "'Mann ka na ho toh jyada acha hai': Piyush Goyal quotes poet Harivansh Bachchan on tariff chaos, ______",
-      "answer": "India-US",
+      "blanked": "Russia-Ukraine War Highlights: Zelenskyy urges US pressure on ______ questions Trump’s ‘my friend’ remark",
+      "answer": "Putin",
       "options": [
-        "Harivansh",
-        "Answer",
-        "India-US",
-        "Vignesh"
-      ]
-    },
-    {
-      "blanked": "Live Cricket ______ Schedule, Latest News, Stats & Videos",
-      "answer": "Score",
-      "options": [
-        "Score",
-        "Hints",
-        "Sunil",
-        "Supreme"
-      ]
-    },
-    {
-      "blanked": "AI chip curbs, ______ giveaway and oil risks - what’s moving markets",
-      "answer": "Musks",
-      "options": [
-        "Uncovers",
-        "Musks",
-        "Bill",
-        "News"
-      ]
-    },
-    {
-      "blanked": "Yeh Prem Mol Liya box office collection day 1: Ayushmann Khurrana, ______ film starts slow, fails to beat Udta Teer, Pati Patni Aur Woh Do opening | Bollywood",
-      "answer": "Sharvaris",
-      "options": [
-        "Rukh",
-        "Sharvaris",
-        "Bill",
-        "Bachchan"
-      ]
-    },
-    {
-      "blanked": "NCP-SP announces support to delimitation, ______ calls it ‘unfortunate’",
-      "answer": "Congress",
-      "options": [
-        "Congress",
-        "Experts",
-        "Delimitation",
-        "Hashmis"
-      ]
-    },
-    {
-      "blanked": "Today’s NYT ______ Hints, Answer and Help for Saturday, Nov. 28, #1988",
-      "answer": "Wordle",
-      "options": [
-        "International",
-        "Jadeja",
-        "Libya",
+        "Best",
+        "Putin",
+        "March",
         "Wordle"
       ]
     },
     {
-      "blanked": "Andalusia offers a glimpse into ______ future as far right gains ground",
-      "answer": "Spains",
+      "blanked": "Determinants of ______ Rates on P2P Lending Platforms in India",
+      "answer": "Interest",
       "options": [
-        "Supreme",
-        "Spains",
-        "1988",
-        "Goyal"
+        "Durov",
+        "Putin",
+        "Paris",
+        "Interest"
+      ]
+    },
+    {
+      "blanked": "Congress reaches out to DMK, other Opposition parties to stall passage of delimitation ______",
+      "answer": "Bill",
+      "options": [
+        "Rukh",
+        "Zelenskyy",
+        "Stuffed",
+        "Bill"
+      ]
+    },
+    {
+      "blanked": "Today’s ______ #1988 Hints, Clues And Answer For Saturday, November 28",
+      "answer": "Wordle",
+      "options": [
+        "Wordle",
+        "Mornings",
+        "Laptops",
+        "Earths"
+      ]
+    },
+    {
+      "blanked": "India's bottled-water crackdown widens as new ______ sample found with bacteria",
+      "answer": "Bisleri",
+      "options": [
+        "Bisleri",
+        "Antarctica",
+        "Rocchiccioli",
+        "Masked"
+      ]
+    },
+    {
+      "blanked": "Merci, ______ my Wikimania 2026",
+      "answer": "Paris",
+      "options": [
+        "Antarctica",
+        "Atopic",
+        "Paris",
+        "Board"
+      ]
+    },
+    {
+      "blanked": "U.S. announces new 25% tariffs on ______ second-highest in the 14 countries against which action has been taken",
+      "answer": "India",
+      "options": [
+        "Highway",
+        "Lending",
+        "Pavel",
+        "India"
+      ]
+    },
+    {
+      "blanked": "1.5-Million-Year-Old ______ In Antarctica Could Unlock Earth's Climate Past",
+      "answer": "Ice",
+      "options": [
+        "Unlock",
+        "Office",
+        "Ice",
+        "Rhythm"
+      ]
+    },
+    {
+      "blanked": "High Court Rejects Tata Trusts Plea To Stall ______ Tata Sons Board Meeting",
+      "answer": "Crucial",
+      "options": [
+        "Ice",
+        "Crucial",
+        "Wikimania",
+        "DMK"
+      ]
+    },
+    {
+      "blanked": "Columbus eliminates Miami, Messi from ______ playoffs with stoppage-time winner",
+      "answer": "MLS",
+      "options": [
+        "Man",
+        "MLS",
+        "Plea",
+        "Extend"
+      ]
+    },
+    {
+      "blanked": "Type 2 ______ Diseases Extend Beyond the Atopic March",
+      "answer": "Inflammatory",
+      "options": [
+        "Heres",
+        "Telegram",
+        "Astronaut",
+        "Inflammatory"
       ]
     }
   ]
